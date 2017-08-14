@@ -193,6 +193,11 @@
         <mark key="]" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
+      <file name="/home/www/html/dv/adera/www/js/invoicing.init.js" timestamp="1502716867478">
+        <mark key="[" line="22" column="30" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/ConstraintViolationsMapper.php" timestamp="1501669501202">
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
@@ -1484,8 +1489,8 @@
         <mark key="]" line="62" column="8" />
         <mark key="." line="62" column="8" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/client-side.neon" timestamp="1502285992518">
-        <mark key="[" line="32" column="0" />
+      <file name="/home/www/html/dv/adera/app/config/client-side.neon" timestamp="1502717067489">
+        <mark key="[" line="112" column="47" />
         <mark key="]" line="34" column="21" />
         <mark key="." line="34" column="21" />
         <mark key="^" line="34" column="21" />
@@ -4823,8 +4828,8 @@
       <jump line="672" column="33" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Z2V0X2NhbGxlZF9jbGFzcygpICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Z2V0X2NhbGxlZF9jbGFzcygpICA=</text>
@@ -4835,32 +4840,32 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Ly8gVE9ETzogYmV0dGVyIGNhcHR1cmUgb2YgRW50aXR5Rm9ybU1hcHBlciA6KQoJCSRmb3JtTWFwcGVyID0gJHRoaXMtPmdldEZvcm0oKS0+Z2V0UHJlc2VudGVyKCktPmdldENvbnRleHQoKQoJCQktPmdldEJ5VHlwZShFbnRpdHlGb3JtTWFwcGVyOjpjbGFzcyk7</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJMQo=</text>
+        <text encoding="base64">CQkJdmFyIGlucHV0ID0gJCgnW2RhdGEtcHJvdmlkZT0iYmFuay1jb25uZWN0aW9uIl0nLCAkY29udGV4dCB8fCBkb2N1bWVudCk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCS8vLT5zZXRWYWx1ZSgxKQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">Ly8gVE9ETzogYmV0dGVyIGNhcHR1cmUgb2YgRW50aXR5Rm9ybU1hcHBlciA6KQoJCSRmb3JtTWFwcGVyID0gJHRoaXMtPmdldEZvcm0oKS0+Z2V0UHJlc2VudGVyKCktPmdldENvbnRleHQoKQoJCQktPmdldEJ5VHlwZShFbnRpdHlGb3JtTWFwcGVyOjpjbGFzcyk7</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSBFbnRpdHlGb3JtTWFwcGVyICRlbnRpdHlGb3JtTWFwcGVyCg==</text>
+        <text encoding="base64">CQkJMQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJJG5ld0NvbnRhaW5lciA9ICRyZXBsaWNhdG9yLT5jcmVhdGVPbmUoKTsK</text>
+        <text encoding="base64">CQkJCS8vLT5zZXRWYWx1ZSgxKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">JGZvcm1NYXBwZXIgPSAkYnV0dG9uLT5nZXRGb3JtKCktPmdldFByZXNlbnRlcigpLT5nZXRDb250ZXh0KCkKCQkJCQkJCS0+Z2V0QnlUeXBlKEVudGl0eUZvcm1NYXBwZXI6OmNsYXNzKTs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">CSAqIEBwYXJhbSBFbnRpdHlGb3JtTWFwcGVyICRlbnRpdHlGb3JtTWFwcGVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJZGRpZiAoJHVzZU1hcHBlcikgewo=</text>
+        <text encoding="base64">CQkJCQkJJG5ld0NvbnRhaW5lciA9ICRyZXBsaWNhdG9yLT5jcmVhdGVPbmUoKTsK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">aWYgKCR1c2VNYXBwZXIpIHsKCQkJJGZvcm1NYXBwZXIgPSAkdGhpcy0+Z2V0Rm9ybSgpLT5nZXRQcmVzZW50ZXIoKS0+Z2V0Q29udGV4dCgpLT5nZXRCeVR5cGUoRW50aXR5Rm9ybU1hcHBlcjo6Y2xhc3MpOwoJCQkkZm9ybU1hcHBlci0+bG9hZChuZXcgXEludm9pY2luZ1xJbnZvaWNlSXRlbSgpLCApOwoJCX0=</text>
+        <text encoding="base64">JGZvcm1NYXBwZXIgPSAkYnV0dG9uLT5nZXRGb3JtKCktPmdldFByZXNlbnRlcigpLT5nZXRDb250ZXh0KCkKCQkJCQkJCS0+Z2V0QnlUeXBlKEVudGl0eUZvcm1NYXBwZXI6OmNsYXNzKTs=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJZHVtcChuZXcgXEludm9pY2luZ1xJbnZvaWNlSXRlbSgpKTsK</text>
+        <text encoding="base64">CQkJCQkJZGRpZiAoJHVzZU1hcHBlcikgewo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/mapperLoad/mapperLoadContainer/g</text>
