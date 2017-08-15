@@ -193,10 +193,10 @@
         <mark key="]" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/www/js/invoicing.init.js" timestamp="1502783284943">
-        <mark key="[" line="48" column="28" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="/home/www/html/dv/adera/www/js/invoicing.init.js" timestamp="1502788397115">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/ConstraintViolationsMapper.php" timestamp="1501669501202">
         <mark key="[" line="98" column="0" />
@@ -2444,10 +2444,10 @@
         <mark key="]" line="60" column="8" />
         <mark key="." line="60" column="8" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Invoice.php" timestamp="1502100568222">
-        <mark key="[" line="125" column="99" />
-        <mark key="]" line="125" column="88" />
-        <mark key="." line="125" column="88" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Invoice.php" timestamp="1502785171474">
+        <mark key="[" line="125" column="35" />
+        <mark key="]" line="125" column="35" />
+        <mark key="." line="125" column="35" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Model/Orm/States/StatesRepository.php" timestamp="1502108886667">
         <mark key="[" line="12" column="0" />
@@ -2596,11 +2596,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.latte" timestamp="1502783257391">
-        <mark key="[" line="229" column="54" />
-        <mark key="]" line="176" column="57" />
-        <mark key="." line="176" column="57" />
-        <mark key="^" line="176" column="63" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.latte" timestamp="1502788557110">
+        <mark key="[" line="255" column="100" />
+        <mark key="]" line="271" column="61" />
+        <mark key="." line="271" column="61" />
+        <mark key="^" line="271" column="61" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/AddressBook/Validators/UniqueDefault.php" timestamp="1500460782321">
         <mark key="[" line="21" column="37" />
@@ -3067,10 +3067,10 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/locale/invoicing-forms.cs_CZ.neon" timestamp="1501675456257">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="74" column="22" />
-        <mark key="." line="74" column="22" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/locale/invoicing-forms.cs_CZ.neon" timestamp="1502784791131">
+        <mark key="[" line="56" column="22" />
+        <mark key="]" line="78" column="22" />
+        <mark key="." line="78" column="22" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/tabs/bower.json" timestamp="1487338651123">
         <mark key="[" line="8" column="45" />
@@ -3242,10 +3242,10 @@
         <mark key="]" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" timestamp="1502781931896">
-        <mark key="[" line="212" column="8" />
-        <mark key="]" line="214" column="0" />
-        <mark key="." line="214" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" timestamp="1502784612521">
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/Model/File.php" timestamp="1493983525202">
         <mark key="[" line="20" column="26" />
@@ -4722,10 +4722,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCXZhciB2YXQgPSAkKGVsKS5maW5kKCdpbnB1dFtpZCQ9Ii1wcmljZSJdJyk7Cg==</text>
+        <text encoding="base64">CQkJCXN1YnRvdGFsID0gc3VidG90YWwgKyBpdGVtUHJpY2U7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>$.proxy(f</text>
+        <text>var itemPrice = quantity * price;</text>
       </register>
       <register name="/" type="4">
         <text>Množství</text>
@@ -4734,33 +4734,38 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCXZhciB2YXQgPSAkKGVsKS5maW5kKCdpbnB1dFtpZCQ9Ii1wcmljZSJdJyk7Cg==</text>
+        <text encoding="base64">CQkJCXN1YnRvdGFsID0gc3VidG90YWwgKyBpdGVtUHJpY2U7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CXZhciBxdWFudGl0eSA9IHBhcnNlSW50KHF1YW50aXR5RWwudmFsKCkpOwoJCQkJdmFyIHByaWNlID0gcGFyc2VJbnQocHJpY2VFbC52YWwoKSk7</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCXZhciBwcmljZSA9ICQoZWwpLmZpbmQoJ2lucHV0W2lkJD0iLXByaWNlIl0nKTsK</text>
+        <text encoding="base64">CQkJCW5ldyBQcm9taXNlKChyZXNvbHZlKSA9PiBzZXRUaW1lb3V0KHJlc29sdmUsIDIwMDAwKSk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCXZhciBxdWFudGl0eSA9ICQoZWwpLmZpbmQoJ2lucHV0W2lkJD0iLXF1YW50aXR5Il0nKTsK</text>
+      <register name="4" type="4">
+        <text>$container.find('tr').each(function (i, el) {
+				$(el).find('[data-provide=&quot;invoicing-invoice-items-item-price&quot;]').hide('slow');
+			});</text>
       </register>
-      <register name="5" type="4">
-        <text>$.proxy(function () {
-					console.log(this.count(items));
-				}, this)</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCXN1YnRvdGFsID0gc3VidG90YWwgKyBpdGVtUHJpY2U7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCXZhciB2YXQgPSAkKGVsKS5maW5kKCdpbnB1dFtpZCQ9Ii1wcmljZSJdJyk7Cg==</text>
+      <register name="6" type="4">
+        <text>var quantity = parseInt($(el).find('input[id$=&quot;-quantity&quot;]').val());
+				var price = parseInt($(el).find('input[id$=&quot;-price&quot;]').val());
+
+				var itemPrice = quantity * price;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCQoZWwpLmZpbmQoJ2lucHV0W2lkJD0iLXF1YW50aXR5Il0nKS52YWwoKSk7Cg==</text>
+        <text encoding="base64">CQkJdmFyICRpdGVtcyA9ICRjb250YWluZXIuZmluZCgndHInKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCQoZWwpKTsK</text>
+      <register name="8" type="4">
+        <text>var $subtotalEl = $('#' + $container.data('subtotal-id'));
+			var $discountEl = $('#' + $container.data('discount-id'));
+			var $priceEl = $('#' + $container.data('price-id'));</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCQoZWwpLmZpbmQoJ2lucHV0W2lkJD0iLXF1YW50aXR5Il0nKS52YWwoKSk7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">PGlucHV0IHR5cGU9InRleHQiIGNsYXNzPSJmb3JtLWNvbnRyb2wgcHVsbC1yaWdodCIgaWQ9Imludm9pY2VfZGlzY291bnQiCgkJCQkJCQkJCSAgICAgICBuYW1lPSJpbnZvaWNlX2Rpc2NvdW50IiBwbGFjZWhvbGRlcj0iJSI+</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
