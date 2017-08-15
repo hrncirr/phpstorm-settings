@@ -193,10 +193,10 @@
         <mark key="]" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/www/js/invoicing.init.js" timestamp="1502788940556">
-        <mark key="[" line="72" column="53" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+      <file name="/home/www/html/dv/adera/www/js/invoicing.init.js" timestamp="1502791589922">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="16" />
+        <mark key="." line="28" column="16" />
       </file>
       <file name="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/ConstraintViolationsMapper.php" timestamp="1501669501202">
         <mark key="[" line="98" column="0" />
@@ -4721,11 +4721,13 @@
       <jump line="678" column="23" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCXN1YnRvdGFsID0gc3VidG90YWwgKyBpdGVtUHJpY2U7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>var inFnc = $.proxy(function () {
+					this.count($container);
+				}, this);</text>
       </register>
       <register name="-" type="4">
-        <text>var itemPrice = quantity * price;</text>
+        <text>var price = 0;</text>
       </register>
       <register name="/" type="4">
         <text>Množství</text>
@@ -4733,39 +4735,34 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCXN1YnRvdGFsID0gc3VidG90YWwgKyBpdGVtUHJpY2U7Cg==</text>
+      <register name="1" type="4">
+        <text>var inFnc = $.proxy(function () {
+					this.count($container);
+				}, this);</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CXZhciBxdWFudGl0eSA9IHBhcnNlSW50KHF1YW50aXR5RWwudmFsKCkpOwoJCQkJdmFyIHByaWNlID0gcGFyc2VJbnQocHJpY2VFbC52YWwoKSk7</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhlLnRhcmdldC52YWx1ZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCW5ldyBQcm9taXNlKChyZXNvbHZlKSA9PiBzZXRUaW1lb3V0KHJlc29sdmUsIDIwMDAwKSk7Cg==</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKGRpc2NvdW50KTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>$container.find('tr').each(function (i, el) {
-				$(el).find('[data-provide=&quot;invoicing-invoice-items-item-price&quot;]').hide('slow');
-			});</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJcHJpY2UgPSBzdWJ0b3RhbCAtICgoZGlzY291bnQvMTAwKSAqIHN1YnRvdGFsKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCXN1YnRvdGFsID0gc3VidG90YWwgKyBpdGVtUHJpY2U7Cg==</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coZGlzY291bnQpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>var quantity = parseInt($(el).find('input[id$=&quot;-quantity&quot;]').val());
-				var price = parseInt($(el).find('input[id$=&quot;-price&quot;]').val());
-
-				var itemPrice = quantity * price;</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJY29uc29sZS5sb2coJGNvbnRhaW5lcik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJdmFyICRpdGVtcyA9ICRjb250YWluZXIuZmluZCgndHInKTsK</text>
+        <text encoding="base64">CQkJCWRlbGF5ID0gZGVsYXkgKyAyNTA7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>var $subtotalEl = $('#' + $container.data('subtotal-id'));
-			var $discountEl = $('#' + $container.data('discount-id'));
-			var $priceEl = $('#' + $container.data('price-id'));</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJJHByaWNlRWwuaHRtbChzdWJ0b3RhbCk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PGlucHV0IHR5cGU9InRleHQiIGNsYXNzPSJmb3JtLWNvbnRyb2wgcHVsbC1yaWdodCIgaWQ9Imludm9pY2VfZGlzY291bnQiCgkJCQkJCQkJCSAgICAgICBuYW1lPSJpbnZvaWNlX2Rpc2NvdW50IiBwbGFjZWhvbGRlcj0iJSI+</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCXJldHVybjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
