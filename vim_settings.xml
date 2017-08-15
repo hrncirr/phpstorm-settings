@@ -193,10 +193,12 @@
         <mark key="]" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/www/js/invoicing.init.js" timestamp="1502791589922">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="16" />
-        <mark key="." line="28" column="16" />
+      <file name="/home/www/html/dv/adera/www/js/invoicing.init.js" timestamp="1502793960781">
+        <mark key="'" line="68" column="0" />
+        <mark key="[" line="43" column="37" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="68" column="0" />
       </file>
       <file name="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/ConstraintViolationsMapper.php" timestamp="1501669501202">
         <mark key="[" line="98" column="0" />
@@ -2912,7 +2914,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502778138609">
+      <file name="/Dummy.txt" timestamp="1502794056496">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -4619,8 +4621,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="633" column="52" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="60" column="12" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
       <jump line="105" column="24" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
       <jump line="110" column="43" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
       <jump line="125" column="38" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
@@ -4719,68 +4719,70 @@
       <jump line="769" column="62" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
       <jump line="347" column="51" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
       <jump line="678" column="23" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
+      <jump line="108" column="4" filename="/home/www/html/dv/adera/www/js/invoicing.init.js" />
+      <jump line="67" column="0" filename="/home/www/html/dv/adera/www/js/invoicing.init.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>var inFnc = $.proxy(function () {
-					this.count($container);
-				}, this);</text>
+        <text>console.log(price);
+			console.log($priceEl.data('old-value'));</text>
       </register>
       <register name="-" type="4">
-        <text>var price = 0;</text>
+        <text>return subtotal;</text>
       </register>
       <register name="/" type="4">
-        <text>Množství</text>
+        <text>durationStep</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="4">
+        <text>console.log(price);
+			console.log($priceEl.data('old-value'));</text>
+      </register>
+      <register name="2" type="4">
+        <text>if ($discountEl.data('old-value') !== $discountEl.val()) {
+				$priceEl.data('old-value', $discountEl.val());
+			}</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCX0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCQlyZXR1cm47Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>var inFnc = $.proxy(function () {
 					this.count($container);
 				}, this);</text>
       </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhlLnRhcmdldC52YWx1ZSk7Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCWNvbnNvbGUubG9nKGRpc2NvdW50KTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJcHJpY2UgPSBzdWJ0b3RhbCAtICgoZGlzY291bnQvMTAwKSAqIHN1YnRvdGFsKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQkJY29uc29sZS5sb2coZGlzY291bnQpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coJGNvbnRhaW5lcik7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCWRlbGF5ID0gZGVsYXkgKyAyNTA7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJJHByaWNlRWwuaHRtbChzdWJ0b3RhbCk7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCXJldHVybjsK</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/durationStep/delayDurationStep/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Množství</last-search>
+      <last-search>durationStep</last-search>
       <last-offset />
-      <last-pattern>Množství</last-pattern>
-      <last-replace>mapperLoadContainer</last-replace>
-      <last-substitute>mapperLoad</last-substitute>
+      <last-pattern>durationStep</last-pattern>
+      <last-replace>delayDurationStep</last-replace>
+      <last-substitute>durationStep</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>findPairs</entry>
-        <entry>inverseJoinColumns</entry>
         <entry>inversedBy</entry>
         <entry>relationMeta</entry>
         <entry>relation</entry>
@@ -4799,10 +4801,10 @@
         <entry>mapperLoad</entry>
         <entry>možstvý</entry>
         <entry>Množství</entry>
+        <entry>currencyFormat</entry>
+        <entry>durationStep</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/incidentsDao/incidentsRepository/g</entry>
-        <entry>%s/Dao/Repository/g</entry>
         <entry>160</entry>
         <entry>ew</entry>
         <entry>92</entry>
@@ -4821,6 +4823,8 @@
         <entry>288</entry>
         <entry>%s/mapperLoad/mapperLoadContainer/g</entry>
         <entry>w</entry>
+        <entry>%s/currencyFormat/formatCurrency/g</entry>
+        <entry>%s/durationStep/delayDurationStep/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
