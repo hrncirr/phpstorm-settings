@@ -193,11 +193,12 @@
         <mark key="]" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/www/js/invoicing.init.js" timestamp="1502798320992">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="109" column="33" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
+      <file name="/home/www/html/dv/adera/www/js/invoicing.init.js" timestamp="1502802309153">
+        <mark key="'" line="102" column="44" />
+        <mark key="[" line="94" column="21" />
+        <mark key="]" line="86" column="12" />
+        <mark key="." line="86" column="12" />
+        <mark key="^" line="86" column="12" />
       </file>
       <file name="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/ConstraintViolationsMapper.php" timestamp="1501669501202">
         <mark key="[" line="98" column="0" />
@@ -1382,11 +1383,6 @@
         <mark key="]" line="111" column="8" />
         <mark key="." line="111" column="8" />
       </file>
-      <file name="/home/www/html/dv/adera/www/js/bank.connection.js" timestamp="1502179411011">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="/home/www/html/nnb/obj/app/config/services.neon" timestamp="1479902682032">
         <mark key="[" line="4" column="24" />
         <mark key="]" line="1" column="0" />
@@ -1457,11 +1453,11 @@
         <mark key="]" line="62" column="8" />
         <mark key="." line="62" column="8" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/client-side.neon" timestamp="1502717067489">
-        <mark key="[" line="112" column="47" />
-        <mark key="]" line="34" column="21" />
-        <mark key="." line="34" column="21" />
-        <mark key="^" line="34" column="21" />
+      <file name="/home/www/html/dv/adera/app/config/client-side.neon" timestamp="1502800105859">
+        <mark key="[" line="98" column="19" />
+        <mark key="]" line="54" column="16" />
+        <mark key="." line="54" column="16" />
+        <mark key="^" line="54" column="18" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Documents/components/FilesUploadForm/FilesUploadForm.php" timestamp="1484318587018">
         <mark key="[" line="124" column="8" />
@@ -2600,10 +2596,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.latte" timestamp="1502796781054">
-        <mark key="[" line="198" column="0" />
-        <mark key="]" line="198" column="0" />
-        <mark key="." line="198" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.latte" timestamp="1502802698609">
+        <mark key="[" line="232" column="108" />
+        <mark key="]" line="235" column="47" />
+        <mark key="." line="235" column="47" />
+        <mark key="^" line="235" column="47" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/AddressBook/Validators/UniqueDefault.php" timestamp="1500460782321">
         <mark key="[" line="21" column="37" />
@@ -2915,7 +2912,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502794056496">
+      <file name="/Dummy.txt" timestamp="1502802806764">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -4622,8 +4619,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="24" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="110" column="43" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
       <jump line="125" column="38" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
       <jump line="173" column="19" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
       <jump line="369" column="39" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
@@ -4722,55 +4717,69 @@
       <jump line="678" column="23" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
       <jump line="108" column="4" filename="/home/www/html/dv/adera/www/js/invoicing.init.js" />
       <jump line="67" column="0" filename="/home/www/html/dv/adera/www/js/invoicing.init.js" />
+      <jump line="86" column="12" filename="/home/www/html/dv/adera/www/js/invoicing.init.js" />
+      <jump line="102" column="44" filename="/home/www/html/dv/adera/www/js/invoicing.init.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+      <register name="&quot;" type="4">
+        <text>/*
+ * This file is part of the Hrncirr
+ *
+ * Copyright (c) 2016 Roman Hrnčíř
+ *
+ * For the full copyright and license information, please view the file license.md that was distributed with this source code.
+ */</text>
       </register>
       <register name="-" type="4">
-        <text>{* $itemPrice *}</text>
+        <text>&quot;use strict&quot;;</text>
       </register>
       <register name="/" type="4">
-        <text>durationStep</text>
+        <text>discountEl</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+      <register name="1" type="4">
+        <text>/*
+ * This file is part of the Hrncirr
+ *
+ * Copyright (c) 2016 Roman Hrnčíř
+ *
+ * For the full copyright and license information, please view the file license.md that was distributed with this source code.
+ */</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzLT5jYWxjdWxhdGVQcmljZSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkkcHJpY2UgPSAwOwo=</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKHRoaXMuZm9ybWF0Q3VycmVuY3koaXRlbVByaWNlKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlpZiAoJHZhbHVlc1snZGlzY291bnQnXSkgewo=</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCRpdGVtUHJpY2VWYWx1ZUVsKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZHVtcCgkaXRlbSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCQkJeyogdmFyICRpdGVtUHJpY2UgPSAkZm9ybUNvbnRhaW5lclsncXVhbnRpdHknXS0+Z2V0VmFsdWUoKSAqICRmb3JtQ29udGFpbmVyWydwcmljZSddLT5nZXRWYWx1ZSgpICp9Cg==</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKGl0ZW1QcmljZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkkdGVtcGxhdGUtPnByaWNlID0gJHRlbXBsYXRlLT5zdWJ0b3RhbDsK</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKHF1YW50aXR5KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkkdGhpcy0+cmVkcmF3Q29udHJvbCgncHJpY2UnKTsK</text>
+        <text encoding="base64">CQkJLy90b0ZpeGVkKDApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkkdGhpcy0+cmVkcmF3Q29udHJvbCgnc3VidG90YWwnKTsK</text>
+        <text encoding="base64">CQkJCQl9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/durationStep/delayDurationStep/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>durationStep</last-search>
+      <last-search>discountEl</last-search>
       <last-offset />
-      <last-pattern>durationStep</last-pattern>
+      <last-pattern>discountEl</last-pattern>
       <last-replace>delayDurationStep</last-replace>
       <last-substitute>durationStep</last-substitute>
       <last-dir>1</last-dir>
@@ -4778,8 +4787,6 @@
     </search>
     <history>
       <history-search>
-        <entry>inversedBy</entry>
-        <entry>relationMeta</entry>
         <entry>relation</entry>
         <entry>bottom</entry>
         <entry>paths</entry>
@@ -4798,6 +4805,8 @@
         <entry>Množství</entry>
         <entry>currencyFormat</entry>
         <entry>durationStep</entry>
+        <entry>quantityEl</entry>
+        <entry>discountEl</entry>
       </history-search>
       <history-cmd>
         <entry>160</entry>
@@ -4817,9 +4826,9 @@
         <entry>53</entry>
         <entry>288</entry>
         <entry>%s/mapperLoad/mapperLoadContainer/g</entry>
-        <entry>w</entry>
         <entry>%s/currencyFormat/formatCurrency/g</entry>
         <entry>%s/durationStep/delayDurationStep/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
