@@ -193,12 +193,11 @@
         <mark key="]" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/www/js/invoicing.init.js" timestamp="1502802309153">
-        <mark key="'" line="102" column="44" />
-        <mark key="[" line="94" column="21" />
-        <mark key="]" line="86" column="12" />
-        <mark key="." line="86" column="12" />
-        <mark key="^" line="86" column="12" />
+      <file name="/home/www/html/dv/adera/www/js/invoicing.init.js" timestamp="1502864085343">
+        <mark key="'" line="123" column="44" />
+        <mark key="[" line="107" column="12" />
+        <mark key="]" line="107" column="12" />
+        <mark key="." line="107" column="12" />
       </file>
       <file name="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/ConstraintViolationsMapper.php" timestamp="1501669501202">
         <mark key="[" line="98" column="0" />
@@ -2596,8 +2595,8 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.latte" timestamp="1502802698609">
-        <mark key="[" line="232" column="108" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.latte" timestamp="1502862275359">
+        <mark key="[" line="198" column="60" />
         <mark key="]" line="235" column="47" />
         <mark key="." line="235" column="47" />
         <mark key="^" line="235" column="47" />
@@ -4722,16 +4721,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/*
- * This file is part of the Hrncirr
- *
- * Copyright (c) 2016 Roman Hrnčíř
- *
- * For the full copyright and license information, please view the file license.md that was distributed with this source code.
- */</text>
+        <text>var price = subtotal;</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;use strict&quot;;</text>
+        <text>var price = subtotal;</text>
       </register>
       <register name="/" type="4">
         <text>discountEl</text>
@@ -4740,37 +4733,47 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>/*
- * This file is part of the Hrncirr
- *
- * Copyright (c) 2016 Roman Hrnčíř
- *
- * For the full copyright and license information, please view the file license.md that was distributed with this source code.
- */</text>
+        <text>$container.find('tr').each($.proxy(function (i, el) {
+					this.attachEvents($(el), $container);
+				}, this));
+
+				$('#' + $container.data('discount-id')).on('focusout', $.proxy(function (e) {
+					this.calculate($container);
+				}, this));
+
+				this.calculate($container);</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>this.attachEvents($context, $container);
+				this.calculate($container);</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKHRoaXMuZm9ybWF0Q3VycmVuY3koaXRlbVByaWNlKSk7Cg==</text>
+      <register name="3" type="4">
+        <text>if ($container.length === 0) {
+					return;
+				}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCRpdGVtUHJpY2VWYWx1ZUVsKTsK</text>
+        <text encoding="base64">CQkJCXZhciAkY29udGFpbmVyID0gJCgnW2RhdGEtcHJvdmlkZT0iaW52b2ljaW5nLWludm9pY2UtaXRlbXMiXScsICRjb250ZXh0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCXZhciAkY29udGFpbmVyID0gJGNvbnRleHQuY2xvc2VzdCgnW2RhdGEtcHJvdmlkZT0iaW52b2ljaW5nLWludm9pY2UtaXRlbXMiXScpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKGl0ZW1QcmljZSk7Cg==</text>
+        <text encoding="base64">CQkJCXJldHVybjsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKHF1YW50aXR5KTsK</text>
+      <register name="7" type="4">
+        <text>var outFnc = $.proxy(function (e) {
+					this.calculate($container);
+				}, this);
+
+				$(el).find('input[id$=&quot;-quantity&quot;]').on('focusout', outFnc);
+				$(el).find('input[id$=&quot;-price&quot;]').on('focusout', outFnc);</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJLy90b0ZpeGVkKDApCg==</text>
+        <text encoding="base64">CQkJJChkZCcjJyArICRjb250YWluZXIuZGF0YSgnZGlzY291bnQtaWQnKSkub24oJ2ZvY3Vzb3V0Jywgb3V0Rm5jKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQl9Cg==</text>
+        <text encoding="base64">CQkJaWYgKCRjb250ZXh0KSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
