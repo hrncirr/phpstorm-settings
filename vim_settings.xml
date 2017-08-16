@@ -193,9 +193,11 @@
         <mark key="]" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/www/js/invoicing.init.js" timestamp="1502870180173">
-        <mark key="'" line="126" column="44" />
-        <mark key="[" line="1" column="4" />
+      <file name="/home/www/html/dv/adera/www/js/invoicing.init.js" timestamp="1502876389105">
+        <mark key="'" line="124" column="21" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/ConstraintViolationsMapper.php" timestamp="1501669501202">
         <mark key="[" line="98" column="0" />
@@ -2914,7 +2916,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502871730795">
+      <file name="/Dummy.txt" timestamp="1502876480427">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -4621,10 +4623,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="38" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="173" column="19" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="369" column="39" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="670" column="20" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
       <jump line="323" column="4" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
       <jump line="318" column="22" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
       <jump line="322" column="20" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
@@ -4721,72 +4719,61 @@
       <jump line="67" column="0" filename="/home/www/html/dv/adera/www/js/invoicing.init.js" />
       <jump line="86" column="12" filename="/home/www/html/dv/adera/www/js/invoicing.init.js" />
       <jump line="102" column="44" filename="/home/www/html/dv/adera/www/js/invoicing.init.js" />
+      <jump line="14" column="31" filename="/home/www/html/dv/adera/www/js/invoicing.init.js" />
+      <jump line="94" column="21" filename="/home/www/html/dv/adera/www/js/invoicing.init.js" />
+      <jump line="105" column="21" filename="/home/www/html/dv/adera/www/js/invoicing.init.js" />
+      <jump line="124" column="21" filename="/home/www/html/dv/adera/www/js/invoicing.init.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCSRtb25leUZvcm1hdHRlciA9IG5ldyBEZWNpbWFsTW9uZXlGb3JtYXR0ZXIobmV3IElTT0N1cnJlbmNpZXMoKSk7Cg==</text>
+        <text encoding="base64">CQkJCSRpdGVtUHJpY2VWYWx1ZUVsLnJlbW92ZURhdGEoJ2NvdW50ZXJ1cFRvJyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JG51bWJlcikkbW9uZXlGb3JtYXR0ZXItPmZvcm1hdChNb25leTo6Q1pLKA==</text>
       </register>
       <register name="/" type="4">
-        <text>discountEl</text>
+        <text>countUp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCSRtb25leUZvcm1hdHRlciA9IG5ldyBEZWNpbWFsTW9uZXlGb3JtYXR0ZXIobmV3IElTT0N1cnJlbmNpZXMoKSk7Cg==</text>
+        <text encoding="base64">CQkJCSRpdGVtUHJpY2VWYWx1ZUVsLnJlbW92ZURhdGEoJ2NvdW50ZXJ1cFRvJyk7Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CQkJCSRpdGVtUHJpY2VWYWx1ZUVsLmNvdW50VXAoKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCSRzdWJ0b3RhbElucHV0RWwucmVtb3ZlRGF0YSgnY291bnRlcnVwVG8nKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCSRzdWJ0b3RhbElucHV0RWwuY291bnRVcCgpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCSRwcmljZVZhbHVlRWwucmVtb3ZlRGF0YSgnY291bnRlcnVwVG8nKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCSRwcmljZVZhbHVlRWwuY291bnRVcCgpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCSRtb25leUZvcm1hdHRlciA9IG5ldyBEZWNpbWFsTW9uZXlGb3JtYXR0ZXIobmV3IElTT0N1cnJlbmNpZXMoKSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CQkJCQlwcmljZSA9IHN1YnRvdGFsOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text>else {
 				price = subtotal;
 			}</text>
-      </register>
-      <register name="4" type="4">
-        <text>.proxy(function (e) {
-					this.calculate($container);
-				}, this)</text>
-      </register>
-      <register name="5" type="4">
-        <text>var outFnc = $.proxy(function () {
-				this.calculate($container);
-			}, this);</text>
-      </register>
-      <register name="6" type="4">
-        <text>$container.find('tr').each($.proxy(function (i, el) {
-					this.attachEvents($(el), $container);
-				}, this));
-
-				$('#' + $container.data('discount-id')).on('focusout', $.proxy(function (e) {
-					this.calculate($container);
-				}, this));
-
-				this.calculate($container);</text>
-      </register>
-      <register name="7" type="4">
-        <text>this.attachEvents($context, $container);
-				this.calculate($container);</text>
-      </register>
-      <register name="8" type="4">
-        <text>if ($container.length === 0) {
-					return;
-				}</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCXZhciAkY29udGFpbmVyID0gJCgnW2RhdGEtcHJvdmlkZT0iaW52b2ljaW5nLWludm9pY2UtaXRlbXMiXScsICRjb250ZXh0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>discountEl</last-search>
+      <last-search>countUp</last-search>
       <last-offset />
-      <last-pattern>discountEl</last-pattern>
+      <last-pattern>countUp</last-pattern>
       <last-replace>delayDurationStep</last-replace>
       <last-substitute>durationStep</last-substitute>
       <last-dir>1</last-dir>
@@ -4794,7 +4781,6 @@
     </search>
     <history>
       <history-search>
-        <entry>relation</entry>
         <entry>bottom</entry>
         <entry>paths</entry>
         <entry>getRelationIdentifiers</entry>
@@ -4814,6 +4800,7 @@
         <entry>durationStep</entry>
         <entry>quantityEl</entry>
         <entry>discountEl</entry>
+        <entry>countUp</entry>
       </history-search>
       <history-cmd>
         <entry>160</entry>
