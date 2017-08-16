@@ -193,11 +193,9 @@
         <mark key="]" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/www/js/invoicing.init.js" timestamp="1502866998763">
-        <mark key="'" line="123" column="44" />
-        <mark key="[" line="107" column="12" />
-        <mark key="]" line="107" column="12" />
-        <mark key="." line="107" column="12" />
+      <file name="/home/www/html/dv/adera/www/js/invoicing.init.js" timestamp="1502870180173">
+        <mark key="'" line="126" column="44" />
+        <mark key="[" line="1" column="4" />
       </file>
       <file name="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/ConstraintViolationsMapper.php" timestamp="1501669501202">
         <mark key="[" line="98" column="0" />
@@ -1382,6 +1380,9 @@
         <mark key="]" line="111" column="8" />
         <mark key="." line="111" column="8" />
       </file>
+      <file name="/home/www/html/dv/adera/www/js/bank.connection.js" timestamp="1502870183805">
+        <mark key="[" line="1" column="4" />
+      </file>
       <file name="/home/www/html/nnb/obj/app/config/services.neon" timestamp="1479902682032">
         <mark key="[" line="4" column="24" />
         <mark key="]" line="1" column="0" />
@@ -2322,6 +2323,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressesGrid/AddressesGrid.php" timestamp="1502870269598" />
       <file name="/home/www/html/dv/adera/www/css/screen.admin.css" timestamp="1502287702760">
         <mark key="[" line="31" column="4" />
         <mark key="]" line="32" column="4" />
@@ -2611,10 +2613,10 @@
         <mark key="]" line="37" column="37" />
         <mark key="." line="37" column="37" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoicesGrid/InvoicesGrid.php" timestamp="1501675627644">
-        <mark key="[" line="140" column="59" />
-        <mark key="]" line="158" column="16" />
-        <mark key="." line="158" column="16" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoicesGrid/InvoicesGrid.php" timestamp="1502871113844">
+        <mark key="[" line="132" column="38" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Latte/CMPProvider.php" timestamp="1496048680217">
         <mark key="[" line="47" column="21" />
@@ -2911,7 +2913,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502802806764">
+      <file name="/Dummy.txt" timestamp="1502871730795">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -3241,8 +3243,8 @@
         <mark key="]" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" timestamp="1502798507892">
-        <mark key="[" line="89" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" timestamp="1502869566907">
+        <mark key="[" line="384" column="91" />
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
@@ -4720,11 +4722,11 @@
       <jump line="102" column="44" filename="/home/www/html/dv/adera/www/js/invoicing.init.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>var price = subtotal;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCSRtb25leUZvcm1hdHRlciA9IG5ldyBEZWNpbWFsTW9uZXlGb3JtYXR0ZXIobmV3IElTT0N1cnJlbmNpZXMoKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>var price = subtotal;</text>
+        <text encoding="base64">JG51bWJlcikkbW9uZXlGb3JtYXR0ZXItPmZvcm1hdChNb25leTo6Q1pLKA==</text>
       </register>
       <register name="/" type="4">
         <text>discountEl</text>
@@ -4732,7 +4734,28 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCSRtb25leUZvcm1hdHRlciA9IG5ldyBEZWNpbWFsTW9uZXlGb3JtYXR0ZXIobmV3IElTT0N1cnJlbmNpZXMoKSk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCQlwcmljZSA9IHN1YnRvdGFsOwo=</text>
+      </register>
+      <register name="3" type="4">
+        <text>else {
+				price = subtotal;
+			}</text>
+      </register>
+      <register name="4" type="4">
+        <text>.proxy(function (e) {
+					this.calculate($container);
+				}, this)</text>
+      </register>
+      <register name="5" type="4">
+        <text>var outFnc = $.proxy(function () {
+				this.calculate($container);
+			}, this);</text>
+      </register>
+      <register name="6" type="4">
         <text>$container.find('tr').each($.proxy(function (i, el) {
 					this.attachEvents($(el), $container);
 				}, this));
@@ -4743,37 +4766,17 @@
 
 				this.calculate($container);</text>
       </register>
-      <register name="2" type="4">
+      <register name="7" type="4">
         <text>this.attachEvents($context, $container);
 				this.calculate($container);</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>if ($container.length === 0) {
 					return;
 				}</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCXZhciAkY29udGFpbmVyID0gJCgnW2RhdGEtcHJvdmlkZT0iaW52b2ljaW5nLWludm9pY2UtaXRlbXMiXScsICRjb250ZXh0KTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCXZhciAkY29udGFpbmVyID0gJGNvbnRleHQuY2xvc2VzdCgnW2RhdGEtcHJvdmlkZT0iaW52b2ljaW5nLWludm9pY2UtaXRlbXMiXScpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCXJldHVybjsK</text>
-      </register>
-      <register name="7" type="4">
-        <text>var outFnc = $.proxy(function (e) {
-					this.calculate($container);
-				}, this);
-
-				$(el).find('input[id$=&quot;-quantity&quot;]').on('focusout', outFnc);
-				$(el).find('input[id$=&quot;-price&quot;]').on('focusout', outFnc);</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJJChkZCcjJyArICRjb250YWluZXIuZGF0YSgnZGlzY291bnQtaWQnKSkub24oJ2ZvY3Vzb3V0Jywgb3V0Rm5jKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJaWYgKCRjb250ZXh0KSB7Cg==</text>
+        <text encoding="base64">CQkJCXZhciAkY29udGFpbmVyID0gJCgnW2RhdGEtcHJvdmlkZT0iaW52b2ljaW5nLWludm9pY2UtaXRlbXMiXScsICRjb250ZXh0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
