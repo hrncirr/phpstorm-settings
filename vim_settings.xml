@@ -457,10 +457,11 @@
         <mark key="]" line="35" column="4" />
         <mark key="." line="35" column="4" />
       </file>
-      <file name="/home/www/html/nnb/passportization/app/Components/CostCentersBreadcrumbsControl/CostCentersBreadcrumbsControl.php" timestamp="1502958293044">
-        <mark key="[" line="72" column="11" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="/home/www/html/nnb/passportization/app/Components/CostCentersBreadcrumbsControl/CostCentersBreadcrumbsControl.php" timestamp="1502960162130">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="83" column="47" />
+        <mark key="." line="83" column="47" />
+        <mark key="^" line="83" column="47" />
       </file>
       <file name="/home/www/html/nnb/nezadouci-udalosti/app/Services/RolesProvider.php" timestamp="1490956237399">
         <mark key="[" line="49" column="8" />
@@ -1268,8 +1269,8 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/app/Components/CostCentersBreadcrumbsControl/CostCentersBreadcrumbsControl.latte" timestamp="1502958097185">
-        <mark key="[" line="7" column="12" />
+      <file name="/home/www/html/nnb/passportization/app/Components/CostCentersBreadcrumbsControl/CostCentersBreadcrumbsControl.latte" timestamp="1502959096368">
+        <mark key="[" line="2" column="28" />
         <mark key="]" line="7" column="16" />
         <mark key="." line="7" column="16" />
       </file>
@@ -2922,7 +2923,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502895124559">
+      <file name="/Dummy.txt" timestamp="1502960179509">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -4758,10 +4759,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkkaXRlbSA9ICR0bXBJdGVtc1skdGhpcy0+aWRdOwo=</text>
+        <text encoding="base64">CQkJZHVtcCgkaXRlbUlkKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmFtZSckaXRlbTsJ</text>
+        <text>else {</text>
       </register>
       <register name="/" type="4">
         <text>states</text>
@@ -4770,38 +4771,31 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkkaXRlbSA9ICR0bXBJdGVtc1skdGhpcy0+aWRdOwo=</text>
+        <text encoding="base64">CQkJZHVtcCgkaXRlbUlkKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJZXhpdDsK</text>
+        <text encoding="base64">CQlkdW1wKCRpdGVtcyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJZHVtcCgkbm9kZS0+aWQpOwo=</text>
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
-      <register name="4" type="4">
-        <text>{if $endItems}
-					,
-					{foreach $endItems as $endItem}
-						{$endItem['name']}
-						{sep},{/sep}
-					{/foreach}
-				{/if}</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
-      <register name="5" type="4">
-        <text>dump($items);
-		exit;</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQlkdW1wKCRpdGVtcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkkdGVtcGxhdGUtPmVuZEl0ZW1zID0gJGVuZEl0ZW1zOwo=</text>
+        <text encoding="base64">CQkJZHVtcCgkaXRlbUlkKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkkZXhpdCA9IHRydWU7Cg==</text>
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">JGZpcnN0SXRlbXMgPSBudWxsOwoJCSRpdGVtcyA9IG51bGw7CgkJJHByZXZJdGVtcyA9IG51bGw7CgkJJGVuZEl0ZW1zID0gW107CgkJZm9yZWFjaCAoJHRoaXMtPnBhdGhzIGFzICRwYXRoKSB7CgkJCSRpdGVtcyA9ICR0aGlzLT5wYXRoTW9kZWwtPmdldE5hbWVzRnJvbVBhdGgoJHBhdGgpOwoKCQkJaWYgKCRmaXJzdEl0ZW1zID09PSBudWxsKSB7CgkJCQkkZmlyc3RJdGVtcyA9ICRpdGVtczsKCQkJfQoKCQkJaWYgKCRwcmV2SXRlbXMgIT09IG51bGwpIHsKCQkJCWlmIChjb3VudChhcnJheV9pbnRlcnNlY3QoJGl0ZW1zLCAkcHJldkl0ZW1zKSkgIT09IGNvdW50KCRwcmV2SXRlbXMpIC0gMSkgewoJCQkJCXRocm93IG5ldyBJbnZhbGlkU3RhdGVFeGNlcHRpb24oJ0ludmFsaWQgcGF0aCcpOwoJCQkJfQoKCQkJCSRlbmRJdGVtID0gYXJyYXlfZGlmZigkaXRlbXMsICRwcmV2SXRlbXMpOwoJCQkJJGVuZEl0ZW1zW10gPSBbCgkJCQkJJ25hbWUnID0+IGtleSgkZW5kSXRlbSksCgkJCQkJJ3BhdGgnID0+IGN1cnJlbnQoJGVuZEl0ZW0pCgkJCQldOwoJCQl9CgoJCQkkcHJldkl0ZW1zID0gJGl0ZW1zOwoJCX0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJaWYgKCRpdGVtID09PSBudWxsKSB7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZHVtcCgkdGhpcy0+Y29zdENlbnRlcnNNb2RlbC0+ZmluZEFsbCgpKTsKCQlleGl0Owo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
