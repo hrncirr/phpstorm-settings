@@ -28,7 +28,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1503303235095">
+      <file name="/a.dummy" timestamp="1503304279164">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -203,10 +203,10 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Presenters/DefaultPresenter.php" timestamp="1502966440501">
-        <mark key="[" line="92" column="14" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Presenters/DefaultPresenter.php" timestamp="1503305850775">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="4" />
+        <mark key="." line="34" column="4" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/components/RoomDetailControl/RoomDetailControl.php" timestamp="1486633504198">
         <mark key="[" line="61" column="37" />
@@ -466,6 +466,12 @@
         <mark key="]" line="35" column="4" />
         <mark key="." line="35" column="4" />
       </file>
+      <file name="/home/www/html/nnb/passportization/app/Components/CostCentersBreadcrumbsControl/CostCentersBreadcrumbsControl.php" timestamp="1502966100584">
+        <mark key="[" line="59" column="54" />
+        <mark key="]" line="59" column="8" />
+        <mark key="^" line="76" column="47" />
+        <mark key="." line="59" column="8" />
+      </file>
       <file name="/home/www/html/nnb/nezadouci-udalosti/app/Services/RolesProvider.php" timestamp="1490956237399">
         <mark key="[" line="49" column="8" />
         <mark key="]" line="49" column="8" />
@@ -656,12 +662,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Presenters/DefaultPresenter.php" timestamp="1503300457112">
-        <mark key="'" line="96" column="40" />
-        <mark key="[" line="120" column="16" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
-      </file>
       <file name="/home/www/html/nnb/passportization/app/router/IconRouterFactory.php" timestamp="1483450375334">
         <mark key="[" line="20" column="27" />
         <mark key="]" line="20" column="28" />
@@ -721,6 +721,11 @@
         <mark key="[" line="26" column="29" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/EmployeesGrid/IEmployeesGridFactory.php" timestamp="1503304586571">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Files/Router/FileRouterFactory.php" timestamp="1484296476516">
         <mark key="[" line="40" column="71" />
@@ -845,6 +850,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Employees/Employee.php" timestamp="1503307772143">
+        <mark key="[" line="43" column="15" />
+        <mark key="]" line="34" column="31" />
+        <mark key="." line="34" column="31" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/Storage/locale/validators.cs_CZ.neon" timestamp="1502779995365">
         <mark key="[" line="17" column="38" />
         <mark key="]" line="16" column="8" />
@@ -949,6 +959,12 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Presenters/templates/Default/default.latte" timestamp="1503305815323">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="25" column="4" />
+        <mark key="." line="25" column="4" />
+        <mark key="^" line="25" column="4" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Files/FileConversion.php" timestamp="1486041119774">
         <mark key="[" line="30" column="22" />
@@ -1089,6 +1105,9 @@
         <mark key="[" line="92" column="8" />
         <mark key="]" line="92" column="8" />
         <mark key="." line="92" column="8" />
+      </file>
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/EmployeesGrid/ITechnicalRequisitionsGridFactory.php" timestamp="1503304198475">
+        <mark key="[" line="11" column="14" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Storage/DI/StorageExtension.php" timestamp="1497015144466">
         <mark key="[" line="1" column="0" />
@@ -1658,6 +1677,12 @@
         <mark key="[" line="62" column="32" />
         <mark key="]" line="62" column="33" />
         <mark key="." line="62" column="33" />
+      </file>
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/EmployeesGrid/EmployeesGrid.php" timestamp="1503307591881">
+        <mark key="[" line="162" column="12" />
+        <mark key="]" line="162" column="12" />
+        <mark key="." line="162" column="12" />
+        <mark key="^" line="154" column="35" />
       </file>
       <file name="/home/www/html/nnb/nezadouci-udalosti/app/Components/IncidentViewer.php" timestamp="1482400217288">
         <mark key="[" line="95" column="29" />
@@ -2702,7 +2727,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/app/Model/Orm/Rooms/RoomsMapper.php" timestamp="1503299120485">
+      <file name="/home/www/html/nnb/passportization/app/Model/Orm/Rooms/RoomsMapper.php" timestamp="1503306611007">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
@@ -2756,6 +2781,12 @@
         <mark key="[" line="49" column="31" />
         <mark key="]" line="52" column="4" />
         <mark key="." line="52" column="4" />
+      </file>
+      <file name="/home/www/html/nnb/passportization/app/config/services.neon" timestamp="1502955540525">
+        <mark key="[" line="39" column="5" />
+        <mark key="]" line="39" column="5" />
+        <mark key="^" line="4" column="29" />
+        <mark key="." line="39" column="5" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/Extensions/DbalExtension.php" timestamp="1503298869662">
         <mark key="[" line="19" column="8" />
@@ -3445,6 +3476,9 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Employees/EmployeesMapper.php" timestamp="1503307176583">
+        <mark key="[" line="29" column="52" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Files/Events/FileListener.php" timestamp="1486733507547">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="75" column="8" />
@@ -3544,6 +3578,9 @@
         <mark key="[" line="26" column="40" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/EmployeesGrid/TechnicalRequisitionsGrid.php" timestamp="1503304233101">
+        <mark key="[" line="11" column="14" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/validator/Exceptions/InvalidArgumentException.php" timestamp="1497511883189">
         <mark key="[" line="11" column="18" />
@@ -3758,12 +3795,6 @@
         <mark key="]" line="50" column="12" />
         <mark key="." line="50" column="12" />
       </file>
-      <file name="/home/www/html/nnb/passportization/app/Model/BuildingsTreeModel.php" timestamp="1503299232697">
-        <mark key="'" line="22" column="16" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="/home/www/html/nnb/dms/src/Search/resources/file.type.neon" timestamp="1493374485410">
         <mark key="[" line="14" column="19" />
         <mark key="]" line="5" column="0" />
@@ -3879,10 +3910,10 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/app/Dbal/StorageConnection.php" timestamp="1503298680955">
-        <mark key="[" line="23" column="38" />
-        <mark key="]" line="23" column="38" />
-        <mark key="." line="23" column="38" />
+      <file name="/home/www/html/nnb/passportization/app/Dbal/StorageConnection.php" timestamp="1503306144360">
+        <mark key="[" line="29" column="51" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Groups/DI/GroupsExtension.php" timestamp="1486026815625">
         <mark key="[" line="22" column="45" />
@@ -4394,6 +4425,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="/home/www/html/nnb/passportization/app/config/config.neon" timestamp="1503298295194">
+        <mark key="[" line="55" column="4" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Files/Events/FileUploadListener.php" timestamp="1493118366371">
         <mark key="[" line="111" column="39" />
         <mark key="]" line="8" column="0" />
@@ -4597,8 +4631,8 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/DI/config.neon" timestamp="1502889521952">
-        <mark key="[" line="0" column="4" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/DI/config.neon" timestamp="1503304560249">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
@@ -4606,6 +4640,9 @@
         <mark key="[" line="22" column="21" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Employees/EmployeesRepository.php" timestamp="1503306418364">
+        <mark key="[" line="27" column="46" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Employees/EmployeeMapper.php" timestamp="1503303223121">
         <mark key="[" line="16" column="13" />
@@ -4802,56 +4839,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text encoding="base64">LT5zZXRSZW5kZXJlcihmdW5jdGlvbiAoRW1wbG95ZWUgJGVtcGxveWVlKSB7CgkJCQlyZXR1cm4gJGVtcGxveWVlLT5uYW1lIC4gJyAnIC4gJGVtcGxveWVlLT5zdXJuYW1lOwoJCQl9KQ==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>firstUpper</text>
       </register>
       <register name="/" type="4">
-        <text>Connection</text>
+        <text>primary</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dXNlIEFwcFxPcm1cTWFwcGVyXFBhc3Nwb3J0aXphdGlvbk1hcHBlcjsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">LT5zZXRSZW5kZXJlcihmdW5jdGlvbiAoRW1wbG95ZWUgJGVtcGxveWVlKSB7CgkJCQlyZXR1cm4gJGVtcGxveWVlLT5uYW1lIC4gJyAnIC4gJGVtcGxveWVlLT5zdXJuYW1lOwoJCQl9KQ==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dXNlIEFwcFxEYmFsXFBhc3Nwb3J0aXphdGlvbkNvbm5lY3Rpb247Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">JGdyaWQtPmFkZENvbHVtblRleHQoJ3N1cm5hbWUnLCAnUMWZaWptZW7DrScpCgkJCS0+c2V0U29ydGFibGUoKQoJCQktPnNldEZpbHRlclRleHQoKTs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCX0K</text>
+        <text encoding="base64">ICAgIAlyZXR1cm4gJyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCWlmICgkbGlua3MgPSAkdGhpcy0+cGFzc3BvcnRpemF0aW9uTW9kZWwtPmdldE9iamVjdExpbmtzKCRwYXRoLT5vYmplY3RJZCkpIHsK</text>
+        <text encoding="base64">ICogQHByb3BlcnR5IHN0cmluZyAkb3NjcHYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlpZiAoJGxpbmtzID0gJHJlc3VsdC0+bGlua3MpIHsK</text>
+        <text encoding="base64">CQkkZ3JpZC0+c2V0SXRlbXNQZXJQYWdlTGlzdChbMywgMTAsIDUwXSk7Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>/**
-	 * @var PassportizationModel
-	 * @inject
-	 */
-	public $passportizationModel;</text>
+        <text encoding="base64">CgkJJGdyaWQtPmFkZENvbHVtbkRhdGVUaW1lKCdjcmVhdGVkQXQnLCAnWmFwc8Ohbm8nKQoJCQktPnNldEZvcm1hdCgnZC5tLlkgSDppJykKCQkJLT5zZXRTb3J0YWJsZSgpCgkJCS0+c2V0RmlsdGVyRGF0ZSgpOw==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXERhdGFiYXNlXENvbnRleHQ7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gaW50ICAgICAgICAgICAkaWQKCSAqIEBwYXJhbSBjYWxsYWJsZXxOVUxMICRjYWxsYmFjawoJICovCglwcm90ZWN0ZWQgZnVuY3Rpb24gbW9kaWZ5UmVjb3JkKGludCAkaWQsIGNhbGxhYmxlICRjYWxsYmFjayA9IG51bGwpCgl7CgkJJHRoaXMtPmNoZWNrTG9nZ2VkVXNlcigpOwoKCQkkdGVjaG5pY2FsUmVxdWlzaXRpb24gPSAkdGhpcy0+b3JtLT50ZWNobmljYWxSZXF1aXNpdGlvbnMtPmdldEJ5SWQoJGlkKTsKCgkJaWYgKCRjYWxsYmFjayAhPT0gbnVsbCkgewoJCQkkY2FsbGJhY2soJHRlY2huaWNhbFJlcXVpc2l0aW9uKTsKCQl9CgoJCSRpblN0YXRlcyA9IG51bGw7CgkJaWYgKGlzc2V0KCR0ZWNobmljYWxSZXF1aXNpdGlvbi0+c3RhdGUpICYmICR0aGlzLT5zdGF0ZUlkcyAmJgoJCQlpbl9hcnJheSgkdGVjaG5pY2FsUmVxdWlzaXRpb24tPnN0YXRlLT5pZCwgJHRoaXMtPnN0YXRlSWRzKQoJCSkgewoJCQkkaW5TdGF0ZXMgPSB0cnVlOwoJCQlpZiAoJHRoaXMtPmdldFByZXNlbnRlcigpLT5pc0FqYXgoKSkgewoJCQkJLy8kdGhpc1snZ3JpZCddLT5yZWRyYXdJdGVtKCRpZCk7CgkJCQkkdGhpc1snZ3JpZCddLT5yZWxvYWQoKTsKCQkJfQoKCQl9IGVsc2VpZiAoJHRoaXMtPnN0YXRlSWRzKSB7CgkJCSRpblN0YXRlcyA9IGZhbHNlOwoJCQlpZiAoJHRoaXMtPmdldFByZXNlbnRlcigpLT5pc0FqYXgoKSkgewoJCQkJJHRoaXNbJ2dyaWQnXS0+cmVsb2FkKCk7CgkJCX0KCgkJfSBlbHNlaWYgKCR0aGlzLT5nZXRQcmVzZW50ZXIoKS0+aXNBamF4KCkpIHsKCQkJLy8kdGhpc1snZ3JpZCddLT5yZWRyYXdJdGVtKCRpZCk7CgkJCSR0aGlzWydncmlkJ10tPnJlbG9hZCgpOwoJCX0KCgkJaWYgKCRjYWxsYmFjayAhPT0gbnVsbCkgewoJCQkkdGhpcy0+b3JtLT50ZWNobmljYWxSZXF1aXNpdGlvbnMtPmZsdXNoKCk7CgkJfQoKCQkkdGhpcy0+b25SZWNvcmRVcGRhdGVkKCR0ZWNobmljYWxSZXF1aXNpdGlvbiwgJGluU3RhdGVzKTsKCX0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIE5leHRyYXNcRGJhbFxDb25uZWN0aW9uOwo=</text>
+        <text encoding="base64">CQkqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIE5leHRyYXNcRGJhbFxDb25uZWN0aW9uOwo=</text>
+        <text encoding="base64">CQkvKgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Connection</last-search>
+      <last-search>primary</last-search>
       <last-offset />
-      <last-pattern>Connection</last-pattern>
+      <last-pattern>primary</last-pattern>
       <last-replace>delayDurationStep</last-replace>
       <last-substitute>durationStep</last-substitute>
       <last-dir>1</last-dir>
@@ -4859,7 +4892,6 @@
     </search>
     <history>
       <history-search>
-        <entry>createNewContainer</entry>
         <entry>bbb</entry>
         <entry>creteComponent</entry>
         <entry>createContainer</entry>
@@ -4879,6 +4911,7 @@
         <entry>TreeControl</entry>
         <entry>states</entry>
         <entry>Connection</entry>
+        <entry>primary</entry>
       </history-search>
       <history-cmd>
         <entry>160</entry>
