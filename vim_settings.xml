@@ -1408,6 +1408,9 @@
         <mark key="]" line="449" column="0" />
         <mark key="." line="449" column="0" />
       </file>
+      <file name="/home/www/lib/vendor/hrncirr/xml-serializer/src/Jms/PatchedYamlConverter.php" timestamp="1503409160531">
+        <mark key="^" line="20" column="46" />
+      </file>
       <file name="/home/www/html/bul/medical_examinations/app/SummaryModule/presenters/SignPresenter.php" timestamp="1480672822111">
         <mark key="[" line="32" column="15" />
         <mark key="]" line="32" column="15" />
@@ -2506,10 +2509,10 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/xml-serializer/src/Jms/Converter.php" timestamp="1503403782066">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="/home/www/lib/vendor/hrncirr/xml-serializer/src/Jms/Converter.php" timestamp="1503409042571">
+        <mark key="[" line="36" column="55" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Pages/AdminModule/Presenters/templates/Page/default.latte" timestamp="1492067162988">
         <mark key="[" line="3" column="4" />
@@ -2992,7 +2995,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503405078629">
+      <file name="/Dummy.txt" timestamp="1503409197006">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
@@ -3312,10 +3315,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/xml-serializer/src/Php/Converter.php" timestamp="1503402928140">
-        <mark key="[" line="21" column="60" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="/home/www/lib/vendor/hrncirr/xml-serializer/src/Php/Converter.php" timestamp="1503408659567">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="/home/www/html/bul/medical_examinations/app/config/monolog.neon" timestamp="1488448211810">
         <mark key="[" line="1" column="0" />
@@ -4886,17 +4889,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>if (!@eval(sprintf('namespace ClassTest_%s { class %s {}; return TRUE; }',
-					Random::generate(10, 'a-z'),
-					strtolower($str)))
-				) {
-					$prefixCache[$id] = true;
-				} else {
-					$prefixCache[$id] = false;
-				}</text>
+        <text>/**
+ * This file is part of the Hrncirr
+ *
+ * Copyright (c) 2015-2017 Roman Hrnčíř
+ *
+ * For the full copyright and license information, please view the file license.md that was distributed with this source code.
+ */</text>
       </register>
       <register name="-" type="4">
-        <text>/use Goetas\Xsd\XsdToPhp\Jms\Handler\XmlSchemaDateHandler;</text>
+        <text>\GoetasWebservices\Xsd\XsdToPhp\</text>
       </register>
       <register name="/" type="4">
         <text>checkFolder</text>
@@ -4905,42 +4907,38 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>if (!@eval(sprintf('namespace ClassTest_%s { class %s {}; return TRUE; }',
-					Random::generate(10, 'a-z'),
-					strtolower($str)))
-				) {
-					$prefixCache[$id] = true;
-				} else {
-					$prefixCache[$id] = false;
-				}</text>
+        <text>/**
+ * This file is part of the Hrncirr
+ *
+ * Copyright (c) 2015-2017 Roman Hrnčíř
+ *
+ * For the full copyright and license information, please view the file license.md that was distributed with this source code.
+ */</text>
       </register>
-      <register name="2" type="4">
-        <text>dump($name);
-		exit;</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IwlsYXlvdXRzRGlyOiAlYXBwRGlyJS9jb25maWcvbGF5b3V0cwo=</text>
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I3BhZ2VzOgo=</text>
+        <text encoding="base64">CQkkaXRlbXMgPSAkeWFtbENvbnZlcnRlci0+Y29udmVydCgkc2NoZW1hcyk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>,
-		&quot;GPL-2.0&quot;,
-		&quot;GPL-3.0&quot;
-	],</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkkbmFtZXNwYWNlcyA9IFtdOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">aWYgKCRuYW1lc3BhY2UgIT09IG51bGwgJiYgIWlzX3N0cmluZygkbmFtZXNwYWNlKSkgewoJCQl0aHJvdyBuZXcgSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uKCdOYW1lc3BhY2UgbXVzdCBiZSBzdHJpbmcgb3IgTlVMTCwgJXMgZ2l2ZW4uJywgZ2V0dHlwZSgkbmFtZXNwYWNlKSk7CgkJfSBlbHNlaWYgKCFpc19udWxsKCRuYW1lKSAmJiAhaXNfc3RyaW5nKCRuYW1lKSkgewoJCQl0aHJvdyBuZXcgSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uKCdOYW1lIG11c3QgYmUgc3RyaW5nIG9yIE5VTEwsICVzIGdpdmVuLicsIGdldHR5cGUoJG5hbWUpKTsKCQl9IGVsc2U=</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I3VzZSBHb2V0YXNcWHNkXFhzZFRvUGhwXEptc1xQYXRoR2VuZXJhdG9yXFBzcjRQYXRoR2VuZXJhdG9yOwo=</text>
+        <text encoding="base64">CQkkdHlwZXMgPSAkcGhwQ29udmVydGVyLT5jb252ZXJ0KCRzY2hlbWFzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly91c2UgR29ldGFzXFhzZFxYc2RUb1BocFxQaHBcUGhwQ29udmVydGVyOwo=</text>
+        <text encoding="base64">CQkJLy8kY2xhc3NHZW4gPSBuZXcgQ2xhc3NHZW5lcmF0b3IoKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly91c2UgR29ldGFzXFhzZFxYc2RUb1BocFxQaHBcUGF0aEdlbmVyYXRvclxQc3I0UGF0aEdlbmVyYXRvcjsK</text>
+      <register name="9" type="4">
+        <text>dump($items);
+		exit;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
