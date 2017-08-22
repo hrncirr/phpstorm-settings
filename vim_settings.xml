@@ -463,12 +463,6 @@
         <mark key="]" line="35" column="4" />
         <mark key="." line="35" column="4" />
       </file>
-      <file name="/home/www/html/nnb/passportization/app/Components/CostCentersBreadcrumbsControl/CostCentersBreadcrumbsControl.php" timestamp="1502966100584">
-        <mark key="[" line="59" column="54" />
-        <mark key="]" line="59" column="8" />
-        <mark key="^" line="76" column="47" />
-        <mark key="." line="59" column="8" />
-      </file>
       <file name="/home/www/html/nnb/nezadouci-udalosti/app/Services/RolesProvider.php" timestamp="1490956237399">
         <mark key="[" line="49" column="8" />
         <mark key="]" line="49" column="8" />
@@ -960,10 +954,10 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Presenters/templates/Default/default.latte" timestamp="1503319809628">
-        <mark key="[" line="30" column="28" />
-        <mark key="]" line="25" column="4" />
-        <mark key="." line="25" column="4" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Presenters/templates/Default/default.latte" timestamp="1503381512057">
+        <mark key="[" line="30" column="17" />
+        <mark key="]" line="30" column="17" />
+        <mark key="." line="30" column="17" />
         <mark key="^" line="25" column="4" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Files/FileConversion.php" timestamp="1486041119774">
@@ -2755,12 +2749,6 @@
         <mark key="[" line="49" column="31" />
         <mark key="]" line="52" column="4" />
         <mark key="." line="52" column="4" />
-      </file>
-      <file name="/home/www/html/nnb/passportization/app/config/services.neon" timestamp="1502955540525">
-        <mark key="[" line="39" column="5" />
-        <mark key="]" line="39" column="5" />
-        <mark key="^" line="4" column="29" />
-        <mark key="." line="39" column="5" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/Extensions/DbalExtension.php" timestamp="1503298869662">
         <mark key="[" line="19" column="8" />
@@ -4809,11 +4797,11 @@
       <jump line="264" column="4" filename="/home/www/lib/vendor/nextras/orm/src/Mapper/Dbal/DbalMapper.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJLT5zZXREZWZhdWx0SGlkZSh0cnVlKTsK</text>
+      <register name="&quot;" type="4">
+        <text>n:snippet=&quot;grid&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KCRkZWdyZWVCZWZvcmUgPyAkZGVncmVlQmVmb3JlIC4gJyAnIDogJycpIA==</text>
+        <text>n:snippet=&quot;grid&quot;</text>
       </register>
       <register name="/" type="4">
         <text>findAll</text>
