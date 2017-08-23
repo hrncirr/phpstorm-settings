@@ -1122,7 +1122,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/forms-typeahead/src/Controls/TypeaheadInput.php" timestamp="1501247322383">
+      <file name="/home/www/vendor/hrncirr/forms-typeahead/src/Controls/TypeaheadInput.php" timestamp="1503487699023">
         <mark key="[" line="250" column="12" />
         <mark key="]" line="250" column="12" />
         <mark key="." line="250" column="12" />
@@ -3663,10 +3663,10 @@
         <mark key="]" line="14" column="65" />
         <mark key="." line="14" column="65" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.latte" timestamp="1503483142510">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.latte" timestamp="1503487660997">
+        <mark key="[" line="26" column="36" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/css/file.preview.spinner.css" timestamp="1489570367983">
         <mark key="[" line="64" column="1" />
@@ -4229,10 +4229,10 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" timestamp="1503484893560">
-        <mark key="[" line="68" column="8" />
-        <mark key="]" line="151" column="8" />
-        <mark key="." line="151" column="8" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" timestamp="1503487727815">
+        <mark key="[" line="67" column="4" />
+        <mark key="]" line="160" column="8" />
+        <mark key="." line="160" column="8" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/TagsGrid/TagsGrid.php" timestamp="1497598493187">
         <mark key="[" line="16" column="0" />
@@ -4359,10 +4359,10 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/www/js/ares.js" timestamp="1503486882060">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="14" column="16" />
-        <mark key="." line="14" column="16" />
+      <file name="/home/www/html/dv/adera/www/js/ares.js" timestamp="1503487581989">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Compiler/Compiler.php" timestamp="1496128438727">
         <mark key="[" line="8" column="0" />
@@ -4938,15 +4938,11 @@
       <jump line="52" column="31" filename="/home/www/lib/vendor/hrncirr/xml-serializer/src/DI/XmlSerializerExtension.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>if ($.fn.typeahead === undefined) {
-					console.error(
-						'Plugin &quot;typeahead.js&quot; is missing! Run `bower install typeahead.js` and load bundled version.');
-					return;
-				}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="-" type="4">
-        <text>implements \IteratorAggregate</text>
+        <text>&quot;use strict&quot;;</text>
       </register>
       <register name="/" type="4">
         <text>cacheDir</text>
@@ -4954,39 +4950,84 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>if ($.fn.typeahead === undefined) {
-					console.error(
-						'Plugin &quot;typeahead.js&quot; is missing! Run `bower install typeahead.js` and load bundled version.');
-					return;
-				}</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">ICogQ29weXJpZ2h0IChjKSAyMDE2IFJvbWFuIEhybsSNw63FmQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQlleGl0Owo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQlkdW1wKCRkZWZpbml0aW9ucyk7Cg==</text>
+        <text encoding="base64">ICogVGhpcyBmaWxlIGlzIHBhcnQgb2YgdGhlIEhybmNpcnIK</text>
       </register>
-      <register name="5" type="4">
-        <text>/**
-	 * @var AresModel @inject
-	 */
-	public $aresModel;</text>
+      <register name="5" type="2">
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCWZvcm1EYXRhOiBmb3JtRGF0YQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzLT5hcmVzTW9kZWwtPnNlYXJjaCgpKTsK</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygkKHRoaXMpLmRhdGEoJ2hhbmRsZXItdXJsJykpOwo=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ZHVtcCgkZGF0YSk7CgkJZHVtcCgoc3RyaW5nKSAkZGF0YS0+T0YpOwoJCWR1bXAoJGRhdGEtPkFEKTsKCQlkdW1wKCRkYXRhLT5BQSk7</text>
+        <text>/*
+					if (config.onSelectUrl !== null) {
+						$(this).on('typeahead:selected', function (e, datum) {
+							var form = $(this).closest('form');
+							var formData = form ? form.serialize() : null;
+
+							$.nette.ajax({
+								type: 'post',
+								url: config.onSelectUrl,
+								data: {
+									selected: datum,
+									formData: formData
+								}
+							})
+						});
+					}
+					*/</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">JGFkcmVzYSA9ICRkYXRhOwoKCQlkdW1wKCRhZHJlc2EtPkFEKTsKCQlkdW1wKCRhZHJlc2EtPkFBKTs=</text>
+        <text>var config = jQuery.parseJSON($(this).attr('data-config'));
+					var suggestionTemplate = $(this).parent().find('#result-template').html();
+					var emptyTemplate = $(this).parent().find('#empty-template').html();
+					var limit = config.typeahead.limit;
+					delete config.typeahead.limit;
+
+					// Nette forms fix
+					if ($(this).data('nette-rules') !== undefined) {
+						$(this).removeAttr('data-nette-rules');
+					}
+
+					// compile templates with Handlebars
+					suggestionTemplate = (typeof(suggestionTemplate) === 'undefined') ? null :
+						Handlebars.compile(suggestionTemplate);
+					emptyTemplate = (typeof(emptyTemplate) === 'undefined') ? null : Handlebars.compile(emptyTemplate);
+
+					var bloodHound = new Bloodhound({
+						datumTokenizer: Bloodhound.tokenizers.obj.whitespace,
+						queryTokenizer: Bloodhound.tokenizers.whitespace,
+						remote: {
+							url: config.url,
+							wildcard: config.placeholder
+						}
+					});
+
+					$(this).typeahead(
+						config.typeahead,
+						{
+							display: config.display,
+							limit: limit,
+							source: bloodHound,
+							templates: {
+								suggestion: suggestionTemplate,
+								empty: emptyTemplate
+							}
+						}
+					);</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
