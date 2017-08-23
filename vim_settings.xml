@@ -56,7 +56,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Model/BanksModel.php" timestamp="1502182013144">
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Model/BanksModel.php" timestamp="1503490928164">
         <mark key="[" line="61" column="13" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
@@ -2707,7 +2707,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.latte" timestamp="1502886925527">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.latte" timestamp="1503488023356">
         <mark key="[" line="82" column="20" />
         <mark key="]" line="82" column="20" />
         <mark key="." line="82" column="20" />
@@ -3663,10 +3663,10 @@
         <mark key="]" line="14" column="65" />
         <mark key="." line="14" column="65" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.latte" timestamp="1503487660997">
-        <mark key="[" line="26" column="36" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.latte" timestamp="1503488132661">
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/css/file.preview.spinner.css" timestamp="1489570367983">
         <mark key="[" line="64" column="1" />
@@ -3758,11 +3758,10 @@
         <mark key="]" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Model/AresModel.php" timestamp="1503486452856">
-        <mark key="[" line="55" column="8" />
-        <mark key="]" line="55" column="8" />
-        <mark key="." line="55" column="8" />
-        <mark key="^" line="52" column="65" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Model/AresModel.php" timestamp="1503493015576">
+        <mark key="[" line="66" column="12" />
+        <mark key="]" line="66" column="12" />
+        <mark key="." line="66" column="12" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Console/DI/config.neon" timestamp="1493113964753">
         <mark key="[" line="4" column="0" />
@@ -4229,10 +4228,11 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" timestamp="1503487727815">
-        <mark key="[" line="67" column="4" />
-        <mark key="]" line="160" column="8" />
-        <mark key="." line="160" column="8" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" timestamp="1503493603228">
+        <mark key="[" line="107" column="12" />
+        <mark key="]" line="107" column="12" />
+        <mark key="." line="107" column="12" />
+        <mark key="^" line="71" column="63" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/TagsGrid/TagsGrid.php" timestamp="1497598493187">
         <mark key="[" line="16" column="0" />
@@ -4359,8 +4359,8 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/www/js/ares.js" timestamp="1503487581989">
-        <mark key="[" line="3" column="0" />
+      <file name="/home/www/html/dv/adera/www/js/ares.js" timestamp="1503487763007">
+        <mark key="[" line="23" column="28" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -4938,11 +4938,11 @@
       <jump line="52" column="31" filename="/home/www/lib/vendor/hrncirr/xml-serializer/src/DI/XmlSerializerExtension.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICoK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JGFkZHJlc3MtPnN1YmplY3QgPSAkc3ViamVjdDs=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;use strict&quot;;</text>
+        <text encoding="base64">JGFkZHJlc3MtPnN1YmplY3QgPSAkc3ViamVjdDs=</text>
       </register>
       <register name="/" type="4">
         <text>cacheDir</text>
@@ -4951,83 +4951,31 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">CQkJJHN1YmplY3QtPmFkZHJlc3Nlc1tdID0gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQ29weXJpZ2h0IChjKSAyMDE2IFJvbWFuIEhybsSNw63FmQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">CQkJZHVtcCgkcmVzdWx0LT5FKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogVGhpcyBmaWxlIGlzIHBhcnQgb2YgdGhlIEhybmNpcnIK</text>
+        <text encoding="base64">CQkJZHVtcCgkcmVzdWx0LSkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">LyoK</text>
+      <register name="5" type="4">
+        <text encoding="base64">dHJ5IHsKCQkJJGNsaWVudCA9IG5ldyBDbGllbnQoKTsKCQkJJHJlc3BvbnNlID0gJGNsaWVudC0+Z2V0KHNlbGY6OlVSSSwgWwoJCQkJJ3F1ZXJ5JyA9PiBbCgkJCQkJJ2ljbycgPT4gJGljCgkJCQldCgkJCV0pOwoJCX0gY2F0Y2ggKFxFeGNlcHRpb24gJGUpIHsKCQkJaWYgKCRuZWVkKSB7CgkJCQl0aHJvdyBuZXcgSW52YWxpZFN0YXRlRXhjZXB0aW9uKCdOZWx6ZSBzZSBwxZlpcG9qaXQgayBzeXN0w6ltdSBBUkVTLicpOwoJCQl9CgoJCQlyZXR1cm4gbnVsbDsKCQl9</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCWZvcm1EYXRhOiBmb3JtRGF0YQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CXJldHVybiAkdGhpcy0+Z2V0RGF0YSgkaWMsICRuZWVkKTsKCX0KCgoJcHJpdmF0ZSBmdW5jdGlvbiBnZXREYXRhKCRpYywgYm9vbCAkbmVlZCkKCXs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygkKHRoaXMpLmRhdGEoJ2hhbmRsZXItdXJsJykpOwo=</text>
+        <text encoding="base64">CQkJZHVtcCgnb2snKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>/*
-					if (config.onSelectUrl !== null) {
-						$(this).on('typeahead:selected', function (e, datum) {
-							var form = $(this).closest('form');
-							var formData = form ? form.serialize() : null;
-
-							$.nette.ajax({
-								type: 'post',
-								url: config.onSelectUrl,
-								data: {
-									selected: datum,
-									formData: formData
-								}
-							})
-						});
-					}
-					*/</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>var config = jQuery.parseJSON($(this).attr('data-config'));
-					var suggestionTemplate = $(this).parent().find('#result-template').html();
-					var emptyTemplate = $(this).parent().find('#empty-template').html();
-					var limit = config.typeahead.limit;
-					delete config.typeahead.limit;
-
-					// Nette forms fix
-					if ($(this).data('nette-rules') !== undefined) {
-						$(this).removeAttr('data-nette-rules');
-					}
-
-					// compile templates with Handlebars
-					suggestionTemplate = (typeof(suggestionTemplate) === 'undefined') ? null :
-						Handlebars.compile(suggestionTemplate);
-					emptyTemplate = (typeof(emptyTemplate) === 'undefined') ? null : Handlebars.compile(emptyTemplate);
-
-					var bloodHound = new Bloodhound({
-						datumTokenizer: Bloodhound.tokenizers.obj.whitespace,
-						queryTokenizer: Bloodhound.tokenizers.whitespace,
-						remote: {
-							url: config.url,
-							wildcard: config.placeholder
-						}
-					});
-
-					$(this).typeahead(
-						config.typeahead,
-						{
-							display: config.display,
-							limit: limit,
-							source: bloodHound,
-							templates: {
-								suggestion: suggestionTemplate,
-								empty: emptyTemplate
-							}
-						}
-					);</text>
+        <text encoding="base64">c3dpdGNoICgkcmVzdWx0LT5FLT5FSykgewoJCQkJY2FzZSAxOgoJCQkJCSRtZXNzYWdlID0gJ1rDoXpuYW0gbmVuYWxlemVuLic7CgkJCQkJYnJlYWs7CgoJCQkJY2FzZSAxMDoKCQkJCQkkbWVzc2FnZSA9ICdaw6F6bmFtIGplIHUgT2JjaG9kbsOtaG8gcmVqc3TFmcOta3UgcMWZZXBpc292w6FuLiBOZWJ1ZGUgdnlzdGF2b3bDoW5vLic7CgkJCQkJYnJlYWs7CgoJCQkJZGVmYXVsdDoKCQkJCQkkbWVzc2FnZSA9ICdOZXpuw6Ftw6EgY2h5YmEnOwoJCQkJCWJyZWFrOwoJCQl9</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
