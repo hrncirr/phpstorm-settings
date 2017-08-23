@@ -1526,7 +1526,9 @@
         <mark key="]" line="62" column="8" />
         <mark key="." line="62" column="8" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/client-side.neon" timestamp="1503385847516" />
+      <file name="/home/www/html/dv/adera/app/config/client-side.neon" timestamp="1503486972100">
+        <mark key="[" line="116" column="39" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Documents/components/FilesUploadForm/FilesUploadForm.php" timestamp="1484318587018">
         <mark key="[" line="124" column="8" />
         <mark key="]" line="98" column="16" />
@@ -4357,6 +4359,11 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/www/js/ares.js" timestamp="1503486882060">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+      </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Compiler/Compiler.php" timestamp="1496128438727">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="84" column="0" />
@@ -4931,8 +4938,12 @@
       <jump line="52" column="31" filename="/home/www/lib/vendor/hrncirr/xml-serializer/src/DI/XmlSerializerExtension.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+      <register name="&quot;" type="4">
+        <text>if ($.fn.typeahead === undefined) {
+					console.error(
+						'Plugin &quot;typeahead.js&quot; is missing! Run `bower install typeahead.js` and load bundled version.');
+					return;
+				}</text>
       </register>
       <register name="-" type="4">
         <text>implements \IteratorAggregate</text>
@@ -4943,35 +4954,39 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+      <register name="1" type="4">
+        <text>if ($.fn.typeahead === undefined) {
+					console.error(
+						'Plugin &quot;typeahead.js&quot; is missing! Run `bower install typeahead.js` and load bundled version.');
+					return;
+				}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQlleGl0Owo=</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CQkJCQlleGl0Owo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CQkJCQlkdW1wKCRkZWZpbml0aW9ucyk7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>/**
 	 * @var AresModel @inject
 	 */
 	public $aresModel;</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQlkdW1wKCR0aGlzLT5hcmVzTW9kZWwtPnNlYXJjaCgpKTsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ZHVtcCgkZGF0YSk7CgkJZHVtcCgoc3RyaW5nKSAkZGF0YS0+T0YpOwoJCWR1bXAoJGRhdGEtPkFEKTsKCQlkdW1wKCRkYXRhLT5BQSk7</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">JGFkcmVzYSA9ICRkYXRhOwoKCQlkdW1wKCRhZHJlc2EtPkFEKTsKCQlkdW1wKCRhZHJlc2EtPkFBKTs=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
