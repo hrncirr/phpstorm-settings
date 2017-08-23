@@ -143,6 +143,11 @@
         <mark key="]" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
+      <file name="/home/www/lib/vendor/hrncirr/xml-serializer/src/Php/TObject.php" timestamp="1503474725083">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="4" />
+        <mark key="." line="17" column="4" />
+      </file>
       <file name="/home/www/html/dv/cms/Modules/Storage/Components/ItemForm/ItemForm.php" timestamp="1500550360573">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
@@ -333,10 +338,11 @@
         <mark key="]" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/app/AdminModule/Presenters/BasePresenter.php" timestamp="1503416078247">
-        <mark key="[" line="80" column="43" />
-        <mark key="]" line="80" column="43" />
-        <mark key="." line="80" column="43" />
+      <file name="/home/www/html/dv/adera/app/AdminModule/Presenters/BasePresenter.php" timestamp="1503474963850">
+        <mark key="[" line="80" column="31" />
+        <mark key="]" line="82" column="21" />
+        <mark key="." line="82" column="21" />
+        <mark key="^" line="82" column="21" />
       </file>
       <file name="/home/www/lib/vendor/nette/finder/src/Utils/Finder.php" timestamp="1503472849973" />
       <file name="/home/www/html/nnb/dms/src/DMS/Files/IFileConversionStorage.php" timestamp="1484656775332">
@@ -1306,11 +1312,11 @@
         <mark key="]" line="15" column="41" />
         <mark key="." line="15" column="41" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/xml-serializer/src/DI/XmlSerializerExtension.php" timestamp="1503472891619">
-        <mark key="'" line="69" column="32" />
-        <mark key="[" line="81" column="21" />
-        <mark key="]" line="81" column="21" />
-        <mark key="." line="81" column="21" />
+      <file name="/home/www/lib/vendor/hrncirr/xml-serializer/src/DI/XmlSerializerExtension.php" timestamp="1503473694305">
+        <mark key="'" line="51" column="31" />
+        <mark key="[" line="51" column="19" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/config/services.neon" timestamp="1493901640363">
         <mark key="[" line="22" column="84" />
@@ -3010,7 +3016,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503415289704">
+      <file name="/Dummy.txt" timestamp="1503474673337">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
@@ -3336,10 +3342,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/xml-serializer/src/Php/Converter.php" timestamp="1503470392388">
-        <mark key="[" line="24" column="80" />
-        <mark key="]" line="48" column="12" />
-        <mark key="." line="48" column="12" />
+      <file name="/home/www/lib/vendor/hrncirr/xml-serializer/src/Php/Converter.php" timestamp="1503475072275">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="/home/www/html/bul/medical_examinations/app/config/monolog.neon" timestamp="1488448211810">
         <mark key="[" line="1" column="0" />
@@ -4815,10 +4821,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="525" column="13" filename="/home/www/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
-      <jump line="1677" column="99" filename="/home/www/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
-      <jump line="1685" column="48" filename="/home/www/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
-      <jump line="1686" column="39" filename="/home/www/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
       <jump line="1721" column="44" filename="/home/www/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
       <jump line="531" column="37" filename="/home/www/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
       <jump line="1436" column="31" filename="/home/www/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
@@ -4915,57 +4917,77 @@
       <jump line="156" column="15" filename="/home/www/lib/vendor/hrncirr/xml-serializer/src/Manager.php" />
       <jump line="61" column="28" filename="/home/www/lib/vendor/hrncirr/xml-serializer/src/Manager.php" />
       <jump line="69" column="32" filename="/home/www/lib/vendor/hrncirr/xml-serializer/src/DI/XmlSerializerExtension.php" />
+      <jump line="54" column="0" filename="/home/www/lib/vendor/hrncirr/xml-serializer/src/DI/XmlSerializerExtension.php" />
+      <jump line="53" column="34" filename="/home/www/lib/vendor/hrncirr/xml-serializer/src/DI/XmlSerializerExtension.php" />
+      <jump line="51" column="9" filename="/home/www/lib/vendor/hrncirr/xml-serializer/src/DI/XmlSerializerExtension.php" />
+      <jump line="52" column="31" filename="/home/www/lib/vendor/hrncirr/xml-serializer/src/DI/XmlSerializerExtension.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(\IteratorAggregate)</text>
+        <text>/**
+	 * Returns property value. Do not call directly.
+	 * @param  string  property name
+	 * @return mixed   property value
+	 * @throws MemberAccessException if the property is not defined.
+	 */</text>
       </register>
       <register name="-" type="4">
         <text>(\IteratorAggregate)</text>
       </register>
       <register name="/" type="4">
-        <text>manager</text>
+        <text>cacheDir</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="4">
+        <text>/**
+	 * Returns property value. Do not call directly.
+	 * @param  string  property name
+	 * @return mixed   property value
+	 * @throws MemberAccessException if the property is not defined.
+	 */</text>
+      </register>
+      <register name="2" type="4">
+        <text>/**
+	 * Sets value of a property. Do not call directly.
+	 * @param  string  property name
+	 * @param  mixed   property value
+	 * @return void
+	 * @throws MemberAccessException if the property is not defined or is read-only
+	 */</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQlleGl0Owo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkkY2FjaGVEaXIgPSAkYnVpbGRlci0+cGFyYW1ldGVyc1sndGVtcERpciddIC4gRElSRUNUT1JZX1NFUEFSQVRPUiAuICdjYWNoZSc7Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>dump($meta);
 				exit;</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQlleGl0Owo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>dump($definitions['metadataDirs']);
 			dump($pathDefinitions['metadataDirs']);</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJG1ldGEpOwo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">LyoKCQkkc2VyaWFsaXplciA9ICR0aGlzLT5nZXRTZXJpYWxpemVyKCk7CgkJZHVtcCgkc2VyaWFsaXplci0+ZGVzZXJpYWxpemUoJHhtbCwgJ0FyZXNcVl8xXzBfM1xBcmVzT2Rwb3ZlZGknLCAneG1sJykpOwoJCWV4aXQ7CgkJKi8=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXNlIE5leHRyYXNcT3JtXE1hcHBlclxEYmFsXERiYWxDb2xsZWN0aW9uOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">dXNlIE5leHRyYXNcT3JtXE1hcHBlclxEYmFsXERiYWxDb2xsZWN0aW9uOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkiZ29ldGFzLXdlYnNlcnZpY2VzL3hzZDJwaHAiOiAiXjAuMiIK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWR1bXAoJG1ldGEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>manager</last-search>
+      <last-search>cacheDir</last-search>
       <last-offset />
-      <last-pattern>manager</last-pattern>
+      <last-pattern>cacheDir</last-pattern>
       <last-replace>delayDurationStep</last-replace>
       <last-substitute>durationStep</last-substitute>
       <last-dir>1</last-dir>
@@ -4973,7 +4995,6 @@
     </search>
     <history>
       <history-search>
-        <entry>createComponent</entry>
         <entry>createOne</entry>
         <entry>mapperLoad</entry>
         <entry>možstvý</entry>
@@ -4993,6 +5014,7 @@
         <entry>findClass</entry>
         <entry>managerr</entry>
         <entry>manager</entry>
+        <entry>cacheDir</entry>
       </history-search>
       <history-cmd>
         <entry>160</entry>
