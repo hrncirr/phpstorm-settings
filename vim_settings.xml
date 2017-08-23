@@ -1312,11 +1312,12 @@
         <mark key="]" line="15" column="41" />
         <mark key="." line="15" column="41" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/xml-serializer/src/DI/XmlSerializerExtension.php" timestamp="1503479605449">
-        <mark key="'" line="51" column="31" />
-        <mark key="[" line="78" column="8" />
-        <mark key="]" line="78" column="12" />
-        <mark key="." line="78" column="12" />
+      <file name="/home/www/lib/vendor/hrncirr/xml-serializer/src/DI/XmlSerializerExtension.php" timestamp="1503482420930">
+        <mark key="'" line="63" column="31" />
+        <mark key="[" line="50" column="8" />
+        <mark key="]" line="50" column="8" />
+        <mark key="." line="50" column="8" />
+        <mark key="^" line="63" column="31" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/config/services.neon" timestamp="1493901640363">
         <mark key="[" line="22" column="84" />
@@ -3018,7 +3019,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503479693329">
+      <file name="/Dummy.txt" timestamp="1503482764753">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
@@ -4285,8 +4286,8 @@
         <mark key="]" line="37" column="12" />
         <mark key="." line="37" column="12" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/xml-serializer/src/ClassLoader.php" timestamp="1503479399895">
-        <mark key="[" line="42" column="4" />
+      <file name="/home/www/lib/vendor/hrncirr/xml-serializer/src/ClassLoader.php" timestamp="1503482170268">
+        <mark key="[" line="37" column="56" />
         <mark key="]" line="42" column="4" />
         <mark key="." line="42" column="4" />
       </file>
@@ -4928,13 +4929,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/**
-			 * @var string $key
-			 *
-			 */</text>
+        <text>self::$registered = true;</text>
       </register>
       <register name="-" type="4">
-        <text>$key =</text>
+        <text>self::$registered = true;</text>
       </register>
       <register name="/" type="4">
         <text>cacheDir</text>
