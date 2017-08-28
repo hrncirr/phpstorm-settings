@@ -1555,7 +1555,7 @@
         <mark key="]" line="62" column="8" />
         <mark key="." line="62" column="8" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/client-side.neon" timestamp="1503486972100">
+      <file name="/home/www/html/dv/adera/app/config/client-side.neon" timestamp="1503917902470">
         <mark key="[" line="116" column="39" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Documents/components/FilesUploadForm/FilesUploadForm.php" timestamp="1484318587018">
@@ -3601,6 +3601,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="/home/www/html/nnb/aktuality/app/config/client-side.neon" timestamp="1503917907281">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="/home/www/vendor/hrncirr/control-token/composer.json" timestamp="1474377098028">
         <mark key="[" line="17" column="36" />
         <mark key="]" line="19" column="0" />
@@ -5072,8 +5077,8 @@
       <jump line="208" column="0" filename="/home/www/html/nnb/passportization/js/floor.map.init.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JGdyaWQtPmFkZEFjdGlvbigncGRmJywgJycsICdwZGYhJykKCQkJLT5zZXRJY29uKCdzYXZlJykKCQkJLT5zZXRUaXRsZSgnVWxvxb5pdCcpCgkJCS0+c2V0Q2xhc3MoJ2J0biBidG4teHMgYnRuLWluZm8gYWpheCcpOw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJLSAmaHJuY2lyci5mb3Jtcy50eXBlYWhlYWQK</text>
       </register>
       <register name="-" type="4">
         <text>TechnicalRequisitionPdfFactory $technicalRequisitionPdfFactory,</text>
@@ -5084,35 +5089,35 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">JGdyaWQtPmFkZEFjdGlvbigncGRmJywgJycsICdwZGYhJykKCQkJLT5zZXRJY29uKCdzYXZlJykKCQkJLT5zZXRUaXRsZSgnVWxvxb5pdCcpCgkJCS0+c2V0Q2xhc3MoJ2J0biBidG4teHMgYnRuLWluZm8gYWpheCcpOw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJLSAmaHJuY2lyci5mb3Jtcy50eXBlYWhlYWQK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">JGdyaWQtPmFsbG93Um93c0FjdGlvbigncGRmJywgZnVuY3Rpb24gKCRpdGVtKSB7CgkJCXJldHVybiB0cnVlOwoJCX0pOw==</text>
+        <text encoding="base64">JGdyaWQtPmFkZEFjdGlvbigncGRmJywgJycsICdwZGYhJykKCQkJLT5zZXRJY29uKCdzYXZlJykKCQkJLT5zZXRUaXRsZSgnVWxvxb5pdCcpCgkJCS0+c2V0Q2xhc3MoJ2J0biBidG4teHMgYnRuLWluZm8gYWpheCcpOw==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">JGdyaWQtPmFsbG93Um93c0FjdGlvbigncGRmJywgZnVuY3Rpb24gKCRpdGVtKSB7CgkJCXJldHVybiB0cnVlOwoJCX0pOw==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">LyoqCgkgKiBAc2VjdXJlZAoJICoKCSAqIEBwYXJhbSBpbnQgJGlkCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBoYW5kbGVQZGYoJGlkKQoJewoJCSR0aGlzWyd0ZWNobmljYWxSZXF1aXNpdGlvblZpZXdDb250cm9sJ10tPnBkZigpOwoJfQ==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkkdGhpcy0+dGVjaG5pY2FsUmVxdWlzaXRpb25QZGZGYWN0b3J5ID0gJHRlY2huaWNhbFJlcXVpc2l0aW9uUGRmRmFjdG9yeTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>/**
 	 * @var TechnicalRequisitionPdfFactory
 	 */
 	private $technicalRequisitionPdfFactory;</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CSAgICAgICAgICAgICAgICAgICAgICAgICAgICBUZWNobmljYWxSZXF1aXNpdGlvblBkZkZhY3RvcnkgJHRlY2huaWNhbFJlcXVpc2l0aW9uUGRmRmFjdG9yeSwK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">CS0gQXBwXFRlY2huaWNhbFJlcXVpc2l0aW9uc1xUZWNobmljYWxSZXF1aXNpdGlvblBkZkZhY3RvcnlcVGVjaG5pY2FsUmVxdWlzaXRpb25QZGZGYWN0b3J5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS0gQXBwXFRlY2huaWNhbFJlcXVpc2l0aW9uc1xUZWNobmljYWxSZXF1aXNpdGlvblBkZkZhY3RvcnlcVGVjaG5pY2FsUmVxdWlzaXRpb25QZGZGYWN0b3J5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
