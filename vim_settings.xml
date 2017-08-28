@@ -3431,6 +3431,11 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
+      <file name="/home/www/html/nnb/nezadouci-udalosti/app/config/client-side.neon" timestamp="1503921912243">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="/home/www/html/nnb/aktuality/app/Model/File.php" timestamp="1493983525202">
         <mark key="[" line="20" column="26" />
         <mark key="]" line="6" column="0" />
@@ -3601,7 +3606,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/config/client-side.neon" timestamp="1503917907281">
+      <file name="/home/www/html/nnb/aktuality/app/config/client-side.neon" timestamp="1503921894070">
         <mark key="[" line="2" column="15" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -5095,32 +5100,32 @@
       <register name="1" type="2">
         <text encoding="base64">CQkJLSAmaHJuY2lyci5mb3Jtcy50eXBlYWhlYWQK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">JGdyaWQtPmFkZEFjdGlvbigncGRmJywgJycsICdwZGYhJykKCQkJLT5zZXRJY29uKCdzYXZlJykKCQkJLT5zZXRUaXRsZSgnVWxvxb5pdCcpCgkJCS0+c2V0Q2xhc3MoJ2J0biBidG4teHMgYnRuLWluZm8gYWpheCcpOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJLSAmaHJuY2lyci5mb3Jtcy50eXBlYWhlYWQK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">JGdyaWQtPmFsbG93Um93c0FjdGlvbigncGRmJywgZnVuY3Rpb24gKCRpdGVtKSB7CgkJCXJldHVybiB0cnVlOwoJCX0pOw==</text>
+        <text encoding="base64">JGdyaWQtPmFkZEFjdGlvbigncGRmJywgJycsICdwZGYhJykKCQkJLT5zZXRJY29uKCdzYXZlJykKCQkJLT5zZXRUaXRsZSgnVWxvxb5pdCcpCgkJCS0+c2V0Q2xhc3MoJ2J0biBidG4teHMgYnRuLWluZm8gYWpheCcpOw==</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">JGdyaWQtPmFsbG93Um93c0FjdGlvbigncGRmJywgZnVuY3Rpb24gKCRpdGVtKSB7CgkJCXJldHVybiB0cnVlOwoJCX0pOw==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">LyoqCgkgKiBAc2VjdXJlZAoJICoKCSAqIEBwYXJhbSBpbnQgJGlkCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBoYW5kbGVQZGYoJGlkKQoJewoJCSR0aGlzWyd0ZWNobmljYWxSZXF1aXNpdGlvblZpZXdDb250cm9sJ10tPnBkZigpOwoJfQ==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkkdGhpcy0+dGVjaG5pY2FsUmVxdWlzaXRpb25QZGZGYWN0b3J5ID0gJHRlY2huaWNhbFJlcXVpc2l0aW9uUGRmRmFjdG9yeTsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>/**
 	 * @var TechnicalRequisitionPdfFactory
 	 */
 	private $technicalRequisitionPdfFactory;</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CSAgICAgICAgICAgICAgICAgICAgICAgICAgICBUZWNobmljYWxSZXF1aXNpdGlvblBkZkZhY3RvcnkgJHRlY2huaWNhbFJlcXVpc2l0aW9uUGRmRmFjdG9yeSwK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CS0gQXBwXFRlY2huaWNhbFJlcXVpc2l0aW9uc1xUZWNobmljYWxSZXF1aXNpdGlvblBkZkZhY3RvcnlcVGVjaG5pY2FsUmVxdWlzaXRpb25QZGZGYWN0b3J5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
