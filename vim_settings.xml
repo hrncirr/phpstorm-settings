@@ -103,6 +103,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Storage/ItemGroup.php" timestamp="1504017474362">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
       <file name="/home/www/html/dv/cms/Modules/PageModule/FrontModule/PagePresenter.php" timestamp="1492065680701">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -5004,10 +5009,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkkbGFiZWwgPSAnbmFtZS50aXRsZSc7Cg==</text>
+        <text encoding="base64">CQkkdGhpcy0+bmFtZSA9ICRuYW1lOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT5zZXRSZXF1aXJlZChmYWxzZSk=</text>
+        <text>$name</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
@@ -5016,12 +5021,15 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkkbGFiZWwgPSAnbmFtZS50aXRsZSc7Cg==</text>
+        <text encoding="base64">CQkkdGhpcy0+bmFtZSA9ICRuYW1lOwo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CQkkbGFiZWwgPSAnbmFtZS50aXRsZSc7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CQkkbGFiZWwgPSAnY2luLnRpdGxlJzsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>name:
 		title: &quot;Název&quot;
 		placeholder: &quot;Zadejte název odběratele&quot;
@@ -5046,20 +5054,17 @@
 		title: &quot;PSČ&quot;
 		placeholder: &quot;Zadejte PSČ odběratele&quot;</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJZHVtcCgkdmFsdWVzKTsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">eyoKPGRpdiBuOmNsYXNzPSJmb3JtLWdyb3VwLCAkZm9ybVsnY2luJ10tPmhhc0Vycm9ycygpID8gJ2hhcy1lcnJvciciPgoJe2xhYmVsIGNpbn0KCTxkaXYgY2xhc3M9ImNvbC1zbS17cmVzZXQoJHRoaXMtPmdsb2JhbC0+Zm9ybXNTdGFjayktPmdldFJlbmRlcmVyKCktPmdldElucHV0Q29sdW1ucygpfSI+CgkJe2lucHV0IGNpbn0KCQl7aW5wdXQuZXJyb3JzIGNpbn0KCTwvZGl2Pgo8L2Rpdj4KKn0=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">YXNkYXNkCg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJLT5zZXRSZXF1aXJlZChmYWxzZSkK</text>
+        <text encoding="base64">YXNkYXNkCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CQkJLT5zZXRSZXF1aXJlZChmYWxzZSkK</text>
