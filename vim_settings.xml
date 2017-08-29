@@ -783,8 +783,10 @@
         <mark key="]" line="67" column="23" />
         <mark key="." line="67" column="23" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Forms/Controls/CinInput.php" timestamp="1504001631997">
-        <mark key="[" line="29" column="23" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Forms/Controls/CinInput.php" timestamp="1504004669980">
+        <mark key="[" line="46" column="4" />
+        <mark key="]" line="46" column="4" />
+        <mark key="." line="46" column="4" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/forms-typeahead/src/Exceptions/InvalidArgumentException.php" timestamp="1496228940246">
         <mark key="[" line="10" column="0" />
@@ -2345,6 +2347,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/libs/vendor/nette/forms/src/Forms/Container.php" timestamp="1504004480134" />
       <file name="/home/www/vendor/hrncirr/cmp/src/Filters/AudioFilter.php" timestamp="1475759573445">
         <mark key="[" line="17" column="6" />
         <mark key="]" line="50" column="4" />
@@ -2677,6 +2680,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/libs/vendor/nette/forms/src/Forms/Controls/TextInput.php" timestamp="1504004526423" />
       <file name="/home/www/lib/vendor/zenify/doctrine-filters/src/FilterManager.php" timestamp="1487144095142">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -5064,7 +5068,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZnVuY3Rpb24gKCkgewoJCQkJJHRoaXMtPnJlZHJhd0NvbnRyb2woJ3RvcCcpOwoJCQl9Ow==</text>
+        <text>/**
+	 * @var string
+	 */
+	protected $display = 'display';
+
+	/**
+	 * @var string
+	 */
+	protected $placeholder;
+
+	/**
+	 * @var int
+	 */
+	protected $limit = self::LIMIT;
+
+	/**
+	 * @var int
+	 */
+	protected $minLength = self::MIN_LENGTH;
+
+	/**
+	 * @var callback
+	 */
+	protected $suggestionTemplate;
+
+	/**
+	 * @var callback
+	 */
+	protected $emptyTemplate;
+
+	/**
+	 * @var Html
+	 */
+	protected $inputControl;</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PnNldFJlcXVpcmVkKGZhbHNlKQ==</text>
@@ -5076,35 +5113,68 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ZnVuY3Rpb24gKCkgewoJCQkJJHRoaXMtPnJlZHJhd0NvbnRyb2woJ3RvcCcpOwoJCQl9Ow==</text>
+        <text>/**
+	 * @var string
+	 */
+	protected $display = 'display';
+
+	/**
+	 * @var string
+	 */
+	protected $placeholder;
+
+	/**
+	 * @var int
+	 */
+	protected $limit = self::LIMIT;
+
+	/**
+	 * @var int
+	 */
+	protected $minLength = self::MIN_LENGTH;
+
+	/**
+	 * @var callback
+	 */
+	protected $suggestionTemplate;
+
+	/**
+	 * @var callback
+	 */
+	protected $emptyTemplate;
+
+	/**
+	 * @var Html
+	 */
+	protected $inputControl;</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CWNvbnN0IExJTUlUID0gMTA7Cgljb25zdCBNSU5fTEVOR1RIID0gMzs=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lRm9ybXNcQ29udHJvbHNcVGV4dENvbnRyb2w7Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ZnVuY3Rpb24gKCkgewoJCQkJJHRoaXMtPnJlZHJhd0NvbnRyb2woJ3RvcCcpOwoJCQl9Ow==</text>
+      </register>
+      <register name="5" type="4">
         <text>{pair name}
 					{pair cin}
 					{pair tin}</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>{pair name}
 					{pair cin}
 					{pair tin}</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCQl7cGFpciB0aW59Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCQl7cGFpciBjaW59Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQkJCQl7cGFpciBuYW1lfQo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">JGZvcm0tPmFkZFN1YmplY3ROYW1lKCduYW1lJykKCQkJLT5zZXRSZXF1aXJlZChmYWxzZSkKCQkJLT5vblNlbGVjdFtdID0gZnVuY3Rpb24gKCkgeyAkdGhpcy0+cmVkcmF3Q29udHJvbCgndG9wJyk7IH07CgoJCSRmb3JtLT5hZGRJbnRlZ2VyKCdjaW4nLCAnY2luLnRpdGxlJykKCQkJLT5zZXRSZXF1aXJlZChmYWxzZSkKCQkJLT5zZXRBdHRyaWJ1dGUoJ3BsYWNlaG9sZGVyJywgJ2Npbi5wbGFjZWhvbGRlcicpOwoKCQkkZm9ybS0+YWRkVGV4dCgndGluJywgJ3Rpbi50aXRsZScpCgkJCS0+c2V0UmVxdWlyZWQoZmFsc2UpCgkJCS0+c2V0QXR0cmlidXRlKCdwbGFjZWhvbGRlcicsICd0aW4ucGxhY2Vob2xkZXInKTs=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">JHRoaXMtPnNldE1pbkxlbmd0aCgzKQoJCQktPnNldExpbWl0KDEwMCk7</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">JHRoaXMtPnNldE1pbkxlbmd0aCgzKQoJCQktPnNldExpbWl0KDEwMCk7</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
