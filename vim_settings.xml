@@ -540,6 +540,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="/home/www/lib/vendor/hrncirr/forms-typeahead/src/Controls/TypeaheadInput.php" timestamp="1504102158246">
+        <mark key="[" line="27" column="58" />
+        <mark key="]" line="297" column="0" />
+        <mark key="." line="297" column="0" />
+      </file>
       <file name="/home/www/html/dv/cms/src/Url/RedirectFacade.php" timestamp="1500639816941">
         <mark key="[" line="3" column="1" />
         <mark key="]" line="9" column="0" />
@@ -796,10 +801,10 @@
         <mark key="]" line="67" column="23" />
         <mark key="." line="67" column="23" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Forms/Controls/CinInput.php" timestamp="1504077355724">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Forms/Controls/CinInput.php" timestamp="1504101987227">
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/forms-typeahead/src/Exceptions/InvalidArgumentException.php" timestamp="1496228940246">
         <mark key="[" line="10" column="0" />
@@ -1086,11 +1091,10 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" timestamp="1504081699226">
-        <mark key="[" line="20" column="30" />
-        <mark key="]" line="26" column="33" />
-        <mark key="." line="26" column="33" />
-        <mark key="^" line="26" column="33" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" timestamp="1504102094302">
+        <mark key="[" line="43" column="21" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/app/Presenters/GroupsPresenter.php" timestamp="1490273967586">
         <mark key="[" line="17" column="4" />
@@ -3110,7 +3114,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504100657093">
+      <file name="/Dummy.txt" timestamp="1504102244573">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
@@ -5137,7 +5141,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJJ3BsYWNlaG9sZGVyJyA9PiAkdGhpcy0+cGxhY2Vob2xkZXIsCg==</text>
       </register>
       <register name="-" type="4">
         <text>{input.errors phoneNumber}</text>
@@ -5149,31 +5153,34 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJJ3BsYWNlaG9sZGVyJyA9PiAkdGhpcy0+cGxhY2Vob2xkZXIsCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkkZm9ybVsnY2VsbFBob25lTnVtYmVyJ10tPmdldENvbnRyb2xQYXJ0KFxJUHViXEZvcm1QaG9uZVxDb250cm9sc1xQaG9uZTo6RklFTERfQ09VTlRSWSktPmFkZENsYXNzKCdmb3JtLWNvbnRyb2wnKTsK</text>
+      <register name="2" type="4">
+        <text>/**
+	 * @var string
+	 */
+	protected $placeholder;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkvLyRmb3JtWydjZWxsUGhvbmVOdW1iZXInXS0+c2V0RGVmYXVsdENvdW50cnkocmVzZXQoJGNlbGxQaG9uZUNvdW50cmllcykpOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gc3RyaW5nICRwbGFjZWhvbGRlcgoJICoKCSAqIEByZXR1cm4gVHlwZWFoZWFkSW5wdXQKCSAqLwoJcHVibGljIGZ1bmN0aW9uIHNldFBsYWNlaG9sZGVyKHN0cmluZyAkcGxhY2Vob2xkZXIpOiBUeXBlYWhlYWRJbnB1dAoJewoJCSR0aGlzLT5wbGFjZWhvbGRlciA9ICRwbGFjZWhvbGRlcjsKCgkJcmV0dXJuICR0aGlzOwoJfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlkdW1wKCRlbC0+cGxhY2Vob2xkZXIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">e3BhaXIgY2VsbFBob25lTnVtYmVyfQo=</text>
+        <text encoding="base64">CQkJCS0+c2V0QXR0cmlidXRlKCdwbGFjZWhvbGRlcicsICduYW1lLnBsYWNlaG9sZGVyJykK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">e3BhaXIgcGhvbmVOdW1iZXJ9Cg==</text>
+        <text encoding="base64">CQkkZm9ybVsnY2VsbFBob25lTnVtYmVyJ10tPmdldENvbnRyb2xQYXJ0KFxJUHViXEZvcm1QaG9uZVxDb250cm9sc1xQaG9uZTo6RklFTERfQ09VTlRSWSktPmFkZENsYXNzKCdmb3JtLWNvbnRyb2wnKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">eyoKPGRpdiBuOmNsYXNzPSJmb3JtLWdyb3VwLCAkZm9ybVsnY2VsbFBob25lTnVtYmVyJ10tPmhhc0Vycm9ycygpID8gJ2hhcy1lcnJvciciPgoJe2xhYmVsIGNlbGxQaG9uZU51bWJlciAvfQoJPGJyLz4KCXtpbnB1dCBjZWxsUGhvbmVOdW1iZXJ9Cgl7aW5wdXQuZXJyb3JzIGNlbGxQaG9uZU51bWJlcn0KPC9kaXY+Cip9</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkvLyRmb3JtWydjZWxsUGhvbmVOdW1iZXInXS0+c2V0RGVmYXVsdENvdW50cnkocmVzZXQoJGNlbGxQaG9uZUNvdW50cmllcykpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PGRpdiBuOmNsYXNzPSJmb3JtLWdyb3VwLCAkZm9ybVsncGhvbmVOdW1iZXInXS0+aGFzRXJyb3JzKCkgPyAnaGFzLWVycm9yJyI+Cgl7bGFiZWwgcGhvbmVOdW1iZXIgL30KCTxkaXYgY2xhc3M9ImNvbC1tZC0zIj4KCQl7JGZvcm1bJ3Bob25lTnVtYmVyJ10tPmdldENvbnRyb2xQYXJ0KFxJUHViXEZvcm1QaG9uZVxDb250cm9sczo6RklFTERfQ09VTlRSWSktPmFkZENsYXNzKCdmb3JtLWNvbnRyb2wnKX0KCTwvZGl2PgoJPGRpdiBjbGFzcz0iY29sLW1kLTYiPgoJCXskZm9ybVsncGhvbmVOdW1iZXInXS0+Z2V0Q29udHJvbFBhcnQoJ251bWJlcicpLT5hZGRDbGFzcygnZm9ybS1jb250cm9sJyl9CgkJe2lucHV0LmVycm9ycyBwaG9uZU51bWJlcn0KCTwvZGl2Pgo8L2Rpdj4=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
