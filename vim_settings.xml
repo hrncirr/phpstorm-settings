@@ -358,12 +358,6 @@
         <mark key="]" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/app/AdminModule/Presenters/BasePresenter.php" timestamp="1504081821963">
-        <mark key="[" line="58" column="26" />
-        <mark key="]" line="53" column="6" />
-        <mark key="^" line="53" column="6" />
-        <mark key="." line="53" column="6" />
-      </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Files/IFileConversionStorage.php" timestamp="1484656775332">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="38" column="4" />
@@ -797,6 +791,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/InvoiceItem.php" timestamp="1504093906774">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="/home/www/html/dv/cms/Modules/Storage/Components/ItemGroupForm/ItemGroupForm.php" timestamp="1498745503872">
         <mark key="[" line="80" column="32" />
         <mark key="]" line="4" column="18" />
@@ -1071,12 +1070,6 @@
         <mark key="[" line="23" column="17" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
-      </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" timestamp="1504081699226">
-        <mark key="[" line="20" column="30" />
-        <mark key="]" line="26" column="33" />
-        <mark key="." line="26" column="33" />
-        <mark key="^" line="26" column="33" />
       </file>
       <file name="/home/www/html/nnb/dms/app/Presenters/GroupsPresenter.php" timestamp="1490273967586">
         <mark key="[" line="17" column="4" />
@@ -1568,12 +1561,6 @@
         <mark key="]" line="693" column="0" />
         <mark key="." line="693" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/ContactForm/ContactForm.latte" timestamp="1504081906421">
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="6" column="52" />
-        <mark key="." line="6" column="52" />
-        <mark key="^" line="6" column="50" />
-      </file>
       <file name="/home/www/html/bul/medical_examinations/app/components/DateSelectorForm/DateSelectorForm.php" timestamp="1481876019764">
         <mark key="[" line="55" column="8" />
         <mark key="]" line="6" column="0" />
@@ -1839,10 +1826,10 @@
         <mark key="]" line="22" column="4" />
         <mark key="." line="22" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Item.php" timestamp="1502097786956">
-        <mark key="[" line="19" column="11" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/Item.php" timestamp="1504093892490">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/client-side/js/hrncirr.cmp.mediaelement.player.init.js" timestamp="1477049218979">
         <mark key="[" line="26" column="12" />
@@ -3525,12 +3512,6 @@
         <mark key="]" line="10" column="58" />
         <mark key="." line="10" column="58" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Install/InvoicingInstall.php" timestamp="1504087279802">
-        <mark key="[" line="36" column="34" />
-        <mark key="]" line="32" column="8" />
-        <mark key="." line="32" column="8" />
-        <mark key="^" line="74" column="8" />
-      </file>
       <file name="/home/www/vendor/nnb/bootstrap/src/DI/config/client-side.neon" timestamp="1491306999380">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -4341,11 +4322,10 @@
         <mark key="]" line="55" column="8" />
         <mark key="." line="55" column="8" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/ContactForm/ContactForm.php" timestamp="1504092782595">
-        <mark key="[" line="84" column="22" />
-        <mark key="]" line="115" column="8" />
-        <mark key="." line="115" column="8" />
-        <mark key="^" line="102" column="35" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/ContactForm/ContactForm.php" timestamp="1504093848191">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/app/Utils/AppCacheHelpers.php" timestamp="1500965471928">
         <mark key="[" line="53" column="31" />
@@ -5081,10 +5061,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICogQHByb3BlcnR5IHN0cmluZyAgICRlbWFpbAo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPmNyZWF0ZUNvbnRhY3RGb3JtUGFydCgkZm9ybSk7</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
@@ -5093,19 +5073,19 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQHByb3BlcnR5IHN0cmluZyAgICRlbWFpbAo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">CQkkY29udGFjdC0+ZW0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICogQHByb3BlcnR5IHN0cmluZyAgICRlbWFpbAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICoK</text>
@@ -5117,7 +5097,7 @@
         <text encoding="base64">ICoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXERhdGVUaW1lOwo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
