@@ -143,8 +143,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/DI/Presenters/InquiriesPresenter.php" timestamp="1504086115034">
-        <mark key="[" line="23" column="6" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/DI/Presenters/InquiriesPresenter.php" timestamp="1504087637281">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Folders/Events/FolderFileListener.php" timestamp="1484309785340">
         <mark key="[" line="21" column="4" />
@@ -1106,6 +1108,11 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Inquiry.php" timestamp="1504088239704">
+        <mark key="[" line="60" column="40" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="/home/www/vendor/hrncirr/control-token/src/ControlToken.php" timestamp="1474463484944">
         <mark key="[" line="42" column="20" />
         <mark key="]" line="25" column="4" />
@@ -1401,7 +1408,7 @@
         <mark key="]" line="60" column="8" />
         <mark key="." line="60" column="8" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/TContact.php" timestamp="1504078808888">
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/TContact.php" timestamp="1504088091606">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
@@ -3502,8 +3509,8 @@
         <mark key="]" line="10" column="58" />
         <mark key="." line="10" column="58" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Install/InvoicingInstall.php" timestamp="1504084385594">
-        <mark key="[" line="32" column="4" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Install/InvoicingInstall.php" timestamp="1504087279802">
+        <mark key="[" line="36" column="34" />
         <mark key="]" line="32" column="8" />
         <mark key="." line="32" column="8" />
         <mark key="^" line="74" column="8" />
@@ -4729,6 +4736,9 @@
         <mark key="]" line="43" column="8" />
         <mark key="." line="43" column="8" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/DI/Presenters/templates/Inquiries/default.latte" timestamp="1504087341667">
+        <mark key="[" line="1" column="5" />
+      </file>
       <file name="/home/www/html/dv/cms/app/config/services.neon" timestamp="1500965389574">
         <mark key="[" line="2" column="32" />
         <mark key="]" line="2" column="32" />
@@ -5046,8 +5056,8 @@
       <jump line="208" column="0" filename="/home/www/html/nnb/passportization/js/floor.map.init.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">J2ludm9pY2VzJyA9PiBbCgkJCSdwYXRoJyA9PiAnaW52b2ljaW5nJywKCQkJJ25hbWUnID0+ICdpbnZvaWNlcycsCgkJCSd1cmwnID0+ICdJbnZvaWNpbmc6SW52b2ljZXM6ZGVmYXVsdCcsCgkJCSdpY29uJyA9PiAnZmlsZS10ZXh0LW8nLAoJCQkndHJhbnNsYXRpb25zJyA9PiBbCgkJCQknZW4nID0+IFsKCQkJCQkndGl0bGUnID0+ICdJbnZvaWNlcycKCQkJCV0sCgkJCQknY3MnID0+IFsKCQkJCQkndGl0bGUnID0+ICdGYWt0dXJ5JwoJCQkJXQoJCQldCgkJXSw=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXERhdGVUaW1lOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JHRoaXMtPmNyZWF0ZUNvbnRhY3RGb3JtUGFydCgkZm9ybSk7</text>
@@ -5058,34 +5068,32 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">J2ludm9pY2VzJyA9PiBbCgkJCSdwYXRoJyA9PiAnaW52b2ljaW5nJywKCQkJJ25hbWUnID0+ICdpbnZvaWNlcycsCgkJCSd1cmwnID0+ICdJbnZvaWNpbmc6SW52b2ljZXM6ZGVmYXVsdCcsCgkJCSdpY29uJyA9PiAnZmlsZS10ZXh0LW8nLAoJCQkndHJhbnNsYXRpb25zJyA9PiBbCgkJCQknZW4nID0+IFsKCQkJCQkndGl0bGUnID0+ICdJbnZvaWNlcycKCQkJCV0sCgkJCQknY3MnID0+IFsKCQkJCQkndGl0bGUnID0+ICdGYWt0dXJ5JwoJCQkJXQoJCQldCgkJXSw=</text>
+      <register name="1" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXERhdGVUaW1lOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">J2lucXVpcmllcycgPT4gWwoJCQkncGF0aCcgPT4gJ2ludm9pY2luZycsCgkJCSduYW1lJyA9PiAnaW5xdWlyaWVzJywKCQkJJ3VybCcgPT4gJ0ludm9pY2luZzpJbnZvaWNlczpkZWZhdWx0JywKCQkJJ2ljb24nID0+ICdmaWxlLXRleHQtbycsCgkJCSd0cmFuc2xhdGlvbnMnID0+IFsKCQkJCSdlbicgPT4gWwoJCQkJCSd0aXRsZScgPT4gJ0lucXVpcmllcycKCQkJCV0sCgkJCQknY3MnID0+IFsKCQkJCQkndGl0bGUnID0+ICdQb3B0w6F2a3knCgkJCQldCgkJCV0KCQldLA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">dXNlIEFkZHJlc3NCb29rXEZvcm1PZlBheW1lbnQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Kn0K</text>
+        <text encoding="base64">dXNlIERvY3RyaW5lXENvbW1vblxDb2xsZWN0aW9uc1xBcnJheUNvbGxlY3Rpb247Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eyoK</text>
+        <text encoding="base64">ICogQHByb3BlcnR5IEZvcm1PZlBheW1lbnQgJGZvcm1PZlBheW1lbnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXsqIGR1bXAgJGZvcm0gKn0K</text>
+        <text encoding="base64">ICogQHByb3BlcnR5IGludCAgICAgICAgICAgJHByaWNlCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PGRpdiBuOmNsYXNzPSJmb3JtLWdyb3VwLCAkZm9ybVsncGhvbmVOdW1iZXInXS0+aGFzRXJyb3JzKCkgPyAnaGFzLWVycm9yJyI+CgkJe2xhYmVsIHBob25lTnVtYmVyIC99CgkJPGJyLz4KCQl7aW5wdXQgcGhvbmVOdW1iZXJ9CgkJe2lucHV0LmVycm9ycyBwaG9uZU51bWJlcn0KCTwvZGl2PgoKCTxkaXYgbjpjbGFzcz0iZm9ybS1ncm91cCwgJGZvcm1bJ2NlbGxQaG9uZU51bWJlciddLT5oYXNFcnJvcnMoKSA/ICdoYXMtZXJyb3InIj4KCQl7bGFiZWwgY2VsbFBob25lTnVtYmVyIC99CgkJPGJyLz4KCQl7aW5wdXQgY2VsbFBob25lTnVtYmVyfQoJCXtpbnB1dC5lcnJvcnMgY2VsbFBob25lTnVtYmVyfQoJPC9kaXY+CgoJe3BhaXIgZW1haWx9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICogQHByb3BlcnR5IGludCAgICAgICAgICAgJGRpc2NvdW50Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>{pair name}
-	{pair surname}
-	{pair degree}</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICogQHByb3BlcnR5IGludCAgICAgICAgICAgJGNvbnN0YW50U3ltYm9sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXEZvcm1zXEZvcm07Cg==</text>
+        <text encoding="base64">ICogQHByb3BlcnR5IGludCAgICAgICAgICAgJHZhcmlhYmxlU3ltYm9sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIElQdWJcUGhvbmVcUGhvbmU7Cg==</text>
+        <text encoding="base64">ICogQHByb3BlcnR5IGludCAgICAgICAgICAgJG9yZGVyTnVtYmVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
