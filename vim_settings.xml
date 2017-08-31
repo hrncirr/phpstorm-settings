@@ -914,10 +914,10 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Employees/Employee.php" timestamp="1504169136027">
-        <mark key="[" line="20" column="13" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Employees/Employee.php" timestamp="1504190476361">
+        <mark key="[" line="53" column="15" />
+        <mark key="]" line="53" column="8" />
+        <mark key="." line="53" column="8" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Storage/locale/validators.cs_CZ.neon" timestamp="1504015336550">
         <mark key="[" line="27" column="24" />
@@ -1660,10 +1660,10 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1504169382175">
-        <mark key="[" line="125" column="52" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1504190436096">
+        <mark key="[" line="126" column="54" />
+        <mark key="]" line="126" column="54" />
+        <mark key="." line="126" column="54" />
       </file>
       <file name="/home/www/html/dv/cms/src/Url/RouteGenerator.php" timestamp="1500639844606">
         <mark key="[" line="3" column="1" />
@@ -3154,7 +3154,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504188807020">
+      <file name="/Dummy.txt" timestamp="1504190606808">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
@@ -5184,15 +5184,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dump($value);
-				
-				if (is_array($value)) {
-					$value = null;
-					return;
-				}</text>
+        <text>substr((string)</text>
       </register>
       <register name="-" type="4">
-        <text>, 'street'</text>
+        <text>substr((string)</text>
       </register>
       <register name="/" type="4">
         <text>Primary</text>
@@ -5201,6 +5196,9 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">JGRlZ3JlZUJlZm9yZSA9ICR0aGlzLT5kZWdyZWVCZWZvcmUgPz8gbnVsbDsKCQkkZGVncmVlQWZ0ZXIgPSAkdGhpcy0+ZGVncmVlQWZ0ZXIgPz8gbnVsbDsKCgkJcmV0dXJuICgkZGVncmVlQmVmb3JlID8gJGRlZ3JlZUJlZm9yZSAuICcgJyA6ICcnKSAuICR0aGlzLT5uYW1lIC4gJyAnIC4gJHRoaXMtPnN1cm5hbWUgLgoJCQkoJGRlZ3JlZUFmdGVyID8gJyAnIC4gJGRlZ3JlZUFmdGVyIDogJycpOw==</text>
+      </register>
+      <register name="2" type="4">
         <text>dump($value);
 				
 				if (is_array($value)) {
@@ -5208,29 +5206,26 @@
 					return;
 				}</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">JGNvbXBvbmVudE5hbWVzID0gYXJyYXlfbWFwKGZ1bmN0aW9uIChJQ29tcG9uZW50ICRjb21wb25lbnQpIHsKCQkJCXJldHVybiAkY29tcG9uZW50LT5nZXROYW1lKCk7CgkJCX0sIGl0ZXJhdG9yX3RvX2FycmF5KCRmb3JtLT5nZXRDb21wb25lbnRzKEZBTFNFKSkpOw==</text>
-      </register>
       <register name="3" type="4">
-        <text encoding="base64">J25hbWUnID0+ICRzdWJqZWN0LT5uYW1lLAoJCQkJJ2NpbicgPT4gJHN1YmplY3QtPmNpbiwKCQkJCSd0aW4nID0+ICRzdWJqZWN0LT50aW4s</text>
+        <text encoding="base64">JGNvbXBvbmVudE5hbWVzID0gYXJyYXlfbWFwKGZ1bmN0aW9uIChJQ29tcG9uZW50ICRjb21wb25lbnQpIHsKCQkJCXJldHVybiAkY29tcG9uZW50LT5nZXROYW1lKCk7CgkJCX0sIGl0ZXJhdG9yX3RvX2FycmF5KCRmb3JtLT5nZXRDb21wb25lbnRzKEZBTFNFKSkpOw==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">JGNvbXBvbmVudE5hbWVzID0gYXJyYXlfbWFwKGZ1bmN0aW9uIChJQ29tcG9uZW50ICRjb21wb25lbnQpIHsKCQkJCXJldHVybiAkY29tcG9uZW50LT5nZXROYW1lKCk7CgkJCX0sIGl0ZXJhdG9yX3RvX2FycmF5KCRjb250YWluZXItPmdldENvbXBvbmVudHMoRkFMU0UpKSk7</text>
+        <text encoding="base64">J25hbWUnID0+ICRzdWJqZWN0LT5uYW1lLAoJCQkJJ2NpbicgPT4gJHN1YmplY3QtPmNpbiwKCQkJCSd0aW4nID0+ICRzdWJqZWN0LT50aW4s</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">JGNvbXBvbmVudE5hbWVzID0gYXJyYXlfbWFwKGZ1bmN0aW9uIChJQ29tcG9uZW50ICRjb21wb25lbnQpIHsKCQkJCXJldHVybiAkY29tcG9uZW50LT5nZXROYW1lKCk7CgkJCX0sIGl0ZXJhdG9yX3RvX2FycmF5KCRjb250YWluZXItPmdldENvbXBvbmVudHMoRkFMU0UpKSk7</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">JGNvbXBvbmVudE5hbWVzID0gYXJyYXlfbWFwKGZ1bmN0aW9uIChJQ29tcG9uZW50ICRjb21wb25lbnQpIHsKCQkJCXJldHVybiAkY29tcG9uZW50LT5nZXROYW1lKCk7CgkJCX0sIGl0ZXJhdG9yX3RvX2FycmF5KCRmb3JtLT5nZXRDb21wb25lbnRzKEZBTFNFKSkpOw==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJJHRoaXMtPmdldEZvcm0oKS0+c2V0VmFsdWVzKCR2YWx1ZXMpOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJJHZhbHVlcyA9IFtdOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJJGZvcm1WYWx1ZXMgPSAkdGhpcy0+Z2V0Rm9ybSgpLT5nZXRWYWx1ZXMoKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJJGZvcm1WYWx1ZXMgPSAkdGhpcy0+Z2V0Rm9ybSgpLT5nZXRWYWx1ZXMoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
