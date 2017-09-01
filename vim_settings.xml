@@ -223,10 +223,10 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Presenters/DefaultPresenter.php" timestamp="1503563150418">
-        <mark key="[" line="85" column="38" />
-        <mark key="]" line="58" column="27" />
-        <mark key="." line="58" column="27" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Presenters/DefaultPresenter.php" timestamp="1504268508683">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="8" />
+        <mark key="." line="43" column="8" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/components/RoomDetailControl/RoomDetailControl.php" timestamp="1486633504198">
         <mark key="[" line="61" column="37" />
@@ -1151,10 +1151,10 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/app/Model/CostCentersModel.php" timestamp="1503299294506">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="/home/www/html/nnb/passportization/app/Model/CostCentersModel.php" timestamp="1504266152432">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="4" />
+        <mark key="." line="28" column="4" />
       </file>
       <file name="/home/www/vendor/hrncirr/media/src/Doctrine/Events/MediaListener.php" timestamp="1493983466272">
         <mark key="[" line="66" column="8" />
@@ -1490,6 +1490,11 @@
         <mark key="[" line="63" column="32" />
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/AccessRightsModel.php" timestamp="1504264040743">
+        <mark key="[" line="44" column="4" />
+        <mark key="]" line="29" column="4" />
+        <mark key="." line="29" column="4" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemsGrid/ItemsGrid.php" timestamp="1504103969393">
         <mark key="[" line="91" column="4" />
@@ -4553,10 +4558,10 @@
         <mark key="]" line="42" column="4" />
         <mark key="." line="42" column="4" />
       </file>
-      <file name="/home/www/html/nnb/passportization/app/Model/CostCentersTreeModel.php" timestamp="1502966233722">
-        <mark key="[" line="36" column="49" />
-        <mark key="]" line="36" column="49" />
-        <mark key="." line="36" column="49" />
+      <file name="/home/www/html/nnb/passportization/app/Model/CostCentersTreeModel.php" timestamp="1504268445410">
+        <mark key="[" line="68" column="4" />
+        <mark key="]" line="68" column="8" />
+        <mark key="." line="68" column="8" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Storage/AdminModule/Components/GroupGrid/IGroupsGridFactory.php" timestamp="1497015158930">
         <mark key="[" line="1" column="0" />
@@ -5227,10 +5232,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JGdyaWQtPnNldERlZmF1bHRTb3J0KFsnZGF0ZScsICdBU0MnXSk7</text>
+        <text encoding="base64">ZHVtcCgkdGhpcy0+Y29zdENlbnRlcnNUcmVlTW9kZWwtPmZpbmROZWFyZXN0KDk5NTkyMCkpOwoJCWV4aXQ7</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGdyaWQtPnNldERlZmF1bHRTb3J0KFsnZGF0ZScsICdBU0MnXSk7</text>
+        <text>$id = (string)$id;</text>
       </register>
       <register name="/" type="4">
         <text>ItemGroup</text>
@@ -5239,35 +5244,35 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>discount:
-		title: &quot;Sleva&quot;
-		placeholder: &quot;%&quot;</text>
+        <text encoding="base64">ZHVtcCgkdGhpcy0+Y29zdENlbnRlcnNUcmVlTW9kZWwtPmZpbmROZWFyZXN0KDk5NTkyMCkpOwoJCWV4aXQ7</text>
       </register>
-      <register name="2" type="4">
-        <text>text:
-		title: &quot;Text&quot;
-		placeholder: &quot;Popis poptávaných služeb nebo zboží&quot;</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEludm9pY2luZ1xDb21wb25lbnRzXE9yZGVyRm9ybVxJT3JkZXJGb3JtRmFjdG9yeTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEludm9pY2luZ1xDb21wb25lbnRzXE9mZmVyc0dyaWRcT2ZmZXJzR3JpZDsK</text>
+        <text encoding="base64">CQlkdW1wKCRjbG9zZXN0KTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXNlIEludm9pY2luZ1xDb21wb25lbnRzXE9mZmVyc0dyaWRcSU9mZmVyc0dyaWRGYWN0b3J5Owo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">JGNsb3Nlc3QgPSAnJzsKCgkJLyoKCQkkc2hvcnRlc3QgPSAtMTsKCQlmb3JlYWNoICgkdGhpcy0+Y29zdENlbnRlcnNNb2RlbC0+ZmluZEFsbCgpLT5mZXRjaFBhaXJzKCdpZCcsICdpZCcpIEFTICR0bXBJZCkgewoJCQkkbGV2ID0gbGV2ZW5zaHRlaW4oKHN0cmluZykgJGlkLCAoc3RyaW5nKSAkdG1wSWQpOwoJCQlpZiAoJGxldiA9PT0gMCkgewoJCQkJJGNsb3Nlc3QgPSAkdG1wSWQ7CgkJCQkkc2hvcnRlc3QgPSAwOwoJCQkJYnJlYWs7CgkJCX0KCgkJCWlmICgkbGV2IDw9ICRzaG9ydGVzdCB8fCAkc2hvcnRlc3QgPCAwKSB7CgkJCQkkY2xvc2VzdCA9ICR0bXBJZDsKCQkJCSRzaG9ydGVzdCA9ICRsZXY7CgkJCX0KCQl9CgoJCWR1bXAoJGNsb3Nlc3QpOwoJCSovCgoJCSRjbG9zZXN0ID0gJyc7CgoJCSRpZCA9IChzdHJpbmcpJGlkOwoJCWR1bXAoJGlkKTsKCQkvL2V4aXQ7</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>if ($tmpId[$i] !== $id[$i]) {
+					break;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQllY2hvICdhYWFhJzsK</text>
+        <text encoding="base64">CQkJCQljb250aW51ZTsK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">JGZvcm0tPmFkZFRleHRBcmVhKCd0ZXh0JywgJ3RleHQudGl0bGUnKQoJCQktPnNldEF0dHJpYnV0ZSgncGxhY2Vob2xkZXInLCAndGV4dC5wbGFjZWhvbGRlcicpOw==</text>
+        <text>dump($i);
+					dump($tmpId[$i]);
+					dump($id[$i]);
+					dump($tmpId);</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">aWYgKHN0cmxlbigkaWQpIDwgc3RybGVuKCR0bXBJZCkpIHsKCQkJCWNvbnRpbnVlOwoJCQl9</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
