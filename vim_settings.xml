@@ -1889,10 +1889,10 @@
         <mark key="]" line="5" column="4" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/TSubject.php" timestamp="1504247046240">
-        <mark key="[" line="39" column="6" />
-        <mark key="]" line="39" column="7" />
-        <mark key="." line="39" column="7" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/TSubject.php" timestamp="1504247683695">
+        <mark key="[" line="33" column="33" />
+        <mark key="]" line="38" column="7" />
+        <mark key="." line="38" column="7" />
       </file>
       <file name="/home/www/html/dv/adera/src/Users/AdminModule/Presenters/UsersPresenter.php" timestamp="1500880377092">
         <mark key="[" line="24" column="41" />
@@ -3630,10 +3630,10 @@
         <mark key="]" line="19" column="4" />
         <mark key="." line="19" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InquiriesGrid/InquiriesGrid.php" timestamp="1504103881095">
-        <mark key="[" line="96" column="4" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InquiriesGrid/InquiriesGrid.php" timestamp="1504248877876">
+        <mark key="[" line="125" column="16" />
+        <mark key="]" line="125" column="16" />
+        <mark key="." line="125" column="16" />
       </file>
       <file name="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/IToManyContainer.php" timestamp="1501742026442">
         <mark key="[" line="26" column="0" />
@@ -5189,11 +5189,11 @@
       <jump line="554" column="46" filename="/home/www/lib/vendor/nextras/orm/src/Entity/AbstractEntity.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2luUmFuZ2VNYXg6ICJJxIxPIG5lc23DrSBiw710IHbEm3TFocOtIG5lxb4gOTk5OTk5OTkuIgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cmV0dXJuICRpbnF1aXJ5LT5maXJzdE5hbWUgLiAnICcgLiAkaW5xdWlyeS0+c3VybmFtZSAuICc8YnIgLz4nIC4=</text>
       </register>
       <register name="-" type="4">
-        <text>substr((string)</text>
+        <text encoding="base64">cmV0dXJuICRpbnF1aXJ5LT5maXJzdE5hbWUgLiAnICcgLiAkaW5xdWlyeS0+c3VybmFtZSAuICc8YnIgLz4nIC4=</text>
       </register>
       <register name="/" type="4">
         <text>Primary</text>
@@ -5202,36 +5202,34 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2luUmFuZ2VNYXg6ICJJxIxPIG5lc23DrSBiw710IHbEm3TFocOtIG5lxb4gOTk5OTk5OTkuIgo=</text>
+        <text encoding="base64">CQkJCUh0bWw6OmVsKCd0YWJsZScpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2luUmFuZ2VNaW46ICJJxIxPIG5lc23DrSBiw710IHrDoXBvcm7DqSBob2Rub3R5LiIK</text>
+        <text encoding="base64">CQkJLT5zZXREZWZhdWx0SGlkZSgpOwo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">JHRoaXMtPnNldFJlcXVpcmVkKGZhbHNlKQoJCQktPmFkZFJ1bGUoRm9ybTo6SU5URUdFUik7</text>
+        <text>/**
+ * This file is part of the cms
+ * Copyright (c) 2015 Roman Hrnčíř
+ */</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICB0eXBlPSJpbnRlZ2VyIiwKCSAqICAgICAgbWVzc2FnZT0iY2luSW50ZWdlciIKCSAqICkKCSAqIEBBc3NlcnRcUmFuZ2UoCgkgKiAgICAgIG1pbiA9IDAsCgkgKiAgICAgIG1heCA9IDk5OTk5OTk5LAoJICogICAgICBtaW5NZXNzYWdlID0gImNpblJhbmdlTWluIiwKCSAqICAgICAgbWF4TWVzc2FnZSA9ICJjaW5SYW5nZU1heCIKCSAqICk=</text>
+      <register name="4" type="2">
+        <text encoding="base64">dXNlIEludm9pY2luZ1xJbnZvaWNlOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">JGRlZ3JlZUJlZm9yZSA9ICR0aGlzLT5kZWdyZWVCZWZvcmUgPz8gbnVsbDsKCQkkZGVncmVlQWZ0ZXIgPSAkdGhpcy0+ZGVncmVlQWZ0ZXIgPz8gbnVsbDsKCgkJcmV0dXJuICgkZGVncmVlQmVmb3JlID8gJGRlZ3JlZUJlZm9yZSAuICcgJyA6ICcnKSAuICR0aGlzLT5uYW1lIC4gJyAnIC4gJHRoaXMtPnN1cm5hbWUgLgoJCQkoJGRlZ3JlZUFmdGVyID8gJyAnIC4gJGRlZ3JlZUFmdGVyIDogJycpOw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Y2luUmFuZ2VNYXg6ICJJxIxPIG5lc23DrSBiw710IHbEm3TFocOtIG5lxb4gOTk5OTk5OTkuIgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>dump($value);
-				
-				if (is_array($value)) {
-					$value = null;
-					return;
-				}</text>
+      <register name="6" type="2">
+        <text encoding="base64">Y2luUmFuZ2VNaW46ICJJxIxPIG5lc23DrSBiw710IHrDoXBvcm7DqSBob2Rub3R5LiIK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">JGNvbXBvbmVudE5hbWVzID0gYXJyYXlfbWFwKGZ1bmN0aW9uIChJQ29tcG9uZW50ICRjb21wb25lbnQpIHsKCQkJCXJldHVybiAkY29tcG9uZW50LT5nZXROYW1lKCk7CgkJCX0sIGl0ZXJhdG9yX3RvX2FycmF5KCRmb3JtLT5nZXRDb21wb25lbnRzKEZBTFNFKSkpOw==</text>
+        <text encoding="base64">JHRoaXMtPnNldFJlcXVpcmVkKGZhbHNlKQoJCQktPmFkZFJ1bGUoRm9ybTo6SU5URUdFUik7</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">J25hbWUnID0+ICRzdWJqZWN0LT5uYW1lLAoJCQkJJ2NpbicgPT4gJHN1YmplY3QtPmNpbiwKCQkJCSd0aW4nID0+ICRzdWJqZWN0LT50aW4s</text>
+        <text encoding="base64">ICAgICB0eXBlPSJpbnRlZ2VyIiwKCSAqICAgICAgbWVzc2FnZT0iY2luSW50ZWdlciIKCSAqICkKCSAqIEBBc3NlcnRcUmFuZ2UoCgkgKiAgICAgIG1pbiA9IDAsCgkgKiAgICAgIG1heCA9IDk5OTk5OTk5LAoJICogICAgICBtaW5NZXNzYWdlID0gImNpblJhbmdlTWluIiwKCSAqICAgICAgbWF4TWVzc2FnZSA9ICJjaW5SYW5nZU1heCIKCSAqICk=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">JGNvbXBvbmVudE5hbWVzID0gYXJyYXlfbWFwKGZ1bmN0aW9uIChJQ29tcG9uZW50ICRjb21wb25lbnQpIHsKCQkJCXJldHVybiAkY29tcG9uZW50LT5nZXROYW1lKCk7CgkJCX0sIGl0ZXJhdG9yX3RvX2FycmF5KCRjb250YWluZXItPmdldENvbXBvbmVudHMoRkFMU0UpKSk7</text>
+        <text encoding="base64">JGRlZ3JlZUJlZm9yZSA9ICR0aGlzLT5kZWdyZWVCZWZvcmUgPz8gbnVsbDsKCQkkZGVncmVlQWZ0ZXIgPSAkdGhpcy0+ZGVncmVlQWZ0ZXIgPz8gbnVsbDsKCgkJcmV0dXJuICgkZGVncmVlQmVmb3JlID8gJGRlZ3JlZUJlZm9yZSAuICcgJyA6ICcnKSAuICR0aGlzLT5uYW1lIC4gJyAnIC4gJHRoaXMtPnN1cm5hbWUgLgoJCQkoJGRlZ3JlZUFmdGVyID8gJyAnIC4gJGRlZ3JlZUFmdGVyIDogJycpOw==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
