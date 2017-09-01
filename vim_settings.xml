@@ -223,10 +223,10 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Presenters/DefaultPresenter.php" timestamp="1504268508683">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="8" />
-        <mark key="." line="43" column="8" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Presenters/DefaultPresenter.php" timestamp="1504269517457">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="4" />
+        <mark key="." line="38" column="4" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/components/RoomDetailControl/RoomDetailControl.php" timestamp="1486633504198">
         <mark key="[" line="61" column="37" />
@@ -3187,7 +3187,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504262419717">
+      <file name="/Dummy.txt" timestamp="1504269513239">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
@@ -5232,7 +5232,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZHVtcCgkdGhpcy0+Y29zdENlbnRlcnNUcmVlTW9kZWwtPmZpbmROZWFyZXN0KDk5NTkyMCkpOwoJCWV4aXQ7</text>
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHJlbmRlckRlZmF1bHQoKQoJewoJCS8qKiBAdmFyIFRlbXBsYXRlICR0ZW1wbGF0ZSAqLwoJCSR0ZW1wbGF0ZSA9ICR0aGlzLT5nZXRUZW1wbGF0ZSgpOwoJfQ==</text>
       </register>
       <register name="-" type="4">
         <text>$id = (string)$id;</text>
@@ -5244,35 +5244,35 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ZHVtcCgkdGhpcy0+Y29zdENlbnRlcnNUcmVlTW9kZWwtPmZpbmROZWFyZXN0KDk5NTkyMCkpOwoJCWV4aXQ7</text>
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHJlbmRlckRlZmF1bHQoKQoJewoJCS8qKiBAdmFyIFRlbXBsYXRlICR0ZW1wbGF0ZSAqLwoJCSR0ZW1wbGF0ZSA9ICR0aGlzLT5nZXRUZW1wbGF0ZSgpOwoJfQ==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ZHVtcCgkdGhpcy0+Y29zdENlbnRlcnNUcmVlTW9kZWwtPmZpbmROZWFyZXN0KDk5NTkyMCkpOwoJCWV4aXQ7</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CQlkdW1wKCRjbG9zZXN0KTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">JGNsb3Nlc3QgPSAnJzsKCgkJLyoKCQkkc2hvcnRlc3QgPSAtMTsKCQlmb3JlYWNoICgkdGhpcy0+Y29zdENlbnRlcnNNb2RlbC0+ZmluZEFsbCgpLT5mZXRjaFBhaXJzKCdpZCcsICdpZCcpIEFTICR0bXBJZCkgewoJCQkkbGV2ID0gbGV2ZW5zaHRlaW4oKHN0cmluZykgJGlkLCAoc3RyaW5nKSAkdG1wSWQpOwoJCQlpZiAoJGxldiA9PT0gMCkgewoJCQkJJGNsb3Nlc3QgPSAkdG1wSWQ7CgkJCQkkc2hvcnRlc3QgPSAwOwoJCQkJYnJlYWs7CgkJCX0KCgkJCWlmICgkbGV2IDw9ICRzaG9ydGVzdCB8fCAkc2hvcnRlc3QgPCAwKSB7CgkJCQkkY2xvc2VzdCA9ICR0bXBJZDsKCQkJCSRzaG9ydGVzdCA9ICRsZXY7CgkJCX0KCQl9CgoJCWR1bXAoJGNsb3Nlc3QpOwoJCSovCgoJCSRjbG9zZXN0ID0gJyc7CgoJCSRpZCA9IChzdHJpbmcpJGlkOwoJCWR1bXAoJGlkKTsKCQkvL2V4aXQ7</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>if ($tmpId[$i] !== $id[$i]) {
 					break;</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCQljb250aW51ZTsK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>dump($i);
 					dump($tmpId[$i]);
 					dump($id[$i]);
 					dump($tmpId);</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">aWYgKHN0cmxlbigkaWQpIDwgc3RybGVuKCR0bXBJZCkpIHsKCQkJCWNvbnRpbnVlOwoJCQl9</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
