@@ -797,6 +797,9 @@
         <mark key="]" line="67" column="23" />
         <mark key="." line="67" column="23" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Forms/Controls/CinInput.php" timestamp="1504599811478">
+        <mark key="[" line="130" column="31" />
+      </file>
       <file name="/home/www/lib/vendor/hrncirr/forms-typeahead/src/Exceptions/InvalidArgumentException.php" timestamp="1496228940246">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -821,6 +824,11 @@
         <mark key="[" line="88" column="0" />
         <mark key="]" line="27" column="18" />
         <mark key="." line="27" column="18" />
+      </file>
+      <file name="/home/www/html/dv/adera/www/js/invoicing.js" timestamp="1504598081050">
+        <mark key="[" line="136" column="12" />
+        <mark key="]" line="136" column="12" />
+        <mark key="." line="136" column="12" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/xml-serializer/src/Naming/LongNamingStrategy.php" timestamp="1503479233197">
         <mark key="[" line="22" column="0" />
@@ -3208,7 +3216,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504534529780">
+      <file name="/Dummy.txt" timestamp="1504600034463">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
@@ -3253,7 +3261,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Presenters/DefaultPresenter.php" timestamp="1504526611649" />
       <file name="/home/www/vendor/nnb/application/src/DI/ApplicationExtension.php" timestamp="1500620318607">
         <mark key="[" line="86" column="13" />
         <mark key="]" line="86" column="14" />
@@ -4640,10 +4647,10 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/www/js/ares.js" timestamp="1503496634675">
-        <mark key="[" line="23" column="30" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/home/www/html/dv/adera/www/js/ares.js" timestamp="1504600011634">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Compiler/Compiler.php" timestamp="1496128438727">
         <mark key="[" line="8" column="0" />
@@ -4999,10 +5006,10 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formItems.latte" timestamp="1504260366055">
-        <mark key="[" line="3" column="71" />
-        <mark key="]" line="3" column="71" />
-        <mark key="." line="3" column="71" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formItems.latte" timestamp="1504597817085">
+        <mark key="[" line="69" column="48" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="/home/www/html/bul/laboratory-methods/app/components/BaseControl.php" timestamp="1496668210990">
         <mark key="[" line="8" column="0" />
@@ -5254,10 +5261,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkkKHRoaXMpLm9mZignY2xpY2snKS5vbignY2xpY2snLCBmdW5jdGlvbiAoZSkgeyBlLnByZXZlbnREZWZhdWx0KCk7IH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>(string)</text>
+        <text>$(this).find('span').addClass('fa-spin');</text>
       </register>
       <register name="/" type="4">
         <text>getSelectedPath</text>
@@ -5266,31 +5273,38 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkkKHRoaXMpLm9mZignY2xpY2snKS5vbignY2xpY2snLCBmdW5jdGlvbiAoZSkgeyBlLnByZXZlbnREZWZhdWx0KCk7IH0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSJQbGVhc2UgZW50ZXIgYSB2YWxpZCBlbWFpbCBhZGRyZXNzLiI6ICJQcm9zw61tIHZsb8W+dGUgcGxhdG5vdSBlbWFpbG92b3UgYWRyZXN1LiIK</text>
+        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coJ29rJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJJGl0ZW0gPSAkdGhpcy0+aXRlbXNbJGtleV07Cg==</text>
+        <text encoding="base64">CQkJCQkvLyQoJyMnICsgJCh0aGlzKS5kYXRhKCdpbnB1dCcpKQo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ZHVtcCgkdGhpcy0+aXRlbXMpOwoJCS8vJHBhdGhbXSA9ICcwJzsKCQlkdW1wKCRwYXRoKTs=</text>
+        <text>if ($vatValueEl.data('old-value') !== vat) {
+				duration = duration + delayDurationStep;
+
+				$vatValueEl.hide().text(this.formatCurrency(vat)).delay(duration).fadeIn(fadeInDuration);
+				$vatValueEl.data('old-value', vat);
+
+				this.countUp($vatValueEl);
+			}</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJJHBhdGhbXSA9ICRrZXk7Cg==</text>
+        <text encoding="base64">CQkJKn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJZHVtcCgkcGFyZW50KTsK</text>
+        <text encoding="base64">CQkJeyoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJZHVtcCgkcGFyZW50KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJZHVtcCgnYWFhYWEnKTsK</text>
+        <text encoding="base64">CSJQbGVhc2UgZW50ZXIgYSB2YWxpZCBlbWFpbCBhZGRyZXNzLiI6ICJQcm9zw61tIHZsb8W+dGUgcGxhdG5vdSBlbWFpbG92b3UgYWRyZXN1LiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJJGl0ZW0gPSAkdGhpcy0+aXRlbXNbJGtleV07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
