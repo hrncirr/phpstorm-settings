@@ -840,8 +840,10 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Presenters/templates/Invoices/default.latte" timestamp="1504619750976">
-        <mark key="[" line="8" column="37" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Presenters/templates/Invoices/default.latte" timestamp="1504622553961">
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="8" column="33" />
+        <mark key="." line="8" column="33" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Pages/AdminModule/Components/VersionsControlFactory.php" timestamp="1497015261995">
         <mark key="[" line="8" column="0" />
@@ -5236,10 +5238,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JGludm9pY2UtPm51bWJlciA9IFJhbmRvbTo6Z2VuZXJhdGUoKTs=</text>
+        <text>{ifset $invoice}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGludm9pY2UtPm51bWJlciA9IFJhbmRvbTo6Z2VuZXJhdGUoKTs=</text>
+        <text>{ifset $invoice}</text>
       </register>
       <register name="/" type="4">
         <text>costCentersTree</text>
