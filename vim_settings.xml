@@ -223,10 +223,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Presenters/DefaultPresenter.php" timestamp="1504602024851">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="4" />
-        <mark key="." line="37" column="4" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Presenters/DefaultPresenter.php" timestamp="1504603487986">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="4" />
+        <mark key="." line="38" column="4" />
+        <mark key="^" line="54" column="0" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/components/RoomDetailControl/RoomDetailControl.php" timestamp="1486633504198">
         <mark key="[" line="61" column="37" />
@@ -4587,10 +4588,10 @@
         <mark key="]" line="42" column="4" />
         <mark key="." line="42" column="4" />
       </file>
-      <file name="/home/www/html/nnb/passportization/app/Model/CostCentersTreeModel.php" timestamp="1504601996199">
-        <mark key="[" line="73" column="15" />
-        <mark key="]" line="73" column="15" />
-        <mark key="." line="73" column="15" />
+      <file name="/home/www/html/nnb/passportization/app/Model/CostCentersTreeModel.php" timestamp="1504603438210">
+        <mark key="[" line="71" column="24" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Storage/AdminModule/Components/GroupGrid/IGroupsGridFactory.php" timestamp="1497015158930">
         <mark key="[" line="1" column="0" />
@@ -5264,7 +5265,7 @@
         <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHJlbmRlckRlZmF1bHQoKQoJewoJCWR1bXAoJHRoaXMtPmNvc3RDZW50ZXJzVHJlZU1vZGVsLT5maW5kTmVhcmVzdCgxMDAwMjApKTsKCQlleGl0OwoJfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>(int)</text>
+        <text>$out = '';</text>
       </register>
       <register name="/" type="4">
         <text>getSelectedPath</text>
@@ -5275,38 +5276,31 @@
       <register name="1" type="4">
         <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHJlbmRlckRlZmF1bHQoKQoJewoJCWR1bXAoJHRoaXMtPmNvc3RDZW50ZXJzVHJlZU1vZGVsLT5maW5kTmVhcmVzdCgxMDAwMjApKTsKCQlleGl0OwoJfQ==</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQlkdW1wKCRpZCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCQlkdW1wKCR0bXBJZFskaV0pOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQlkdW1wKCRpZFskaV0pOwo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHJlbmRlckRlZmF1bHQoKQoJewoJCWR1bXAoJHRoaXMtPmNvc3RDZW50ZXJzVHJlZU1vZGVsLT5maW5kTmVhcmVzdCgxMDAwMjApKTsKCQlleGl0OwoJfQ==</text>
+      </register>
+      <register name="7" type="4">
         <text>$out = '';
 
 		dump($id);</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJZm9yZWFjaCAoJGFyciBhcyAkaXRlbSkgewo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQkkaWQgPSAoc3RyaW5nKSAkaWQ7Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">JHRtcElkID0gKHN0cmluZykgJHRtcElkOwoJCQlmb3IgKCRpID0gMDsgJGkgPD0gc3RybGVuKCRpZCkgLSAxOyAkaSsrKSB7CgkJCQlpZiAoIWlzc2V0KCR0bXBJZFskaV0pIHx8ICR0bXBJZFskaV0gIT09ICRpZFskaV0pIHsKCQkJCQlicmVhazsKCQkJCX0gZWxzZWlmICgkdG1wSWRbJGldID09PSAkaWRbJGldICYmIHN0cmxlbigkb3V0KSA8ICgkaSArIDEpKSB7CgoJCQkJCWR1bXAoJGlkWyRpXSk7CgkJCQkJZHVtcCgkdG1wSWRbJGldKTsKCgkJCQkJJG91dCAuPSAkdG1wSWRbJGldOwoJCQkJfQoJCQl9</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCQkkKHRoaXMpLm9mZignY2xpY2snKS5vbignY2xpY2snLCBmdW5jdGlvbiAoZSkgeyBlLnByZXZlbnREZWZhdWx0KCk7IH0pOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coJ29rJyk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCQkvLyQoJyMnICsgJCh0aGlzKS5kYXRhKCdpbnB1dCcpKQo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>if ($vatValueEl.data('old-value') !== vat) {
-				duration = duration + delayDurationStep;
-
-				$vatValueEl.hide().text(this.formatCurrency(vat)).delay(duration).fadeIn(fadeInDuration);
-				$vatValueEl.data('old-value', vat);
-
-				this.countUp($vatValueEl);
-			}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
