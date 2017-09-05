@@ -1169,10 +1169,10 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/app/Model/CostCentersModel.php" timestamp="1504266152432">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="4" />
-        <mark key="." line="28" column="4" />
+      <file name="/home/www/html/nnb/passportization/app/Model/CostCentersModel.php" timestamp="1504607774684">
+        <mark key="[" line="57" column="19" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/media/src/Doctrine/Events/MediaListener.php" timestamp="1493983466272">
         <mark key="[" line="66" column="8" />
@@ -1679,11 +1679,11 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1504528146159">
-        <mark key="'" line="46" column="12" />
-        <mark key="[" line="91" column="18" />
-        <mark key="]" line="144" column="30" />
-        <mark key="." line="144" column="30" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1504607661915">
+        <mark key="'" line="141" column="39" />
+        <mark key="[" line="141" column="50" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/src/Url/RouteGenerator.php" timestamp="1500639844606">
         <mark key="[" line="3" column="1" />
@@ -3027,6 +3027,11 @@
         <mark key="]" line="20" column="8" />
         <mark key="." line="20" column="8" />
       </file>
+      <file name="/home/www/html/nnb/passportization/app/config/services.neon" timestamp="1504607275385">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Console/Commands/ImportCommand.php" timestamp="1493108393421">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="4" />
@@ -3217,7 +3222,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504606507434">
+      <file name="/Dummy.txt" timestamp="1504607942221">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
@@ -4588,10 +4593,10 @@
         <mark key="]" line="42" column="4" />
         <mark key="." line="42" column="4" />
       </file>
-      <file name="/home/www/html/nnb/passportization/app/Model/CostCentersTreeModel.php" timestamp="1504604679810">
-        <mark key="[" line="80" column="12" />
-        <mark key="]" line="80" column="8" />
-        <mark key="." line="80" column="8" />
+      <file name="/home/www/html/nnb/passportization/app/Model/CostCentersTreeModel.php" timestamp="1504607854693">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="4" />
+        <mark key="." line="25" column="4" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Storage/AdminModule/Components/GroupGrid/IGroupsGridFactory.php" timestamp="1497015158930">
         <mark key="[" line="1" column="0" />
@@ -5159,11 +5164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="375" column="34" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="324" column="34" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="363" column="27" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="401" column="23" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="419" column="23" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
       <jump line="423" column="23" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
       <jump line="704" column="53" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
       <jump line="299" column="20" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
@@ -5259,57 +5259,70 @@
       <jump line="48" column="12" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" />
       <jump line="43" column="12" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" />
       <jump line="531" column="65" filename="/home/www/lib/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
+      <jump line="82" column="4" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" />
+      <jump line="60" column="12" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" />
+      <jump line="73" column="95" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" />
+      <jump line="79" column="39" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" />
+      <jump line="140" column="39" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHJlbmRlckRlZmF1bHQoKQoJewoJCWR1bXAoJHRoaXMtPmNvc3RDZW50ZXJzVHJlZU1vZGVsLT5maW5kTmVhcmVzdCgxMDAwMjApKTsKCQlleGl0OwoJfQ==</text>
+        <text>/**
+	 * @var Cache
+	 */
+	private $cache;</text>
       </register>
       <register name="-" type="4">
         <text>} else {</text>
       </register>
       <register name="/" type="4">
-        <text>getSelectedPath</text>
+        <text>costCentersTree</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHJlbmRlckRlZmF1bHQoKQoJewoJCWR1bXAoJHRoaXMtPmNvc3RDZW50ZXJzVHJlZU1vZGVsLT5maW5kTmVhcmVzdCgxMDAwMjApKTsKCQlleGl0OwoJfQ==</text>
+        <text>/**
+	 * @var Cache
+	 */
+	private $cache;</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">JG91dCA9ICcnOwoJCQkkaWQgPSAoc3RyaW5nKSAkaWQ7CgkJCWZvcmVhY2ggKCRjb3N0Q2VudGVySWRzIGFzICR0bXBJZCkgewoJCQkJJHRtcElkID0gKHN0cmluZykgJHRtcElkOwoJCQkJZm9yICgkaSA9IDA7ICRpIDw9IHN0cmxlbigkaWQpIC0gMTsgJGkrKykgewoJCQkJCWlmICghaXNzZXQoJHRtcElkWyRpXSkgfHwgJHRtcElkWyRpXSAhPT0gJGlkWyRpXSkgewoJCQkJCQlicmVhazsKCQkJCQl9IGVsc2VpZiAoJHRtcElkWyRpXSA9PT0gJGlkWyRpXSAmJiBzdHJsZW4oJG91dCkgPCAoJGkgKyAxKSkgewoJCQkJCQkkb3V0IC49ICR0bXBJZFskaV07CgkJCQkJfQoJCQkJfQoJCQl9</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQlyZXR1cm4gJHJlc3UK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHJlbmRlckRlZmF1bHQoKQoJewoJCWR1bXAoJHRoaXMtPmNvc3RDZW50ZXJzVHJlZU1vZGVsLT5maW5kTmVhcmVzdCgxMDAwMjApKTsKCQlleGl0OwoJfQ==</text>
+        <text>/**
+	 * @var CostCentersModel
+	 */
+	private $costCentersModel;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkkY29zdENlbnRlcnNNb2RlbCA9ICRjb3N0Q2VudGVyc01vZGVsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlkdW1wKCRpZCk7Cg==</text>
+        <text encoding="base64">CS0gQXBwXE1vZGVsXENvc3RDZW50ZXJzTW9kZWwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlkdW1wKCR0bXBJZFskaV0pOwo=</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbFxDb3N0Q2VudGVyc01vZGVsOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCQlkdW1wKCRpZFskaV0pOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGZpbmROZWFyZXN0KGludCAkaWQpCgl7CgkJJGNvc3RDZW50ZXJJZHMgPSAkdGhpcy0+Y29zdENlbnRlcnNNb2RlbC0+ZmluZEFsbCgpLT4gZmV0Y2hQYWlycygnaWQnLCAnaWQnKTsKCgkJLyoKCQkkb3V0ID0gJyc7CgkJJGlkID0gKHN0cmluZykgJGlkOwoJCWZvcmVhY2ggKCRjb3N0Q2VudGVySWRzIGFzICR0bXBJZCkgewoJCQkkdG1wSWQgPSAoc3RyaW5nKSAkdG1wSWQ7CgkJCWZvciAoJGkgPSAwOyAkaSA8PSBzdHJsZW4oJGlkKSAtIDE7ICRpKyspIHsKCQkJCWlmICghaXNzZXQoJHRtcElkWyRpXSkgfHwgJHRtcElkWyRpXSAhPT0gJGlkWyRpXSkgewoJCQkJCWJyZWFrOwoJCQkJfSBlbHNlaWYgKCR0bXBJZFskaV0gPT09ICRpZFskaV0gJiYgc3RybGVuKCRvdXQpIDwgKCRpICsgMSkpIHsKCQkJCQkkb3V0IC49ICR0bXBJZFskaV07CgkJCQl9CgkJCX0KCQl9CgoJCWlmICghYXJyYXlfa2V5X2V4aXN0cygoaW50KSAkb3V0LCAkY29zdENlbnRlcklkcykpIHsKCQkJJG91dCA9IG51bGw7CgkJCWZvcmVhY2ggKCRjb3N0Q2VudGVySWRzIGFzICR0bXBJZCkgewoJCQkJaWYgKCRvdXQgPT09IG51bGwgfHwgYWJzKCRpZCAtICRvdXQpID4gYWJzKCR0bXBJZCAtICRpZCkpIHsKCQkJCQkkb3V0ID0gJHRtcElkOwoJCQkJfQoJCQl9CgkJfQoJCSovCgoJCXJldHVybiAoaW50KSAkb3V0OwoJfQ==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHJlbmRlckRlZmF1bHQoKQoJewoJCWR1bXAoJHRoaXMtPmNvc3RDZW50ZXJzVHJlZU1vZGVsLT5maW5kTmVhcmVzdCgxMDAwMjApKTsKCQlleGl0OwoJfQ==</text>
+        <text>nazev AS name,
+		parent_id</text>
       </register>
       <register name="9" type="4">
-        <text>$out = '';
-
-		dump($id);</text>
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHJlbmRlckRlZmF1bHQoKQoJewoJCWR1bXAoJHRoaXMtPmNvc3RDZW50ZXJzVHJlZU1vZGVsLT5maW5kTmVhcmVzdCgxMDAwMjApKTsKCQlleGl0OwoJfQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getSelectedPath</last-search>
+      <last-search>costCentersTree</last-search>
       <last-offset />
-      <last-pattern>getSelectedPath</last-pattern>
+      <last-pattern>costCentersTree</last-pattern>
       <last-replace>delayDurationStep</last-replace>
       <last-substitute>durationStep</last-substitute>
       <last-dir>1</last-dir>
@@ -5317,7 +5330,6 @@
     </search>
     <history>
       <history-search>
-        <entry>findAll</entry>
         <entry>checkFolder</entry>
         <entry>findClass</entry>
         <entry>managerr</entry>
@@ -5337,6 +5349,7 @@
         <entry>onSelectRoom</entry>
         <entry>onRecord</entry>
         <entry>getSelectedPath</entry>
+        <entry>costCentersTree</entry>
       </history-search>
       <history-cmd>
         <entry>160</entry>
