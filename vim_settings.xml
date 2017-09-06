@@ -28,7 +28,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1504254720848">
+      <file name="/a.dummy" timestamp="1504695191111">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1682,7 +1682,7 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1504694419264">
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1504694793693">
         <mark key="'" line="140" column="39" />
         <mark key="[" line="159" column="51" />
         <mark key="]" line="159" column="51" />
@@ -4605,6 +4605,9 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/UnisControl/DetailControl.php" timestamp="1504695177859">
+        <mark key="[" line="20" column="6" />
+      </file>
       <file name="/home/www/html/dv/cms/Modules/AddressBook/FormOfPayment.php" timestamp="1498739384504">
         <mark key="[" line="44" column="24" />
         <mark key="]" line="46" column="0" />
@@ -4856,6 +4859,11 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/UnisModel.php" timestamp="1504695108523">
+        <mark key="[" line="34" column="24" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="/home/www/html/nnb/passportization/app/components/TechnicalRequestionForm/TechnicalRequestionForm.latte" timestamp="1485344640384">
         <mark key="[" line="13" column="23" />
         <mark key="]" line="32" column="0" />
@@ -5041,8 +5049,8 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/DI/config.neon" timestamp="1503312983162">
-        <mark key="[" line="2" column="34" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/DI/config.neon" timestamp="1504694989001">
+        <mark key="[" line="1" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
@@ -5261,10 +5269,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LiAnKCcgLgoJCQkJCQkkZG9tYWluLT5sYXN0TG9nb24tPmZvcm1hdCgnSDppOnMgZC5tLlknKSAuICcpJw==</text>
+        <text>Detail</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PGJyIC8+</text>
+        <text>Detail</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">JHRoaXMtPmVt</text>
@@ -5272,33 +5280,37 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LiAnKCcgLgoJCQkJCQkkZG9tYWluLT5sYXN0TG9nb24tPmZvcm1hdCgnSDppOnMgZC5tLlknKSAuICcpJw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">dXNlIEFwcFxEYmFsXFBhc3Nwb3J0aXphdGlvbkNvbm5lY3Rpb247Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CQlvc2MsCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>id,
+		nazev AS name,
+		parent_id
+		FROM nakladove_strediska.zarazeni_ns
+		WHERE deleted IS NULL
+		ORDER BY parent_id, id</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGZpbmROZWFyZXN0KGludCAkaWQpCgl7CgkJJHJlc3VsdCA9ICR0aGlzLT5kYi0+cXVlcnkoJ1NFTEVDVCAKCQlpZAoJCUZST00gbmFrbGFkb3ZlX3N0cmVkaXNrYS56YXJhemVuaV9ucwoJCVdIRVJFIGRlbGV0ZWQgSVMgTlVMTCBBTkQKCQklaSBCRVRXRUVOIGZyb21fbnVtYmVyIEFORCB0b19udW1iZXIKCQlPUkRFUiBCWSAodG9fbnVtYmVyIC0gZnJvbV9udW1iZXIpIEFTQwoJCScsICRpZCktPmZldGNoKCk7CgoJCXJldHVybiAkcmVzdWx0ID8gJHJlc3VsdC0+aWQgOiBudWxsOwoJfQ==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">LiAnKCcgLgoJCQkJCQkkZG9tYWluLT5sYXN0TG9nb24tPmZvcm1hdCgnSDppOnMgZC5tLlknKSAuICcpJw==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CQkJLT5zZXRGaWx0ZXJUZXh0KCk7Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJLT5zZXRGaWx0ZXJUZXh0KCk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJLT5zZXRGaWx0ZXJUZXh0KCk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQkJLT5zZXRGaWx0ZXJUZXh0KCk7Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">JGdyaWQtPmFkZENvbHVtblRleHQoJ25hbWUnLCAnSm3DqW5vJykKCQkJLT5zZXRGaWx0ZXJUZXh0KCk7</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">cmV0dXJuIGlzc2V0KCRlbXBsb3llZS0+ZW1haWwpID8gSHRtbDo6ZWwoJ2EnLCBbCgkJCQkJJ2hyZWYnID0+ICdtYWlsdG86JyAuICRlbXBsb3llZS0+ZW1haWwKCQkJCV0pLT5zZXRUZXh0KCRlbXBsb3llZS0+ZW1haWwpIDogJyc7</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">IG1pbk1lc3NhZ2U9Iml0ZW1Db2RlTWluTGVuZ3RoIiwKCSAqICAgICAgbWF4TWVzc2FnZT0iaXRlbUNvZGVNYXhMZW5ndGgi</text>
-      </register>
-      <register name="9" type="4">
-        <text>minMessage=&quot;itemNameMinLength&quot;,
-	 *      maxMessage=&quot;itemNameMaxLength&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
