@@ -925,7 +925,7 @@
         <mark key="]" line="53" column="8" />
         <mark key="." line="53" column="8" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/locale/validators.cs_CZ.neon" timestamp="1504682594055">
+      <file name="/home/www/html/dv/adera/Modules/Storage/locale/validators.cs_CZ.neon" timestamp="1504688797522">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="16" column="8" />
         <mark key="." line="16" column="8" />
@@ -1893,8 +1893,8 @@
         <mark key="]" line="22" column="4" />
         <mark key="." line="22" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Item.php" timestamp="1504685764989">
-        <mark key="[" line="110" column="12" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/Item.php" timestamp="1504688807346">
+        <mark key="[" line="44" column="24" />
         <mark key="]" line="110" column="12" />
         <mark key="." line="110" column="12" />
         <mark key="^" line="110" column="18" />
@@ -3230,10 +3230,11 @@
         <mark key="]" line="117" column="41" />
         <mark key="." line="117" column="41" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/config.neon" timestamp="1504683407334">
-        <mark key="[" line="80" column="14" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
+      <file name="/home/www/html/dv/adera/app/config/config.neon" timestamp="1504688604488">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="71" column="17" />
+        <mark key="." line="71" column="17" />
+        <mark key="^" line="71" column="17" />
       </file>
       <file name="/home/www/html/nnb/dms/app/components/GridFactory.php" timestamp="1485354131312">
         <mark key="[" line="43" column="8" />
@@ -5245,14 +5246,14 @@
       <jump line="140" column="39" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IlRoaXMgdmFsdWUgc2hvdWxkIGJlIDAgb3IgbW9yZS4iOiAiVGF0byBob2Rub3RhIG11c8OtIGLDvXQgMCIK</text>
+      <register name="&quot;" type="4">
+        <text>translationDomain: validators</text>
       </register>
       <register name="-" type="4">
-        <text>minMessage = &quot;priceRangeMin&quot;</text>
+        <text>translationDomain: validators</text>
       </register>
       <register name="/" type="4">
-        <text>costCentersTree</text>
+        <text>kdyby.validator</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
@@ -5289,9 +5290,9 @@
       </register>
     </registers>
     <search>
-      <last-search>costCentersTree</last-search>
+      <last-search>kdyby.validator</last-search>
       <last-offset />
-      <last-pattern>costCentersTree</last-pattern>
+      <last-pattern>kdyby.validator</last-pattern>
       <last-replace>delayDurationStep</last-replace>
       <last-substitute>durationStep</last-substitute>
       <last-dir>1</last-dir>
@@ -5299,7 +5300,6 @@
     </search>
     <history>
       <history-search>
-        <entry>checkFolder</entry>
         <entry>findClass</entry>
         <entry>managerr</entry>
         <entry>manager</entry>
@@ -5319,6 +5319,7 @@
         <entry>onRecord</entry>
         <entry>getSelectedPath</entry>
         <entry>costCentersTree</entry>
+        <entry>kdyby.validator</entry>
       </history-search>
       <history-cmd>
         <entry>160</entry>
