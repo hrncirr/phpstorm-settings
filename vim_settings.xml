@@ -1682,11 +1682,11 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1504692642634">
-        <mark key="'" line="141" column="39" />
-        <mark key="[" line="127" column="8" />
-        <mark key="]" line="127" column="8" />
-        <mark key="." line="127" column="8" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1504694419264">
+        <mark key="'" line="140" column="39" />
+        <mark key="[" line="159" column="51" />
+        <mark key="]" line="159" column="51" />
+        <mark key="." line="159" column="51" />
       </file>
       <file name="/home/www/html/dv/cms/src/Url/RouteGenerator.php" timestamp="1500639844606">
         <mark key="[" line="3" column="1" />
@@ -5261,10 +5261,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JGdyaWQtPmFkZENvbHVtblRleHQoJ25hbWUnLCAnSm3DqW5vJykKCQkJLT5zZXRGaWx0ZXJUZXh0KCk7</text>
+        <text encoding="base64">LiAnKCcgLgoJCQkJCQkkZG9tYWluLT5sYXN0TG9nb24tPmZvcm1hdCgnSDppOnMgZC5tLlknKSAuICcpJw==</text>
       </register>
       <register name="-" type="4">
-        <text>message=&quot;itemNameNotBlank</text>
+        <text encoding="base64">PGJyIC8+</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">JHRoaXMtPmVt</text>
@@ -5273,33 +5273,32 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">JGdyaWQtPmFkZENvbHVtblRleHQoJ25hbWUnLCAnSm3DqW5vJykKCQkJLT5zZXRGaWx0ZXJUZXh0KCk7</text>
+        <text encoding="base64">LiAnKCcgLgoJCQkJCQkkZG9tYWluLT5sYXN0TG9nb24tPmZvcm1hdCgnSDppOnMgZC5tLlknKSAuICcpJw==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">cmV0dXJuIGlzc2V0KCRlbXBsb3llZS0+ZW1haWwpID8gSHRtbDo6ZWwoJ2EnLCBbCgkJCQkJJ2hyZWYnID0+ICdtYWlsdG86JyAuICRlbXBsb3llZS0+ZW1haWwKCQkJCV0pLT5zZXRUZXh0KCRlbXBsb3llZS0+ZW1haWwpIDogJyc7</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJLT5zZXRGaWx0ZXJUZXh0KCk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IG1pbk1lc3NhZ2U9Iml0ZW1Db2RlTWluTGVuZ3RoIiwKCSAqICAgICAgbWF4TWVzc2FnZT0iaXRlbUNvZGVNYXhMZW5ndGgi</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJLT5zZXRGaWx0ZXJUZXh0KCk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>minMessage=&quot;itemNameMinLength&quot;,
-	 *      maxMessage=&quot;itemNameMaxLength&quot;</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJLT5zZXRGaWx0ZXJUZXh0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAqICAgICAgbWluTWVzc2FnZSA9ICJhbW91bnRSYW5nZU1pbiIK</text>
+        <text encoding="base64">CQkJLT5zZXRGaWx0ZXJUZXh0KCk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CSAqICAgICAgbWVzc2FnZT0iYW1vdW50SW50ZWdlciIK</text>
+      <register name="6" type="4">
+        <text encoding="base64">JGdyaWQtPmFkZENvbHVtblRleHQoJ25hbWUnLCAnSm3DqW5vJykKCQkJLT5zZXRGaWx0ZXJUZXh0KCk7</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IG1pbk1lc3NhZ2U9InNjYWxlVW5pdE1pbkxlbmd0aCIsCgkgKiAgICAgIG1heE1lc3NhZ2U9InNjYWxlVW5pdE1heExlbmd0aCI=</text>
+        <text encoding="base64">cmV0dXJuIGlzc2V0KCRlbXBsb3llZS0+ZW1haWwpID8gSHRtbDo6ZWwoJ2EnLCBbCgkJCQkJJ2hyZWYnID0+ICdtYWlsdG86JyAuICRlbXBsb3llZS0+ZW1haWwKCQkJCV0pLT5zZXRUZXh0KCRlbXBsb3llZS0+ZW1haWwpIDogJyc7</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CSAqICAgICAgbWVzc2FnZT0idmF0SW50ZWdlciIK</text>
+      <register name="8" type="4">
+        <text encoding="base64">IG1pbk1lc3NhZ2U9Iml0ZW1Db2RlTWluTGVuZ3RoIiwKCSAqICAgICAgbWF4TWVzc2FnZT0iaXRlbUNvZGVNYXhMZW5ndGgi</text>
       </register>
       <register name="9" type="4">
-        <text>validations:
-			notBlank: &quot;Název položky nesmí být prázdný.&quot;</text>
+        <text>minMessage=&quot;itemNameMinLength&quot;,
+	 *      maxMessage=&quot;itemNameMaxLength&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
