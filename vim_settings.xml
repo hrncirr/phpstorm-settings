@@ -1863,7 +1863,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/app/config/extensions.neon" timestamp="1504794039235" />
+      <file name="/home/www/html/nnb/passportization/app/config/extensions.neon" timestamp="1504795124970">
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="24" column="4" />
+        <mark key="." line="24" column="4" />
+      </file>
       <file name="/home/www/lib/vendor/zenify/doctrine-filters/src/DI/DefinitionFinder.php" timestamp="1487143926860">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -3103,10 +3107,11 @@
         <mark key="]" line="20" column="8" />
         <mark key="." line="20" column="8" />
       </file>
-      <file name="/home/www/html/nnb/passportization/app/config/services.neon" timestamp="1504784040670">
-        <mark key="[" line="35" column="32" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="/home/www/html/nnb/passportization/app/config/services.neon" timestamp="1504795026477">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="43" />
+        <mark key="." line="35" column="43" />
+        <mark key="^" line="35" column="43" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Console/Commands/ImportCommand.php" timestamp="1493108393421">
         <mark key="[" line="50" column="0" />
@@ -5399,10 +5404,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;typeahead&quot;, &quot;nette&quot;</text>
+        <text>hrncirr.nextras.orm: Hrncirr\NextrasOrm\DI\NextrasOrmExtension</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;typeahead&quot;, &quot;nette&quot;</text>
+        <text>hrncirr.nextras.orm: Hrncirr\NextrasOrm\DI\NextrasOrmExtension</text>
       </register>
       <register name="/" type="4">
         <text>roomDetail</text>
@@ -5410,35 +5415,43 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkvKiogQHZhciBJUmVwb3NpdG9yeSAkcmVwb3NpdG9yeSAqLwo=</text>
+      <register name="1" type="4">
+        <text>nextrasFilterIn:
+		class: App\EntityLoader\Filters\FilterIn
+		tags:
+			- arachne.entityLoader.filterIn
+
+	nextrasFilterOut:
+		class: App\EntityLoader\Filters\FilterOut
+		tags:
+			- arachne.entityLoader.filterOut</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CQkvKiogQHZhciBJUmVwb3NpdG9yeSAkcmVwb3NpdG9yeSAqLwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CQkkcmVwb3NpdG9yeSA9ICR0aGlzLT5yZXBvc2l0b3JpZXNbJHR5cGVdOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">JGV4dGVuc2lvbnMgPSBhcnJheV9maWx0ZXIoJHRoaXMtPmNvbXBpbGVyLT5nZXRFeHRlbnNpb25zKCksIGZ1bmN0aW9uICgkaXRlbSkgewoJCQlyZXR1cm4gJGl0ZW0gaW5zdGFuY2VvZiBFbnRpdHlMb2FkZXJFeHRlbnNpb247CgkJfSk7</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>if (empty($extensions)) {
 			throw new AssertionException(sprintf('Please register the required %s to Compiler.',
 				EntityLoaderExtension::class));
 		}</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkibmV0dGUvcGhwLWdlbmVyYXRvciI6ICJ+Mi40IiwK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkibmV0dGUvZm9ybXMiOiAifjIuNCIsCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">dXNlIEFyYWNobmVcRm9ybXNcRElcRm9ybXNFeHRlbnNpb247Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dXNlIEFyYWNobmVcRXZlbnRNYW5hZ2VyXERJXEV2ZW50TWFuYWdlckV4dGVuc2lvbjsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5XFZhbGlkYXRvclxESVxWYWxpZGF0b3JFeHRlbnNpb247Cg==</text>
+        <text encoding="base64">dXNlIEFyYWNobmVcRXZlbnRNYW5hZ2VyXERJXEV2ZW50TWFuYWdlckV4dGVuc2lvbjsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/user/account/g</text>
