@@ -133,6 +133,12 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/UnisControl/UnisControl.php" timestamp="1504777759048">
+        <mark key="[" line="48" column="30" />
+        <mark key="]" line="48" column="30" />
+        <mark key="." line="48" column="30" />
+        <mark key="^" line="48" column="82" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Groups/Components/GroupsPermissionsForm/GroupsPermissionsForm.php" timestamp="1490277019277">
         <mark key="[" line="96" column="52" />
         <mark key="]" line="96" column="52" />
@@ -223,10 +229,10 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Unis/UnisAccounts/UnisAccount.php" timestamp="1504866490865">
-        <mark key="[" line="117" column="8" />
-        <mark key="]" line="117" column="8" />
-        <mark key="." line="117" column="8" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Unis/UnisAccounts/UnisAccount.php" timestamp="1504877690401">
+        <mark key="[" line="124" column="12" />
+        <mark key="]" line="124" column="12" />
+        <mark key="." line="124" column="12" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/components/RoomDetailControl/RoomDetailControl.php" timestamp="1486633504198">
         <mark key="[" line="61" column="37" />
@@ -273,9 +279,6 @@
         <mark key="]" line="13" column="4" />
         <mark key="." line="13" column="4" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Unis/UnisCentralProjectsAccounts/UnisCaseHistoryAccountsMapper.php" timestamp="1504770120287">
-        <mark key="[" line="11" column="78" />
-      </file>
       <file name="/home/www/vendor/nnb/application/src/Debugger/Logger.php" timestamp="1478863106617">
         <mark key="[" line="52" column="8" />
         <mark key="]" line="52" column="8" />
@@ -315,9 +318,6 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Unis/UnisCaseHistoryAccounts/UnisAccountsMapper.php" timestamp="1504769619991">
-        <mark key="[" line="11" column="75" />
       </file>
       <file name="/home/www/html/nnb/access-rights/app/presenters/DefaultPresenter.php" timestamp="1477388456180">
         <mark key="[" line="34" column="8" />
@@ -954,10 +954,10 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Employees/Employee.php" timestamp="1504862965701">
-        <mark key="[" line="33" column="11" />
-        <mark key="]" line="82" column="46" />
-        <mark key="." line="82" column="46" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Employees/Employee.php" timestamp="1504877456480">
+        <mark key="[" line="81" column="97" />
+        <mark key="]" line="81" column="97" />
+        <mark key="." line="81" column="97" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Storage/locale/validators.cs_CZ.neon" timestamp="1504692078386">
         <mark key="[" line="29" column="0" />
@@ -1074,16 +1074,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Unis/UnisCentralProjectsAccounts/UnisCentralProjectsAccountsRepository.php" timestamp="1504770411548">
-        <mark key="[" line="21" column="20" />
-      </file>
       <file name="/home/www/html/dv/cms/src/Localization/Doctrine/Translatable.php" timestamp="1497015078633">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="39" column="12" />
         <mark key="." line="39" column="12" />
-      </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Domain/DomainAccounts/DomainAccountsMapper.php" timestamp="1504770627247">
-        <mark key="[" line="22" column="16" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Documents/components/DocumentFolderSelectorControl/DocumentFolderSelectorControl.php" timestamp="1487156868726">
         <mark key="[" line="84" column="15" />
@@ -1574,9 +1568,6 @@
         <mark key="]" line="130" column="12" />
         <mark key="." line="130" column="12" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Unis/UnisCertificates/UnisCaseHistoryAccountsRepository.php" timestamp="1504858117203">
-        <mark key="[" line="11" column="67" />
-      </file>
       <file name="/home/www/html/dv/cms/Modules/Invoicing/DI/config.neon" timestamp="1500548826358">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="4" />
@@ -1616,9 +1607,6 @@
         <mark key="[" line="208" column="4" />
         <mark key="]" line="111" column="8" />
         <mark key="." line="111" column="8" />
-      </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Unis/UnisCentralProjectsAccounts/UnisCaseHistoryAccount.php" timestamp="1504770014390">
-        <mark key="[" line="11" column="56" />
       </file>
       <file name="/home/www/html/nnb/obj/app/config/services.neon" timestamp="1479902682032">
         <mark key="[" line="4" column="24" />
@@ -1785,10 +1773,11 @@
         <mark key="]" line="35" column="4" />
         <mark key="." line="35" column="4" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Model/TechnicalRequisitionsModel.php" timestamp="1503318190964">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+      <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Model/TechnicalRequisitionsModel.php" timestamp="1504872500769">
+        <mark key="[" line="74" column="13" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="72" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/client-side/js/hrncirr.mediaelement.init.js" timestamp="1476357940960">
         <mark key="[" line="27" column="66" />
@@ -2060,9 +2049,6 @@
         <mark key="]" line="24" column="17" />
         <mark key="." line="24" column="17" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Unis/UnisAccounts/UnisAccountsRepository.php" timestamp="1504767815659">
-        <mark key="[" line="11" column="50" />
-      </file>
       <file name="/home/www/html/nnb/aktuality/app/router/RouterFactory.php" timestamp="1485779627524">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -2102,9 +2088,6 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
-      </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Unis/DomainAccount.php" timestamp="1504701563815">
-        <mark key="[" line="11" column="37" />
       </file>
       <file name="/home/www/vendor/hrncirr/media/src/IFileStorage.php" timestamp="1493970453759">
         <mark key="[" line="34" column="0" />
@@ -2181,8 +2164,8 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Model/Orm/TechnicalRequisitions/TechnicalRequisitionsMapper.php" timestamp="1503469608026">
-        <mark key="[" line="21" column="0" />
+      <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Model/Orm/TechnicalRequisitions/TechnicalRequisitionsMapper.php" timestamp="1504872571849">
+        <mark key="[" line="72" column="17" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
@@ -2466,6 +2449,9 @@
         <mark key="]" line="30" column="62" />
         <mark key="." line="30" column="62" />
       </file>
+      <file name="/home/www/lib/vendor/nextras/dbal/src/Connection.php" timestamp="1504872032453">
+        <mark key="'" line="112" column="6" />
+      </file>
       <file name="/home/www/html/nnb/passportization/src/Passportization/TechnicalRequisitions/components/ProfessionsStatisticsGrid/ProfessionsStatisticsGrid.php" timestamp="1487594874664">
         <mark key="[" line="67" column="14" />
         <mark key="]" line="67" column="14" />
@@ -2630,9 +2616,6 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="/home/www/html/nnb/passportization/app/Orm/ViewStorageReflection.php" timestamp="1504859975571">
-        <mark key="[" line="12" column="26" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Addresses/Install/AddressesInstall.php" timestamp="1497602437768">
         <mark key="[" line="89" column="8" />
@@ -3114,6 +3097,12 @@
         <mark key="]" line="20" column="8" />
         <mark key="." line="20" column="8" />
       </file>
+      <file name="/home/www/html/nnb/passportization/app/config/services.neon" timestamp="1504795026477">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="43" />
+        <mark key="." line="35" column="43" />
+        <mark key="^" line="35" column="43" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Console/Commands/ImportCommand.php" timestamp="1493108393421">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="4" />
@@ -3289,7 +3278,7 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Model/Orm/TechnicalRequisitions/TechnicalRequisitionsRepository.php" timestamp="1503314137499">
+      <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Model/Orm/TechnicalRequisitions/TechnicalRequisitionsRepository.php" timestamp="1504869796536">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="29" column="4" />
         <mark key="." line="29" column="4" />
@@ -3309,7 +3298,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504863333523">
+      <file name="/Dummy.txt" timestamp="1504877920717">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
@@ -3489,10 +3478,10 @@
         <mark key="]" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/UnisControl/UnisControl.latte" timestamp="1504865760148">
-        <mark key="[" line="99" column="8" />
-        <mark key="]" line="99" column="8" />
-        <mark key="." line="99" column="8" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/UnisControl/UnisControl.latte" timestamp="1504878159662">
+        <mark key="[" line="131" column="8" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Doctrine/Filters/SoftDeletableFilter.php" timestamp="1493292521195">
         <mark key="[" line="53" column="0" />
@@ -3609,9 +3598,6 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Unis/UnisAccounts/UnisAccountsMapper.php" timestamp="1504767808582">
-        <mark key="[" line="11" column="50" />
-      </file>
       <file name="/home/www/html/nnb/passportization/app/EntityLoaderFilters/PathFilterIn.php" timestamp="1487606233761">
         <mark key="[" line="21" column="8" />
         <mark key="]" line="21" column="8" />
@@ -3702,6 +3688,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="/home/www/lib/vendor/hrncirr/nextras-orm/src/EntityLoader/FilterOut.php" timestamp="1504850575993">
+        <mark key="[" line="34" column="84" />
+        <mark key="]" line="13" column="34" />
+        <mark key="." line="13" column="34" />
+        <mark key="^" line="13" column="34" />
+      </file>
       <file name="/home/www/vendor/hrncirr/header/src/Components/JsControl/JsControl.php" timestamp="1496836099298">
         <mark key="[" line="148" column="64" />
         <mark key="]" line="148" column="64" />
@@ -3776,9 +3768,6 @@
         <mark key="[" line="41" column="16" />
         <mark key="]" line="41" column="16" />
         <mark key="." line="41" column="16" />
-      </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Unis/UnisCertificates/UnisCaseHistoryAccountsMapper.php" timestamp="1504858123700">
-        <mark key="[" line="16" column="10" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Files/Events/ElFinderFileListener.php" timestamp="1497016556870">
         <mark key="[" line="1" column="0" />
@@ -4000,9 +3989,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Domain/DomainAccounts/DomainAccount.php" timestamp="1504767680821">
-        <mark key="[" line="11" column="37" />
-      </file>
       <file name="/home/www/lib/vendor/hrncirr/validator/Exceptions/InvalidArgumentException.php" timestamp="1497511883189">
         <mark key="[" line="11" column="18" />
         <mark key="]" line="14" column="65" />
@@ -4133,7 +4119,7 @@
         <mark key="]" line="26" column="15" />
         <mark key="." line="26" column="15" />
       </file>
-      <file name="/home/www/lib/vendor/nextras/orm/src/Mapper/Dbal/DbalMapper.php" timestamp="1504861316871" />
+      <file name="/home/www/lib/vendor/nextras/orm/src/Mapper/Dbal/DbalMapper.php" timestamp="1504872892790" />
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/OfferForm/OfferForm.php" timestamp="1504257160307">
         <mark key="[" line="118" column="0" />
         <mark key="]" line="125" column="8" />
@@ -4194,7 +4180,7 @@
         <mark key="]" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="/home/www/html/nnb/passportization/app/Model/PathModel.php" timestamp="1503585740981">
+      <file name="/home/www/html/nnb/passportization/app/Model/PathModel.php" timestamp="1504869303903">
         <mark key="[" line="45" column="42" />
         <mark key="]" line="204" column="4" />
         <mark key="." line="204" column="4" />
@@ -4716,9 +4702,6 @@
         <mark key="]" line="37" column="12" />
         <mark key="." line="37" column="12" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Unis/UnisCertificates/UnisCaseHistoryAccount.php" timestamp="1504858132147">
-        <mark key="[" line="29" column="10" />
-      </file>
       <file name="/home/www/lib/vendor/hrncirr/xml-serializer/src/ClassLoader.php" timestamp="1503482170268">
         <mark key="[" line="37" column="56" />
         <mark key="]" line="42" column="4" />
@@ -4744,9 +4727,6 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/UnisControl/DetailControl.php" timestamp="1504695177859">
-        <mark key="[" line="20" column="6" />
-      </file>
       <file name="/home/www/html/dv/cms/Modules/AddressBook/FormOfPayment.php" timestamp="1498739384504">
         <mark key="[" line="44" column="24" />
         <mark key="]" line="46" column="0" />
@@ -4761,9 +4741,6 @@
         <mark key="[" line="67" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
-      </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Unis/UnisCaseHistoryAccounts/UnisAccountsRepository.php" timestamp="1504768593888">
-        <mark key="[" line="11" column="51" />
       </file>
       <file name="/home/www/lib/vendor/nnb/staff/src/Authentication/LdapAuthenticator.php" timestamp="1478780403815">
         <mark key="[" line="115" column="8" />
@@ -4780,9 +4757,6 @@
         <mark key="]" line="25" column="4" />
         <mark key="." line="25" column="4" />
       </file>
-      <file name="/home/www/html/nnb/passportization/app/Model/OrmModel.php" timestamp="1504858648395">
-        <mark key="[" line="43" column="27" />
-      </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/CMPCollection.php" timestamp="1496048438870">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="62" column="0" />
@@ -4793,8 +4767,10 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Unis/UnisCertificates/UnisCertificatesRepository.php" timestamp="1504858684643">
-        <mark key="[" line="21" column="21" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Unis/UnisCertificates/UnisCertificatesRepository.php" timestamp="1504870836546">
+        <mark key="[" line="17" column="57" />
+        <mark key="]" line="17" column="57" />
+        <mark key="." line="17" column="57" />
       </file>
       <file name="/home/www/html/dv/adera/www/js/ares.js" timestamp="1504600011634">
         <mark key="[" line="18" column="0" />
@@ -5051,9 +5027,6 @@
         <mark key="]" line="4" column="8" />
         <mark key="." line="4" column="8" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/IAccount.php" timestamp="1504768012177">
-        <mark key="[" line="18" column="0" />
-      </file>
       <file name="/home/www/vendor/hrncirr/cmp/client-side/js/hrncirr.cmp.lightbox.init.js" timestamp="1477049204187">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -5084,13 +5057,11 @@
         <mark key="]" line="30" column="8" />
         <mark key="." line="30" column="8" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Domain/DomainLastLogons/DomainLastLogonsMapper.php" timestamp="1504770632199">
-        <mark key="[" line="21" column="16" />
-      </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Unis/UnisCertificates/UnisCertificatesMapper.php" timestamp="1504867471772">
-        <mark key="[" line="46" column="26" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Unis/UnisCertificates/UnisCertificatesMapper.php" timestamp="1504872963042">
+        <mark key="'" line="53" column="54" />
+        <mark key="[" line="75" column="4" />
+        <mark key="]" line="75" column="4" />
+        <mark key="." line="75" column="4" />
       </file>
       <file name="/home/www/html/bul/medical_examinations/app/components/GridFactory.php" timestamp="1491302816865">
         <mark key="[" line="43" column="8" />
@@ -5181,9 +5152,6 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Unis/UnisCentralProjectsAccounts/UnisCaseHistoryAccountsRepository.php" timestamp="1504770057087">
-        <mark key="[" line="11" column="73" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/Tabs/src/Components/TabControl/TabControl.latte" timestamp="1487254765675">
         <mark key="[" line="3" column="0" />
@@ -5327,13 +5295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="684" column="23" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="769" column="62" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="347" column="51" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="678" column="23" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="108" column="4" filename="/home/www/html/dv/adera/www/js/invoicing.init.js" />
-      <jump line="67" column="0" filename="/home/www/html/dv/adera/www/js/invoicing.init.js" />
-      <jump line="86" column="12" filename="/home/www/html/dv/adera/www/js/invoicing.init.js" />
       <jump line="102" column="44" filename="/home/www/html/dv/adera/www/js/invoicing.init.js" />
       <jump line="14" column="31" filename="/home/www/html/dv/adera/www/js/invoicing.init.js" />
       <jump line="94" column="21" filename="/home/www/html/dv/adera/www/js/invoicing.init.js" />
@@ -5427,59 +5388,62 @@
       <jump line="265" column="20" filename="/home/www/lib/vendor/nextras/orm/src/Mapper/Dbal/DbalCollection.php" />
       <jump line="53" column="15" filename="/home/www/lib/vendor/nextras/orm/src/Mapper/Dbal/DbalCollection.php" />
       <jump line="76" column="101" filename="/home/www/lib/vendor/nextras/orm/src/Mapper/Dbal/DbalCollection.php" />
+      <jump line="31" column="54" filename="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Unis/UnisCertificates/UnisCertificatesMapper.php" />
+      <jump line="48" column="45" filename="/home/www/lib/vendor/nextras/dbal/src/Connection.php" />
+      <jump line="51" column="15" filename="/home/www/lib/vendor/nextras/dbal/src/Connection.php" />
+      <jump line="107" column="15" filename="/home/www/lib/vendor/nextras/dbal/src/Connection.php" />
+      <jump line="141" column="22" filename="/home/www/lib/vendor/nextras/dbal/src/Connection.php" />
+      <jump line="37" column="13" filename="/home/www/lib/vendor/nextras/dbal/src/Connection.php" />
+      <jump line="112" column="6" filename="/home/www/lib/vendor/nextras/dbal/src/Connection.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJLT5ncm91cEJ5KCd0eXBfY3J0Jyk7Cg==</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0icGFuZWwtZ3JvdXAiIGlkPSJhY2NvcmRpb24iIHJvbGU9InRhYmxpc3QiIGFyaWEtbXVsdGlzZWxlY3RhYmxlPSJ0cnVlIj4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT5hZGRTZWxlY3QoJycp</text>
+        <text encoding="base64">JGFjY291bnQtPmhhc1ZhbHVlKCdjYXNlSGlzdG9yeScp</text>
       </register>
       <register name="/" type="4">
-        <text>distinct</text>
+        <text>queryArgs</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJLT5ncm91cEJ5KCd0eXBfY3J0Jyk7Cg==</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0icGFuZWwtZ3JvdXAiIGlkPSJhY2NvcmRpb24iIHJvbGU9InRhYmxpc3QiIGFyaWEtbXVsdGlzZWxlY3RhYmxlPSJ0cnVlIj4K</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5lbWFpbCA9PT0gbnVsbCkgewoJCQl0aHJvdyBuZXcgSW52YWxpZFN0YXRlRXhjZXB0aW9uKCdFbWFpbCBtdXN0IGJlIHNldC4nKTsKCQl9</text>
+      <register name="2" type="2">
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>public function __construct($email)
-	{
-		dump('aaaa');
-		parent::__construct();
-	}</text>
+        <text encoding="base64">aWYgKCR0aGlzLT5lbWFpbCA9PT0gbnVsbCkgewoJCQkJdGhyb3cgbmV3IEludmFsaWRTdGF0ZUV4Y2VwdGlvbignRW1haWwgbXVzdCBiZSBzZXQuJyk7CgkJCX0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvLyRyZWZsZWN0aW9uID0gcGFyZW50OjpjcmVhdGVTdG9yYWdlUmVmbGVjdGlvbigpOwo=</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">PHRkPnskY2VudHJhbFByb2plY3QtPnN1YmplY3RUeXBlfTwvdGQ+CgkJPHRkPnskY2VudHJhbFByb2plY3QtPnN1YmplY3RDb2RlfTwvdGQ+CgkJPHRkPnskY2VudHJhbFByb2plY3QtPnJlY2VwdGlvbkFyZWF9PC90ZD4KCQk8dGQ+eyRjZW50cmFsUHJvamVjdC0+YXV0aG9yaXphdGlvbn08L3RkPgoJCTx0ZD57JGNlbnRyYWxQcm9qZWN0LT53cml0ZVJ1bGV9PC90ZD4=</text>
+        <text encoding="base64">PGRpdiBpZD0iY2VydGlmaWNhdGVzQm9keSIgY2xhc3M9InBhbmVsLWNvbGxhcHNlIGNvbGxhcHNlIiByb2xlPSJ0YWJwYW5lbCIKICAgICBhcmlhLWxhYmVsbGVkYnk9ImNlcnRpZmljYXRlcyI+</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">PHRoPkvDs2Qgc3ViamVrdHU8L3RoPgoJCTx0aD5QxZnDrWptb3bDqSBtw61zdG88L3RoPgoJCTx0aD5PcHLDoXZuxJtuw608L3RoPgoJCTx0aD5QcmF2aWRsbyB6w6FwaXN1PC90aD4=</text>
+        <text encoding="base64">CTwvZGl2PgoJCTwvZGl2Pg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPmdldFJlcG9zaXRvcnkoKS0+Z2V0RW50aXR5TWV0YWRhdGEoKS0+Z2V0UHJpbWFyeUtleSgpLAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0icGFuZWwgcGFuZWwtZGFuZ2VyIj4KCQkJPGRpdiBjbGFzcz0icGFuZWwtaGVhZGluZyIgcm9sZT0idGFiIiBpZD0iY2VydGlmaWNhdGVzIj4KCQkJCTxoMSBjbGFzcz0icGFuZWwtdGl0bGUiPgoJCQkJCTxhIHJvbGU9ImJ1dHRvbiIgZGF0YS10b2dnbGU9ImNvbGxhcHNlIiBkYXRhLXBhcmVudD0iI2FjY29yZGlvbiIgaHJlZj0iI2NlcnRpZmljYXRlc0JvZHkiCgkJCQkJICAgYXJpYS1leHBhbmRlZD0iZmFsc2UiIGFyaWEtY29udHJvbHM9ImNvbGxhcHNlT25lIiBzdHlsZT0iZm9udC1zaXplOiAxOHB4Ij4KCQkJCQkJQ2VydGlmaWvDoXR5CgkJCQkJPC9hPgoJCQkJPC9oMT4KCQkJPC9kaXY+</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">JHRoaXMtPnBsYXRmb3JtID0gbmV3IENhY2hlZFBsYXRmb3JtKCRjb25uZWN0aW9uLCAkY2FjaGUtPmRlcml2ZSgnZGJfcmVmbGVjdGlvbicpKTsKCQkkdGhpcy0+c3RvcmFnZU5hbWUgPSAkc3RvcmFnZU5hbWU7CgkJJHRoaXMtPmVudGl0eVByaW1hcnlLZXkgPSAkZW50aXR5UHJpbWFyeUtleTsKCgkJJGNhY2hlID0gJGNhY2hlLT5kZXJpdmUoJ3N0b3JhZ2VfcmVmbGVjdGlvbicpOwoJCSR0aGlzLT5tYXBwaW5ncyA9ICRjYWNoZS0+bG9hZCgnbmV4dHJhcy5vcm0uc3RvcmFnZV9yZWZsZWN0aW9uLicgLiBtZDUoJHRoaXMtPnN0b3JhZ2VOYW1lKSAuICcubWFwcGluZ3MnLCBmdW5jdGlvbiAoKSB7CgkJCXJldHVybiAkdGhpcy0+Z2V0RGVmYXVsdE1hcHBpbmdzKCk7CgkJfSk7CgkJJHRoaXMtPm1vZGlmaWVycyA9ICRjYWNoZS0+bG9hZCgnbmV4dHJhcy5vcm0uc3RvcmFnZV9yZWZsZWN0aW9uLicgLiBtZDUoJHRoaXMtPnN0b3JhZ2VOYW1lKSAuICcubW9kaWZpZXJzJywgZnVuY3Rpb24gKCkgewoJCQlyZXR1cm4gJHRoaXMtPmdldERlZmF1bHRNb2RpZmllcnMoKTsKCQl9KTs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQk8YnIvPgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">dXNlIE5leHRyYXNcT3JtXE1hcHBlclxEYmFsXFN0b3JhZ2VSZWZsZWN0aW9uXFVuZGVyc2NvcmVkU3RvcmFnZVJlZmxlY3Rpb247Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">PGRpdiBpZD0iY2VudHJhbFByb2plY3RzQm9keSIgY2xhc3M9InBhbmVsLWNvbGxhcHNlIGNvbGxhcHNlIiByb2xlPSJ0YWJwYW5lbCIKCQkJICAgICBhcmlhLWxhYmVsbGVkYnk9ImNlbnRyYWxQcm9qZWN0cyI+</text>
       </register>
       <register name=":" type="4">
         <text>%s/user/account/g</text>
       </register>
     </registers>
     <search>
-      <last-search>distinct</last-search>
+      <last-search>queryArgs</last-search>
       <last-offset />
-      <last-pattern>distinct</last-pattern>
+      <last-pattern>queryArgs</last-pattern>
       <last-replace>account</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -5487,9 +5451,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getSelectedPath</entry>
-        <entry>costCentersTree</entry>
-        <entry>kdyby.validator</entry>
         <entry encoding="base64">JHRoaXMtPmVt</entry>
         <entry>$this-id</entry>
         <entry encoding="base64">JHRoaXMtPmlk</entry>
@@ -5507,6 +5468,9 @@
         <entry>dump</entry>
         <entry>Strings</entry>
         <entry>distinct</entry>
+        <entry>sqlProcessor</entry>
+        <entry>sqlPrepro</entry>
+        <entry>queryArgs</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
