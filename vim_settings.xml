@@ -480,6 +480,11 @@
         <mark key="]" line="113" column="4" />
         <mark key="." line="113" column="4" />
       </file>
+      <file name="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" timestamp="1504856826787">
+        <mark key="[" line="155" column="28" />
+        <mark key="]" line="155" column="28" />
+        <mark key="." line="155" column="28" />
+      </file>
       <file name="/home/www/html/nnb/socialni-pece/app/Components/Modals/DepartmentFormModal.php" timestamp="1484899531468">
         <mark key="[" line="31" column="66" />
         <mark key="]" line="62" column="12" />
@@ -1825,12 +1830,11 @@
         <mark key="]" line="51" column="12" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Components/TechnicalRequisitionsGrid/TechnicalRequisitionsGrid.php" timestamp="1504788730480">
+      <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Components/TechnicalRequisitionsGrid/TechnicalRequisitionsGrid.php" timestamp="1504851417676">
         <mark key="'" line="222" column="26" />
-        <mark key="[" line="42" column="71" />
-        <mark key="]" line="42" column="79" />
-        <mark key="." line="42" column="79" />
-        <mark key="^" line="42" column="79" />
+        <mark key="[" line="582" column="36" />
+        <mark key="]" line="582" column="0" />
+        <mark key="." line="582" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Pages/AdminModule/Components/PageForm/PageForm.latte" timestamp="1495799253115">
         <mark key="[" line="64" column="39" />
@@ -3309,7 +3313,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504850733890">
+      <file name="/Dummy.txt" timestamp="1504856925813">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
@@ -4506,6 +4510,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="/home/www/lib/vendor/arachne/entity-loader/src/Application/RequestEntityLoader.php" timestamp="1504853839084">
+        <mark key="[" line="39" column="12" />
+        <mark key="]" line="39" column="28" />
+        <mark key="." line="39" column="28" />
+      </file>
       <file name="/home/www/html/nnb/passportization/js/technical.requisition.form.init.js" timestamp="1490865776988">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="20" />
@@ -5301,23 +5310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="24" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="113" column="43" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="128" column="38" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="176" column="19" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="137" column="55" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="154" column="33" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="672" column="33" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="713" column="42" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="330" column="25" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="394" column="27" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="432" column="23" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="450" column="50" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="454" column="50" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="759" column="86" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="40" column="39" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="457" column="38" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="776" column="20" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
       <jump line="350" column="19" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
       <jump line="682" column="23" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
       <jump line="362" column="39" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
@@ -5401,66 +5393,73 @@
       <jump line="31" column="0" filename="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Components/TechnicalRequisitionsGrid/TechnicalRequisitionsGrid.php" />
       <jump line="213" column="30" filename="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Components/TechnicalRequisitionsGrid/TechnicalRequisitionsGrid.php" />
       <jump line="218" column="26" filename="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Components/TechnicalRequisitionsGrid/TechnicalRequisitionsGrid.php" />
+      <jump line="92" column="36" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="230" column="4" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="102" column="8" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="84" column="47" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="239" column="60" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="267" column="58" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="196" column="58" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="246" column="21" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="249" column="30" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="101" column="96" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="104" column="28" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="145" column="32" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="233" column="21" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="15" column="24" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="220" column="33" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="279" column="25" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="18" column="16" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Exceptions</text>
+        <text encoding="base64">JHBlcnNpc3RlbnRQYXJhbWV0ZXJJbmZvLT50eXA=</text>
       </register>
       <register name="-" type="4">
-        <text>Exceptions</text>
+        <text encoding="base64">JHBlcnNpc3RlbnRQYXJhbWV0ZXJJbmZvLT50eXA=</text>
       </register>
       <register name="/" type="4">
-        <text>roomDetail</text>
+        <text>Strings</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJcTmV4dHJhc09ybVxFeGNlcHRpb25zXEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJcTmV4dHJhc09ybVxFeGNlcHRpb25zXEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
-      <register name="3" type="4">
-        <text>nextrasFilterIn:
-		class: App\EntityLoader\Filters\FilterIn
-		tags:
-			- arachne.entityLoader.filterIn
-
-	nextrasFilterOut:
-		class: App\EntityLoader\Filters\FilterOut
-		tags:
-			- arachne.entityLoader.filterOut</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCWR1bXAoJGtleSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvKiogQHZhciBJUmVwb3NpdG9yeSAkcmVwb3NpdG9yeSAqLwo=</text>
+        <text encoding="base64">CQkJCQlkdW1wKCRwZXJzaXN0ZW50UGFyYW1ldGVySW5mbyk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkkcmVwb3NpdG9yeSA9ICR0aGlzLT5yZXBvc2l0b3JpZXNbJHR5cGVdOwo=</text>
+      <register name="5" type="4">
+        <text>dump($persistentParameters);
+				dump($info);</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">JGV4dGVuc2lvbnMgPSBhcnJheV9maWx0ZXIoJHRoaXMtPmNvbXBpbGVyLT5nZXRFeHRlbnNpb25zKCksIGZ1bmN0aW9uICgkaXRlbSkgewoJCQlyZXR1cm4gJGl0ZW0gaW5zdGFuY2VvZiBFbnRpdHlMb2FkZXJFeHRlbnNpb247CgkJfSk7</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCWR1bXAoJGluZm8pOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>if (empty($extensions)) {
-			throw new AssertionException(sprintf('Please register the required %s to Compiler.',
-				EntityLoaderExtension::class));
-		}</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCWR1bXAoJ2FhYWEnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkibmV0dGUvcGhwLWdlbmVyYXRvciI6ICJ+Mi40IiwK</text>
+        <text encoding="base64">CQkJCS8vZHVtcCgkdGhpcy0+Z2V0UGVyc2lzdGVudFBhcmFtZXRlcnMoJHJlZmxlY3Rpb24sICRjb21wb25lbnQgLiBJQ29tcG9uZW50OjpOQU1FX1NFUEFSQVRPUikpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkibmV0dGUvZm9ybXMiOiAifjIuNCIsCg==</text>
+        <text encoding="base64">CQkkY29tcG9uZW50ID0gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/user/account/g</text>
       </register>
     </registers>
     <search>
-      <last-search>roomDetail</last-search>
+      <last-search>Strings</last-search>
       <last-offset />
-      <last-pattern>roomDetail</last-pattern>
+      <last-pattern>Strings</last-pattern>
       <last-replace>account</last-replace>
       <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
@@ -5468,15 +5467,6 @@
     </search>
     <history>
       <history-search>
-        <entry>selectedItems</entry>
-        <entry>selection-mode</entry>
-        <entry>selected</entry>
-        <entry>roomIds</entry>
-        <entry>setRoom</entry>
-        <entry>console.log</entry>
-        <entry>Primary</entry>
-        <entry>ItemGroup</entry>
-        <entry>onSelectRoom</entry>
         <entry>onRecord</entry>
         <entry>getSelectedPath</entry>
         <entry>costCentersTree</entry>
@@ -5488,6 +5478,15 @@
         <entry>view</entry>
         <entry>RoomDetail</entry>
         <entry>roomDetail</entry>
+        <entry>persistent</entry>
+        <entry>getMapping</entry>
+        <entry>optional</entry>
+        <entry>createInfoObject</entry>
+        <entry>getPersistent</entry>
+        <entry>getMethod</entry>
+        <entry>getMethodParameters</entry>
+        <entry>dump</entry>
+        <entry>Strings</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
