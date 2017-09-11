@@ -474,10 +474,10 @@
         <mark key="]" line="113" column="4" />
         <mark key="." line="113" column="4" />
       </file>
-      <file name="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" timestamp="1505112869163">
-        <mark key="[" line="128" column="12" />
-        <mark key="]" line="128" column="12" />
-        <mark key="." line="128" column="12" />
+      <file name="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" timestamp="1505115063714">
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="173" column="0" />
+        <mark key="." line="173" column="0" />
       </file>
       <file name="/home/www/html/nnb/socialni-pece/app/Components/Modals/DepartmentFormModal.php" timestamp="1484899531468">
         <mark key="[" line="31" column="66" />
@@ -3297,7 +3297,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504877920717">
+      <file name="/Dummy.txt" timestamp="1505115085269">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
@@ -5393,11 +5393,11 @@
       <jump line="112" column="6" filename="/home/www/lib/vendor/nextras/dbal/src/Connection.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JGluZm8gKz0gJHRoaXMtPmdldFBlcnNpc3RlbnRQYXJhbWV0ZXJzKCRyZWZsZWN0aW9uLCAkY29tcG9uZW50IC4gSUNvbXBvbmVudDo6TkFNRV9TRVBBUkFUT1IpOw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGluZm8gKz0gJHRoaXMtPmdldFBlcnNpc3RlbnRQYXJhbWV0ZXJzKCRyZWZsZWN0aW9uLCAkY29tcG9uZW50IC4gSUNvbXBvbmVudDo6TkFNRV9TRVBBUkFUT1IpOw==</text>
+        <text encoding="base64">JGNvbXBvbmVudCAhPT0gbnVsbCAmJg==</text>
       </register>
       <register name="/" type="4">
         <text>queryArgs</text>
@@ -5406,31 +5406,32 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0icGFuZWwtZ3JvdXAiIGlkPSJhY2NvcmRpb24iIHJvbGU9InRhYmxpc3QiIGFyaWEtbXVsdGlzZWxlY3RhYmxlPSJ0cnVlIj4K</text>
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">CQkJCWR1bXAoJHBlcnNpc3RlbnRQYXJhbWV0ZXJzKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5lbWFpbCA9PT0gbnVsbCkgewoJCQkJdGhyb3cgbmV3IEludmFsaWRTdGF0ZUV4Y2VwdGlvbignRW1haWwgbXVzdCBiZSBzZXQuJyk7CgkJCX0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">CQkJLy9kdW1wKCRjb21wb25lbnQpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">PGRpdiBpZD0iY2VydGlmaWNhdGVzQm9keSIgY2xhc3M9InBhbmVsLWNvbGxhcHNlIGNvbGxhcHNlIiByb2xlPSJ0YWJwYW5lbCIKICAgICBhcmlhLWxhYmVsbGVkYnk9ImNlcnRpZmljYXRlcyI+</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJZHVtcCgkaW5mbyk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CTwvZGl2PgoJCTwvZGl2Pg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0icGFuZWwgcGFuZWwtZGFuZ2VyIj4KCQkJPGRpdiBjbGFzcz0icGFuZWwtaGVhZGluZyIgcm9sZT0idGFiIiBpZD0iY2VydGlmaWNhdGVzIj4KCQkJCTxoMSBjbGFzcz0icGFuZWwtdGl0bGUiPgoJCQkJCTxhIHJvbGU9ImJ1dHRvbiIgZGF0YS10b2dnbGU9ImNvbGxhcHNlIiBkYXRhLXBhcmVudD0iI2FjY29yZGlvbiIgaHJlZj0iI2NlcnRpZmljYXRlc0JvZHkiCgkJCQkJICAgYXJpYS1leHBhbmRlZD0iZmFsc2UiIGFyaWEtY29udHJvbHM9ImNvbGxhcHNlT25lIiBzdHlsZT0iZm9udC1zaXplOiAxOHB4Ij4KCQkJCQkJQ2VydGlmaWvDoXR5CgkJCQkJPC9hPgoJCQkJPC9oMT4KCQkJPC9kaXY+</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJZHVtcCgkY29tcG9uZW50KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQk8YnIvPgo=</text>
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PGRpdiBpZD0iY2VudHJhbFByb2plY3RzQm9keSIgY2xhc3M9InBhbmVsLWNvbGxhcHNlIGNvbGxhcHNlIiByb2xlPSJ0YWJwYW5lbCIKCQkJICAgICBhcmlhLWxhYmVsbGVkYnk9ImNlbnRyYWxQcm9qZWN0cyI+</text>
+        <text>$component === null ?
+						$presenterReflection</text>
       </register>
       <register name=":" type="4">
         <text>%s/user/account/g</text>
