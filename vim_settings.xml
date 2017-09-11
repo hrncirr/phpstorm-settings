@@ -3297,7 +3297,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505117636452">
+      <file name="/Dummy.txt" timestamp="1505117933449">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
@@ -5056,11 +5056,11 @@
         <mark key="]" line="30" column="8" />
         <mark key="." line="30" column="8" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Unis/UnisCertificates/UnisCertificatesMapper.php" timestamp="1505117322740">
-        <mark key="'" line="52" column="54" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Unis/UnisCertificates/UnisCertificatesMapper.php" timestamp="1505117905391">
+        <mark key="'" line="53" column="54" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="/home/www/html/bul/medical_examinations/app/components/GridFactory.php" timestamp="1491302816865">
         <mark key="[" line="43" column="8" />
@@ -5397,10 +5397,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQlkdW1wKCdiYmJiJyk7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="-" type="4">
-        <text>$componentPersistentParameters += $tmpComponentPersistentParameters;</text>
+        <text>use Hrncirr\NextrasOrm\Mapper\Dbal\StorageReflection\NoPrimaryKeyStorageReflection;</text>
       </register>
       <register name="/" type="4">
         <text>queryArgs</text>
@@ -5409,34 +5409,31 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQlkdW1wKCdiYmJiJyk7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlkdW1wKCdhYWFhYScpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+        <text encoding="base64">CQlkdW1wKCdhYWEnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlkdW1wKCdiYmJiJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlkdW1wKCRjb21wb25lbnRQZXJzaXN0ZW50UGFyYW1ldGVycyk7Cg==</text>
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJZHVtcCgnYWFhYScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>$componentPersistentParameters += $tmpComponentPersistentParameters;
-			$info += $tmpComponentPersistentParameters;
-
-			dump('aaaa');</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIAo=</text>
+        <text encoding="base64">CQkJCQlkdW1wKCRjb21wb25lbnRQZXJzaXN0ZW50UGFyYW1ldGVycyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/user/account/g</text>
