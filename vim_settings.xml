@@ -1625,8 +1625,8 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/html/dv/cms/src/Users/Install/Helpers/PermissionInstallHelper.php" timestamp="1505203717314">
-        <mark key="[" line="31" column="8" />
+      <file name="/home/www/html/dv/cms/src/Users/Install/Helpers/PermissionInstallHelper.php" timestamp="1505205057813">
+        <mark key="[" line="89" column="106" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
@@ -1849,12 +1849,6 @@
         <mark key="[" line="27" column="46" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="/home/www/html/nnb/passportization/app/config/extensions.neon" timestamp="1505136785348">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="4" />
-        <mark key="." line="7" column="4" />
-        <mark key="^" line="7" column="4" />
       </file>
       <file name="/home/www/lib/vendor/zenify/doctrine-filters/src/DI/DefinitionFinder.php" timestamp="1487143926860">
         <mark key="[" line="1" column="0" />
@@ -2311,10 +2305,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/config/extensions.neon" timestamp="1505136737089">
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Latte/CmpFilter.php" timestamp="1496145351610">
         <mark key="[" line="45" column="66" />
         <mark key="]" line="13" column="0" />
@@ -2510,6 +2500,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="/home/www/html/dv/cms/src/Users/AdminModule/Components/UsersGrid/UsersGrid.latte" timestamp="1505204492068">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+      </file>
       <file name="/home/www/html/bul/mamo/app/model/RegisterModel.php" timestamp="1481267845402">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -2635,6 +2630,7 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
+      <file name="/home/www/html/dv/cms/libs/vendor/nette/security/src/Security/User.php" timestamp="1505204534551" />
       <file name="/home/www/lib/vendor/hrncirr/xml-serializer/src/PathGenerator.php" timestamp="1503479649033">
         <mark key="[" line="79" column="8" />
         <mark key="]" line="79" column="12" />
@@ -2906,8 +2902,8 @@
         <mark key="]" line="11" column="22" />
         <mark key="." line="11" column="22" />
       </file>
-      <file name="/home/www/html/dv/cms/src/Users/Install/Helpers/UserInstallHelper.php" timestamp="1505203751379">
-        <mark key="[" line="25" column="8" />
+      <file name="/home/www/html/dv/cms/src/Users/Install/Helpers/UserInstallHelper.php" timestamp="1505204914643">
+        <mark key="[" line="43" column="83" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
@@ -3061,10 +3057,10 @@
         <mark key="]" line="23" column="4" />
         <mark key="." line="23" column="4" />
       </file>
-      <file name="/home/www/html/dv/cms/src/Users/Install/UsersInstall.php" timestamp="1500991397645">
-        <mark key="[" line="28" column="8" />
-        <mark key="]" line="29" column="8" />
-        <mark key="." line="29" column="8" />
+      <file name="/home/www/html/dv/cms/src/Users/Install/UsersInstall.php" timestamp="1505204740871">
+        <mark key="[" line="123" column="8" />
+        <mark key="]" line="123" column="8" />
+        <mark key="." line="123" column="8" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemGroupForm/ItemGroupForm.php" timestamp="1504252148014">
         <mark key="[" line="46" column="54" />
@@ -3426,11 +3422,10 @@
         <mark key="]" line="7" column="13" />
         <mark key="." line="7" column="13" />
       </file>
-      <file name="/home/www/html/dv/cms/src/Users/Query/UsersQuery.php" timestamp="1505204275129">
-        <mark key="[" line="65" column="14" />
-        <mark key="]" line="65" column="41" />
-        <mark key="." line="65" column="41" />
-        <mark key="^" line="65" column="64" />
+      <file name="/home/www/html/dv/cms/src/Users/Query/UsersQuery.php" timestamp="1505204419744">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/src/Users/Events/UserListener.php" timestamp="1505203579768">
         <mark key="[" line="12" column="0" />
@@ -3557,8 +3552,8 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="/home/www/html/dv/cms/src/Users/UserCallable.php" timestamp="1497617614479">
-        <mark key="[" line="8" column="0" />
+      <file name="/home/www/html/dv/cms/src/Users/UserCallable.php" timestamp="1505205253279">
+        <mark key="[" line="12" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
@@ -3742,10 +3737,10 @@
         <mark key="]" line="33" column="8" />
         <mark key="." line="33" column="8" />
       </file>
-      <file name="/home/www/html/dv/cms/src/Users/AdminModule/Presenters/UsersPresenter.php" timestamp="1505203325857">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="4" />
-        <mark key="." line="27" column="4" />
+      <file name="/home/www/html/dv/cms/src/Users/AdminModule/Presenters/UsersPresenter.php" timestamp="1505204608210">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Files/Components/FileForm/FileForm.php" timestamp="1495782796205">
         <mark key="[" line="25" column="0" />
@@ -4830,12 +4825,6 @@
         <mark key="]" line="33" column="4" />
         <mark key="." line="33" column="4" />
       </file>
-      <file name="/home/www/html/nnb/dms/app/config/extensions.neon" timestamp="1505136576120">
-        <mark key="[" line="35" column="16" />
-        <mark key="]" line="19" column="50" />
-        <mark key="^" line="19" column="50" />
-        <mark key="." line="19" column="50" />
-      </file>
       <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Components/StateGridsTabsControl/StateGridsTabsControlFactory.php" timestamp="1502108355971">
         <mark key="[" line="157" column="86" />
         <mark key="]" line="110" column="0" />
@@ -5416,10 +5405,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>|Kdyby\Doctrine\EntityDao</text>
+        <text>$testUser =</text>
       </register>
       <register name="-" type="4">
-        <text>|Kdyby\Doctrine\EntityDao</text>
+        <text>$testUser =</text>
       </register>
       <register name="/" type="4">
         <text>queryArgs</text>
@@ -5428,39 +5417,31 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5Owo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIE9vcHNcQ2FjaGVGYWN0b3J5XENhY2hpbmdcQ2FjaGVGYWN0b3J5Owo=</text>
+        <text encoding="base64">ICogQHBhY2thZ2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIE9vcHNcQ2FjaGVGYWN0b3J5XENhY2hpbmdcQ2FjaGVGYWN0b3J5Owo=</text>
+        <text encoding="base64">ICogQGF1dGhvciAgICAgUm9tYW4gSHJuxI3DrcWZCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXE9iamVjdDsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">eyoKCTxkaXYgY2xhc3M9ImJveC1oZWFkZXIiPgoJCTxoMyBjbGFzcz0iYm94LXRpdGxlIj48L2gzPgoJCTxkaXYgY2xhc3M9ImJveC10b29scyI+CgkJCTxhIG46aHJlZj0ic2hvd01vZGFsISBpZCA9PiBOVUxMIiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IGFqYXgiPjxpIGNsYXNzPSJmYSBmYS1wbHVzLXNxdWFyZSI+PC9pPjwvYT4KCQk8L2Rpdj4KCTwvZGl2PgoJKn0=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">LT5zZXRPcHRpb24oVG9NYW55TXVsdGlTZWxlY3Q6OklURU1TX1RJVExFLCAnbmFtZScpCgkJCS0+c2V0T3B0aW9uKFRvTWFueU11bHRpU2VsZWN0OjpJVEVNU19BRERFUiwgJ2FkZFJvbGUnKQoJCQktPnNldE9wdGlvbihUb01hbnlNdWx0aVNlbGVjdDo6SVRFTVNfUkVNT1ZFUiwgJ3JlbW92ZVJvbGUnKQoJCQktPnNldE9wdGlvbihUb01hbnlNdWx0aVNlbGVjdDo6SVRFTVNfRklMVEVSLCBbJ3Zpc2libGUnID0+IHRydWVdKTs=</text>
+      <register name="5" type="2">
+        <text encoding="base64">dXNlIERvY3RyaW5lXE9STVxOYXRpdmVRdWVyeTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJcRm9ybXNcRG9jdHJpbmVGb3Jtc1xDb250cm9sc1xUb01hbnlNdWx0aVNlbGVjdDsK</text>
+        <text encoding="base64">dXNlIEtkeWJ5Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkkdGhpcy0+dXNlciA9ICR1c2VyOwo=</text>
+        <text encoding="base64">dXNlIE9vcHNcQ2FjaGVGYWN0b3J5XENhY2hpbmdcQ2FjaGVGYWN0b3J5Owo=</text>
       </register>
-      <register name="8" type="4">
-        <text>public function renderDefault()
-	{
-	}</text>
+      <register name="8" type="2">
+        <text encoding="base64">dXNlIE9vcHNcQ2FjaGVGYWN0b3J5XENhY2hpbmdcQ2FjaGVGYWN0b3J5Owo=</text>
       </register>
-      <register name="9" type="4">
-        <text>{**
- * Users template.
- *
- * @copyright  Copyright (c) 2017 Roman Hrnčíř
- * @package
- *
- *}</text>
+      <register name="9" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXE9iamVjdDsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/user/account/g</text>
