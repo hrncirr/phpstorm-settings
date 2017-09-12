@@ -273,6 +273,9 @@
         <mark key="]" line="13" column="4" />
         <mark key="." line="13" column="4" />
       </file>
+      <file name="/home/www/html/dv/cms/src/Users/locale/users.cs_CZ.neon" timestamp="1505204070327">
+        <mark key="[" line="9" column="0" />
+      </file>
       <file name="/home/www/vendor/nnb/application/src/Debugger/Logger.php" timestamp="1478863106617">
         <mark key="[" line="52" column="8" />
         <mark key="]" line="52" column="8" />
@@ -1269,6 +1272,9 @@
         <mark key="]" line="60" column="58" />
         <mark key="." line="60" column="58" />
       </file>
+      <file name="/home/www/html/dv/cms/src/Users/locale/users.en_US.neon" timestamp="1505204074327">
+        <mark key="[" line="9" column="0" />
+      </file>
       <file name="/home/www/html/nnb/passportization/src/App/TechnicalRequisitions/DI/config/services.neon" timestamp="1485509507480">
         <mark key="[" line="2" column="95" />
         <mark key="]" line="1" column="101" />
@@ -1619,8 +1625,8 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/html/dv/cms/src/Users/Install/Helpers/PermissionInstallHelper.php" timestamp="1505203654330">
-        <mark key="[" line="41" column="67" />
+      <file name="/home/www/html/dv/cms/src/Users/Install/Helpers/PermissionInstallHelper.php" timestamp="1505203717314">
+        <mark key="[" line="31" column="8" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
@@ -2814,6 +2820,9 @@
         <mark key="]" line="35" column="9" />
         <mark key="." line="35" column="9" />
       </file>
+      <file name="/home/www/html/dv/cms/src/Users/Privilege.php" timestamp="1505204003805">
+        <mark key="[" line="54" column="35" />
+      </file>
       <file name="/home/www/html/nnb/passportization/src/Passportization/TechnicalRequisitions/Components/ProfessionsGrid/ProfessionsGrid.php" timestamp="1487666831131">
         <mark key="[" line="104" column="0" />
         <mark key="]" line="29" column="4" />
@@ -2897,8 +2906,8 @@
         <mark key="]" line="11" column="22" />
         <mark key="." line="11" column="22" />
       </file>
-      <file name="/home/www/html/dv/cms/src/Users/Install/Helpers/UserInstallHelper.php" timestamp="1497013905168">
-        <mark key="[" line="1" column="0" />
+      <file name="/home/www/html/dv/cms/src/Users/Install/Helpers/UserInstallHelper.php" timestamp="1505203751379">
+        <mark key="[" line="25" column="8" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
@@ -3417,6 +3426,12 @@
         <mark key="]" line="7" column="13" />
         <mark key="." line="7" column="13" />
       </file>
+      <file name="/home/www/html/dv/cms/src/Users/Query/UsersQuery.php" timestamp="1505204275129">
+        <mark key="[" line="65" column="14" />
+        <mark key="]" line="65" column="41" />
+        <mark key="." line="65" column="41" />
+        <mark key="^" line="65" column="64" />
+      </file>
       <file name="/home/www/html/dv/cms/src/Users/Events/UserListener.php" timestamp="1505203579768">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="15" column="0" />
@@ -3872,10 +3887,10 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/home/www/html/dv/cms/src/Users/Security/BaseProvider.php" timestamp="1497617780290">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="/home/www/html/dv/cms/src/Users/Security/BaseProvider.php" timestamp="1505203836227">
+        <mark key="[" line="46" column="51" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Employees/EmployeesMapper.php" timestamp="1504770771266">
         <mark key="[" line="46" column="0" />
@@ -5400,11 +5415,11 @@
       <jump line="112" column="6" filename="/home/www/lib/vendor/nextras/dbal/src/Connection.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIE9vcHNcQ2FjaGVGYWN0b3J5XENhY2hpbmdcQ2FjaGVGYWN0b3J5Owo=</text>
+      <register name="&quot;" type="4">
+        <text>|Kdyby\Doctrine\EntityDao</text>
       </register>
       <register name="-" type="4">
-        <text>extends Object</text>
+        <text>|Kdyby\Doctrine\EntityDao</text>
       </register>
       <register name="/" type="4">
         <text>queryArgs</text>
@@ -5413,26 +5428,32 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIE9vcHNcQ2FjaGVGYWN0b3J5XENhY2hpbmdcQ2FjaGVGYWN0b3J5Owo=</text>
+        <text encoding="base64">dXNlIEtkeWJ5Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXE9iamVjdDsK</text>
+        <text encoding="base64">dXNlIE9vcHNcQ2FjaGVGYWN0b3J5XENhY2hpbmdcQ2FjaGVGYWN0b3J5Owo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">LT5zZXRPcHRpb24oVG9NYW55TXVsdGlTZWxlY3Q6OklURU1TX1RJVExFLCAnbmFtZScpCgkJCS0+c2V0T3B0aW9uKFRvTWFueU11bHRpU2VsZWN0OjpJVEVNU19BRERFUiwgJ2FkZFJvbGUnKQoJCQktPnNldE9wdGlvbihUb01hbnlNdWx0aVNlbGVjdDo6SVRFTVNfUkVNT1ZFUiwgJ3JlbW92ZVJvbGUnKQoJCQktPnNldE9wdGlvbihUb01hbnlNdWx0aVNlbGVjdDo6SVRFTVNfRklMVEVSLCBbJ3Zpc2libGUnID0+IHRydWVdKTs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">dXNlIE9vcHNcQ2FjaGVGYWN0b3J5XENhY2hpbmdcQ2FjaGVGYWN0b3J5Owo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXE9iamVjdDsK</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">LT5zZXRPcHRpb24oVG9NYW55TXVsdGlTZWxlY3Q6OklURU1TX1RJVExFLCAnbmFtZScpCgkJCS0+c2V0T3B0aW9uKFRvTWFueU11bHRpU2VsZWN0OjpJVEVNU19BRERFUiwgJ2FkZFJvbGUnKQoJCQktPnNldE9wdGlvbihUb01hbnlNdWx0aVNlbGVjdDo6SVRFTVNfUkVNT1ZFUiwgJ3JlbW92ZVJvbGUnKQoJCQktPnNldE9wdGlvbihUb01hbnlNdWx0aVNlbGVjdDo6SVRFTVNfRklMVEVSLCBbJ3Zpc2libGUnID0+IHRydWVdKTs=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">dXNlIEhybmNpcnJcRm9ybXNcRG9jdHJpbmVGb3Jtc1xDb250cm9sc1xUb01hbnlNdWx0aVNlbGVjdDsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkkdGhpcy0+dXNlciA9ICR1c2VyOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>public function renderDefault()
 	{
 	}</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>{**
  * Users template.
  *
@@ -5440,12 +5461,6 @@
  * @package
  *
  *}</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">dXNlIE9vcHNcQ2FjaGVGYWN0b3J5XENhY2hpbmdcQ2FjaGVGYWN0b3J5Owo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">LSBDb250cmlidXR0ZVxDYWNoZVxESVxDYWNoZUZhY3RvcnlFeHRlbnNpb24K</text>
       </register>
       <register name=":" type="4">
         <text>%s/user/account/g</text>
