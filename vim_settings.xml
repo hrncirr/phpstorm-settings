@@ -63,11 +63,11 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="/home/www/html/dv/cms/app/config/extensions.neon" timestamp="1505310392738">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="4" />
-        <mark key="^" line="7" column="40" />
-        <mark key="." line="8" column="4" />
+      <file name="/home/www/html/dv/cms/app/config/extensions.neon" timestamp="1505311526138">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="2" column="40" />
+        <mark key="." line="2" column="4" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Documents/components/AttachmentsControl/AttachmentsControl.php" timestamp="1488277359497">
         <mark key="[" line="68" column="38" />
@@ -98,6 +98,9 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="/home/www/html/dv/cms/app/config/extensions/forms.neon" timestamp="1505311088180">
+        <mark key="[" line="3" column="4" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Files/Router/FileConversionRouterFactory.php" timestamp="1484301905227">
         <mark key="[" line="39" column="30" />
@@ -1791,6 +1794,9 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="/home/www/html/dv/cms/app/config/extensions/header.neon" timestamp="1505311155844">
+        <mark key="[" line="7" column="0" />
+      </file>
       <file name="/home/www/html/dv/cms/src/Admin/AdminModule/Components/ExtensionsGrid/IExtensionsGridFactory.php" timestamp="1505295374653">
         <mark key="[" line="11" column="38" />
       </file>
@@ -2374,8 +2380,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/home/www/html/dv/cms/app/config/config.neon" timestamp="1505310352762">
-        <mark key="[" line="33" column="0" />
+      <file name="/home/www/html/dv/cms/app/config/config.neon" timestamp="1505311022699">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="/home/www/lib/vendor/arachne/entity-loader/src/DI/EntityLoaderExtension.php" timestamp="1491373103443">
         <mark key="[" line="126" column="51" />
@@ -3215,8 +3223,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/home/www/html/dv/cms/app/config/extensions/doctrine.neon" timestamp="1505310409971">
-        <mark key="[" line="2" column="0" />
+      <file name="/home/www/html/dv/cms/app/config/extensions/doctrine.neon" timestamp="1505311592186">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="70" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/client-side.neon" timestamp="1478256988232">
         <mark key="[" line="7" column="0" />
@@ -3525,7 +3536,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505310066370">
+      <file name="/Dummy.txt" timestamp="1505312184984">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
@@ -3976,6 +3987,9 @@
       </file>
       <file name="/home/www/html/dv/cms/Modules/Base/Extensions/AppInstallerExtension.php" timestamp="1505308592650">
         <mark key="[" line="11" column="25" />
+      </file>
+      <file name="/home/www/html/dv/cms/app/config/extensions/components.neon" timestamp="1505311435592">
+        <mark key="[" line="4" column="12" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/FormParts/DetailsFormPart/TDetailsFormPart.php" timestamp="1504174847951">
         <mark key="[" line="33" column="4" />
@@ -5458,6 +5472,11 @@
         <mark key="]" line="93" column="16" />
         <mark key="." line="93" column="16" />
       </file>
+      <file name="/home/www/html/dv/cms/app/config/extensions/base.neon" timestamp="1505311572146">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="4" />
+        <mark key="." line="11" column="4" />
+      </file>
       <file name="/home/www/html/bul/maternal-register/www/js/date.selector.js" timestamp="1481203264398">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -5724,10 +5743,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hrncirr.doctrineEntityAudit: Hrncirr\DoctrineEntityAudit\DI\DoctrineEntityAuditExtension</text>
+        <text>symplify.eventDispatcher: Symplify\SymfonyEventDispatcher\Adapter\Nette\DI\SymfonyEventDispatcherExtension</text>
       </register>
       <register name="-" type="4">
-        <text>hrncirr.doctrineEntityAudit: Hrncirr\DoctrineEntityAudit\DI\DoctrineEntityAuditExtension</text>
+        <text>symplify.eventDispatcher: Symplify\SymfonyEventDispatcher\Adapter\Nette\DI\SymfonyEventDispatcherExtension</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">JHRoaXMtPmVt</text>
@@ -5736,47 +5755,51 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>hrncirr.doctrineEntityAudit:
-	globalIgnoreProperties:
-		- createdAt
-		- updatedAt
-		- deletedAt</text>
+        <text>cacheFactory: Contributte\Cache\DI\CacheFactoryExtension
+
+	hrncirr.validator: Hrncirr\Validator\DI\ValidatorExtension
+
+	kdyby.autowired: Kdyby\Autowired\DI\AutowiredExtension
+	kdyby.console: Kdyby\Console\DI\ConsoleExtension
+	kdyby.monolog: Kdyby\Monolog\DI\MonologExtension
+	kdyby.translation: Kdyby\Translation\DI\TranslationExtension
+	kdyby.validator: Kdyby\Validator\DI\ValidatorExtension	
+
+	ipub.permissions: IPub\Permissions\DI\PermissionsExtension
+
+	symplify.eventDispatcher: Symplify\SymfonyEventDispatcher\Adapter\Nette\DI\SymfonyEventDispatcherExtension</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CWtkeWJ5LmRvY3RyaW5lRm9ybXM6IEtkeWJ5XERvY3RyaW5lRm9ybXNcRElcRm9ybXNFeHRlbnNpb24K</text>
+      <register name="2" type="4">
+        <text encoding="base64">aHJuY2lyci5oaXN0b3J5OiBIcm5jaXJyXEhpc3RvcnlcRElcSGlzdG9yeUV4dGVuc2lvbgkKCWhybmNpcnIubW9kYWxzOiBIcm5jaXJyXE1vZGFsc1xESVxNb2RhbHNFeHRlbnNpb24KCWhybmNpcnIucG5vdGlmeTogSHJuY2lyclxQTm90aWZ5XERJXFBOb3RpZnlFeHRlbnNpb24KCWhybmNpcnIudGFiczogSHJuY2lyclxUYWJzXERJXFRhYnNFeHRlbnNpb24J</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CWtkeWJ5LmRvY3RyaW5lOiBLZHlieVxEb2N0cmluZVxESVxPcm1FeHRlbnNpb24K</text>
+      <register name="3" type="4">
+        <text>hrncirr.tagInput: Hrncirr\Forms\TagsInput\DI\TagsInputExtension
+	hrncirr.tinyMCE: Hrncirr\TinyMCE\DI\TinyMCEExtension</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CWtkeWJ5LmV2ZW50czogS2R5YnlcRXZlbnRzXERJXEV2ZW50c0V4dGVuc2lvbgo=</text>
+      <register name="4" type="4">
+        <text>ipub.formPhone: IPub\FormPhone\DI\FormPhoneExtension
+	ipub.phone: IPub\Phone\DI\PhoneExtension
+	ipub.doctrinePhone: IPub\DoctrinePhone\DI\DoctrinePhoneExtension</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CWtkeWJ5LmFubm90YXRpb25zOiBLZHlieVxBbm5vdGF0aW9uc1xESVxBbm5vdGF0aW9uc0V4dGVuc2lvbgo=</text>
+      <register name="5" type="4">
+        <text>hrncirr.forms:
+	defaultRenderer: Instante\Bootstrap3Renderer\BootstrapRenderer ()
+	protection: TRUE</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">a2R5YnkuZG9jdHJpbmU6CgltZXRhZGF0YToKCQlBcHBcRXh0ZW5zaW9uczogJWFwcERpciUvRXh0ZW5zaW9ucwoKCSNzZWNvbmRMZXZlbENhY2hlOgoJIwllbmFibGVkOiBUUlVFCg==</text>
+        <text encoding="base64">CSNnZWRtb1JlcG9zaXRvcmllczogSHJuY2lyclxEb2N0cmluZVxESVxPcm1FeHRlbnNpb24K</text>
       </register>
       <register name="7" type="4">
-        <text>minetro.gedmo:
-#nettrine.gedmo:
-	annotations:
-		blameable: off
-		ipTraceable: off
-		loggable: off
-		sluggable: on
-		softDeleteable: on
-		sortable: on
-		timestampable: on
-		translatable: off
-		treeable: on
-		uploadable: off</text>
+        <text>arachne.doctrine: Arachne\Doctrine\DI\DoctrineExtension
+	arachne.serviceCollections: Arachne\ServiceCollections\DI\ServiceCollectionsExtension
+	arachne.entityLoader: Arachne\EntityLoader\DI\EntityLoaderExtension</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEFwcFxFeHRlbnNpb25zXENvbXBpbGVyRXh0ZW5zaW9uOwo=</text>
+        <text encoding="base64">CW1pbmV0cm8uZ2VkbW86IE1pbmV0cm9cRG9jdHJpbmVFeHRlbnNpb25zXERJXERvY3RyaW5lRXh0ZW5zaW9uc0V4dGVuc2lvbgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXEVudGl0eU1hbmFnZXI7Cg==</text>
+      <register name="9" type="4">
+        <text>minetro.gedmo: Minetro\DoctrineExtensions\DI\DoctrineExtensionsExtension
+	#nettrine.gedmo: Nettrine\Extensions\DI\DoctrineExtensionsExtension</text>
       </register>
       <register name=":" type="4">
         <text>%s/user/account/g</text>
