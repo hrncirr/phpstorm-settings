@@ -33,7 +33,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1505224053619">
+      <file name="/a.dummy" timestamp="1505295495841">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -63,11 +63,11 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="/home/www/html/dv/cms/app/config/extensions.neon" timestamp="1505215002638">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="40" />
-        <mark key="." line="8" column="40" />
-        <mark key="^" line="8" column="40" />
+      <file name="/home/www/html/dv/cms/app/config/extensions.neon" timestamp="1505296382610">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="7" column="40" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Documents/components/AttachmentsControl/AttachmentsControl.php" timestamp="1488277359497">
         <mark key="[" line="68" column="38" />
@@ -194,6 +194,9 @@
         <mark key="]" line="177" column="4" />
         <mark key="." line="177" column="4" />
       </file>
+      <file name="/home/www/html/dv/cms/src/Admin/DI/AdminExtension.php" timestamp="1505296822191">
+        <mark key="[" line="51" column="28" />
+      </file>
       <file name="/home/www/html/dv/cms/Modules/Storage/locale/storage-forms.cs_CZ.neon" timestamp="1499068257502">
         <mark key="[" line="24" column="9" />
         <mark key="]" line="43" column="4" />
@@ -228,6 +231,11 @@
         <mark key="[" line="124" column="12" />
         <mark key="]" line="124" column="12" />
         <mark key="." line="124" column="12" />
+      </file>
+      <file name="/home/www/html/dv/cms/app/config/factories.neon" timestamp="1505295785397">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/components/RoomDetailControl/RoomDetailControl.php" timestamp="1486633504198">
         <mark key="[" line="61" column="37" />
@@ -273,6 +281,11 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="4" />
         <mark key="." line="13" column="4" />
+      </file>
+      <file name="/home/www/html/dv/cms/src/Admin/DI/config.neon" timestamp="1505295963942">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="4" />
+        <mark key="." line="1" column="4" />
       </file>
       <file name="/home/www/html/dv/cms/src/Users/locale/users.cs_CZ.neon" timestamp="1505204070327">
         <mark key="[" line="9" column="0" />
@@ -1254,7 +1267,7 @@
         <mark key="]" line="61" column="70" />
         <mark key="." line="61" column="70" />
       </file>
-      <file name="/home/www/html/dv/cms/app/Extensions/AdminExtension.php" timestamp="1501050538197">
+      <file name="/home/www/html/dv/cms/app/Extensions/AdminExtension.php" timestamp="1505296330206">
         <mark key="[" line="44" column="62" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
@@ -1372,10 +1385,10 @@
         <mark key="]" line="139" column="10" />
         <mark key="." line="139" column="10" />
       </file>
-      <file name="/home/www/html/dv/cms/src/Navigation/AdminModule/Presenters/NavigationPresenter.php" timestamp="1500976516420">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="/home/www/html/dv/cms/src/Navigation/AdminModule/Presenters/NavigationPresenter.php" timestamp="1505295988035">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/AddressBook/Components/ContactForm/ContactForm.php" timestamp="1500550491533">
         <mark key="[" line="105" column="8" />
@@ -1466,6 +1479,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="/home/www/html/dv/cms/src/Admin/AdminModule/Components/AdminGridFactory.php" timestamp="1505295745585">
+        <mark key="[" line="11" column="27" />
+      </file>
       <file name="/home/www/html/nnb/nezadouci-udalosti/app/Presenters/IncidentBasePresenter.php" timestamp="1478087261349">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -1526,10 +1542,15 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="/home/www/html/dv/cms/app/config/modules.neon" timestamp="1505225463293">
-        <mark key="[" line="11" column="33" />
+      <file name="/home/www/html/dv/cms/app/config/modules.neon" timestamp="1505295633215">
+        <mark key="[" line="10" column="4" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="/home/www/html/dv/cms/src/User/Install/UserInstall.php" timestamp="1505296748326">
+        <mark key="[" line="23" column="33" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/presenters/DefaultPresenter.php" timestamp="1491287245512">
         <mark key="[" line="146" column="15" />
@@ -1706,6 +1727,9 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="/home/www/html/dv/cms/src/Admin/AdminModule/Components/ExtensionsGrid/IExtensionsGridFactory.php" timestamp="1505295374653">
+        <mark key="[" line="11" column="38" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Documents/components/FilesUploadForm/FilesUploadForm.php" timestamp="1484318587018">
         <mark key="[" line="124" column="8" />
         <mark key="]" line="98" column="16" />
@@ -1751,10 +1775,10 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/home/www/html/dv/cms/Modules/Pages/AdminModule/Presenters/PagesPresenter.php" timestamp="1500636915548">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+      <file name="/home/www/html/dv/cms/Modules/Pages/AdminModule/Presenters/PagesPresenter.php" timestamp="1505296901841">
+        <mark key="[" line="17" column="41" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1505129147163">
         <mark key="[" line="106" column="0" />
@@ -1930,6 +1954,11 @@
         <mark key="]" line="104" column="0" />
         <mark key="." line="104" column="0" />
       </file>
+      <file name="/home/www/html/dv/cms/src/Admin/AdminModule/Presenters/ExtensionsPresenter.php" timestamp="1505295350825">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="/home/www/html/nnb/passportization/app/Router/FloorImageRouterFactory.php" timestamp="1502108020406">
         <mark key="[" line="33" column="40" />
         <mark key="]" line="51" column="0" />
@@ -1959,6 +1988,9 @@
         <mark key="[" line="80" column="27" />
         <mark key="]" line="40" column="4" />
         <mark key="." line="40" column="4" />
+      </file>
+      <file name="/home/www/html/dv/cms/src/Admin/AdminModule/Components/ExtensionGrid/ExtensionGrid.php" timestamp="1505295532263">
+        <mark key="[" line="143" column="48" />
       </file>
       <file name="/home/www/html/nnb/dms/app/Presenters/UsersPresenter.php" timestamp="1490274029267">
         <mark key="[" line="17" column="4" />
@@ -2253,7 +2285,7 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="/home/www/html/dv/cms/src/Admin/AdminModule/Presenters/BasePresenter.php" timestamp="1505294632872">
+      <file name="/home/www/html/dv/cms/src/Admin/AdminModule/Presenters/BasePresenter.php" timestamp="1505295716665">
         <mark key="[" line="11" column="10" />
       </file>
       <file name="/home/www/html/bul/phonebook/app/Model/SearchModel.php" timestamp="1481093168939">
@@ -2885,8 +2917,8 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/html/dv/cms/src/Admin/AuthModule/Presenters/SignPresenter.php" timestamp="1505294662411">
-        <mark key="[" line="16" column="0" />
+      <file name="/home/www/html/dv/cms/src/Admin/AuthModule/Presenters/SignPresenter.php" timestamp="1505296555249">
+        <mark key="[" line="20" column="3" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
@@ -3102,6 +3134,11 @@
         <mark key="[" line="1" column="27" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="/home/www/html/dv/cms/src/Admin/AdminModule/Presenters/SettingsPresenter.php" timestamp="1505295356094">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/media/src/Storages/ImageFormat.php" timestamp="1493879298350">
         <mark key="[" line="23" column="4" />
@@ -3548,6 +3585,11 @@
         <mark key="]" line="12" column="4" />
         <mark key="." line="12" column="4" />
       </file>
+      <file name="/home/www/html/dv/cms/src/User/AdminModule/Components/UserGrid/UserGrid.php" timestamp="1505296933482">
+        <mark key="[" line="54" column="58" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Search/SearchFile.php" timestamp="1491832444891">
         <mark key="[" line="32" column="20" />
         <mark key="]" line="10" column="0" />
@@ -3597,6 +3639,9 @@
         <mark key="[" line="5" column="62" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
+      </file>
+      <file name="/home/www/html/dv/cms/src/Admin/AdminModule/Components/ExtensionsGrid/ExtensionsGrid.php" timestamp="1505295368627">
+        <mark key="[" line="11" column="38" />
       </file>
       <file name="/home/www/html/dv/cms/src/Users/UserCallable.php" timestamp="1505205253279">
         <mark key="[" line="12" column="0" />
@@ -3673,6 +3718,7 @@
         <mark key="]" line="55" column="35" />
         <mark key="." line="55" column="35" />
       </file>
+      <file name="/home/www/html/dv/cms/src/Admin/AdminModule/Components/ExtensionGrid/IExtensionGridFactory.php" timestamp="1505295440117" />
       <file name="/home/www/html/nnb/socialni-pece/app/templates/Statistics/default.latte" timestamp="1484906571562">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -4369,6 +4415,11 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
+      <file name="/home/www/html/dv/cms/src/User/AdminModule/Presenters/UserPresenter.php" timestamp="1505296015131">
+        <mark key="[" line="22" column="40" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="/home/www/html/nnb/dms/js/items.per.page.init.js" timestamp="1488358366008">
         <mark key="[" line="10" column="21" />
         <mark key="]" line="8" column="4" />
@@ -4780,6 +4831,9 @@
         <mark key="]" line="42" column="4" />
         <mark key="." line="42" column="4" />
       </file>
+      <file name="/home/www/html/dv/cms/src/Admin/Install/AdminInstall.php" timestamp="1505295572359">
+        <mark key="[" line="4" column="26" />
+      </file>
       <file name="/home/www/html/nnb/passportization/app/Model/CostCentersTreeModel.php" timestamp="1505135738092">
         <mark key="[" line="26" column="68" />
         <mark key="]" line="16" column="0" />
@@ -4895,8 +4949,8 @@
         <mark key="]" line="67" column="16" />
         <mark key="." line="67" column="16" />
       </file>
-      <file name="/home/www/html/dv/cms/app/Extensions/AppInstallerExtension.php" timestamp="1505215352085">
-        <mark key="[" line="21" column="0" />
+      <file name="/home/www/html/dv/cms/app/Extensions/AppInstallerExtension.php" timestamp="1505296259286">
+        <mark key="[" line="31" column="23" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
@@ -4978,10 +5032,10 @@
         <mark key="]" line="14" column="55" />
         <mark key="." line="14" column="55" />
       </file>
-      <file name="/home/www/html/dv/cms/app/Extensions/Configurators/ExtensionConfig.php" timestamp="1497520232733">
-        <mark key="[" line="10" column="1" />
-        <mark key="]" line="10" column="1" />
-        <mark key="." line="10" column="1" />
+      <file name="/home/www/html/dv/cms/app/Extensions/Configurators/ExtensionConfig.php" timestamp="1505295912083">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Components/FileManagerDialogControl/FileManagerTinyMCEControl.php" timestamp="1474964722138">
         <mark key="[" line="18" column="58" />
@@ -5469,10 +5523,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJjbXNcVXNlclxJbnN0YWxsXEhlbHBlcnNcVXNlckluc3RhbGxIZWxwZXI7Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxDb21wb25lbnRzXEFkbWluR3JpZEZhY3Rvcnk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>- Hrncirrcms\Admin\Components\AdminGridFactory</text>
       </register>
       <register name="/" type="4">
         <text>Resource</text>
@@ -5481,31 +5535,31 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJjbXNcVXNlclxJbnN0YWxsXEhlbHBlcnNcVXNlckluc3RhbGxIZWxwZXI7Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxDb21wb25lbnRzXEFkbWluR3JpZEZhY3Rvcnk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIFVzZXJzXEluc3RhbGxcVXNlcnNJbnN0YWxsOwo=</text>
+        <text encoding="base64">dXNlIEFwcFxBZG1pbk1vZHVsZVxQcmVzZW50ZXJzXEJhc2VQcmVzZW50ZXI7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">dXNlIFVybFxJbnN0YWxsXEhlbHBlcnNcVXJsSW5zdGFsbEhlbHBlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXFBocEdlbmVyYXRvclxDbGFzc1R5cGU7Cg==</text>
+        <text encoding="base64">CWFkbWluOiBBcHBcRXh0ZW5zaW9uc1xBZG1pbkV4dGVuc2lvbgo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGFmdGVyQ29tcGlsZShDbGFzc1R5cGUgJGdlbmVyYXRlZENvbnRhaW5lcikKCXsKCQkvKgoJCSRjYiA9ICR0aGlzLT5nZXRDb250YWluZXJCdWlsZGVyKCk7CgkJJGluaXRpYWxpemUgPSAkZ2VuZXJhdGVkQ29udGFpbmVyLT5nZXRNZXRob2QoJ2luaXRpYWxpemUnKTsKCgkJJGluaXRpYWxpemUtPmFkZEJvZHkoJGNiLT5mb3JtYXRQaHAoJz87JywgWwoJCQluZXcgTmV0dGVcRElcU3RhdGVtZW50KCdAVHJhY3lcQmFyOjphZGRQYW5lbCcsIFtuZXcgTmV0dGVcRElcU3RhdGVtZW50KCdIcm5jaXJyY21zXFVybFxBbnRQYW5lbCcpXSkKCQldKSk7CgkJKi8KCX0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">dXNlIE9wdGlvbnNcSW5zdGFsbFxBZG1pbkluc3RhbGw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSMtIEhybmNpcnJjbXNcVXJsXFJvdXRlKC4uLiwgQGFudEZpbGVTdG9yYWdlKQo=</text>
+        <text encoding="base64">dXNlIEFwcFxBZG1pbk1vZHVsZVxQcmVzZW50ZXJzXEJhc2VQcmVzZW50ZXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSMtIEhybmNpcnJjbXNcVXJsXEFudFBhbmVsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIFVybFxVcmw7Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxBZG1pbk1vZHVsZVxQcmVzZW50ZXJzXEJhc2VQcmVzZW50ZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIFVzZXJzXFVzZXI7Cg==</text>
+        <text encoding="base64">dXNlIEZsYW1lXE1vZHVsZXNcQ29uZmlndXJhdG9yc1xDb25maWc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/user/account/g</text>
