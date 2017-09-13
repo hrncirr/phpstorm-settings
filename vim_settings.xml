@@ -2253,6 +2253,9 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
+      <file name="/home/www/html/dv/cms/src/Admin/AdminModule/Presenters/BasePresenter.php" timestamp="1505294632872">
+        <mark key="[" line="11" column="10" />
+      </file>
       <file name="/home/www/html/bul/phonebook/app/Model/SearchModel.php" timestamp="1481093168939">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -2881,6 +2884,11 @@
         <mark key="[" line="25" column="35" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="/home/www/html/dv/cms/src/Admin/AuthModule/Presenters/SignPresenter.php" timestamp="1505294662411">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/ClipboardService.php" timestamp="1488369743482">
         <mark key="[" line="62" column="45" />
@@ -5461,7 +5469,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIFVybFxJbnN0YWxsXEhlbHBlcnNcVXJsSW5zdGFsbEhlbHBlcjsK</text>
+        <text encoding="base64">dXNlIEhybmNpcnJjbXNcVXNlclxJbnN0YWxsXEhlbHBlcnNcVXNlckluc3RhbGxIZWxwZXI7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
@@ -5473,31 +5481,31 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIFVybFxJbnN0YWxsXEhlbHBlcnNcVXJsSW5zdGFsbEhlbHBlcjsK</text>
+        <text encoding="base64">dXNlIEhybmNpcnJjbXNcVXNlclxJbnN0YWxsXEhlbHBlcnNcVXNlckluc3RhbGxIZWxwZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXFBocEdlbmVyYXRvclxDbGFzc1R5cGU7Cg==</text>
+        <text encoding="base64">dXNlIFVzZXJzXEluc3RhbGxcVXNlcnNJbnN0YWxsOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGFmdGVyQ29tcGlsZShDbGFzc1R5cGUgJGdlbmVyYXRlZENvbnRhaW5lcikKCXsKCQkvKgoJCSRjYiA9ICR0aGlzLT5nZXRDb250YWluZXJCdWlsZGVyKCk7CgkJJGluaXRpYWxpemUgPSAkZ2VuZXJhdGVkQ29udGFpbmVyLT5nZXRNZXRob2QoJ2luaXRpYWxpemUnKTsKCgkJJGluaXRpYWxpemUtPmFkZEJvZHkoJGNiLT5mb3JtYXRQaHAoJz87JywgWwoJCQluZXcgTmV0dGVcRElcU3RhdGVtZW50KCdAVHJhY3lcQmFyOjphZGRQYW5lbCcsIFtuZXcgTmV0dGVcRElcU3RhdGVtZW50KCdIcm5jaXJyY21zXFVybFxBbnRQYW5lbCcpXSkKCQldKSk7CgkJKi8KCX0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">dXNlIFVybFxJbnN0YWxsXEhlbHBlcnNcVXJsSW5zdGFsbEhlbHBlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSMtIEhybmNpcnJjbXNcVXJsXFJvdXRlKC4uLiwgQGFudEZpbGVTdG9yYWdlKQo=</text>
+        <text encoding="base64">dXNlIE5ldHRlXFBocEdlbmVyYXRvclxDbGFzc1R5cGU7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CSMtIEhybmNpcnJjbXNcVXJsXEFudFBhbmVsCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGFmdGVyQ29tcGlsZShDbGFzc1R5cGUgJGdlbmVyYXRlZENvbnRhaW5lcikKCXsKCQkvKgoJCSRjYiA9ICR0aGlzLT5nZXRDb250YWluZXJCdWlsZGVyKCk7CgkJJGluaXRpYWxpemUgPSAkZ2VuZXJhdGVkQ29udGFpbmVyLT5nZXRNZXRob2QoJ2luaXRpYWxpemUnKTsKCgkJJGluaXRpYWxpemUtPmFkZEJvZHkoJGNiLT5mb3JtYXRQaHAoJz87JywgWwoJCQluZXcgTmV0dGVcRElcU3RhdGVtZW50KCdAVHJhY3lcQmFyOjphZGRQYW5lbCcsIFtuZXcgTmV0dGVcRElcU3RhdGVtZW50KCdIcm5jaXJyY21zXFVybFxBbnRQYW5lbCcpXSkKCQldKSk7CgkJKi8KCX0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIFVybFxVcmw7Cg==</text>
+        <text encoding="base64">CSMtIEhybmNpcnJjbXNcVXJsXFJvdXRlKC4uLiwgQGFudEZpbGVTdG9yYWdlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIFVzZXJzXFVzZXI7Cg==</text>
+        <text encoding="base64">CSMtIEhybmNpcnJjbXNcVXJsXEFudFBhbmVsCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">dXNlIFVybFxVcmw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIFVybFxSb3V0ZUdlbmVyYXRvcjsK</text>
+        <text encoding="base64">dXNlIFVzZXJzXFVzZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/user/account/g</text>
