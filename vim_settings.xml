@@ -63,6 +63,12 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
+      <file name="/home/www/html/dv/cms/app/config/extensions.neon" timestamp="1505310392738">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="4" />
+        <mark key="^" line="7" column="40" />
+        <mark key="." line="8" column="4" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Documents/components/AttachmentsControl/AttachmentsControl.php" timestamp="1488277359497">
         <mark key="[" line="68" column="38" />
         <mark key="]" line="50" column="8" />
@@ -2368,8 +2374,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/home/www/html/dv/cms/app/config/config.neon" timestamp="1505299576698">
-        <mark key="[" line="102" column="4" />
+      <file name="/home/www/html/dv/cms/app/config/config.neon" timestamp="1505310352762">
+        <mark key="[" line="33" column="0" />
       </file>
       <file name="/home/www/lib/vendor/arachne/entity-loader/src/DI/EntityLoaderExtension.php" timestamp="1491373103443">
         <mark key="[" line="126" column="51" />
@@ -3209,6 +3215,9 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="/home/www/html/dv/cms/app/config/extensions/doctrine.neon" timestamp="1505310409971">
+        <mark key="[" line="2" column="0" />
+      </file>
       <file name="/home/www/vendor/hrncirr/elfinder/client-side.neon" timestamp="1478256988232">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -3516,10 +3525,10 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505306698920">
+      <file name="/Dummy.txt" timestamp="1505310066370">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/nette-menu/src/DK/Menu/UI/IMenuControlFactory.php" timestamp="1491566383335">
         <mark key="[" line="13" column="15" />
@@ -5714,11 +5723,11 @@
       <jump line="357" column="14" filename="/home/www/html/dv/cms/Modules/Page/AdminModule/Components/PageForm/PageForm.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEFwcFxFeHRlbnNpb25zXENvbXBpbGVyRXh0ZW5zaW9uOwo=</text>
+      <register name="&quot;" type="4">
+        <text>hrncirr.doctrineEntityAudit: Hrncirr\DoctrineEntityAudit\DI\DoctrineEntityAuditExtension</text>
       </register>
       <register name="-" type="4">
-        <text>/*, IEntityAuditProvider, ITranslationProvider */</text>
+        <text>hrncirr.doctrineEntityAudit: Hrncirr\DoctrineEntityAudit\DI\DoctrineEntityAuditExtension</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">JHRoaXMtPmVt</text>
@@ -5726,36 +5735,48 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dXNlIEFwcFxFeHRlbnNpb25zXENvbXBpbGVyRXh0ZW5zaW9uOwo=</text>
+      <register name="1" type="4">
+        <text>hrncirr.doctrineEntityAudit:
+	globalIgnoreProperties:
+		- createdAt
+		- updatedAt
+		- deletedAt</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXEVudGl0eU1hbmFnZXI7Cg==</text>
+        <text encoding="base64">CWtkeWJ5LmRvY3RyaW5lRm9ybXM6IEtkeWJ5XERvY3RyaW5lRm9ybXNcRElcRm9ybXNFeHRlbnNpb24K</text>
       </register>
-      <register name="3" type="4">
-        <text>/**
-	 * @var EntityManager
-	 * @inject
-	 */
-	public $em;</text>
+      <register name="3" type="2">
+        <text encoding="base64">CWtkeWJ5LmRvY3RyaW5lOiBLZHlieVxEb2N0cmluZVxESVxPcm1FeHRlbnNpb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEFwcFxFeHRlbnNpb25zXENvbmZpZ3VyYXRvcnNcRXh0ZW5zaW9uQ29uZmlnOwo=</text>
+        <text encoding="base64">CWtkeWJ5LmV2ZW50czogS2R5YnlcRXZlbnRzXERJXEV2ZW50c0V4dGVuc2lvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIEFwcFxFeHRlbnNpb25zXENvbmZpZ3VyYXRvcnNcRXh0ZW5zaW9uQ29uZmlnOwo=</text>
+        <text encoding="base64">CWtkeWJ5LmFubm90YXRpb25zOiBLZHlieVxBbm5vdGF0aW9uc1xESVxBbm5vdGF0aW9uc0V4dGVuc2lvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIEFwcFxDb21wb25lbnRzXEJhc2VGb3JtQ29udHJvbDsK</text>
+        <text encoding="base64">a2R5YnkuZG9jdHJpbmU6CgltZXRhZGF0YToKCQlBcHBcRXh0ZW5zaW9uczogJWFwcERpciUvRXh0ZW5zaW9ucwoKCSNzZWNvbmRMZXZlbENhY2hlOgoJIwllbmFibGVkOiBUUlVFCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">dXNlIEFwcFxDb21wb25lbnRzXEhpc3RvcnlDb250cm9sXElIaXN0b3J5UHJvcGVydGllc1Byb3ZpZGVyOwo=</text>
+      <register name="7" type="4">
+        <text>minetro.gedmo:
+#nettrine.gedmo:
+	annotations:
+		blameable: off
+		ipTraceable: off
+		loggable: off
+		sluggable: on
+		softDeleteable: on
+		sortable: on
+		timestampable: on
+		translatable: off
+		treeable: on
+		uploadable: off</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIFVzZXJzXFVzZXI7Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxFeHRlbnNpb25zXENvbXBpbGVyRXh0ZW5zaW9uOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEFwcFxDb21wb25lbnRzXEJhc2VDb250cm9sOwo=</text>
+        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXEVudGl0eU1hbmFnZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/user/account/g</text>
