@@ -2395,8 +2395,10 @@
         <mark key="]" line="58" column="4" />
         <mark key="." line="58" column="4" />
       </file>
-      <file name="/home/www/html/dv/cms/app/config/extensions/nette.neon" timestamp="1505391017905">
-        <mark key="[" line="17" column="4" />
+      <file name="/home/www/html/dv/cms/app/config/extensions/nette.neon" timestamp="1505393779624">
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Pages/AdminModule/Components/PageForm/_PageForm.latte" timestamp="1492598595773">
         <mark key="[" line="35" column="106" />
@@ -3664,7 +3666,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505387665015">
+      <file name="/Dummy.txt" timestamp="1505394208199">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
@@ -4069,6 +4071,9 @@
         <mark key="]" line="11" column="18" />
         <mark key="." line="11" column="18" />
       </file>
+      <file name="/home/www/html/dv/cms/Modules/Page/AdminModule/Components/PageForm/sidebar.latte" timestamp="1505394495961">
+        <mark key="[" line="30" column="52" />
+      </file>
       <file name="/home/www/html/dv/cms/app/Extensions/Extension.php" timestamp="1500640406734">
         <mark key="[" line="3" column="1" />
         <mark key="]" line="10" column="0" />
@@ -4435,6 +4440,11 @@
         <mark key="[" line="11" column="49" />
         <mark key="]" line="11" column="70" />
         <mark key="." line="11" column="70" />
+      </file>
+      <file name="/home/www/html/dv/cms/Modules/File/Events/ElFinderFileListener.php" timestamp="1505394199814">
+        <mark key="[" line="57" column="48" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/css/file.preview.spinner.css" timestamp="1489570367983">
         <mark key="[" line="64" column="1" />
@@ -5210,8 +5220,8 @@
       <file name="/home/www/html/dv/cms/src/Admin/Install/AdminInstall.php" timestamp="1505295572359">
         <mark key="[" line="4" column="26" />
       </file>
-      <file name="/home/www/html/dv/cms/app/config/extensions/monolog.neon" timestamp="1505380179853">
-        <mark key="[" line="1" column="43" />
+      <file name="/home/www/html/dv/cms/app/config/extensions/monolog.neon" timestamp="1505394352007">
+        <mark key="[" line="6" column="59" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/Model/CostCentersTreeModel.php" timestamp="1505135738092">
         <mark key="[" line="26" column="68" />
@@ -5293,8 +5303,8 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="/home/www/html/dv/cms/Modules/File/File.php" timestamp="1505304923389">
-        <mark key="[" line="4" column="26" />
+      <file name="/home/www/html/dv/cms/Modules/File/File.php" timestamp="1505394179781">
+        <mark key="[" line="18" column="28" />
       </file>
       <file name="/home/www/lib/vendor/symplify/symfony-event-dispatcher/src/Adapter/Symfony/DependencyInjection/Extension/ContainerExtension.php" timestamp="1491374344316">
         <mark key="[" line="17" column="76" />
@@ -5923,8 +5933,8 @@
       <jump line="42" column="26" filename="/home/www/vendor/nnb/application/src/Configurator.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>wlCssFilter: WebLoader\Filter\CssUrlsFilter(%wwwDir%, '/dv/adera/www/')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIEZpbGVzXE1lZGlhRmFjYWRlOwo=</text>
       </register>
       <register name="-" type="4">
         <text>wlCssFilter: WebLoader\Filter\CssUrlsFilter(%wwwDir%, '/dv/adera/www/')</text>
@@ -5936,25 +5946,25 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIE5leHRyYXNcQXBwbGljYXRpb25cVUlcU2VjdXJlZExpbmtzUHJlc2VudGVyVHJhaXQ7Cg==</text>
+        <text encoding="base64">dXNlIEZpbGVzXE1lZGlhRmFjYWRlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS0gQXBwXENvbXBvbmVudHNcQWRtaW5HcmlkRmFjdG9yeQo=</text>
+        <text encoding="base64">dXNlIEZpbGVzXEVsRmluZGVyRmlsZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWlwdWIuZG9jdHJpbmVQaG9uZTogSVB1YlxEb2N0cmluZVBob25lXERJXERvY3RyaW5lUGhvbmVFeHRlbnNpb24K</text>
+        <text encoding="base64">CWNvb2tpZURvbWFpbjogZG9tYWluCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWNvb2tpZURvbWFpbjogImNtcyIK</text>
+        <text encoding="base64">dXNlIE5leHRyYXNcQXBwbGljYXRpb25cVUlcU2VjdXJlZExpbmtzUHJlc2VudGVyVHJhaXQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIE9vcHNcQ2FjaGVGYWN0b3J5XENhY2hpbmdcQ2FjaGVGYWN0b3J5Owo=</text>
+        <text encoding="base64">CS0gQXBwXENvbXBvbmVudHNcQWRtaW5HcmlkRmFjdG9yeQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIE9vcHNcQ2FjaGVGYWN0b3J5XENhY2hpbmdcQ2FjaGVGYWN0b3J5Owo=</text>
+        <text encoding="base64">CWlwdWIuZG9jdHJpbmVQaG9uZTogSVB1YlxEb2N0cmluZVBob25lXERJXERvY3RyaW5lUGhvbmVFeHRlbnNpb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIE9vcHNcQ2FjaGVGYWN0b3J5XENhY2hpbmdcQ2FjaGVGYWN0b3J5Owo=</text>
+        <text encoding="base64">CWNvb2tpZURvbWFpbjogImNtcyIK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">dXNlIE9vcHNcQ2FjaGVGYWN0b3J5XENhY2hpbmdcQ2FjaGVGYWN0b3J5Owo=</text>
