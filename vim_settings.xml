@@ -2726,10 +2726,10 @@
         <mark key="]" line="118" column="37" />
         <mark key="." line="118" column="37" />
       </file>
-      <file name="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/Controls/TextControl.php" timestamp="1505397114397">
-        <mark key="[" line="253" column="0" />
-        <mark key="]" line="357" column="0" />
-        <mark key="." line="357" column="0" />
+      <file name="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/Controls/TextControl.php" timestamp="1505398162922">
+        <mark key="[" line="255" column="0" />
+        <mark key="]" line="255" column="0" />
+        <mark key="." line="255" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/jstree/src/DataModel.php" timestamp="1479733967194">
         <mark key="[" line="40" column="15" />
@@ -3666,7 +3666,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505394208199">
+      <file name="/Dummy.txt" timestamp="1505398256124">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
@@ -5933,11 +5933,11 @@
       <jump line="42" column="26" filename="/home/www/vendor/nnb/application/src/Configurator.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Ly9kdW1wKCR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShQYWdlOjpjbGFzcyktPmZpbmQoJGlkKSk7CgkJLy9leGl0Ow==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJJGlzRW1wdHkgPSBjb3VudCgkc2VsZWN0ZWRJdGVtcykgPT09IDEgJiYgZW1wdHkoa2V5KCRzZWxlY3RlZEl0ZW1zKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>wlCssFilter: WebLoader\Filter\CssUrlsFilter(%wwwDir%, '/dv/adera/www/')</text>
+        <text encoding="base64">JHNlbGVjdGVkSXRlbXNDb3VudCA9IGNvdW50KCRjb21wb25lbnQtPmdldFNlbGVjdGVkSXRlbXMoKSkgJiYgcmVzZXQoJGNvbXBvbmVudC0+Z2V0U2VsZWN0ZWRJdGVtcygpKTs=</text>
       </register>
       <register name="/" type="4">
         <text>appName</text>
@@ -5945,34 +5945,37 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Ly9kdW1wKCR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShQYWdlOjpjbGFzcyktPmZpbmQoJGlkKSk7CgkJLy9leGl0Ow==</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJJGlzRW1wdHkgPSBjb3VudCgkc2VsZWN0ZWRJdGVtcykgPT09IDEgJiYgZW1wdHkoa2V5KCRzZWxlY3RlZEl0ZW1zKSk7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJaWYgKCRwYWdlLT5sYXlvdXQgIT09IG51bGwpIHsK</text>
+      <register name="2" type="4">
+        <text>if (count($selectedItems) === 1) {
+				$item = end($selectedItems);
+				$isEmpty = empty(key($item));
+			}</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CQkJJGlzRW1wdHkgPSBmYWxzZTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJJGNvbGxlY3Rpb25Db3VudCA9IGl0ZXJhdG9yX2NvdW50KCRjb2xsZWN0aW9uKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJJGlzRW1wdHkgPSBjb3VudCgkc2VsZWN0ZWRJdGVtcykgPT09IDEgJiYga2V5KHJlc2V0KCRzZWxlY3RlZEl0ZW1zKSk7Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">Ly9kdW1wKCR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShQYWdlOjpjbGFzcyktPmZpbmQoJGlkKSk7CgkJLy9leGl0Ow==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJaWYgKCRwYWdlLT5sYXlvdXQgIT09IG51bGwpIHsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CQkJJHRoaXMtPnRlbXBsYXRlLT5wYWdlID0gJHBhZ2U7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text>else {
 			
 		}</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXNlIEZpbGVzXE1lZGlhRmFjYWRlOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXNlIEZpbGVzXEVsRmluZGVyRmlsZTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CWNvb2tpZURvbWFpbjogZG9tYWluCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">dXNlIE5leHRyYXNcQXBwbGljYXRpb25cVUlcU2VjdXJlZExpbmtzUHJlc2VudGVyVHJhaXQ7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CS0gQXBwXENvbXBvbmVudHNcQWRtaW5HcmlkRmFjdG9yeQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/user/account/g</text>
