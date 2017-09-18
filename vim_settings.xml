@@ -143,10 +143,10 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/UnisControl/UnisControl.php" timestamp="1505744687083">
-        <mark key="[" line="37" column="53" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/UnisControl/UnisControl.php" timestamp="1505745716311">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Groups/Components/GroupsPermissionsForm/GroupsPermissionsForm.php" timestamp="1490277019277">
         <mark key="[" line="96" column="52" />
@@ -1015,11 +1015,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Employees/Employee.php" timestamp="1505742901768">
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Employees/Employee.php" timestamp="1505745731256">
         <mark key="'" line="80" column="62" />
-        <mark key="[" line="114" column="12" />
-        <mark key="]" line="114" column="12" />
-        <mark key="." line="114" column="12" />
+        <mark key="[" line="80" column="15" />
+        <mark key="]" line="80" column="15" />
+        <mark key="." line="80" column="15" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Storage/locale/validators.cs_CZ.neon" timestamp="1504692078386">
         <mark key="[" line="29" column="0" />
@@ -5696,10 +5696,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aWYgKCEkdGhpcy0+ZW1wbG95ZWUtPmNlcnRpZmljYXRlcykgewoJCQl0aHJvdyBuZXcgSW52YWxpZFN0YXRlRXhjZXB0aW9uKCdUaGVyZSBpcyBubyBjZXJ0aWZpY2F0ZXMuJyk7CgkJfQ==</text>
+        <text>$degreeBefore . ($degreeAfter ? ', ' . $degreeAfter : '')</text>
       </register>
       <register name="-" type="4">
-        <text>use StaticClass;</text>
+        <text>$degreeBefore . ($degreeAfter ? ', ' . $degreeAfter : '')</text>
       </register>
       <register name="/" type="4">
         <text>hidden</text>
@@ -5707,32 +5707,29 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">aWYgKCEkdGhpcy0+ZW1wbG95ZWUtPmNlcnRpZmljYXRlcykgewoJCQl0aHJvdyBuZXcgSW52YWxpZFN0YXRlRXhjZXB0aW9uKCdUaGVyZSBpcyBubyBjZXJ0aWZpY2F0ZXMuJyk7CgkJfQ==</text>
-      </register>
-      <register name="2" type="2">
+      <register name="1" type="2">
         <text encoding="base64">dXNlIEFwcFxBY2Nlc3NSaWdodHNcTW9kZWxcT3JtXEFjY291bnRzXFVuaXNcVW5pc0FjY291bnRzXFVuaXNBY2NvdW50Owo=</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">aWYgKCEkdGhpcy0+ZW1wbG95ZWUtPmNlcnRpZmljYXRlcykgewoJCQl0aHJvdyBuZXcgSW52YWxpZFN0YXRlRXhjZXB0aW9uKCdUaGVyZSBpcyBubyBjZXJ0aWZpY2F0ZXMuJyk7CgkJfQ==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXFV0aWxzXEh0bWw7Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxBY2Nlc3NSaWdodHNcTW9kZWxcT3JtXEFjY291bnRzXFVuaXNcVW5pc0FjY291bnRzXFVuaXNBY2NvdW50Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXFV0aWxzXERhdGVUaW1lOwo=</text>
+        <text encoding="base64">dXNlIE5ldHRlXFV0aWxzXEh0bWw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJcTW9kYWxzXENvbXBvbmVudHNcTW9kYWxDb250cm9sXE1vZGFsQ29udHJvbDsK</text>
+        <text encoding="base64">dXNlIE5ldHRlXFV0aWxzXERhdGVUaW1lOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">dXNlIEhybmNpcnJcTW9kYWxzXENvbXBvbmVudHNcTW9kYWxDb250cm9sXE1vZGFsQ29udHJvbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIEFwcFxBY2Nlc3NSaWdodHNcTW9kZWxcT3JtXEFjY291bnRzXElBY2NvdW50Owo=</text>
+        <text encoding="base64">dXNlIEhybmNpcnJcTW9kYWxzXENvbXBvbmVudHNcTW9kYWxDb250cm9sXE1vZGFsQ29udHJvbDsK</text>
       </register>
-      <register name="8" type="4">
-        <text>protected function getModalSize()
-	{
-		return ModalControl::SIZE_LARGE;
-	}</text>
+      <register name="8" type="2">
+        <text encoding="base64">dXNlIEFwcFxBY2Nlc3NSaWdodHNcTW9kZWxcT3JtXEFjY291bnRzXElBY2NvdW50Owo=</text>
       </register>
       <register name="9" type="4">
         <text>protected function getModalSize()
