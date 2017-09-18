@@ -1011,10 +1011,12 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Employees/Employee.php" timestamp="1504877456480">
-        <mark key="[" line="81" column="97" />
-        <mark key="]" line="81" column="97" />
-        <mark key="." line="81" column="97" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Employees/Employee.php" timestamp="1505724121909">
+        <mark key="'" line="67" column="62" />
+        <mark key="[" line="67" column="30" />
+        <mark key="]" line="67" column="30" />
+        <mark key="." line="67" column="30" />
+        <mark key="^" line="67" column="64" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Storage/locale/validators.cs_CZ.neon" timestamp="1504692078386">
         <mark key="[" line="29" column="0" />
@@ -1836,10 +1838,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1505721893212">
-        <mark key="[" line="192" column="8" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1505724907484">
+        <mark key="[" line="139" column="24" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
+        <mark key="^" line="194" column="29" />
       </file>
       <file name="/home/www/html/dv/cms/src/Url/RouteGenerator.php" timestamp="1505223812148">
         <mark key="[" line="23" column="78" />
@@ -3704,10 +3707,10 @@
         <mark key="]" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/UnisControl/UnisControl.latte" timestamp="1504878159662">
-        <mark key="[" line="131" column="8" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/UnisControl/UnisControl.latte" timestamp="1505724773676">
+        <mark key="[" line="12" column="52" />
+        <mark key="]" line="12" column="52" />
+        <mark key="." line="12" column="52" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Doctrine/Filters/SoftDeletableFilter.php" timestamp="1493292521195">
         <mark key="[" line="53" column="0" />
@@ -5588,7 +5591,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="29" filename="/home/www/html/nnb/passportization/js/floor.map.init.js" />
       <jump line="55" column="32" filename="/home/www/html/nnb/passportization/js/floor.map.init.js" />
       <jump line="66" column="32" filename="/home/www/html/nnb/passportization/js/floor.map.init.js" />
       <jump line="70" column="36" filename="/home/www/html/nnb/passportization/js/floor.map.init.js" />
@@ -5688,13 +5690,14 @@
       <jump line="37" column="27" filename="/home/www/vendor/hrncirr/modals/src/Components/ModalControl/ModalControl.php" />
       <jump line="15" column="51" filename="/home/www/vendor/hrncirr/modals/src/TModalControl.php" />
       <jump line="105" column="17" filename="/home/www/vendor/hrncirr/modals/src/TModalFormControl.php" />
+      <jump line="67" column="62" filename="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Employees/Employee.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>: TModalControl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJLT5zZXRTb3J0YWJsZSgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>: TModalControl</text>
+        <text>collapse</text>
       </register>
       <register name="/" type="4">
         <text>NULL</text>
@@ -5702,35 +5705,35 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQkJLT5zZXRTb3J0YWJsZSgpOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">PC9kaXY+Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PGRpdiBjbGFzcz0icGFuZWwtZ3JvdXAiIGlkPSJhY2NvcmRpb24iIHJvbGU9InRhYmxpc3QiIGFyaWEtbXVsdGlzZWxlY3RhYmxlPSJ0cnVlIj4K</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">LT5zZXRSZW5kZXJlcihmdW5jdGlvbiAoRW1wbG95ZWUgJGVtcGxveWVlKSB7CgkJCQlyZXR1cm4gJGVtcGxveWVlLT5mdWxsTmFtZTsKCQkJfSk=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">JGdyaWQtPmFkZENvbHVtblRleHQoJ2ZpcnN0bmFtZScsICdKbcOpbm8nKQoJCQktPnNldFNvcnRhYmxlKCk7</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">LT5zZXRSZW5kZXJlcihmdW5jdGlvbiAoRW1wbG95ZWUgJGVtcGxveWVlKSB7CgkJCQlyZXR1cm4gJGVtcGxveWVlLT5mdWxsTmFtZTsKCQkJfSk=</text>
+      </register>
+      <register name="7" type="4">
         <text>/**
 	 * @var bool
 	 */
 	private $closeable = false;</text>
       </register>
-      <register name="2" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coJGVsLmZpbmQoJy5tb2RhbC1kaWFsb2cnKS5kYXRhKCdjbG9zZWFibGUnKSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2cob3B0aW9ucyk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coJGVsLmRhdGEoKSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coJGVsLmRhdGEoKSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCRlbC5kYXRhKCkpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKG9wdGlvbnMpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJdmFyIG9wdGlvbnMgPSB7fTsK</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coJGVsLmZpbmQoJy5tb2RhbC1kaWFsb2cnKS5kYXRhKCdjbG9zZWFibGUnKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
