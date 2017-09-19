@@ -1861,10 +1861,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1505815907352">
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1505819620140">
         <mark key="[" line="132" column="40" />
-        <mark key="]" line="143" column="0" />
-        <mark key="." line="143" column="0" />
+        <mark key="]" line="132" column="40" />
+        <mark key="." line="132" column="40" />
       </file>
       <file name="/home/www/html/dv/cms/src/Url/RouteGenerator.php" timestamp="1505223812148">
         <mark key="[" line="23" column="78" />
@@ -5715,12 +5715,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dump($element);
-						dump($info[$name]);
-						dump($persistentParameterInfo);</text>
+        <text>COLLATE pg_catalog.&quot;cs_CZ.utf8&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT50eXBl</text>
+        <text>COLLATE pg_catalog.&quot;cs_CZ.utf8&quot;</text>
       </register>
       <register name="/" type="4">
         <text>dump</text>
