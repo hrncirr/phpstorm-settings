@@ -253,10 +253,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Presenters/DefaultPresenter.php" timestamp="1505829891936">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Presenters/DefaultPresenter.php" timestamp="1505897570278">
+        <mark key="[" line="45" column="4" />
+        <mark key="]" line="45" column="4" />
+        <mark key="." line="45" column="4" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/components/RoomDetailControl/RoomDetailControl.php" timestamp="1486633504198">
         <mark key="[" line="61" column="37" />
@@ -442,6 +442,9 @@
         <mark key="[" line="53" column="26" />
         <mark key="]" line="78" column="12" />
         <mark key="." line="78" column="12" />
+      </file>
+      <file name="/home/www/lib/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" timestamp="1505897035347">
+        <mark key="'" line="335" column="29" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Pages/locale/pages.cs_CZ.neon" timestamp="1492072706738">
         <mark key="[" line="0" column="12" />
@@ -2849,7 +2852,6 @@
         <mark key="]" line="44" column="22" />
         <mark key="." line="44" column="22" />
       </file>
-      <file name="/home/www/lib/vendor/ublaboo/datagrid/src/Filter/Filter.php" timestamp="1505827242173" />
       <file name="/home/www/lib/vendor/hrncirr/pnotify/src/TFlashMessagesControl.php" timestamp="1500552701647">
         <mark key="[" line="27" column="19" />
         <mark key="]" line="20" column="0" />
@@ -3528,7 +3530,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505830261108">
+      <file name="/Dummy.txt" timestamp="1505897576884">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
@@ -5610,7 +5612,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="16" filename="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/ConstraintViolationsMapper.php" />
       <jump line="53" column="8" filename="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/ConstraintViolationsMapper.php" />
       <jump line="0" column="0" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/UnisControl/UnisControl.latte" />
       <jump line="494" column="39" filename="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Components/TechnicalRequisitionsGrid/TechnicalRequisitionsGrid.php" />
@@ -5710,55 +5711,56 @@
       <jump line="2918" column="19" filename="/home/www/lib/vendor/ublaboo/datagrid/src/DataGrid.php" />
       <jump line="298" column="15" filename="/home/www/lib/vendor/ublaboo/datagrid/src/DataGrid.php" />
       <jump line="436" column="23" filename="/home/www/lib/vendor/ublaboo/datagrid/src/DataGrid.php" />
+      <jump line="335" column="29" filename="/home/www/lib/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkvLy0+c2V0RmlsdGVyVGV4dCgnb3NjJyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHJlbmRlckRlZmF1bHQoKQoJewoJCS8vZHVtcCgkdGhpcy0+b3JtLT51bmlzQWNjb3VudHMtPmdldEJ5SWQoJzMyOScpKTsKCX0=</text>
       </register>
       <register name="-" type="4">
-        <text>['_grid_page']</text>
+        <text encoding="base64">JHRoaXMtPmlkID09PSBudWxsIHx8</text>
       </register>
       <register name="/" type="4">
-        <text>remember_state</text>
+        <text>handleSelect</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkvLy0+c2V0RmlsdGVyVGV4dCgnb3NjJyk7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHJlbmRlckRlZmF1bHQoKQoJewoJCS8vZHVtcCgkdGhpcy0+b3JtLT51bmlzQWNjb3VudHMtPmdldEJ5SWQoJzMyOScpKTsKCX0=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCQkkZ3JpZC0+ZGVsZXRlU2Vzc2lvbkRhdGEoJ19ncmlkX2hhc19maWx0ZXJlZCcpOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">aWYgKCRjb250cm9sLT5pZCA9ICR0aGlzLT5pZCkKCQkJJHRoaXMtPmNsZWFuR3JpZFNlc3Npb25EYXRhKCk7</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJGdyaWQtPmdldFNlc3Npb25EYXRhKCktPnJlbW92ZSgpKTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">JGdyaWQgPSAkdGhpc1snYWNjZXNzUmlnaHRzR3JpZC1ncmlkJ107CgoJCQkJaWYgKCRncmlkLT5nZXRTZXNzaW9uRGF0YSgpKSB7CgkJCQkJJGdyaWQtPmRlbGV0ZVNlc3Npb25EYXRhKCdfZ3JpZF9wYWdlJyk7CgkJCQl9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJ3Nzc3NzJyk7Cg==</text>
+        <text encoding="base64">CQkJCWR1bXAoJHRoaXMtPmlkKTsK</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">aWYgKGlzc2V0KCR0aGlzWydncmlkJ10tPmdldFNlc3Npb25EYXRhKClbJ19ncmlkX3BhZ2UnXSkpIHsKCQkJLy8kdGhpc1snZ3JpZCddLT5kZWxldGVTZXNzaW9uRGF0YSgnX2dyaWRfcGFnZScpOwoJCQkvLyR0aGlzWydncmlkJ10tPmRlbGV0ZVNlc3Npb25EYXRhKCdfZ3JpZF9oYXNfZmlsdGVyZWQnKTsKCQl9</text>
+        <text encoding="base64">ZHVtcCgkbm9kZS0+aWQpOwoJCQkJZHVtcCgkdGhpcy0+aWQpOw==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJLT5zZXRTb3J0YWJsZSgpCg==</text>
+        <text encoding="base64">CQkvLy0+c2V0RmlsdGVyVGV4dCgnb3NjJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJcmV0dXJuICRkYmFsQ29sbGVjdGlvbi0+ZmluZEJ5KFsnc3VybmFtZScgPT4gU3RyaW5nczo6dXBwZXIoJHZhbCldKS0+ZmV0Y2hBbGwoKTsK</text>
+        <text encoding="base64">CQkJCQkkZ3JpZC0+ZGVsZXRlU2Vzc2lvbkRhdGEoJ19ncmlkX2hhc19maWx0ZXJlZCcpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWR1bXAoJGdyaWQtPmdldFNlc3Npb25EYXRhKCktPnJlbW92ZSgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJGRiYWxDb2xsZWN0aW9uLT5maW5kQnkoWydzdXJuYW1lJywgJ0xJS0UgJV9saWtlXycsIFN0cmluZ3M6OnVwcGVyKCR2YWwpXSktPmZldGNoQWxsKCkpOwo=</text>
+        <text encoding="base64">CQkJCWR1bXAoJ3Nzc3NzJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>remember_state</last-search>
+      <last-search>handleSelect</last-search>
       <last-offset />
-      <last-pattern>remember_state</last-pattern>
+      <last-pattern>handleSelect</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -5766,7 +5768,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sqlPrepro</entry>
         <entry>queryArgs</entry>
         <entry>Resource</entry>
         <entry>FileManager</entry>
@@ -5786,6 +5787,7 @@
         <entry>_grid_page</entry>
         <entry>grid_session</entry>
         <entry>remember_state</entry>
+        <entry>handleSelect</entry>
       </history-search>
       <history-cmd>
         <entry>%s/settings/options/g</entry>
