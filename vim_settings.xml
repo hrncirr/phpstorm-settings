@@ -259,10 +259,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Presenters/DefaultPresenter.php" timestamp="1505897570278">
-        <mark key="[" line="45" column="4" />
-        <mark key="]" line="45" column="4" />
-        <mark key="." line="45" column="4" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Presenters/DefaultPresenter.php" timestamp="1505907473302">
+        <mark key="[" line="57" column="12" />
+        <mark key="]" line="57" column="12" />
+        <mark key="." line="57" column="12" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/components/RoomDetailControl/RoomDetailControl.php" timestamp="1486633504198">
         <mark key="[" line="61" column="37" />
@@ -1018,13 +1018,6 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
-      </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Employees/Employee.php" timestamp="1505826583003">
-        <mark key="'" line="80" column="62" />
-        <mark key="[" line="26" column="33" />
-        <mark key="]" line="26" column="40" />
-        <mark key="." line="26" column="40" />
-        <mark key="^" line="26" column="40" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Storage/locale/validators.cs_CZ.neon" timestamp="1504692078386">
         <mark key="[" line="29" column="0" />
@@ -2170,13 +2163,6 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="/home/www/lib/vendor/ublaboo/datagrid/src/DataGrid.php" timestamp="1505829351595">
-        <mark key="'" line="436" column="23" />
-        <mark key="[" line="432" column="66" />
-        <mark key="]" line="432" column="20" />
-        <mark key="^" line="432" column="20" />
-        <mark key="." line="432" column="20" />
       </file>
       <file name="/home/www/html/bul/mamo/app/SummaryModule/presenters/BasePresenter.php" timestamp="1481278047050">
         <mark key="[" line="11" column="0" />
@@ -5646,13 +5632,6 @@
         <mark key="]" line="55" column="42" />
         <mark key="." line="55" column="42" />
       </file>
-      <file name="/home/www/vendor/hrncirr/jstree/src/DataSources/IDataSource.php" timestamp="1505904099967">
-        <mark key="'" line="28" column="8" />
-        <mark key="[" line="25" column="7" />
-        <mark key="]" line="28" column="8" />
-        <mark key="^" line="28" column="8" />
-        <mark key="." line="28" column="8" />
-      </file>
       <file name="/home/www/html/nnb/aktuality/app/model/TestFilesStructure.php" timestamp="1472810392596">
         <mark key="[" line="17" column="4" />
         <mark key="]" line="17" column="4" />
@@ -5772,11 +5751,11 @@
       <jump line="125" column="6" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkvKiogQHZhciBJVHJlZSAkZW50aXR5ICovCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JHRoaXMtPmNsZWFuR3JpZFNlc3Npb25EYXRhKCk7</text>
       </register>
       <register name="-" type="4">
-        <text>'Kdyby\Translation\</text>
+        <text encoding="base64">JHRoaXMtPmNsZWFuR3JpZFNlc3Npb25EYXRhKCk7</text>
       </register>
       <register name="/" type="4">
         <text>onError</text>
@@ -5785,38 +5764,38 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvKiogQHZhciBJVHJlZSAkZW50aXR5ICovCg==</text>
+        <text encoding="base64">CQkJaWYgKCRjb250cm9sLT5pZCAhPT0gJHRoaXMtPmlkKSB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">CQkvKiogQHZhciBJVHJlZSAkZW50aXR5ICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJcSnNUcmVlXEV4Y2VwdGlvbnNcSW52YWxpZFN0YXRlRXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">dXNlIE5ldHRlXEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbjsK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">dXNlIEhybmNpcnJcSnNUcmVlXEV4Y2VwdGlvbnNcSW52YWxpZFN0YXRlRXhjZXB0aW9uOwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">dXNlIE5ldHRlXEludmFsaWRTdGF0ZUV4Y2VwdGlvbjsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>/**
 	 * @var \Closure[]
 	 */
 	public $onConfigure = [];</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>/**
  * Interface ITree
  * @property $id
  * @property $title
  */</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICogQ2xhc3MgVHJlZUNvbnRyb2wK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHJlbmRlckRlZmF1bHQoKQoJewoJCS8vZHVtcCgkdGhpcy0+b3JtLT51bmlzQWNjb3VudHMtPmdldEJ5SWQoJzMyOScpKTsKCX0=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">aWYgKCRjb250cm9sLT5pZCA9ICR0aGlzLT5pZCkKCQkJJHRoaXMtPmNsZWFuR3JpZFNlc3Npb25EYXRhKCk7</text>
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHJlbmRlckRlZmF1bHQoKQoJewoJCS8vZHVtcCgkdGhpcy0+b3JtLT51bmlzQWNjb3VudHMtPmdldEJ5SWQoJzMyOScpKTsKCX0=</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
