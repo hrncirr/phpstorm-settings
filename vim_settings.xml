@@ -1031,8 +1031,10 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Employees/Employee.php" timestamp="1505989106876">
-        <mark key="[" line="47" column="16" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Employees/Employee.php" timestamp="1505989855990">
+        <mark key="[" line="135" column="12" />
+        <mark key="]" line="135" column="12" />
+        <mark key="." line="135" column="12" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Storage/locale/validators.cs_CZ.neon" timestamp="1504692078386">
         <mark key="[" line="29" column="0" />
@@ -5769,8 +5771,8 @@
       <jump line="125" column="6" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIE5leHRyYXNcT3JtXENvbGxlY3Rpb25cSUNvbGxlY3Rpb247Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LyoKCQkJaWYgKGNvdW50KCR0aGlzLT5jZXJ0aWZpY2F0ZXMpID09PSAwKSB7CgkJCQkkdGhpcy0+Y2VydGlmaWNhdGVzID0gZmFsc2U7CgkJCX0KCQkJKi8=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IEFwcFxBY2Nlc3NSaWdodHNcTW9kZWxcT3JtXEFjY291bnRzXEFwb3RoZWtlQWNjb3VudHM=</text>
@@ -5781,34 +5783,34 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dXNlIE5leHRyYXNcT3JtXENvbGxlY3Rpb25cSUNvbGxlY3Rpb247Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">LyoKCQkJaWYgKGNvdW50KCR0aGlzLT5jZXJ0aWZpY2F0ZXMpID09PSAwKSB7CgkJCQkkdGhpcy0+Y2VydGlmaWNhdGVzID0gZmFsc2U7CgkJCX0KCQkJKi8=</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">aWYgKCEkbGFzdENlcnRpZmljYXRlID0gJHRoaXMtPm9ybS0+Y2VydGlmaWNhdGVzLT5nZXRCeUVtYWlsKCR0aGlzLT5lbWFpbCkpIHsKCQkJCSR0aGlzLT5sYXN0Q2VydGlmaWNhdGUgPSBmYWxzZTsKCQkJfQ==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dXNlIE5leHRyYXNcT3JtXENvbGxlY3Rpb25cSUNvbGxlY3Rpb247Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>/**
  * @method ICollection|Certificate[] findLastByEmail(string $email)
  */</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldEJ5RW1haWwoc3RyaW5nICRlbWFpbCkKCXsKCQlyZXR1cm4gJHRoaXMtPmdldE1hcHBlcigpLT5nZXRCeUVtYWlsKCRlbWFpbCk7Cgl9</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">dXNlIEhybmNpcnJcTmV4dHJhc09ybVxNYXBwZXJcRGJhbFxTdG9yYWdlUmVmbGVjdGlvblxOb1ByaW1hcnlLZXlTdG9yYWdlUmVmbGVjdGlvbjsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">JHJlZmxlY3Rpb24gPSBuZXcgTm9QcmltYXJ5S2V5U3RvcmFnZVJlZmxlY3Rpb24oCgkJCSR0aGlzLT5jb25uZWN0aW9uLAoJCQkkdGhpcy0+Z2V0VGFibGVOYW1lKCksCgkJCSR0aGlzLT5jYWNoZQoJCSk7</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICogQHByb3BlcnR5IERhdGVUaW1lICR2YWxpZFRvCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICogQHByb3BlcnR5IERhdGVUaW1lICR2YWxpZEZyb20K</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldEJ5RW1haWwoc3RyaW5nICRlbWFpbCkKCXsKCQkkYnVpbGRlciA9ICR0aGlzLT5idWlsZGVyKCkKCQkJLT53aGVyZSgnZW1haWwgPSAlcycsICRlbWFpbCkKCQkJLT5vcmRlckJ5KCdwbGF0bm9zdF9kbycsICdERVNDJyk7CgoJCSRyb3cgPSAkdGhpcy0+Y29ubmVjdGlvbi0+cXVlcnlBcmdzKCRidWlsZGVyLT5nZXRRdWVyeVNxbCgpLCAkYnVpbGRlci0+Z2V0UXVlcnlQYXJhbWV0ZXJzKCkpLT5mZXRjaCgpOwoKCQlyZXR1cm4gJHJvdyA/ICR0aGlzLT5nZXRSZXBvc2l0b3J5KCktPmh5ZHJhdGVFbnRpdHkoJHJvdy0+dG9BcnJheSgpKSA6IG51bGw7Cgl9CgoKCXB1YmxpYyBmdW5jdGlvbiBmaW5kTGFzdEJ5RW1haWwoc3RyaW5nICRlbWFpbCkKCXsKCQkkYnVpbGRlciA9ICR0aGlzLT5idWlsZGVyKCk7CgkJJGFsaWFzID0gJGJ1aWxkZXItPmdldEZyb21BbGlhcygpOwoKCQkkdGFibGVOYW1lID0gJHRoaXMtPmdldFRhYmxlTmFtZSgpOwoJCSRidWlsZGVyMiA9IG5ldyBRdWVyeUJ1aWxkZXIoJHRoaXMtPmNvbm5lY3Rpb24tPmdldERyaXZlcigpKTsKCQkkYnVpbGRlcjItPnNlbGVjdCgndHlwX2NydCcpLT5hZGRTZWxlY3QoJ01BWChwbGF0bm9zdF9kbykgQVMgbWF4X3BsYXRub3N0X2RvJykKCQkJLT5mcm9tKCJbJHRhYmxlTmFtZV0iLCBRdWVyeUJ1aWxkZXJIZWxwZXI6OmdldEFsaWFzKCR0YWJsZU5hbWUgLiAnMScpKQoJCQktPndoZXJlKCdlbWFpbCA9ICVzJykKCQkJLT5ncm91cEJ5KCd0eXBfY3J0JykKCQkJLT5vcmRlckJ5KCdtYXhfcGxhdG5vc3RfZG8nLCAnREVTQycpOwoJCSRhbGlhczIgPSAkYnVpbGRlcjItPmdldEZyb21BbGlhcygpOwoKCQkkc3FsUHJlUHJvY2Vzc29yID0gbmV3IFNxbFByb2Nlc3NvcigkdGhpcy0+Y29ubmVjdGlvbi0+Z2V0RHJpdmVyKCkpOwoJCSRzcWwgPSAkc3FsUHJlUHJvY2Vzc29yLT5wcm9jZXNzKFskYnVpbGRlcjItPmdldFF1ZXJ5U3FsKCksICRlbWFpbF0pOwoKCQkkYnVpbGRlci0+aW5uZXJKb2luKCRhbGlhcywgJygnIC4gJHNxbCAuICcpJywgJGFsaWFzMiwKCQkJIlskYWxpYXMudHlwX2NydF0gPSBbJGFsaWFzMi50eXBfY3J0XSBBTkQgWyRhbGlhcy5wbGF0bm9zdF9kb10gPSBbJGFsaWFzMi5tYXhfcGxhdG5vc3RfZG9dIik7CgoJCXJldHVybiAkYnVpbGRlcjsKCX0=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJHZhbHVlKTsK</text>
+        <text encoding="base64">ICogQHByb3BlcnR5IERhdGVUaW1lICR2YWxpZEZyb20K</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
