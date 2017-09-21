@@ -1866,11 +1866,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1505979787279">
-        <mark key="[" line="219" column="61" />
-        <mark key="]" line="219" column="61" />
-        <mark key="." line="219" column="61" />
-        <mark key="^" line="168" column="53" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1505981937060">
+        <mark key="[" line="220" column="50" />
+        <mark key="]" line="220" column="50" />
+        <mark key="." line="220" column="50" />
       </file>
       <file name="/home/www/html/dv/cms/src/Url/RouteGenerator.php" timestamp="1505223812148">
         <mark key="[" line="23" column="78" />
@@ -5740,10 +5739,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, $value</text>
+        <text>telefon ILIKE %like_</text>
       </register>
       <register name="-" type="4">
-        <text>, $value</text>
+        <text>telefon ILIKE %like_</text>
       </register>
       <register name="/" type="4">
         <text>onError</text>
@@ -5752,38 +5751,38 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJaWYgKCRjb250cm9sLT5pZCAhPT0gJHRoaXMtPmlkKSB7Cg==</text>
+        <text encoding="base64">CQkJCQktPmFkZFNlbGVjdCgnVU5ORVNUKHRlbGVmb24pIEFTIHRlbGVmb24nKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvKiogQHZhciBJVHJlZSAkZW50aXR5ICovCg==</text>
+        <text encoding="base64">CQkJaWYgKCRjb250cm9sLT5pZCAhPT0gJHRoaXMtPmlkKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">CQkvKiogQHZhciBJVHJlZSAkZW50aXR5ICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJcSnNUcmVlXEV4Y2VwdGlvbnNcSW52YWxpZFN0YXRlRXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">dXNlIE5ldHRlXEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbjsK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">dXNlIEhybmNpcnJcSnNUcmVlXEV4Y2VwdGlvbnNcSW52YWxpZFN0YXRlRXhjZXB0aW9uOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">dXNlIE5ldHRlXEludmFsaWRTdGF0ZUV4Y2VwdGlvbjsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>/**
 	 * @var \Closure[]
 	 */
 	public $onConfigure = [];</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>/**
  * Interface ITree
  * @property $id
  * @property $title
  */</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICogQ2xhc3MgVHJlZUNvbnRyb2wK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHJlbmRlckRlZmF1bHQoKQoJewoJCS8vZHVtcCgkdGhpcy0+b3JtLT51bmlzQWNjb3VudHMtPmdldEJ5SWQoJzMyOScpKTsKCX0=</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
