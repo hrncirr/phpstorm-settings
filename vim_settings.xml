@@ -33,7 +33,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1505734170633">
+      <file name="/a.dummy" timestamp="1505984471459">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -428,6 +428,12 @@
         <mark key="[" line="5" column="20" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Aphoteke/CertificatesRepository.php" timestamp="1505984452940">
+        <mark key="[" line="20" column="21" />
+        <mark key="]" line="20" column="20" />
+        <mark key="." line="20" column="20" />
+        <mark key="^" line="20" column="20" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/Passportization/Users/DI/DI/UsersExtension.php" timestamp="1486130066737">
         <mark key="[" line="12" column="0" />
@@ -2699,6 +2705,9 @@
         <mark key="]" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Aphoteke/CertificatesMapper.php" timestamp="1505984443501">
+        <mark key="[" line="20" column="21" />
+      </file>
       <file name="/home/www/html/bul/mamo/app/model/RegisterModel.php" timestamp="1481267845402">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -3980,6 +3989,9 @@
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Aphoteke/Certificate.php" timestamp="1505984395972">
+        <mark key="[" line="29" column="14" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Components/FileManagerTinyMCE/IFileManagerTinyMCEFactory.php" timestamp="1472629387749">
         <mark key="[" line="12" column="22" />
@@ -5738,11 +5750,11 @@
       <jump line="125" column="6" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJHZhbHVlKTsK</text>
+      <register name="&quot;" type="4">
+        <text>R</text>
       </register>
       <register name="-" type="4">
-        <text>'status',</text>
+        <text>R</text>
       </register>
       <register name="/" type="4">
         <text>onError</text>
