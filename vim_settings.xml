@@ -268,10 +268,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Presenters/DefaultPresenter.php" timestamp="1505907473302">
-        <mark key="[" line="57" column="12" />
-        <mark key="]" line="57" column="12" />
-        <mark key="." line="57" column="12" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Presenters/DefaultPresenter.php" timestamp="1506079324537">
+        <mark key="[" line="83" column="36" />
+        <mark key="]" line="71" column="59" />
+        <mark key="." line="71" column="59" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/components/RoomDetailControl/RoomDetailControl.php" timestamp="1486633504198">
         <mark key="[" line="61" column="37" />
@@ -1183,6 +1183,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Presenters/templates/Default/default.latte" timestamp="1506079453098">
+        <mark key="[" line="32" column="29" />
+        <mark key="]" line="36" column="12" />
+        <mark key="." line="36" column="12" />
+        <mark key="^" line="36" column="12" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Files/FileConversion.php" timestamp="1486041119774">
         <mark key="[" line="30" column="22" />
         <mark key="]" line="86" column="4" />
@@ -1895,10 +1901,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1506070419314">
-        <mark key="[" line="102" column="34" />
-        <mark key="]" line="102" column="34" />
-        <mark key="." line="102" column="34" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1506079934705">
+        <mark key="'" line="121" column="4" />
+        <mark key="[" line="194" column="29" />
+        <mark key="]" line="191" column="0" />
+        <mark key="." line="191" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/src/Url/RouteGenerator.php" timestamp="1505223812148">
         <mark key="[" line="23" column="78" />
@@ -5716,7 +5723,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="246" column="21" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
       <jump line="249" column="30" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
       <jump line="101" column="96" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
       <jump line="104" column="28" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
@@ -5816,55 +5822,56 @@
       <jump line="4" column="0" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccountsControl/templates/AccountsControl.latte" />
       <jump line="63" column="18" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccountsControl/templates/unis.latte" />
       <jump line="50" column="35" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccountsControl/templates/unis.latte" />
+      <jump line="112" column="4" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJe2R1bXAgJGFwb3RoZWtlQWNjb3VudH0K</text>
+        <text encoding="base64">CQkJCXtzbmlwcGV0IGdyaWR9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">eyRhcG90aGVrZUFjY291bnQtPm9yZGVyR3JvdXBzfQ==</text>
+        <text encoding="base64">IT09IDAgPyAoaW50KSAkdGhpc1sndHJlZSddLT5pZCA6IDA=</text>
       </register>
       <register name="/" type="4">
-        <text>clinic</text>
+        <text>constCenterId</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJe2R1bXAgJGFwb3RoZWtlQWNjb3VudH0K</text>
+        <text encoding="base64">CQkJCXtzbmlwcGV0IGdyaWR9Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">e2lmIChlbXB0eSgkdmlldykgfHwgaW5fYXJyYXkoJ2NlcnRpZmljYXRlcycsICR2aWV3KSkgJiYgJGVtcGxveWVlLT5oYXNWYWx1ZSgnY2VydGlmaWNhdGVzJyl9Cgl7aW5jbHVkZSBjZXJ0aWZpY2F0ZXMubGF0dGV9CnsvaWZ9Cgp7aWYgKGVtcHR5KCR2aWV3KSB8fCBpbl9hcnJheSgndW5pcycsICR2aWV3KSkgJiYgJGVtcGxveWVlLT5oYXNWYWx1ZSgndW5pc0FjY291bnRzJyl9Cgl7aW5jbHVkZSB1bmlzLmxhdHRlfQp7L2lmfQ==</text>
+        <text encoding="base64">LyoKCQkkaWQgPSAoaW50KSR0aGlzLT5nZXRQYXJhbWV0ZXIoJ2lkJyk7CgoJCWlmICgkaWQgIT09IG51bGwgJiYgISR0aGlzLT5pc0FqYXgoKSkgewoJCQkkY29udHJvbC0+aWQgPSAkaWQ7CgkJCSR0aGlzLT5jbGVhbkdyaWRTZXNzaW9uRGF0YSgpOwoJCX0KCQkqLw==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZHVtcChhcnJheV9pbnRlcnNlY3Rfa2V5KCR0aGlzLT5hY2NvdW50cywgYXJyYXlfZmxpcCgkdmlldykpKTsKCQlkdW1wKGFycmF5X2NvbWJpbmUoJHZpZXcsIGFycmF5X21hcChmdW5jdGlvbiAoJG5hbWUpIHsKCQkJcmV0dXJuICR0aGlzLT5hY2NvdW50c1skbmFtZV07CgkJfSwgJHZpZXcpKSk7</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkkaWQgPSAkdGhpcy0+Z2V0SWQoKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQlkdW1wKGFycmF5X2ZsaXAoJHZpZXcpKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">cHJpdmF0ZSBmdW5jdGlvbiBnZXRJZCgpOiBpbnQKCXsKCQlyZXR1cm4gKGludCkkdGhpc1sndHJlZSddLT5pZDsKCX0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZHVtcCgkdmlldyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlkdW1wKGFycmF5X2RpZmYoJHZpZXcsIGFycmF5X2tleXMoJHRoaXMtPmFjY291bnRzKSkpOwo=</text>
+        <text encoding="base64">CQkJCWR1bXAoJHRoaXMtPmNvbnN0Q2VudGVySWQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkkaWQgPSAkdGhpc1sndHJlZSddLT5pZCA/PyAkdGhpcy0+Z2V0UGFyYW1ldGVyKCdpZCcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlkdW1wKCR2aWV3KTsK</text>
+        <text encoding="base64">CQkJJGlkID0gKGludCkgJG5vZGUtPmlkOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/unis/unisAccounts/g</text>
       </register>
     </registers>
     <search>
-      <last-search>clinic</last-search>
+      <last-search>constCenterId</last-search>
       <last-offset />
-      <last-pattern>clinic</last-pattern>
+      <last-pattern>constCenterId</last-pattern>
       <last-replace>unisAccounts</last-replace>
       <last-substitute>unis</last-substitute>
       <last-dir>1</last-dir>
@@ -5872,7 +5879,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hidden</entry>
         <entry>dump</entry>
         <entry>saveSessionData</entry>
         <entry>onAnchor</entry>
@@ -5892,6 +5898,7 @@
         <entry>show</entry>
         <entry>unis</entry>
         <entry>clinic</entry>
+        <entry>constCenterId</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Items/Datasource/g</entry>
