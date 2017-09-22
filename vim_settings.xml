@@ -5172,11 +5172,10 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccountsControl/templates/apotheke.latte" timestamp="1506068149232">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="30" column="0" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccountsControl/templates/apotheke.latte" timestamp="1506071087237">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Console/Commands/Import/PhpDocImport.php" timestamp="1494320116018">
         <mark key="[" line="39" column="0" />
@@ -5819,11 +5818,11 @@
       <jump line="50" column="35" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccountsControl/templates/unis.latte" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>['unis', 'apotheke', 'certificates']</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJe2R1bXAgJGFwb3RoZWtlQWNjb3VudH0K</text>
       </register>
       <register name="-" type="4">
-        <text>['unis', 'apotheke', 'certificates']</text>
+        <text encoding="base64">eyRhcG90aGVrZUFjY291bnQtPm9yZGVyR3JvdXBzfQ==</text>
       </register>
       <register name="/" type="4">
         <text>clinic</text>
@@ -5831,32 +5830,32 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">e2lmIChlbXB0eSgkdmlldykgfHwgaW5fYXJyYXkoJ2NlcnRpZmljYXRlcycsICR2aWV3KSkgJiYgJGVtcGxveWVlLT5oYXNWYWx1ZSgnY2VydGlmaWNhdGVzJyl9Cgl7aW5jbHVkZSBjZXJ0aWZpY2F0ZXMubGF0dGV9CnsvaWZ9Cgp7aWYgKGVtcHR5KCR2aWV3KSB8fCBpbl9hcnJheSgndW5pcycsICR2aWV3KSkgJiYgJGVtcGxveWVlLT5oYXNWYWx1ZSgndW5pc0FjY291bnRzJyl9Cgl7aW5jbHVkZSB1bmlzLmxhdHRlfQp7L2lmfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJe2R1bXAgJGFwb3RoZWtlQWNjb3VudH0K</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">e2lmIChlbXB0eSgkdmlldykgfHwgaW5fYXJyYXkoJ2NlcnRpZmljYXRlcycsICR2aWV3KSkgJiYgJGVtcGxveWVlLT5oYXNWYWx1ZSgnY2VydGlmaWNhdGVzJyl9Cgl7aW5jbHVkZSBjZXJ0aWZpY2F0ZXMubGF0dGV9CnsvaWZ9Cgp7aWYgKGVtcHR5KCR2aWV3KSB8fCBpbl9hcnJheSgndW5pcycsICR2aWV3KSkgJiYgJGVtcGxveWVlLT5oYXNWYWx1ZSgndW5pc0FjY291bnRzJyl9Cgl7aW5jbHVkZSB1bmlzLmxhdHRlfQp7L2lmfQ==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ZHVtcChhcnJheV9pbnRlcnNlY3Rfa2V5KCR0aGlzLT5hY2NvdW50cywgYXJyYXlfZmxpcCgkdmlldykpKTsKCQlkdW1wKGFycmF5X2NvbWJpbmUoJHZpZXcsIGFycmF5X21hcChmdW5jdGlvbiAoJG5hbWUpIHsKCQkJcmV0dXJuICR0aGlzLT5hY2NvdW50c1skbmFtZV07CgkJfSwgJHZpZXcpKSk7</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQlkdW1wKGFycmF5X2ZsaXAoJHZpZXcpKTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJZHVtcCgkdmlldyk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQlkdW1wKGFycmF5X2RpZmYoJHZpZXcsIGFycmF5X2tleXMoJHRoaXMtPmFjY291bnRzKSkpOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlkdW1wKCR2aWV3KTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQl7JGFwb3RoZWtlQWNjb3VudC0+Y2xpbmljTmFtZX0K</text>
+        <text encoding="base64">CQlkdW1wKCR2aWV3KTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/unis/unisAccounts/g</text>
