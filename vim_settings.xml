@@ -3656,6 +3656,13 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Presenters/DefaultPresenter.php" timestamp="1506089510043">
+        <mark key="'" line="20" column="14" />
+        <mark key="[" line="103" column="47" />
+        <mark key="]" line="103" column="48" />
+        <mark key="^" line="103" column="47" />
+        <mark key="." line="103" column="48" />
+      </file>
       <file name="/home/www/vendor/nnb/application/src/DI/ApplicationExtension.php" timestamp="1500620318607">
         <mark key="[" line="86" column="13" />
         <mark key="]" line="86" column="14" />
@@ -5743,13 +5750,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="41" filename="/home/www/html/dv/cms/src/User/Role.php" />
-      <jump line="38" column="0" filename="/home/www/html/dv/cms/src/User/Resource.php" />
-      <jump line="32" column="0" filename="/home/www/html/dv/cms/src/User/Privilege.php" />
-      <jump line="35" column="0" filename="/home/www/html/dv/cms/src/User/Permission.php" />
-      <jump line="81" column="49" filename="/home/www/html/dv/cms/src/Navigation/Navigation.php" />
-      <jump line="51" column="5" filename="/home/www/html/dv/cms/src/Navigation/Navigation.php" />
-      <jump line="0" column="0" filename="/home/www/html/dv/cms/src/Localization/Locale.php" />
       <jump line="147" column="37" filename="/home/www/vendor/hrncirr/modals/client-side/js/hrncirr.modals.js" />
       <jump line="150" column="30" filename="/home/www/vendor/hrncirr/modals/client-side/js/hrncirr.modals.js" />
       <jump line="12" column="25" filename="/home/www/vendor/hrncirr/modals/client-side/js/hrncirr.modals.js" />
@@ -5843,16 +5843,23 @@
       <jump line="567" column="20" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
       <jump line="45" column="12" filename="/home/www/html/nnb/passportization/src/AccessRights/Presenters/DefaultPresenter.php" />
       <jump line="6" column="42" filename="/home/www/html/nnb/passportization/src/AccessRights/Presenters/DefaultPresenter.php" />
+      <jump line="83" column="37" filename="/home/www/html/nnb/dms/src/Documents/Presenters/DefaultPresenter.php" />
+      <jump line="76" column="19" filename="/home/www/html/nnb/dms/src/Documents/Presenters/DefaultPresenter.php" />
+      <jump line="166" column="19" filename="/home/www/html/nnb/dms/src/Documents/Presenters/DefaultPresenter.php" />
+      <jump line="215" column="23" filename="/home/www/html/nnb/dms/src/Documents/Presenters/DefaultPresenter.php" />
+      <jump line="12" column="33" filename="/home/www/html/nnb/dms/src/Documents/Presenters/DefaultPresenter.php" />
+      <jump line="19" column="42" filename="/home/www/html/nnb/dms/src/Documents/Presenters/DefaultPresenter.php" />
+      <jump line="20" column="14" filename="/home/www/html/nnb/dms/src/Documents/Presenters/DefaultPresenter.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>use ($control</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>use ($control</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>orm</text>
+        <text>Tree</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
@@ -5889,9 +5896,9 @@
       </register>
     </registers>
     <search>
-      <last-search>orm</last-search>
+      <last-search>Tree</last-search>
       <last-offset />
-      <last-pattern>orm</last-pattern>
+      <last-pattern>Tree</last-pattern>
       <last-replace>unisAccounts</last-replace>
       <last-substitute>unis</last-substitute>
       <last-dir>1</last-dir>
@@ -5899,8 +5906,6 @@
     </search>
     <history>
       <history-search>
-        <entry>grid_session</entry>
-        <entry>remember_state</entry>
         <entry>handleSelect</entry>
         <entry>onConfigure</entry>
         <entry>NULL</entry>
@@ -5919,6 +5924,8 @@
         <entry>parent</entry>
         <entry>select</entry>
         <entry>orm</entry>
+        <entry>tree</entry>
+        <entry>Tree</entry>
       </history-search>
       <history-cmd>
         <entry>275</entry>
