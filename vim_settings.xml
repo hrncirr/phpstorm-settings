@@ -268,11 +268,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Presenters/DefaultPresenter.php" timestamp="1506084716124">
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Presenters/DefaultPresenter.php" timestamp="1506085532688">
         <mark key="'" line="6" column="42" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/components/RoomDetailControl/RoomDetailControl.php" timestamp="1486633504198">
         <mark key="[" line="61" column="37" />
@@ -5846,7 +5846,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">CQkJZHVtcCgkY29zdENlbnRlcklkKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JGdyaWQtPmdldFVuaXF1ZUlkKCk=</text>
@@ -5858,35 +5858,31 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">CQkJZHVtcCgkY29zdENlbnRlcklkKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQG1ldGhvZCBnZXRQcmVzZW50ZXIoKQo=</text>
+        <text encoding="base64">CQkkaWQgPSAoaW50KSR0aGlzLT5nZXRQYXJhbWV0ZXIoJ2lkJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQG1ldGhvZCByZW5kZXIoKQo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICogQG1ldGhvZCBnZXRQcmVzZW50ZXIoKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICogQG1ldGhvZCByZW5kZXIoKQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICogQG1ldGhvZCBsYXp5TGluaygkZGVzdGluYXRpb24sICRhcmdzID0gW10pCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">JGxpbmsgPSAkdGhpcy0+bGF6eUxpbmsoJ2NoYW5nZUNvc3RDZW50ZXIhJywgWwoJCQkJCQknY29zdENlbnRlcklkJyA9PiAkY29zdENlbnRlcklkLAoJCQkJCQknaWQnID0+IG51bGwKCQkJCV0pOwoKCQkJCWR1bXAoJGxpbmstPik7</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">JHRoaXMtPmxpbmsoJ2NoYW5nZUNvc3RDZW50ZXIhJywgWwoJCQkJCQknY29zdENlbnRlcklkJyA9PiAkY29zdENlbnRlcklkLAoJCQkJCQknaWQnID0+IG51bGwKCQkJCQldKSw=</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiBoYW5kbGUK</text>
-      </register>
-      <register name="9" type="4">
-        <text>/**
-	 * @var OrmModel
-	 * @inject
-	 */
-	public $orm;</text>
       </register>
       <register name=":" type="4">
         <text>419</text>
