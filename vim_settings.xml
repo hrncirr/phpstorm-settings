@@ -499,10 +499,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/BankConnectionForm/BankConnectionForm.php" timestamp="1504252202606">
-        <mark key="[" line="63" column="69" />
-        <mark key="]" line="132" column="0" />
-        <mark key="." line="132" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/BankConnectionForm/BankConnectionForm.php" timestamp="1506326797072">
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="." line="128" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Pages/DI/PageExtension.php" timestamp="1492066854641">
         <mark key="[" line="5" column="0" />
@@ -5834,8 +5834,8 @@
       <jump line="20" column="14" filename="/home/www/html/nnb/dms/src/Documents/Presenters/DefaultPresenter.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHsKCQl2YWxpZGF0ZSBhcyB2YWxpZGF0ZUFkZHJlc3M7Cgl9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>AAAAAA</text>
@@ -5846,13 +5846,28 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkvLy0+c2V0QXR0cmlidXRlKCdwbGFjZWhvbGRlcicsICdpYmFuLnBsYWNlaG9sZGVyJyk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJLT5zZXRBdHRyaWJ1dGUoJ2Rpc2FibGVkJywnZGlzYWJsZWQnKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJLT5zZXREaXNhYmxlZCgpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJLT5zZXREaXNhYmxlZCgpOwo=</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">IHsKCQl2YWxpZGF0ZSBhcyB2YWxpZGF0ZUFkZHJlc3M7Cgl9</text>
       </register>
-      <register name="2" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IHsKCQl2YWxpZGF0ZSBhcyB2YWxpZGF0ZVN1YmplY3Q7Cgl9</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>{
 		validate as validateSubject;
 	}
@@ -5860,33 +5875,8 @@
 		validate as validateAddress;
 	}</text>
       </register>
-      <register name="4" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQlkdW1wKCdhYWFhJyk7Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>{
-		validate as validateIntervention;
-	}</text>
-      </register>
-      <register name="6" type="4">
-        <text>{
-		validate as validateContact;
-	}</text>
-      </register>
-      <register name="7" type="4">
-        <text>{
-		validate as validateAddress;
-	}</text>
-      </register>
-      <register name="8" type="4">
-        <text>{
-		validate as validateSubject;
-	}</text>
-      </register>
-      <register name="9" type="4">
-        <text>{
-		
-	};</text>
       </register>
       <register name=":" type="4">
         <text>419</text>
