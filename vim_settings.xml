@@ -1979,10 +1979,10 @@
         <mark key="]" line="69" column="8" />
         <mark key="." line="69" column="8" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Offer.php" timestamp="1506333183659">
-        <mark key="[" line="110" column="37" />
-        <mark key="]" line="110" column="37" />
-        <mark key="." line="110" column="37" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Offer.php" timestamp="1506338177513">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMediaTemp.php" timestamp="1493022598086">
         <mark key="[" line="62" column="32" />
@@ -5699,8 +5699,8 @@
       <jump line="20" column="14" filename="/home/www/html/nnb/dms/src/Documents/Presenters/DefaultPresenter.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'surnameNotBlank'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>'surnameNotBlank'</text>
@@ -5711,39 +5711,35 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkkbm90QmxhbmsgPSBuZXcgQXNzZXJ0XE5vdEJsYW5rKCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkkY29udGV4dC0+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkkdmFsaWRhdG9yID0gbmV3IEFzc2VydFxOb3RCbGFua1ZhbGlkYXRvcigpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJJGNvbnRleHQtPgo=</text>
+      </register>
+      <register name="6" type="4">
         <text>,
 	 *      minMessage=&quot;wwwMinLength&quot;,
 	 *      maxMessage=&quot;wwwMaxLength&quot;</text>
       </register>
-      <register name="2" type="4">
+      <register name="7" type="4">
         <text>,
 	 *      minMessage = &quot;maturityOfIssuedInvoicesRangeMin&quot;</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CSAqICAgICAgbWVzc2FnZT0ibWF0dXJpdHlPZklzc3VlZEludm9pY2VzSW50ZWdlciIK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Ly8kZm9ybS0+c2V0VHJhbnNsYXRvcigkZm9ybS0+Z2V0VHJhbnNsYXRvcigpLT5kb21haW4oJ3N0b3JhZ2UtZm9ybXMuaXRlbScpKTsKCQkkdHJhbnNsYXRvciA9ICRmb3JtLT5nZXRUcmFuc2xhdG9yKCktPmRvbWFpbignc3RvcmFnZS5pdGVtJyk7IC8vJGZvcm0tPmdldFRyYW5zbGF0b3IoKTs=</text>
-      </register>
-      <register name="5" type="4">
-        <text># Item group
-itemGroupAlreadyExists: &quot;Skupina již existuje.&quot;</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICogICAgICBtZXNzYWdlPSJpdGVtR3JvdXBBbHJlYWR5RXhpc3RzIgo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>amountNotBlank: &quot;Množství nesmí být prázdné.&quot;
-amountInteger: &quot;Množství musí být číslo.&quot;
-amountRangeMin: &quot;Množství nesmí být záporné hodnoty.&quot;</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">c3RvY2tOb3RCbGFuazogIk1ub8W+c3R2w60gbmEgc2tsYWTEmyBuZXNtw60gYsO9dCBwcsOhemRuw6kuIgpzdG9ja1JhbmdlTWluOiAiTW5vxb5zdHbDrSBuYSBza2xhZMSbIG5lc23DrSBiw710IHrDoXBvcm7DqSBob2Rub3R5LiIK</text>
-      </register>
       <register name="9" type="4">
-        <text>vatNotBlank: &quot;DPH nesmí být prázdné.&quot;
-vatRegex: &quot;DPH musí být číslo 15 nebo 25.&quot;</text>
+        <text encoding="base64">Ly8kZm9ybS0+c2V0VHJhbnNsYXRvcigkZm9ybS0+Z2V0VHJhbnNsYXRvcigpLT5kb21haW4oJ3N0b3JhZ2UtZm9ybXMuaXRlbScpKTsKCQkkdHJhbnNsYXRvciA9ICRmb3JtLT5nZXRUcmFuc2xhdG9yKCktPmRvbWFpbignc3RvcmFnZS5pdGVtJyk7IC8vJGZvcm0tPmdldFRyYW5zbGF0b3IoKTs=</text>
       </register>
       <register name=":" type="4">
         <text>419</text>
