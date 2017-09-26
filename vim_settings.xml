@@ -3170,10 +3170,10 @@
         <mark key="]" line="105" column="0" />
         <mark key="." line="105" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Events/DocumentNumberListener.php" timestamp="1506429713703">
-        <mark key="[" line="49" column="61" />
-        <mark key="]" line="31" column="31" />
-        <mark key="." line="31" column="31" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Events/DocumentNumberListener.php" timestamp="1506433633738">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/AddressBook/Validators/UniqueDefault.php" timestamp="1500460782321">
         <mark key="[" line="21" column="37" />
@@ -5713,8 +5713,8 @@
       <jump line="3" column="18" filename="/home/www/html/nnb/dms/src/Documents/DI/config.neon" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Zm9yZWFjaCAoJGZvcm1EYXRhIGFzICYkdmFsdWUpIHsKCQkJCSR2YWx1ZSA9ICFpc19hcnJheSgkdmFsdWUpID8gJHZhbHVlIDogbnVsbDsKCQkJfQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIEludm9pY2luZ1xJbnF1aXJ5Owo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -5725,28 +5725,24 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">dXNlIEludm9pY2luZ1xJbnF1aXJ5Owo=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">Zm9yZWFjaCAoJGZvcm1EYXRhIGFzICYkdmFsdWUpIHsKCQkJCSR2YWx1ZSA9ICFpc19hcnJheSgkdmFsdWUpID8gJHZhbHVlIDogbnVsbDsKCQkJfQ==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XFZhbGlkYXRvclxDb25zdHJhaW50cyBhcyBBc3NlcnQ7Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CXBocCB0cmFpdCBleGlzdHMK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>/**
 	 * @ORM\Column(type=&quot;string&quot;)
 	 * @var string
 	 */
 	protected $orderNumber;</text>
-      </register>
-      <register name="5" type="4">
-        <text>/**
-	 * @ORM\Column(type=&quot;string&quot;, length=15, unique=true)
-	 * @var string
-	 */
-	protected $number;</text>
       </register>
       <register name="6" type="4">
         <text>/**
@@ -5770,7 +5766,11 @@
 	protected $number;</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldEZvcm1hdHRlZFByaWNlKCk6IHN0cmluZwoJewoJCXJldHVybiBtb25leV9mb3JtYXQoJyUuMG4nLCAkdGhpcy0+cHJpY2UpOwoJfQ==</text>
+        <text>/**
+	 * @ORM\Column(type=&quot;string&quot;, length=15, unique=true)
+	 * @var string
+	 */
+	protected $number;</text>
       </register>
       <register name=":" type="4">
         <text>%s/translatorDomainPrefix/translatorDomain/g</text>
