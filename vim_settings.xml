@@ -573,10 +573,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/forms-typeahead/src/Controls/TypeaheadInput.php" timestamp="1504188738536">
-        <mark key="[" line="230" column="16" />
-        <mark key="]" line="230" column="16" />
-        <mark key="." line="230" column="16" />
+      <file name="/home/www/lib/vendor/hrncirr/forms-typeahead/src/Controls/TypeaheadInput.php" timestamp="1506431915164">
+        <mark key="[" line="237" column="12" />
+        <mark key="]" line="237" column="12" />
+        <mark key="." line="237" column="12" />
       </file>
       <file name="/home/www/html/dv/cms/src/Url/RedirectFacade.php" timestamp="1505215188961">
         <mark key="[" line="27" column="8" />
@@ -2747,12 +2747,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/bul/maternal-register/app/Model/RegisterModel.php" timestamp="1506417450274">
-        <mark key="[" line="52" column="54" />
-        <mark key="]" line="72" column="38" />
-        <mark key="^" line="72" column="38" />
-        <mark key="." line="72" column="38" />
-      </file>
       <file name="/home/www/html/nnb/passportization/app/presenters/BasePresenter.php" timestamp="1487243702987">
         <mark key="[" line="36" column="23" />
         <mark key="]" line="33" column="0" />
@@ -3534,7 +3528,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506428439697">
+      <file name="/Dummy.txt" timestamp="1506432047738">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
@@ -5719,11 +5713,11 @@
       <jump line="3" column="18" filename="/home/www/html/nnb/dms/src/Documents/DI/config.neon" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XFZhbGlkYXRvclxDb25zdHJhaW50cyBhcyBBc3NlcnQ7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Zm9yZWFjaCAoJGZvcm1EYXRhIGFzICYkdmFsdWUpIHsKCQkJCSR2YWx1ZSA9ICFpc19hcnJheSgkdmFsdWUpID8gJHZhbHVlIDogbnVsbDsKCQkJfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>string $number</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>DocumentFolderListener</text>
@@ -5731,25 +5725,21 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XFZhbGlkYXRvclxDb25zdHJhaW50cyBhcyBBc3NlcnQ7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Zm9yZWFjaCAoJGZvcm1EYXRhIGFzICYkdmFsdWUpIHsKCQkJCSR2YWx1ZSA9ICFpc19hcnJheSgkdmFsdWUpID8gJHZhbHVlIDogbnVsbDsKCQkJfQ==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XFZhbGlkYXRvclxDb25zdHJhaW50cyBhcyBBc3NlcnQ7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CXBocCB0cmFpdCBleGlzdHMK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>/**
 	 * @ORM\Column(type=&quot;string&quot;)
 	 * @var string
 	 */
 	protected $orderNumber;</text>
-      </register>
-      <register name="4" type="4">
-        <text>/**
-	 * @ORM\Column(type=&quot;string&quot;, length=15, unique=true)
-	 * @var string
-	 */
-	protected $number;</text>
       </register>
       <register name="5" type="4">
         <text>/**
@@ -5773,27 +5763,14 @@
 	protected $number;</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldEZvcm1hdHRlZFByaWNlKCk6IHN0cmluZwoJewoJCXJldHVybiBtb25leV9mb3JtYXQoJyUuMG4nLCAkdGhpcy0+cHJpY2UpOwoJfQ==</text>
+        <text>/**
+	 * @ORM\Column(type=&quot;string&quot;, length=15, unique=true)
+	 * @var string
+	 */
+	protected $number;</text>
       </register>
       <register name="9" type="4">
-        <text>/**
-	 * @ORM\Column(type=&quot;integer&quot;, nullable=true)
-	 * @Assert\Type(
-	 *      type=&quot;integer&quot;
-	 * )
-	 * @Assert\Range(
-	 *      min=1,
-	 *      max=100
-	 * )
-	 * @var int
-	 */
-	protected $discount;
-
-	/**
-	 * @ORM\Column(type=&quot;integer&quot;)
-	 * @var int
-	 */
-	protected $price;</text>
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldEZvcm1hdHRlZFByaWNlKCk6IHN0cmluZwoJewoJCXJldHVybiBtb25leV9mb3JtYXQoJyUuMG4nLCAkdGhpcy0+cHJpY2UpOwoJfQ==</text>
       </register>
       <register name=":" type="4">
         <text>%s/translatorDomainPrefix/translatorDomain/g</text>
