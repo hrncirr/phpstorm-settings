@@ -273,7 +273,7 @@
         <mark key="]" line="22" column="4" />
         <mark key="." line="22" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/extensions.neon" timestamp="1506498782294" />
+      <file name="/home/www/html/dv/adera/app/config/extensions.neon" timestamp="1506516991290" />
       <file name="/home/www/vendor/hrncirr/media/src/Utils/FileLinkGenerator.php" timestamp="1494338515060">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -293,6 +293,11 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="/home/www/html/dv/adera/src/User/DI/config.neon" timestamp="1506517217315">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="/home/www/html/bul/maternal-register/app/templates/@layout.latte" timestamp="1489995117356">
         <mark key="[" line="13" column="0" />
@@ -430,8 +435,10 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/src/User/Install/UserInstall.php" timestamp="1506510194433">
-        <mark key="[" line="23" column="33" />
+      <file name="/home/www/html/dv/adera/src/User/Install/UserInstall.php" timestamp="1506518981375">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/Passportization/Users/DI/DI/UsersExtension.php" timestamp="1486130066737">
         <mark key="[" line="12" column="0" />
@@ -1697,10 +1704,10 @@
         <mark key="]" line="76" column="4" />
         <mark key="." line="76" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/src/Admin/DI/AdminExtension.php" timestamp="1506513856725">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="/home/www/html/dv/adera/src/Admin/DI/AdminExtension.php" timestamp="1506516580899">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Page/FrontModule/Components/PageLoginForm/IPageLoginFormFactory.php" timestamp="1505484380768">
         <mark key="[" line="21" column="0" />
@@ -1942,6 +1949,11 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/src/User/DI/UserExtension.php" timestamp="1506519035686">
+        <mark key="[" line="34" column="12" />
+        <mark key="]" line="34" column="12" />
+        <mark key="." line="34" column="12" />
+      </file>
       <file name="/home/www/html/dv/cms/src/Users/Presenters/DefaultPresenter.php" timestamp="1491826100125">
         <mark key="[" line="27" column="4" />
         <mark key="]" line="27" column="4" />
@@ -2142,11 +2154,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/config.local.neon" timestamp="1506510368994">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="25" column="13" />
-        <mark key="." line="25" column="13" />
-        <mark key="^" line="25" column="13" />
+      <file name="/home/www/html/dv/adera/app/config/config.local.neon" timestamp="1506515030915">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="23" column="13" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/AddressBook/Presenters/templates/Subjects/default.latte" timestamp="1498554092829">
         <mark key="[" line="13" column="0" />
@@ -2388,8 +2400,8 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1506508654921">
-        <mark key="[" line="46" column="15" />
+      <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1506517004118">
+        <mark key="[" line="8" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/src/Admin/AdminModule/Presenters/BasePresenter.php" timestamp="1506507163228">
         <mark key="[" line="31" column="0" />
@@ -2934,10 +2946,10 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/src/Url/Install/Helpers/UrlInstallHelper.php" timestamp="1505388372317">
-        <mark key="[" line="52" column="86" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="/home/www/html/dv/adera/src/Url/Install/Helpers/UrlInstallHelper.php" timestamp="1506518551519">
+        <mark key="[" line="93" column="87" />
+        <mark key="]" line="93" column="87" />
+        <mark key="." line="93" column="87" />
       </file>
       <file name="/home/www/vendor/nnb/bootstrap/src/Components/Forms/SignInForm.php" timestamp="1478787868526">
         <mark key="[" line="64" column="33" />
@@ -3578,10 +3590,10 @@
         <mark key="]" line="117" column="41" />
         <mark key="." line="117" column="41" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/config.neon" timestamp="1506513627910">
-        <mark key="[" line="14" column="9" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="/home/www/html/dv/adera/app/config/config.neon" timestamp="1506516639889">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="15" column="4" />
+        <mark key="." line="15" column="4" />
       </file>
       <file name="/home/www/html/nnb/dms/app/components/GridFactory.php" timestamp="1485354131312">
         <mark key="[" line="43" column="8" />
@@ -3985,10 +3997,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/src/Url/DI/UrlExtension.php" timestamp="1506513211825">
-        <mark key="[" line="45" column="4" />
-        <mark key="]" line="45" column="4" />
-        <mark key="." line="45" column="4" />
+      <file name="/home/www/html/dv/adera/src/Url/DI/UrlExtension.php" timestamp="1506518111270">
+        <mark key="[" line="34" column="4" />
+        <mark key="]" line="52" column="4" />
+        <mark key="." line="52" column="4" />
       </file>
       <file name="/home/www/vendor/hrncirr/header/src/Components/JsControl/JsControl.php" timestamp="1496836099298">
         <mark key="[" line="148" column="64" />
@@ -4428,11 +4440,11 @@
         <mark key="]" line="4" column="4" />
         <mark key="." line="4" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/src/Navigation/DI/NavigationExtension.php" timestamp="1506511850564">
-        <mark key="'" line="49" column="51" />
-        <mark key="[" line="94" column="4" />
-        <mark key="]" line="94" column="4" />
-        <mark key="." line="94" column="4" />
+      <file name="/home/www/html/dv/adera/src/Navigation/DI/NavigationExtension.php" timestamp="1506518089398">
+        <mark key="'" line="48" column="51" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/history/src/Renderers/TemplateRenderer.php" timestamp="1476429466738">
         <mark key="[" line="26" column="15" />
@@ -4609,7 +4621,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/modules.neon" timestamp="1506513913404">
+      <file name="/home/www/html/dv/adera/app/config/modules.neon" timestamp="1506514970762">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
@@ -5801,11 +5813,11 @@
       <jump line="49" column="51" filename="/home/www/html/dv/adera/src/Navigation/DI/NavigationExtension.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CW1vZHVsZU5hbWU6ICoK</text>
+      <register name="&quot;" type="4">
+        <text>UrlInstallHelper::ADMIN_PATH_KEY .</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPmNvbXBpbGVyLT5nZXRDb25maWco</text>
+        <text>UrlInstallHelper::ADMIN_PATH_KEY .</text>
       </register>
       <register name="/" type="4">
         <text>adminMenu</text>
@@ -5813,32 +5825,32 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CW1vZHVsZU5hbWU6ICoK</text>
+      <register name="1" type="4">
+        <text encoding="base64">JGJ1aWxkZXItPmFkZERlZmluaXRpb24oJ2luc3RhbGwnKQoJCQktPnNldEZhY3RvcnkoVXNlckluc3RhbGw6OmNsYXNzKQoJCQktPnNldEFyZ3VtZW50cyhbJHVybHNdKTs=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">YWRtaW46Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Y29uc3QgU0lHTl9JTl9ERVNUSU5BVElPTiA9ICdBdXRoOlNpZ246aW4nOwoJY29uc3QgU0lHTl9PVVRfREVTVElOQVRJT04gPSAnQXV0aDpTaWduOm91dCc7CgoKCXByaXZhdGUgJHVybHMgPSBbCgkJVXJsSW5zdGFsbEhlbHBlcjo6QURNSU5fUEFUSF9LRVkgLiAndXNlcnMvc2lnbi9pbicgPT4gc2VsZjo6U0lHTl9JTl9ERVNUSU5BVElPTiwKCQlVcmxJbnN0YWxsSGVscGVyOjpBRE1JTl9QQVRIX0tFWSAuICd1c2Vycy9zaWduL291dCcgPT4gc2VsZjo6U0lHTl9PVVRfREVTVElOQVRJT04KCV07</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkkdGhpcy0+dXJscyA9ICR1cmxzOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJJG1vZHVsZU5hbWUgPSAkdGhpcy0+Y29uZmlnWydtb2R1bGVOYW1lJ10gPz8gKCR0aGlzLT5jb21waWxlci0+Z2V0Q29uZmlnKClbJ2FkbWluUGF0aCddID8/ICdBZG1pbicpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CS0gSHJuY2lycmNtc1xVc2VyXEluc3RhbGxcVXNlckluc3RhbGwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlpZiAoJHRoaXMtPmNvbmZpZ1snbW9kdWxlTmFtZSddID09PSBudWxsKSB7Cg==</text>
+        <text encoding="base64">dXNlIE5hdmlnYXRpb25cTmF2aWdhdGlvbjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJLy8tPnNldENsYXNzKE1lbnU6OmNsYXNzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">JHRoaXMtPmdldENvbnRhaW5lckJ1aWxkZXIoKS0+Z2V0RGVmaW5pdGlvbigkdGhpcy0+cHJlZml4KCdhZG1pbk1lbnUnKSkKCQkJLT5zZXRBcmd1bWVudHMoWyR0aGlzLT5jb21waWxlci0+Z2V0Q29uZmlnKClbJ2FkbWluRmFrZVBhdGgnXSA/PyAnYWRtaW4nXSk7</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkkYWRtaW5LZXkgPSAkY29uZmlnUGFyYW1ldGVyc1snYWRtaW5LZXknXTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGJlZm9yZUNvbXBpbGUoKQoJewoJCSR0aGlzLT5nZXRDb250YWluZXJCdWlsZGVyKCktPmdldERlZmluaXRpb24oJHRoaXMtPnByZWZpeCgndXJsSW5zdGFsbEhlbHBlcicpKQoJCQktPnNldEFyZ3VtZW50cyhbJHRoaXMtPmNvbXBpbGVyLT5nZXRDb25maWcoKVsnYWRtaW5GYWtlUGF0aCddID8/ICdhZG1pbiddKTsKCX0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkkYWRtaW5QYXRoID0gJGNvbmZpZ1BhcmFtZXRlcnNbJ2FkbWluUGF0aCddOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/translatorDomainPrefix/translatorDomain/g</text>
