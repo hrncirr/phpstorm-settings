@@ -2171,11 +2171,11 @@
         <mark key="]" line="24" column="17" />
         <mark key="." line="24" column="17" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/extensions/forms.neon" timestamp="1506498787576">
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="7" column="4" />
-        <mark key="." line="7" column="4" />
-        <mark key="^" line="6" column="40" />
+      <file name="/home/www/html/dv/adera/app/config/extensions/forms.neon" timestamp="1506500588435">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="40" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/router/RouterFactory.php" timestamp="1485779627524">
         <mark key="[" line="32" column="0" />
@@ -3563,7 +3563,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506498141698">
+      <file name="/Dummy.txt" timestamp="1506500911650">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
@@ -4607,10 +4607,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/modules.neon" timestamp="1506498702745">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="/home/www/html/dv/adera/app/config/modules.neon" timestamp="1506500941878">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Pages/AdminModule/Components/PagesGrid/PagesGrid.latte" timestamp="1492073772427">
         <mark key="[" line="0" column="0" />
@@ -5786,7 +5786,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CXBhZ2U6IEhybmNpcnJjbXNcUGFnZVxESVxQYWdlRXh0ZW5zaW9uCg==</text>
+        <text encoding="base64">CWhybmNpcnIuY21wOiBIcm5jaXJyXENtcFxESVxDbXBFeHRlbnNpb24K</text>
       </register>
       <register name="-" type="4">
         <text>ipub.phone: IPub\Phone\DI\PhoneExtension</text>
@@ -5798,35 +5798,35 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CWhybmNpcnIuY21wOiBIcm5jaXJyXENtcFxESVxDbXBFeHRlbnNpb24K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CWhybmNpcnIudGlueU1DRTogSHJuY2lyclxUaW55TUNFXERJXFRpbnlNQ0VFeHRlbnNpb24K</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CXBhZ2U6IEhybmNpcnJjbXNcUGFnZVxESVxQYWdlRXh0ZW5zaW9uCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>decorator:
 	App\Components\BaseControl:
 		setup:
 			- setTranslator (@Kdyby\Translation\Translator)</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>extensions:
 	symplify.eventDispatcher: Symplify\SymfonyEventDispatcher\Adapter\Nette\DI\SymfonyEventDispatcherExtension</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CXN5bXBsaWZ5LmV2ZW50RGlzcGF0Y2hlcjogU3ltcGxpZnlcU3ltZm9ueUV2ZW50RGlzcGF0Y2hlclxBZGFwdGVyXE5ldHRlXERJXFN5bWZvbnlFdmVudERpc3BhdGNoZXJFeHRlbnNpb24K</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZXh0ZW5zaW9uczoK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CWxheW91dHNEaXI6ICVhcHBEaXIlL2NvbmZpZy9sYXlvdXRzCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">cGFnZToK</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZHVtcCgkbGFzdERvY3VtZW50LT5nZXROdW1iZXIoKSk7CgkJCWR1bXAoJGxhc3ROdW1iZXIpOw==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXFV0aWxzXFN0cmluZ3M7Cg==</text>
+        <text encoding="base64">cGFnZToK</text>
       </register>
       <register name=":" type="4">
         <text>%s/translatorDomainPrefix/translatorDomain/g</text>
