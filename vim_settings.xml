@@ -771,6 +771,11 @@
         <mark key="]" line="11" column="58" />
         <mark key="." line="11" column="58" />
       </file>
+      <file name="/home/www/html/dv/adera/src/Admin/Install/AdminInstall.php" timestamp="1506686849408">
+        <mark key="[" line="26" column="45" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Folders/Components/PathControl/PathControl.php" timestamp="1495782719103">
         <mark key="[" line="12" column="2" />
         <mark key="]" line="14" column="0" />
@@ -3587,7 +3592,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506678585371">
+      <file name="/Dummy.txt" timestamp="1506686821625">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
@@ -5822,7 +5827,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJLSAld3d3RGlyJS9jc3MvZWxmaW5kZXIuY3NzCg==</text>
+        <text encoding="base64">dXNlIE5hdmlnYXRpb25cSW5zdGFsbFxIZWxwZXJzXE5hdmlnYXRpb25JbnN0YWxsSGVscGVyOwo=</text>
       </register>
       <register name="-" type="4">
         <text>$this['offerForm'];</text>
@@ -5834,31 +5839,31 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJLSAld3d3RGlyJS9jc3MvZWxmaW5kZXIuY3NzCg==</text>
+        <text encoding="base64">dXNlIE5hdmlnYXRpb25cSW5zdGFsbFxIZWxwZXJzXE5hdmlnYXRpb25JbnN0YWxsSGVscGVyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkkdGhpc1snb2ZmZXJGb3JtJ107Cg==</text>
+        <text encoding="base64">CQkJLSAld3d3RGlyJS9jc3MvZWxmaW5kZXIuY3NzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzLT5nZXRQcmVzZW50ZXIoKS0+bGluaygndGhpcycpKTsK</text>
+        <text encoding="base64">CQkkdGhpc1snb2ZmZXJGb3JtJ107Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzLT5saW5rKCd0aGlzJykpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzLT5saW5rKCd0aGlzJykpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">CQlkdW1wKCR0aGlzLT5nZXRQcmVzZW50ZXIoKS0+bGluaygndGhpcycpKTsK</text>
       </register>
-      <register name="9" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQlkdW1wKCR0aGlzLT5saW5rKCd0aGlzJykpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQlkdW1wKCR0aGlzLT5saW5rKCd0aGlzJykpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQlkdW1wKCR0aGlzLT5nZXRQcmVzZW50ZXIoKS0+bGluaygndGhpcycpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/translatorDomainPrefix/translatorDomain/g</text>
