@@ -2808,10 +2808,10 @@
         <mark key="]" line="24" column="4" />
         <mark key="." line="24" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/OffersGrid/OffersGrid.php" timestamp="1506679243979">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/OffersGrid/OffersGrid.php" timestamp="1506679906235">
         <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Storage/Item.php" timestamp="1498744170662">
         <mark key="[" line="140" column="26" />
@@ -4769,6 +4769,9 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="/home/www/vendor/hrncirr/elfinder/src/MediaImporterControl.php" timestamp="1506679541488">
+        <mark key="[" line="124" column="64" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Documents/components/AttachmentsControl/AttachmentsControl.latte" timestamp="1488277381857">
         <mark key="[" line="1" column="13" />
         <mark key="]" line="2" column="0" />
@@ -5693,8 +5696,8 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" timestamp="1506672108903">
-        <mark key="[" line="115" column="45" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" timestamp="1506680304466">
+        <mark key="[" line="132" column="43" />
         <mark key="]" line="115" column="45" />
         <mark key="^" line="111" column="0" />
         <mark key="." line="115" column="45" />
@@ -5819,10 +5822,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkkdGhpc1snb2ZmZXJGb3JtJ107Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>exit;</text>
+        <text>$this['offerForm'];</text>
       </register>
       <register name="/" type="4">
         <text>adminMenu</text>
@@ -5831,31 +5834,31 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkkdGhpc1snb2ZmZXJGb3JtJ107Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzLT5saW5rKCd0aGlzJykpOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">CQlkdW1wKCR0aGlzLT5nZXRQcmVzZW50ZXIoKS0+bGluaygndGhpcycpKTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQlkdW1wKCR0aGlzLT5saW5rKCd0aGlzJykpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcGVyc2lzdGVudAoJICovCglwdWJsaWMgJHBva3VzID0gW107Cg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQlkdW1wKCR0aGlzLT5saW5rKCd0aGlzJykpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlyZXR1cm4gJGNvbnRyb2w7Cg==</text>
+        <text encoding="base64">CQlkdW1wKCR0aGlzLT5nZXRQcmVzZW50ZXIoKS0+bGluaygndGhpcycpKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkkdGhpcy0+bWVkaWFJbXBvcnRJZCA9ICdhYWFhJzsK</text>
+        <text encoding="base64">CQlkdW1wKCR0aGlzLT5saW5rKCd0aGlzJykpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/translatorDomainPrefix/translatorDomain/g</text>
