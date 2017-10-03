@@ -510,6 +510,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/BankConnectionForm/BankConnectionForm.php" timestamp="1507040254303">
+        <mark key="[" line="114" column="43" />
+        <mark key="]" line="114" column="43" />
+        <mark key="." line="114" column="43" />
+      </file>
       <file name="/home/www/html/dv/cms/Modules/Pages/DI/PageExtension.php" timestamp="1492066854641">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -3691,7 +3696,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507038275947">
+      <file name="/Dummy.txt" timestamp="1507040404500">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
@@ -5991,12 +5996,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>% (row['osc'], row['jmeno'], lastname, degrees['pred'], degrees['po'],
-			telephones[0], telephones[1], telephones[2], row['email'], int(row['oddeleni']),
-			h, dateTime.strftime('%Y-%m-%d %H:%M:%S'))</text>
+        <text>$translatorDomain</text>
       </register>
       <register name="-" type="4">
-        <text>% (int(row['oddeleni']), name)</text>
+        <text>$translatorDomain</text>
       </register>
       <register name="/" type="4">
         <text>mažu</text>
