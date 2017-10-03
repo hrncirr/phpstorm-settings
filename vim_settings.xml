@@ -509,6 +509,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/BankConnectionForm/BankConnectionForm.php" timestamp="1507022246586" />
       <file name="/home/www/html/dv/cms/Modules/Pages/DI/PageExtension.php" timestamp="1492066854641">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -3690,7 +3691,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507019867163">
+      <file name="/Dummy.txt" timestamp="1507022234213">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
@@ -4478,9 +4479,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/libs/vendor/kdyby/doctrine-magic-accessors/src/MagicAccessors.php" timestamp="1506946326881">
-        <mark key="'" line="165" column="80" />
-      </file>
       <file name="/home/www/html/dv/cms/Modules/Files/File.php" timestamp="1497016545766">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="8" column="0" />
@@ -4825,7 +4823,7 @@
         <mark key="]" line="19" column="8" />
         <mark key="." line="19" column="8" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/OrderForm/OrderForm.php" timestamp="1506948942044">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/OrderForm/OrderForm.php" timestamp="1507022106368">
         <mark key="[" line="86" column="4" />
         <mark key="]" line="86" column="8" />
         <mark key="." line="86" column="8" />
@@ -4895,10 +4893,10 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/src/User/AdminModule/Components/UserForm/UserForm.php" timestamp="1506949029549">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="8" />
-        <mark key="." line="60" column="8" />
+      <file name="/home/www/html/dv/adera/src/User/AdminModule/Components/UserForm/UserForm.php" timestamp="1507022339771">
+        <mark key="[" line="110" column="52" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/media/src/Model/File.php" timestamp="1493989537291">
         <mark key="[" line="78" column="4" />
@@ -5282,6 +5280,11 @@
         <mark key="]" line="25" column="4" />
         <mark key="." line="25" column="4" />
       </file>
+      <file name="/home/www/html/dv/adera/src/User/User.php" timestamp="1507022373151">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+      </file>
       <file name="/home/www/html/nnb/passportization/app/Model/OrmModel.php" timestamp="1505988808360">
         <mark key="[" line="39" column="2" />
         <mark key="]" line="39" column="2" />
@@ -5562,9 +5565,6 @@
         <mark key="[" line="22" column="33" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="/home/www/html/dv/adera/src/Admin/AdminModule/Presenters/templates/Settings/default.latte" timestamp="1507014402179">
-        <mark key="'" line="19" column="30" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/IElFinderFileConsumer.php" timestamp="1493040597826">
         <mark key="[" line="11" column="0" />
@@ -5992,7 +5992,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWNvb2tpZURvbWFpbjogZG9tYWluCg==</text>
+        <text encoding="base64">CSAqIEBBc3NlcnRcTm90QmxhbmsoKQo=</text>
       </register>
       <register name="-" type="4">
         <text>{</text>
@@ -6004,16 +6004,25 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CSAqIEBBc3NlcnRcTm90QmxhbmsoKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkkdHJhbnNsYXRvciA9ICRmb3JtLT5nZXRUcmFuc2xhdG9yKCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkkZm9ybS0+c2V0VHJhbnNsYXRvcigkZm9ybS0+Z2V0VHJhbnNsYXRvcigpLT5kb21haW4oJ3VzZXIudXNlckZvcm0nKSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CWNvb2tpZURvbWFpbjogZG9tYWluCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>rncirr.xmlSerializer:
 	namingStrategy: Hrncirr\XmlSerializer\Naming\LongNamingStrategy
 	namespaces:
 		Ares:
 			schemaDir: %appDir%/../xml/schemas</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>kdyby.monolog:
 	name: CMS # Syslog only
 	handlers:
@@ -6023,14 +6032,14 @@
 		- Monolog\Processor\WebProcessor
 		- Monolog\Processor\GitProcessor</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>kdyby.validator:
     translationDomain: validators</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">cm91dGluZzoKCWRlYnVnZ2VyOiBubwoKa2R5YnkuYW5ub3RhdGlvbnM6CglpZ25vcmU6CgkJLSBTZWN1cmVkCgkJLSBTZWN1cmVkXFVzZXIKCQktIFNlY3VyZWRcUmVzb3VyY2UKCQktIFNlY3VyZWRcUHJpdmlsZWdlCgkJLSBTZWN1cmVkXFBlcm1pc3Npb24KCmtkeWJ5LnRyYW5zbGF0aW9uOgoJZGVmYXVsdDogY3MKCWZhbGxiYWNrOiBbY3NfQ1osIGNzXQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>constants:
 	APP_NAME:
 
@@ -6057,18 +6066,6 @@ application:
 
 di:
 	debugger: yes</text>
-      </register>
-      <register name="7" type="4">
-        <text>session:
-	expiration: 14 days
-	cookieDomain: domain
-	debugger: yes</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">bWluZXRyby5nZWRtbzoKI25ldHRyaW5lLmdlZG1vOgoJYW5ub3RhdGlvbnM6CgkJYmxhbWVhYmxlOiBvZmYKCQlpcFRyYWNlYWJsZTogb2ZmCgkJbG9nZ2FibGU6IG9mZgoJCXNsdWdnYWJsZTogb24KCQlzb2Z0RGVsZXRlYWJsZTogb24KCQlzb3J0YWJsZTogb24KCQl0aW1lc3RhbXBhYmxlOiBvbgoJCXRyYW5zbGF0YWJsZTogb2ZmCgkJdHJlZWFibGU6IG9uCgkJdXBsb2FkYWJsZTogb2ZmCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">aHJuY2lyci5mb3JtczoKCWRlZmF1bHRSZW5kZXJlcjogSW5zdGFudGVcQm9vdHN0cmFwM1JlbmRlcmVyXEJvb3RzdHJhcFJlbmRlcmVyICgpCglwcm90ZWN0aW9uOiBUUlVFCgpocm5jaXJyLnBub3RpZnk6CglzdHlsaW5nOiBmb250YXdlc29tZQoJcG9zaXRpb246IHRvcHJpZ2h0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>134</text>
