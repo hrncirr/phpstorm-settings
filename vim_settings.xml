@@ -3691,7 +3691,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507029552179">
+      <file name="/Dummy.txt" timestamp="1507038245800">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
@@ -4027,12 +4027,12 @@
         <mark key="]" line="55" column="35" />
         <mark key="." line="55" column="35" />
       </file>
-      <file name="/home/www/html/bul/medical_examinations/bin/import" timestamp="1507037236617">
-        <mark key="'" line="81" column="14" />
-        <mark key="[" line="98" column="31" />
-        <mark key="]" line="65" column="24" />
-        <mark key="." line="65" column="24" />
-        <mark key="^" line="65" column="24" />
+      <file name="/home/www/html/bul/medical_examinations/bin/import" timestamp="1507038153471">
+        <mark key="'" line="276" column="15" />
+        <mark key="[" line="330" column="67" />
+        <mark key="]" line="339" column="32" />
+        <mark key="." line="339" column="32" />
+        <mark key="^" line="339" column="32" />
       </file>
       <file name="/home/www/html/nnb/socialni-pece/app/templates/Statistics/default.latte" timestamp="1484906571562">
         <mark key="[" line="43" column="0" />
@@ -5888,9 +5888,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccountsControl/templates/AccountsControl.latte" />
-      <jump line="12" column="32" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccountsControl/templates/unis.latte" />
-      <jump line="4" column="0" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccountsControl/templates/AccountsControl.latte" />
       <jump line="63" column="18" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccountsControl/templates/unis.latte" />
       <jump line="50" column="35" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccountsControl/templates/unis.latte" />
       <jump line="112" column="4" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" />
@@ -5988,6 +5985,9 @@
       <jump line="231" column="19" filename="/home/www/html/bul/phonebook/bin/import" />
       <jump line="76" column="14" filename="/home/www/html/bul/phonebook/bin/import" />
       <jump line="101" column="23" filename="/home/www/html/bul/phonebook/bin/import" />
+      <jump line="339" column="32" filename="/home/www/html/bul/medical_examinations/bin/import" />
+      <jump line="132" column="15" filename="/home/www/html/bul/medical_examinations/bin/import" />
+      <jump line="276" column="15" filename="/home/www/html/bul/medical_examinations/bin/import" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5999,7 +5999,7 @@
         <text>% (int(row['oddeleni']), name)</text>
       </register>
       <register name="/" type="4">
-        <text>execute</text>
+        <text>mažu</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
@@ -6044,9 +6044,9 @@
       </register>
     </registers>
     <search>
-      <last-search>execute</last-search>
+      <last-search>mažu</last-search>
       <last-offset />
-      <last-pattern>execute</last-pattern>
+      <last-pattern>mažu</last-pattern>
       <last-replace>admin</last-replace>
       <last-substitute>options</last-substitute>
       <last-dir>1</last-dir>
@@ -6054,7 +6054,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">LT5pZA==</entry>
         <entry>parent</entry>
         <entry>select</entry>
         <entry>orm</entry>
@@ -6074,6 +6073,7 @@
         <entry>%d</entry>
         <entry>None</entry>
         <entry>execute</entry>
+        <entry>mažu</entry>
       </history-search>
       <history-cmd>
         <entry>74</entry>
