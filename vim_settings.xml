@@ -1936,9 +1936,6 @@
         <mark key="]" line="35" column="4" />
         <mark key="." line="35" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/src/Admin/DI/config.neon" timestamp="1507014059588">
-        <mark key="[" line="5" column="67" />
-      </file>
       <file name="/home/www/vendor/hrncirr/cmp/client-side/js/hrncirr.mediaelement.init.js" timestamp="1476357940960">
         <mark key="[" line="27" column="66" />
         <mark key="]" line="27" column="66" />
@@ -2533,9 +2530,6 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/src/Admin/AdminModule/Components/ExtensionsGrid/ExtensionsGrid.php" timestamp="1507013899147">
-        <mark key="[" line="11" column="49" />
-      </file>
       <file name="/home/www/html/dv/adera/src/Url/Url.php" timestamp="1506689634746">
         <mark key="[" line="44" column="28" />
       </file>
@@ -2798,6 +2792,12 @@
         <mark key="[" line="27" column="51" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="/home/www/lib/vendor/hrncirr/xml-serializer/src/Manager.php" timestamp="1507020910350">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="8" />
+        <mark key="^" line="127" column="8" />
+        <mark key="." line="127" column="8" />
       </file>
       <file name="/home/www/html/dv/cms/src/Options/DI/OptionsExtension.php" timestamp="1497438818042">
         <mark key="[" line="1" column="0" />
@@ -3880,9 +3880,6 @@
         <mark key="]" line="36" column="4" />
         <mark key="." line="36" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Presenters/InvoicesPresenter.php" timestamp="1506951880062">
-        <mark key="[" line="27" column="4" />
-      </file>
       <file name="/home/www/lib/vendor/hrncirr/tabs/bower.json" timestamp="1487338651123">
         <mark key="[" line="8" column="45" />
         <mark key="]" line="11" column="4" />
@@ -4284,6 +4281,12 @@
         <mark key="]" line="52" column="8" />
         <mark key="." line="52" column="8" />
       </file>
+      <file name="/home/www/html/dv/adera/src/Navigation/Events/AdminNavigationListener.php" timestamp="1506690825817">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="86" column="65" />
+      </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Renderer/Control.php" timestamp="1476193032609">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -4570,6 +4573,12 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="4" />
         <mark key="." line="1" column="4" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Model/AresModel.php" timestamp="1506955692103">
+        <mark key="[" line="94" column="8" />
+        <mark key="]" line="40" column="9" />
+        <mark key="." line="40" column="9" />
+        <mark key="^" line="40" column="9" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Console/DI/config.neon" timestamp="1493113964753">
         <mark key="[" line="4" column="0" />
@@ -4984,6 +4993,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/app/config/extensions/app.neon" timestamp="1506687919176">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="10" column="11" />
+        <mark key="^" line="10" column="11" />
+        <mark key="." line="10" column="11" />
+      </file>
       <file name="/home/www/html/nnb/aktuality/app/config/media.neon" timestamp="1494851826235">
         <mark key="[" line="9" column="10" />
         <mark key="]" line="7" column="0" />
@@ -5286,6 +5301,12 @@
         <mark key="[" line="17" column="57" />
         <mark key="]" line="17" column="57" />
         <mark key="." line="17" column="57" />
+      </file>
+      <file name="/home/www/html/dv/adera/www/js/ares.js" timestamp="1506942813805">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+        <mark key="^" line="9" column="12" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Compiler/Compiler.php" timestamp="1496128438727">
         <mark key="[" line="8" column="0" />
@@ -6050,7 +6071,7 @@ di:
         <text encoding="base64">aHJuY2lyci5mb3JtczoKCWRlZmF1bHRSZW5kZXJlcjogSW5zdGFudGVcQm9vdHN0cmFwM1JlbmRlcmVyXEJvb3RzdHJhcFJlbmRlcmVyICgpCglwcm90ZWN0aW9uOiBUUlVFCgpocm5jaXJyLnBub3RpZnk6CglzdHlsaW5nOiBmb250YXdlc29tZQoJcG9zaXRpb246IHRvcHJpZ2h0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/options/admin/g</text>
+        <text>134</text>
       </register>
     </registers>
     <search>
@@ -6086,7 +6107,6 @@ di:
         <entry>options</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/BaseContainer/FormContainer/g</entry>
         <entry>242</entry>
         <entry>74</entry>
         <entry>53</entry>
@@ -6106,6 +6126,7 @@ di:
         <entry>%s/translatorDomainPrefix/translatorDomain/g</entry>
         <entry>w</entry>
         <entry>%s/options/admin/g</entry>
+        <entry>134</entry>
       </history-cmd>
       <history-expr />
       <history-input />
