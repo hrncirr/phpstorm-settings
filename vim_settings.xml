@@ -1907,10 +1907,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1507104985985">
-        <mark key="[" line="148" column="36" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1507106828955">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="63" />
+        <mark key="^" line="120" column="8" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/src/Url/RouteGenerator.php" timestamp="1505223812148">
         <mark key="[" line="23" column="78" />
@@ -6012,7 +6013,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJJ2NsYXNzJyA9PiAnYnRuIGJ0bi14cyBidG4taW5mbycK</text>
+        <text encoding="base64">CQkkdGVtcGxhdGUtPnJlbmRlcihfX0RJUl9fIC4gJy9BY2Nlc3NSaWdodHNHcmlkLmxhdHRlJyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JGVtcGxveWVlLT5kZXBhcnRtZW50TmFtZSAuICcgJyAu</text>
@@ -6021,39 +6022,34 @@
         <text>mažu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
+        <text encoding="base64">CQkkdGVtcGxhdGUtPnJlbmRlcihfX0RJUl9fIC4gJy9BY2Nlc3NSaWdodHNHcmlkLmxhdHRlJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJJ2NsYXNzJyA9PiAnYnRuIGJ0bi14cyBidG4taW5mbycK</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">LiAnICcgLgoJCQkJCSRlbXBsb3llZS0+cG47</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">cmV0dXJuIGlzc2V0KCRlbXBsb3llZS0+ZW1haWwpID8gSHRtbDo6ZWwoJ2EnLCBbCgkJCQkJJ2hyZWYnID0+ICdtYWlsdG86JyAuICRlbXBsb3llZS0+ZW1haWwKCQkJCV0pLT5zZXRUZXh0KCRlbXBsb3llZS0+ZW1haWwpIDogJyc7</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">LyoKCQkJaWYgKCEkdGhpcy0+cmVxdWlyZW1lbnRzQ2hlY2tlci0+aXNBbGxvd2VkKCRlbGVtZW50KSkgewoJCQkJdGhyb3cgbmV3IEZvcmJpZGRlblJlcXVlc3RFeGNlcHRpb247CgkJCX0KCQkJKi8K</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">CgkJZHVtcCgnb2snKTsKCQlleGl0Ow==</text>
-      </register>
-      <register name="6" type="4">
-        <text>% (row['osc'], row['jmeno'], lastname, degrees['pred'], degrees['po'],
-			telephones[0], telephones[1], telephones[2], row['email'], int(row['oddeleni']),
-			h, dateTime.strftime('%Y-%m-%d %H:%M:%S'))</text>
-      </register>
-      <register name="7" type="4">
-        <text>f row['email'] is not None:
-			email = &quot;'%s'&quot; % row['email']
-		else:
-			email = 'NULL'</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQllbWFpbCA9IHJvd1snZW1haWwnXQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkkdGVtcGxhdGUgPSAkdGhpcy0+Z2V0VGVtcGxhdGUoKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCQkJJ2NsYXNzJyA9PiAnYnRuIGJ0bi14cyBidG4taW5mbycK</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">LiAnICcgLgoJCQkJCSRlbXBsb3llZS0+cG47</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">cmV0dXJuIGlzc2V0KCRlbXBsb3llZS0+ZW1haWwpID8gSHRtbDo6ZWwoJ2EnLCBbCgkJCQkJJ2hyZWYnID0+ICdtYWlsdG86JyAuICRlbXBsb3llZS0+ZW1haWwKCQkJCV0pLT5zZXRUZXh0KCRlbXBsb3llZS0+ZW1haWwpIDogJyc7</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">LyoKCQkJaWYgKCEkdGhpcy0+cmVxdWlyZW1lbnRzQ2hlY2tlci0+aXNBbGxvd2VkKCRlbGVtZW50KSkgewoJCQkJdGhyb3cgbmV3IEZvcmJpZGRlblJlcXVlc3RFeGNlcHRpb247CgkJCX0KCQkJKi8K</text>
       </register>
       <register name=":" type="4">
         <text>356</text>
