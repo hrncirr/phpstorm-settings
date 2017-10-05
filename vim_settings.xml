@@ -1525,8 +1525,10 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/media/src/IFileProvider.php" timestamp="1507125799466">
-        <mark key="[" line="32" column="25" />
+      <file name="/home/www/vendor/hrncirr/media/src/IFileProvider.php" timestamp="1507191574794">
+        <mark key="[" line="18" column="14" />
+        <mark key="]" line="18" column="15" />
+        <mark key="." line="18" column="15" />
       </file>
       <file name="/home/www/html/dv/cms/src/Users/Authorizator.php" timestamp="1491483175362">
         <mark key="[" line="14" column="0" />
@@ -2853,8 +2855,8 @@
         <mark key="]" line="111" column="8" />
         <mark key="." line="111" column="8" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Model/ImageProvider.php" timestamp="1505136634728">
-        <mark key="[" line="15" column="35" />
+      <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Model/ImageProvider.php" timestamp="1507191594765">
+        <mark key="[" line="34" column="44" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
@@ -3766,7 +3768,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507129096684">
+      <file name="/Dummy.txt" timestamp="1507191732227">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
@@ -4077,8 +4079,10 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/media/src/IImageProvider.php" timestamp="1507125586944">
-        <mark key="[" line="6" column="0" />
+      <file name="/home/www/vendor/hrncirr/media/src/IImageProvider.php" timestamp="1507191567483">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="15" />
+        <mark key="." line="18" column="15" />
       </file>
       <file name="/home/www/html/dv/cms/src/Users/User.php" timestamp="1505213465450">
         <mark key="[" line="35" column="49" />
@@ -4822,8 +4826,8 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Storage/ImageStorage.php" timestamp="1502110406770">
-        <mark key="[" line="8" column="0" />
+      <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Storage/ImageStorage.php" timestamp="1507191215221">
+        <mark key="[" line="61" column="38" />
         <mark key="]" line="47" column="8" />
         <mark key="." line="47" column="8" />
       </file>
@@ -6102,10 +6106,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZWxzZWlmICghZW1wdHkoJHRoaXMtPndpZHRoKSAmJiAhZW1wdHkoJHRoaXMtPmhlaWdodCkpIHsKCQkJJG1hc2sgPSAkdGhpcy0+d2lkdGggLiAneCcgLiAkdGhpcy0+aGVpZ2h0OwoJCX0=</text>
+        <text>string|int|null</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYgZW1wdHkoJHRoaXMtPmhlaWdodCk=</text>
+        <text>string|int|null</text>
       </register>
       <register name="/" type="4">
         <text>NULL</text>
