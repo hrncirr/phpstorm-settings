@@ -340,6 +340,12 @@
         <mark key="]" line="88" column="16" />
         <mark key="." line="88" column="16" />
       </file>
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Mapping/Drivers/ElFinderFileConsumerDriver.php" timestamp="1507213897577">
+        <mark key="[" line="170" column="12" />
+        <mark key="]" line="174" column="4" />
+        <mark key="." line="174" column="4" />
+        <mark key="^" line="174" column="4" />
+      </file>
       <file name="/home/www/html/bul/medical_examinations/app/SummaryModule/presenters/RegisterPresenter.php" timestamp="1481881969670">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -417,8 +423,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/media/src/Callbacks/FilePresenterCallback.php" timestamp="1507125428829">
-        <mark key="[" line="44" column="25" />
+      <file name="/home/www/vendor/hrncirr/media/src/Callbacks/FilePresenterCallback.php" timestamp="1507216619583">
+        <mark key="[" line="60" column="8" />
+        <mark key="]" line="60" column="26" />
+        <mark key="." line="60" column="26" />
+        <mark key="^" line="60" column="26" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Files/IFileConversionStorage.php" timestamp="1484656775332">
         <mark key="[" line="40" column="0" />
@@ -2821,9 +2830,9 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/ElFinderFile.php" timestamp="1507215853173">
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/ElFinderFile.php" timestamp="1507216345907">
         <mark key="'" line="450" column="20" />
-        <mark key="[" line="251" column="8" />
+        <mark key="[" line="71" column="12" />
         <mark key="]" line="348" column="6" />
         <mark key="." line="348" column="6" />
         <mark key="^" line="348" column="6" />
@@ -3816,7 +3825,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507216178878">
+      <file name="/Dummy.txt" timestamp="1507216987191">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -3926,10 +3935,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/media/src/Responses/FileResponse.php" timestamp="1507126721864">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="33" column="4" />
-        <mark key="." line="33" column="4" />
+      <file name="/home/www/vendor/hrncirr/media/src/Responses/FileResponse.php" timestamp="1507216901590">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="/home/www/vendor/nnb/application/src/Components/Forms/SignInFormFactory.php" timestamp="1478786487497">
         <mark key="[" line="64" column="8" />
@@ -6173,8 +6182,8 @@
       <jump line="449" column="20" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/ElFinderFile.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>: string</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkvKgo=</text>
       </register>
       <register name="-" type="4">
         <text>: string</text>
@@ -6185,33 +6194,35 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQkvKgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkqLwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJZXhpdDsK</text>
+      </register>
+      <register name="5" type="4">
         <text>dump($file);
 		exit;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+      <register name="6" type="4">
+        <text>dump('ok');
+		exit;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJGZpbGUpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJGtleSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJGZpbGUpOwo=</text>
+      <register name="7" type="4">
+        <text>dump($file);
+		exit;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQG1ldGhvZCBvbkFuY2hvcigpCg==</text>
+        <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>314</text>
