@@ -1056,12 +1056,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" timestamp="1507215697818">
-        <mark key="'" line="157" column="70" />
-        <mark key="[" line="313" column="61" />
-        <mark key="]" line="306" column="28" />
-        <mark key="." line="306" column="28" />
-        <mark key="^" line="306" column="28" />
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" timestamp="1507285854461">
+        <mark key="'" line="209" column="62" />
+        <mark key="[" line="576" column="52" />
+        <mark key="]" line="577" column="61" />
+        <mark key="." line="577" column="61" />
+        <mark key="^" line="577" column="61" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/router/TreeIconRouterFactory.php" timestamp="1480338116491">
         <mark key="[" line="45" column="12" />
@@ -1647,7 +1647,7 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1507285102324">
+      <file name="/PHP Console" timestamp="1507288584617">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Page/AdminModule/Presenters/PagesPresenter.php" timestamp="1506523039918">
@@ -3505,8 +3505,8 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/client-side.neon" timestamp="1478256988232">
-        <mark key="[" line="7" column="0" />
+      <file name="/home/www/vendor/hrncirr/elfinder/client-side.neon" timestamp="1507286336052">
+        <mark key="[" line="18" column="9" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
@@ -3835,7 +3835,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507285199075">
+      <file name="/Dummy.txt" timestamp="1507285364678">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -4495,6 +4495,12 @@
         <mark key="[" line="22" column="35" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="/home/www/vendor/hrncirr/elfinder/client-side/css/theme.css" timestamp="1507288777393">
+        <mark key="'" line="43" column="44" />
+        <mark key="[" line="841" column="0" />
+        <mark key="]" line="837" column="0" />
+        <mark key="." line="837" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/VersionsControl/VersionsControl.php" timestamp="1499849091818">
         <mark key="[" line="14" column="2" />
@@ -6095,10 +6101,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="262" column="40" filename="/home/www/html/dv/adera/libs/vendor/kdyby/doctrine-magic-accessors/src/MagicAccessors.php" />
-      <jump line="71" column="77" filename="/home/www/html/dv/adera/libs/vendor/kdyby/doctrine-magic-accessors/src/MagicAccessors.php" />
-      <jump line="165" column="80" filename="/home/www/html/dv/adera/libs/vendor/kdyby/doctrine-magic-accessors/src/MagicAccessors.php" />
-      <jump line="19" column="30" filename="/home/www/html/dv/adera/src/Admin/AdminModule/Presenters/templates/Settings/default.latte" />
       <jump line="355" column="14" filename="/home/www/html/bul/medical_examinations/bin/import" />
       <jump line="18" column="42" filename="/home/www/html/bul/medical_examinations/bin/import" />
       <jump line="129" column="50" filename="/home/www/html/bul/medical_examinations/bin/import" />
@@ -6195,58 +6197,65 @@
       <jump line="1614" column="39" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="1615" column="39" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="13" column="15" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="39" column="10" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
+      <jump line="209" column="62" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
+      <jump line="32" column="14" filename="/home/www/vendor/hrncirr/elfinder/client-side/css/theme.css" />
+      <jump line="43" column="44" filename="/home/www/vendor/hrncirr/elfinder/client-side/css/theme.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IG5vbmUK</text>
       </register>
       <register name="-" type="4">
         <text>dump('aaaa');</text>
       </register>
       <register name="/" type="4">
-        <text>drag</text>
+        <text>icon-undo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IG5vbmUK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+      <register name="2" type="4">
+        <text>.elfinder-button-icon-empty {
+    background: url(../img/libre-close.svg);
+    display: none
+}</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CQl9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJfQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CQkJaWYgKCFlbXB0eSgkZXhpZlsnT3JpZW50YXRpb24nXSkpIHsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>dump($volume);
 		exit;</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>dump($opts);
 		exit;</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">JGNvbnRyb2wtPnNldENsaWVudE9wdGlvbnMoWwoJCQknZHJhZ1VwbG9hZEFsbG93JyA9PiB0cnVlCgkJXSk7</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>dump($file);
 		exit;</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>142</text>
       </register>
     </registers>
     <search>
-      <last-search>drag</last-search>
+      <last-search>icon-undo</last-search>
       <last-offset />
-      <last-pattern>drag</last-pattern>
+      <last-pattern>icon-undo</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -6254,13 +6263,6 @@
     </search>
     <history>
       <history-search>
-        <entry>adminMenu</entry>
-        <entry>fakePath</entry>
-        <entry>remove</entry>
-        <entry>options</entry>
-        <entry>updateEmployees</entry>
-        <entry>INSERT</entry>
-        <entry>%d</entry>
         <entry>None</entry>
         <entry>execute</entry>
         <entry>mažu</entry>
@@ -6274,6 +6276,13 @@
         <entry>upload</entry>
         <entry>drop</entry>
         <entry>drag</entry>
+        <entry encoding="base64">TUFYX0lNUE9SVF9ESVJFQ1RPUklFUyA=</entry>
+        <entry>path</entry>
+        <entry>icon</entry>
+        <entry>icon-button</entry>
+        <entry>icon-rm</entry>
+        <entry>icon-redo</entry>
+        <entry>icon-undo</entry>
       </history-search>
       <history-cmd>
         <entry>%s/currencyFormat/formatCurrency/g</entry>
