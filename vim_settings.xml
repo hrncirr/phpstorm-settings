@@ -3036,8 +3036,10 @@
       <file name="/home/www/html/dv/adera/src/Admin/AdminModule/Components/ExtensionsGrid/IExtensionsGridFactory.php" timestamp="1507013905979">
         <mark key="[" line="11" column="49" />
       </file>
-      <file name="/home/www/html/bul/medical_examinations/app/config/config.local.neon" timestamp="1507298215761">
-        <mark key="[" line="11" column="42" />
+      <file name="/home/www/html/bul/medical_examinations/app/config/config.local.neon" timestamp="1507535292164">
+        <mark key="[" line="38" column="8" />
+        <mark key="]" line="38" column="8" />
+        <mark key="." line="38" column="8" />
       </file>
       <file name="/home/www/vendor/hrncirr/history/src/Model/HistoryItem.php" timestamp="1476429176558">
         <mark key="[" line="38" column="4" />
@@ -3360,6 +3362,9 @@
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="/home/www/html/bul/medical_examinations/app/SummaryModule/presenters/BasePresenter.php" timestamp="1507535508357">
+        <mark key="[" line="31" column="60" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Presenters/OffersPresenter.php" timestamp="1506951883821">
         <mark key="[" line="27" column="4" />
@@ -5763,6 +5768,9 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" timestamp="1507535952582">
+        <mark key="[" line="410" column="8" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/DI/AddressBookExtension.php" timestamp="1506343082324">
         <mark key="[" line="68" column="121" />
         <mark key="]" line="75" column="48" />
@@ -6170,7 +6178,8 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>: string</text>
+        <text>'every Wednesday': 1
+		'03.02' : 2</text>
       </register>
       <register name="-" type="4">
         <text>: string</text>
@@ -6182,31 +6191,45 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">JHJlcyA9ICR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShFbEZpbmRlckZpbGU6OmNsYXNzKQoJCQktPmNyZWF0ZVF1ZXJ5QnVpbGRlcignZScpCgkJCS0+c2VsZWN0KCdlLCBmJykKCQkJLT5pbm5lckpvaW4oJ2UuZmlsZScsICdmJykKCQkJLT53aGVyZSgnZS5wYXRoID0gOnBhdGgnKQoJCQktPnNldFBhcmFtZXRlcigncGF0aCcsICRzbHVnKQoJCQktPmdldFF1ZXJ5KCkKCQkJLT51c2VRdWVyeUNhY2hlKHRydWUpCgkJCS0+dXNlUmVzdWx0Q2FjaGUodHJ1ZSkKCQkJLT5nZXRPbmVPck51bGxSZXN1bHQoKTsKCgkJaWYgKCEkcmVzKSB7CgkJCXJldHVybiBudWxsOwoJCX0=</text>
+        <text>'every Wednesday': 1
+		'03.02' : 2</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">JGNvbnRyb2wtPnNldENsaWVudE9wdGlvbnMoWwoJCQkJJ3VpJyA9PiBbJ3Rvb2xiYXInLCAncGF0aCcsICdzdGF0J10KCQkJXSk7</text>
+        <text>'2016-12-23': '*',
+		'2016-12-30': '*',
+		'every Monday': '07:00-12:00,20',
+		'every Tuesday': '*',
+		'every Wednesday': '14:30-15:00,20',
+		'every Thursday': '07:00-12:00,20',
+		'every Friday': '*',
+		'2017-11-10': '*',
+		'2017-11-24': '*',
+		'2017-12-01': '*',
+		'2017-12-08': '*',
+		'2017-12-15': '*',
+		'2017-12-22': '*',
+		'2017-12-29': '*'</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">JHJlcyA9ICR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShFbEZpbmRlckZpbGU6OmNsYXNzKQoJCQktPmNyZWF0ZVF1ZXJ5QnVpbGRlcignZScpCgkJCS0+c2VsZWN0KCdlLCBmJykKCQkJLT5pbm5lckpvaW4oJ2UuZmlsZScsICdmJykKCQkJLT53aGVyZSgnZS5wYXRoID0gOnBhdGgnKQoJCQktPnNldFBhcmFtZXRlcigncGF0aCcsICRzbHVnKQoJCQktPmdldFF1ZXJ5KCkKCQkJLT51c2VRdWVyeUNhY2hlKHRydWUpCgkJCS0+dXNlUmVzdWx0Q2FjaGUodHJ1ZSkKCQkJLT5nZXRPbmVPck51bGxSZXN1bHQoKTsKCgkJaWYgKCEkcmVzKSB7CgkJCXJldHVybiBudWxsOwoJCX0=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">JGNvbnRyb2wtPnNldENsaWVudE9wdGlvbnMoWwoJCQkJJ3VpJyA9PiBbJ3Rvb2xiYXInLCAncGF0aCcsICdzdGF0J10KCQkJXSk7</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">JGNvbnRyb2wtPnNldENsaWVudE9wdGlvbnMoWwoJCQkndWknID0+IFsndG9vbGJhcicsICdwYXRoJywgJ3N0YXQnXQoJCV0pOw==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQktIC4vY2xpZW50LXNpZGUvY3NzL3RoZW1lLmNzcwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQktIC4vY2xpZW50LXNpZGUvY3NzL3RoZW1lLmNzcwo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvLyBjdXJyZW50IGRpcmVjdG9yeSBmaWxlIG1lbnUK</text>
+        <text encoding="base64">CQktIC4vY2xpZW50LXNpZGUvY3NzL3RoZW1lLmNzcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkvLyBjdXJyZW50IGRpcmVjdG9yeSBtZW51Cg==</text>
+        <text encoding="base64">CQktIC4vY2xpZW50LXNpZGUvY3NzL3RoZW1lLmNzcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkvLyBuYXZiYXJmb2xkZXIgbWVudQo=</text>
+        <text encoding="base64">CQkvLyBjdXJyZW50IGRpcmVjdG9yeSBmaWxlIG1lbnUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCV0K</text>
+        <text encoding="base64">CQkvLyBjdXJyZW50IGRpcmVjdG9yeSBtZW51Cg==</text>
       </register>
       <register name=":" type="4">
         <text>142</text>
