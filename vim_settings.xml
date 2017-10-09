@@ -1833,6 +1833,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/home/www/html/bul/vendor/hrncirr/items-locker/src/ItemsLocker.php" timestamp="1507545161986">
+        <mark key="[" line="216" column="18" />
+        <mark key="]" line="216" column="21" />
+        <mark key="." line="216" column="21" />
+        <mark key="^" line="216" column="21" />
+      </file>
       <file name="/home/www/html/dv/cms/Modules/AddressBook/Presenters/SubjectsPresenter.php" timestamp="1497614764559">
         <mark key="[" line="31" column="62" />
         <mark key="]" line="12" column="0" />
@@ -3036,10 +3042,10 @@
       <file name="/home/www/html/dv/adera/src/Admin/AdminModule/Components/ExtensionsGrid/IExtensionsGridFactory.php" timestamp="1507013905979">
         <mark key="[" line="11" column="49" />
       </file>
-      <file name="/home/www/html/bul/medical_examinations/app/config/config.local.neon" timestamp="1507538836007">
-        <mark key="[" line="27" column="32" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="/home/www/html/bul/medical_examinations/app/config/config.local.neon" timestamp="1507547624071">
+        <mark key="[" line="31" column="8" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/history/src/Model/HistoryItem.php" timestamp="1476429176558">
         <mark key="[" line="38" column="4" />
@@ -3363,8 +3369,8 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/home/www/html/bul/medical_examinations/app/SummaryModule/presenters/BasePresenter.php" timestamp="1507535508357">
-        <mark key="[" line="31" column="60" />
+      <file name="/home/www/html/bul/medical_examinations/app/SummaryModule/presenters/BasePresenter.php" timestamp="1507547636647">
+        <mark key="[" line="35" column="50" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Presenters/OffersPresenter.php" timestamp="1506951883821">
         <mark key="[" line="27" column="4" />
@@ -3563,6 +3569,12 @@
         <mark key="[" line="123" column="8" />
         <mark key="]" line="123" column="8" />
         <mark key="." line="123" column="8" />
+      </file>
+      <file name="/home/www/html/bul/medical_examinations/libs/App/LockLimiter.php" timestamp="1507547658046">
+        <mark key="[" line="68" column="51" />
+        <mark key="]" line="69" column="16" />
+        <mark key="." line="69" column="16" />
+        <mark key="^" line="64" column="20" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemGroupForm/ItemGroupForm.php" timestamp="1506944949148">
         <mark key="[" line="52" column="4" />
@@ -3830,7 +3842,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507297755218">
+      <file name="/Dummy.txt" timestamp="1507547733253">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -5768,11 +5780,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" timestamp="1507539154622">
-        <mark key="'" line="319" column="31" />
-        <mark key="[" line="349" column="0" />
-        <mark key="]" line="349" column="0" />
-        <mark key="." line="349" column="0" />
+      <file name="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" timestamp="1507546161465">
+        <mark key="'" line="530" column="32" />
+        <mark key="[" line="359" column="0" />
+        <mark key="]" line="360" column="0" />
+        <mark key="." line="360" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/DI/AddressBookExtension.php" timestamp="1506343082324">
         <mark key="[" line="68" column="121" />
@@ -6078,16 +6090,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="19" filename="/home/www/html/bul/phonebook/bin/import" />
-      <jump line="129" column="23" filename="/home/www/html/bul/phonebook/bin/import" />
-      <jump line="132" column="19" filename="/home/www/html/bul/phonebook/bin/import" />
-      <jump line="149" column="14" filename="/home/www/html/bul/phonebook/bin/import" />
-      <jump line="178" column="0" filename="/home/www/html/bul/phonebook/bin/import" />
-      <jump line="197" column="23" filename="/home/www/html/bul/phonebook/bin/import" />
-      <jump line="214" column="19" filename="/home/www/html/bul/phonebook/bin/import" />
-      <jump line="228" column="23" filename="/home/www/html/bul/phonebook/bin/import" />
-      <jump line="231" column="19" filename="/home/www/html/bul/phonebook/bin/import" />
-      <jump line="76" column="14" filename="/home/www/html/bul/phonebook/bin/import" />
       <jump line="101" column="23" filename="/home/www/html/bul/phonebook/bin/import" />
       <jump line="339" column="32" filename="/home/www/html/bul/medical_examinations/bin/import" />
       <jump line="132" column="15" filename="/home/www/html/bul/medical_examinations/bin/import" />
@@ -6164,7 +6166,6 @@
       <jump line="581" column="29" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
       <jump line="110" column="27" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
       <jump line="146" column="26" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
-      <jump line="160" column="46" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
       <jump line="179" column="33" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
       <jump line="200" column="20" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
       <jump line="339" column="31" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
@@ -6178,56 +6179,73 @@
       <jump line="101" column="34" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
       <jump line="124" column="42" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
       <jump line="319" column="31" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
+      <jump line="354" column="18" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
+      <jump line="160" column="15" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
+      <jump line="352" column="16" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
+      <jump line="447" column="48" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
+      <jump line="59" column="13" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
+      <jump line="375" column="28" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
+      <jump line="531" column="32" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
+      <jump line="372" column="31" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
+      <jump line="359" column="49" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
+      <jump line="361" column="47" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
+      <jump line="532" column="32" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJGJsb2NrKTsK</text>
+      <register name="&quot;" type="4">
+        <text>dump($end);
+				exit;</text>
       </register>
       <register name="-" type="4">
-        <text>, $period</text>
+        <text>// . ' 00:00:00'));</text>
       </register>
       <register name="/" type="4">
-        <text>parseBlo</text>
+        <text>isLocked</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJGJsb2NrKTsK</text>
+      <register name="1" type="4">
+        <text>dump($end);
+				exit;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCQlkdW1wKCRrZXkpOwo=</text>
+      <register name="2" type="4">
+        <text>DateTime::from(strtotime(date('Y') . '-' . (int)$params['endMonth'] . '-' .
+						(int)$params['endDay'] . ' 23:59:59'));</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkjJzIwMTctMTAtMjcnOiAnMTQ6MzAtMTU6MDAsMjAnLAo=</text>
+      <register name="3" type="4">
+        <text>dump($start);
+				exit;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkjJzIwMTctMTAtMjAnOiAnMTQ6MzAtMTU6MDAsMjAnLAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICctJyAuCgkJCQkJKGludCkkcGFyYW1zWydiZWdpbkRheSddIC4=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkjJzIwMTctMTAtMTMnOiAnMTQ6MzAtMTU6MDAsMjAnLAo=</text>
+      <register name="5" type="4">
+        <text>/**
+ * This file is part of the mamo
+ * Copyright (c) 2014 Roman Hrnčíř
+ */</text>
       </register>
-      <register name="6" type="4">
-        <text>//dump($blockedHours);
-		//exit;</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQknMTIuMTAnOiAxLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkqLwo=</text>
+        <text encoding="base64">CQkJCQkvL2R1bXAoJHRoaXMtPml0ZW1zTG9ja2VyLT5pc0xvY2tlZCgoc3RyaW5nKSBEYXRlVGltZTo6ZnJvbShzdHJ0b3RpbWUoIiRkYXRlICRob3VyOjAwIikpKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkvKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJZHVtcCgkaG91cik7Cg==</text>
+        <text encoding="base64">CQkJCQkvL2R1bXAoJHRoaXMtPml0ZW1zTG9ja2VyLT5pc0xvY2tlZCgoc3RyaW5nKSBEYXRlVGltZTo6ZnJvbShzdHJ0b3RpbWUoIiRkYXRlICRob3VyOjAwIikpLCB0cnVlKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>parseBlo</last-search>
+      <last-search>isLocked</last-search>
       <last-offset />
-      <last-pattern>parseBlo</last-pattern>
+      <last-pattern>isLocked</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -6235,10 +6253,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getStorage</entry>
-        <entry>_upload</entry>
-        <entry>upload</entry>
-        <entry>drop</entry>
         <entry>drag</entry>
         <entry encoding="base64">TUFYX0lNUE9SVF9ESVJFQ1RPUklFUyA=</entry>
         <entry>path</entry>
@@ -6255,6 +6269,10 @@
         <entry>parse</entry>
         <entry>parseHours</entry>
         <entry>parseBlo</entry>
+        <entry>dump</entry>
+        <entry>blocked</entry>
+        <entry>lockLimit</entry>
+        <entry>isLocked</entry>
       </history-search>
       <history-cmd>
         <entry>%s/currencyFormat/formatCurrency/g</entry>
