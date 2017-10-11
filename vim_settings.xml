@@ -1315,10 +1315,10 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Inquiry.php" timestamp="1507551685200">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Inquiry.php" timestamp="1507708741022">
+        <mark key="[" line="108" column="7" />
+        <mark key="]" line="108" column="7" />
+        <mark key="." line="108" column="7" />
       </file>
       <file name="/home/www/vendor/hrncirr/control-token/src/ControlToken.php" timestamp="1474463484944">
         <mark key="[" line="42" column="20" />
@@ -2130,10 +2130,10 @@
       <file name="/home/www/vendor/hrncirr/media/src/Exceptions/InvalidStateException.php" timestamp="1507127123246">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Offer.php" timestamp="1507551730731">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Offer.php" timestamp="1507708815527">
+        <mark key="[" line="108" column="63" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMediaTemp.php" timestamp="1507214822374">
         <mark key="[" line="8" column="0" />
@@ -2277,10 +2277,10 @@
       <file name="/home/www/vendor/hrncirr/elfinder/composer.json" timestamp="1507212987813">
         <mark key="[" line="16" column="14" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Order.php" timestamp="1507551757924">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Order.php" timestamp="1507708648153">
+        <mark key="[" line="107" column="4" />
+        <mark key="]" line="107" column="4" />
+        <mark key="." line="107" column="4" />
       </file>
       <file name="/home/www/html/bul/medical_examinations/app/components/SignInForm/SignInForm.latte" timestamp="1481295245313">
         <mark key="[" line="19" column="4" />
@@ -6172,11 +6172,11 @@
       <jump line="532" column="32" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEludm9pY2luZ1xJRG9jdW1lbnROdW1iZXI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>@ORM\JoinColumn(name=&quot;invoice_id&quot;, referencedColumnName=&quot;id&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>IDocumentNumber</text>
+        <text>@ORM\JoinColumn(name=&quot;invoice_id&quot;, referencedColumnName=&quot;id&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>isLocked</text>
@@ -6184,35 +6184,37 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dXNlIEludm9pY2luZ1xJRG9jdW1lbnROdW1iZXI7Cg==</text>
+      <register name="1" type="4">
+        <text>/**
+     * @ORM\OneToOne(targetEntity=&quot;Order&quot;)
+     * @ORM\JoinColumn(name=&quot;order_id&quot;, referencedColumnName=&quot;id&quot;)
+     */
+    protected $order;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXVzZSBURG9jdW1lbnROdW1iZXI7Cg==</text>
+        <text encoding="base64">ICAgICAqIEBPUk1cSm9pbkNvbHVtbihuYW1lPSJvZmZlcl9pZCIsIHJlZmVyZW5jZWRDb2x1bW5OYW1lPSJpZCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXVzZSBURG9jdW1lbnROdW1iZXI7Cg==</text>
+        <text encoding="base64">ICAgICAqIE9uZSBQcm9kdWN0IGhhcyBPbmUgU2hpcG1lbnQuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXVzZSBURG9jdW1lbnROdW1iZXI7Cg==</text>
+        <text encoding="base64">dXNlIEludm9pY2luZ1xJRG9jdW1lbnROdW1iZXI7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">CXVzZSBURG9jdW1lbnROdW1iZXI7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>dump($end);
-				exit;</text>
+      <register name="6" type="2">
+        <text encoding="base64">CXVzZSBURG9jdW1lbnROdW1iZXI7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>DateTime::from(strtotime(date('Y') . '-' . (int)$params['endMonth'] . '-' .
-						(int)$params['endDay'] . ' 23:59:59'));</text>
+      <register name="7" type="2">
+        <text encoding="base64">CXVzZSBURG9jdW1lbnROdW1iZXI7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>dump($start);
-				exit;</text>
+      <register name="8" type="2">
+        <text encoding="base64">CXVzZSBURG9jdW1lbnROdW1iZXI7Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICctJyAuCgkJCQkJKGludCkkcGFyYW1zWydiZWdpbkRheSddIC4=</text>
+        <text>dump($end);
+				exit;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
