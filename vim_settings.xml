@@ -640,10 +640,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/BaseDocument.php" timestamp="1507726782805">
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/BaseDocument.php" timestamp="1507727899909">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/doctrine/composer.json" timestamp="1491565585814">
         <mark key="[" line="15" column="8" />
@@ -4236,11 +4236,11 @@
         <mark key="]" line="19" column="4" />
         <mark key="." line="19" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InquiriesGrid/InquiriesGrid.php" timestamp="1507725290668">
-        <mark key="[" line="67" column="54" />
-        <mark key="]" line="170" column="82" />
-        <mark key="." line="170" column="82" />
-        <mark key="^" line="170" column="64" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InquiriesGrid/InquiriesGrid.php" timestamp="1507727958169">
+        <mark key="[" line="67" column="8" />
+        <mark key="]" line="173" column="82" />
+        <mark key="." line="173" column="82" />
+        <mark key="^" line="173" column="64" />
       </file>
       <file name="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/IToManyContainer.php" timestamp="1501742026442">
         <mark key="[" line="26" column="0" />
@@ -5992,10 +5992,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkkZnJvbU1ldGFkYXRhID0gJGVtLT5nZXRDbGFzc01ldGFkYXRhKGdldF9jbGFzcygkZnJvbURvY3VtZW50KSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>$class = static::class;</text>
+        <text>$className = static::class;</text>
       </register>
       <register name="/" type="4">
         <text>inquiry</text>
@@ -6004,31 +6004,32 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkkZnJvbU1ldGFkYXRhID0gJGVtLT5nZXRDbGFzc01ldGFkYXRhKGdldF9jbGFzcygkZnJvbURvY3VtZW50KSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+        <text encoding="base64">CQkkdG9NZXRhZGF0YSA9ICRlbS0+Z2V0Q2xhc3NNZXRhZGF0YSgkY2xhc3NOYW1lKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XFByb3BlcnR5QWNjZXNzXFByb3BlcnR5QWNjZXNzOwo=</text>
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ZHVtcCgkZnJvbU1ldGFkYXRhLT5nZXROYW1lKCkpOwoJCWV4aXQ7CgoJCWV4aXQ7CgoJCSRhY2Nlc3NvciA9IFByb3BlcnR5QWNjZXNzOjpjcmVhdGVQcm9wZXJ0eUFjY2Vzc29yQnVpbGRlcigpCgkJCQktPmVuYWJsZU1hZ2ljQ2FsbCgpLT5nZXRQcm9wZXJ0eUFjY2Vzc29yKCk7CgoJCSRmcm9tUmVmbGVjdGlvbiA9IG5ldyBcUmVmbGVjdGlvbk9iamVjdCgkZnJvbURvY3VtZW50KTsKCQkkdG9SZWZsZWN0aW9uID0gbmV3IFxSZWZsZWN0aW9uT2JqZWN0KCR0b0RvY3VtZW50KTsKCgkJZm9yZWFjaCAoJGZyb21SZWZsZWN0aW9uLT5nZXRQcm9wZXJ0aWVzKCkgYXMgJHByb3BlcnR5KSB7CgkJCWlmIChpbl9hcnJheSgkcHJvcGVydHktPmdldE5hbWUoKSwgJHNraXBwZWRQcm9wZXJ0aWVzLHRydWUpKSB7CgkJCQljb250aW51ZTsKCQkJfQoKCQkJaWYgKCR0b1JlZmxlY3Rpb24tPmhhc1Byb3BlcnR5KCRwcm9wZXJ0eS0+Z2V0TmFtZSgpKSkgewoJCQkJJGFjY2Vzc29yLT5zZXRWYWx1ZSgkdG9Eb2N1bWVudCwgICRwcm9wZXJ0eS0+Z2V0TmFtZSgpLAoJCQkJCSRhY2Nlc3Nvci0+Z2V0VmFsdWUoJGZyb21Eb2N1bWVudCwgJHByb3BlcnR5LT5nZXROYW1lKCkpKTsKCQkJfQoJCX0KCgkJJGFjY2Vzc29yLT5zZXRWYWx1ZSgkZnJvbURvY3VtZW50LCBzdHJ0b2xvd2VyKCR0b1JlZmxlY3Rpb24tPmdldFNob3J0TmFtZSgpKSwgJHRvRG9jdW1lbnQpOwoJCSRhY2Nlc3Nvci0+c2V0VmFsdWUoJHRvRG9jdW1lbnQsIHN0cnRvbG93ZXIoJGZyb21SZWZsZWN0aW9uLT5nZXRTaG9ydE5hbWUoKSksICRmcm9tRG9jdW1lbnQpOwoKCQkvL2R1bXAoJG5ld1Byb3BlcnR5KTsKCQkvL2R1bXAoJGZyb21SZWZsZWN0aW9uLT5nZXRTaG9ydE5hbWUoKSk7CgkJLy9kdW1wKGdldF9jbGFzcygkZnJvbURvY3VtZW50KSk7CgkJLy9kdW1wKCRjbGFzcyk7</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJZXhpdDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZHVtcCgkZmllbGROYW1lKTsK</text>
+        <text encoding="base64">CQkJZHVtcCgnYWFhJyk7Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ZHVtcCgkZnJvbU1ldGFkYXRhLT5nZXROYW1lKCkpOwoJCWV4aXQ7</text>
+        <text>$className = static::class;
+		$toDocument = new $className;</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">JHRvTWV0YWRhdGEtPnNldEZpZWxkVmFsdWUoJHRvRG9jdW1lbnQsIHN0cnRvbG93ZXIoKG5ldyBcUmVmbGVjdGlvbkNsYXNzKCR0b0RvY3VtZW50KSktPmdldFNob3J0TmFtZSgpKSwgCgkJCSR0b0RvY3VtZW50KTs=</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkkY2xhc3NOYW1lID0gc3RhdGljOjpjbGFzczsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZHVtcCgkZnJvbU1ldGFkYXRhLT5nZXRGaWVsZE5hbWVzKCkpOwoJCWR1bXAoJHRvTWV0YWRhdGEtPmdldEZpZWxkTmFtZXMoKSk7</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkkY2xhc3NOYW1lID0gc3RhdGljOjpjbGFzczsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIERvY3RyaW5lXE9STVxFbnRpdHlNYW5hZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
