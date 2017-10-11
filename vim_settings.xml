@@ -3700,7 +3700,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507726969743">
+      <file name="/Dummy.txt" timestamp="1507730397595">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -4236,11 +4236,10 @@
         <mark key="]" line="19" column="4" />
         <mark key="." line="19" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InquiriesGrid/InquiriesGrid.php" timestamp="1507727958169">
-        <mark key="[" line="67" column="8" />
-        <mark key="]" line="173" column="82" />
-        <mark key="." line="173" column="82" />
-        <mark key="^" line="173" column="64" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InquiriesGrid/InquiriesGrid.php" timestamp="1507730382893">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/IToManyContainer.php" timestamp="1501742026442">
         <mark key="[" line="26" column="0" />
@@ -5992,7 +5991,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkkZnJvbU1ldGFkYXRhID0gJGVtLT5nZXRDbGFzc01ldGFkYXRhKGdldF9jbGFzcygkZnJvbURvY3VtZW50KSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>$className = static::class;</text>
@@ -6004,32 +6003,32 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkkZnJvbU1ldGFkYXRhID0gJGVtLT5nZXRDbGFzc01ldGFkYXRhKGdldF9jbGFzcygkZnJvbURvY3VtZW50KSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkkdG9NZXRhZGF0YSA9ICRlbS0+Z2V0Q2xhc3NNZXRhZGF0YSgkY2xhc3NOYW1lKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJZXhpdDsK</text>
+        <text encoding="base64">CQlkdW1wKCRjbGFzc05hbWUpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJZHVtcCgnYWFhJyk7Cg==</text>
+      <register name="5" type="4">
+        <text>dump($name);
+		exit;</text>
       </register>
-      <register name="6" type="4">
-        <text>$className = static::class;
-		$toDocument = new $className;</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkkZnJvbU1ldGFkYXRhID0gJGVtLT5nZXRDbGFzc01ldGFkYXRhKGdldF9jbGFzcygkZnJvbURvY3VtZW50KSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkkY2xhc3NOYW1lID0gc3RhdGljOjpjbGFzczsK</text>
+        <text encoding="base64">CQkkdG9NZXRhZGF0YSA9ICRlbS0+Z2V0Q2xhc3NNZXRhZGF0YSgkY2xhc3NOYW1lKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkkY2xhc3NOYW1lID0gc3RhdGljOjpjbGFzczsK</text>
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZXhpdDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
