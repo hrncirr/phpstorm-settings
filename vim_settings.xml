@@ -657,10 +657,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/BaseDocument.php" timestamp="1507716098613">
-        <mark key="[" line="49" column="4" />
-        <mark key="]" line="49" column="4" />
-        <mark key="." line="49" column="4" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/BaseDocument.php" timestamp="1507717750025">
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="42" column="33" />
+        <mark key="." line="42" column="33" />
+        <mark key="^" line="42" column="33" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/doctrine/composer.json" timestamp="1491565585814">
         <mark key="[" line="15" column="8" />
@@ -1317,10 +1318,10 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Inquiry.php" timestamp="1507716072017">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Inquiry.php" timestamp="1507717154127">
+        <mark key="[" line="53" column="4" />
+        <mark key="]" line="53" column="4" />
+        <mark key="." line="53" column="4" />
       </file>
       <file name="/home/www/vendor/hrncirr/control-token/src/ControlToken.php" timestamp="1474463484944">
         <mark key="[" line="42" column="20" />
@@ -2132,7 +2133,11 @@
       <file name="/home/www/vendor/hrncirr/media/src/Exceptions/InvalidStateException.php" timestamp="1507127123246">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Offer.php" timestamp="1507716136726" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Offer.php" timestamp="1507716892724">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="4" />
+        <mark key="." line="57" column="4" />
+      </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMediaTemp.php" timestamp="1507214822374">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="64" column="33" />
@@ -2275,10 +2280,10 @@
       <file name="/home/www/vendor/hrncirr/elfinder/composer.json" timestamp="1507212987813">
         <mark key="[" line="16" column="14" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Order.php" timestamp="1507716155442">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Order.php" timestamp="1507716898371">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="4" />
+        <mark key="." line="55" column="4" />
       </file>
       <file name="/home/www/html/bul/medical_examinations/app/components/SignInForm/SignInForm.latte" timestamp="1481295245313">
         <mark key="[" line="19" column="4" />
@@ -2677,10 +2682,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/TIntervention.php" timestamp="1506426457810">
-        <mark key="[" line="20" column="36" />
-        <mark key="]" line="33" column="24" />
-        <mark key="." line="33" column="24" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/TIntervention.php" timestamp="1507716828807">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/history/src/Components/HistoryControl/templates/SideBySide.latte" timestamp="1476880380290">
         <mark key="[" line="0" column="0" />
@@ -3241,10 +3246,10 @@
         <mark key="]" line="60" column="8" />
         <mark key="." line="60" column="8" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Invoice.php" timestamp="1507716124670">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Invoice.php" timestamp="1507716885771">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="4" />
+        <mark key="." line="64" column="4" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Model/Orm/States/StatesRepository.php" timestamp="1502108886667">
         <mark key="[" line="12" column="0" />
@@ -6174,8 +6179,13 @@
       <jump line="125" column="63" filename="/home/www/html/dv/adera/libs/vendor/ublaboo/datagrid/src/Column/Action.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJjbXNcRmlsZVxFbEZpbmRlckZpbGU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/**
+	 * @ORM\Column(type=&quot;date&quot;, name=&quot;inquiryDate&quot;)
+	 * @Assert\NotBlank()
+	 * @var \DateTime
+	 */
+	protected $date;</text>
       </register>
       <register name="-" type="4">
         <text>use Hrncirr\ElFinder\Doctrine\Mapping\Annotations\ElFinderFileDirectoryRoot;</text>
@@ -6186,50 +6196,62 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJjbXNcRmlsZVxFbEZpbmRlckZpbGU7Cg==</text>
+      <register name="1" type="4">
+        <text>/**
+	 * @ORM\Column(type=&quot;date&quot;, name=&quot;inquiryDate&quot;)
+	 * @Assert\NotBlank()
+	 * @var \DateTime
+	 */
+	protected $date;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJcRWxGaW5kZXJcRG9jdHJpbmVcTWFwcGluZ1xBbm5vdGF0aW9uc1xFbEZpbmRlckZpbGVEaXJlY3RvcnlSb290Owo=</text>
+      <register name="2" type="4">
+        <text>/**
+	 * @ORM\Column(type=&quot;date&quot;, name=&quot;inquiryDate&quot;)
+	 * @Assert\NotBlank()
+	 * @var \DateTime
+	 */
+	protected $date;</text>
       </register>
       <register name="3" type="4">
         <text>/**
-	 * @ORM\ManyToOne(targetEntity=&quot;Hrncirrcms\File\ElFinderFile&quot;)
-	 * @ORM\JoinColumn(name=&quot;elfinder_file_id&quot;, referencedColumnName=&quot;id&quot;)
-	 * @ElFinderFileDirectoryRoot()
-	 * @var ElFinderFile
+	 * @ORM\Column(type=&quot;date&quot;, name=&quot;invoiceDate&quot;)
+	 * @Assert\NotBlank()
+	 * @var \DateTime
 	 */
-	protected $fileRoot;</text>
+	protected $date;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJjbXNcRmlsZVxFbEZpbmRlckZpbGU7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJcRWxGaW5kZXJcRG9jdHJpbmVcTWFwcGluZ1xBbm5vdGF0aW9uc1xFbEZpbmRlckZpbGVEaXJlY3RvcnlSb290Owo=</text>
-      </register>
-      <register name="6" type="4">
+      <register name="4" type="4">
         <text>/**
-	 * @ORM\ManyToOne(targetEntity=&quot;Hrncirrcms\File\ElFinderFile&quot;)
-	 * @ORM\JoinColumn(name=&quot;elfinder_file_id&quot;, referencedColumnName=&quot;id&quot;)
-	 * @ElFinderFileDirectoryRoot()
-	 * @var ElFinderFile
+	 * @ORM\Column(type=&quot;date&quot;, name=&quot;inquiryDate&quot;)
+	 * @Assert\NotBlank()
+	 * @var \DateTime
 	 */
-	protected $fileRoot;</text>
+	protected $date;</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJjbXNcRmlsZVxFbEZpbmRlckZpbGU7Cg==</text>
+      <register name="5" type="4">
+        <text>/**
+	 * @ORM\Column(type=&quot;date&quot;, name=&quot;invoiceDate&quot;)
+	 * @Assert\NotBlank()
+	 * @var \DateTime
+	 */
+	protected $date;</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICogQHByb3BlcnR5IFxEYXRlVGltZSAkZGF0ZQo=</text>
+      </register>
+      <register name="7" type="4">
+        <text>/**
+	 * @ORM\Column(type=&quot;date&quot;, name=&quot;inquiryDate&quot;)
+	 * @Assert\NotBlank()
+	 * @var \DateTime
+	 */
+	protected $date;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJcRWxGaW5kZXJcRG9jdHJpbmVcTWFwcGluZ1xBbm5vdGF0aW9uc1xFbEZpbmRlckZpbGVEaXJlY3RvcnlSb290Owo=</text>
+        <text encoding="base64">dXNlIEhybmNpcnJjbXNcRmlsZVxFbEZpbmRlckZpbGU7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>/**
-	 * @ORM\ManyToOne(targetEntity=&quot;Hrncirrcms\File\ElFinderFile&quot;)
-	 * @ORM\JoinColumn(name=&quot;elfinder_file_id&quot;, referencedColumnName=&quot;id&quot;)
-	 * @ElFinderFileDirectoryRoot()
-	 * @var ElFinderFile
-	 */
-	protected $fileRoot;</text>
+      <register name="9" type="2">
+        <text encoding="base64">dXNlIEhybmNpcnJcRWxGaW5kZXJcRG9jdHJpbmVcTWFwcGluZ1xBbm5vdGF0aW9uc1xFbEZpbmRlckZpbGVEaXJlY3RvcnlSb290Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
