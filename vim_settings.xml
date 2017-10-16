@@ -1915,11 +1915,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1507905659893">
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="310" column="97" />
-        <mark key="." line="310" column="97" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1508136944093">
+        <mark key="[" line="254" column="0" />
+        <mark key="]" line="254" column="0" />
         <mark key="^" line="310" column="97" />
+        <mark key="." line="254" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/src/Url/RouteGenerator.php" timestamp="1505223812148">
         <mark key="[" line="23" column="78" />
@@ -2656,6 +2656,11 @@
         <mark key="[" line="36" column="61" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Certificates/CertificatesMapper.php" timestamp="1508136993088">
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="32" column="8" />
+        <mark key="." line="32" column="8" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/Components/RoomDetailControl/IRoomDetailControlFactory.php" timestamp="1507905531308">
         <mark key="[" line="11" column="24" />
@@ -5964,53 +5969,53 @@
       <jump line="159" column="0" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/OffersGrid/OffersGrid.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzLT5nZXRJdGVtc1BlclBhZ2VMaXN0KCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZHVtcCgkdGhpcy0+Y29ubmVjdGlvbi0+cXVlcnlBcmdzKCRidWlsZGVyLT5nZXRRdWVyeVNxbCgpLCAkYnVpbGRlci0+Z2V0UXVlcnlQYXJhbWV0ZXJzKCkpCgkJCS0+ZmV0Y2hQYWlycygnZW1haWwnLCAnZW1haWwnKSk7</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">J3N0eWxlJyA9PiAkdmFsaWRUbyA8IG5ldyBEYXRlVGltZSgpID8gJ2NvbG9yOiByZWQnIDogbnVsbA==</text>
       </register>
       <register name="/" type="4">
-        <text>inquiry</text>
+        <text>apotheke</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzLT5nZXRJdGVtc1BlclBhZ2VMaXN0KCkpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZHVtcCgkdGhpcy0+Y29ubmVjdGlvbi0+cXVlcnlBcmdzKCRidWlsZGVyLT5nZXRRdWVyeVNxbCgpLCAkYnVpbGRlci0+Z2V0UXVlcnlQYXJhbWV0ZXJzKCkpCgkJCS0+ZmV0Y2hQYWlycygnZW1haWwnLCAnZW1haWwnKSk7</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIFVibGFib29cRGF0YUdyaWRcRGF0YUdyaWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlkZC8vIFRPRE86IEltcGxlbWVudCBnZXRMYXN0QWNjZXNzKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">CQkJCWR1bXAoJGVtYWlscyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0TGFzdEFjY2VzcygpIG1ldGhvZC4K</text>
+        <text encoding="base64">CQlkdW1wKCR0aGlzLT5nZXRJdGVtc1BlclBhZ2VMaXN0KCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJ2FhYWFhJyk7Cg==</text>
+        <text encoding="base64">dXNlIFVibGFib29cRGF0YUdyaWRcRGF0YUdyaWQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJGVtYWlscyk7Cg==</text>
+        <text encoding="base64">CQlkZC8vIFRPRE86IEltcGxlbWVudCBnZXRMYXN0QWNjZXNzKCkgbWV0aG9kLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJGVtYWlscyk7Cg==</text>
+        <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0TGFzdEFjY2VzcygpIG1ldGhvZC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCWVjaG8gJGRiYWxDb2xsZWN0aW9uLT5nZXRRdWVyeUJ1aWxkZXIoKS0+Z2V0UXVlcnlTcWwoKTsK</text>
+        <text encoding="base64">CQkJCWR1bXAoJ2FhYWFhJyk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGJ1aWxkZXIoKQoJewoJCXJldHVybiBwYXJlbnQ6OmJ1aWxkZXIoKS0+b3JkZXJCeSgncG9yYWRpJyk7Cgl9</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCWR1bXAoJGVtYWlscyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>inquiry</last-search>
+      <last-search>apotheke</last-search>
       <last-offset />
-      <last-pattern>inquiry</last-pattern>
+      <last-pattern>apotheke</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -6018,7 +6023,6 @@
     </search>
     <history>
       <history-search>
-        <entry>icon</entry>
         <entry>icon-button</entry>
         <entry>icon-rm</entry>
         <entry>icon-redo</entry>
@@ -6038,6 +6042,7 @@
         <entry>parameters</entry>
         <entry>Inquiry</entry>
         <entry>inquiry</entry>
+        <entry>apotheke</entry>
       </history-search>
       <history-cmd>
         <entry>%s/currencyFormat/formatCurrency/g</entry>
