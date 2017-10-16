@@ -642,7 +642,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/BaseDocument.php" timestamp="1508151918751">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/BaseDocument.php" timestamp="1508155609212">
         <mark key="[" line="101" column="74" />
         <mark key="]" line="121" column="0" />
         <mark key="." line="121" column="0" />
@@ -3245,10 +3245,10 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Presenters/OffersPresenter.php" timestamp="1506951883821">
-        <mark key="[" line="27" column="4" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Presenters/OffersPresenter.php" timestamp="1508160266290">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/client-side/js/hrncirr.elfinder.tinymce.js" timestamp="1507292617132">
         <mark key="[" line="30" column="4" />
@@ -4032,10 +4032,10 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseDocumentGrid.php" timestamp="1508151979856">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseDocumentGrid.php" timestamp="1508159096686">
+        <mark key="[" line="69" column="107" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Documents/components/InfoControl/InfoControl.latte" timestamp="1484215129286">
         <mark key="[" line="60" column="35" />
@@ -4232,7 +4232,7 @@
         <mark key="]" line="19" column="4" />
         <mark key="." line="19" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InquiriesGrid/InquiriesGrid.php" timestamp="1508151269981">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InquiriesGrid/InquiriesGrid.php" timestamp="1508157763327">
         <mark key="[" line="143" column="43" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
@@ -4476,6 +4476,9 @@
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="16" />
         <mark key="." line="47" column="16" />
+      </file>
+      <file name="/home/www/html/dv/adera/libs/vendor/ublaboo/datagrid/src/Column/Action.php" timestamp="1508156375719">
+        <mark key="'" line="98" column="23" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/templates/head.latte" timestamp="1479991174634">
         <mark key="[" line="9" column="0" />
@@ -5855,6 +5858,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" timestamp="1508159395473">
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="22" column="28" />
+        <mark key="^" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+      </file>
       <file name="/home/www/html/nnb/aktuality/app/model/TestFilesStructure.php" timestamp="1472810392596">
         <mark key="[" line="17" column="4" />
         <mark key="]" line="17" column="4" />
@@ -5872,10 +5881,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="276" column="15" filename="/home/www/html/bul/medical_examinations/bin/import" />
-      <jump line="22" column="19" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsForm/IAccessRightsFormFactory.php" />
-      <jump line="98" column="37" filename="/home/www/vendor/hrncirr/media/src/Storages/TImageFormat.php" />
-      <jump line="71" column="4" filename="/home/www/vendor/hrncirr/media/src/Callbacks/ImagePresenterCallback.php" />
       <jump line="88" column="28" filename="/home/www/vendor/hrncirr/elfinder/src/Components/FileManagerControl/FileManagerControl.php" />
       <jump line="90" column="4" filename="/home/www/vendor/hrncirr/elfinder/src/Components/FileManagerControlFactory.php" />
       <jump line="255" column="30" filename="/home/www/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
@@ -5969,58 +5974,62 @@
       <jump line="359" column="49" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
       <jump line="361" column="47" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
       <jump line="532" column="32" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
-      <jump line="98" column="21" filename="/home/www/html/dv/adera/libs/vendor/ublaboo/datagrid/src/Column/Action.php" />
       <jump line="125" column="63" filename="/home/www/html/dv/adera/libs/vendor/ublaboo/datagrid/src/Column/Action.php" />
       <jump line="159" column="0" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/OffersGrid/OffersGrid.php" />
+      <jump line="145" column="39" filename="/home/www/html/dv/adera/libs/vendor/ublaboo/datagrid/src/Column/Action.php" />
+      <jump line="36" column="15" filename="/home/www/html/dv/adera/libs/vendor/ublaboo/datagrid/src/Column/Action.php" />
+      <jump line="91" column="24" filename="/home/www/html/dv/adera/libs/vendor/ublaboo/datagrid/src/Column/Action.php" />
+      <jump line="95" column="49" filename="/home/www/html/dv/adera/libs/vendor/ublaboo/datagrid/src/Column/Action.php" />
+      <jump line="98" column="23" filename="/home/www/html/dv/adera/libs/vendor/ublaboo/datagrid/src/Column/Action.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+        <text encoding="base64">CQkJZHVtcCgkdGhpcy0+cGFyYW1zKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCBbJ2lucXVpcnknID0+IG51bGw=</text>
+        <text>$toClassName = 'Invoicing\\' . ucfirst($toName);</text>
       </register>
       <register name="/" type="4">
-        <text>apotheke</text>
+        <text>href</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+        <text encoding="base64">CQkJZHVtcCgkdGhpcy0+cGFyYW1zKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlpc19zdWJjbGFzc19vZgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkqLwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkvKgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJJHRoaXNbJ2dyaWQnXS0+dmlldyA9ICdmb3JtJzsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJZHVtcCgkb2ZmZXIpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJZXhpdDsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvL2R1bXA7KHN0YXRpYzo6Y2xhc3MpOwo=</text>
+        <text encoding="base64">CQkkdGhpcy0+cmVkaXJlY3QoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXEVudGl0eU1hbmFnZXI7Cg==</text>
+        <text encoding="base64">CQkJZXhpdDsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LyoqCgkgKiBAdmFyIEVudGl0eU1hbmFnZXIKCSAqLwoJcHJpdmF0ZSAkZW07CgoKCXB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdChFbnRpdHlNYW5hZ2VyICRlbSkKCXsKCQlwYXJlbnQ6Ol9fY29uc3RydWN0KCk7CgkJJHRoaXMtPmVtID0gJGVtOwoJfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJZHVtcCgnYmxhYmxhJyk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">JGdyaWQtPmFkZEFjdGlvbignb2ZmZXInLCAnTmFiw61ka2EnLCAnY3JlYXRlRG9jdW1lbnQhJywgWydpbnF1aXJ5JyA9PiBudWxsXSkKCQkJLT5hZGRQYXJhbWV0ZXJzKFsnbmFtZScgPT4gJ29mZmVyJ10pCgkJCS0+c2V0Q2xhc3MoJ2J0biBidG4teHMgYnRuLWRlZmF1bHQgYWpheCcpOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCS0+c2V0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>66</text>
       </register>
     </registers>
     <search>
-      <last-search>apotheke</last-search>
+      <last-search>href</last-search>
       <last-offset />
-      <last-pattern>apotheke</last-pattern>
+      <last-pattern>href</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -6028,7 +6037,6 @@
     </search>
     <history>
       <history-search>
-        <entry>icon-button</entry>
         <entry>icon-rm</entry>
         <entry>icon-redo</entry>
         <entry>icon-undo</entry>
@@ -6048,10 +6056,9 @@
         <entry>Inquiry</entry>
         <entry>inquiry</entry>
         <entry>apotheke</entry>
+        <entry>href</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/currencyFormat/formatCurrency/g</entry>
-        <entry>%s/durationStep/delayDurationStep/g</entry>
         <entry>%s/user/account/g</entry>
         <entry>%s/TRUE/true/g</entry>
         <entry>167</entry>
@@ -6070,6 +6077,8 @@
         <entry>314</entry>
         <entry>142</entry>
         <entry>w</entry>
+        <entry>305</entry>
+        <entry>66</entry>
       </history-cmd>
       <history-expr />
       <history-input />
