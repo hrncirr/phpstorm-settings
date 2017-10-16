@@ -2001,7 +2001,7 @@
         <mark key="]" line="51" column="12" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Components/TechnicalRequisitionsGrid/TechnicalRequisitionsGrid.php" timestamp="1507905707654">
+      <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Components/TechnicalRequisitionsGrid/TechnicalRequisitionsGrid.php" timestamp="1508163295866">
         <mark key="[" line="15" column="19" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Pages/AdminModule/Components/PageForm/PageForm.latte" timestamp="1495799253115">
@@ -4032,10 +4032,10 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseDocumentGrid.php" timestamp="1508159096686">
-        <mark key="[" line="69" column="107" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseDocumentGrid.php" timestamp="1508164060253">
+        <mark key="[" line="62" column="26" />
+        <mark key="]" line="108" column="16" />
+        <mark key="." line="108" column="16" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Documents/components/InfoControl/InfoControl.latte" timestamp="1484215129286">
         <mark key="[" line="60" column="35" />
@@ -5858,8 +5858,8 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" timestamp="1508159395473">
-        <mark key="[" line="164" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" timestamp="1508164002118">
+        <mark key="[" line="51" column="22" />
         <mark key="]" line="22" column="28" />
         <mark key="^" line="22" column="28" />
         <mark key="." line="22" column="28" />
@@ -5983,11 +5983,11 @@
       <jump line="98" column="23" filename="/home/www/html/dv/adera/libs/vendor/ublaboo/datagrid/src/Column/Action.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJZHVtcCgkdGhpcy0+cGFyYW1zKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LT5hZGRQYXJhbWV0ZXJzKFsnaWQnID0+ICRmcm9tTmFtZV0p</text>
       </register>
       <register name="-" type="4">
-        <text>$toClassName = 'Invoicing\\' . ucfirst($toName);</text>
+        <text encoding="base64">LT5hZGRQYXJhbWV0ZXJzKFsnaWQnID0+ICRmcm9tTmFtZV0p</text>
       </register>
       <register name="/" type="4">
         <text>href</text>
@@ -5995,32 +5995,33 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJZHVtcCgkdGhpcy0+cGFyYW1zKTsK</text>
+      <register name="1" type="4">
+        <text>function ($item) use ($toName) {
+					return</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ZnVuY3Rpb24gKCRpdGVtKSB1c2UgKCR0b05hbWUpIHsKCQkJCQlyZXR1cm4gKCRpdGVtLT57JHRvTmFtZX0gPT09IG51bGwgPyAncGFwZXJjbGlwJyA6IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJJHRoaXNbJ2dyaWQnXS0+dmlldyA9ICdmb3JtJzsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">LiAoJGl0ZW0tPnskdG9OYW1lfSA9PT0gbnVsbCA/ICdidG4tZGVmYXVsdCcgOiAnYnRuLWluZm8nKTsKCQkJCX0p</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJZHVtcCgkb2ZmZXIpOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ZnVuY3Rpb24gKCRpdGVtKSB1c2UgKCR0b05hbWUpIHsKCQkJCQlyZXR1cm4g</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJZXhpdDsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ZnVuY3Rpb24gKCRpdGVtKSB1c2UgKCR0b05hbWUpIHsKCQkJCQlyZXR1cm4gKCRpdGVtLT57JHRvTmFtZX0gPT09IG51bGwgPyA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkkdGhpcy0+cmVkaXJlY3QoKTsK</text>
+        <text encoding="base64">CQkJZHVtcCgkdGhpcy0+cGFyYW1zKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJZXhpdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJZHVtcCgnYmxhYmxhJyk7Cg==</text>
+        <text encoding="base64">CQkJJHRoaXNbJ2dyaWQnXS0+dmlldyA9ICdmb3JtJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCS0+c2V0Cg==</text>
+        <text encoding="base64">CQkJZHVtcCgkb2ZmZXIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>66</text>
