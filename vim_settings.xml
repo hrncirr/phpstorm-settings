@@ -647,10 +647,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/BaseDocument.php" timestamp="1508228144211">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/BaseDocument.php" timestamp="1508241043479">
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/doctrine/composer.json" timestamp="1491565585814">
         <mark key="[" line="15" column="8" />
@@ -5990,11 +5990,11 @@
       <jump line="64" column="28" filename="/home/www/vendor/hrncirr/cmp/src/CmpCollection.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldE9yZGVyTnVtYmVyKCkKCXsKCQlkdW1wKCR0aGlzLT5vcmRlcik7CgoJCXJldHVybiAkdGhpcy0+b3JkZXIgIT09IG51bGwgPyAkdGhpcy0+b3JkZXItPm51bWJlciA6IG51bGw7Cgl9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>'blabla';</text>
+        <text encoding="base64">YXJyYXlfbWVyZ2UoJHNraXBwZWRGaWVsZHMsIA==</text>
       </register>
       <register name="/" type="4">
         <text>NULL</text>
@@ -6002,39 +6002,35 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldE9yZGVyTnVtYmVyKCkKCXsKCQlkdW1wKCR0aGlzLT5vcmRlcik7CgoJCXJldHVybiAkdGhpcy0+b3JkZXIgIT09IG51bGwgPyAkdGhpcy0+b3JkZXItPm51bWJlciA6IG51bGw7Cgl9</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJLy8tPnNldERpc2FibGVkKCkK</text>
+        <text encoding="base64">CQkJZHVtcCgkdGFyZ2V0KTsK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">JGZvcm0tPm9uQW5jaG9yW10gPSBmdW5jdGlvbiAoJGZvcm0pIHsKCQkJZHVtcCgkdGhpcy0+aW52b2ljZS0+Z2V0T3JkZXJOdW1iZXIoKSk7CgkJCSRmb3JtWydvcmRlck51bWJlciddLT5zZXREZWZhdWx0VmFsdWUoJHRoaXMtPmludm9pY2UtPmdldE9yZGVyTnVtYmVyKCkpOwoJCX07</text>
+        <text encoding="base64">Zm9yZWFjaCAoJGZyb21NZXRhZGF0YS0+Z2V0RmllbGROYW1lcygpIGFzICRmaWVsZE5hbWUpIHsKCQkJaWYgKGluX2FycmF5KCRmaWVsZE5hbWUsICRza2lwcGVkRmllbGRzLCB0cnVlKSB8fAoJCQkJIWluX2FycmF5KCRmaWVsZE5hbWUsICR0b01ldGFkYXRhLT5nZXRGaWVsZE5hbWVzKCksIHRydWUpKSB7CgkJCQljb250aW51ZTsKCQkJfQoKCQkJJHRvTWV0YWRhdGEtPnNldEZpZWxkVmFsdWUoJHRvRG9jdW1lbnQsICRmaWVsZE5hbWUsCgkJCQkkZnJvbU1ldGFkYXRhLT5nZXRGaWVsZFZhbHVlKCRmcm9tRG9jdW1lbnQsICRmaWVsZE5hbWUpKTsKCQl9</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldE9yZGVyTnVtYmVyKCkKCXsKCQlkdW1wKCR0aGlzLT5vcmRlcik7CgoJCXJldHVybiAkdGhpcy0+b3JkZXIgIT09IG51bGwgPyAkdGhpcy0+b3JkZXItPm51bWJlciA6IG51bGw7Cgl9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZXhpdDsK</text>
+        <text encoding="base64">CQkJLy8tPnNldERpc2FibGVkKCkK</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">JGZvcm0tPm9uQW5jaG9yW10gPSBmdW5jdGlvbiAoJGZvcm0pIHsKCQkJZHVtcCgkdGhpcy0+aW52b2ljZS0+Z2V0T3JkZXJOdW1iZXIoKSk7CgkJCSRmb3JtWydvcmRlck51bWJlciddLT5zZXREZWZhdWx0VmFsdWUoJHRoaXMtPmludm9pY2UtPmdldE9yZGVyTnVtYmVyKCkpOwoJCX07</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJZXhpdDsK</text>
+      </register>
+      <register name="9" type="4">
         <text>/**
 	 * @var string
 	 */
 	protected $orderNumber = 'blablal';</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CSAqIEBPUk1cQ29sdW1uKHR5cGU9InN0cmluZyIpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJLT5zZXRBdHRyaWJ1dGUoJ3BsYWNlaG9sZGVyJywgJHRyYW5zbGF0b3JEb21haW4gLiAnLm9yZGVyTnVtYmVyLnBsYWNlaG9sZGVyJyk7Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>/**
-	 * @ORM\Column(type=&quot;string&quot;)
-	 * @var string
-	 */
-	protected $orderNumber;</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
