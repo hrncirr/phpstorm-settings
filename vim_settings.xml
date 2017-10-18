@@ -3715,7 +3715,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508321411493">
+      <file name="/Dummy.txt" timestamp="1508335732043">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -4063,10 +4063,10 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseDocumentGrid.php" timestamp="1508334075165">
-        <mark key="[" line="19" column="2" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseDocumentGrid.php" timestamp="1508335657622">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Documents/components/InfoControl/InfoControl.latte" timestamp="1484215129286">
         <mark key="[" line="60" column="35" />
@@ -6018,7 +6018,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5vcmRlci0+aWQpIHsKCQkJCSR0aGlzLT5nZXRQcmVzZW50ZXIoKS0+c2V0Q29udGVudFRpdGxlKCdGb3JtdWzDocWZIG9iamVkbsOhdmt5ICcgLgoJCQkJCUh0bWw6OmVsKCdzbWFsbCcpLT5zZXRUZXh0KCcjJyAuICR0aGlzLT5vcmRlci0+bnVtYmVyKSk7CgkJCX0gZWxzZSB7CgkJCQkkdGhpcy0+Z2V0UHJlc2VudGVyKCktPnNldENvbnRlbnRUaXRsZSgnRm9ybXVsw6HFmSBvYmplZG7DoXZreScpOwoJCQl9</text>
+        <text>/**
+ * @method handleEdit(BaseDocument $document)
+ */</text>
       </register>
       <register name="-" type="4">
         <text>: BaseDocument</text>
@@ -6030,26 +6032,31 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
+        <text>/**
+ * @method handleEdit(BaseDocument $document)
+ */</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">aWYgKCR0aGlzLT5vcmRlci0+aWQpIHsKCQkJCSR0aGlzLT5nZXRQcmVzZW50ZXIoKS0+c2V0Q29udGVudFRpdGxlKCdGb3JtdWzDocWZIG9iamVkbsOhdmt5ICcgLgoJCQkJCUh0bWw6OmVsKCdzbWFsbCcpLT5zZXRUZXh0KCcjJyAuICR0aGlzLT5vcmRlci0+bnVtYmVyKSk7CgkJCX0gZWxzZSB7CgkJCQkkdGhpcy0+Z2V0UHJlc2VudGVyKCktPnNldENvbnRlbnRUaXRsZSgnRm9ybXVsw6HFmSBvYmplZG7DoXZreScpOwoJCQl9</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CQkqLwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkvKgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICogQHBhY2thZ2UgSW52b2ljaW5nXENvbXBvbmVudHMK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICogQ2xhc3MgQmFzZURvY3VtZW50R3JpZAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>/**
 	 * @return BaseDocument
 	 */</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>public function signalReceived($signal)
 	{
 		parent::signalReceived($signal);
@@ -6065,13 +6072,8 @@
 	
 	abstract protected function getContentTitleEdit(): string;</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">cHJvdGVjdGVkIGZ1bmN0aW9uIGdldENvbnRlbnRUaXRsZU5ldygpOiBzdHJpbmcKCXsKCQlyZXR1cm4gJ0Zvcm11bMOhxZkgcG9wdMOhdmt5ICcgLgoJCQlIdG1sOjplbCgnc21hbGwnKS0+c2V0VGV4dCgnIycgLiAkdGhpcy0+aW5xdWlyeS0+bnVtYmVyKTsKCX0KCQoJCglwcm90ZWN0ZWQgZnVuY3Rpb24gZ2V0Q29udGVudFRpdGxlRWRpdCgpOiBzdHJpbmcKCXsKCQlyZXR1cm4gJ0Zvcm11bMOhxZkgcG9wdMOhdmt5JzsKCX0=</text>
-      </register>
       <register name="9" type="4">
-        <text>protected function getContentTitleNew(): string
-	{
-	}</text>
+        <text encoding="base64">cHJvdGVjdGVkIGZ1bmN0aW9uIGdldENvbnRlbnRUaXRsZU5ldygpOiBzdHJpbmcKCXsKCQlyZXR1cm4gJ0Zvcm11bMOhxZkgcG9wdMOhdmt5ICcgLgoJCQlIdG1sOjplbCgnc21hbGwnKS0+c2V0VGV4dCgnIycgLiAkdGhpcy0+aW5xdWlyeS0+bnVtYmVyKTsKCX0KCQoJCglwcm90ZWN0ZWQgZnVuY3Rpb24gZ2V0Q29udGVudFRpdGxlRWRpdCgpOiBzdHJpbmcKCXsKCQlyZXR1cm4gJ0Zvcm11bMOhxZkgcG9wdMOhdmt5JzsKCX0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
