@@ -484,8 +484,8 @@
         <mark key="]" line="65" column="4" />
         <mark key="." line="65" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Presenters/BaseDocumentPresenter.php" timestamp="1508316770162">
-        <mark key="[" line="32" column="12" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Presenters/BaseDocumentPresenter.php" timestamp="1508318440683">
+        <mark key="[" line="28" column="20" />
         <mark key="]" line="32" column="12" />
         <mark key="." line="32" column="12" />
       </file>
@@ -3908,11 +3908,11 @@
         <mark key="]" line="36" column="4" />
         <mark key="." line="36" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Presenters/InvoicesPresenter.php" timestamp="1508313895968">
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="27" column="26" />
-        <mark key="." line="27" column="26" />
-        <mark key="^" line="27" column="26" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Presenters/InvoicesPresenter.php" timestamp="1508318477406">
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="30" column="8" />
+        <mark key="^" line="26" column="26" />
+        <mark key="." line="30" column="8" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/tabs/bower.json" timestamp="1487338651123">
         <mark key="[" line="8" column="45" />
@@ -6008,10 +6008,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LCAndG8nID0+ICR0bw==</text>
+        <text encoding="base64">aWYgKCRpbnZvaWNlICE9PSBudWxsKSB7CgkJCXVuc2V0KCR0aGlzLT5wYXJhbXNbJ2ludm9pY2UnXSk7CgkJCSR0aGlzWydncmlkJ10tPmludm9pY2UgPSAkaW52b2ljZTsKCQkJJHRoaXNbJ2dyaWQnXS0+aGFuZGxlRWRpdCgkaW52b2ljZSk7CgkJfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCAndG8nID0+ICR0bw==</text>
+        <text>Invoice $invoice = null</text>
       </register>
       <register name="/" type="4">
         <text>NULL</text>
@@ -6020,31 +6020,31 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ZHVtcCgkdGhpcy0+bmFtZSk7CgkJZXhpdDs=</text>
+        <text encoding="base64">aWYgKCRpbnZvaWNlICE9PSBudWxsKSB7CgkJCXVuc2V0KCR0aGlzLT5wYXJhbXNbJ2ludm9pY2UnXSk7CgkJCSR0aGlzWydncmlkJ10tPmludm9pY2UgPSAkaW52b2ljZTsKCQkJJHRoaXNbJ2dyaWQnXS0+aGFuZGxlRWRpdCgkaW52b2ljZSk7CgkJfQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">J3RpdGxlJyA9PiAnT2JqZWRuw6F2a2EnLAoJCQknY29uZmlybScgPT4gJ29iamVkbsOhdmt1JywKCQkJJ2xpbmsnID0+ICc6SW52b2ljaW5nOk9yZGVyczonCgkJXSwKCQknaW52b2ljZScgPT4gWwoJCQkndGl0bGUnID0+ICdGYWt0dXJhJywKCQkJJ2NvbmZpcm0nID0+ICdmYWt0dXJ1JywKCQkJJ2xpbmsnID0+ICc6SW52b2ljaW5nOkludm9pY2VzOicKCQld</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">J3RpdGxlJyA9PiAnUG9wdMOhdmthJywKCQkJJ2NvbmZpcm0nID0+ICdwb3B0w6F2a3UnLAoJCQknbGluaycgPT4gJzpJbnZvaWNpbmc6SW5xdWlyaWVzOicKCQldLA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQlwYXJlbnQ6OnJlbmRlckRlZmF1bHQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQldLAo=</text>
+        <text encoding="base64">CSovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJJ2xpbmsnID0+ICc6SW52b2ljaW5nOk9mZmVyczonCg==</text>
+        <text encoding="base64">CS8qCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJJ2NvbmZpcm0nID0+ICduYWLDrWRrdScsCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ZHVtcCgkdGhpcy0+bmFtZSk7CgkJZXhpdDs=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJJ3RpdGxlJyA9PiAnTmFiw61ka2EnLAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">J3RpdGxlJyA9PiAnT2JqZWRuw6F2a2EnLAoJCQknY29uZmlybScgPT4gJ29iamVkbsOhdmt1JywKCQkJJ2xpbmsnID0+ICc6SW52b2ljaW5nOk9yZGVyczonCgkJXSwKCQknaW52b2ljZScgPT4gWwoJCQkndGl0bGUnID0+ICdGYWt0dXJhJywKCQkJJ2NvbmZpcm0nID0+ICdmYWt0dXJ1JywKCQkJJ2xpbmsnID0+ICc6SW52b2ljaW5nOkludm9pY2VzOicKCQld</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGNyZWF0ZShJbnZvaWNlICRpbnZvaWNlKQoJewoJCSR0aGlzLT5oYW5kbGVOZXcoKTsKCX0=</text>
+        <text encoding="base64">J3RpdGxlJyA9PiAnUG9wdMOhdmthJywKCQkJJ2NvbmZpcm0nID0+ICdwb3B0w6F2a3UnLAoJCQknbGluaycgPT4gJzpJbnZvaWNpbmc6SW5xdWlyaWVzOicKCQldLA==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHNldEludm9pY2UoSW52b2ljZSAkaW52b2ljZSkKCXsKCQkkdGhpcy0+aW52b2ljZSA9ICRpbnZvaWNlOwoJfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQldLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
