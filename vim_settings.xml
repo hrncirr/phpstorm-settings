@@ -5322,10 +5322,10 @@
         <mark key="]" line="25" column="4" />
         <mark key="." line="25" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/src/User/User.php" timestamp="1508413938086">
-        <mark key="[" line="62" column="17" />
-        <mark key="]" line="62" column="17" />
-        <mark key="." line="62" column="17" />
+      <file name="/home/www/html/dv/adera/src/User/User.php" timestamp="1508416374812">
+        <mark key="[" line="61" column="32" />
+        <mark key="]" line="61" column="32" />
+        <mark key="." line="61" column="32" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/Model/OrmModel.php" timestamp="1505988808360">
         <mark key="[" line="39" column="2" />
@@ -6036,10 +6036,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>, length=25</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>, length=25</text>
       </register>
       <register name="/" type="4">
         <text>NULL</text>
@@ -6048,18 +6048,24 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5XEV2ZW50c1xTdWJzY3JpYmVyOwo=</text>
+        <text encoding="base64">CSAqIEB2YXIgc3RyaW5nCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CSAqIEB2YXIgc3RyaW5nCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dXNlIEtkeWJ5XEV2ZW50c1xTdWJzY3JpYmVyOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">dXNlIERvY3RyaW5lXE9STVxFdmVudHM7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CXRhZ3M6IFtrZHlieS5zdWJzY3JpYmVyXQoJCWF1dG93aXJlZDogbm8=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">JGVudGl0eSA9ICRhcmdzLT5nZXRFbnRpdHkoKTsKCQlpZiAoISRlbnRpdHkgaW5zdGFuY2VvZiBCYXNlRG9jdW1lbnQpIHsKCQkJcmV0dXJuOwoJCX0=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>/**
 	 * @return array
 	 */
@@ -6070,21 +6076,11 @@
 		];
 	}</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHByZVVwZGF0ZShJbnZvaWNlICRpbnZvaWNlLCBMaWZlY3ljbGVFdmVudEFyZ3MgJGFyZ3MpCgl7CgkJJGVtID0gJGFyZ3MtPmdldEVudGl0eU1hbmFnZXIoKTsKCgkJZHVtcCgkaW52b2ljZS0+dmFyaWFibGVTeW1ib2wpOwoJCWV4aXQ7Cgl9</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZHVtcCgkaW52b2ljZS0+bnVtYmVyKTsKCQlkdW1wKCRpbnZvaWNlLT52YXJpYWJsZVN5bWJvbCk7CgkJZXhpdDs=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkkZW0gPSAkYXJncy0+Z2V0RW50aXR5TWFuYWdlcigpOwo=</text>
-      </register>
       <register name="9" type="4">
-        <text>/**
- * Document folder files listener
- *
- * @author    Roman Hrnčíř
- */</text>
+        <text encoding="base64">ZHVtcCgkaW52b2ljZS0+bnVtYmVyKTsKCQlkdW1wKCRpbnZvaWNlLT52YXJpYWJsZVN5bWJvbCk7CgkJZXhpdDs=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
