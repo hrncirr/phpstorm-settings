@@ -3141,11 +3141,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/ContactsGrid/ContactsGrid.php" timestamp="1506502123870">
-        <mark key="[" line="15" column="49" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="/home/www/html/dv/cms/Modules/Pages/AdminModule/Presenters/templates/Page/default.latte" timestamp="1492067162988">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="4" />
@@ -3738,7 +3733,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508413690967">
+      <file name="/Dummy.txt" timestamp="1508425208802">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -4156,10 +4151,10 @@
         <mark key="]" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" timestamp="1508411277849">
-        <mark key="[" line="150" column="32" />
-        <mark key="]" line="151" column="0" />
-        <mark key="." line="151" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" timestamp="1508424869951">
+        <mark key="[" line="149" column="12" />
+        <mark key="]" line="149" column="12" />
+        <mark key="." line="149" column="12" />
       </file>
       <file name="/home/www/html/nnb/nezadouci-udalosti/app/config/client-side.neon" timestamp="1503925745906">
         <mark key="[" line="37" column="12" />
@@ -6041,15 +6036,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/**
-	 * @ORM\Column(type=&quot;string&quot;, nullable=TRUE)
-	 * @var string
-	 */
-	protected $;
-	protected $pokus;</text>
+        <text encoding="base64">LT5zZXREZWZhdWx0VmFsdWUoJHRoaXMtPmludm9pY2UtPm9yZGVyICE9PSBudWxsID8gJHRoaXMtPmludm9pY2UtPm9yZGVyLT5udW1iZXIgOiBudWxsKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>, length=25</text>
+        <text encoding="base64">LT5zZXREZWZhdWx0VmFsdWUoJHRoaXMtPmludm9pY2UtPm9yZGVyICE9PSBudWxsID8gJHRoaXMtPmludm9pY2UtPm9yZGVyLT5udW1iZXIgOiBudWxsKQ==</text>
       </register>
       <register name="/" type="4">
         <text>NULL</text>
