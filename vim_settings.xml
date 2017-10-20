@@ -1848,7 +1848,8 @@
         <mark key="]" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="/home/www/lib/vendor/instante/extended-form-macros/src/Latte/FormMacros.php" timestamp="1508410339313">
+      <file name="/home/www/lib/vendor/instante/extended-form-macros/src/Latte/FormMacros.php" timestamp="1508484104151">
+        <mark key="'" line="265" column="25" />
         <mark key="[" line="190" column="19" />
         <mark key="]" line="190" column="19" />
         <mark key="." line="190" column="19" />
@@ -5933,7 +5934,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="70" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
       <jump line="43" column="27" filename="/home/www/vendor/hrncirr/elfinder/src/Forms/Controls/FileSelector.php" />
       <jump line="150" column="18" filename="/home/www/vendor/hrncirr/elfinder/src/MediaImporterControl.php" />
       <jump line="291" column="6" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/ElFinderFile.php" />
@@ -6033,6 +6033,7 @@
       <jump line="134" column="5" filename="/home/www/vendor/hrncirr/cmp/src/DI/CmpExtension.php" />
       <jump line="201" column="35" filename="/home/www/vendor/hrncirr/cmp/src/Doctrine/Mapping/Drivers/TemplateDriver.php" />
       <jump line="64" column="28" filename="/home/www/vendor/hrncirr/cmp/src/CmpCollection.php" />
+      <jump line="265" column="25" filename="/home/www/lib/vendor/instante/extended-form-macros/src/Latte/FormMacros.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -6042,7 +6043,7 @@
         <text encoding="base64">LT5zZXREZWZhdWx0VmFsdWUoJHRoaXMtPmludm9pY2UtPm9yZGVyICE9PSBudWxsID8gJHRoaXMtPmludm9pY2UtPm9yZGVyLT5udW1iZXIgOiBudWxsKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>NULL</text>
+        <text>count($words)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
@@ -6088,13 +6089,13 @@
         <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHByZVVwZGF0ZShJbnZvaWNlICRpbnZvaWNlLCBMaWZlY3ljbGVFdmVudEFyZ3MgJGFyZ3MpCgl7CgkJJGVtID0gJGFyZ3MtPmdldEVudGl0eU1hbmFnZXIoKTsKCgkJZHVtcCgkaW52b2ljZS0+dmFyaWFibGVTeW1ib2wpOwoJCWV4aXQ7Cgl9</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>262</text>
       </register>
     </registers>
     <search>
-      <last-search>NULL</last-search>
+      <last-search>count($words)</last-search>
       <last-offset />
-      <last-pattern>NULL</last-pattern>
+      <last-pattern>count($words)</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -6102,7 +6103,6 @@
     </search>
     <history>
       <history-search>
-        <entry>icon-redo</entry>
         <entry>icon-undo</entry>
         <entry>console.log</entry>
         <entry>blockedHours</entry>
@@ -6122,9 +6122,9 @@
         <entry>apotheke</entry>
         <entry>href</entry>
         <entry>NULL</entry>
+        <entry>count($words)</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/TRUE/true/g</entry>
         <entry>167</entry>
         <entry>%s/Show/View/g</entry>
         <entry>%s/show/view/g</entry>
@@ -6144,6 +6144,7 @@
         <entry>246</entry>
         <entry>%s/NULL/null/g</entry>
         <entry>w</entry>
+        <entry>262</entry>
       </history-cmd>
       <history-expr />
       <history-input />
