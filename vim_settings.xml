@@ -193,6 +193,9 @@
         <mark key="]" line="17" column="4" />
         <mark key="." line="17" column="4" />
       </file>
+      <file name="/home/www/lib/vendor/nextras/dbal/src/QueryBuilder/QueryBuilder.php" timestamp="1508843966347">
+        <mark key="'" line="433" column="15" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectIdFormPart/SubjectFormPart.latte" timestamp="1504014949456">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -399,10 +402,10 @@
         <mark key="]" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Steiner/UnisAccounts/UnisAccount.php" timestamp="1508842662415">
-        <mark key="[" line="70" column="15" />
-        <mark key="]" line="70" column="20" />
-        <mark key="." line="70" column="20" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Steiner/UnisAccounts/UnisAccount.php" timestamp="1508846155432">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="76" column="96" />
+        <mark key="." line="76" column="96" />
       </file>
       <file name="/home/www/html/dv/cms/app/extensions/CompilerExtension.php" timestamp="1491462703147">
         <mark key="[" line="9" column="31" />
@@ -1292,6 +1295,12 @@
         <mark key="[" line="23" column="17" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
+      </file>
+      <file name="/home/www/lib/vendor/nextras/orm/src/Mapper/Dbal/DbalCollection.php" timestamp="1508844973469">
+        <mark key="'" line="88" column="31" />
+        <mark key="[" line="271" column="0" />
+        <mark key="]" line="271" column="0" />
+        <mark key="." line="271" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/app/Presenters/GroupsPresenter.php" timestamp="1490273967586">
         <mark key="[" line="17" column="4" />
@@ -4845,10 +4854,10 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Steiner/UnisAccounts/UnisAccountsMapper.php" timestamp="1508842995304">
-        <mark key="[" line="37" column="47" />
-        <mark key="]" line="37" column="47" />
-        <mark key="." line="37" column="47" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Steiner/UnisAccounts/UnisAccountsMapper.php" timestamp="1508845823624">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="4" />
+        <mark key="." line="41" column="4" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Pages/AdminModule/Components/PagesGrid/PagesGrid.latte" timestamp="1492073772427">
         <mark key="[" line="0" column="0" />
@@ -5076,8 +5085,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Steiner/SteinerProgramsLastAccess/SteinerProgramsLastAccessMapper.php" timestamp="1508841399827">
-        <mark key="[" line="22" column="4" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Steiner/SteinerProgramsLastAccess/SteinerProgramsLastAccessMapper.php" timestamp="1508845696927">
+        <mark key="[" line="34" column="23" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/DI/AccessRightsExtension.php" timestamp="1505743926943">
         <mark key="[" line="30" column="65" />
@@ -5723,6 +5734,11 @@
         <mark key="]" line="30" column="8" />
         <mark key="." line="30" column="8" />
       </file>
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Steiner/SteinerProgramsLastAccess/SteinerProgramsLastAccessRepository.php" timestamp="1508845439869">
+        <mark key="[" line="26" column="5" />
+        <mark key="]" line="26" column="5" />
+        <mark key="." line="26" column="5" />
+      </file>
       <file name="/home/www/vendor/hrncirr/media/src/Utils/LinkHelpers.php" timestamp="1507126205521">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="45" column="0" />
@@ -5991,18 +6007,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="27" filename="/home/www/vendor/hrncirr/elfinder/src/Forms/Controls/FileSelector.php" />
-      <jump line="150" column="18" filename="/home/www/vendor/hrncirr/elfinder/src/MediaImporterControl.php" />
-      <jump line="291" column="6" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/ElFinderFile.php" />
-      <jump line="449" column="20" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/ElFinderFile.php" />
-      <jump line="43" column="7" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="329" column="14" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="330" column="9" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="331" column="32" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="332" column="9" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="333" column="36" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="334" column="9" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="335" column="45" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="336" column="9" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="337" column="67" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="338" column="9" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
@@ -6091,57 +6095,67 @@
       <jump line="201" column="35" filename="/home/www/vendor/hrncirr/cmp/src/Doctrine/Mapping/Drivers/TemplateDriver.php" />
       <jump line="64" column="28" filename="/home/www/vendor/hrncirr/cmp/src/CmpCollection.php" />
       <jump line="265" column="25" filename="/home/www/lib/vendor/instante/extended-form-macros/src/Latte/FormMacros.php" />
+      <jump line="88" column="31" filename="/home/www/lib/vendor/nextras/orm/src/Mapper/Dbal/DbalCollection.php" />
+      <jump line="272" column="50" filename="/home/www/lib/vendor/nextras/dbal/src/QueryBuilder/QueryBuilder.php" />
+      <jump line="274" column="15" filename="/home/www/lib/vendor/nextras/dbal/src/QueryBuilder/QueryBuilder.php" />
+      <jump line="292" column="15" filename="/home/www/lib/vendor/nextras/dbal/src/QueryBuilder/QueryBuilder.php" />
+      <jump line="310" column="15" filename="/home/www/lib/vendor/nextras/dbal/src/QueryBuilder/QueryBuilder.php" />
+      <jump line="328" column="15" filename="/home/www/lib/vendor/nextras/dbal/src/QueryBuilder/QueryBuilder.php" />
+      <jump line="346" column="15" filename="/home/www/lib/vendor/nextras/dbal/src/QueryBuilder/QueryBuilder.php" />
+      <jump line="364" column="15" filename="/home/www/lib/vendor/nextras/dbal/src/QueryBuilder/QueryBuilder.php" />
+      <jump line="382" column="15" filename="/home/www/lib/vendor/nextras/dbal/src/QueryBuilder/QueryBuilder.php" />
+      <jump line="400" column="15" filename="/home/www/lib/vendor/nextras/dbal/src/QueryBuilder/QueryBuilder.php" />
+      <jump line="418" column="15" filename="/home/www/lib/vendor/nextras/dbal/src/QueryBuilder/QueryBuilder.php" />
+      <jump line="433" column="15" filename="/home/www/lib/vendor/nextras/dbal/src/QueryBuilder/QueryBuilder.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>unis_monitoring_last_access</text>
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGJ1aWxkZXIoKQoJewoJCSRmcm9tQWxpYXMgPSBRdWVyeUJ1aWxkZXJIZWxwZXI6OmdldEFsaWFzKCR0aGlzLT5nZXRUYWJsZU5hbWUoKSk7CgoJCSR0b1RhYmxlID0gJ3VuaXMudW5pc19tb25pdG9yaW5nX2xhc3RfYWNjZXNzJzsKCQkkdG9BbGlhcyA9IFF1ZXJ5QnVpbGRlckhlbHBlcjo6Z2V0QWxpYXMoJHRvVGFibGUpOwoKCQlyZXR1cm4gcGFyZW50OjpidWlsZGVyKCkKCQkJLT5hZGRTZWxlY3QoIiR0b0FsaWFzLmRhdHVtX3NwdXN0ZW5pIikKCQkJLT5sZWZ0Sm9pbigkZnJvbUFsaWFzLAoJCQknWycgLiAkdG9UYWJsZSAuICddJywgJHRvQWxpYXMsCgkJCSJbJGZyb21BbGlhcy5vc2NdID0gWyR0b0FsaWFzLm9zY10gQU5EIFskdG9BbGlhcy5wcm9ncmFtX25hbWVdID0gJXMiLCAnY2hvcm9ib3BpcycpOwoJfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>unis_monitoring_last_access</text>
+        <text encoding="base64">aGFzVmFsdWUoJ2xhc3RBY2Nlc3MnKSA/ICR0aGlzLT5nZXRWYWx1ZSgnbGFzdEFjY2VzcycpIDogbnVsbDs=</text>
       </register>
       <register name="/" type="4">
-        <text>count($words)</text>
+        <text>find</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGJ1aWxkZXIoKQoJewoJCSRmcm9tQWxpYXMgPSBRdWVyeUJ1aWxkZXJIZWxwZXI6OmdldEFsaWFzKCR0aGlzLT5nZXRUYWJsZU5hbWUoKSk7CgoJCSR0b1RhYmxlID0gJ3VuaXMudW5pc19tb25pdG9yaW5nX2xhc3RfYWNjZXNzJzsKCQkkdG9BbGlhcyA9IFF1ZXJ5QnVpbGRlckhlbHBlcjo6Z2V0QWxpYXMoJHRvVGFibGUpOwoKCQlyZXR1cm4gcGFyZW50OjpidWlsZGVyKCkKCQkJLT5hZGRTZWxlY3QoIiR0b0FsaWFzLmRhdHVtX3NwdXN0ZW5pIikKCQkJLT5sZWZ0Sm9pbigkZnJvbUFsaWFzLAoJCQknWycgLiAkdG9UYWJsZSAuICddJywgJHRvQWxpYXMsCgkJCSJbJGZyb21BbGlhcy5vc2NdID0gWyR0b0FsaWFzLm9zY10gQU5EIFskdG9BbGlhcy5wcm9ncmFtX25hbWVdID0gJXMiLCAnY2hvcm9ib3BpcycpOwoJfQ==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQlleGl0Owo=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CgkJJGJ1aWxkZXIgPSAkdGhpcy0+YnVpbGRlcigpCgkJCS0+c2VsZWN0KCdkYXR1bV9zcHVzdGVuaScpCgkJCS0+d2hlcmUoJ3BuID0gJWknLCAkcG4pCgkJCS0+YW5kV2hlcmUoJ3Byb2dyYW1fbmFtZSA9ICVzJywgJHByb2dyYW1OYW1lKTsKCgkJcmV0dXJuICR0aGlzLT5jb25uZWN0aW9uLT5xdWVyeUFyZ3MoJGJ1aWxkZXItPmdldFF1ZXJ5U3FsKCksICRidWlsZGVyLT5nZXRRdWVyeVBhcmFtZXRlcnMoKSkKCQkJLT5mZXRjaEZpZWxkKCdkYXR1bV9zcHVzdGVuaScpOw==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJLT5hZGRPcmRlckJ5KCdvc2MnKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkkdGFibGUgPSAkdGhpcy0+YnVpbGRlcigpLT5nZXRGcm9tQWxpYXMoKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkkYnVpbGRlci0+c2VsZWN0KCJbJHRhYmxlLipdLCBbdW5pc19tb25pdG9yaW5nX2xhc3RfYWNjZXNzLipdIik7Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">CQlkdW1wKCR0b0FsaWFzKTsK</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">d2hlcmUoJ3Byb2dyYW1fbmFtZSA9ICVzJywgJHRoaXMtPmdldFByb2dyYW1OYW1lKCkpCgkJCS0+b3JkZXJCeSgnbmF6ZXZfa2xpbmlreScpOw==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkkdGhpcy0+Z2V0TW9kZWwoKQo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">LyoqCgkgKiBAdmFyIE9ybU1vZGVsCgkgKi8KCXByaXZhdGUgJG9ybTsKCgkvKioKCSAqIEB2YXIgVW5pc0Nhc2VIaXN0b3J5QWNjb3VudFtdCgkgKi8KCXByaXZhdGUgJGNhc2VIaXN0b3J5OwoKCS8qKgoJICogQHZhciBVbmlzQ2VudHJhbFByb2plY3RzQWNjb3VudFtdCgkgKi8KCXByaXZhdGUgJGNlbnRyYWxQcm9qZWN0czsKCgoJcHVibGljIGZ1bmN0aW9uIGluamVjdE9ybShPcm1Nb2RlbCAkb3JtTW9kZWwpCgl7CgkJJHRoaXMtPm9ybSA9ICRvcm1Nb2RlbDsKCX0KCgoJcHVibGljIGZ1bmN0aW9uIGdldE5hbWUoKTogc3RyaW5nCgl7CgkJcmV0dXJuICd1bmlzJzsKCX0KCgoJcHVibGljIGZ1bmN0aW9uIGdldExhc3RBY2Nlc3MoKQoJewoJCXJldHVybiBudWxsOwoJfQoKCglwdWJsaWMgZnVuY3Rpb24gZ2V0VmFsaWRUbygpOiBEYXRlVGltZQoJewoJCXJldHVybiAkdGhpcy0+Z2V0VmFsdWUoJ3ZhbGlkVG8nKTsKCX0KCgoJcHVibGljIGZ1bmN0aW9uIGdldHRlckNhc2VIaXN0b3J5KCkKCXsKCQlpZiAoJHRoaXMtPmNhc2VIaXN0b3J5ID09PSBudWxsKSB7CgkJCSR0aGlzLT5jYXNlSGlzdG9yeSA9ICR0aGlzLT5vcm0tPnVuaXNDYXNlSGlzdG9yeUFjY291bnRzLT5maW5kQnkoWydwbicgPT4gJHRoaXMtPmlkXSk7CgkJfQoKCQlyZXR1cm4gJHRoaXMtPmNhc2VIaXN0b3J5ID86IG51bGw7Cgl9CgoKCXB1YmxpYyBmdW5jdGlvbiBnZXR0ZXJDZW50cmFsUHJvamVjdHMoKQoJewoJCWlmICgkdGhpcy0+Y2VudHJhbFByb2plY3RzID09PSBudWxsKSB7CgkJCSR0aGlzLT5jZW50cmFsUHJvamVjdHMgPSAkdGhpcy0+b3JtLT51bmlzQ2VudHJhbFByb2plY3RzQWNjb3VudHMtPmZpbmRCeShbJ3BuJyA9PiAkdGhpcy0+aWRdKTsKCQl9CgoJCXJldHVybiAkdGhpcy0+Y2VudHJhbFByb2plY3RzOwoJfQ==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICogQHByb3BlcnR5IHN0cmluZyAgICAgICAgICAgICAgICAgICAgICAgICAgICAkc2lnbmF0dXJlCiAqIEBwcm9wZXJ0eSBzdHJpbmcgICAgICAgICAgICAgICAgICAgICAgICAgICAgJGluY2x1c2lvbgogKiBAcHJvcGVydHkgRGF0ZVRpbWUgICAgICAgICAgICAgICAgICAgICAgICAgICR2YWxpZEZyb20KICogQHByb3BlcnR5IERhdGVUaW1lICAgICAgICAgICAgICAgICAgICAgICAgICAkdmFsaWRUbwogKiBAcHJvcGVydHktcmVhZCBzdHJpbmcgICAgICAgICAgICAgICAgICAgICAgICRlbWFpbCAgICAgICAgICAgICAgIHt2aXJ0dWFsfQogKiBAcHJvcGVydHktcmVhZCBVbmlzQ2FzZUhpc3RvcnlBY2NvdW50W10gICAgICRjYXNlSGlzdG9yeSAgICAgICAgIHt2aXJ0dWFsfQogKiBAcHJvcGVydHktcmVhZCBVbmlzQ2VudHJhbFByb2plY3RzQWNjb3VudFtdICRjZW50cmFsUHJvamVjdHMgICAgIHt2aXJ0dWFsfQ==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">JHJlZmxlY3Rpb24tPmFkZE1hcHBpbmcoJ2luY2x1c2lvbicsICd6YXJhemVuaScpOwoJCSRyZWZsZWN0aW9uLT5hZGRNYXBwaW5nKCd2YWxpZEZyb20nLCAncGxhdF9vZCcpOwoJCSRyZWZsZWN0aW9uLT5hZGRNYXBwaW5nKCd2YWxpZFRvJywgJ3BsYXRfZG8nKTs=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">SHRtbDo6ZWwoJ2EnLCBbCgkJCSdocmVmJyA9PiAkdGhpcy0+bGluaygnc2hvd0FjY291bnRzIScsIFskZW1wbG95ZWUsICdhY2NvdW50JyA9PiAkYWNjb3VudC0+Z2V0TmFtZSgpXSksCgkJCSdzdHlsZScgPT4gJGV4cGlyZWQgPyAnY29sb3I6IHJlZCcgOiBudWxsLAoJCQknY2xhc3MnID0+ICdhamF4JwoJCV0pLT5zZXRIdG1sKEh0bWw6OmVsKCdzdHJvbmcnKS0+c2V0SHRtbChIdG1sOjplbCgnc3BhbicsIFsnY2xhc3MnID0+ICdmYSBmYS1jbG9jay1vJ10pIC4KCQkJJHZhbGlkVG8tPmZvcm1hdCgnZC5tLlknKSAuCgkJCSgkbGFzdEFjY2VzcyA/ICc8YnIgLz4nIC4gSHRtbDo6ZWwoJ3NwYW4nLCAhJGV4cGlyZWQgPwoJCQkJCVsnc3R5bGUnID0+ICdjb2xvcjonIC4gKCRsYXN0QWNjZXNzID4gJG5vdy0+bW9kaWZ5KCctIDEgZGF5JykgPyAnZ3JlZW4nIDogJ3JlZCcpXSA6IG51bGwpCgkJCQkJLT5zZXRIdG1sKEh0bWw6OmVsKCdzcGFuJywgWydjbGFzcycgPT4gJ2ZhIGZhLXVzZXInXSkgLgoJCQkJCQkkbGFzdEFjY2Vzcy0+Zm9ybWF0KCdkLm0uWScpKSA6ICcnKSkpOw==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGZpbmRBbGxQbnMoKQoJewoJCXJldHVybiAkdGhpcy0+Z2V0TWFwcGVyKCktPmZpbmRBbGxQbnMoKTsKCX0KCgoJcHVibGljIGZ1bmN0aW9uIGdldEJ5UG4oaW50ICRwbikKCXsKCQlyZXR1cm4gJHRoaXMtPmdldE1hcHBlcigpLT5nZXRCeVBuKCRwbik7Cgl9Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>/**
- * @method getMapper()
- */</text>
       </register>
       <register name=":" type="4">
         <text>262</text>
       </register>
     </registers>
     <search>
-      <last-search>count($words)</last-search>
+      <last-search>find</last-search>
       <last-offset />
-      <last-pattern>count($words)</last-pattern>
+      <last-pattern>find</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -6149,11 +6163,6 @@
     </search>
     <history>
       <history-search>
-        <entry>icon-undo</entry>
-        <entry>console.log</entry>
-        <entry>blockedHours</entry>
-        <entry>parseDays</entry>
-        <entry>parseBlocked</entry>
         <entry>createTime</entry>
         <entry>parse</entry>
         <entry>parseHours</entry>
@@ -6169,6 +6178,11 @@
         <entry>href</entry>
         <entry>NULL</entry>
         <entry>count($words)</entry>
+        <entry>selct</entry>
+        <entry>select</entry>
+        <entry>dirty</entry>
+        <entry>findAll</entry>
+        <entry>find</entry>
       </history-search>
       <history-cmd>
         <entry>167</entry>
