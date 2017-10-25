@@ -517,10 +517,10 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.php" timestamp="1507100008979">
-        <mark key="[" line="136" column="27" />
-        <mark key="]" line="70" column="8" />
-        <mark key="." line="70" column="8" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.php" timestamp="1508932444946">
+        <mark key="[" line="128" column="4" />
+        <mark key="]" line="128" column="8" />
+        <mark key="." line="128" column="8" />
       </file>
       <file name="/home/www/html/dv/cms/src/Pages/Query/PagesQuery.php" timestamp="1491828474090">
         <mark key="[" line="11" column="46" />
@@ -670,7 +670,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/BaseDocument.php" timestamp="1508928219328">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/BaseDocument.php" timestamp="1508932041549">
         <mark key="[" line="163" column="8" />
         <mark key="]" line="163" column="8" />
         <mark key="." line="163" column="8" />
@@ -1147,10 +1147,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.latte" timestamp="1504104535080">
-        <mark key="[" line="16" column="22" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.latte" timestamp="1508932516131">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="4" />
+        <mark key="." line="17" column="4" />
       </file>
       <file name="/home/www/lib/vendor/symplify/symfony-event-dispatcher/src/Adapter/Symfony/DependencyInjection/Compiler/CollectEventSubscribersPass.php" timestamp="1491379376183">
         <mark key="[" line="38" column="5" />
@@ -2252,10 +2252,10 @@
         <mark key="]" line="22" column="4" />
         <mark key="." line="22" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Item.php" timestamp="1504692295569">
-        <mark key="[" line="64" column="11" />
-        <mark key="]" line="64" column="11" />
-        <mark key="." line="64" column="11" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/Item.php" timestamp="1508932548028">
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="4" />
+        <mark key="." line="158" column="4" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/client-side/js/hrncirr.cmp.mediaelement.player.init.js" timestamp="1477049218979">
         <mark key="[" line="26" column="12" />
@@ -5734,8 +5734,8 @@
         <mark key="]" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/locale/storage.cs_CZ.neon" timestamp="1504692093335">
-        <mark key="[" line="4" column="4" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/locale/storage.cs_CZ.neon" timestamp="1508932208007">
+        <mark key="[" line="32" column="46" />
         <mark key="]" line="4" column="8" />
         <mark key="." line="4" column="8" />
       </file>
@@ -6155,10 +6155,21 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZHVtcCgnYWFhYWEnKTsKCQlleGl0OwoJCQoJCWR1bXAoJHRoaXMtPm51bWJlcik7CgkJZXhpdDs=</text>
+        <text>/**
+	 * @ORM\Column(type=&quot;integer&quot;)
+	 * @Assert\NotBlank()
+	 * @Assert\Type(
+	 *      type=&quot;integer&quot;
+	 * )
+	 * @Assert\Range(
+	 *      min = 0
+	 * )
+	 * @var int
+	 */
+	protected $purchasePrice;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">WydwYXJlbnRSb290SWQnID0+IGludHxudWxsLCAnZGlyZWN0b3J5TmFtZScgPT4gc3RyaW5nfG51bGwsICdyb290SWQnID0+IGludHxudWxsXQ==</text>
+        <text>{pair stock}</text>
       </register>
       <register name="/" type="4">
         <text>root</text>
@@ -6167,31 +6178,42 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ZHVtcCgnYWFhYWEnKTsKCQlleGl0OwoJCQoJCWR1bXAoJHRoaXMtPm51bWJlcik7CgkJZXhpdDs=</text>
+        <text>/**
+	 * @ORM\Column(type=&quot;integer&quot;)
+	 * @Assert\NotBlank()
+	 * @Assert\Type(
+	 *      type=&quot;integer&quot;
+	 * )
+	 * @Assert\Range(
+	 *      min = 0
+	 * )
+	 * @var int
+	 */
+	protected $purchasePrice;</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">JGVsZmluZGVyRmlsZS0+c2V0TmFtZSgkcGFyZW50ID09PSBudWxsID8gKGlzc2V0KCRvcHRpb25zLT5kaXJlY3RvcnlOYW1lKSA/CgkJCQkoc3RyaW5nKSAkb3B0aW9ucy0+ZGlyZWN0b3J5TmFtZSA6ICRkaXIpIDogJGRpcik7</text>
+        <text encoding="base64">JGZvcm0tPmFkZEludGVnZXIoJ3B1cmNoYXNlUHJpY2UnLCAkdHJhbnNsYXRvckRvbWFpbiAuICcucHVyY2hhc2VQcmljZS50aXRsZScpCgkJCS0+c2V0QXR0cmlidXRlKCdwbGFjZWhvbGRlcicsICR0cmFuc2xhdG9yRG9tYWluIC4gJy5wdXJjaGFzZVByaWNlLnBsYWNlaG9sZGVyJyk7</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">aWYgKCRwYXJlbnQgIT09IG51bGwpIHsKCQkJCSRlbGZpbmRlckZpbGUtPnNldE5hbWUoJGRpcik7</text>
+        <text encoding="base64">ZHVtcCgnYWFhYWEnKTsKCQlleGl0OwoJCQoJCWR1bXAoJHRoaXMtPm51bWJlcik7CgkJZXhpdDs=</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">JGVsZmluZGVyRmlsZS0+c2V0TmFtZSgkcGFyZW50ID09PSBudWxsID8gKGlzc2V0KCRvcHRpb25zLT5kaXJlY3RvcnlOYW1lKSA/CgkJCQkoc3RyaW5nKSAkb3B0aW9ucy0+ZGlyZWN0b3J5TmFtZSA6ICRkaXIpIDogJGRpcik7</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">aWYgKCRwYXJlbnQgIT09IG51bGwpIHsKCQkJCSRlbGZpbmRlckZpbGUtPnNldE5hbWUoJGRpcik7</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">JGVsZmluZGVyRmlsZS0+c2V0UGFyZW50KCRwYXJlbnQgPzogKGlzc2V0KCRvcHRpb25zLT5wYXJlbnRSb290SWQpID8KCQkJCSR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeSgkdGhpcy0+ZWxGaW5kZXJGaWxlQ2xhc3NOYW1lKS0+ZmluZE9uZUJ5KFsnaWQnID0+ICRvcHRpb25zLT5wYXJlbnRSb290SWQsCgkJCQkJJ21pbWUnID0+ICdkaXJlY3RvcnknXSkgOiBudWxsKSk7</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJcRWxGaW5kZXJcRG9jdHJpbmVcTWVkaWFJbXBvcnRPcHRpb25zOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXFV0aWxzXEFycmF5SGFzaDsK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXFV0aWxzXEFycmF5SGFzaDsK</text>
+        <text encoding="base64">dXNlIEhybmNpcnJcRWxGaW5kZXJcRG9jdHJpbmVcTWVkaWFJbXBvcnRPcHRpb25zOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">dXNlIE5ldHRlXFV0aWxzXEFycmF5SGFzaDsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">QXJyYXlIYXNoOjpmcm9tKFsKCQkJCSdwYXJlbnRSb290SWQnID0+IG51bGwsCgkJCQknZGlyZWN0b3J5TmFtZScgPT4gbnVsbCwKCQkJCSdyb290SWQnID0+IG51bGwKCQkJXSk7</text>
+      <register name="9" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXFV0aWxzXEFycmF5SGFzaDsK</text>
       </register>
       <register name=":" type="4">
         <text>482</text>
