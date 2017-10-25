@@ -1654,6 +1654,9 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="/PHP Console" timestamp="1508919687851">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/home/www/html/dv/cms/Modules/Page/AdminModule/Presenters/PagesPresenter.php" timestamp="1506523039918">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="30" column="4" />
@@ -2279,6 +2282,11 @@
         <mark key="[" line="24" column="41" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/File/DI/FileExtension.php" timestamp="1508919645924">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="4" />
+        <mark key="." line="16" column="4" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Install/AddressBookInstall.php" timestamp="1506690524392">
         <mark key="[" line="24" column="44" />
@@ -3132,6 +3140,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Steiner/UnisCaseHistoryAccounts/UnisCaseHistoryAccountsMapper.php" timestamp="1508841044310" />
       <file name="/home/www/html/nnb/aktuality/app/services/Acl.php" timestamp="1478593800467">
         <mark key="[" line="24" column="22" />
         <mark key="]" line="4" column="0" />
@@ -3817,7 +3826,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508861424939">
+      <file name="/Dummy.txt" timestamp="1508918860633">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -4464,6 +4473,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/File/ElFinderFile.php" timestamp="1508918957514" />
       <file name="/home/www/html/nnb/dms/src/DMS/Files/Events/FileListener.php" timestamp="1486733507547">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="75" column="8" />
@@ -4737,6 +4747,7 @@
         <mark key="]" line="26" column="15" />
         <mark key="." line="26" column="15" />
       </file>
+      <file name="/home/www/lib/vendor/nextras/orm/src/Mapper/Dbal/DbalMapper.php" timestamp="1508841311439" />
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/OfferForm/OfferForm.php" timestamp="1508858443542">
         <mark key="[" line="51" column="6" />
         <mark key="]" line="60" column="0" />
@@ -5025,7 +5036,7 @@
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/OrdersGrid/IOrdersGridFactory.php" timestamp="1508315492152">
         <mark key="[" line="6" column="27" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/config/config.neon" timestamp="1506671979104">
+      <file name="/home/www/html/nnb/aktuality/app/config/config.neon" timestamp="1508918691424">
         <mark key="[" line="63" column="28" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
@@ -5263,6 +5274,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/File/Callbacks/MediaBeforeImportCallable.php" timestamp="1508918960330">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/FilesUploadForm/FilesUploadForm.php" timestamp="1495783367578">
         <mark key="[" line="28" column="36" />
         <mark key="]" line="118" column="22" />
@@ -5332,6 +5348,9 @@
         <mark key="[" line="14" column="24" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/File/DI/config.neon" timestamp="1508919721710">
+        <mark key="[" line="5" column="4" />
       </file>
       <file name="/home/www/html/dv/cms/src/Localization/Install/Install.php" timestamp="1491463860002">
         <mark key="[" line="2" column="23" />
@@ -6168,11 +6187,11 @@
       <jump line="92" column="8" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGxvYWRDb25maWd1cmF0aW9uKCkKCXsKCQkkYnVpbGRlciA9ICR0aGlzLT5nZXRDb250YWluZXJCdWlsZGVyKCk7CgoJCWR1bXAoJGJ1aWxkZXItPmdldERlZmluaXRpb24oJ2hybmNpcnIuZWxGaW5kZXIubWVkaWEnKSk7CgoJCWV4aXQ7Cgl9</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZHVtcCgkbWV0YWRhdGEtPmhhc0Fzc29jaWF0aW9uKCkpOw==</text>
+        <text>parent::loadConfiguration(); // TODO: Change the autogenerated stub</text>
       </register>
       <register name="/" type="4">
         <text>dump</text>
@@ -6180,32 +6199,38 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGxvYWRDb25maWd1cmF0aW9uKCkKCXsKCQkkYnVpbGRlciA9ICR0aGlzLT5nZXRDb250YWluZXJCdWlsZGVyKCk7CgoJCWR1bXAoJGJ1aWxkZXItPmdldERlZmluaXRpb24oJ2hybmNpcnIuZWxGaW5kZXIubWVkaWEnKSk7CgoJCWV4aXQ7Cgl9</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+      <register name="2" type="4">
+        <text>/**
+ * This file is part of the adera
+ *
+ * Copyright (c) 2015 Roman Hrnčíř
+ *
+ * For the full copyright and license information, please view the file license.txt that was distributed with this source code.
+ */</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlkdW1wKCRpbnZvaWNlLT5vcmRlcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJGZvcm0tPmdldFZhbHVlcygpKTsK</text>
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJGh0dHBEYXRhKTsK</text>
+        <text encoding="base64">CQlkdW1wKCRpbnZvaWNlLT5vcmRlcik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJZHVtcCgkZmllbGQpOwo=</text>
+        <text encoding="base64">CQkJCWR1bXAoJGZvcm0tPmdldFZhbHVlcygpKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">JGNsYXNzTmFtZSA9IChuZXcgXFJlZmxlY3Rpb25DbGFzcyhzdGF0aWM6OmNsYXNzKSktPmdldFNob3J0TmFtZSgpOwoKCQkkcHJvcGVydHkgPSBzZWxmOjokZG9jdW1lbnRGb3Jtc01hcFskY2xhc3NOYW1lXTsKCQkkZW50aXR5ID0gJHRoaXMtPnskcHJvcGVydHl9OwoKCQlpZiAoJGVudGl0eS0+aWQgPT09IG51bGwpIHsKCQkJZm9yZWFjaCAoc2VsZjo6JGRvY3VtZW50Rm9ybXNNYXAgYXMgJHByb3ApIHsKCQkJCWlmIChpc3NldCgkZW50aXR5LT57JHByb3B9KSkgewoJCQkJCS8vJGZvcm0tPmFkZEhpZGRlbigkcHJvcCk7CgkJCQl9CgkJCX0KCQl9</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCWR1bXAoJGh0dHBEYXRhKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJZHVtcCgkZm9ybS0+Z2V0VmFsdWVzKCktPm9yZGVyKTsK</text>
+        <text encoding="base64">CQkJCQkJZHVtcCgkZmllbGQpOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">JGNsYXNzTmFtZSA9IChuZXcgXFJlZmxlY3Rpb25DbGFzcyhzdGF0aWM6OmNsYXNzKSktPmdldFNob3J0TmFtZSgpOwoKCQkkcHJvcGVydHkgPSBzZWxmOjokZG9jdW1lbnRGb3Jtc01hcFskY2xhc3NOYW1lXTsKCQkkZW50aXR5ID0gJHRoaXMtPnskcHJvcGVydHl9OwoKCQlpZiAoJGVudGl0eS0+aWQgPT09IG51bGwpIHsKCQkJZm9yZWFjaCAoc2VsZjo6JGRvY3VtZW50Rm9ybXNNYXAgYXMgJHByb3ApIHsKCQkJCWlmIChpc3NldCgkZW50aXR5LT57JHByb3B9KSkgewoJCQkJCS8vJGZvcm0tPmFkZEhpZGRlbigkcHJvcCk7CgkJCQl9CgkJCX0KCQl9</text>
       </register>
       <register name=":" type="4">
         <text>262</text>
