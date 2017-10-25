@@ -4888,10 +4888,10 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Steiner/UnisAccounts/UnisAccountsMapper.php" timestamp="1508847118418">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Steiner/UnisAccounts/UnisAccountsMapper.php" timestamp="1508934818220">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Pages/AdminModule/Components/PagesGrid/PagesGrid.latte" timestamp="1492073772427">
         <mark key="[" line="0" column="0" />
@@ -6154,19 +6154,8 @@
       <jump line="417" column="61" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/**
-	 * @ORM\Column(type=&quot;integer&quot;)
-	 * @Assert\NotBlank()
-	 * @Assert\Type(
-	 *      type=&quot;integer&quot;
-	 * )
-	 * @Assert\Range(
-	 *      min = 0
-	 * )
-	 * @var int
-	 */
-	protected $purchasePrice;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkkcmVmbGVjdGlvbi0+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>{pair stock}</text>
@@ -6177,7 +6166,10 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQkkcmVmbGVjdGlvbi0+Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>/**
 	 * @ORM\Column(type=&quot;integer&quot;)
 	 * @Assert\NotBlank()
@@ -6191,26 +6183,23 @@
 	 */
 	protected $purchasePrice;</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">JGZvcm0tPmFkZEludGVnZXIoJ3B1cmNoYXNlUHJpY2UnLCAkdHJhbnNsYXRvckRvbWFpbiAuICcucHVyY2hhc2VQcmljZS50aXRsZScpCgkJCS0+c2V0QXR0cmlidXRlKCdwbGFjZWhvbGRlcicsICR0cmFuc2xhdG9yRG9tYWluIC4gJy5wdXJjaGFzZVByaWNlLnBsYWNlaG9sZGVyJyk7</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ZHVtcCgnYWFhYWEnKTsKCQlleGl0OwoJCQoJCWR1bXAoJHRoaXMtPm51bWJlcik7CgkJZXhpdDs=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">JGVsZmluZGVyRmlsZS0+c2V0TmFtZSgkcGFyZW50ID09PSBudWxsID8gKGlzc2V0KCRvcHRpb25zLT5kaXJlY3RvcnlOYW1lKSA/CgkJCQkoc3RyaW5nKSAkb3B0aW9ucy0+ZGlyZWN0b3J5TmFtZSA6ICRkaXIpIDogJGRpcik7</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">aWYgKCRwYXJlbnQgIT09IG51bGwpIHsKCQkJCSRlbGZpbmRlckZpbGUtPnNldE5hbWUoJGRpcik7</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">JGVsZmluZGVyRmlsZS0+c2V0UGFyZW50KCRwYXJlbnQgPzogKGlzc2V0KCRvcHRpb25zLT5wYXJlbnRSb290SWQpID8KCQkJCSR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeSgkdGhpcy0+ZWxGaW5kZXJGaWxlQ2xhc3NOYW1lKS0+ZmluZE9uZUJ5KFsnaWQnID0+ICRvcHRpb25zLT5wYXJlbnRSb290SWQsCgkJCQkJJ21pbWUnID0+ICdkaXJlY3RvcnknXSkgOiBudWxsKSk7</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJcRWxGaW5kZXJcRG9jdHJpbmVcTWVkaWFJbXBvcnRPcHRpb25zOwo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXFV0aWxzXEFycmF5SGFzaDsK</text>
+        <text encoding="base64">dXNlIEhybmNpcnJcRWxGaW5kZXJcRG9jdHJpbmVcTWVkaWFJbXBvcnRPcHRpb25zOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">dXNlIE5ldHRlXFV0aWxzXEFycmF5SGFzaDsK</text>
