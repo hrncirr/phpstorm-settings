@@ -290,11 +290,11 @@
         <mark key="." line="24" column="4" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerListener.php" timestamp="1508927671822">
-        <mark key="'" line="226" column="47" />
-        <mark key="[" line="221" column="39" />
-        <mark key="]" line="221" column="40" />
-        <mark key="." line="221" column="40" />
-        <mark key="^" line="221" column="40" />
+        <mark key="'" line="225" column="47" />
+        <mark key="[" line="220" column="39" />
+        <mark key="]" line="220" column="40" />
+        <mark key="." line="220" column="40" />
+        <mark key="^" line="220" column="40" />
       </file>
       <file name="/home/www/vendor/hrncirr/media/src/Utils/FileLinkGenerator.php" timestamp="1507126000013">
         <mark key="[" line="10" column="0" />
@@ -1059,8 +1059,8 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" timestamp="1508927707785">
-        <mark key="'" line="450" column="102" />
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" timestamp="1508929276749">
+        <mark key="'" line="417" column="61" />
         <mark key="[" line="481" column="39" />
         <mark key="]" line="491" column="58" />
         <mark key="." line="491" column="58" />
@@ -3808,7 +3808,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508925902294">
+      <file name="/Dummy.txt" timestamp="1508929307780">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -6052,12 +6052,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="901" column="32" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="902" column="49" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1148" column="94" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1149" column="30" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1152" column="92" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1153" column="30" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="1160" column="38" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="1161" column="89" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="1162" column="19" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
@@ -6147,11 +6141,17 @@
       <jump line="267" column="34" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
       <jump line="272" column="56" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
       <jump line="289" column="58" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
-      <jump line="310" column="49" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
       <jump line="226" column="47" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerListener.php" />
       <jump line="471" column="25" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
       <jump line="448" column="47" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
       <jump line="450" column="102" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
+      <jump line="313" column="16" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
+      <jump line="439" column="21" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
+      <jump line="310" column="27" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
+      <jump line="314" column="30" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
+      <jump line="321" column="49" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
+      <jump line="401" column="49" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
+      <jump line="417" column="61" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -6161,7 +6161,7 @@
         <text encoding="base64">WydwYXJlbnRSb290SWQnID0+IGludHxudWxsLCAnZGlyZWN0b3J5TmFtZScgPT4gc3RyaW5nfG51bGwsICdyb290SWQnID0+IGludHxudWxsXQ==</text>
       </register>
       <register name="/" type="4">
-        <text>rootId</text>
+        <text>root</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
@@ -6198,9 +6198,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rootId</last-search>
+      <last-search>root</last-search>
       <last-offset />
-      <last-pattern>rootId</last-pattern>
+      <last-pattern>root</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -6208,8 +6208,6 @@
     </search>
     <history>
       <history-search>
-        <entry>blocked</entry>
-        <entry>lockLimit</entry>
         <entry>isLocked</entry>
         <entry>parameters</entry>
         <entry>Inquiry</entry>
@@ -6228,6 +6226,8 @@
         <entry>options</entry>
         <entry>importById</entry>
         <entry>rootId</entry>
+        <entry>addDirs</entry>
+        <entry>root</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Show/View/g</entry>
