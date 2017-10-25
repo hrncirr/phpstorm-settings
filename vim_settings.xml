@@ -663,7 +663,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/BaseDocument.php" timestamp="1508858990220">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/BaseDocument.php" timestamp="1508916806445">
         <mark key="[" line="132" column="8" />
         <mark key="]" line="134" column="8" />
         <mark key="." line="134" column="8" />
@@ -1396,10 +1396,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseDocumentFormControl.php" timestamp="1508916486247">
-        <mark key="[" line="62" column="20" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseDocumentFormControl.php" timestamp="1508917569942">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/Controls/ToMany.php" timestamp="1502467453007">
         <mark key="[" line="51" column="75" />
@@ -4238,12 +4238,11 @@
         <mark key="]" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" timestamp="1508915420472">
-        <mark key="'" line="92" column="8" />
-        <mark key="[" line="92" column="8" />
-        <mark key="]" line="55" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" timestamp="1508917797220">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
         <mark key="^" line="56" column="32" />
-        <mark key="." line="55" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="/home/www/html/nnb/nezadouci-udalosti/app/config/client-side.neon" timestamp="1503925745906">
         <mark key="[" line="37" column="12" />
@@ -6185,28 +6184,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQlkdW1wKCRlbnRpdHktPnskcHJvcH0pOwo=</text>
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlkdW1wKCRpbnZvaWNlLT5vcmRlcik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJLy9kdW1wKCRlbnRpdHkpOwo=</text>
+        <text encoding="base64">CQkJCWR1bXAoJGZvcm0tPmdldFZhbHVlcygpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQlicmVhazsK</text>
+        <text encoding="base64">CQkJCWR1bXAoJGh0dHBEYXRhKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlkdW1wKCRwcm9wKTsK</text>
+        <text encoding="base64">CQkJCQkJZHVtcCgkZmllbGQpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">JGNsYXNzTmFtZSA9IChuZXcgXFJlZmxlY3Rpb25DbGFzcyhzdGF0aWM6OmNsYXNzKSktPmdldFNob3J0TmFtZSgpOwoKCQkkcHJvcGVydHkgPSBzZWxmOjokZG9jdW1lbnRGb3Jtc01hcFskY2xhc3NOYW1lXTsKCQkkZW50aXR5ID0gJHRoaXMtPnskcHJvcGVydHl9OwoKCQlpZiAoJGVudGl0eS0+aWQgPT09IG51bGwpIHsKCQkJZm9yZWFjaCAoc2VsZjo6JGRvY3VtZW50Rm9ybXNNYXAgYXMgJHByb3ApIHsKCQkJCWlmIChpc3NldCgkZW50aXR5LT57JHByb3B9KSkgewoJCQkJCS8vJGZvcm0tPmFkZEhpZGRlbigkcHJvcCk7CgkJCQl9CgkJCX0KCQl9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJJG1ldGFkYXRhID0gJHRoaXMtPmVtLT5nZXRDbGFzc01ldGFkYXRhKGdldF9jbGFzcygkZW50aXR5KSk7Cg==</text>
+        <text encoding="base64">CQkJZHVtcCgkZm9ybS0+Z2V0VmFsdWVzKCktPm9yZGVyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJ25lZWVlZWUnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>262</text>
