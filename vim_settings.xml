@@ -203,6 +203,9 @@
         <mark key="]" line="90" column="12" />
         <mark key="." line="90" column="12" />
       </file>
+      <file name="/home/www/lib/vendor/nextras/orm/src/Entity/AbstractEntity.php" timestamp="1509021352501">
+        <mark key="'" line="431" column="21" />
+      </file>
       <file name="/home/www/html/dv/cms/Modules/Storage/Components/ItemForm/ItemForm.php" timestamp="1500550360573">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
@@ -1067,10 +1070,10 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Employees/Employee.php" timestamp="1509020116208">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Employees/Employee.php" timestamp="1509021478879">
+        <mark key="[" line="87" column="16" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="/home/www/html/bul/medical_examinations/app/presenters/BasePresenter.php" timestamp="1481034289815">
         <mark key="[" line="21" column="14" />
@@ -6028,8 +6031,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1168" column="77" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1174" column="47" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="1175" column="19" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="1465" column="17" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="1609" column="56" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
@@ -6128,58 +6129,60 @@
       <jump line="201" column="20" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" />
       <jump line="11" column="12" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccountsLastAccessControl/templates/apotheke.latte" />
       <jump line="187" column="14" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" />
+      <jump line="44" column="0" filename="/home/www/lib/vendor/nextras/orm/src/Entity/AbstractEntity.php" />
+      <jump line="431" column="21" filename="/home/www/lib/vendor/nextras/orm/src/Entity/AbstractEntity.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICogQHByb3BlcnR5LXJlYWQgQ2VydGlmaWNhdGUgICAgICAgJGxhc3RDZXJ0aWZpY2F0ZSAgICAgICAgIHt2aXJ0dWFsfQo=</text>
+        <text encoding="base64">CQlkdW1wKCR0aGlzKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">e2lmICRhcG90aGVrZUFjY291bnQtPmhhc1ZhbHVlKCdkZXBhcnRtZW50SWQnKX0=</text>
       </register>
       <register name="/" type="4">
-        <text>dump</text>
+        <text>getter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CQlkdW1wKCR0aGlzKTsK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICogQHByb3BlcnR5LXJlYWQgQ2VydGlmaWNhdGUgICAgICAgJGxhc3RDZXJ0aWZpY2F0ZSAgICAgICAgIHt2aXJ0dWFsfQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>/**
 	 * @var Certificate[]
 	 */
 	private static $lastCertificates = [];</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldHRlckxhc3RDZXJ0aWZpY2F0ZSgpCgl7CgkJaWYgKCFhcnJheV9rZXlfZXhpc3RzKCR0aGlzLT5wbiwgc2VsZjo6JGxhc3RDZXJ0aWZpY2F0ZXMpICYmICR0aGlzLT5oYXNWYWx1ZSgnZW1haWwnKSkgewoJCQkkbGFzdENlcnRpZmljYXRlID0gJHRoaXMtPm9ybS0+Y2VydGlmaWNhdGVzLT5nZXRCeUVtYWlsKCR0aGlzLT5lbWFpbCk7CgkJCXNlbGY6OiRsYXN0Q2VydGlmaWNhdGVzWyR0aGlzLT5wbl0gPSAkbGFzdENlcnRpZmljYXRlID86IG51bGw7CgkJfQoKCQlyZXR1cm4gc2VsZjo6JGxhc3RDZXJ0aWZpY2F0ZXNbJHRoaXMtPnBuXSA/PyBudWxsOwoJfQ==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJCSovCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJCS8qCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJPHRoPk7DoWtsYWRvdsOpIHN0xZllZGlza28gb2RkxJtsZW7DrTwvdGg+Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">PHRkPgoJCQkJe2lmICRhcG90aGVrZUFjY291bnQtPmhhc1ZhbHVlKCdzdG9ja05hbWUnKX0KCQkJCQl7JGFwb3RoZWtlQWNjb3VudC0+c3RvY2tOYW1lfQoJCQkJe2Vsc2V9CgkJCQkJJm5ic3A7CgkJCQl7L2lmfQoJCQk8L3RkPg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ZWxzZX0KCQkJCQkmbmJzcDsKCQkJCXsvaWZ9</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCXtpZiAkYXBvdGhla2VBY2NvdW50LT5oYXNWYWx1ZSgnc3RvY2tOYW1lJyl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/apothekeAccount/row/g</text>
       </register>
     </registers>
     <search>
-      <last-search>dump</last-search>
+      <last-search>getter</last-search>
       <last-offset />
-      <last-pattern>dump</last-pattern>
+      <last-pattern>getter</last-pattern>
       <last-replace>row</last-replace>
       <last-substitute>apothekeAccount</last-substitute>
       <last-dir>1</last-dir>
@@ -6187,7 +6190,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Inquiry</entry>
         <entry>inquiry</entry>
         <entry>apotheke</entry>
         <entry>href</entry>
@@ -6207,6 +6209,7 @@
         <entry>Email</entry>
         <entry>apothekeAccount</entry>
         <entry>dump</entry>
+        <entry>getter</entry>
       </history-search>
       <history-cmd>
         <entry>%s/show/view/g</entry>
