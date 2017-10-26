@@ -1070,10 +1070,10 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Employees/Employee.php" timestamp="1509021478879">
-        <mark key="[" line="87" column="16" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Employees/Employee.php" timestamp="1509023749210">
+        <mark key="[" line="91" column="8" />
+        <mark key="]" line="91" column="8" />
+        <mark key="." line="91" column="8" />
       </file>
       <file name="/home/www/html/bul/medical_examinations/app/presenters/BasePresenter.php" timestamp="1481034289815">
         <mark key="[" line="21" column="14" />
@@ -1833,8 +1833,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccountsControl/templates/amadeus.latte" timestamp="1508505201041">
-        <mark key="[" line="20" column="24" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccountsControl/templates/amadeus.latte" timestamp="1509022860050">
+        <mark key="[" line="12" column="47" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
@@ -1968,8 +1968,8 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1509019557915">
-        <mark key="'" line="187" column="14" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1509022777990">
+        <mark key="'" line="197" column="42" />
         <mark key="[" line="282" column="64" />
         <mark key="]" line="218" column="0" />
         <mark key="." line="218" column="0" />
@@ -5083,10 +5083,10 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/DI/AccessRightsExtension.php" timestamp="1505743926943">
-        <mark key="[" line="30" column="65" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/DI/AccessRightsExtension.php" timestamp="1509023699160">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/InfoControl/InfoControl.php" timestamp="1495783168849">
         <mark key="[" line="21" column="0" />
@@ -5304,7 +5304,7 @@
         <mark key="]" line="15" column="47" />
         <mark key="." line="15" column="47" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccountsLastAccessControl/AccountsLastAccessControl.php" timestamp="1509018898664">
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccountsLastAccessControl/AccountsLastAccessControl.php" timestamp="1509023219280">
         <mark key="[" line="110" column="56" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Components/FileManagerDialogControl/IFileManagerDialogControlFactory.php" timestamp="1507213087167">
@@ -5486,6 +5486,9 @@
         <mark key="[" line="157" column="86" />
         <mark key="]" line="110" column="0" />
         <mark key="." line="110" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Steiner/AmadeusAccounts/AmadeusAccountsRepository.php" timestamp="1509022215994">
+        <mark key="[" line="28" column="8" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/events/ElfinderFileListener.php" timestamp="1477928207863">
         <mark key="[" line="67" column="16" />
@@ -6031,7 +6034,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1175" column="19" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="1465" column="17" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="1609" column="56" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="1610" column="47" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
@@ -6131,58 +6133,56 @@
       <jump line="187" column="14" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" />
       <jump line="44" column="0" filename="/home/www/lib/vendor/nextras/orm/src/Entity/AbstractEntity.php" />
       <jump line="431" column="21" filename="/home/www/lib/vendor/nextras/orm/src/Entity/AbstractEntity.php" />
+      <jump line="197" column="42" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JHRoaXMtPmFjY291bnRzQ29uZmlnID0gWwoJCQknYW1hZGV1cycgPT4gJ2FtYWRldXNBY2NvdW50cycKCQldOw==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">e2lmICRhcG90aGVrZUFjY291bnQtPmhhc1ZhbHVlKCdkZXBhcnRtZW50SWQnKX0=</text>
       </register>
       <register name="/" type="4">
-        <text>getter</text>
+        <text>amadeus</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">JHRoaXMtPmFjY291bnRzQ29uZmlnID0gWwoJCQknYW1hZGV1cycgPT4gJ2FtYWRldXNBY2NvdW50cycKCQldOw==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQHByb3BlcnR5LXJlYWQgQ2VydGlmaWNhdGUgICAgICAgJGxhc3RDZXJ0aWZpY2F0ZSAgICAgICAgIHt2aXJ0dWFsfQo=</text>
+        <text encoding="base64">CQkkdGhpcy0+Y29tcGlsZXItPmFkZENvbmZpZyhbJ3BhcmFtZXRlcnMnID0+IFsnYWNjb3VudHMnID0+ICR0aGlzLT5hY2NvdW50c11dKTsK</text>
       </register>
       <register name="3" type="4">
-        <text>/**
-	 * @var Certificate[]
-	 */
-	private static $lastCertificates = [];</text>
+        <text encoding="base64">JHRoaXMtPm9ybSA9ICRvcm1Nb2RlbDsKCgkJJHRoaXMtPmFjY291bnRzQ29uZmlnID0gWwoJCQknYW1hZGV1cycgPT4gJ2FtYWRldXNBY2NvdW50cycKCQldOw==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldHRlckxhc3RDZXJ0aWZpY2F0ZSgpCgl7CgkJaWYgKCFhcnJheV9rZXlfZXhpc3RzKCR0aGlzLT5wbiwgc2VsZjo6JGxhc3RDZXJ0aWZpY2F0ZXMpICYmICR0aGlzLT5oYXNWYWx1ZSgnZW1haWwnKSkgewoJCQkkbGFzdENlcnRpZmljYXRlID0gJHRoaXMtPm9ybS0+Y2VydGlmaWNhdGVzLT5nZXRCeUVtYWlsKCR0aGlzLT5lbWFpbCk7CgkJCXNlbGY6OiRsYXN0Q2VydGlmaWNhdGVzWyR0aGlzLT5wbl0gPSAkbGFzdENlcnRpZmljYXRlID86IG51bGw7CgkJfQoKCQlyZXR1cm4gc2VsZjo6JGxhc3RDZXJ0aWZpY2F0ZXNbJHRoaXMtPnBuXSA/PyBudWxsOwoJfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCSovCg==</text>
+        <text encoding="base64">CQkJLy8kYWNjb3VudCA9IGNhbGxfdXNlcl9mdW5jKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCS8qCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJPHRoPk7DoWtsYWRvdsOpIHN0xZllZGlza28gb2RkxJtsZW7DrTwvdGg+Cg==</text>
+        <text encoding="base64">CQlkdW1wKHNlbGY6OiRhY2NvdW50cyk7Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">PHRkPgoJCQkJe2lmICRhcG90aGVrZUFjY291bnQtPmhhc1ZhbHVlKCdzdG9ja05hbWUnKX0KCQkJCQl7JGFwb3RoZWtlQWNjb3VudC0+c3RvY2tOYW1lfQoJCQkJe2Vsc2V9CgkJCQkJJm5ic3A7CgkJCQl7L2lmfQoJCQk8L3RkPg==</text>
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldEFjY291bnRCeU5hbWUoJG5hbWUpCgl7CgkJaWYgKCFhcnJheV9rZXlfZXhpc3RzKCR0aGlzLT5wbiwgc2VsZjo6JGFjY291bnRzWyRuYW1lXSkpIHsKCQkJCgkJCXNlbGY6OiRhY2NvdW50c1skbmFtZV1bJHRoaXMtPnBuXSA9ICRhY2NvdW50QWNjZXNzID86IG51bGw7CgkJfQoJCQoJCXJldHVybiBzZWxmOjokYWNjb3VudHNbJG5hbWVdWyR0aGlzLT5wbl0gPz8gbnVsbDsKCX0=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZWxzZX0KCQkJCQkmbmJzcDsKCQkJCXsvaWZ9</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQlkdW1wKCR0aGlzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/apothekeAccount/row/g</text>
       </register>
     </registers>
     <search>
-      <last-search>getter</last-search>
+      <last-search>amadeus</last-search>
       <last-offset />
-      <last-pattern>getter</last-pattern>
+      <last-pattern>amadeus</last-pattern>
       <last-replace>row</last-replace>
       <last-substitute>apothekeAccount</last-substitute>
       <last-dir>1</last-dir>
@@ -6190,7 +6190,6 @@
     </search>
     <history>
       <history-search>
-        <entry>inquiry</entry>
         <entry>apotheke</entry>
         <entry>href</entry>
         <entry>NULL</entry>
@@ -6210,6 +6209,7 @@
         <entry>apothekeAccount</entry>
         <entry>dump</entry>
         <entry>getter</entry>
+        <entry>amadeus</entry>
       </history-search>
       <history-cmd>
         <entry>%s/show/view/g</entry>
