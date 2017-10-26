@@ -1067,10 +1067,10 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Employees/Employee.php" timestamp="1509019618931">
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="4" />
-        <mark key="." line="155" column="4" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Employees/Employee.php" timestamp="1509020116208">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="/home/www/html/bul/medical_examinations/app/presenters/BasePresenter.php" timestamp="1481034289815">
         <mark key="[" line="21" column="14" />
@@ -6130,8 +6130,8 @@
       <jump line="187" column="14" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldHRlckxhc3RDZXJ0aWZpY2F0ZSgpCgl7CgkJaWYgKCFhcnJheV9rZXlfZXhpc3RzKCR0aGlzLT5wbiwgc2VsZjo6JGxhc3RDZXJ0aWZpY2F0ZXMpICYmICR0aGlzLT5oYXNWYWx1ZSgnZW1haWwnKSkgewoJCQkkbGFzdENlcnRpZmljYXRlID0gJHRoaXMtPm9ybS0+Y2VydGlmaWNhdGVzLT5nZXRCeUVtYWlsKCR0aGlzLT5lbWFpbCk7CgkJCXNlbGY6OiRsYXN0Q2VydGlmaWNhdGVzWyR0aGlzLT5wbl0gPSAkbGFzdENlcnRpZmljYXRlID86IG51bGw7CgkJfQoKCQlyZXR1cm4gc2VsZjo6JGxhc3RDZXJ0aWZpY2F0ZXNbJHRoaXMtPnBuXSA/PyBudWxsOwoJfQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICogQHByb3BlcnR5LXJlYWQgQ2VydGlmaWNhdGUgICAgICAgJGxhc3RDZXJ0aWZpY2F0ZSAgICAgICAgIHt2aXJ0dWFsfQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">e2lmICRhcG90aGVrZUFjY291bnQtPmhhc1ZhbHVlKCdkZXBhcnRtZW50SWQnKX0=</text>
@@ -6142,32 +6142,35 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICogQHByb3BlcnR5LXJlYWQgQ2VydGlmaWNhdGUgICAgICAgJGxhc3RDZXJ0aWZpY2F0ZSAgICAgICAgIHt2aXJ0dWFsfQo=</text>
+      </register>
+      <register name="2" type="4">
+        <text>/**
+	 * @var Certificate[]
+	 */
+	private static $lastCertificates = [];</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldHRlckxhc3RDZXJ0aWZpY2F0ZSgpCgl7CgkJaWYgKCFhcnJheV9rZXlfZXhpc3RzKCR0aGlzLT5wbiwgc2VsZjo6JGxhc3RDZXJ0aWZpY2F0ZXMpICYmICR0aGlzLT5oYXNWYWx1ZSgnZW1haWwnKSkgewoJCQkkbGFzdENlcnRpZmljYXRlID0gJHRoaXMtPm9ybS0+Y2VydGlmaWNhdGVzLT5nZXRCeUVtYWlsKCR0aGlzLT5lbWFpbCk7CgkJCXNlbGY6OiRsYXN0Q2VydGlmaWNhdGVzWyR0aGlzLT5wbl0gPSAkbGFzdENlcnRpZmljYXRlID86IG51bGw7CgkJfQoKCQlyZXR1cm4gc2VsZjo6JGxhc3RDZXJ0aWZpY2F0ZXNbJHRoaXMtPnBuXSA/PyBudWxsOwoJfQ==</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkJCSovCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJCS8qCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJPHRoPk7DoWtsYWRvdsOpIHN0xZllZGlza28gb2RkxJtsZW7DrTwvdGg+Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">PHRkPgoJCQkJe2lmICRhcG90aGVrZUFjY291bnQtPmhhc1ZhbHVlKCdzdG9ja05hbWUnKX0KCQkJCQl7JGFwb3RoZWtlQWNjb3VudC0+c3RvY2tOYW1lfQoJCQkJe2Vsc2V9CgkJCQkJJm5ic3A7CgkJCQl7L2lmfQoJCQk8L3RkPg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ZWxzZX0KCQkJCQkmbmJzcDsKCQkJCXsvaWZ9</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQkJCXtpZiAkYXBvdGhla2VBY2NvdW50LT5oYXNWYWx1ZSgnc3RvY2tOYW1lJyl9Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">e2Vsc2V9CgkJCQkJJm5ic3A7CgkJCQl7L2lmfQ==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">e2Vsc2V9CgkJCQkJJm5ic3A7CgkJCQl7L2lmfQ==</text>
       </register>
       <register name=":" type="4">
         <text>%s/apothekeAccount/row/g</text>
