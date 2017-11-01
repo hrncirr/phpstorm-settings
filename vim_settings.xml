@@ -523,11 +523,10 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.php" timestamp="1509543681069">
-        <mark key="[" line="158" column="16" />
-        <mark key="]" line="158" column="16" />
-        <mark key="." line="158" column="16" />
-        <mark key="^" line="170" column="52" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.php" timestamp="1509546443640">
+        <mark key="[" line="156" column="34" />
+        <mark key="]" line="162" column="0" />
+        <mark key="." line="162" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/src/Pages/Query/PagesQuery.php" timestamp="1491828474090">
         <mark key="[" line="11" column="46" />
@@ -2074,10 +2073,11 @@
         <mark key="]" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/forms-tags-input/src/Controls/TagsInput.php" timestamp="1509543592184">
-        <mark key="[" line="166" column="12" />
-        <mark key="]" line="166" column="12" />
-        <mark key="." line="166" column="12" />
+      <file name="/home/www/lib/vendor/hrncirr/forms-tags-input/src/Controls/TagsInput.php" timestamp="1509546787380">
+        <mark key="[" line="165" column="16" />
+        <mark key="]" line="165" column="12" />
+        <mark key="." line="165" column="12" />
+        <mark key="^" line="165" column="12" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/client-side/js/hrncirr.mediaelement.init.js" timestamp="1476357940960">
         <mark key="[" line="27" column="66" />
@@ -3955,7 +3955,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509527688860">
+      <file name="/Dummy.txt" timestamp="1509546841552">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -6477,12 +6477,11 @@
       <jump line="171" column="27" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaListener.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dump($item);
-				exit;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCXJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="-" type="4">
-        <text>if (self::parseItemValue($value))) {</text>
+        <text encoding="base64">JGl0ZW1Hcm91cCA9ICR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeSgkY2xhc3NOYW1lKS0+ZmluZE9uZUJ5KFsnbmFtZScgPT4gJGl0ZW1dKTs=</text>
       </register>
       <register name="/" type="4">
         <text>countFiles</text>
@@ -6490,35 +6489,36 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
-        <text>dump($item);
-				exit;</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCXJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CQlyZXR1cm4gJG1hdGNoZXNbMV07CgkJCQl9CgkJCX0KCgkJCXJldHVybiBzZWxmOjpLRVlfUFJFRklYIC4gJHZhbHVlIC4gc2VsZjo6S0VZX1NVRkZJWDs=</text>
+        <text>if (!self::isItemNew($value)) {
+				return $value;
+			}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlyZXR1cm4gJHRoaXMtPnZhbHVlOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCWR1c3AoJ2FhYWEnKTsK</text>
-      </register>
-      <register name="5" type="4">
-        <text>//dump($item);
-				//dump($itemGroup);</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>dump($item);
-				exit;</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CQkJCWR1bXAoJGl0ZW0pOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCQkkaXRlbUdyb3VwID0gJHRoaXMtPmVtLT5nZXRSZXBvc2l0b3J5KCRjbGFzc05hbWUpLT5maW5kKCRpdGVtKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCSRpdGVtR3JvdXAgPSAkdGhpcy0+ZW0tPmdldFJlcG9zaXRvcnkoJGNsYXNzTmFtZSktPmZpbmRPbmVCeShbJ25hbWUnID0+ICRpdGVtXSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCSRpdGVtID0gKCk7Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>if (preg_match('~^' . self::KEY_PREFIX . '(\w+)' . self::KEY_SUFFIX . '$~', $value, $matches)) {
+				return $matches[1];
+			}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
