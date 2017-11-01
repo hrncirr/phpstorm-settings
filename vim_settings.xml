@@ -523,11 +523,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.php" timestamp="1509542281039">
-        <mark key="[" line="154" column="85" />
-        <mark key="]" line="167" column="52" />
-        <mark key="." line="167" column="52" />
-        <mark key="^" line="167" column="52" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.php" timestamp="1509543681069">
+        <mark key="[" line="158" column="16" />
+        <mark key="]" line="158" column="16" />
+        <mark key="." line="158" column="16" />
+        <mark key="^" line="170" column="52" />
       </file>
       <file name="/home/www/html/dv/cms/src/Pages/Query/PagesQuery.php" timestamp="1491828474090">
         <mark key="[" line="11" column="46" />
@@ -2074,10 +2074,10 @@
         <mark key="]" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/forms-tags-input/src/Controls/TagsInput.php" timestamp="1509542167715">
-        <mark key="[" line="167" column="27" />
-        <mark key="]" line="167" column="27" />
-        <mark key="." line="167" column="27" />
+      <file name="/home/www/lib/vendor/hrncirr/forms-tags-input/src/Controls/TagsInput.php" timestamp="1509543592184">
+        <mark key="[" line="166" column="12" />
+        <mark key="]" line="166" column="12" />
+        <mark key="." line="166" column="12" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/client-side/js/hrncirr.mediaelement.init.js" timestamp="1476357940960">
         <mark key="[" line="27" column="66" />
@@ -6478,10 +6478,11 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YXJyYXlfa2V5X2V4aXN0cygkbWF0Y2hlc1sxXSwgYXJyYXlfa2V5cygkdGhpcy0+aXRlbXMpKSA/</text>
+        <text>dump($item);
+				exit;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXJyYXlfa2V5X2V4aXN0cygkbWF0Y2hlc1sxXSwgYXJyYXlfa2V5cygkdGhpcy0+aXRlbXMpKSA/</text>
+        <text>if (self::parseItemValue($value))) {</text>
       </register>
       <register name="/" type="4">
         <text>countFiles</text>
@@ -6489,34 +6490,35 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlyZXR1cm4gJHRoaXMtPnZhbHVlOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCWR1c3AoJ2FhYWEnKTsK</text>
-      </register>
-      <register name="3" type="4">
-        <text>//dump($item);
-				//dump($itemGroup);</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
-      </register>
-      <register name="5" type="4">
+      <register name="1" type="4">
         <text>dump($item);
 				exit;</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">CQlyZXR1cm4gJG1hdGNoZXNbMV07CgkJCQl9CgkJCX0KCgkJCXJldHVybiBzZWxmOjpLRVlfUFJFRklYIC4gJHZhbHVlIC4gc2VsZjo6S0VZX1NVRkZJWDs=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQlyZXR1cm4gJHRoaXMtPnZhbHVlOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCWR1c3AoJ2FhYWEnKTsK</text>
+      </register>
+      <register name="5" type="4">
+        <text>//dump($item);
+				//dump($itemGroup);</text>
+      </register>
       <register name="6" type="2">
+        <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text>dump($item);
+				exit;</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJGl0ZW0pOwo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZWxzZWlmICgkZmlsZSBpbnN0YW5jZW9mIElJbWFnZSAmJiBTdHJpbmdzOjptYXRjaCgkbmFtZSwgJyMnIC4gcHJlZ19xdW90ZSgkcG9zdGZpeCwgJyMnKSAuICckIycpKSB7CgkJCQkJJHBvc3RmaXggLj0gJy0nOwoJCQkJCSRuYW1lIC49ICRwb3N0Zml4IC4gJzEnOwoJCQkJfSA=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJCWR1bXAoJGl0ZW0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
