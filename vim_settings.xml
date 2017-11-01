@@ -139,10 +139,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaListener.php" timestamp="1507278112353">
-        <mark key="[" line="282" column="8" />
-        <mark key="]" line="282" column="8" />
-        <mark key="." line="282" column="8" />
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaListener.php" timestamp="1509525493839">
+        <mark key="'" line="171" column="27" />
+        <mark key="[" line="262" column="18" />
+        <mark key="]" line="262" column="18" />
+        <mark key="." line="262" column="18" />
+        <mark key="^" line="293" column="4" />
       </file>
       <file name="/home/www/html/dv/adera/src/User/Resource.php" timestamp="1508419719688">
         <mark key="[" line="69" column="4" />
@@ -521,10 +523,10 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.php" timestamp="1509463848657">
-        <mark key="[" line="171" column="4" />
-        <mark key="]" line="139" column="8" />
-        <mark key="." line="139" column="8" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.php" timestamp="1509523643721">
+        <mark key="[" line="175" column="38" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/src/Pages/Query/PagesQuery.php" timestamp="1491828474090">
         <mark key="[" line="11" column="46" />
@@ -545,6 +547,11 @@
         <mark key="[" line="30" column="53" />
         <mark key="]" line="31" column="4" />
         <mark key="." line="31" column="4" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/File/Events/ElFinderFileListener.php" timestamp="1509525338966">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/App/TechnicalRequisitions/components/TechnicalRequestionsGrid/TagsGrid.php" timestamp="1485509176524">
         <mark key="[" line="113" column="4" />
@@ -888,7 +895,7 @@
         <mark key="]" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/DI/config.neon" timestamp="1509028810173">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/DI/config.neon" timestamp="1509523922948">
         <mark key="[" line="17" column="31" />
         <mark key="]" line="17" column="4" />
         <mark key="." line="17" column="4" />
@@ -1170,6 +1177,9 @@
         <mark key="[" line="39" column="12" />
         <mark key="]" line="39" column="12" />
         <mark key="." line="39" column="12" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/Storage/DI/config.neon" timestamp="1509523941142">
+        <mark key="[" line="1" column="19" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Components/ProfessionsStatesGrid/ProfessionsStatesGrid.latte" timestamp="1490705518114">
         <mark key="[" line="17" column="32" />
@@ -3936,7 +3946,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509465876430">
+      <file name="/Dummy.txt" timestamp="1509525574102">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -5397,6 +5407,9 @@
         <mark key="]" line="91" column="8" />
         <mark key="." line="91" column="8" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/FileManagerControlFactory.php" timestamp="1509524084865">
+        <mark key="[" line="84" column="27" />
+      </file>
       <file name="/home/www/vendor/hrncirr/modals/src/TModalControl.php" timestamp="1507127563077">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -6356,10 +6369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1610" column="47" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1611" column="56" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1612" column="13" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1613" column="69" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="1614" column="39" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="1615" column="39" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="13" column="15" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
@@ -6456,69 +6465,73 @@
       <jump line="197" column="42" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" />
       <jump line="25" column="6" filename="/home/www/lib/vendor/nextras/orm/src/Mapper/Dbal/DbalMapper.php" />
       <jump line="82" column="32" filename="/home/www/html/nnb/passportization/src/AccessRights/DI/AccessRightsExtension.php" />
+      <jump line="72" column="31" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaListener.php" />
+      <jump line="291" column="4" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaListener.php" />
+      <jump line="141" column="28" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaListener.php" />
+      <jump line="171" column="27" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaListener.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{label }</text>
+        <text encoding="base64">ZWxzZWlmICgkZmlsZSBpbnN0YW5jZW9mIElJbWFnZSAmJiBTdHJpbmdzOjptYXRjaCgkbmFtZSwgJyMnIC4gcHJlZ19xdW90ZSgkcG9zdGZpeCwgJyMnKSAuICckIycpKSB7CgkJCQkJJHBvc3RmaXggLj0gJy0nOwoJCQkJCSRuYW1lIC49ICRwb3N0Zml4IC4gJzEnOwoJCQkJfSA=</text>
       </register>
       <register name="-" type="4">
-        <text>{label }</text>
+        <text>if (Strings::match($name, '#' . preg_quote($postfix, '#') . '$#'))</text>
       </register>
       <register name="/" type="4">
-        <text>repository</text>
+        <text>countFiles</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">ZWxzZWlmICgkZmlsZSBpbnN0YW5jZW9mIElJbWFnZSAmJiBTdHJpbmdzOjptYXRjaCgkbmFtZSwgJyMnIC4gcHJlZ19xdW90ZSgkcG9zdGZpeCwgJyMnKSAuICckIycpKSB7CgkJCQkJJHBvc3RmaXggLj0gJy0nOwoJCQkJCSRuYW1lIC49ICRwb3N0Zml4IC4gJzEnOwoJCQkJfSA=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJZHVtcCgkdGhpcy0+Z2V0Q2FjaGUoKSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">dXNlIEludm9pY2luZ1xDb21wb25lbnRzXEZpbGVNYW5hZ2VyQ29udHJvbEZhY3Rvcnk7Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">LyoqCgkgKiBAcGFyYW0gRmlsZU1hbmFnZXJDb250cm9sRmFjdG9yeSAkZmFjdG9yeQoJICoKCSAqIEByZXR1cm4gRmlsZU1hbmFnZXJDb250cm9sCgkgKi8KCXByb3RlY3RlZCBmdW5jdGlvbiBjcmVhdGVDb21wb25lbnRGaWxlTWFuYWdlcihGaWxlTWFuYWdlckNvbnRyb2xGYWN0b3J5ICRmYWN0b3J5KTogRmlsZU1hbmFnZXJDb250cm9sCgl7CgkJcmV0dXJuICRmYWN0b3J5LT5jcmVhdGUoJHRoaXMtPml0ZW0pOwoJfQ==</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>/**
 	 * @ORM\Column(type=&quot;integer&quot;)
 	 * @var int
 	 */
 	protected $jobPosition;</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text encoding="base64">J3JpcycgPT4gWwoJCQknZGVmYXVsdE5hbWUnID0+ICdyaXMnLAoJCQkndGl0bGUnID0+ICdSSVMnLAoJCQkncmVwb3NpdG9yeU5hbWUnID0+ICdyaXNBY2NvdW50cycsCgkJCSdsYXN0QWNjZXNzUmVwb3NpdG9yeU5hbWUnID0+ICdzdGVpbmVyUHJvZ3JhbXNNb25pdG9yaW5nJywKCQkJJ3RlbXBsYXRlJyA9PiAnY2FzZUhpc3RvcnkubGF0dGUnLAoJCQknbGFzdEFjY2Vzc1RlbXBsYXRlJyA9PiAnc3RlaW5lclByb2dyYW1zLmxhdHRlJwoJCV0sCgkJJ3RhYmNlbnQnID0+IFsKCQkJJ2RlZmF1bHROYW1lJyA9PiAndW5pcycsCgkJCSd0aXRsZScgPT4gJ1RhYmNlbnQnLAoJCQkncmVwb3NpdG9yeU5hbWUnID0+ICd1bmlzQWNjb3VudHMnLAoJCQknbGFzdEFjY2Vzc1JlcG9zaXRvcnlOYW1lJyA9PiAnc3RlaW5lclByb2dyYW1zTW9uaXRvcmluZycsCgkJCSd0ZW1wbGF0ZScgPT4gJ3VuaXMubGF0dGUnLAoJCQknbGFzdEFjY2Vzc1RlbXBsYXRlJyA9PiAndW5pcy5sYXR0ZScKCQldLA==</text>
       </register>
-      <register name="4" type="4">
-        <text>protected function createStorageReflection()
-	{
-		$reflection = parent::createStorageReflection();
-
-		return $reflection;
-	}</text>
-      </register>
-      <register name="5" type="4">
-        <text>protected function createStorageReflection()
-	{
-		$reflection = parent::createStorageReflection();
-
-		return $reflection;
-	}</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGZpbmRBbGxQbnMoKQoJewoJCXJldHVybiAkdGhpcy0+Z2V0TWFwcGVyKCktPmZpbmRBbGxQbnMoKTsKCX0=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGZpbmRBbGxQbnMoKQoJewoJCSRidWlsZGVyID0gJHRoaXMtPmJ1aWxkZXIoKQoJCQktPnNlbGVjdCgnRElTVElOQ1Qgb3NjLCBuYXpldl9rbGluaWt5JykKCQkJLT5hZGRPcmRlckJ5KCdvc2MnKTsKCgkJcmV0dXJuICR0aGlzLT5jb25uZWN0aW9uLT5xdWVyeUFyZ3MoJGJ1aWxkZXItPmdldFF1ZXJ5U3FsKCksICRidWlsZGVyLT5nZXRRdWVyeVBhcmFtZXRlcnMoKSkKCQkJLT5mZXRjaFBhaXJzKCdvc2MnLCAnb3NjJyk7Cgl9</text>
-      </register>
       <register name="8" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGZpbmRBbGxQbnMoKQoJewoJCXJldHVybiAkdGhpcy0+Z2V0TWFwcGVyKCktPmZpbmRBbGxQbnMoKTsKCX0=</text>
+        <text>protected function createStorageReflection()
+	{
+		$reflection = parent::createStorageReflection();
+
+		return $reflection;
+	}</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGZpbmRBbGxQbnMoKQoJewoJCSRidWlsZGVyID0gJHRoaXMtPmJ1aWxkZXIoKQoJCQktPnNlbGVjdCgnRElTVElOQ1Qgb3NjJyk7CgoJCXJldHVybiAkdGhpcy0+Y29ubmVjdGlvbi0+cXVlcnlBcmdzKCRidWlsZGVyLT5nZXRRdWVyeVNxbCgpLCAkYnVpbGRlci0+Z2V0UXVlcnlQYXJhbWV0ZXJzKCkpCgkJCS0+ZmV0Y2hQYWlycygnb3NjJywgJ29zYycpOwoJfQ==</text>
+        <text>protected function createStorageReflection()
+	{
+		$reflection = parent::createStorageReflection();
+
+		return $reflection;
+	}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>repository</last-search>
+      <last-search>countFiles</last-search>
       <last-offset />
-      <last-pattern>repository</last-pattern>
+      <last-pattern>countFiles</last-pattern>
       <last-replace>repositoryName</last-replace>
       <last-substitute>repository</last-substitute>
       <last-dir>1</last-dir>
@@ -6526,7 +6539,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dirty</entry>
         <entry>findAll</entry>
         <entry>find</entry>
         <entry>parent</entry>
@@ -6546,6 +6558,7 @@
         <entry>PilsCom</entry>
         <entry>Repository</entry>
         <entry>repository</entry>
+        <entry>countFiles</entry>
       </history-search>
       <history-cmd>
         <entry>447</entry>
