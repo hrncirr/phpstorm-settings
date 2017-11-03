@@ -133,6 +133,13 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaListener.php" timestamp="1509525493839">
+        <mark key="'" line="171" column="27" />
+        <mark key="[" line="262" column="18" />
+        <mark key="]" line="262" column="18" />
+        <mark key="." line="262" column="18" />
+        <mark key="^" line="293" column="4" />
+      </file>
       <file name="/home/www/html/dv/adera/src/User/Resource.php" timestamp="1508419719688">
         <mark key="[" line="69" column="4" />
         <mark key="]" line="69" column="4" />
@@ -1264,11 +1271,12 @@
         <mark key="]" line="46" column="3" />
         <mark key="." line="46" column="3" />
       </file>
-      <file name="/home/www/html/dv/adera/www/js/photo.input.js" timestamp="1509711778826">
-        <mark key="'" line="22" column="28" />
-        <mark key="[" line="17" column="34" />
-        <mark key="]" line="36" column="16" />
-        <mark key="." line="36" column="16" />
+      <file name="/home/www/html/dv/adera/www/js/photo.input.js" timestamp="1509714685834">
+        <mark key="'" line="23" column="28" />
+        <mark key="[" line="31" column="40" />
+        <mark key="]" line="35" column="41" />
+        <mark key="." line="35" column="41" />
+        <mark key="^" line="35" column="41" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/tabs/src/Components/TabControl/TabControl.latte" timestamp="1488188776469">
         <mark key="[" line="2" column="9" />
@@ -3646,8 +3654,8 @@
         <mark key="]" line="39" column="4" />
         <mark key="." line="39" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/src/User/AdminModule/Components/UserForm/UserForm.latte" timestamp="1509710583289">
-        <mark key="[" line="14" column="8" />
+      <file name="/home/www/html/dv/adera/src/User/AdminModule/Components/UserForm/UserForm.latte" timestamp="1509712552920">
+        <mark key="[" line="8" column="16" />
         <mark key="]" line="14" column="8" />
         <mark key="." line="14" column="8" />
         <mark key="^" line="7" column="32" />
@@ -3747,8 +3755,8 @@
         <mark key="]" line="27" column="4" />
         <mark key="." line="27" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/extensions/header.neon" timestamp="1509710679848">
-        <mark key="[" line="127" column="41" />
+      <file name="/home/www/html/dv/adera/app/config/extensions/header.neon" timestamp="1509713659811">
+        <mark key="[" line="53" column="16" />
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
@@ -5117,8 +5125,8 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/src/User/AdminModule/Components/UserForm/UserForm.php" timestamp="1509711418540">
-        <mark key="[" line="114" column="12" />
+      <file name="/home/www/html/dv/adera/src/User/AdminModule/Components/UserForm/UserForm.php" timestamp="1509714445407">
+        <mark key="[" line="75" column="4" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
@@ -5216,6 +5224,13 @@
         <mark key="[" line="34" column="23" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/DI/AccessRightsExtension.php" timestamp="1509628773225">
+        <mark key="'" line="107" column="32" />
+        <mark key="[" line="130" column="13" />
+        <mark key="]" line="142" column="4" />
+        <mark key="." line="142" column="4" />
+        <mark key="^" line="107" column="32" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/InfoControl/InfoControl.php" timestamp="1495783168849">
         <mark key="[" line="21" column="0" />
@@ -6292,8 +6307,8 @@
       <jump line="18" column="28" filename="/home/www/html/dv/adera/www/js/photo.input.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0icm93Ij4KCQkJPGRpdiBjbGFzcz0icGhvdG8tZXJyb3JzIj48L2Rpdj4KCQk8L2Rpdj4=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQlzaG93UHJldmlldzogZmFsc2UsCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PGRpdiBjbGFzcz0icGhvdG8tZXJyb3JzIj48L2Rpdj4=</text>
@@ -6304,39 +6319,32 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0icm93Ij4KCQkJPGRpdiBjbGFzcz0icGhvdG8tZXJyb3JzIj48L2Rpdj4KCQk8L2Rpdj4=</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCQlzaG93UHJldmlldzogZmFsc2UsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAqIEBFbEZpbmRlckZpbGVEaXJlY3RvcnlSb290KCkK</text>
+        <text encoding="base64">CQkJCQl1cGxvYWRBc3luYzogdHJ1ZSwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CTwvZGl2Pgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0icm93Ij4KCQkJPGRpdiBjbGFzcz0icGhvdG8tZXJyb3JzIj48L2Rpdj4KCQk8L2Rpdj4=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CTxkaXYgY2xhc3M9ImNvbnRhaW5lci1mbHVpZCI+Cg==</text>
+        <text encoding="base64">CSAqIEBFbEZpbmRlckZpbGVEaXJlY3RvcnlSb290KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQk8L2Rpdj4K</text>
+        <text encoding="base64">CTwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQk8ZGl2IGNsYXNzPSJjZW50ZXItYmxvY2siPgo=</text>
+        <text encoding="base64">CTxkaXYgY2xhc3M9ImNvbnRhaW5lci1mbHVpZCI+Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0ia3YtYXZhdGFyLWhpbnQiPgoJCQk8c21hbGw+U2VsZWN0IGZpbGUgPCAxNTAwIEtCPC9zbWFsbD4KCQk8L2Rpdj4=</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQk8L2Rpdj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCTxpbnB1dCBpZD0iYXZhdGFyLTEiIG5hbWU9ImF2YXRhci0xIiB0eXBlPSJmaWxlIiByZXF1aXJlZD4K</text>
+        <text encoding="base64">CQk8ZGl2IGNsYXNzPSJjZW50ZXItYmxvY2siPgo=</text>
       </register>
       <register name="9" type="4">
-        <text>input.on('change', function () {
-					var selected = $(this).find(':selected');
-
-					$('#' + $(this).data('bankCodeId')).val(selected.data('bankCode') !== undefined ?
-						selected.data('bankCode') : '');
-					$('#' + $(this).data('swiftId')).val(selected.data('swift') !== undefined ?
-						selected.data('swift') : '');
-				});</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0ia3YtYXZhdGFyLWhpbnQiPgoJCQk8c21hbGw+U2VsZWN0IGZpbGUgPCAxNTAwIEtCPC9zbWFsbD4KCQk8L2Rpdj4=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
