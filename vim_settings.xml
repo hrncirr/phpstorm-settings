@@ -1264,11 +1264,11 @@
         <mark key="]" line="46" column="3" />
         <mark key="." line="46" column="3" />
       </file>
-      <file name="/home/www/html/dv/adera/www/js/photo.input.js" timestamp="1509716288146">
-        <mark key="'" line="23" column="28" />
-        <mark key="[" line="21" column="38" />
-        <mark key="]" line="32" column="87" />
-        <mark key="." line="32" column="87" />
+      <file name="/home/www/html/dv/adera/www/js/photo.input.js" timestamp="1509718410798">
+        <mark key="'" line="25" column="28" />
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="37" column="20" />
+        <mark key="." line="37" column="20" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/tabs/src/Components/TabControl/TabControl.latte" timestamp="1488188776469">
         <mark key="[" line="2" column="9" />
@@ -5117,8 +5117,8 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/src/User/AdminModule/Components/UserForm/UserForm.php" timestamp="1509715890524">
-        <mark key="[" line="112" column="8" />
+      <file name="/home/www/html/dv/adera/src/User/AdminModule/Components/UserForm/UserForm.php" timestamp="1509718084180">
+        <mark key="[" line="112" column="10" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
@@ -6293,7 +6293,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>height=&quot;50&quot;</text>
+        <text>uploadExtraData: {
+						_token: $('input[name=&quot;__token&quot;]').val()
+					},</text>
       </register>
       <register name="-" type="4">
         <text>height=&quot;50&quot;</text>
@@ -6304,32 +6306,34 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCQkvL2VsRXJyb3JDb250YWluZXI6ICdrdi1maWxlaW5wdXQtZXJyb3InLAo=</text>
+      <register name="1" type="4">
+        <text>uploadExtraData: {
+						_token: $('input[name=&quot;__token&quot;]').val()
+					},</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQlzaG93UHJldmlldzogZmFsc2UsCg==</text>
+        <text encoding="base64">CQkJCQkvL2VsRXJyb3JDb250YWluZXI6ICdrdi1maWxlaW5wdXQtZXJyb3InLAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CQkJCQlzaG93UHJldmlldzogZmFsc2UsCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CQkJCQl1cGxvYWRBc3luYzogdHJ1ZSwK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">PGRpdiBjbGFzcz0icm93Ij4KCQkJPGRpdiBjbGFzcz0icGhvdG8tZXJyb3JzIj48L2Rpdj4KCQk8L2Rpdj4=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CSAqIEBFbEZpbmRlckZpbGVEaXJlY3RvcnlSb290KCkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CTwvZGl2Pgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CTxkaXYgY2xhc3M9ImNvbnRhaW5lci1mbHVpZCI+Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQk8L2Rpdj4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQk8ZGl2IGNsYXNzPSJjZW50ZXItYmxvY2siPgo=</text>
+        <text encoding="base64">CQk8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
