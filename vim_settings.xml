@@ -3646,11 +3646,11 @@
         <mark key="]" line="39" column="4" />
         <mark key="." line="39" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/src/User/AdminModule/Components/UserForm/UserForm.latte" timestamp="1509722705985">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="17" column="8" />
-        <mark key="." line="17" column="8" />
-        <mark key="^" line="9" column="32" />
+      <file name="/home/www/html/dv/adera/src/User/AdminModule/Components/UserForm/UserForm.latte" timestamp="1509725462184">
+        <mark key="[" line="16" column="75" />
+        <mark key="]" line="26" column="4" />
+        <mark key="." line="26" column="4" />
+        <mark key="^" line="9" column="22" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/BaseItem.php" timestamp="1507551459052">
         <mark key="[" line="90" column="25" />
@@ -3747,10 +3747,10 @@
         <mark key="]" line="27" column="4" />
         <mark key="." line="27" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/extensions/header.neon" timestamp="1509713659811">
-        <mark key="[" line="53" column="16" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
+      <file name="/home/www/html/dv/adera/app/config/extensions/header.neon" timestamp="1509724180590">
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="." line="128" column="0" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/services/Unique.php" timestamp="1477994988699">
         <mark key="[" line="41" column="32" />
@@ -5117,10 +5117,10 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/src/User/AdminModule/Components/UserForm/UserForm.php" timestamp="1509722657066">
-        <mark key="[" line="152" column="16" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
+      <file name="/home/www/html/dv/adera/src/User/AdminModule/Components/UserForm/UserForm.php" timestamp="1509726097904">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="8" />
+        <mark key="." line="75" column="8" />
       </file>
       <file name="/home/www/vendor/hrncirr/media/src/Model/File.php" timestamp="1507128330772">
         <mark key="[" line="88" column="27" />
@@ -6292,57 +6292,53 @@
       <jump line="18" column="28" filename="/home/www/html/dv/adera/www/js/photo.input.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJLT5zZXRSZXF1aXJlZChmYWxzZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZHVtcCgkdmFsdWVzLT5waG90b1VwbG9hZCk7CgkJZXhpdDs=</text>
       </register>
       <register name="-" type="4">
-        <text>height=&quot;50&quot;</text>
+        <text>{$basePath}</text>
       </register>
       <register name="/" type="4">
-        <text>btn</text>
+        <text>jasny</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJLT5zZXRSZXF1aXJlZChmYWxzZSk7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZHVtcCgkdmFsdWVzLT5waG90b1VwbG9hZCk7CgkJZXhpdDs=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJ2FhYWEnKTsK</text>
+        <text encoding="base64">CQkJLy8tPnNldEF0dHJpYnV0ZSgnZGF0YS1wcm92aWRlJywncGhvdG8taW5wdXQnKTsK</text>
       </register>
       <register name="3" type="4">
-        <text>@Assert\Count(
-	 *      min=1
-	 * )</text>
+        <text encoding="base64">eyoKCTxkaXYgY2xhc3M9ImNvbnRhaW5lci1mbHVpZCI+CgkJPGRpdiBjbGFzcz0icm93Ij4KCQkJPGRpdiBjbGFzcz0icGhvdG8tZXJyb3JzIj48L2Rpdj4KCQk8L2Rpdj4KCQk8ZGl2IGNsYXNzPSJyb3ciPgoJCQk8ZGl2IGNsYXNzPSJjb2wtc20tNyBjb2wtc20tb2Zmc2V0LTIgdGV4dC1jZW50ZXIiPgoJCQkJPGRpdiBjbGFzcz0ia3YtYXZhdGFyIj4KCQkJCQk8ZGl2IGNsYXNzPSJmaWxlLWxvYWRpbmciPgoJCQkJCQk8aW5wdXQgdHlwZT0iZmlsZSIgaWQ9ImZpbGUiIG5hbWU9ImZpbGUiIGRhdGEtcHJvdmlkZT0icGhvdG8taW5wdXQiPgoJCQkJCQl7aW5wdXQgcGhvdG9VcGxvYWQgZGF0YS1sZnYtbWVzc2FnZS1pZCA9PiBudWxsfQoJCQkJCTwvZGl2PgoJCQkJPC9kaXY+CgkJCTwvZGl2PgoJCTwvZGl2PgoJPC9kaXY+CgkqfQ==</text>
       </register>
-      <register name="4" type="4">
-        <text>uploadExtraData: {
-						_token: $('input[name=&quot;__token&quot;]').val()
-					},</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkvL2VsRXJyb3JDb250YWluZXI6ICdrdi1maWxlaW5wdXQtZXJyb3InLAo=</text>
+        <text encoding="base64">CQkvL2R1bXAoJHZhbHVlcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlzaG93UHJldmlldzogZmFsc2UsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQl1cGxvYWRBc3luYzogdHJ1ZSwK</text>
+        <text encoding="base64">CQkvL2R1bXAoJF9GSUxFUyk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0icm93Ij4KCQkJPGRpdiBjbGFzcz0icGhvdG8tZXJyb3JzIj48L2Rpdj4KCQk8L2Rpdj4=</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCS0gJXd3d0RpciUvanMvcGhvdG8uaW5wdXQuanMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAqIEBFbEZpbmRlckZpbGVEaXJlY3RvcnlSb290KCkK</text>
+        <text encoding="base64">CQkJCS0gJXd3d0RpciUvanMvZmlsZWlucHV0LmNzLmpzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>btn</last-search>
+      <last-search>jasny</last-search>
       <last-offset />
-      <last-pattern>btn</last-pattern>
+      <last-pattern>jasny</last-pattern>
       <last-replace>repositoryName</last-replace>
       <last-substitute>repository</last-substitute>
       <last-dir>1</last-dir>
@@ -6350,7 +6346,6 @@
     </search>
     <history>
       <history-search>
-        <entry>find</entry>
         <entry>parent</entry>
         <entry>options</entry>
         <entry>importById</entry>
@@ -6370,6 +6365,7 @@
         <entry>repository</entry>
         <entry>countFiles</entry>
         <entry>btn</entry>
+        <entry>jasny</entry>
       </history-search>
       <history-cmd>
         <entry>447</entry>
