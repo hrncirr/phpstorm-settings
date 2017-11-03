@@ -1398,11 +1398,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseDocumentFormControl.php" timestamp="1509694147978">
-        <mark key="[" line="101" column="41" />
-        <mark key="]" line="101" column="41" />
-        <mark key="." line="101" column="41" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseDocumentFormControl.php" timestamp="1509698003524">
+        <mark key="[" line="99" column="12" />
+        <mark key="]" line="99" column="12" />
         <mark key="^" line="75" column="55" />
+        <mark key="." line="99" column="12" />
       </file>
       <file name="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/Controls/ToMany.php" timestamp="1502467453007">
         <mark key="[" line="51" column="75" />
@@ -4436,8 +4436,8 @@
         <mark key="]" line="19" column="4" />
         <mark key="." line="19" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InquiriesGrid/InquiriesGrid.php" timestamp="1508333985838">
-        <mark key="[" line="164" column="40" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InquiriesGrid/InquiriesGrid.php" timestamp="1509698140918">
+        <mark key="[" line="179" column="19" />
         <mark key="]" line="42" column="4" />
         <mark key="." line="42" column="4" />
       </file>
@@ -6327,7 +6327,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JHRoaXMtPmRvY3VtZW50LT5idXNpbmVzc0Nhc2UgIT09IG51bGw=</text>
+        <text encoding="base64">ZHVtcCgkdGhpcy0+ZG9jdW1lbnQtPmJ1c2luZXNzQ2FzZSk7CgoJCQlpZiAoJGVudGl0eS0+aWQgIT09IG51bGwgfHwgJHRoaXMtPmRvY3VtZW50LT5idXNpbmVzc0Nhc2UtPmlkID09PSBudWxsKSB7CgkJCQlyZXR1cm47CgkJCX0KCgkJCWR1bXAoJHRoaXMtPmRvY3VtZW50LT5idXNpbmVzc0Nhc2UpOw==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JHRoaXMtPmRvY3VtZW50LT5idXNpbmVzc0Nhc2UgIT09IG51bGw=</text>
@@ -6339,39 +6339,35 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ZHVtcCgkdGhpcy0+ZG9jdW1lbnQtPmJ1c2luZXNzQ2FzZSk7CgkJZXhpdDs=</text>
+        <text encoding="base64">ZHVtcCgkdGhpcy0+ZG9jdW1lbnQtPmJ1c2luZXNzQ2FzZSk7CgoJCQlpZiAoJGVudGl0eS0+aWQgIT09IG51bGwgfHwgJHRoaXMtPmRvY3VtZW50LT5idXNpbmVzc0Nhc2UtPmlkID09PSBudWxsKSB7CgkJCQlyZXR1cm47CgkJCX0KCgkJCWR1bXAoJHRoaXMtPmRvY3VtZW50LT5idXNpbmVzc0Nhc2UpOw==</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">ZHVtcCgkdGhpcy0+ZG9jdW1lbnQtPmJ1c2luZXNzQ2FzZSk7CgkJZXhpdDs=</text>
       </register>
-      <register name="3" type="2">
+      <register name="3" type="4">
+        <text encoding="base64">ZHVtcCgkdGhpcy0+ZG9jdW1lbnQtPmJ1c2luZXNzQ2FzZSk7CgkJZXhpdDs=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CQkJcmV0dXJuOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">aWYgKCR0aGlzLT5kb2N1bWVudC0+YnVzaW5lc3NDYXNlID09PSBudWxsKSB7CgkJCSR0aGlzLT5kb2N1bWVudC0+YnVzaW5lc3NDYXNlID0gbmV3IEJ1c2luZXNzQ2FzZSgpOwoJCX0=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJZHVtcCgnYWFhYScpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQlkdW1wKCR0cmFuc2xhdG9yRG9tYWluIC4gJy5maW5hbFN1cHBsaWVyLnRpdGxlJyk7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">QURFUkEgcy5yLm8uCkFERVJBIEJpcmRDb250cm9sLCBzLnIuby4KCQkxID0+ICdUZWNobmlrJywKCQkyID0+ICdGYWt0dXJhbnQnLAoJCTMgPT4gJ01hbmFnZXIn</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>/**
 	 * @ORM\Column(type=&quot;text&quot;, nullable=true)
 	 * @var string
 	 */
 	protected $finalBeneficiary;</text>
-      </register>
-      <register name="9" type="4">
-        <text>/**
-	 * @ORM\OneToMany(targetEntity=&quot;InvoiceItem&quot;, mappedBy=&quot;invoice&quot;, cascade={&quot;persist&quot;, &quot;remove&quot;}, orphanRemoval=true)
-	 * @var InvoiceItem[]|ArrayCollection
-	 */
-	protected $items;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
