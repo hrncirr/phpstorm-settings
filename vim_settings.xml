@@ -508,8 +508,8 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/BankConnectionForm/BankConnectionForm.php" timestamp="1508230161601">
-        <mark key="[" line="114" column="43" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/BankConnectionForm/BankConnectionForm.php" timestamp="1509706791240">
+        <mark key="[" line="114" column="58" />
         <mark key="]" line="114" column="43" />
         <mark key="." line="114" column="43" />
       </file>
@@ -1043,7 +1043,6 @@
         <mark key="]" line="45" column="12" />
         <mark key="." line="45" column="12" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Forms/Controls/SubjectNameInput.php" timestamp="1509636540742" />
       <file name="/home/www/html/nnb/dms/app/templates/Document/tab-versions.latte" timestamp="1488189425653">
         <mark key="[" line="2" column="1" />
         <mark key="]" line="0" column="0" />
@@ -1263,6 +1262,11 @@
         <mark key="[" line="46" column="3" />
         <mark key="]" line="46" column="3" />
         <mark key="." line="46" column="3" />
+      </file>
+      <file name="/home/www/html/dv/adera/www/js/photo.input.js" timestamp="1509706677727">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="32" column="16" />
+        <mark key="." line="32" column="16" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/tabs/src/Components/TabControl/TabControl.latte" timestamp="1488188776469">
         <mark key="[" line="2" column="9" />
@@ -1755,7 +1759,6 @@
         <mark key="]" line="130" column="12" />
         <mark key="." line="130" column="12" />
       </file>
-      <file name="/home/www/vendor/hrncirr/forms-typeahead/src/DI/TypeaheadExtension.php" timestamp="1509636311852" />
       <file name="/home/www/vendor/hrncirr/cmp/src/Doctrine/TemplateListener.php" timestamp="1508223584156">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
@@ -2718,6 +2721,9 @@
         <mark key="]" line="22" column="4" />
         <mark key="." line="22" column="4" />
       </file>
+      <file name="/home/www/html/dv/adera/www/js/bank.connection.input.js" timestamp="1509706765544">
+        <mark key="[" line="15" column="57" />
+      </file>
       <file name="/home/www/html/nnb/passportization/src/App/TechnicalRequestions/DI/config/services.neon" timestamp="1485346189586">
         <mark key="[" line="1" column="55" />
         <mark key="]" line="1" column="4" />
@@ -2873,7 +2879,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/www/js/select2.init.js" timestamp="1504099754122">
+      <file name="/home/www/html/dv/adera/www/js/select2.init.js" timestamp="1509706389779">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
@@ -3737,8 +3743,8 @@
         <mark key="]" line="27" column="4" />
         <mark key="." line="27" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/extensions/header.neon" timestamp="1509702059909">
-        <mark key="[" line="46" column="42" />
+      <file name="/home/www/html/dv/adera/app/config/extensions/header.neon" timestamp="1509706813897">
+        <mark key="[" line="124" column="46" />
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
@@ -3860,7 +3866,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509639080937">
+      <file name="/Dummy.txt" timestamp="1509706797887">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -5046,7 +5052,6 @@
         <mark key="]" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="/home/www/lib/vendor/nette/forms/src/Forms/Controls/MultiChoiceControl.php" timestamp="1509535751661" />
       <file name="/home/www/html/dv/cms/src/Navigation/Presenters/DefaultPresenter.php" timestamp="1491989405673">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -6282,11 +6287,18 @@
       <jump line="171" column="27" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaListener.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIExhdHRlXFJ1bnRpbWVcVGVtcGxhdGU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>input.on('change', function () {
+					var selected = $(this).find(':selected');
+
+					$('#' + $(this).data('bankCodeId')).val(selected.data('bankCode') !== undefined ?
+						selected.data('bankCode') : '');
+					$('#' + $(this).data('swiftId')).val(selected.data('swift') !== undefined ?
+						selected.data('swift') : '');
+				});</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPmRvY3VtZW50LT5idXNpbmVzc0Nhc2UgIT09IG51bGw=</text>
+        <text>var input =</text>
       </register>
       <register name="/" type="4">
         <text>countFiles</text>
@@ -6294,32 +6306,39 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>input.on('change', function () {
+					var selected = $(this).find(':selected');
+
+					$('#' + $(this).data('bankCodeId')).val(selected.data('bankCode') !== undefined ?
+						selected.data('bankCode') : '');
+					$('#' + $(this).data('swiftId')).val(selected.data('swift') !== undefined ?
+						selected.data('swift') : '');
+				});</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">dXNlIExhdHRlXFJ1bnRpbWVcVGVtcGxhdGU7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZHVtcCgkdGhpcy0+ZG9jdW1lbnQtPmJ1c2luZXNzQ2FzZSk7CgoJCQlpZiAoJGVudGl0eS0+aWQgIT09IG51bGwgfHwgJHRoaXMtPmRvY3VtZW50LT5idXNpbmVzc0Nhc2UtPmlkID09PSBudWxsKSB7CgkJCQlyZXR1cm47CgkJCX0KCgkJCWR1bXAoJHRoaXMtPmRvY3VtZW50LT5idXNpbmVzc0Nhc2UpOw==</text>
-      </register>
       <register name="3" type="4">
-        <text encoding="base64">ZHVtcCgkdGhpcy0+ZG9jdW1lbnQtPmJ1c2luZXNzQ2FzZSk7CgkJZXhpdDs=</text>
+        <text encoding="base64">ZHVtcCgkdGhpcy0+ZG9jdW1lbnQtPmJ1c2luZXNzQ2FzZSk7CgoJCQlpZiAoJGVudGl0eS0+aWQgIT09IG51bGwgfHwgJHRoaXMtPmRvY3VtZW50LT5idXNpbmVzc0Nhc2UtPmlkID09PSBudWxsKSB7CgkJCQlyZXR1cm47CgkJCX0KCgkJCWR1bXAoJHRoaXMtPmRvY3VtZW50LT5idXNpbmVzc0Nhc2UpOw==</text>
       </register>
       <register name="4" type="4">
         <text encoding="base64">ZHVtcCgkdGhpcy0+ZG9jdW1lbnQtPmJ1c2luZXNzQ2FzZSk7CgkJZXhpdDs=</text>
       </register>
-      <register name="5" type="2">
+      <register name="5" type="4">
+        <text encoding="base64">ZHVtcCgkdGhpcy0+ZG9jdW1lbnQtPmJ1c2luZXNzQ2FzZSk7CgkJZXhpdDs=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CQkJcmV0dXJuOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">aWYgKCR0aGlzLT5kb2N1bWVudC0+YnVzaW5lc3NDYXNlID09PSBudWxsKSB7CgkJCSR0aGlzLT5kb2N1bWVudC0+YnVzaW5lc3NDYXNlID0gbmV3IEJ1c2luZXNzQ2FzZSgpOwoJCX0=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJZHVtcCgnYWFhYScpOwo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQlkdW1wKCR0cmFuc2xhdG9yRG9tYWluIC4gJy5maW5hbFN1cHBsaWVyLnRpdGxlJyk7Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">QURFUkEgcy5yLm8uCkFERVJBIEJpcmRDb250cm9sLCBzLnIuby4KCQkxID0+ICdUZWNobmlrJywKCQkyID0+ICdGYWt0dXJhbnQnLAoJCTMgPT4gJ01hbmFnZXIn</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
