@@ -1926,10 +1926,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.latte" timestamp="1509981915425">
-        <mark key="[" line="17" column="26" />
-        <mark key="]" line="17" column="21" />
-        <mark key="." line="17" column="21" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.latte" timestamp="1509982604934">
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="30" column="8" />
+        <mark key="." line="30" column="8" />
         <mark key="^" line="17" column="21" />
       </file>
       <file name="/home/www/html/bul/medical_examinations/app/components/DateSelectorForm/DateSelectorForm.php" timestamp="1481876019764">
@@ -6300,10 +6300,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHsKCQkJCQloZWFkZXI6IHRydWUsCgkJCQkJZm9vdGVyOiB0cnVlCgkJCQl9</text>
+        <text>new $.fn.dataTable.FixedHeader( table );</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGludm9pY2UtPm51bWJlciA9ICdGVicgLiBkYXRlKCdZbWQnKSAuIFJhbmRvbTo6Z2VuZXJhdGUoMTAsICcwLTknKTs=</text>
+        <text>new $.fn.dataTable.FixedHeader( table );</text>
       </register>
       <register name="/" type="4">
         <text>jasny</text>
