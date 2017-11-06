@@ -698,8 +698,8 @@
         <mark key="]" line="213" column="0" />
         <mark key="." line="213" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/app/config/client-side.neon" timestamp="1505733244241">
-        <mark key="[" line="12" column="12" />
+      <file name="/home/www/html/nnb/passportization/app/config/client-side.neon" timestamp="1509981119801">
+        <mark key="[" line="48" column="12" />
         <mark key="]" line="12" column="12" />
         <mark key="." line="12" column="12" />
       </file>
@@ -1926,10 +1926,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.latte" timestamp="1509628662488">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.latte" timestamp="1509981915425">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="21" />
+        <mark key="." line="17" column="21" />
+        <mark key="^" line="17" column="21" />
       </file>
       <file name="/home/www/html/bul/medical_examinations/app/components/DateSelectorForm/DateSelectorForm.php" timestamp="1481876019764">
         <mark key="[" line="55" column="8" />
@@ -1996,8 +1997,8 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1509628696879">
-        <mark key="[" line="114" column="30" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1509981392475">
+        <mark key="[" line="112" column="4" />
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
@@ -6299,8 +6300,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>//header('Content-Description: File Transfer');
-		//header('Content-Transfer-Encoding: binary');</text>
+        <text encoding="base64">IHsKCQkJCQloZWFkZXI6IHRydWUsCgkJCQkJZm9vdGVyOiB0cnVlCgkJCQl9</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JGludm9pY2UtPm51bWJlciA9ICdGVicgLiBkYXRlKCdZbWQnKSAuIFJhbmRvbTo6Z2VuZXJhdGUoMTAsICcwLTknKTs=</text>
@@ -6312,33 +6312,33 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">IHsKCQkJCQloZWFkZXI6IHRydWUsCgkJCQkJZm9vdGVyOiB0cnVlCgkJCQl9</text>
+      </register>
+      <register name="2" type="4">
         <text>//header('Content-Description: File Transfer');
 		//header('Content-Transfer-Encoding: binary');</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">JCh0aGlzKS5maWxlaW5wdXQoewoJCQkJCS8vdXBsb2FkVXJsOiAnaHR0cDovLzEyNy4wLjAuMS9kdi9hZGVyYS93d3cvY3MvdXNlcnM/Z3JpZC11c2VyPTImZ3JpZC11c2VyRm9ybS1tb2RhbD0xJywKCQkJCQl1cGxvYWRBc3luYzogZmFsc2UsCgkJCQkJbGFuZ3VhZ2U6ICdjcycsCgkJCQkJbWF4RmlsZXNOdW06IDEsCgkJCQkJbWF4RmlsZUNvdW50OiAxLAoJCQkJCW11bHRpcGxlOiBmYWxzZSwKCQkJCQlvdmVyd3JpdGVJbml0aWFsOiB0cnVlLAoJCQkJCWluaXRpYWxQcmV2aWV3QXNEYXRhOiB0cnVlLAoJCQkJCW1heEZpbGVTaXplOiAyMDAsCgkJCQkJc2hvd0Nsb3NlOiBmYWxzZSwKCQkJCQlzaG93Q2FwdGlvbjogZmFsc2UsCgkJCQkJc2hvd0Jyb3dzZTogZmFsc2UsCgkJCQkJYnJvd3NlT25ab25lQ2xpY2s6IHRydWUsCgkJCQkJcmVtb3ZlTGFiZWw6ICcnLAoJCQkJCXJlbW92ZUljb246ICc8aSBjbGFzcz0iZ2x5cGhpY29uIGdseXBoaWNvbi1yZW1vdmUiPjwvaT4nLAoJCQkJCXJlbW92ZVRpdGxlOiAnWnJ1xaFpdCB2w71ixJtyJywKCQkJCQltc2dFcnJvckNsYXNzOiAnYWxlcnQgYWxlcnQtYmxvY2sgYWxlcnQtZGFuZ2VyJywKCQkJCQlkZWZhdWx0UHJldmlld0NvbnRlbnQ6ICc8aW1nIHNyYz0iLi4vaW1hZ2VzL2F2YXRhci5qcGciIHdpZHRoPSI1MCIgYWx0PSJGb3RvIj4nICsKCQkJCQknPGg2IGNsYXNzPSJ0ZXh0LW11dGVkIj5LbGlrbsSbdGUgcHJvIHbDvWLEm3I8L2g2PicsCgkJCQkJbGF5b3V0VGVtcGxhdGVzOiB7bWFpbjI6ICd7cHJldmlld30ge3JlbW92ZX0ge2Jyb3dzZX0nfSwKCQkJCQlhbGxvd2VkRmlsZUV4dGVuc2lvbnM6IFsnanBnJywgJ3BuZycsICdnaWYnXQoJCQkJfSk7</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkkaW52b2ljZS0+bnVtYmVyID0gJ0ZWJyAuIGRhdGUoJ1ltZCcpIC4gUmFuZG9tOjpnZW5lcmF0ZSgxMCwgJzAtOScpOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>dump($document);
 		exit;</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ZHVtcCgkdmFsdWVzLT5waG90b1VwbG9hZCk7CgkJZXhpdDs=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJLy8tPnNldEF0dHJpYnV0ZSgnZGF0YS1wcm92aWRlJywncGhvdG8taW5wdXQnKTsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">eyoKCTxkaXYgY2xhc3M9ImNvbnRhaW5lci1mbHVpZCI+CgkJPGRpdiBjbGFzcz0icm93Ij4KCQkJPGRpdiBjbGFzcz0icGhvdG8tZXJyb3JzIj48L2Rpdj4KCQk8L2Rpdj4KCQk8ZGl2IGNsYXNzPSJyb3ciPgoJCQk8ZGl2IGNsYXNzPSJjb2wtc20tNyBjb2wtc20tb2Zmc2V0LTIgdGV4dC1jZW50ZXIiPgoJCQkJPGRpdiBjbGFzcz0ia3YtYXZhdGFyIj4KCQkJCQk8ZGl2IGNsYXNzPSJmaWxlLWxvYWRpbmciPgoJCQkJCQk8aW5wdXQgdHlwZT0iZmlsZSIgaWQ9ImZpbGUiIG5hbWU9ImZpbGUiIGRhdGEtcHJvdmlkZT0icGhvdG8taW5wdXQiPgoJCQkJCQl7aW5wdXQgcGhvdG9VcGxvYWQgZGF0YS1sZnYtbWVzc2FnZS1pZCA9PiBudWxsfQoJCQkJCTwvZGl2PgoJCQkJPC9kaXY+CgkJCTwvZGl2PgoJCTwvZGl2PgoJPC9kaXY+CgkqfQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvL2R1bXAoJHZhbHVlcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
