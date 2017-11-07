@@ -864,7 +864,7 @@
         <mark key="]" line="17" column="4" />
         <mark key="." line="17" column="4" />
       </file>
-      <file name="/home/www/vendor/nnb/bootstrap/src/DI/BootstrapExtension.php" timestamp="1510044917742">
+      <file name="/home/www/vendor/nnb/bootstrap/src/DI/BootstrapExtension.php" timestamp="1510045390244">
         <mark key="[" line="44" column="8" />
         <mark key="]" line="43" column="14" />
         <mark key="." line="43" column="14" />
@@ -1928,11 +1928,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.latte" timestamp="1510042881162">
-        <mark key="[" line="17" column="33" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="30" column="8" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.latte" timestamp="1510047732557">
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="/home/www/html/bul/medical_examinations/app/components/DateSelectorForm/DateSelectorForm.php" timestamp="1481876019764">
         <mark key="[" line="55" column="8" />
@@ -1999,11 +1998,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1510042370475">
-        <mark key="[" line="238" column="0" />
-        <mark key="]" line="245" column="13" />
-        <mark key="." line="245" column="13" />
-        <mark key="^" line="245" column="13" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1510048768780">
+        <mark key="[" line="247" column="48" />
+        <mark key="]" line="248" column="29" />
+        <mark key="^" line="248" column="29" />
+        <mark key="." line="248" column="29" />
       </file>
       <file name="/home/www/html/dv/cms/src/Url/RouteGenerator.php" timestamp="1505223812148">
         <mark key="[" line="23" column="78" />
@@ -2559,11 +2558,11 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/nnb/application/src/config/client-side.neon" timestamp="1510045355613">
-        <mark key="[" line="4" column="23" />
-        <mark key="]" line="17" column="45" />
-        <mark key="^" line="17" column="45" />
-        <mark key="." line="17" column="45" />
+      <file name="/home/www/lib/vendor/nnb/application/src/config/client-side.neon" timestamp="1510045409365">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="22" column="45" />
+        <mark key="^" line="22" column="45" />
+        <mark key="." line="22" column="45" />
       </file>
       <file name="/home/www/html/dv/cms/app/src/DI/AppExtension.php" timestamp="1505383309884">
         <mark key="[" line="20" column="8" />
@@ -4425,7 +4424,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/home/www/vendor/nnb/bootstrap/src/DI/config/client-side.neon" timestamp="1510044839110">
+      <file name="/home/www/vendor/nnb/bootstrap/src/DI/config/client-side.neon" timestamp="1510045405990">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
@@ -5235,10 +5234,10 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/css/screen.css" timestamp="1510037411515">
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
+      <file name="/home/www/html/nnb/passportization/css/screen.css" timestamp="1510048737443">
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/config/media.neon" timestamp="1494851826235">
         <mark key="[" line="9" column="10" />
@@ -6314,10 +6313,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LT5zZXRGaWx0ZXJTZWxlY3QoWycnID0+ICcnLCAxID0+ICdBbm8nLCAyID0+ICdOZSddKQoJCQkJLT5zZXRDb25kaXRpb24oZnVuY3Rpb24gKERiYWxDb2xsZWN0aW9uICRkYmFsQ29sbGVjdGlvbiwgJHZhbHVlKSB1c2UgKCRuYW1lKSB7CgkJCQkJJHBucyA9ICR0aGlzLT5vcm0tPmFjY291bnRzQWNjZXNzLT5maW5kUG5zQnlQcm9ncmFtTmFtZSgkbmFtZSk7CgoJCQkJCWlmICghJHBucykgewoJCQkJCQlyZXR1cm47CgkJCQkJfQoKCQkJCQlyZXR1cm4gJGRiYWxDb2xsZWN0aW9uLT5nZXRRdWVyeUJ1aWxkZXIoKQoJCQkJCQktPmFuZFdoZXJlKCdvc2MgJyAuICgoaW50KSAkdmFsdWUgPT09IDEgPyAnSU4nIDogJ05PVCBJTicpIC4gJyAlaVtdJywgJHBucyk7CgkJCQl9KTs=</text>
+        <text>table.dataTable tbody tr td {
+    word-wrap: break-word;
+    word-break: break-all;
+}</text>
       </register>
       <register name="-" type="4">
-        <text>new $.fn.dataTable.FixedHeader( table );</text>
+        <text encoding="base64">LT5hZGRBdHRyaWJ1dGVzKFsnc3R5bGUnID0+ICd3aWR0aDogMTgwcHgnXSk=</text>
       </register>
       <register name="/" type="4">
         <text>jasny</text>
@@ -6326,33 +6328,34 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">LT5zZXRGaWx0ZXJTZWxlY3QoWycnID0+ICcnLCAxID0+ICdBbm8nLCAyID0+ICdOZSddKQoJCQkJLT5zZXRDb25kaXRpb24oZnVuY3Rpb24gKERiYWxDb2xsZWN0aW9uICRkYmFsQ29sbGVjdGlvbiwgJHZhbHVlKSB1c2UgKCRuYW1lKSB7CgkJCQkJJHBucyA9ICR0aGlzLT5vcm0tPmFjY291bnRzQWNjZXNzLT5maW5kUG5zQnlQcm9ncmFtTmFtZSgkbmFtZSk7CgoJCQkJCWlmICghJHBucykgewoJCQkJCQlyZXR1cm47CgkJCQkJfQoKCQkJCQlyZXR1cm4gJGRiYWxDb2xsZWN0aW9uLT5nZXRRdWVyeUJ1aWxkZXIoKQoJCQkJCQktPmFuZFdoZXJlKCdvc2MgJyAuICgoaW50KSAkdmFsdWUgPT09IDEgPyAnSU4nIDogJ05PVCBJTicpIC4gJyAlaVtdJywgJHBucyk7CgkJCQl9KTs=</text>
+        <text>table.dataTable tbody tr td {
+    word-wrap: break-word;
+    word-break: break-all;
+}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCS0+Z2V0Cg==</text>
+        <text encoding="base64">CQkJJGNvbHVtbi0+Z2V0RWxlbWVudFByb3RvdHlwZSgndGgnKS0+c2V0U3R5bGUoJ3dpZHRoOiA5MHB4Jyk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">aWYgKCRlbXBsb3llZS0+aGFzVmFsdWUoJ2FjY2Vzc1JpZ2h0cycpKSB7CgkJCQkJZHVtcCgkZW1wbG95ZWUtPmFjY2Vzc1JpZ2h0cyk7CgkJCQl9</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJLT5hZGRBdHRyaWJ1dGVzKFsnc3R5bGUnID0+ICd3aWR0aDogNTBweCddKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkqLwo=</text>
+        <text encoding="base64">CQkkZW1haWxDb2x1bW4tPmdldEVsZW1lbnRQcm90b3R5cGUoJ3RoJyktPnNldFN0eWxlKCd3aWR0aDogMjAwcHgnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkvKgo=</text>
+        <text encoding="base64">dGFibGUuZGF0YVRhYmxlIHRib2R5IHRyIHRkIHsKICAgIHdvcmQtd3JhcDogYnJlYWstd29yZDsKICAgIHdvcmQtYnJlYWs6IGJyZWFrLWFsbDsKfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkqfQo=</text>
+        <text encoding="base64">CQkqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl7Kgo=</text>
+        <text encoding="base64">CQkvKgo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">dHIgewp3aWR0aDogMTAwJTsKZGlzcGxheTogaW5saW5lLXRhYmxlOwp0YWJsZS1sYXlvdXQ6IGZpeGVkOwp9Cgp0YWJsZXsKIGhlaWdodDozMDBweDsgICAgICAgICAgICAgIC8vIDwtLSBTZWxlY3QgdGhlIGhlaWdodCBvZiB0aGUgdGFibGUKIGRpc3BsYXk6IC1tb3otZ3JvdXBib3g7ICAgIC8vIEZpcmVmb3ggQmFkIEVmZmVjdAp9CnRib2R5ewogIG92ZXJmbG93LXk6IHNjcm9sbDsKICBvdmVyZmxvdy14OiBzY3JvbGw7CiAgaGVpZ2h0OiAyMDBweDsgICAgICAgICAgICAvLyAgPC0tIFNlbGVjdCB0aGUgaGVpZ2h0IG9mIHRoZSBib2R5CiAgd2lkdGg6IDUwMHB4OwogIHBvc2l0aW9uOiBhYnNvbHV0ZTsKfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCQlhdXRvV2lkdGg6IGZhbHNlLAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>fixedColumns: {
-					leftColumns: 3
-				}</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJLT5hZGRBdHRyaWJ1dGVzKFsnc3R5bGUnID0+ICd3aWR0aDogMjBweCddKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
