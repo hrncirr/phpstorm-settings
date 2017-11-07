@@ -698,8 +698,8 @@
         <mark key="]" line="213" column="0" />
         <mark key="." line="213" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/app/config/client-side.neon" timestamp="1510044508856">
-        <mark key="[" line="2" column="15" />
+      <file name="/home/www/html/nnb/passportization/app/config/client-side.neon" timestamp="1510056623600">
+        <mark key="[" line="12" column="12" />
         <mark key="]" line="2" column="8" />
         <mark key="." line="2" column="8" />
         <mark key="^" line="2" column="8" />
@@ -1928,10 +1928,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.latte" timestamp="1510047732557">
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.latte" timestamp="1510057609578">
+        <mark key="[" line="26" column="20" />
+        <mark key="]" line="26" column="20" />
+        <mark key="." line="26" column="20" />
       </file>
       <file name="/home/www/html/bul/medical_examinations/app/components/DateSelectorForm/DateSelectorForm.php" timestamp="1481876019764">
         <mark key="[" line="55" column="8" />
@@ -1998,11 +1998,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1510048768780">
-        <mark key="[" line="247" column="48" />
-        <mark key="]" line="248" column="29" />
-        <mark key="^" line="248" column="29" />
-        <mark key="." line="248" column="29" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1510057106127">
+        <mark key="[" line="300" column="44" />
+        <mark key="]" line="249" column="50" />
+        <mark key="." line="249" column="50" />
+        <mark key="^" line="249" column="50" />
       </file>
       <file name="/home/www/html/dv/cms/src/Url/RouteGenerator.php" timestamp="1505223812148">
         <mark key="[" line="23" column="78" />
@@ -5234,7 +5234,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/css/screen.css" timestamp="1510048737443">
+      <file name="/home/www/html/nnb/passportization/css/screen.css" timestamp="1510053872873">
         <mark key="[" line="136" column="0" />
         <mark key="]" line="136" column="0" />
         <mark key="." line="136" column="0" />
@@ -6313,13 +6313,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>table.dataTable tbody tr td {
-    word-wrap: break-word;
-    word-break: break-all;
-}</text>
+        <text encoding="base64">IGZpeGVkSGVhZGVyOiB7CiAgICAgICAgICAgIGhlYWRlcjogZmFsc2UsCiAgICAgICAgICAgIGZvb3RlcjogdHJ1ZQogICAgICAgIH0=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT5hZGRBdHRyaWJ1dGVzKFsnc3R5bGUnID0+ICd3aWR0aDogMTgwcHgnXSk=</text>
+        <text encoding="base64">LT5hZGRBdHRyaWJ1dGUoJ3N0eWxlJywgJ3dpZHRoOiAyMDBweCcp</text>
       </register>
       <register name="/" type="4">
         <text>jasny</text>
@@ -6328,34 +6325,31 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
-        <text>table.dataTable tbody tr td {
-    word-wrap: break-word;
-    word-break: break-all;
-}</text>
+        <text encoding="base64">IGZpeGVkSGVhZGVyOiB7CiAgICAgICAgICAgIGhlYWRlcjogZmFsc2UsCiAgICAgICAgICAgIGZvb3RlcjogdHJ1ZQogICAgICAgIH0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJJGNvbHVtbi0+Z2V0RWxlbWVudFByb3RvdHlwZSgndGgnKS0+c2V0U3R5bGUoJ3dpZHRoOiA5MHB4Jyk7Cg==</text>
+        <text encoding="base64">CQkJLT5nZXRFbGVtZW50UHJvdG90eXBlKCd0aCcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJLT5hZGRBdHRyaWJ1dGVzKFsnc3R5bGUnID0+ICd3aWR0aDogNTBweCddKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkkZW1haWxDb2x1bW4tPmdldEVsZW1lbnRQcm90b3R5cGUoJ3RoJyktPnNldFN0eWxlKCd3aWR0aDogMjAwcHgnKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dGFibGUuZGF0YVRhYmxlIHRib2R5IHRyIHRkIHsKICAgIHdvcmQtd3JhcDogYnJlYWstd29yZDsKICAgIHdvcmQtYnJlYWs6IGJyZWFrLWFsbDsKfQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">CQkqLwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkvKgo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJLy8tPmFkZEF0dHJpYnV0ZXMoWydjbGFzcycgPT4gJ2NvbC1tZC0xJ10pCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCS0+YWRkQXR0cmlidXRlcyhbJ3N0eWxlJyA9PiAnd2lkdGg6IDkwcHgnXSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJLT5hZGRBdHRyaWJ1dGVzKFsnc3R5bGUnID0+ICd3aWR0aDogMTAwcHgnXSkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQlhdXRvV2lkdGg6IGZhbHNlLAo=</text>
+        <text encoding="base64">CQkqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJLT5hZGRBdHRyaWJ1dGVzKFsnc3R5bGUnID0+ICd3aWR0aDogMjBweCddKQo=</text>
+        <text encoding="base64">CQkJCQlmaXhlZEhlYWRlcjogdHJ1ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
