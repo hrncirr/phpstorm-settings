@@ -698,8 +698,8 @@
         <mark key="]" line="213" column="0" />
         <mark key="." line="213" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/app/config/client-side.neon" timestamp="1510037926464">
-        <mark key="[" line="12" column="12" />
+      <file name="/home/www/html/nnb/passportization/app/config/client-side.neon" timestamp="1510041245565">
+        <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="12" />
         <mark key="." line="12" column="12" />
       </file>
@@ -1926,11 +1926,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.latte" timestamp="1510038027226">
-        <mark key="[" line="24" column="20" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="29" column="8" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.latte" timestamp="1510042881162">
+        <mark key="[" line="17" column="33" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="30" column="8" />
       </file>
       <file name="/home/www/html/bul/medical_examinations/app/components/DateSelectorForm/DateSelectorForm.php" timestamp="1481876019764">
         <mark key="[" line="55" column="8" />
@@ -1997,10 +1997,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1509981392475">
-        <mark key="[" line="112" column="4" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1510042370475">
+        <mark key="[" line="238" column="0" />
+        <mark key="]" line="245" column="13" />
+        <mark key="." line="245" column="13" />
+        <mark key="^" line="245" column="13" />
       </file>
       <file name="/home/www/html/dv/cms/src/Url/RouteGenerator.php" timestamp="1505223812148">
         <mark key="[" line="23" column="78" />
@@ -6304,8 +6305,8 @@
       <jump line="18" column="28" filename="/home/www/html/dv/adera/www/js/photo.input.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkqfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LT5zZXRGaWx0ZXJTZWxlY3QoWycnID0+ICcnLCAxID0+ICdBbm8nLCAyID0+ICdOZSddKQoJCQkJLT5zZXRDb25kaXRpb24oZnVuY3Rpb24gKERiYWxDb2xsZWN0aW9uICRkYmFsQ29sbGVjdGlvbiwgJHZhbHVlKSB1c2UgKCRuYW1lKSB7CgkJCQkJJHBucyA9ICR0aGlzLT5vcm0tPmFjY291bnRzQWNjZXNzLT5maW5kUG5zQnlQcm9ncmFtTmFtZSgkbmFtZSk7CgoJCQkJCWlmICghJHBucykgewoJCQkJCQlyZXR1cm47CgkJCQkJfQoKCQkJCQlyZXR1cm4gJGRiYWxDb2xsZWN0aW9uLT5nZXRRdWVyeUJ1aWxkZXIoKQoJCQkJCQktPmFuZFdoZXJlKCdvc2MgJyAuICgoaW50KSAkdmFsdWUgPT09IDEgPyAnSU4nIDogJ05PVCBJTicpIC4gJyAlaVtdJywgJHBucyk7CgkJCQl9KTs=</text>
       </register>
       <register name="-" type="4">
         <text>new $.fn.dataTable.FixedHeader( table );</text>
@@ -6316,35 +6317,34 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkqfQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">LT5zZXRGaWx0ZXJTZWxlY3QoWycnID0+ICcnLCAxID0+ICdBbm8nLCAyID0+ICdOZSddKQoJCQkJLT5zZXRDb25kaXRpb24oZnVuY3Rpb24gKERiYWxDb2xsZWN0aW9uICRkYmFsQ29sbGVjdGlvbiwgJHZhbHVlKSB1c2UgKCRuYW1lKSB7CgkJCQkJJHBucyA9ICR0aGlzLT5vcm0tPmFjY291bnRzQWNjZXNzLT5maW5kUG5zQnlQcm9ncmFtTmFtZSgkbmFtZSk7CgoJCQkJCWlmICghJHBucykgewoJCQkJCQlyZXR1cm47CgkJCQkJfQoKCQkJCQlyZXR1cm4gJGRiYWxDb2xsZWN0aW9uLT5nZXRRdWVyeUJ1aWxkZXIoKQoJCQkJCQktPmFuZFdoZXJlKCdvc2MgJyAuICgoaW50KSAkdmFsdWUgPT09IDEgPyAnSU4nIDogJ05PVCBJTicpIC4gJyAlaVtdJywgJHBucyk7CgkJCQl9KTs=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl7Kgo=</text>
+        <text encoding="base64">CQkJCS0+Z2V0Cg==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">aWYgKCRlbXBsb3llZS0+aGFzVmFsdWUoJ2FjY2Vzc1JpZ2h0cycpKSB7CgkJCQkJZHVtcCgkZW1wbG95ZWUtPmFjY2Vzc1JpZ2h0cyk7CgkJCQl9</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCQkqLwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQkvKgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkqfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQl7Kgo=</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">dHIgewp3aWR0aDogMTAwJTsKZGlzcGxheTogaW5saW5lLXRhYmxlOwp0YWJsZS1sYXlvdXQ6IGZpeGVkOwp9Cgp0YWJsZXsKIGhlaWdodDozMDBweDsgICAgICAgICAgICAgIC8vIDwtLSBTZWxlY3QgdGhlIGhlaWdodCBvZiB0aGUgdGFibGUKIGRpc3BsYXk6IC1tb3otZ3JvdXBib3g7ICAgIC8vIEZpcmVmb3ggQmFkIEVmZmVjdAp9CnRib2R5ewogIG92ZXJmbG93LXk6IHNjcm9sbDsKICBvdmVyZmxvdy14OiBzY3JvbGw7CiAgaGVpZ2h0OiAyMDBweDsgICAgICAgICAgICAvLyAgPC0tIFNlbGVjdCB0aGUgaGVpZ2h0IG9mIHRoZSBib2R5CiAgd2lkdGg6IDUwMHB4OwogIHBvc2l0aW9uOiBhYnNvbHV0ZTsKfQ==</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text>fixedColumns: {
 					leftColumns: 3
 				}</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCS8vZml4ZWRDb2x1bW5zOiB0cnVlCg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHsKCQkJCQloZWFkZXI6IHRydWUsCgkJCQkJZm9vdGVyOiB0cnVlCgkJCQl9</text>
-      </register>
-      <register name="7" type="4">
-        <text>//header('Content-Description: File Transfer');
-		//header('Content-Transfer-Encoding: binary');</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">JCh0aGlzKS5maWxlaW5wdXQoewoJCQkJCS8vdXBsb2FkVXJsOiAnaHR0cDovLzEyNy4wLjAuMS9kdi9hZGVyYS93d3cvY3MvdXNlcnM/Z3JpZC11c2VyPTImZ3JpZC11c2VyRm9ybS1tb2RhbD0xJywKCQkJCQl1cGxvYWRBc3luYzogZmFsc2UsCgkJCQkJbGFuZ3VhZ2U6ICdjcycsCgkJCQkJbWF4RmlsZXNOdW06IDEsCgkJCQkJbWF4RmlsZUNvdW50OiAxLAoJCQkJCW11bHRpcGxlOiBmYWxzZSwKCQkJCQlvdmVyd3JpdGVJbml0aWFsOiB0cnVlLAoJCQkJCWluaXRpYWxQcmV2aWV3QXNEYXRhOiB0cnVlLAoJCQkJCW1heEZpbGVTaXplOiAyMDAsCgkJCQkJc2hvd0Nsb3NlOiBmYWxzZSwKCQkJCQlzaG93Q2FwdGlvbjogZmFsc2UsCgkJCQkJc2hvd0Jyb3dzZTogZmFsc2UsCgkJCQkJYnJvd3NlT25ab25lQ2xpY2s6IHRydWUsCgkJCQkJcmVtb3ZlTGFiZWw6ICcnLAoJCQkJCXJlbW92ZUljb246ICc8aSBjbGFzcz0iZ2x5cGhpY29uIGdseXBoaWNvbi1yZW1vdmUiPjwvaT4nLAoJCQkJCXJlbW92ZVRpdGxlOiAnWnJ1xaFpdCB2w71ixJtyJywKCQkJCQltc2dFcnJvckNsYXNzOiAnYWxlcnQgYWxlcnQtYmxvY2sgYWxlcnQtZGFuZ2VyJywKCQkJCQlkZWZhdWx0UHJldmlld0NvbnRlbnQ6ICc8aW1nIHNyYz0iLi4vaW1hZ2VzL2F2YXRhci5qcGciIHdpZHRoPSI1MCIgYWx0PSJGb3RvIj4nICsKCQkJCQknPGg2IGNsYXNzPSJ0ZXh0LW11dGVkIj5LbGlrbsSbdGUgcHJvIHbDvWLEm3I8L2g2PicsCgkJCQkJbGF5b3V0VGVtcGxhdGVzOiB7bWFpbjI6ICd7cHJldmlld30ge3JlbW92ZX0ge2Jyb3dzZX0nfSwKCQkJCQlhbGxvd2VkRmlsZUV4dGVuc2lvbnM6IFsnanBnJywgJ3BuZycsICdnaWYnXQoJCQkJfSk7</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkkaW52b2ljZS0+bnVtYmVyID0gJ0ZWJyAuIGRhdGUoJ1ltZCcpIC4gUmFuZG9tOjpnZW5lcmF0ZSgxMCwgJzAtOScpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
