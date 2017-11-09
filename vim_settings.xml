@@ -1189,10 +1189,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/js/datatables.init.js" timestamp="1510230635554">
-        <mark key="[" line="29" column="20" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="/home/www/html/nnb/passportization/js/datatables.init.js" timestamp="1510235840230">
+        <mark key="[" line="38" column="48" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Page/Page.php" timestamp="1505399343890">
         <mark key="[" line="46" column="47" />
@@ -6322,10 +6322,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQlyZXR1cm47Cg==</text>
+        <text encoding="base64">CQkJCQkkdGFibGVFbC5EYXRhVGFibGUoKS5kZXN0cm95KCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYgJGNvbnRleHQuZmluZCgnLmRhdGFncmlkIC50Ym9keScpLmxlbmd0aA==</text>
+        <text>console.log('cože ??');</text>
       </register>
       <register name="/" type="4">
         <text>dropdown-menu</text>
@@ -6334,40 +6334,39 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQlyZXR1cm47Cg==</text>
+        <text encoding="base64">CQkJCQkkdGFibGVFbC5EYXRhVGFibGUoKS5kZXN0cm95KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygkY29udGV4dCk7Cg==</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCQoY29udGV4dCkuYXR0cignaWQnKSk7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>elseif  {
-					console.log($context.parents('.datagrid'));
+        <text>if ($.fn.DataTable.isDataTable($tableEl)) {
 					return;
+					$tableEl.DataTable().destroy();
+					return;
+				} else {
+
 				}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCXZhciAkdGFibGVFbCA9ICRjb250ZXh0LmZpbmQoJy5kYXRhZ3JpZCAudGFibGUnKTsK</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKGNvbnRleHQuYXR0cignaWQnKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQlyZXR1cm47Cg==</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnb2snKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2codGhpcy5zY3JvbGxiYXJXaWR0aCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2codGhpcy5zY3JvbGxiYXJXaWR0aCgpKTsK</text>
+        <text encoding="base64">CQkJCXJldHVybjsK</text>
       </register>
-      <register name="8" type="4">
-        <text>/*
-				$('.datagrid', context || document).each($.proxy(function (i, el) {
-					var $el = $(el);
-					console.log($el);
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCQlyZXR1cm47Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>else {
 
-				}, this));
-				*/</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCRjb250ZXh0LmZpbmQoJy5kYXRhZ3JpZCAudGFibGUnKSk7Cg==</text>
+				}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
