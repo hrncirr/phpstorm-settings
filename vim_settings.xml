@@ -698,8 +698,8 @@
         <mark key="]" line="213" column="0" />
         <mark key="." line="213" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/app/config/client-side.neon" timestamp="1510219625274">
-        <mark key="[" line="59" column="35" />
+      <file name="/home/www/html/nnb/passportization/app/config/client-side.neon" timestamp="1510220765100">
+        <mark key="[" line="12" column="13" />
         <mark key="]" line="2" column="8" />
         <mark key="." line="2" column="8" />
         <mark key="^" line="2" column="8" />
@@ -1993,8 +1993,8 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1510214575186">
-        <mark key="[" line="300" column="12" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1510223275765">
+        <mark key="[" line="282" column="50" />
         <mark key="]" line="249" column="50" />
         <mark key="." line="249" column="50" />
         <mark key="^" line="249" column="50" />
@@ -5228,10 +5228,10 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/css/screen.css" timestamp="1510215631330">
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="0" />
-        <mark key="." line="139" column="0" />
+      <file name="/home/www/html/nnb/passportization/css/screen.css" timestamp="1510224308173">
+        <mark key="[" line="146" column="3" />
+        <mark key="]" line="146" column="3" />
+        <mark key="." line="146" column="3" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/config/media.neon" timestamp="1494851826235">
         <mark key="[" line="9" column="10" />
@@ -5749,6 +5749,13 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="/home/www/html/nnb/passportization/css/datagrid.css" timestamp="1510223484000">
+        <mark key="'" line="495" column="17" />
+        <mark key="[" line="511" column="3" />
+        <mark key="]" line="473" column="0" />
+        <mark key="." line="473" column="0" />
+        <mark key="^" line="470" column="14" />
+      </file>
       <file name="/home/www/html/nnb/passportization/app/model/Path.php" timestamp="1487750415041">
         <mark key="[" line="50" column="16" />
         <mark key="]" line="38" column="0" />
@@ -6177,7 +6184,8 @@
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" timestamp="1509961351464">
         <mark key="[" line="155" column="54" />
       </file>
-      <file name="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" timestamp="1510219709396">
+      <file name="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" timestamp="1510220399014">
+        <mark key="'" line="855" column="45" />
         <mark key="[" line="774" column="0" />
         <mark key="]" line="774" column="0" />
         <mark key="." line="774" column="0" />
@@ -6209,14 +6217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="15" filename="/home/www/html/dv/adera/libs/vendor/ublaboo/datagrid/src/Column/Action.php" />
-      <jump line="91" column="24" filename="/home/www/html/dv/adera/libs/vendor/ublaboo/datagrid/src/Column/Action.php" />
-      <jump line="95" column="49" filename="/home/www/html/dv/adera/libs/vendor/ublaboo/datagrid/src/Column/Action.php" />
-      <jump line="98" column="23" filename="/home/www/html/dv/adera/libs/vendor/ublaboo/datagrid/src/Column/Action.php" />
-      <jump line="135" column="23" filename="/home/www/vendor/hrncirr/cmp/src/Compiler/Filters/MediaFileFilter.php" />
-      <jump line="134" column="5" filename="/home/www/vendor/hrncirr/cmp/src/DI/CmpExtension.php" />
-      <jump line="201" column="35" filename="/home/www/vendor/hrncirr/cmp/src/Doctrine/Mapping/Drivers/TemplateDriver.php" />
-      <jump line="64" column="28" filename="/home/www/vendor/hrncirr/cmp/src/CmpCollection.php" />
       <jump line="265" column="25" filename="/home/www/lib/vendor/instante/extended-form-macros/src/Latte/FormMacros.php" />
       <jump line="88" column="31" filename="/home/www/lib/vendor/nextras/orm/src/Mapper/Dbal/DbalCollection.php" />
       <jump line="272" column="50" filename="/home/www/lib/vendor/nextras/dbal/src/QueryBuilder/QueryBuilder.php" />
@@ -6309,59 +6309,66 @@
       <jump line="931" column="39" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
       <jump line="1228" column="80" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
       <jump line="775" column="55" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
+      <jump line="855" column="45" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
+      <jump line="16" column="23" filename="/home/www/html/nnb/passportization/css/datagrid.css" />
+      <jump line="115" column="16" filename="/home/www/html/nnb/passportization/css/datagrid.css" />
+      <jump line="116" column="5" filename="/home/www/html/nnb/passportization/css/datagrid.css" />
+      <jump line="119" column="16" filename="/home/www/html/nnb/passportization/css/datagrid.css" />
+      <jump line="120" column="5" filename="/home/www/html/nnb/passportization/css/datagrid.css" />
+      <jump line="123" column="16" filename="/home/www/html/nnb/passportization/css/datagrid.css" />
+      <jump line="495" column="17" filename="/home/www/html/nnb/passportization/css/datagrid.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCAnTmV3IHBhZ2UgbGVuZ3RoOicpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGRpc3BsYXk6IGJsb2NrOwogIGJvcmRlci1yYWRpdXM6IDNweDsKICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgcGFkZGluZzogMTVweDsKICBiYWNrZ3JvdW5kOiAjZWNmMGYxOwogIG1hcmdpbi1ib3R0b206IDE1cHg7CiAgICAvKiBwb3NpdGlvbjogcmVsYXRpdmU7ICovCiAgICB6LWluZGV4OiAxMDAxICFpbXBvcnRhbnQ7</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JytsZW4g</text>
+        <text>--grid</text>
       </register>
       <register name="/" type="4">
-        <text>LeftFootWrapper</text>
+        <text>dropdown-menu</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCAnTmV3IHBhZ2UgbGVuZ3RoOicpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGRpc3BsYXk6IGJsb2NrOwogIGJvcmRlci1yYWRpdXM6IDNweDsKICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgcGFkZGluZzogMTVweDsKICBiYWNrZ3JvdW5kOiAjZWNmMGYxOwogIG1hcmdpbi1ib3R0b206IDE1cHg7CiAgICAvKiBwb3NpdGlvbjogcmVsYXRpdmU7ICovCiAgICB6LWluZGV4OiAxMDAxICFpbXBvcnRhbnQ7</text>
       </register>
       <register name="2" type="4">
-        <text>$tableEl.on( 'length.dt', function ( e, settings, len ) {
-				console.log( 'New page length: '+len );
-			});</text>
+        <text>position: relative;
+    z-index: 1001 !important;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmb250LXNpemU6IDEycHg7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>visibility: hidden;
+  width: 0;
+  top: -200px;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCQoJ2Rpdi5EVEZDX1Njcm9sbFdyYXBwZXInLCBuU1dyYXBwZXIpLmF0dHIoJ3dpZHRoJykpOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCSQoJ2Rpdi5EVEZDX0xlZnRGb290V3JhcHBlcicsIG5TV3JhcHBlcikuYXR0cignc3R5bGUnLCAnd2lkdGg6IDgwMHB4Jyk7Cg==</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IGF1dG8gIWltcG9ydGFudDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygkd3JhcHBlci53aWR0aCgpKTsK</text>
+        <text encoding="base64">LmRhdGFncmlkIHNlbGVjdCB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygkdGFibGVFbCk7Cg==</text>
+        <text encoding="base64">Ki8K</text>
       </register>
-      <register name="9" type="4">
-        <text>table.on( 'init', function () {
-				console.log( 'Redraw occurred at: '+new Date().getTime() );
-			});</text>
+      <register name="9" type="2">
+        <text encoding="base64">LyoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>LeftFootWrapper</last-search>
+      <last-search>dropdown-menu</last-search>
       <last-offset />
-      <last-pattern>LeftFootWrapper</last-pattern>
+      <last-pattern>dropdown-menu</last-pattern>
       <last-replace>repositoryName</last-replace>
       <last-substitute>repository</last-substitute>
       <last-dir>1</last-dir>
@@ -6369,8 +6376,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addDirs</entry>
-        <entry>root</entry>
         <entry>Email</entry>
         <entry>apothekeAccount</entry>
         <entry>dump</entry>
@@ -6387,8 +6392,10 @@
         <entry>jasny</entry>
         <entry>bAll</entry>
         <entry>LeftFooterWrapper</entry>
-        <entry>clone</entry>
         <entry>LeftFootWrapper</entry>
+        <entry>clone</entry>
+        <entry>th</entry>
+        <entry>dropdown-menu</entry>
       </history-search>
       <history-cmd>
         <entry>447</entry>
