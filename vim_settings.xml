@@ -1189,10 +1189,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/js/datatables.init.js" timestamp="1510235840230">
-        <mark key="[" line="38" column="48" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="/home/www/html/nnb/passportization/js/datatables.init.js" timestamp="1510237045400">
+        <mark key="[" line="86" column="48" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Page/Page.php" timestamp="1505399343890">
         <mark key="[" line="46" column="47" />
@@ -6322,7 +6322,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkkdGFibGVFbC5EYXRhVGFibGUoKS5kZXN0cm95KCk7Cg==</text>
+        <text encoding="base64">CQkJCQl0YWJsZQo=</text>
       </register>
       <register name="-" type="4">
         <text>console.log('cože ??');</text>
@@ -6334,12 +6334,24 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkkdGFibGVFbC5EYXRhVGFibGUoKS5kZXN0cm95KCk7Cg==</text>
+        <text encoding="base64">CQkJCQl0YWJsZQo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIC5kcmF3KCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC5jbGVhcigpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnb2snKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQkkdGFibGVFbC5EYXRhVGFibGUoKS5kZXN0cm95KCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCQoY29udGV4dCkuYXR0cignaWQnKSk7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>if ($.fn.DataTable.isDataTable($tableEl)) {
 					return;
 					$tableEl.DataTable().destroy();
@@ -6348,25 +6360,11 @@
 
 				}</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCWNvbnNvbGUubG9nKGNvbnRleHQuYXR0cignaWQnKSk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnb2snKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCXJldHVybjsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCQlyZXR1cm47Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>else {
-
-				}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
