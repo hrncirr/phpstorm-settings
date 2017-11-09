@@ -1189,10 +1189,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/js/datatables.init.js" timestamp="1510237045400">
-        <mark key="[" line="86" column="48" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+      <file name="/home/www/html/nnb/passportization/js/datatables.init.js" timestamp="1510247716892">
+        <mark key="'" line="65" column="26" />
+        <mark key="[" line="72" column="16" />
+        <mark key="]" line="72" column="16" />
+        <mark key="." line="72" column="16" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Page/Page.php" timestamp="1505399343890">
         <mark key="[" line="46" column="47" />
@@ -6219,13 +6220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="265" column="25" filename="/home/www/lib/vendor/instante/extended-form-macros/src/Latte/FormMacros.php" />
-      <jump line="88" column="31" filename="/home/www/lib/vendor/nextras/orm/src/Mapper/Dbal/DbalCollection.php" />
-      <jump line="272" column="50" filename="/home/www/lib/vendor/nextras/dbal/src/QueryBuilder/QueryBuilder.php" />
-      <jump line="274" column="15" filename="/home/www/lib/vendor/nextras/dbal/src/QueryBuilder/QueryBuilder.php" />
-      <jump line="292" column="15" filename="/home/www/lib/vendor/nextras/dbal/src/QueryBuilder/QueryBuilder.php" />
-      <jump line="310" column="15" filename="/home/www/lib/vendor/nextras/dbal/src/QueryBuilder/QueryBuilder.php" />
-      <jump line="328" column="15" filename="/home/www/lib/vendor/nextras/dbal/src/QueryBuilder/QueryBuilder.php" />
       <jump line="346" column="15" filename="/home/www/lib/vendor/nextras/dbal/src/QueryBuilder/QueryBuilder.php" />
       <jump line="364" column="15" filename="/home/www/lib/vendor/nextras/dbal/src/QueryBuilder/QueryBuilder.php" />
       <jump line="382" column="15" filename="/home/www/lib/vendor/nextras/dbal/src/QueryBuilder/QueryBuilder.php" />
@@ -6319,61 +6313,74 @@
       <jump line="120" column="5" filename="/home/www/html/nnb/passportization/css/datagrid.css" />
       <jump line="123" column="16" filename="/home/www/html/nnb/passportization/css/datagrid.css" />
       <jump line="495" column="17" filename="/home/www/html/nnb/passportization/css/datagrid.css" />
+      <jump line="44" column="57" filename="/home/www/html/nnb/passportization/js/datatables.init.js" />
+      <jump line="47" column="26" filename="/home/www/html/nnb/passportization/js/datatables.init.js" />
+      <jump line="49" column="26" filename="/home/www/html/nnb/passportization/js/datatables.init.js" />
+      <jump line="53" column="28" filename="/home/www/html/nnb/passportization/js/datatables.init.js" />
+      <jump line="54" column="30" filename="/home/www/html/nnb/passportization/js/datatables.init.js" />
+      <jump line="57" column="28" filename="/home/www/html/nnb/passportization/js/datatables.init.js" />
+      <jump line="62" column="26" filename="/home/www/html/nnb/passportization/js/datatables.init.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQl0YWJsZQo=</text>
+      <register name="&quot;" type="4">
+        <text>$tableEl.DataTable().destroy();</text>
       </register>
       <register name="-" type="4">
-        <text>console.log('cože ??');</text>
+        <text>$tableEl.DataTable().destroy();</text>
       </register>
       <register name="/" type="4">
-        <text>dropdown-menu</text>
+        <text>console.log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCQl0YWJsZQo=</text>
+      <register name="1" type="4">
+        <text>console.log($tableEl);
+					console.log(id);</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC5kcmF3KCk7Cg==</text>
+        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2codGhpcyk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC5jbGVhcigpCg==</text>
+      <register name="3" type="4">
+        <text>console.log(this.dataTables);
+
+				$.each(this.dataTables, function (id, value) {
+					console.log(id);
+				});</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnb2snKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkkdGFibGVFbC5EYXRhVGFibGUoKS5kZXN0cm95KCk7Cg==</text>
+        <text encoding="base64">CQkJCS8vdGhpcy5kYXRhVGFibGVzID0gJHRhYmxlRWwuY2xvbmUoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCQoY29udGV4dCkuYXR0cignaWQnKSk7Cg==</text>
+        <text encoding="base64">CQkJCXJldHVybjsK</text>
       </register>
       <register name="7" type="4">
-        <text>if ($.fn.DataTable.isDataTable($tableEl)) {
-					return;
-					$tableEl.DataTable().destroy();
-					return;
-				} else {
-
-				}</text>
+        <text>$tableEl.DataTable().clear().draw();
+					//$tableEl.find('tbody').empty();
+					$tableEl.find('tbody tr').each(function () {
+						dt.row.add(this);
+					});</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKGNvbnRleHQuYXR0cignaWQnKSk7Cg==</text>
+      <register name="8" type="4">
+        <text>$tableEl.DataTable().clear().draw();
+					console.log(this.dataTables[$tableEl.attr('id')]);</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnb2snKTsK</text>
+      <register name="9" type="4">
+        <text>complete: function () {
+				
+			}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dropdown-menu</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern>dropdown-menu</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-replace>repositoryName</last-replace>
       <last-substitute>repository</last-substitute>
       <last-dir>1</last-dir>
@@ -6381,7 +6388,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Email</entry>
         <entry>apothekeAccount</entry>
         <entry>dump</entry>
         <entry>getter</entry>
@@ -6401,6 +6407,7 @@
         <entry>clone</entry>
         <entry>th</entry>
         <entry>dropdown-menu</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd>
         <entry>447</entry>
