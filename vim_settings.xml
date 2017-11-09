@@ -698,10 +698,10 @@
         <mark key="]" line="213" column="0" />
         <mark key="." line="213" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/app/config/client-side.neon" timestamp="1510226015070">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="/home/www/html/nnb/passportization/app/config/client-side.neon" timestamp="1510228626996">
+        <mark key="[" line="52" column="29" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/jstree/src/Model/Node.php" timestamp="1505905694050">
         <mark key="[" line="232" column="53" />
@@ -1188,6 +1188,11 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/passportization/js/datatables.init.js" timestamp="1510230635554">
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Page/Page.php" timestamp="1505399343890">
         <mark key="[" line="46" column="47" />
@@ -1921,11 +1926,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.latte" timestamp="1510226856858">
-        <mark key="[" line="32" column="62" />
-        <mark key="]" line="32" column="62" />
-        <mark key="." line="32" column="62" />
-        <mark key="^" line="36" column="124" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.latte" timestamp="1510229328562">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="15" column="4" />
+        <mark key="." line="15" column="4" />
       </file>
       <file name="/home/www/html/bul/medical_examinations/app/components/DateSelectorForm/DateSelectorForm.php" timestamp="1481876019764">
         <mark key="[" line="55" column="8" />
@@ -6317,11 +6321,11 @@
       <jump line="495" column="17" filename="/home/www/html/nnb/passportization/css/datagrid.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[0].offsetHeight - $wrapper[0].clientHeight;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQlyZXR1cm47Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>[0].offsetHeight - $wrapper[0].clientHeight;</text>
+        <text encoding="base64">JiYgJGNvbnRleHQuZmluZCgnLmRhdGFncmlkIC50Ym9keScpLmxlbmd0aA==</text>
       </register>
       <register name="/" type="4">
         <text>dropdown-menu</text>
@@ -6330,31 +6334,40 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJIy0gJWFwcERpciUvLi4vanMvZGF0YVRhYmxlcy5maXhlZENvbHVtbnMuanMK</text>
+        <text encoding="base64">CQkJCQlyZXR1cm47Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJIy0gJWFwcERpciUvLi4vanMvZGF0YVRhYmxlcy5ib290c3RyYXAuanMK</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygkY29udGV4dCk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJIy0gJWFwcERpciUvLi4vanMvanF1ZXJ5LmRhdGFUYWJsZXMuanMK</text>
+      <register name="3" type="4">
+        <text>elseif  {
+					console.log($context.parents('.datagrid'));
+					return;
+				}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJIy0gJWFwcERpciUvLi4vY3NzL2ZpeGVkQ29sdW1ucy5ib290c3RyYXAuY3NzCg==</text>
+        <text encoding="base64">CQkJCXZhciAkdGFibGVFbCA9ICRjb250ZXh0LmZpbmQoJy5kYXRhZ3JpZCAudGFibGUnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJIy0gJWFwcERpciUvLi4vY3NzL2RhdGFUYWJsZXMuYm9vdHN0cmFwLmNzcwo=</text>
+        <text encoding="base64">CQkJCQlyZXR1cm47Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJIy0gJWFwcERpciUvLi4vY3NzL2RhdGFncmlkLmNzcwo=</text>
+        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2codGhpcy5zY3JvbGxiYXJXaWR0aCgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkkd3JhcHBlci5maW5kKCdkaXYuRFRGQ19MZWZ0SGVhZFdyYXBwZXInKS5maW5kKCd0aGVhZCcpLnJlbW92ZSgpOwo=</text>
+        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2codGhpcy5zY3JvbGxiYXJXaWR0aCgpKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHotaW5kZXg6IDEwMDA7Cg==</text>
+      <register name="8" type="4">
+        <text>/*
+				$('.datagrid', context || document).each($.proxy(function (i, el) {
+					var $el = $(el);
+					console.log($el);
+
+				}, this));
+				*/</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGRpc3BsYXk6IGJsb2NrOwogIGJvcmRlci1yYWRpdXM6IDNweDsKICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgcGFkZGluZzogMTVweDsKICBiYWNrZ3JvdW5kOiAjZWNmMGYxOwogIG1hcmdpbi1ib3R0b206IDE1cHg7CiAgICAvKiBwb3NpdGlvbjogcmVsYXRpdmU7ICovCiAgICB6LWluZGV4OiAxMDAxICFpbXBvcnRhbnQ7</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCRjb250ZXh0LmZpbmQoJy5kYXRhZ3JpZCAudGFibGUnKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
