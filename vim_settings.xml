@@ -1189,12 +1189,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/js/datatables.init.js" timestamp="1510313022911">
+      <file name="/home/www/html/nnb/passportization/js/datatables.init.js" timestamp="1510314594014">
         <mark key="'" line="17" column="34" />
-        <mark key="[" line="37" column="24" />
-        <mark key="]" line="17" column="34" />
-        <mark key="." line="17" column="34" />
-        <mark key="^" line="17" column="34" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="174" column="0" />
+        <mark key="." line="174" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Page/Page.php" timestamp="1505399343890">
         <mark key="[" line="46" column="47" />
@@ -1656,12 +1655,6 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="30" column="4" />
         <mark key="." line="30" column="4" />
-      </file>
-      <file name="/home/www/html/nnb/passportization/app/bootstrap.php" timestamp="1510312481032">
-        <mark key="[" line="18" column="4" />
-        <mark key="]" line="18" column="4" />
-        <mark key="." line="18" column="4" />
-        <mark key="^" line="18" column="4" />
       </file>
       <file name="/home/www/vendor/hrncirr/jstree/src/DI/DoctrineDataSource.php" timestamp="1479301570985">
         <mark key="[" line="13" column="0" />
@@ -3413,6 +3406,12 @@
         <mark key="[" line="193" column="35" />
         <mark key="]" line="193" column="35" />
         <mark key="." line="193" column="35" />
+      </file>
+      <file name="/home/www/html/nnb/passportization/index.php" timestamp="1510314724296">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="15" column="1" />
+        <mark key="." line="15" column="1" />
+        <mark key="^" line="15" column="1" />
       </file>
       <file name="/home/www/vendor/nnb/bootstrap/src/Components/Forms/templates/navbarSignIn.latte" timestamp="1481295085520">
         <mark key="[" line="13" column="24" />
@@ -6330,11 +6329,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dump(file_get_contents(&quot;php://input&quot;));
-		dump($_SERVER);
-		dump($_GET);
-		dump($_POST);
-		exit;</text>
+        <text>print_r(file_get_contents(&quot;php://input&quot;));
+		print_r($_POST);
+	exit;</text>
       </register>
       <register name="-" type="4">
         <text>$rest_json =</text>
@@ -6346,13 +6343,40 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
+        <text>print_r(file_get_contents(&quot;php://input&quot;));
+		print_r($_POST);
+	exit;</text>
+      </register>
+      <register name="2" type="4">
+        <text>print_r(file_get_contents(&quot;php://input&quot;));
+		print_r($_POST);
+	exit;</text>
+      </register>
+      <register name="3" type="4">
+        <text>print_r(file_get_contents(&quot;php://input&quot;));
+		print_r($_POST);
+	exit;</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQlkdW1wKCRfR0VUKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQlkdW1wKCRfU0VSVkVSKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCQkJCWNvbnNvbGUubG9nKCR0YWJsZUVsLnBhcmVudHMoJ2Zvcm0nKS5nZXQoMCkpOwo=</text>
+      </register>
+      <register name="8" type="4">
         <text>dump(file_get_contents(&quot;php://input&quot;));
 		dump($_SERVER);
 		dump($_GET);
 		dump($_POST);
 		exit;</text>
       </register>
-      <register name="2" type="4">
+      <register name="9" type="4">
         <text>/*
 		dump(file_get_contents(&quot;php://input&quot;));
 		dump($_SERVER);
@@ -6360,34 +6384,6 @@
 		dump($_POST);
 		exit;
 		*/</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCSovCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJCS8qCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>dump($_GET);
-		dump($_POST);
-		exit;</text>
-      </register>
-      <register name="6" type="4">
-        <text>dump($_POST);
-		exit;</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCQkJJCh0aGlzKS5yZXBsYWNlV2l0aCgkY2xvbmUpOwo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>$.post(&quot;pages/&quot; + fullpath, $(this).serialize(), function (data) {
-								alert(data);
-							});</text>
-      </register>
-      <register name="9" type="4">
-        <text>$($oldForm).find(':input').each(function () {
-							console.log($(this));
-						});</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
