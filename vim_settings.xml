@@ -1189,12 +1189,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/js/datatables.init.js" timestamp="1510297291481">
-        <mark key="'" line="65" column="26" />
-        <mark key="[" line="82" column="51" />
-        <mark key="]" line="82" column="51" />
-        <mark key="." line="82" column="51" />
-        <mark key="^" line="82" column="66" />
+      <file name="/home/www/html/nnb/passportization/js/datatables.init.js" timestamp="1510301246804">
+        <mark key="'" line="68" column="26" />
+        <mark key="[" line="165" column="24" />
+        <mark key="]" line="165" column="24" />
+        <mark key="." line="165" column="24" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Page/Page.php" timestamp="1505399343890">
         <mark key="[" line="46" column="47" />
@@ -1998,11 +1997,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1510225920836">
-        <mark key="[" line="196" column="8" />
-        <mark key="]" line="249" column="50" />
-        <mark key="." line="249" column="50" />
-        <mark key="^" line="249" column="50" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1510300029802">
+        <mark key="[" line="186" column="4" />
+        <mark key="]" line="253" column="50" />
+        <mark key="." line="253" column="50" />
+        <mark key="^" line="253" column="50" />
       </file>
       <file name="/home/www/html/dv/cms/src/Url/RouteGenerator.php" timestamp="1505223812148">
         <mark key="[" line="23" column="78" />
@@ -6324,10 +6323,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PHRyPjx0ZD4=</text>
+        <text>$parent.unwrap();</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PHRyPjx0ZD4=</text>
+        <text>$parent.unwrap();</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
@@ -6335,44 +6334,37 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCQkJCWNvbnNvbGUubG9nKHRoaXMubm9kZU5hbWUrJzonK3RoaXMubm9kZVZhbHVlKTt9Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coaWQpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCQkJCX0pOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCQkJCSQuZWFjaCgkKHRoaXMpLCBmdW5jdGlvbiAoKSB7Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>console.log($tableEl);
 					console.log(id);</text>
       </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJCQkJY29uc29sZS5sb2codGhpcyk7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>console.log(this.dataTables);
 
 				$.each(this.dataTables, function (id, value) {
 					console.log(id);
 				});</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQkJCS8vdGhpcy5kYXRhVGFibGVzID0gJHRhYmxlRWwuY2xvbmUoKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCXJldHVybjsK</text>
-      </register>
-      <register name="7" type="4">
-        <text>$tableEl.DataTable().clear().draw();
-					//$tableEl.find('tbody').empty();
-					$tableEl.find('tbody tr').each(function () {
-						dt.row.add(this);
-					});</text>
-      </register>
-      <register name="8" type="4">
-        <text>$tableEl.DataTable().clear().draw();
-					console.log(this.dataTables[$tableEl.attr('id')]);</text>
-      </register>
-      <register name="9" type="4">
-        <text>complete: function () {
-				
-			}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
