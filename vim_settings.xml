@@ -1189,11 +1189,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/js/datatables.init.js" timestamp="1510301246804">
+      <file name="/home/www/html/nnb/passportization/js/datatables.init.js" timestamp="1510308156594">
         <mark key="'" line="68" column="26" />
-        <mark key="[" line="165" column="24" />
-        <mark key="]" line="165" column="24" />
-        <mark key="." line="165" column="24" />
+        <mark key="[" line="171" column="37" />
+        <mark key="]" line="186" column="0" />
+        <mark key="." line="186" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Page/Page.php" timestamp="1505399343890">
         <mark key="[" line="46" column="47" />
@@ -1997,11 +1997,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1510300029802">
-        <mark key="[" line="186" column="4" />
-        <mark key="]" line="253" column="50" />
-        <mark key="." line="253" column="50" />
-        <mark key="^" line="253" column="50" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1510307929150">
+        <mark key="[" line="191" column="8" />
+        <mark key="]" line="187" column="13" />
+        <mark key="." line="187" column="13" />
+        <mark key="^" line="186" column="4" />
       </file>
       <file name="/home/www/html/dv/cms/src/Url/RouteGenerator.php" timestamp="1505223812148">
         <mark key="[" line="23" column="78" />
@@ -6322,11 +6322,11 @@
       <jump line="62" column="26" filename="/home/www/html/nnb/passportization/js/datatables.init.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$parent.unwrap();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQkJCSovCg==</text>
       </register>
       <register name="-" type="4">
-        <text>$parent.unwrap();</text>
+        <text>$rest_json =</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
@@ -6335,36 +6335,38 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCWNvbnNvbGUubG9nKHRoaXMubm9kZU5hbWUrJzonK3RoaXMubm9kZVZhbHVlKTt9Cg==</text>
+        <text encoding="base64">CQkJCQkJCSovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coaWQpOwo=</text>
+        <text encoding="base64">CQkJCQkJCS8qCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCX0pOwo=</text>
+      <register name="3" type="4">
+        <text>dump($_GET);
+		dump($_POST);
+		exit;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJCSQuZWFjaCgkKHRoaXMpLCBmdW5jdGlvbiAoKSB7Cg==</text>
+      <register name="4" type="4">
+        <text>dump($_POST);
+		exit;</text>
       </register>
-      <register name="5" type="4">
-        <text>console.log($tableEl);
-					console.log(id);</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQkJCQkJJCh0aGlzKS5yZXBsYWNlV2l0aCgkY2xvbmUpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2codGhpcyk7Cg==</text>
+      <register name="6" type="4">
+        <text>$.post(&quot;pages/&quot; + fullpath, $(this).serialize(), function (data) {
+								alert(data);
+							});</text>
       </register>
       <register name="7" type="4">
-        <text>console.log(this.dataTables);
-
-				$.each(this.dataTables, function (id, value) {
-					console.log(id);
-				});</text>
+        <text>$($oldForm).find(':input').each(function () {
+							console.log($(this));
+						});</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCWNvbnNvbGUubG9nKCQodGhpcykpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCS8vdGhpcy5kYXRhVGFibGVzID0gJHRhYmxlRWwuY2xvbmUoKTsK</text>
+        <text encoding="base64">CQkJCQkJCS8veW91ciBjb2RlIGhlcmUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
