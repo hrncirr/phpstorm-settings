@@ -1189,11 +1189,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/js/datatables.init.js" timestamp="1510561407605">
+      <file name="/home/www/html/nnb/passportization/js/datatables.init.js" timestamp="1510567240659">
         <mark key="'" line="142" column="18" />
-        <mark key="[" line="169" column="46" />
-        <mark key="]" line="169" column="46" />
-        <mark key="." line="169" column="46" />
+        <mark key="[" line="157" column="20" />
+        <mark key="]" line="157" column="20" />
+        <mark key="." line="157" column="20" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Page/Page.php" timestamp="1505399343890">
         <mark key="[" line="46" column="47" />
@@ -6322,10 +6322,12 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Attr('id').removeAttr</text>
+        <text>initComplete: function () {
+
+					},</text>
       </register>
       <register name="-" type="4">
-        <text>Attr('id').removeAttr</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>console.log</text>
@@ -6334,36 +6336,67 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
+        <text>initComplete: function () {
+
+					},</text>
+      </register>
+      <register name="2" type="4">
+        <text>/*
+						var $scrollWrapper = $tableEl.parents('div.DTFC_ScrollWrapper');
+						var $leftFootWrapper = $scrollWrapper.find('div.DTFC_LeftFootWrapper');
+						console.log($leftFootWrapper.html());
+
+						if ($leftFootWrapper.length !== 0) {
+							var $scrollFootInner = $scrollWrapper.find('div.dataTables_scrollFootInner');
+							var id = $scrollFootInner.find('tfoot').attr('id');
+
+							console.log('aaaa');
+							console.log(id);
+
+							//$scrollFootInner.find('tfoot').removeAttr('id').find('tr').empty();
+							//$leftFootWrapper.width($scrollWrapper.width() /* - this.scrollbarWidth() */);
+
+							console.log($leftFootWrapper.html());
+
+							$leftFootWrapper.find('tfoot').attr('id', id);
+						}
+						*/</text>
+      </register>
+      <register name="3" type="4">
+        <text>var duplicity = {};
+						$tableEl.parents('form').find(':input').each(function () {
+							var name = $(this).attr('name');
+							if (!duplicity.hasOwnProperty(name)) {
+								duplicity[name] = $(this);
+							} else if (duplicity.hasOwnProperty(name)) {
+								var cssClass = $(this).closest('div').attr('class');
+								if (cssClass.match(/DTFC_(Left|Right)HeadWrapper/)) {
+									return;
+								}
+
+								$(this).remove();
+							}
+						});</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coJGxlZnRGb290V3JhcHBlcik7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQkJCQkJY29uc29sZS5sb2coJCh0aGlzKS5jbG9zZXN0KCdkaXYnKSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCQkJCQkJY29uc29sZS5sb2coZHVwbGljaXR5W25hbWVdLmNsb3Nlc3QoJ2RpdicpKTsK</text>
+      </register>
+      <register name="7" type="4">
         <text>} else {
 									duplicity[name].remove();
 								}</text>
       </register>
-      <register name="2" type="4">
+      <register name="8" type="4">
         <text encoding="base64">aWYgKGNlbGxIdG1sICE9PSAnJykgewoJCQkJCQkJCQoJCQkJCQkJfSBlbHNlIHsKCQkJCQkJCQljZWxscy5wdXNoKCcmbmJzcDsnKTsKCQkJCQkJCX0=</text>
       </register>
-      <register name="3" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQkJCQkJCS8vY29uc29sZS5sb2cocm93UG9zICsgJy8nICsgY29sdW1uUG9zICsgJy0nICsgY2VsbEh0bWwpOwo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">Y29uc29sZS5sb2coJChyb3cpKTsKCgkJCQkJCWlmIChyb3dQb3MgPiAxKSB7CgkJCQkJCQlyZXR1cm47CgkJCQkJCX0=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coJ2EnKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coY2VsbHMpOwo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">aWYgKHJvd1BvcyA+IDEpIHsKCQkJCQkJCXJldHVybjsKCQkJCQkJfQ==</text>
-      </register>
-      <register name="8" type="4">
-        <text>console.log($(this).is(':visible'));
-								console.log(duplicity[name].is(':visible'));</text>
-      </register>
-      <register name="9" type="4">
-        <text>if (name === 'filter[firstName]') {
-									return;
-								}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
