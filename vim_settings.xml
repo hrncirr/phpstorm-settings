@@ -1189,11 +1189,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/js/datatables.init.js" timestamp="1510568196787">
-        <mark key="'" line="142" column="18" />
-        <mark key="[" line="157" column="20" />
-        <mark key="]" line="157" column="20" />
-        <mark key="." line="157" column="20" />
+      <file name="/home/www/html/nnb/passportization/js/datatables.init.js" timestamp="1510572067508">
+        <mark key="'" line="166" column="18" />
+        <mark key="[" line="43" column="24" />
+        <mark key="]" line="43" column="28" />
+        <mark key="." line="43" column="28" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Page/Page.php" timestamp="1505399343890">
         <mark key="[" line="46" column="47" />
@@ -6322,12 +6322,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>initComplete: function () {
-
-					},</text>
+        <text>console.log(snippet);</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>console.log(snippet);</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
@@ -6335,12 +6333,30 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coJGVsKTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coJ2FhYWEnKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCQkJdmFyICR0YWJsZUVsID0gJGVsLnBhcmVudHMoJy50YWJsZScpOwo=</text>
+      </register>
+      <register name="7" type="4">
         <text>initComplete: function () {
 
 					},</text>
       </register>
-      <register name="2" type="4">
+      <register name="8" type="4">
         <text>/*
 						var $scrollWrapper = $tableEl.parents('div.DTFC_ScrollWrapper');
 						var $leftFootWrapper = $scrollWrapper.find('div.DTFC_LeftFootWrapper');
@@ -6362,7 +6378,7 @@
 						}
 						*/</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text>var duplicity = {};
 						$tableEl.parents('form').find(':input').each(function () {
 							var name = $(this).attr('name');
@@ -6377,26 +6393,6 @@
 								$(this).remove();
 							}
 						});</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coJGxlZnRGb290V3JhcHBlcik7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCQkJY29uc29sZS5sb2coJCh0aGlzKS5jbG9zZXN0KCdkaXYnKSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCQkJY29uc29sZS5sb2coZHVwbGljaXR5W25hbWVdLmNsb3Nlc3QoJ2RpdicpKTsK</text>
-      </register>
-      <register name="7" type="4">
-        <text>} else {
-									duplicity[name].remove();
-								}</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">aWYgKGNlbGxIdG1sICE9PSAnJykgewoJCQkJCQkJCQoJCQkJCQkJfSBlbHNlIHsKCQkJCQkJCQljZWxscy5wdXNoKCcmbmJzcDsnKTsKCQkJCQkJCX0=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCS8vY29uc29sZS5sb2cocm93UG9zICsgJy8nICsgY29sdW1uUG9zICsgJy0nICsgY2VsbEh0bWwpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
