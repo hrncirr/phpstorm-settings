@@ -1189,11 +1189,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/js/datatables.init.js" timestamp="1510572067508">
-        <mark key="'" line="166" column="18" />
-        <mark key="[" line="43" column="24" />
-        <mark key="]" line="43" column="28" />
-        <mark key="." line="43" column="28" />
+      <file name="/home/www/html/nnb/passportization/js/datatables.init.js" timestamp="1510574154162">
+        <mark key="'" line="174" column="18" />
+        <mark key="[" line="190" column="65" />
+        <mark key="]" line="192" column="0" />
+        <mark key="." line="192" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Page/Page.php" timestamp="1505399343890">
         <mark key="[" line="46" column="47" />
@@ -6321,11 +6321,11 @@
       <jump line="149" column="18" filename="/home/www/html/nnb/passportization/js/datatables.init.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>console.log(snippet);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygkdGFibGVFbC5hdHRyKCdpZCcpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>console.log(snippet);</text>
+        <text>var $form = $el.parents('form').first();</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
@@ -6334,65 +6334,33 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coJGVsKTsK</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygkdGFibGVFbC5hdHRyKCdpZCcpKTsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">aWYgKCR0YWJsZUVsLmZpbmQoJ3Rmb290JykubGVuZ3RoICE9PSAwKSB7CgkJCQkJdmFyICRmb290ID0gJHRhYmxlRWwuZmluZCgndGZvb3QnKS5jbG9uZSgpOwoJCQkJCSQoJzx0YWJsZSAvPicpLmh0bWwoJGZvb3QpLmluc2VydEFmdGVyKCR0YWJsZUVsKTsKCQkJCQkkdGFibGVFbC5maW5kKCd0Zm9vdCcpLnJlbW92ZSgpOwoJCQkJCWNvbnNvbGUubG9nKCR0YWJsZUVsLmF0dHIoJ2lkJykpOwoJCQkJfQ==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">JHRhYmxlRWwuRGF0YVRhYmxlKHsKCQkJCQkvL2Rlc3Ryb3k6IHRydWUsCgkJCQkJc2Nyb2xsWTogJzQ4MHB4JywKCQkJCQlzY3JvbGxYOiB0cnVlLAoJCQkJCXNjcm9sbENvbGxhcHNlOiB0cnVlLAoJCQkJCXBhZ2luZzogZmFsc2UsCgkJCQkJc2VhcmNoaW5nOiBmYWxzZSwKCQkJCQlvcmRlcmluZzogZmFsc2UsCgkJCQkJaW5mbzogZmFsc2UsCgkJCQkJcmVzcG9uc2l2ZTogdHJ1ZSwKCQkJCQlmaXhlZENvbHVtbnM6IHsKCQkJCQkJbGVmdENvbHVtbnM6IDMsCgkJCQkJCWZvb3RlcjogZmFsc2UKCQkJCQl9LAoJCQkJCWRyYXdDYWxsYmFjazogJC5wcm94eShmdW5jdGlvbiAoKSB7CgkJCQkJCXZhciBkdXBsaWNpdHkgPSB7fTsKCQkJCQkJJHRhYmxlRWwucGFyZW50cygnZm9ybScpLmZpbmQoJzppbnB1dCcpLmVhY2goZnVuY3Rpb24gKCkgewoJCQkJCQkJdmFyIG5hbWUgPSAkKHRoaXMpLmF0dHIoJ25hbWUnKTsKCQkJCQkJCWlmICghZHVwbGljaXR5Lmhhc093blByb3BlcnR5KG5hbWUpKSB7CgkJCQkJCQkJZHVwbGljaXR5W25hbWVdID0gJCh0aGlzKTsKCQkJCQkJCX0gZWxzZSBpZiAoZHVwbGljaXR5Lmhhc093blByb3BlcnR5KG5hbWUpKSB7CgkJCQkJCQkJdmFyIGNzc0NsYXNzID0gJCh0aGlzKS5jbG9zZXN0KCdkaXYnKS5hdHRyKCdjbGFzcycpOwoJCQkJCQkJCWlmIChjc3NDbGFzcy5tYXRjaCgvRFRGQ18oTGVmdHxSaWdodClIZWFkV3JhcHBlci8pKSB7CgkJCQkJCQkJCXJldHVybjsKCQkJCQkJCQl9CgoJCQkJCQkJCSQodGhpcykucmVtb3ZlKCk7CgkJCQkJCQl9CgkJCQkJCX0pOwoKCQkJCQkJdmFyICRzY3JvbGxXcmFwcGVyID0gJHRhYmxlRWwucGFyZW50cygnZGl2LkRURkNfU2Nyb2xsV3JhcHBlcicpOwoJCQkJCQl2YXIgJGxlZnRGb290V3JhcHBlciA9ICRzY3JvbGxXcmFwcGVyLmZpbmQoJ2Rpdi5EVEZDX0xlZnRGb290V3JhcHBlcicpOwoJCQkJCQkvL2NvbnNvbGUubG9nKCRsZWZ0Rm9vdFdyYXBwZXIuaHRtbCgpKTsKCgkJCQkJCWlmICgkbGVmdEZvb3RXcmFwcGVyLmxlbmd0aCAhPT0gMCkgewoJCQkJCQkJLy92YXIgJHNjcm9sbEZvb3RJbm5lciA9ICRzY3JvbGxXcmFwcGVyLmZpbmQoJ2Rpdi5kYXRhVGFibGVzX3Njcm9sbEZvb3RJbm5lcicpOwoJCQkJCQkJLy92YXIgaWQgPSAkc2Nyb2xsRm9vdElubmVyLmZpbmQoJ3Rmb290JykuYXR0cignaWQnKTsKCgkJCQkJCQkvL2NvbnNvbGUubG9nKCdhYWFhJyk7CgkJCQkJCQkvL2NvbnNvbGUubG9nKGlkKTsKCgkJCQkJCQkvLyRzY3JvbGxGb290SW5uZXIuZmluZCgndGZvb3QnKS5yZW1vdmVBdHRyKCdpZCcpLmZpbmQoJ3RyJykuZW1wdHkoKTsKCgkJCQkJCQkkdGFibGVFbC5uZXh0KCd0YWJsZScpLndpZHRoKCRzY3JvbGxXcmFwcGVyLndpZHRoKCkpOwoKCQkJCQkJCS8vJGxlZnRGb290V3JhcHBlci53aWR0aCgkc2Nyb2xsV3JhcHBlci53aWR0aCgpIC8qIC0gdGhpcy5zY3JvbGxiYXJXaWR0aCgpICovKTsKCgkJCQkJCQkvLyRsZWZ0Rm9vdFdyYXBwZXIuYXR0cignaWQnLCBpZCk7CgkJCQkJCQkvLyRsZWZ0Rm9vdFdyYXBwZXIuZmluZCgndGZvb3QnKS5hcHBlbmQoJzx0YWJsZSAvPicpOyAvL2F0dHIoJ2lkJywgaWQpOwoJCQkJCQl9CgkJCQkJfSwgdGhpcykKCgkJCQkJLyoKCQkJCQlwcmVEcmF3Q2FsbGJhY2s6ICQucHJveHkoZnVuY3Rpb24gKHRmb290LCBkYXRhLCBzdGFydCwgZW5kLCBkaXNwbGF5KSB7CgkJCQkJCWNvbnNvbGUubG9nKHRmb290KTsKCQkJCQkJdmFyICRzY3JvbGxXcmFwcGVyID0gJHRhYmxlRWwucGFyZW50cygnZGl2LkRURkNfU2Nyb2xsV3JhcHBlcicpOwoJCQkJCQl2YXIgJGxlZnRGb290V3JhcHBlciA9ICRzY3JvbGxXcmFwcGVyLmZpbmQoJ2Rpdi5EVEZDX0xlZnRGb290V3JhcHBlcicpOwoJCQkJCQljb25zb2xlLmxvZygkbGVmdEZvb3RXcmFwcGVyLmh0bWwoKSk7CgoJCQkJCX0sIHRoaXMpCgkJCQkJKi8KCQkJCX0pOw==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coJ2FhYWEnKTsK</text>
+        <text encoding="base64">CQkJCQkJCWNvbnNvbGUubG9nKHBheWxvYWQuc25pcHBldHNbaV0pOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>console.log($el.clone());
+							console.log($tableEl);</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJdmFyICR0YWJsZUVsID0gJGVsLnBhcmVudHMoJy50YWJsZScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>initComplete: function () {
-
-					},</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCXJldHVybjsK</text>
       </register>
       <register name="8" type="4">
-        <text>/*
-						var $scrollWrapper = $tableEl.parents('div.DTFC_ScrollWrapper');
-						var $leftFootWrapper = $scrollWrapper.find('div.DTFC_LeftFootWrapper');
-						console.log($leftFootWrapper.html());
-
-						if ($leftFootWrapper.length !== 0) {
-							var $scrollFootInner = $scrollWrapper.find('div.dataTables_scrollFootInner');
-							var id = $scrollFootInner.find('tfoot').attr('id');
-
-							console.log('aaaa');
-							console.log(id);
-
-							//$scrollFootInner.find('tfoot').removeAttr('id').find('tr').empty();
-							//$leftFootWrapper.width($scrollWrapper.width() /* - this.scrollbarWidth() */);
-
-							console.log($leftFootWrapper.html());
-
-							$leftFootWrapper.find('tfoot').attr('id', id);
-						}
-						*/</text>
+        <text>$form.find('div').first().remove();
+							$form.find('table').first().remove();</text>
       </register>
-      <register name="9" type="4">
-        <text>var duplicity = {};
-						$tableEl.parents('form').find(':input').each(function () {
-							var name = $(this).attr('name');
-							if (!duplicity.hasOwnProperty(name)) {
-								duplicity[name] = $(this);
-							} else if (duplicity.hasOwnProperty(name)) {
-								var cssClass = $(this).closest('div').attr('class');
-								if (cssClass.match(/DTFC_(Left|Right)HeadWrapper/)) {
-									return;
-								}
-
-								$(this).remove();
-							}
-						});</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCXJldHVybjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
