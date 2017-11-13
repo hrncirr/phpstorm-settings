@@ -1189,11 +1189,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/js/datatables.init.js" timestamp="1510582608148">
-        <mark key="'" line="167" column="18" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="/home/www/html/nnb/passportization/js/datatables.init.js" timestamp="1510586324154">
+        <mark key="'" line="118" column="18" />
+        <mark key="[" line="118" column="16" />
+        <mark key="]" line="118" column="16" />
+        <mark key="." line="118" column="16" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Page/Page.php" timestamp="1505399343890">
         <mark key="[" line="46" column="47" />
@@ -1650,6 +1650,9 @@
         <mark key="[" line="25" column="9" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="/PHP Console" timestamp="1510585202070">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Page/AdminModule/Presenters/PagesPresenter.php" timestamp="1506523039918">
         <mark key="[" line="19" column="0" />
@@ -3880,7 +3883,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510324854436">
+      <file name="/Dummy.txt" timestamp="1510586409549">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -6321,11 +6324,11 @@
       <jump line="149" column="18" filename="/home/www/html/nnb/passportization/js/datatables.init.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJLy9jb25zb2xlLmxvZyh0aGlzLmRhdGFUYWJsZXNbJHRhYmxlRWwuYXR0cignaWQnKV0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>//console.log('init');</text>
       </register>
       <register name="-" type="4">
-        <text>$.nette.load();</text>
+        <text>//console.log('init');</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
@@ -6334,42 +6337,36 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJLy9jb25zb2xlLmxvZyh0aGlzLmRhdGFUYWJsZXNbJHRhYmxlRWwuYXR0cignaWQnKV0pOwo=</text>
+        <text encoding="base64">CQkJCQkvL3NuaXBwZXQtLWdyaWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJLy9jb25zb2xlLmxvZyhwYXlsb2FkLnNuaXBwZXRzW2ldKTsK</text>
+        <text encoding="base64">CQkJCQkvL3RoaXMuZGF0YVRhYmxlc1skY29udGV4dC5hdHRyKCdpZCcpXSA9ICRjb250ZXh0LmNsb25lKCk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>var $table = $el;
-							var snippet = $(payload.snippets[i]).closest('tbody').html();
-							//console.log($(payload.snippets[i]).closest('tbody'));</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCQkvL2NvbnNvbGUubG9nKCRjb250ZXh0LmF0dHIoJ2lkJykpOwo=</text>
       </register>
       <register name="4" type="4">
-        <text>//this.dataTables[$context.attr('id')] = $context.clone();
-					//console.log($context.attr('id'));</text>
+        <text>//console.log('test');
+
+					//$tableEl.DataTable().rows().invalidate();
+					//$tableEl.find('tbody').html($body.html());
+					//console.log($body);
+					//$tableEl.DataTable().rows().invalidate().draw();</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJLy9jb25zb2xlLmxvZygkbGVmdEZvb3RXcmFwcGVyLmh0bWwoKSk7Cg==</text>
+        <text encoding="base64">CQkJCS8vY29uc29sZS5sb2coJGNvbnRleHQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJdmFyICRzY3JvbGxXcmFwcGVyID0gJHRhYmxlLnBhcmVudHMoJ2Rpdi5EVEZDX1Njcm9sbFdyYXBwZXInKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJLy9jb25zb2xlLmxvZygkbGVmdEZvb3RXcmFwcGVyLmh0bWwoKSk7Cg==</text>
+        <text encoding="base64">CQkJCS8vY29uc29sZS5sb2coJGNvbnRleHQuYXR0cignaWQnKSk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Ly92YXIgJHNjcm9sbEZvb3RJbm5lciA9ICRzY3JvbGxXcmFwcGVyLmZpbmQoJ2Rpdi5kYXRhVGFibGVzX3Njcm9sbEZvb3RJbm5lcicpOwoJCQkJCQkJLy92YXIgaWQgPSAkc2Nyb2xsRm9vdElubmVyLmZpbmQoJ3Rmb290JykuYXR0cignaWQnKTsKCgkJCQkJCQkvL2NvbnNvbGUubG9nKCdhYWFhJyk7CgkJCQkJCQkvL2NvbnNvbGUubG9nKGlkKTsKCgkJCQkJCQkvLyRzY3JvbGxGb290SW5uZXIuZmluZCgndGZvb3QnKS5yZW1vdmVBdHRyKCdpZCcpLmZpbmQoJ3RyJykuZW1wdHkoKTsKCgkJCQkJCQkkdGFibGUubmV4dCgndGFibGUnKS53aWR0aCgkc2Nyb2xsV3JhcHBlci53aWR0aCgpKTsKCgkJCQkJCQkvLyRsZWZ0Rm9vdFdyYXBwZXIud2lkdGgoJHNjcm9sbFdyYXBwZXIud2lkdGgoKSAvKiAtIHRoaXMuc2Nyb2xsYmFyV2lkdGgoKSAqLyk7CgoJCQkJCQkJLy8kbGVmdEZvb3RXcmFwcGVyLmF0dHIoJ2lkJywgaWQpOwoJCQkJCQkJLy8kbGVmdEZvb3RXcmFwcGVyLmZpbmQoJ3Rmb290JykuYXBwZW5kKCc8dGFibGUgLz4nKTsgLy9hdHRyKCdpZCcsIGlkKTs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnYWhvaicpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>/*
-					preDrawCallback: $.proxy(function (tfoot, data, start, end, display) {
-						console.log(tfoot);
-						var $scrollWrapper = $tableEl.parents('div.DTFC_ScrollWrapper');
-						var $leftFootWrapper = $scrollWrapper.find('div.DTFC_LeftFootWrapper');
-						console.log($leftFootWrapper.html());
-
-					}, this)
-					*/</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
