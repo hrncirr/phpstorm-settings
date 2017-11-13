@@ -1189,12 +1189,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/js/datatables.init.js" timestamp="1510324762761">
+      <file name="/home/www/html/nnb/passportization/js/datatables.init.js" timestamp="1510558320870">
         <mark key="'" line="17" column="34" />
-        <mark key="[" line="168" column="32" />
-        <mark key="]" line="168" column="32" />
-        <mark key="." line="168" column="32" />
-        <mark key="^" line="169" column="64" />
+        <mark key="[" line="95" column="28" />
+        <mark key="]" line="95" column="28" />
+        <mark key="." line="95" column="28" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Page/Page.php" timestamp="1505399343890">
         <mark key="[" line="46" column="47" />
@@ -2353,7 +2352,6 @@
         <mark key="]" line="3" column="51" />
         <mark key="." line="3" column="51" />
       </file>
-      <file name="/home/www/html/nnb/passportization/js/_dataTables.fixedColumns.js" timestamp="1510216163272" />
       <file name="/home/www/html/nnb/dms/src/Files/FileConversionFacade.php" timestamp="1491832685687">
         <mark key="[" line="53" column="58" />
         <mark key="]" line="5" column="0" />
@@ -6324,11 +6322,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>console.log($(this).is(':visible'));
-								console.log(duplicity[name].is(':visible'));</text>
+        <text>//console.log(rowPos + '/' + columnPos + '-' + $(cell).html());</text>
       </register>
       <register name="-" type="4">
-        <text>if ()</text>
+        <text>//console.log(rowPos + '/' + columnPos + '-' + $(cell).html());</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
@@ -6336,25 +6333,31 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coY2VsbHMpOwo=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">aWYgKHJvd1BvcyA+IDEpIHsKCQkJCQkJCXJldHVybjsKCQkJCQkJfQ==</text>
+      </register>
+      <register name="3" type="4">
         <text>console.log($(this).is(':visible'));
 								console.log(duplicity[name].is(':visible'));</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>if (name === 'filter[firstName]') {
 									return;
 								}</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJCWlmICh0aGlzLmRhdCkK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCXJldHVybjsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>var duplicity = {};
 						$tableEl.parents('form').find(':input').each(function () {
 							var name = $(this).attr('name');
@@ -6365,14 +6368,8 @@
 							}
 						});</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coJGZvb3RXcmFwcGVyLmZpbmQoJ3Rmb290JykpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJLy8kZm9vdFdyYXBwZXIuZmluZCgndGZvb3QnKS5lbXB0eSgpOwo=</text>
+        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coJGZvb3RXcmFwcGVyLmZpbmQoJ3Rmb290JykpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
