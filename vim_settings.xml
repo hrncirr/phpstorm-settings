@@ -1192,11 +1192,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/js/datatables.init.js" timestamp="1510586324154">
+      <file name="/home/www/html/nnb/passportization/js/datatables.init.js" timestamp="1510642855518">
         <mark key="'" line="118" column="18" />
-        <mark key="[" line="118" column="16" />
-        <mark key="]" line="118" column="16" />
-        <mark key="." line="118" column="16" />
+        <mark key="[" line="151" column="36" />
+        <mark key="]" line="187" column="16" />
+        <mark key="." line="187" column="16" />
+        <mark key="^" line="43" column="63" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Page/Page.php" timestamp="1505399343890">
         <mark key="[" line="46" column="47" />
@@ -6192,7 +6193,7 @@
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" timestamp="1509961351464">
         <mark key="[" line="155" column="54" />
       </file>
-      <file name="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" timestamp="1510220399014">
+      <file name="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" timestamp="1510642521181">
         <mark key="'" line="855" column="45" />
         <mark key="[" line="774" column="0" />
         <mark key="]" line="774" column="0" />
@@ -6328,7 +6329,8 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>//console.log('init');</text>
+        <text>console.log(id);
+				return;</text>
       </register>
       <register name="-" type="4">
         <text>//console.log('init');</text>
@@ -6339,37 +6341,34 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCQkvL3NuaXBwZXQtLWdyaWQK</text>
+      <register name="1" type="4">
+        <text>console.log(id);
+				return;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCQkvL3RoaXMuZGF0YVRhYmxlc1skY29udGV4dC5hdHRyKCdpZCcpXSA9ICRjb250ZXh0LmNsb25lKCk7Cg==</text>
+      <register name="2" type="4">
+        <text>var $wrapper = $tableEl.parents('div.DTFC_ScrollWrapper');
+					$wrapper.find('div.DTFC_LeftFootWrapper').width($wrapper.width())</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkvL2NvbnNvbGUubG9nKCRjb250ZXh0LmF0dHIoJ2lkJykpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>//console.log('test');
-
-					//$tableEl.DataTable().rows().invalidate();
-					//$tableEl.find('tbody').html($body.html());
-					//console.log($body);
-					//$tableEl.DataTable().rows().invalidate().draw();</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCQkJCS8vY29uc29sZS5sb2coJGVsLnBhcmVudHMoJ2RpdltpZCQ9LWdyaWRdJykpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCS8vY29uc29sZS5sb2coJGNvbnRleHQpOwo=</text>
+        <text encoding="base64">CQkJCQkJCXJldHVybjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCXZhciBzbmlwcGV0ID0gcGF5bG9hZC5zbmlwcGV0c1tpXTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCS8vY29uc29sZS5sb2coJGNvbnRleHQuYXR0cignaWQnKSk7Cg==</text>
+        <text encoding="base64">CQkJCQkJdGhpcy5kYXRhVGFibGVzWyR0YWJsZS5hdHRyKCdpZCcpXSA9IHNuaXBwZXQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnYWhvaicpOwo=</text>
+        <text encoding="base64">CQkJCQkvL3NuaXBwZXQtLWdyaWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkvL3RoaXMuZGF0YVRhYmxlc1skY29udGV4dC5hdHRyKCdpZCcpXSA9ICRjb250ZXh0LmNsb25lKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
