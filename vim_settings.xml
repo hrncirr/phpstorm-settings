@@ -965,6 +965,11 @@
         <mark key="]" line="27" column="18" />
         <mark key="." line="27" column="18" />
       </file>
+      <file name="/home/www/html/dv/adera/www/js/invoicing.js" timestamp="1510670391952">
+        <mark key="[" line="153" column="16" />
+        <mark key="]" line="153" column="16" />
+        <mark key="." line="153" column="16" />
+      </file>
       <file name="/home/www/lib/vendor/hrncirr/xml-serializer/src/Naming/LongNamingStrategy.php" timestamp="1503479233197">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -3770,8 +3775,8 @@
         <mark key="]" line="27" column="4" />
         <mark key="." line="27" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/extensions/header.neon" timestamp="1509960948364">
-        <mark key="[" line="123" column="39" />
+      <file name="/home/www/html/dv/adera/app/config/extensions/header.neon" timestamp="1510670104125">
+        <mark key="[" line="127" column="16" />
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
       </file>
@@ -3893,7 +3898,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510664694130">
+      <file name="/Dummy.txt" timestamp="1510670497427">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -6332,11 +6337,11 @@
       <jump line="925" column="25" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCXJldHVybjsK</text>
+      <register name="&quot;" type="4">
+        <text>$priceValueEl.data('old-value', price);</text>
       </register>
       <register name="-" type="4">
-        <text>= $table.find('tbody tr td').first().attr('colspan'</text>
+        <text>$priceValueEl.data('old-value', price);</text>
       </register>
       <register name="/" type="4">
         <text>DrawCallback</text>
@@ -6344,34 +6349,35 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCXJldHVybjsK</text>
+      <register name="1" type="4">
+        <text>$subtotalInputEl.hide().text(this.formatCurrency(subtotal)).delay(duration)
+					.fadeIn(fadeInDuration);</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQl2YXIgY29sc3BhbjsK</text>
+        <text encoding="base64">CQkJCXJldHVybjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJdmFyICR0ciA9ICR0YWJsZS5maW5kKCd0Ym9keSB0cicpOwo=</text>
+        <text encoding="base64">CQkJCQl2YXIgY29sc3BhbjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQlyZXR1cm47Cg==</text>
+        <text encoding="base64">CQkJCQkJdmFyICR0ciA9ICR0YWJsZS5maW5kKCd0Ym9keSB0cicpOwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CQkJCQlyZXR1cm47Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CQkJCXZhciBjb2xzcGFuOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>if ($table.find('tbody tr td').first().attr('colspan')) {
 						
 					}</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCR0YWJsZS5maW5kKCd0Ym9keSB0cicpLmxlbmd0aCk7Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnYWFhJyk7Cg==</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCR0YWJsZS5maW5kKCd0Ym9keSB0cicpLmxlbmd0aCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCR0YWJsZS5maW5kKCd0Ym9keSB0cicpLmxlbmd0aCk7Cg==</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnYWFhJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
