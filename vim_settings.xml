@@ -1192,11 +1192,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/js/datatables.init.js" timestamp="1510646484921">
-        <mark key="'" line="118" column="18" />
-        <mark key="[" line="154" column="21" />
-        <mark key="]" line="151" column="0" />
-        <mark key="." line="151" column="0" />
+      <file name="/home/www/html/nnb/passportization/js/datatables.init.js" timestamp="1510652094603">
+        <mark key="[" line="156" column="83" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Page/Page.php" timestamp="1505399343890">
         <mark key="[" line="46" column="47" />
@@ -2003,10 +2002,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1510582104522">
-        <mark key="[" line="211" column="44" />
-        <mark key="]" line="186" column="8" />
-        <mark key="." line="186" column="8" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1510649926846">
+        <mark key="[" line="192" column="8" />
+        <mark key="]" line="192" column="8" />
+        <mark key="." line="192" column="8" />
         <mark key="^" line="186" column="4" />
       </file>
       <file name="/home/www/html/dv/cms/src/Url/RouteGenerator.php" timestamp="1505223812148">
@@ -2675,6 +2674,9 @@
         <mark key="[" line="40" column="19" />
         <mark key="]" line="40" column="19" />
         <mark key="." line="40" column="19" />
+      </file>
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/templates/datagrid.latte" timestamp="1510650318467">
+        <mark key="[" line="2" column="66" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/tabs/client-side/css/hrncirr.tabs.spinner.css" timestamp="1489570313852">
         <mark key="[" line="3" column="1" />
@@ -6328,10 +6330,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJZm9vdGVyOiBmYWxzZSwK</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnb2InKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>console.log('aaaa');</text>
+        <text>console.log($el);</text>
       </register>
       <register name="/" type="4">
         <text>DrawCallback</text>
@@ -6340,35 +6342,36 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJZm9vdGVyOiBmYWxzZSwK</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnb2InKTsK</text>
       </register>
       <register name="2" type="4">
-        <text>aoInitComplete: function() {
-						console.log('ok');
-					},</text>
+        <text encoding="base64">ZWxzZSBpZiAoJGNvbnRleHQucGFyZW50cygnLmRhdGFncmlkJykubGVuZ3RoICE9PSAwICYmICRjb250ZXh0LmF0dHIoJ2lkJykubWF0Y2goL1wtdGJvZHkkLykpIHsKCQkJCQkkdGFibGUgPSAkY29udGV4dC5wYXJlbnRzKCd0YWJsZS4nICsgdGhpcy50YWJsZUNsYXNzKTsKCQkJCQljb25zb2xlLmxvZygnb2snKTsKCQkJCX0=</text>
       </register>
-      <register name="3" type="4">
-        <text>console.log(id);
-				return;</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCQkJCWNvbnNvbGUubG9nKCR0YWJsZSk7Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>var $wrapper = $tableEl.parents('div.DTFC_ScrollWrapper');
-					$wrapper.find('div.DTFC_LeftFootWrapper').width($wrapper.width())</text>
+        <text>} else if ($el.attr('id').match(/\-grid$/)) {
+							continue;</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>if ($.fn.DataTable.isDataTable($table)) {
+					return;
+				}</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCS8vY29uc29sZS5sb2coJGVsLnBhcmVudHMoJ2RpdltpZCQ9LWdyaWRdJykpOwo=</text>
+      <register name="6" type="4">
+        <text>else {
+					return;
+				}</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCXJldHVybjsK</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnb2sxJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCXZhciBzbmlwcGV0ID0gcGF5bG9hZC5zbmlwcGV0c1tpXTsK</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnb2syJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJdGhpcy5kYXRhVGFibGVzWyR0YWJsZS5hdHRyKCdpZCcpXSA9IHNuaXBwZXQ7Cg==</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnb2szJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
