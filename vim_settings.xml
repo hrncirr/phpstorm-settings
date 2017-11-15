@@ -3823,8 +3823,10 @@
         <mark key="]" line="44" column="36" />
         <mark key="." line="44" column="36" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/locale/invoicing.cs_CZ.neon" timestamp="1510755853771">
-        <mark key="[" line="92" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/locale/invoicing.cs_CZ.neon" timestamp="1510757904274">
+        <mark key="[" line="93" column="4" />
+        <mark key="]" line="93" column="4" />
+        <mark key="." line="93" column="4" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Doctrine/Mapping/Driver/CMP.php" timestamp="1475841409230">
         <mark key="[" line="191" column="12" />
@@ -3901,7 +3903,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510755641145">
+      <file name="/Dummy.txt" timestamp="1510758730180">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -6333,7 +6335,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JHRoaXMtPndvcmtlcnMgPSBuZXcgQXJyYXlDb2xsZWN0aW9uKCk7</text>
+        <text>workers:
+		title: &quot;Středisko&quot;
+		placeholder: &quot;Zadejte číslo střediska&quot;</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JHRoaXMtPndvcmtlcnMgPSBuZXcgQXJyYXlDb2xsZWN0aW9uKCk7</text>
@@ -6345,36 +6349,38 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
+        <text>workers:
+		title: &quot;Středisko&quot;
+		placeholder: &quot;Zadejte číslo střediska&quot;</text>
+      </register>
+      <register name="2" type="4">
         <text>* @Assert\Type(
 	 *      type=&quot;integer&quot;
 	 * )</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>@Assert\Type(
 	 *      type=&quot;integer&quot;
 	 * )</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">SHRtbDo6ZWwoJ3NwYW4nIC8qLCAhJGV4cGlyZWQgPwoJCQkJWydzdHlsZScgPT4gJ2NvbG9yOicgLiAoJGxhc3RBY2Nlc3MgPiAkbm93LT5tb2RpZnkoJy0gMSBkYXknKSA/ICdncmVlbicgOiAncmVkJyldIDogbnVsbCAqLykKCQkJCS0+c2V0SHRtbCg=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">JGxhc3RBY2Nlc3NDb250YWluZXItPnNldEh0bWwoSHRtbDo6ZWwoJ3N0cm9uZycpLT5zZXRIdG1sKEh0bWw6OmVsKCdzcGFuJywgISRleHBpcmVkID8KCQkJCVsnc3R5bGUnID0+ICdjb2xvcjonIC4gKCRsYXN0QWNjZXNzID4gJG5vdy0+bW9kaWZ5KCctIDEgZGF5JykgPyAnZ3JlZW4nIDogJ3JlZCcpXSA6IG51bGwpCgkJCQktPnNldEh0bWwoSHRtbDo6ZWwoJ3NwYW4nLCBbJ2NsYXNzJyA9PiAnZmEgZmEtdXNlciddKSAuICc8YnIgLz4nIC4KCQkJCQkkbGFzdEFjY2Vzcy0+Zm9ybWF0KCdkLm0uWScpKSkpOw==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">PSBIdG1sOjplbCgnc3BhbicsIFsKCQkJCQknY2xhc3MnID0+ICEkZXhwaXJlZCA/ICdhY2NvdW50cy1pbmZvJyA6ICdhY2NvdW50cy1pbmZvLWV4cGlyZWQnCgkJCQldKTs=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCQknc3R5bGUnID0+ICRleHBpcmVkID8gJ2NvbG9yOiByZWQnIDogbnVsbCwK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>.accounts-info a {
 }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiBib2xkICFpbXBvcnRhbnQ7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiBib2xkICFpbXBvcnRhbnQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
