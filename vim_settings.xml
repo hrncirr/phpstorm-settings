@@ -1200,10 +1200,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/js/datatables.init.js" timestamp="1510654207530">
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
+      <file name="/home/www/html/nnb/passportization/js/datatables.init.js" timestamp="1510733215927">
+        <mark key="[" line="161" column="24" />
+        <mark key="]" line="161" column="24" />
+        <mark key="." line="161" column="24" />
         <mark key="^" line="121" column="40" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Page/Page.php" timestamp="1505399343890">
@@ -6338,10 +6338,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$priceValueEl.data('old-value', price);</text>
+        <text encoding="base64">aWYgKHJlZ2V4ICE9PSB1bmRlZmluZWQgJiYgcmVnZXgudGVzdChjc3NDbGFzcykpIHsKCQkJCQkJCXJldHVybjsKCQkJCQkJfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>$priceValueEl.data('old-value', price);</text>
+        <text>/DTFC_(Left|Right)HeadWrapper/</text>
       </register>
       <register name="/" type="4">
         <text>DrawCallback</text>
@@ -6350,34 +6350,47 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">aWYgKHJlZ2V4ICE9PSB1bmRlZmluZWQgJiYgcmVnZXgudGVzdChjc3NDbGFzcykpIHsKCQkJCQkJCXJldHVybjsKCQkJCQkJfQ==</text>
+      </register>
+      <register name="2" type="4">
+        <text>var formInputs = {};
+						$table.parents('form').find(':input').each(function () {
+							var name = $(this).attr('name');
+							if (!formInputs.hasOwnProperty(name)) {
+								formInputs[name] = $(this);
+							} else if (formInputs.hasOwnProperty(name)) {
+								var cssClass = $(this).closest('div').attr('class');
+								if (cssClass.match(/DTFC_(Left|Right)HeadWrapper/)) {
+									return;
+								}
+
+								$(this).remove();
+							}
+						});</text>
+      </register>
+      <register name="3" type="4">
         <text>$subtotalInputEl.hide().text(this.formatCurrency(subtotal)).delay(duration)
 					.fadeIn(fadeInDuration);</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkJCXJldHVybjsK</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJCQl2YXIgY29sc3BhbjsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJCQkJdmFyICR0ciA9ICR0YWJsZS5maW5kKCd0Ym9keSB0cicpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCQlyZXR1cm47Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCXZhciBjb2xzcGFuOwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>if ($table.find('tbody tr td').first().attr('colspan')) {
 						
 					}</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCR0YWJsZS5maW5kKCd0Ym9keSB0cicpLmxlbmd0aCk7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnYWFhJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
