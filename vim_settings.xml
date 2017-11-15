@@ -1200,10 +1200,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/js/datatables.init.js" timestamp="1510734861454">
-        <mark key="[" line="209" column="55" />
-        <mark key="]" line="209" column="55" />
-        <mark key="." line="209" column="55" />
+      <file name="/home/www/html/nnb/passportization/js/datatables.init.js" timestamp="1510737308178">
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="." line="156" column="0" />
+        <mark key="^" line="156" column="29" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Page/Page.php" timestamp="1505399343890">
         <mark key="[" line="46" column="47" />
@@ -2011,11 +2012,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1510649926846">
-        <mark key="[" line="192" column="8" />
-        <mark key="]" line="192" column="8" />
-        <mark key="." line="192" column="8" />
-        <mark key="^" line="186" column="4" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" timestamp="1510738666406">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/src/Url/RouteGenerator.php" timestamp="1505223812148">
         <mark key="[" line="23" column="78" />
@@ -6336,11 +6336,11 @@
       <jump line="925" column="25" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, regex</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXEFwcGxpY2F0aW9uXFVJXExpbms7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>, regex</text>
+        <text>/* || $container.hasClass('DTFC_LeftHeadWrapper') */</text>
       </register>
       <register name="/" type="4">
         <text>DrawCallback</text>
@@ -6348,55 +6348,32 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LyoKCQkJCQkJCXZhciBjc3NDbGFzcyA9ICQodGhpcykuY2xvc2VzdCgnZGl2JykuYXR0cignY2xhc3MnKTsKCgkJCQkJCQlpZiAocmVnZXggIT09IHVuZGVmaW5lZCAmJiByZWdleC50ZXN0KGNzc0NsYXNzKSkgewoJCQkJCQkJCXJldHVybjsKCQkJCQkJCX0KCQkJCQkJCSov</text>
+      <register name="1" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXEFwcGxpY2F0aW9uXFVJXExpbms7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCXZhciBmb3JtSW5wdXRzID0ge307Cg==</text>
+        <text encoding="base64">CQkJZHVtcCgoc3RyaW5nKShuZXcgTGluaygkdGhpcywgJ3Nob3dBY2NvdW50c0xhc3RBY2Nlc3MhJywgWyRlbXBsb3llZSwgJ2FjY291bnQnID0+ICRhY2NvdW50LT5nZXROYW1lKCldKSkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCSR0YWJsZS5wYXJlbnRzKCdmb3JtJykuZmlyc3QoKS5maW5kKCc6aW5wdXQnKS5lYWNoKGZ1bmN0aW9uICgpIHsK</text>
+        <text encoding="base64">CQlkdW1wKCR0aGlzLT5wcmVzZW50ZXItPmxhenlMaW5rKCcnKSk7Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>var name = $(this).attr('name');
-					if (!formInputs.hasOwnProperty(name)) {
-						formInputs[name] = $(this);
-					} else if (formInputs.hasOwnProperty(name)) {
-						var cssClass = $(this).closest('div').attr('class');
-
-
-						formInputs[name].remove();
-					}
-				});</text>
+        <text encoding="base64">JGdyaWQtPm9uQW5jaG9yW10gPSBmdW5jdGlvbiAoKSB1c2UgKCRncmlkKSB7CgkJCWR1bXAoJGdyaWRbJ2ZpbHRlciddKTsKCQl9Ow==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">aWYgKHJlZ2V4ICE9PSB1bmRlZmluZWQgJiYgcmVnZXgudGVzdChjc3NDbGFzcykpIHsKCQkJCQkJCXJldHVybjsKCQkJCQkJfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQkJCWNvbnNvbGUubG9nKCdvaycpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>var formInputs = {};
-						$table.parents('form').find(':input').each(function () {
-							var name = $(this).attr('name');
-							if (!formInputs.hasOwnProperty(name)) {
-								formInputs[name] = $(this);
-							} else if (formInputs.hasOwnProperty(name)) {
-								var cssClass = $(this).closest('div').attr('class');
-								if (cssClass.match(/DTFC_(Left|Right)HeadWrapper/)) {
-									return;
-								}
-
-								$(this).remove();
-							}
-						});</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCQkJCWNvbnNvbGUubG9nKCdyZW1vdmluZyAuLi4nKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>$subtotalInputEl.hide().text(this.formatCurrency(subtotal)).delay(duration)
-					.fadeIn(fadeInDuration);</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCQkJCWNvbnNvbGUubG9nKCdyZW1vdmluZyAuLi4nKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCXJldHVybjsK</text>
+        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coJ2RyYXdpbmcgLi4uJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQl2YXIgY29sc3BhbjsK</text>
+        <text encoding="base64">CQkJCQkJdmFyIHdpZHRoID0gMDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
