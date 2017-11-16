@@ -454,7 +454,8 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/forms-typeahead/client-side/js/hrncirr.forms.typeahead.init.js" timestamp="1502780638879">
+      <file name="/home/www/vendor/hrncirr/forms-typeahead/client-side/js/hrncirr.forms.typeahead.init.js" timestamp="1510833051518">
+        <mark key="'" line="56" column="45" />
         <mark key="[" line="80" column="55" />
         <mark key="]" line="80" column="55" />
         <mark key="." line="80" column="55" />
@@ -1384,10 +1385,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/forms-typeahead/src/Controls/TypeaheadInput.php" timestamp="1503487699023">
-        <mark key="[" line="250" column="12" />
-        <mark key="]" line="250" column="12" />
-        <mark key="." line="250" column="12" />
+      <file name="/home/www/vendor/hrncirr/forms-typeahead/src/Controls/TypeaheadInput.php" timestamp="1510833157663">
+        <mark key="'" line="280" column="33" />
+        <mark key="[" line="82" column="7" />
+        <mark key="]" line="82" column="7" />
+        <mark key="." line="82" column="7" />
+        <mark key="^" line="91" column="35" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" timestamp="1500550523151">
         <mark key="[" line="92" column="8" />
@@ -1779,6 +1782,12 @@
         <mark key="]" line="130" column="12" />
         <mark key="." line="130" column="12" />
       </file>
+      <file name="/home/www/vendor/hrncirr/forms-typeahead/src/DI/TypeaheadExtension.php" timestamp="1510831970078">
+        <mark key="[" line="34" column="101" />
+        <mark key="]" line="34" column="77" />
+        <mark key="^" line="34" column="77" />
+        <mark key="." line="34" column="77" />
+      </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Doctrine/TemplateListener.php" timestamp="1508223584156">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
@@ -2056,11 +2065,10 @@
         <mark key="]" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/forms-tags-input/src/Controls/TagsInput.php" timestamp="1510071632663">
-        <mark key="[" line="92" column="44" />
-        <mark key="]" line="138" column="4" />
-        <mark key="." line="138" column="4" />
-        <mark key="^" line="192" column="12" />
+      <file name="/home/www/lib/vendor/hrncirr/forms-tags-input/src/Controls/TagsInput.php" timestamp="1510833176761">
+        <mark key="[" line="160" column="28" />
+        <mark key="]" line="160" column="0" />
+        <mark key="." line="160" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/client-side/js/hrncirr.mediaelement.init.js" timestamp="1476357940960">
         <mark key="[" line="27" column="66" />
@@ -2224,6 +2232,11 @@
         <mark key="[" line="109" column="64" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="/home/www/lib/vendor/hrncirr/forms-tags-input/client-side/js/hrncirr.forms.tagsinput.init.js" timestamp="1510832871332">
+        <mark key="[" line="61" column="49" />
+        <mark key="]" line="62" column="28" />
+        <mark key="." line="62" column="28" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/Passportization/TechnicalRequisitions/components/TechnicalRequisitionForm/TechnicalRequisitionForm.php" timestamp="1487592751339">
         <mark key="[" line="138" column="8" />
@@ -5249,8 +5262,8 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/DI/AccessRightsExtension.php" timestamp="1510755515032">
-        <mark key="[" line="33" column="30" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/DI/AccessRightsExtension.php" timestamp="1510831784380">
+        <mark key="[" line="82" column="49" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/InfoControl/InfoControl.php" timestamp="1495783168849">
         <mark key="[" line="21" column="0" />
@@ -6232,12 +6245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="314" column="30" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
-      <jump line="321" column="49" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
-      <jump line="401" column="49" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
-      <jump line="417" column="61" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
-      <jump line="130" column="38" filename="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Employees/Employee.php" />
-      <jump line="191" column="28" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" />
       <jump line="201" column="20" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" />
       <jump line="11" column="12" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccountsLastAccessControl/templates/apotheke.latte" />
       <jump line="187" column="14" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsGrid/AccessRightsGrid.php" />
@@ -6332,64 +6339,70 @@
       <jump line="794" column="49" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
       <jump line="924" column="25" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
       <jump line="925" column="25" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
+      <jump line="179" column="58" filename="/home/www/vendor/hrncirr/forms-typeahead/src/Controls/TypeaheadInput.php" />
+      <jump line="35" column="41" filename="/home/www/vendor/hrncirr/forms-typeahead/client-side/js/hrncirr.forms.typeahead.init.js" />
+      <jump line="56" column="45" filename="/home/www/vendor/hrncirr/forms-typeahead/client-side/js/hrncirr.forms.typeahead.init.js" />
+      <jump line="102" column="35" filename="/home/www/vendor/hrncirr/forms-typeahead/src/Controls/TypeaheadInput.php" />
+      <jump line="277" column="56" filename="/home/www/vendor/hrncirr/forms-typeahead/src/Controls/TypeaheadInput.php" />
+      <jump line="280" column="33" filename="/home/www/vendor/hrncirr/forms-typeahead/src/Controls/TypeaheadInput.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>workers:
-		title: &quot;Středisko&quot;
-		placeholder: &quot;Zadejte číslo střediska&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CSAqIEB0aHJvd3MgQWJvcnRFeGNlcHRpb24K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPndvcmtlcnMgPSBuZXcgQXJyYXlDb2xsZWN0aW9uKCk7</text>
+        <text>@param callable|null $callback</text>
       </register>
       <register name="/" type="4">
-        <text>DrawCallback</text>
+        <text>self::QUERY_PLACEHOLDER</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CSAqIEB0aHJvd3MgQWJvcnRFeGNlcHRpb24K</text>
+      </register>
+      <register name="2" type="4">
+        <text>prefetch: {
+								url: config.url,
+								cache: false
+							}</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGhhbmRsZVR5cGVhaGVhZERhdGFzb3VyY2UoKQoJewoJCS8qKiBAdmFyIElEYXRhU291cmNlICRzb3VyY2UgKi8KCQkkc291cmNlID0gY2FsbF91c2VyX2Z1bmMoJHRoaXMtPnR5cGVhaGVhZERhdGFzb3VyY2VDYWxsYmFjayk7CgoJCWlmICghJHNvdXJjZSBpbnN0YW5jZW9mIElEYXRhU291cmNlKSB7CgkJCXRocm93IG5ldyBJbnZhbGlkU3RhdGVFeGNlcHRpb24oc3ByaW50ZignU291cmNlIG11c3QgYmUgJXMsICVzIGdpdmVuLCcsCgkJCQlJRGF0YVNvdXJjZTo6Y2xhc3MsIGdldHR5cGUoJHNvdXJjZSkpKTsKCQl9CgoJCSRpdGVtcyA9ICRzb3VyY2UtPnRvQXJyYXkoKTsKCgkJJGl0ZW1zID0gYXJyYXlfbWFwKGZ1bmN0aW9uICgkaXRlbSkgewoJCQkkaXRlbS0+e0lEYXRhU291cmNlOjpWQUxVRV9QUk9QRVJUWX0gPSBzZWxmOjpLRVlfUFJFRklYIC4gKCRpdGVtLT57SURhdGFTb3VyY2U6OlZBTFVFX1BST1BFUlRZfSkgLgoJCQkJc2VsZjo6S0VZX1NVRkZJWDsKCgkJCWlmICgkdGhpcy0+dXNlTG93ZXJDYXNlKSB7CgkJCQkkaXRlbS0+e0lEYXRhU291cmNlOjpMQUJFTF9QUk9QRVJUWX0gPSBTdHJpbmdzOjpsb3dlcigkaXRlbS0+e0lEYXRhU291cmNlOjpMQUJFTF9QUk9QRVJUWX0pOwoJCQl9CgoJCQlyZXR1cm4gJGl0ZW07CgkJfSwgJGl0ZW1zKTsKCgoJCSR0aGlzLT5nZXRQcmVzZW50ZXIoKS0+c2VuZEpzb24oJGl0ZW1zKTsKCX0=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gY2FsbGFibGUgJGNhbGxiYWNrCgkgKgoJICogQHJldHVybiBUeXBlYWhlYWRJbnB1dAoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0Q2FsbGJhY2soY2FsbGFibGUgJGNhbGxiYWNrKTogVHlwZWFoZWFkSW5wdXQKCXsKCQkkdGhpcy0+Y2FsbGJhY2sgPSAkY2FsbGJhY2s7CgoJCXJldHVybiAkdGhpczsKCX0=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">aWYgKCEkdGhpcy0+Y2FsbGJhY2spIHsKCQkJdGhyb3cgbmV3IEludmFsaWRTdGF0ZUV4Y2VwdGlvbignVW5kZWZpbmVkIFR5cGVhaGVhZCBjYWxsYmFjay4nKTsKCQl9</text>
+      </register>
+      <register name="6" type="4">
         <text>workers:
 		title: &quot;Středisko&quot;
 		placeholder: &quot;Zadejte číslo střediska&quot;</text>
       </register>
-      <register name="2" type="4">
+      <register name="7" type="4">
         <text>* @Assert\Type(
 	 *      type=&quot;integer&quot;
 	 * )</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>@Assert\Type(
 	 *      type=&quot;integer&quot;
 	 * )</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text encoding="base64">SHRtbDo6ZWwoJ3NwYW4nIC8qLCAhJGV4cGlyZWQgPwoJCQkJWydzdHlsZScgPT4gJ2NvbG9yOicgLiAoJGxhc3RBY2Nlc3MgPiAkbm93LT5tb2RpZnkoJy0gMSBkYXknKSA/ICdncmVlbicgOiAncmVkJyldIDogbnVsbCAqLykKCQkJCS0+c2V0SHRtbCg=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">JGxhc3RBY2Nlc3NDb250YWluZXItPnNldEh0bWwoSHRtbDo6ZWwoJ3N0cm9uZycpLT5zZXRIdG1sKEh0bWw6OmVsKCdzcGFuJywgISRleHBpcmVkID8KCQkJCVsnc3R5bGUnID0+ICdjb2xvcjonIC4gKCRsYXN0QWNjZXNzID4gJG5vdy0+bW9kaWZ5KCctIDEgZGF5JykgPyAnZ3JlZW4nIDogJ3JlZCcpXSA6IG51bGwpCgkJCQktPnNldEh0bWwoSHRtbDo6ZWwoJ3NwYW4nLCBbJ2NsYXNzJyA9PiAnZmEgZmEtdXNlciddKSAuICc8YnIgLz4nIC4KCQkJCQkkbGFzdEFjY2Vzcy0+Zm9ybWF0KCdkLm0uWScpKSkpOw==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">PSBIdG1sOjplbCgnc3BhbicsIFsKCQkJCQknY2xhc3MnID0+ICEkZXhwaXJlZCA/ICdhY2NvdW50cy1pbmZvJyA6ICdhY2NvdW50cy1pbmZvLWV4cGlyZWQnCgkJCQldKTs=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCQknc3R5bGUnID0+ICRleHBpcmVkID8gJ2NvbG9yOiByZWQnIDogbnVsbCwK</text>
-      </register>
-      <register name="8" type="4">
-        <text>.accounts-info a {
-}</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiBib2xkICFpbXBvcnRhbnQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>DrawCallback</last-search>
+      <last-search>self::QUERY_PLACEHOLDER</last-search>
       <last-offset />
-      <last-pattern>DrawCallback</last-pattern>
+      <last-pattern>self::QUERY_PLACEHOLDER</last-pattern>
       <last-replace>repositoryName</last-replace>
       <last-substitute>repository</last-substitute>
       <last-dir>1</last-dir>
@@ -6397,9 +6410,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dump</entry>
-        <entry>getter</entry>
-        <entry>amadeus</entry>
         <entry>hasNotes</entry>
         <entry>storageRe</entry>
         <entry>createStorage</entry>
@@ -6417,6 +6427,9 @@
         <entry>dropdown-menu</entry>
         <entry>console.log</entry>
         <entry>DrawCallback</entry>
+        <entry>place</entry>
+        <entry>placeholder</entry>
+        <entry>self::QUERY_PLACEHOLDER</entry>
       </history-search>
       <history-cmd>
         <entry>447</entry>
