@@ -3916,7 +3916,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510838719263">
+      <file name="/Dummy.txt" timestamp="1510839597985">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -6217,10 +6217,10 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" timestamp="1510837978508">
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" timestamp="1510839515408">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="24" />
+        <mark key="." line="38" column="24" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Apotheke/ApothekeAccountsRepository.php" timestamp="1509453649535">
         <mark key="[" line="33" column="0" />
@@ -6351,8 +6351,10 @@
       <jump line="280" column="33" filename="/home/www/vendor/hrncirr/forms-typeahead/src/Controls/TypeaheadInput.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXB1YmxpYyAkaWQ7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>{ifset $form['workers']}
+							{pair workers}
+						{/ifset}</text>
       </register>
       <register name="-" type="4">
         <text>{/snippet}</text>
@@ -6363,32 +6365,34 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CXB1YmxpYyAkaWQ7Cg==</text>
+      <register name="1" type="4">
+        <text>{ifset $form['workers']}
+							{pair workers}
+						{/ifset}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJey9zbmlwcGV0fQo=</text>
+        <text encoding="base64">CXB1YmxpYyAkaWQ7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CQkJCQkJey9zbmlwcGV0fQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CQkJCQkJe3NuaXBwZXQgbm90ZXNOYXZ9Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">LyoKCQkJCSR1c2VycyA9ICR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShVc2VyOjpjbGFzcyktPmZpbmRQYWlycyhbJ3dvcmtpbmdQb3NpdGlvbicgPT4gMV0sCgkJCQkJJ3BlcnNvbmFsTnVtYmVyJyk7CgkJCQkqLw==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCWR1bXAoJHVzZXJzKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCQkkb3V0ID0gCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQkJCWR1bXAoJHEpOwo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">JHdvcmtlcnMgPSBhcnJheV9jb21iaW5lKCR0aGlzLT5pbnZvaWNlLT53b3JrZXJzLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB7CgkJCXJldHVybiAkdXNlci0+aWQ7CgkJfSktPnRvQXJyYXkoKSwgJHRoaXMtPmludm9pY2UtPndvcmtlcnMtPm1hcChmdW5jdGlvbiAoJHVzZXIpIHsKCQkJcmV0dXJuICR1c2VyLT5wZXJzb25hbE51bWJlcjsKCQl9KS0+dG9BcnJheSgpKTs=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
