@@ -399,7 +399,7 @@
         <mark key="]" line="40" column="4" />
         <mark key="." line="40" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Forms/Controls/WorkersInput.php" timestamp="1511352963955">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Forms/Controls/WorkersInput.php" timestamp="1511431590900">
         <mark key="[" line="54" column="15" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
@@ -504,10 +504,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.php" timestamp="1511430577260">
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.php" timestamp="1511431806252">
+        <mark key="[" line="180" column="21" />
+        <mark key="]" line="165" column="55" />
+        <mark key="." line="165" column="55" />
+        <mark key="^" line="165" column="55" />
       </file>
       <file name="/home/www/html/dv/cms/src/Pages/Query/PagesQuery.php" timestamp="1491828474090">
         <mark key="[" line="11" column="46" />
@@ -2020,11 +2021,12 @@
         <mark key="]" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/forms-tags-input/src/Controls/TagsInput.php" timestamp="1511430364542">
-        <mark key="'" line="244" column="28" />
-        <mark key="[" line="255" column="24" />
-        <mark key="]" line="258" column="0" />
-        <mark key="." line="258" column="0" />
+      <file name="/home/www/lib/vendor/hrncirr/forms-tags-input/src/Controls/TagsInput.php" timestamp="1511432195331">
+        <mark key="'" line="248" column="28" />
+        <mark key="[" line="253" column="8" />
+        <mark key="]" line="257" column="32" />
+        <mark key="." line="257" column="32" />
+        <mark key="^" line="257" column="32" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/client-side/js/hrncirr.mediaelement.init.js" timestamp="1476357940960">
         <mark key="[" line="27" column="66" />
@@ -3878,7 +3880,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511359504831">
+      <file name="/Dummy.txt" timestamp="1511431569969">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -6352,54 +6354,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJZHVtcCgkaWQpOwo=</text>
+        <text encoding="base64">CQkJCWR1bXAoJHZhbHVlKTsK</text>
       </register>
       <register name="-" type="4">
         <text>, TagsInput $tagsInpu</text>
       </register>
       <register name="/" type="4">
-        <text>disabled</text>
+        <text>dump</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJZHVtcCgkaWQpOwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">CQkJCWR1bXAoJHZhbHVlKTsK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQlkdW1wKCRpdGVtcyk7Cg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJGtleSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvLyRpdGVtcyA9IENhbGxiYWNrOjppbnZva2UoJHRoaXMtPml0ZW1zQ2FsbGJhY2ssICR0aGlzLT52YWx1ZSwgJHRoaXMpOwo=</text>
+        <text encoding="base64">CQkJCSRpdGVtR3JvdXBzID0gJHRoaXMtPmVtLT5nZXRSZXBvc2l0b3J5KEl0ZW1Hcm91cDo6Y2xhc3MpLT5maW5kUGFpcnMoJ25hbWUnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJcmV0dXJuICRpdGVtczsK</text>
+        <text encoding="base64">CQkJCS0+d2hlcmUoJ3Uud29ya2luZ1Bvc2l0aW9uID0gOndvcmtpbmdQb3NpdGlvbicpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">JGl0ZW1zWyRpdGVtR3JvdXAtPmlkXSA9ICRpdGVtR3JvdXAtPm5hbWU7CgkJCQl9IGVsc2UgewoJCQkJCSRpdGVtc1tdID0gJHZhbHVlOwoJCQkJfQoJCQl9</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJZHVtcCgkaWQpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>$items = [];
-			
-			if (!TagsInput::isItemNew($value)) {</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCWR1bXAoJHZhbHVlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCSRpdGVtc1skbWF0Y2hlc1sxXV0gPSAkbWF0Y2hlc1sxXTsK</text>
+        <text encoding="base64">CQkJCWR1bXAoJGtleSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkvLyRpdGVtcyA9IENhbGxiYWNrOjppbnZva2UoJHRoaXMtPml0ZW1zQ2FsbGJhY2ssICR0aGlzLT52YWx1ZSwgJHRoaXMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>disabled</last-search>
+      <last-search>dump</last-search>
       <last-offset />
-      <last-pattern>disabled</last-pattern>
+      <last-pattern>dump</last-pattern>
       <last-replace>repositoryName</last-replace>
       <last-substitute>repository</last-substitute>
       <last-dir>1</last-dir>
@@ -6425,8 +6425,8 @@
         <entry>lower</entry>
         <entry>lowerCase</entry>
         <entry>setValue</entry>
-        <entry>dump</entry>
         <entry>disabled</entry>
+        <entry>dump</entry>
       </history-search>
       <history-cmd>
         <entry>447</entry>
