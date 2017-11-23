@@ -504,10 +504,10 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.php" timestamp="1511427546688">
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.php" timestamp="1511430577260">
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="0" />
+        <mark key="." line="153" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/src/Pages/Query/PagesQuery.php" timestamp="1491828474090">
         <mark key="[" line="11" column="46" />
@@ -2020,11 +2020,11 @@
         <mark key="]" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/forms-tags-input/src/Controls/TagsInput.php" timestamp="1511427007489">
-        <mark key="'" line="289" column="36" />
-        <mark key="[" line="81" column="8" />
-        <mark key="]" line="81" column="8" />
-        <mark key="." line="81" column="8" />
+      <file name="/home/www/lib/vendor/hrncirr/forms-tags-input/src/Controls/TagsInput.php" timestamp="1511430364542">
+        <mark key="'" line="244" column="28" />
+        <mark key="[" line="255" column="24" />
+        <mark key="]" line="258" column="0" />
+        <mark key="." line="258" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/client-side/js/hrncirr.mediaelement.init.js" timestamp="1476357940960">
         <mark key="[" line="27" column="66" />
@@ -6249,9 +6249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="27" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaListener.php" />
-      <jump line="18" column="28" filename="/home/www/html/dv/adera/www/js/photo.input.js" />
-      <jump line="862" column="38" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
       <jump line="959" column="76" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
       <jump line="964" column="34" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
       <jump line="965" column="35" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
@@ -6349,55 +6346,60 @@
       <jump line="134" column="29" filename="/home/www/lib/vendor/hrncirr/forms-tags-input/client-side/js/hrncirr.forms.tagsinput.js" />
       <jump line="46" column="8" filename="/home/www/lib/vendor/hrncirr/forms-tags-input/client-side/js/hrncirr.forms.tagsinput.js" />
       <jump line="292" column="36" filename="/home/www/lib/vendor/hrncirr/forms-tags-input/src/Controls/TagsInput.php" />
+      <jump line="245" column="70" filename="/home/www/lib/vendor/hrncirr/forms-tags-input/src/Controls/TagsInput.php" />
+      <jump line="291" column="66" filename="/home/www/lib/vendor/hrncirr/forms-tags-input/src/Controls/TagsInput.php" />
+      <jump line="244" column="28" filename="/home/www/lib/vendor/hrncirr/forms-tags-input/src/Controls/TagsInput.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJcmV0dXJuICRpdGVtczsK</text>
+        <text encoding="base64">CQkJZHVtcCgkaWQpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGl0ZW1Hcm91cC0+aWQ=</text>
+        <text>, TagsInput $tagsInpu</text>
       </register>
       <register name="/" type="4">
-        <text>dump</text>
+        <text>disabled</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJcmV0dXJuICRpdGVtczsK</text>
+        <text encoding="base64">CQkJZHVtcCgkaWQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJZHVtcCgkdmFsdWVzKTsK</text>
+        <text encoding="base64">CQkJCWR1bXAoJHZhbHVlKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">aWYgKCR2YWx1ZXMgPT09IG51bGwpIHsKCQkJCSRpdGVtcyA9IGFycmF5X2NvbWJpbmUoJHRoaXMtPml0ZW0tPmdyb3Vwcy0+bWFwKGZ1bmN0aW9uICgkaXRlbUdyb3VwKSB7CgkJCQkJcmV0dXJuICRpdGVtR3JvdXAtPmlkOwoJCQkJfSktPnRvQXJyYXkoKSwgJHRoaXMtPml0ZW0tPmdyb3Vwcy0+bWFwKGZ1bmN0aW9uICgkaXRlbUdyb3VwKSB7CgkJCQkJcmV0dXJuICRpdGVtR3JvdXAtPm5hbWU7CgkJCQl9KS0+dG9BcnJheSgpKTsKCQkJfSBlbHNlIHs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCWR1bXAoJGtleSk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">JGl0ZW1zID0gbnVsbDsKCQlpZiAoJGl0ZW1zQ2FsbGJhY2sgIT09IG51bGwpIHsKCQkJJGl0ZW1zID0gQ2FsbGJhY2s6Omludm9rZSgkdGhpcy0+aXRlbXNDYWxsYmFjayk7CgkJfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkvLyRpdGVtcyA9IENhbGxiYWNrOjppbnZva2UoJHRoaXMtPml0ZW1zQ2FsbGJhY2ssICR0aGlzLT52YWx1ZSwgJHRoaXMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZHVtcCgnYWFhYScpOwo=</text>
+        <text encoding="base64">CQkJcmV0dXJuICRpdGVtczsK</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">aWYgKCEkdXNlS2V5cykgewoJCQkkcmVzID0gW107CgkJCWZvcmVhY2ggKCRpdGVtcyBhcyAka2V5ID0+ICR2YWx1ZSkgewoJCQkJdW5zZXQoJGl0ZW1zWyRrZXldKTsKCQkJCWlmIChpc19hcnJheSgkdmFsdWUpKSB7CgkJCQkJZm9yZWFjaCAoJHZhbHVlIGFzICR2YWwpIHsKCQkJCQkJJHZhbCA9ICR0aGlzLT51c2VMb3dlckNhc2UgPyBTdHJpbmdzOjpsb3dlcigkdmFsKSA6ICR2YWw7CgkJCQkJCSRyZXNbJGtleV1bKHN0cmluZykgJHZhbF0gPSAkdmFsOwoJCQkJCX0KCQkJCX0gZWxzZSB7CgkJCQkJJHJlc1soc3RyaW5nKSAkdmFsdWVdID0gJHRoaXMtPnVzZUxvd2VyQ2FzZSA/IFN0cmluZ3M6Omxvd2VyKCR2YWx1ZSkgOiAkdmFsdWU7CgkJCQl9CgkJCX0KCQkJJGl0ZW1zID0gJHJlczsKCQl9</text>
+        <text encoding="base64">JGl0ZW1zWyRpdGVtR3JvdXAtPmlkXSA9ICRpdGVtR3JvdXAtPm5hbWU7CgkJCQl9IGVsc2UgewoJCQkJCSRpdGVtc1tdID0gJHZhbHVlOwoJCQkJfQoJCQl9</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzLT52YWx1ZSk7Cg==</text>
+      <register name="7" type="4">
+        <text>$items = [];
+			
+			if (!TagsInput::isItemNew($value)) {</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCSRpdGVtc1skbWF0Y2hlc1sxXV0gPSAkbWF0Y2hlc1sxXTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzLT52YWx1ZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dump</last-search>
+      <last-search>disabled</last-search>
       <last-offset />
-      <last-pattern>dump</last-pattern>
+      <last-pattern>disabled</last-pattern>
       <last-replace>repositoryName</last-replace>
       <last-substitute>repository</last-substitute>
       <last-dir>1</last-dir>
@@ -6405,7 +6407,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Repository</entry>
         <entry>repository</entry>
         <entry>countFiles</entry>
         <entry>btn</entry>
@@ -6425,6 +6426,7 @@
         <entry>lowerCase</entry>
         <entry>setValue</entry>
         <entry>dump</entry>
+        <entry>disabled</entry>
       </history-search>
       <history-cmd>
         <entry>447</entry>
