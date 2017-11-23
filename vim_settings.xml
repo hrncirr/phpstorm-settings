@@ -1297,7 +1297,6 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" timestamp="1511357335932" />
       <file name="/home/www/html/nnb/dms/app/Presenters/GroupsPresenter.php" timestamp="1490273967586">
         <mark key="[" line="17" column="4" />
         <mark key="]" line="17" column="4" />
@@ -2021,10 +2020,10 @@
         <mark key="]" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/forms-tags-input/src/Controls/TagsInput.php" timestamp="1511352045469">
-        <mark key="[" line="120" column="30" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
+      <file name="/home/www/lib/vendor/hrncirr/forms-tags-input/src/Controls/TagsInput.php" timestamp="1511424131863">
+        <mark key="[" line="259" column="0" />
+        <mark key="]" line="259" column="0" />
+        <mark key="." line="259" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/client-side/js/hrncirr.mediaelement.init.js" timestamp="1476357940960">
         <mark key="[" line="27" column="66" />
@@ -5090,6 +5089,7 @@
         <mark key="]" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
+      <file name="/home/www/lib/vendor/nette/forms/src/Forms/Controls/MultiChoiceControl.php" timestamp="1511423466626" />
       <file name="/home/www/html/dv/cms/src/Navigation/Presenters/DefaultPresenter.php" timestamp="1491989405673">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -6350,55 +6350,53 @@
       <jump line="46" column="8" filename="/home/www/lib/vendor/hrncirr/forms-tags-input/client-side/js/hrncirr.forms.tagsinput.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JGZvcm0gPSAkdGhpcy0+Z2V0Rm9ybSgpOw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlkdW1wKCR2YWx1ZXMpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGZvcm0gPSAkdGhpcy0+Z2V0Rm9ybSgpOw==</text>
+        <text>dump('aaaa');</text>
       </register>
       <register name="/" type="4">
-        <text>lowerCase</text>
+        <text>setValue</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQlkdW1wKCR2YWx1ZXMpOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCXJldHVybjsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">aWYgKGlzX3NjYWxhcigkdmFsdWVzKSB8fCAkdmFsdWVzID09PSBudWxsKSB7CgkJCSR2YWx1ZXMgPSAoYXJyYXkpICR2YWx1ZXM7CgkJfSBlbHNlaWYgKCFpc19hcnJheSgkdmFsdWVzKSkgewoJCQl0aHJvdyBuZXcgTmV0dGVcSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uKHNwcmludGYoIlZhbHVlIG11c3QgYmUgYXJyYXkgb3IgbnVsbCwgJXMgZ2l2ZW4gaW4gZmllbGQgJyVzJy4iLCBnZXR0eXBlKCR2YWx1ZXMpLCAkdGhpcy0+bmFtZSkpOwoJCX0KCQkkZmxpcCA9IFtdOwoJCWZvcmVhY2ggKCR2YWx1ZXMgYXMgJHZhbHVlKSB7CgkJCWlmICghaXNfc2NhbGFyKCR2YWx1ZSkgJiYgIW1ldGhvZF9leGlzdHMoJHZhbHVlLCAnX190b1N0cmluZycpKSB7CgkJCQl0aHJvdyBuZXcgTmV0dGVcSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uKHNwcmludGYoIlZhbHVlcyBtdXN0IGJlIHNjYWxhciwgJXMgZ2l2ZW4gaW4gZmllbGQgJyVzJy4iLCBnZXR0eXBlKCR2YWx1ZSksICR0aGlzLT5uYW1lKSk7CgkJCX0KCQkJJGZsaXBbKHN0cmluZykgJHZhbHVlXSA9IHRydWU7CgkJfQoJCSR2YWx1ZXMgPSBhcnJheV9rZXlzKCRmbGlwKTsKCQlpZiAoJHRoaXMtPmNoZWNrQWxsb3dlZFZhbHVlcyAmJiAoJGRpZmYgPSBhcnJheV9kaWZmKCR2YWx1ZXMsIGFycmF5X2tleXMoJHRoaXMtPml0ZW1zKSkpKSB7CgkJCSRzZXQgPSBOZXR0ZVxVdGlsc1xTdHJpbmdzOjp0cnVuY2F0ZShpbXBsb2RlKCcsICcsIGFycmF5X21hcChmdW5jdGlvbiAoJHMpIHsgcmV0dXJuIHZhcl9leHBvcnQoJHMsIHRydWUpOyB9LCBhcnJheV9rZXlzKCR0aGlzLT5pdGVtcykpKSwgNzAsICcuLi4nKTsKCQkJJHZhbHMgPSAoY291bnQoJGRpZmYpID4gMSA/ICdzJyA6ICcnKSAuICIgJyIgLiBpbXBsb2RlKCInLCAnIiwgJGRpZmYpIC4gIiciOwoJCQl0aHJvdyBuZXcgTmV0dGVcSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uKCJWYWx1ZSR2YWxzIGFyZSBvdXQgb2YgYWxsb3dlZCBzZXQgWyRzZXRdIGluIGZpZWxkICd7JHRoaXMtPm5hbWV9Jy4iKTsKCQl9</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">aWYgKGlzX3NjYWxhcigkdmFsdWVzKSB8fCAkdmFsdWVzID09PSBudWxsKSB7CgkJCSR2YWx1ZXMgPSAoYXJyYXkpICR2YWx1ZXM7CgkJfSBlbHNlaWYgKCFpc19hcnJheSgkdmFsdWVzKSkgewoJCQl0aHJvdyBuZXcgTmV0dGVcSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uKHNwcmludGYoIlZhbHVlIG11c3QgYmUgYXJyYXkgb3IgbnVsbCwgJXMgZ2l2ZW4gaW4gZmllbGQgJyVzJy4iLCBnZXR0eXBlKCR2YWx1ZXMpLCAkdGhpcy0+bmFtZSkpOwoJCX0KCQkkZmxpcCA9IFtdOwoJCWZvcmVhY2ggKCR2YWx1ZXMgYXMgJHZhbHVlKSB7CgkJCWlmICghaXNfc2NhbGFyKCR2YWx1ZSkgJiYgIW1ldGhvZF9leGlzdHMoJHZhbHVlLCAnX190b1N0cmluZycpKSB7CgkJCQl0aHJvdyBuZXcgTmV0dGVcSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uKHNwcmludGYoIlZhbHVlcyBtdXN0IGJlIHNjYWxhciwgJXMgZ2l2ZW4gaW4gZmllbGQgJyVzJy4iLCBnZXR0eXBlKCR2YWx1ZSksICR0aGlzLT5uYW1lKSk7CgkJCX0KCQkJJGZsaXBbKHN0cmluZykgJHZhbHVlXSA9IHRydWU7CgkJfQoJCSR2YWx1ZXMgPSBhcnJheV9rZXlzKCRmbGlwKTsKCQlpZiAoJHRoaXMtPmNoZWNrQWxsb3dlZFZhbHVlcyAmJiAoJGRpZmYgPSBhcnJheV9kaWZmKCR2YWx1ZXMsIGFycmF5X2tleXMoJHRoaXMtPml0ZW1zKSkpKSB7CgkJCSRzZXQgPSBOZXR0ZVxVdGlsc1xTdHJpbmdzOjp0cnVuY2F0ZShpbXBsb2RlKCcsICcsIGFycmF5X21hcChmdW5jdGlvbiAoJHMpIHsgcmV0dXJuIHZhcl9leHBvcnQoJHMsIHRydWUpOyB9LCBhcnJheV9rZXlzKCR0aGlzLT5pdGVtcykpKSwgNzAsICcuLi4nKTsKCQkJJHZhbHMgPSAoY291bnQoJGRpZmYpID4gMSA/ICdzJyA6ICcnKSAuICIgJyIgLiBpbXBsb2RlKCInLCAnIiwgJGRpZmYpIC4gIiciOwoJCQl0aHJvdyBuZXcgTmV0dGVcSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uKCJWYWx1ZSR2YWxzIGFyZSBvdXQgb2YgYWxsb3dlZCBzZXQgWyRzZXRdIGluIGZpZWxkICd7JHRoaXMtPm5hbWV9Jy4iKTsKCQl9CgoJCWR1bXAoJHZhbHVlcyk7</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCS0+c2V0QXR0cmlidXRlKCdwbGFjZWhvbGRlcicsICR0cmFuc2xhdG9yRG9tYWluIC4gJy5maXJzdE5hbWUucGxhY2Vob2xkZXInKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">JGZvcm0tPmFkZFRleHQoJ2ZpcnN0TmFtZScsICR0cmFuc2xhdG9yRG9tYWluIC4gJy5maXJzdE5hbWUudGl0bGUnKQoJCQkJLT5zZXRBdHRyaWJ1dGUoJ3BsYWNlaG9sZGVyJywgJHRyYW5zbGF0b3JEb21haW4gLiAnLmZpcnN0TmFtZS5wbGFjZWhvbGRlcicpOw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQlkdW1wKCR2YWx1ZXMpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>if (!$form) {
-				return;
-			}</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lRm9ybXNcSW52YWxpZFN0YXRlRXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">CQkJCXJldHVybjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXFV0aWxzXERhdGVUaW1lOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">aWYgKGlzc2V0KCRmb3JtWydzdHJlZXQnXSwgJGZvcm1bJ2NpdHknXSwgJGZvcm1bJ3ppcENvZGUnXSkpIHsKCQkJCSRmb3JtWydzdHJlZXQnXS0+c2V0VmFsdWUoJGRlZmF1bHRBZGRyZXNzID8gJGRlZmF1bHRBZGRyZXNzLT5zdHJlZXQgOiAnJyk7CgkJCQkkZm9ybVsnY2l0eSddLT5zZXRWYWx1ZSgkZGVmYXVsdEFkZHJlc3MgPyAkZGVmYXVsdEFkZHJlc3MtPmNpdHkgOiAnJyk7CgkJCQkkZm9ybVsnemlwQ29kZSddLT5zZXRWYWx1ZSgkZGVmYXVsdEFkZHJlc3MgPyAkZGVmYXVsdEFkZHJlc3MtPnppcENvZGUgOiAnJyk7CgkJCX0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCS0+c2V0QXR0cmlidXRlKCdwbGFjZWhvbGRlcicsICR0cmFuc2xhdG9yRG9tYWluIC4gJy5maXJzdE5hbWUucGxhY2Vob2xkZXInKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>lowerCase</last-search>
+      <last-search>setValue</last-search>
       <last-offset />
-      <last-pattern>lowerCase</last-pattern>
+      <last-pattern>setValue</last-pattern>
       <last-replace>repositoryName</last-replace>
       <last-substitute>repository</last-substitute>
       <last-dir>1</last-dir>
@@ -6406,7 +6404,6 @@
     </search>
     <history>
       <history-search>
-        <entry>createStorage</entry>
         <entry>PilsCom</entry>
         <entry>Repository</entry>
         <entry>repository</entry>
@@ -6426,6 +6423,7 @@
         <entry>console.log</entry>
         <entry>lower</entry>
         <entry>lowerCase</entry>
+        <entry>setValue</entry>
       </history-search>
       <history-cmd>
         <entry>447</entry>
