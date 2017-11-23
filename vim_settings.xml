@@ -399,10 +399,10 @@
         <mark key="]" line="40" column="4" />
         <mark key="." line="40" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Forms/Controls/WorkersInput.php" timestamp="1511431590900">
-        <mark key="[" line="54" column="15" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Forms/Controls/WorkersInput.php" timestamp="1511448128531">
+        <mark key="[" line="34" column="16" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/app/extensions/CompilerExtension.php" timestamp="1491462703147">
         <mark key="[" line="9" column="31" />
@@ -504,11 +504,10 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.php" timestamp="1511434510565">
-        <mark key="[" line="196" column="12" />
-        <mark key="]" line="175" column="23" />
-        <mark key="." line="175" column="23" />
-        <mark key="^" line="175" column="23" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.php" timestamp="1511448324533">
+        <mark key="[" line="193" column="4" />
+        <mark key="]" line="193" column="8" />
+        <mark key="." line="193" column="8" />
       </file>
       <file name="/home/www/html/dv/cms/src/Pages/Query/PagesQuery.php" timestamp="1491828474090">
         <mark key="[" line="11" column="46" />
@@ -2021,12 +2020,12 @@
         <mark key="]" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/forms-tags-input/src/Controls/TagsInput.php" timestamp="1511437842942">
-        <mark key="'" line="282" column="25" />
-        <mark key="[" line="265" column="14" />
-        <mark key="]" line="253" column="43" />
-        <mark key="." line="253" column="43" />
-        <mark key="^" line="253" column="43" />
+      <file name="/home/www/lib/vendor/hrncirr/forms-tags-input/src/Controls/TagsInput.php" timestamp="1511448359991">
+        <mark key="'" line="253" column="64" />
+        <mark key="[" line="219" column="4" />
+        <mark key="]" line="221" column="6" />
+        <mark key="." line="221" column="6" />
+        <mark key="^" line="221" column="6" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/client-side/js/hrncirr.mediaelement.init.js" timestamp="1476357940960">
         <mark key="[" line="27" column="66" />
@@ -2849,6 +2848,9 @@
         <mark key="]" line="34" column="4" />
         <mark key="." line="34" column="4" />
       </file>
+      <file name="/home/www/lib/vendor/hrncirr/forms-tags-input/src/Exceptions/InvalidArgumentException.php" timestamp="1511440363953">
+        <mark key="[" line="11" column="18" />
+      </file>
       <file name="/home/www/vendor/hrncirr/history/src/DI/HistoryExtension.php" timestamp="1476432300808">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -2988,6 +2990,9 @@
         <mark key="[" line="96" column="71" />
         <mark key="]" line="57" column="32" />
         <mark key="." line="57" column="32" />
+      </file>
+      <file name="/home/www/lib/vendor/nette/forms/src/Forms/Controls/BaseControl.php" timestamp="1511447216270">
+        <mark key="'" line="61" column="20" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/tabs/src/Components/TabControl/ITabControlFactory.php" timestamp="1498043598699">
         <mark key="[" line="26" column="64" />
@@ -3880,7 +3885,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511431569969">
+      <file name="/Dummy.txt" timestamp="1511448393263">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -5092,7 +5097,9 @@
         <mark key="]" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="/home/www/lib/vendor/nette/forms/src/Forms/Controls/MultiChoiceControl.php" timestamp="1511425784446" />
+      <file name="/home/www/lib/vendor/nette/forms/src/Forms/Controls/MultiChoiceControl.php" timestamp="1511440508791">
+        <mark key="'" line="18" column="15" />
+      </file>
       <file name="/home/www/html/dv/cms/src/Navigation/Presenters/DefaultPresenter.php" timestamp="1491989405673">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -6251,35 +6258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1101" column="47" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
-      <jump line="1111" column="31" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
-      <jump line="1126" column="15" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
-      <jump line="1164" column="39" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
-      <jump line="1189" column="54" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
-      <jump line="1209" column="29" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
-      <jump line="1219" column="52" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
-      <jump line="1232" column="30" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
-      <jump line="1250" column="46" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
-      <jump line="1273" column="51" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
-      <jump line="1350" column="24" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
-      <jump line="1353" column="57" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
-      <jump line="1363" column="27" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
-      <jump line="239" column="14" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
-      <jump line="947" column="27" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
-      <jump line="950" column="26" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
-      <jump line="953" column="27" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
-      <jump line="954" column="28" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
-      <jump line="973" column="27" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
-      <jump line="976" column="32" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
-      <jump line="992" column="77" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
-      <jump line="999" column="27" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
-      <jump line="1002" column="31" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
-      <jump line="1018" column="75" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
-      <jump line="1084" column="27" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
-      <jump line="1087" column="53" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
-      <jump line="1211" column="0" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
-      <jump line="714" column="38" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
-      <jump line="910" column="0" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
       <jump line="930" column="38" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
       <jump line="931" column="39" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
       <jump line="1228" column="80" filename="/home/www/html/nnb/passportization/js/dataTables.fixedColumns.js" />
@@ -6351,70 +6329,93 @@
       <jump line="260" column="40" filename="/home/www/lib/vendor/hrncirr/forms-tags-input/src/Controls/TagsInput.php" />
       <jump line="283" column="40" filename="/home/www/lib/vendor/hrncirr/forms-tags-input/src/Controls/TagsInput.php" />
       <jump line="287" column="25" filename="/home/www/lib/vendor/hrncirr/forms-tags-input/src/Controls/TagsInput.php" />
+      <jump line="33" column="4" filename="/home/www/lib/vendor/nette/forms/src/Forms/Controls/MultiChoiceControl.php" />
+      <jump line="21" column="23" filename="/home/www/lib/vendor/nette/forms/src/Forms/Controls/MultiChoiceControl.php" />
+      <jump line="162" column="20" filename="/home/www/lib/vendor/nette/forms/src/Forms/Controls/MultiChoiceControl.php" />
+      <jump line="7" column="0" filename="/home/www/lib/vendor/nette/forms/src/Forms/Controls/MultiChoiceControl.php" />
+      <jump line="60" column="142" filename="/home/www/lib/vendor/nette/forms/src/Forms/Controls/MultiChoiceControl.php" />
+      <jump line="65" column="139" filename="/home/www/lib/vendor/nette/forms/src/Forms/Controls/MultiChoiceControl.php" />
+      <jump line="73" column="113" filename="/home/www/lib/vendor/nette/forms/src/Forms/Controls/MultiChoiceControl.php" />
+      <jump line="55" column="20" filename="/home/www/lib/vendor/nette/forms/src/Forms/Controls/BaseControl.php" />
+      <jump line="81" column="61" filename="/home/www/lib/vendor/nette/forms/src/Forms/Controls/BaseControl.php" />
+      <jump line="137" column="20" filename="/home/www/lib/vendor/nette/forms/src/Forms/Controls/BaseControl.php" />
+      <jump line="256" column="13" filename="/home/www/lib/vendor/nette/forms/src/Forms/Controls/BaseControl.php" />
+      <jump line="348" column="38" filename="/home/www/lib/vendor/nette/forms/src/Forms/Controls/BaseControl.php" />
+      <jump line="350" column="36" filename="/home/www/lib/vendor/nette/forms/src/Forms/Controls/BaseControl.php" />
+      <jump line="360" column="34" filename="/home/www/lib/vendor/nette/forms/src/Forms/Controls/BaseControl.php" />
+      <jump line="362" column="25" filename="/home/www/lib/vendor/nette/forms/src/Forms/Controls/BaseControl.php" />
+      <jump line="601" column="28" filename="/home/www/lib/vendor/nette/forms/src/Forms/Controls/BaseControl.php" />
+      <jump line="603" column="87" filename="/home/www/lib/vendor/nette/forms/src/Forms/Controls/BaseControl.php" />
+      <jump line="606" column="31" filename="/home/www/lib/vendor/nette/forms/src/Forms/Controls/BaseControl.php" />
+      <jump line="610" column="44" filename="/home/www/lib/vendor/nette/forms/src/Forms/Controls/BaseControl.php" />
+      <jump line="612" column="20" filename="/home/www/lib/vendor/nette/forms/src/Forms/Controls/BaseControl.php" />
+      <jump line="613" column="43" filename="/home/www/lib/vendor/nette/forms/src/Forms/Controls/BaseControl.php" />
+      <jump line="615" column="73" filename="/home/www/lib/vendor/nette/forms/src/Forms/Controls/BaseControl.php" />
+      <jump line="7" column="0" filename="/home/www/lib/vendor/nette/forms/src/Forms/Controls/BaseControl.php" />
+      <jump line="18" column="15" filename="/home/www/lib/vendor/nette/forms/src/Forms/Controls/MultiChoiceControl.php" />
+      <jump line="265" column="33" filename="/home/www/lib/vendor/hrncirr/forms-tags-input/src/Controls/TagsInput.php" />
+      <jump line="210" column="44" filename="/home/www/lib/vendor/hrncirr/forms-tags-input/src/Controls/TagsInput.php" />
+      <jump line="61" column="20" filename="/home/www/lib/vendor/nette/forms/src/Forms/Controls/BaseControl.php" />
+      <jump line="221" column="6" filename="/home/www/lib/vendor/hrncirr/forms-tags-input/src/Controls/TagsInput.php" />
+      <jump line="253" column="64" filename="/home/www/lib/vendor/hrncirr/forms-tags-input/src/Controls/TagsInput.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlkdW1wKCRvbGRJdGVtcyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JGZvcm0tPm9uRXJyb3JbXSA9IGZ1bmN0aW9uICgkZm9ybSkgewoJCQkvL2R1bXAoJGZvcm0tPmdldFZhbHVlcygpKTsKCQl9Ow==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JG9sZEl0ZW1zWyR2YWx1ZV0gJj0g</text>
+        <text>array $ids = null</text>
       </register>
       <register name="/" type="4">
-        <text>KEY_PREFIX</text>
+        <text>Form</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlkdW1wKCRvbGRJdGVtcyk7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">JGZvcm0tPm9uRXJyb3JbXSA9IGZ1bmN0aW9uICgkZm9ybSkgewoJCQkvL2R1bXAoJGZvcm0tPmdldFZhbHVlcygpKTsKCQl9Ow==</text>
       </register>
-      <register name="2" type="4">
-        <text>else {
-				$items[$value] = $value;
-			}</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJfQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCSRrZXlzW10gPSAkdmFsdWU7Cg==</text>
+      <register name="3" type="4">
+        <text>if ($ids === null) {
+				
+			} else {</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkka2V5cyA9IFtdOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">JG91dCA9IGFycmF5X2NvbWJpbmUoJGVudGl0eS0+Z2V0V29ya2VycygpLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB7CgkJCQkJcmV0dXJuICR1c2VyLT5pZDsKCQkJCX0pLT50b0FycmF5KCksICRlbnRpdHktPmdldFdvcmtlcnMoKS0+bWFwKGZ1bmN0aW9uICgkdXNlcikgewoJCQkJCXJldHVybiAkdGhpcy0+Zm9ybWF0VXNlcigkdXNlcik7CgkJCQl9KS0+dG9BcnJheSgpKTs=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">aWYgKCEkdXNlS2V5cykgewoJCQkkcmVzID0gW107CgkJCWZvcmVhY2ggKCRpdGVtcyBhcyAka2V5ID0+ICR2YWx1ZSkgewoJCQkJdW5zZXQoJGl0ZW1zWyRrZXldKTsKCQkJCWlmIChpc19hcnJheSgkdmFsdWUpKSB7CgkJCQkJZm9yZWFjaCAoJHZhbHVlIGFzICR2YWwpIHsKCQkJCQkJJHZhbCA9ICR0aGlzLT51c2VMb3dlckNhc2UgPyBTdHJpbmdzOjpsb3dlcigkdmFsKSA6ICR2YWw7CgkJCQkJCSRyZXNbJGtleV1bKHN0cmluZykgJHZhbF0gPSAkdmFsOwoJCQkJCX0KCQkJCX0gZWxzZSB7CgkJCQkJJHJlc1soc3RyaW5nKSAkdmFsdWVdID0gJHRoaXMtPnVzZUxvd2VyQ2FzZSA/IFN0cmluZ3M6Omxvd2VyKCR2YWx1ZSkgOiAkdmFsdWU7CgkJCQl9CgkJCX0KCQkJJGl0ZW1zID0gJHJlczsKCQl9IGVsc2U=</text>
+        <text encoding="base64">LT5zZXREZWZhdWx0SXRlbXMoZnVuY3Rpb24gKCkgewoJCQkJcmV0dXJuIGFycmF5X2NvbWJpbmUoJHRoaXMtPml0ZW0tPmdyb3Vwcy0+bWFwKGZ1bmN0aW9uICgkaXRlbUdyb3VwKSB7CgkJCQkJcmV0dXJuICRpdGVtR3JvdXAtPmlkOwoJCQkJfSktPnRvQXJyYXkoKSwgJHRoaXMtPml0ZW0tPmdyb3Vwcy0+bWFwKGZ1bmN0aW9uICgkaXRlbUdyb3VwKSB7CgkJCQkJcmV0dXJuICRpdGVtR3JvdXAtPm5hbWU7CgkJCQl9KS0+dG9BcnJheSgpKTsKCgkJCX0p</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCWR1bXAoQ2FsbGJhY2s6Omludm9rZSgkdGhpcy0+aXRlbXNDYWxsYmFjaywgJG1hdGNoZXNbMV0sICR0aGlzKSk7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHNldERlZmF1bHRJdGVtcyhjYWxsYWJsZSAkY2FsbGJhY2spCgl7CgkJJGZvcm0gPSAkdGhpcy0+Z2V0Rm9ybShmYWxzZSk7CgkJaWYgKCR0aGlzLT5pc0Rpc2FibGVkKCkgfHwgISRmb3JtIHx8ICEkZm9ybS0+aXNBbmNob3JlZCgpIHx8ICEkZm9ybS0+aXNTdWJtaXR0ZWQoKSkgewoJCQkkaXRlbXMgPSBDYWxsYmFjazo6aW52b2tlKCRjYWxsYmFjaywgbnVsbCwgJHRoaXMpOwoKCQkJaWYgKCRpdGVtcyAhPT0gbnVsbCAmJiAhaXNfYXJyYXkoJGl0ZW1zKSkgewoJCQkJdGhyb3cgbmV3IEludmFsaWRTdGF0ZUV4Y2VwdGlvbihzcHJpbnRmKCdJdGVtcyBtdXN0IGJlIG51bGwgb3IgYXJyYXksICVzIGdpdmVuLicsIGdldHR5cGUoJGl0ZW1zKSkpOwoJCQl9CgoJCQlpZiAoJGl0ZW1zICE9PSBudWxsKSB7CgkJCQkkdGhpcy0+c2V0SXRlbXMoJGl0ZW1zKTsKCQkJfQoKCQkJZHVtcCgnYWFhYWFhYScpOwoJCX0KCgkJcmV0dXJuICR0aGlzOwoJfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIE5ldHRlXEFwcGxpY2F0aW9uXFVJXFByZXNlbnRlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlyZXR1cm4gJHRoaXMtPnZhbHVlOwo=</text>
+        <text encoding="base64">CQlkdW1wKCdzc3MnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCXJldHVybiAkaXRlbUdyb3VwczsK</text>
       </register>
       <register name=":" type="4">
-        <text>154</text>
+        <text>%s/itemsTextCallback/itemsCallback/g</text>
       </register>
     </registers>
     <search>
-      <last-search>KEY_PREFIX</last-search>
+      <last-search>Form</last-search>
       <last-offset />
-      <last-pattern>KEY_PREFIX</last-pattern>
-      <last-replace>repositoryName</last-replace>
-      <last-substitute>repository</last-substitute>
+      <last-pattern>Form</last-pattern>
+      <last-replace>itemsCallback</last-replace>
+      <last-substitute>itemsTextCallback</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>btn</entry>
-        <entry>jasny</entry>
-        <entry>bAll</entry>
-        <entry>LeftFooterWrapper</entry>
-        <entry>LeftFootWrapper</entry>
-        <entry>clone</entry>
         <entry>th</entry>
         <entry>dropdown-menu</entry>
         <entry>DrawCallback</entry>
@@ -6424,15 +6425,19 @@
         <entry>console.log</entry>
         <entry>lower</entry>
         <entry>lowerCase</entry>
-        <entry>setValue</entry>
         <entry>disabled</entry>
         <entry>dump</entry>
         <entry>__</entry>
         <entry>KEY_PREFIX</entry>
+        <entry>setValue</entry>
+        <entry>name</entry>
+        <entry>checkA</entry>
+        <entry>itemTextCallback</entry>
+        <entry>itemsTextCallback</entry>
+        <entry>setDe</entry>
+        <entry>Form</entry>
       </history-search>
       <history-cmd>
-        <entry>419</entry>
-        <entry>%s/translatorDomainPrefix/translatorDomain/g</entry>
         <entry>%s/options/admin/g</entry>
         <entry>134</entry>
         <entry>356</entry>
@@ -6451,6 +6456,8 @@
         <entry>%s/repository/repositoryName/g</entry>
         <entry>w</entry>
         <entry>154</entry>
+        <entry>%s/itemTextCallback/itemsTextCallback/g</entry>
+        <entry>%s/itemsTextCallback/itemsCallback/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
