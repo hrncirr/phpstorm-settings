@@ -3895,7 +3895,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511454131619">
+      <file name="/Dummy.txt" timestamp="1511529697953">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -4804,10 +4804,10 @@
         <mark key="]" line="18" column="4" />
         <mark key="." line="18" column="4" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsForm/AccessRightsForm.php" timestamp="1511525473537">
-        <mark key="[" line="265" column="33" />
-        <mark key="]" line="270" column="0" />
-        <mark key="." line="270" column="0" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsForm/AccessRightsForm.php" timestamp="1511529463874">
+        <mark key="[" line="289" column="20" />
+        <mark key="]" line="287" column="16" />
+        <mark key="." line="287" column="16" />
       </file>
       <file name="/home/www/vendor/hrncirr/forms/src/DI/NextrasDateTimeExtension.php" timestamp="1501139160598">
         <mark key="[" line="31" column="75" />
@@ -4942,6 +4942,7 @@
         <mark key="]" line="31" column="4" />
         <mark key="." line="31" column="4" />
       </file>
+      <file name="/home/www/lib/vendor/nette/utils/src/Utils/Json.php" timestamp="1511529277060" />
       <file name="/home/www/lib/vendor/hrncirr/nette-menu/composer.json" timestamp="1491568703006">
         <mark key="[" line="31" column="13" />
         <mark key="]" line="26" column="0" />
@@ -5316,10 +5317,10 @@
         <mark key="]" line="38" column="16" />
         <mark key="." line="38" column="16" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsForm/templates/accounts/orders.latte" timestamp="1511525720615">
-        <mark key="[" line="75" column="12" />
-        <mark key="]" line="75" column="12" />
-        <mark key="." line="75" column="12" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsForm/templates/accounts/orders.latte" timestamp="1511529660383">
+        <mark key="[" line="75" column="53" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/ContactFormPart/TContactFormPart.php" timestamp="1511358192586">
         <mark key="[" line="29" column="67" />
@@ -5747,10 +5748,10 @@
         <mark key="]" line="63" column="4" />
         <mark key="." line="63" column="4" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsForm/templates/AccessRightsForm.latte" timestamp="1511525328034">
-        <mark key="[" line="40" column="29" />
-        <mark key="]" line="40" column="29" />
-        <mark key="." line="40" column="29" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsForm/templates/AccessRightsForm.latte" timestamp="1511529054590">
+        <mark key="[" line="32" column="8" />
+        <mark key="]" line="32" column="8" />
+        <mark key="." line="32" column="8" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Steiner/EyeRoomAccounts/OrpheusAccountsRepository.php" timestamp="1509457221799">
         <mark key="[" line="11" column="61" />
@@ -6372,10 +6373,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PHRhYmxlIGNsYXNzPSJ0YWJsZSB0YWJsZS1ib3JkZXJlZCB0YWJsZS1jb25kZW5zZWQiPgoJCQkJPHRib2R5PgoJCQkJCTx0ZD48L3RkPgoJCQkJPC90Ym9keT4KCQkJPC90YWJsZT4=</text>
+        <text>'costCenters'</text>
       </register>
       <register name="-" type="4">
-        <text>n:snippet=&quot;tab-$name&quot;</text>
+        <text>'costCenters'</text>
       </register>
       <register name="/" type="4">
         <text>setValues</text>
@@ -6383,34 +6384,32 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PHRhYmxlIGNsYXNzPSJ0YWJsZSB0YWJsZS1ib3JkZXJlZCB0YWJsZS1jb25kZW5zZWQiPgoJCQkJPHRib2R5PgoJCQkJCTx0ZD48L3RkPgoJCQkJPC90Ym9keT4KCQkJPC90YWJsZT4=</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCQk8dGQ+eyRyaWdodHNbJ2Nvc3RDZW50ZXJzJ119PC90ZD4K</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PGxpIGNsYXNzPSJsaXN0LWdyb3VwLWl0ZW0iPkRhcGlidXMgYWMgZmFjaWxpc2lzIGluPC9saT4KICA8bGkgY2xhc3M9Imxpc3QtZ3JvdXAtaXRlbSI+TW9yYmkgbGVvIHJpc3VzPC9saT4KICA8bGkgY2xhc3M9Imxpc3QtZ3JvdXAtaXRlbSI+UG9ydGEgYWMgY29uc2VjdGV0dXIgYWM8L2xpPgogIDxsaSBjbGFzcz0ibGlzdC1ncm91cC1pdGVtIj5WZXN0aWJ1bHVtIGF0IGVyb3M8L2xpPg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCQl7Zm9yZWFjaCAkcmlnaHRzIGFzICRyaWdodH0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CXsvaWZzZXR9Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">PHVsIGNsYXNzPSJsaXN0LWdyb3VwIiBuOmlubmVyLWZvcmVhY2g9Ik5ldHRlXFV0aWxzXEpzb246OmRlY29kZSgkZm9ybUNvbnRhaW5lclsnZGF0YSddLT5nZXRWYWx1ZSgpKSBhcyAkcmlnaHQiPgoJCQkJPGxpIGNsYXNzPSJsaXN0LWdyb3VwLWl0ZW0iPnskcmlnaHR9PC9saT4KCQkJPC91bD4=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CUJMQUJMQQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">PHRhYmxlIGNsYXNzPSJ0YWJsZSB0YWJsZS1ib3JkZXJlZCI+CgkJCTx0Ym9keT4KCQkJPHRyPgoJCQkJPHRkPiA8L3RkPgoJCQk8L3RyPgoJCQk8L3Rib2R5PgoJCTwvdGFibGU+</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJe2lmc2V0ICRhYWF9Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">JGNvZGVzID0gJG9yZGVyc1snY29zdENlbnRlcnMnXS0+Z2V0VmFsdWUoKTsKCQkJZm9yZWFjaCAoJHRoaXMtPmFjY291bnRzWydvcmRlcnMnXVsndHlwZXMnXSBhcyAkaWQgPT4gJHR5cGVzKSB7CgkJCQkkY29kZXMgPSBhcnJheV9tZXJnZSgkY29kZXMsICRvcmRlcnNbJ3R5cGVzJyAuICRpZF0tPmdldFZhbHVlKCkpOwoJCQl9CgoJCQkkZGF0YSA9IEpzb246OmRlY29kZSgkb3JkZXJzWydkYXRhJ10tPmdldFZhbHVlKCkpOwoJCQkkb3JkZXJzLT5zZXRWYWx1ZXMoW10sIHRydWUpOwoKCQkJaWYgKCRjb2RlcykgewoJCQkJJGRhdGFbXSA9IGltcGxvZGUoJywgJywgJGNvZGVzKTsKCQkJCSRvcmRlcnNbJ2RhdGEnXS0+c2V0VmFsdWUoSnNvbjo6ZW5jb2RlKCRkYXRhKSk7CgkJCX0=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPnRlbXBsYXRlLT5hYWEgPSAnYWFhJzsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">JHRoaXMtPnNob3dBY2NvdW50c1snb3JkZXJzJ10gPSAkdGhpcy0+YWNjb3VudHNbJ29yZGVycyddOwoJCQkkdGhpcy0+cmVkcmF3Q29udHJvbCgndGFicycpOw==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Kn0K</text>
+      <register name="7" type="4">
+        <text encoding="base64">JHRoaXMtPnNob3dBY2NvdW50c1snb3JkZXJzJ10gPSAkdGhpcy0+YWNjb3VudHNbJ29yZGVycyddOwoJCQkkdGhpcy0+cmVkcmF3Q29udHJvbCgndGFicycpOw==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">eyoK</text>
+        <text encoding="base64">dXNlIFRyYWN5XERlYnVnZ2VyOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>{ifset $aaa}
-	BLABLA
-	{/ifset}</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCSRkYXRhID0gSnNvbjo6ZGVjb2RlKCRvcmRlcnNbJ2RhdGEnXS0+Z2V0VmFsdWUoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/itemsTextCallback/itemsCallback/g</text>
