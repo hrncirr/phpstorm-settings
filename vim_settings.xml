@@ -1998,6 +1998,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="/home/www/lib/vendor/nette/forms/src/Forms/Form.php" timestamp="1511881098105" />
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/DomainLastLogons/DomainLastLogonsMapper.php" timestamp="1503395789416">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="14" column="0" />
@@ -2028,12 +2029,11 @@
         <mark key="]" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsForm/Containers/OrdersContainer/OrdersContainer.php" timestamp="1511880068491">
-        <mark key="'" line="180" column="21" />
-        <mark key="[" line="126" column="48" />
-        <mark key="]" line="159" column="4" />
-        <mark key="." line="159" column="4" />
-        <mark key="^" line="165" column="36" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsForm/Containers/OrdersContainer/OrdersContainer.php" timestamp="1511882325051">
+        <mark key="'" line="182" column="21" />
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="0" />
+        <mark key="." line="153" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/client-side/js/hrncirr.mediaelement.init.js" timestamp="1476357940960">
         <mark key="[" line="27" column="66" />
@@ -2914,8 +2914,8 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/nette/forms/src/Forms/Container.php" timestamp="1511870815839">
-        <mark key="'" line="63" column="44" />
+      <file name="/home/www/lib/vendor/nette/forms/src/Forms/Container.php" timestamp="1511881019687">
+        <mark key="'" line="43" column="56" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Base/Components/HistoryControl/HistoryControl.php" timestamp="1505308553802">
         <mark key="[" line="89" column="45" />
@@ -3881,9 +3881,9 @@
         <mark key="]" line="29" column="4" />
         <mark key="." line="29" column="4" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsForm/Containers/OrdersContainer/OrdersContainer.latte" timestamp="1511880026497">
-        <mark key="'" line="10" column="37" />
-        <mark key="[" line="89" column="89" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsForm/Containers/OrdersContainer/OrdersContainer.latte" timestamp="1511881609096">
+        <mark key="'" line="89" column="67" />
+        <mark key="[" line="89" column="85" />
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
       </file>
@@ -6269,13 +6269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="16" filename="/home/www/html/nnb/passportization/css/datagrid.css" />
-      <jump line="120" column="5" filename="/home/www/html/nnb/passportization/css/datagrid.css" />
-      <jump line="123" column="16" filename="/home/www/html/nnb/passportization/css/datagrid.css" />
-      <jump line="495" column="17" filename="/home/www/html/nnb/passportization/css/datagrid.css" />
-      <jump line="44" column="57" filename="/home/www/html/nnb/passportization/js/datatables.init.js" />
-      <jump line="47" column="26" filename="/home/www/html/nnb/passportization/js/datatables.init.js" />
-      <jump line="49" column="26" filename="/home/www/html/nnb/passportization/js/datatables.init.js" />
       <jump line="54" column="30" filename="/home/www/html/nnb/passportization/js/datatables.init.js" />
       <jump line="57" column="28" filename="/home/www/html/nnb/passportization/js/datatables.init.js" />
       <jump line="62" column="26" filename="/home/www/html/nnb/passportization/js/datatables.init.js" />
@@ -6369,55 +6362,62 @@
       <jump line="9" column="37" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsForm/Containers/OrdersContainer/OrdersContainer.latte" />
       <jump line="159" column="36" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsForm/Containers/OrdersContainer/OrdersContainer.php" />
       <jump line="174" column="21" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsForm/Containers/OrdersContainer/OrdersContainer.php" />
+      <jump line="375" column="31" filename="/home/www/lib/vendor/nette/forms/src/Forms/Container.php" />
+      <jump line="415" column="24" filename="/home/www/lib/vendor/nette/forms/src/Forms/Container.php" />
+      <jump line="417" column="23" filename="/home/www/lib/vendor/nette/forms/src/Forms/Container.php" />
+      <jump line="419" column="43" filename="/home/www/lib/vendor/nette/forms/src/Forms/Container.php" />
+      <jump line="43" column="56" filename="/home/www/lib/vendor/nette/forms/src/Forms/Container.php" />
+      <jump line="95" column="35" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsForm/Containers/OrdersContainer/OrdersContainer.latte" />
+      <jump line="89" column="67" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsForm/Containers/OrdersContainer/OrdersContainer.latte" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJCQk8L2E+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PGkgY2xhc3M9ImZhIGZhLXRpbWVzIiBhcmlhLWhpZGRlbj0idHJ1ZSI+PC9pPg==</text>
+        <text>Form::DATA_TEXT, 'remove[]'</text>
       </register>
       <register name="/" type="4">
-        <text>parseRights</text>
+        <text>remove</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCQk8L2E+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCQk8YSBjbGFzcz0iYnRuIGJ0bi14cyBidG4tZGFuZ2VyIGFqYXgiIG46aHJlZj0icmVtb3ZlISAkaWQiIHJvbGU9ImJ1dHRvbiI+Cg==</text>
+        <text encoding="base64">CQkJZHVtcCgkZGF0YSk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldEZvcm1Db250YWluZXIoKQoJewoJCXJldHVybiAkdGhpcy0+cGFyZW50Wydmb3JtLW9yZGVycyddOwoJfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJZHVtcCgkZGF0YSk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCXsvaWZzZXR9Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGhhbmRsZVJlbW92ZShpbnQgJGlkKQoJewoJCSRmb3JtRGF0YSA9ICR0aGlzLT5nZXRGb3JtQ29udGFpbmVyKClbJ2RhdGEnXTsKCQkkZGF0YSA9IEpzb246OmRlY29kZSgkZm9ybURhdGEtPmdldFZhbHVlKCksIEpzb246OkZPUkNFX0FSUkFZKTsKCQl1bnNldCgkZGF0YVskaWRdKTsKCgkJZHVtcCgkZGF0YSk7CgoJCSRmb3JtRGF0YS0+c2V0VmFsdWUoSnNvbjo6ZW5jb2RlKCRkYXRhKSk7CgoJCSR0aGlzLT5yZWRyYXdDb250cm9sKCdkYXRhJyk7Cgl9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQl7aW5wdXQgZGF0YX0K</text>
+        <text encoding="base64">CQkJZHVtcChjdXJyZW50KCRyZW1vdmUpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCXtlbHNlfQo=</text>
+        <text encoding="base64">CQkJLy9kdW1wKCRjb250YWluZXItPmdldEZvcm0oKS0+aXNTdWJtaXR0ZWQoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQl7aW5wdXQgb3JkZXJzLWRhdGF9Cg==</text>
+        <text encoding="base64">CQkJCQkJCQk8L2E+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCXtpZnNldCBlbmQoJHRoaXMtPmdsb2JhbC0+Zm9ybXNTdGFjaylbIm9yZGVycy1kYXRhIl19Cg==</text>
+        <text encoding="base64">CQkJCQkJCQk8YSBjbGFzcz0iYnRuIGJ0bi14cyBidG4tZGFuZ2VyIGFqYXgiIG46aHJlZj0icmVtb3ZlISAkaWQiIHJvbGU9ImJ1dHRvbiI+Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CXsvZm9ybUNvbnRhaW5lcn0K</text>
+      <register name="9" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldEZvcm1Db250YWluZXIoKQoJewoJCXJldHVybiAkdGhpcy0+cGFyZW50Wydmb3JtLW9yZGVycyddOwoJfQ==</text>
       </register>
       <register name=":" type="4">
         <text>%s/formContainer/form/g</text>
       </register>
     </registers>
     <search>
-      <last-search>parseRights</last-search>
+      <last-search>remove</last-search>
       <last-offset />
-      <last-pattern>parseRights</last-pattern>
+      <last-pattern>remove</last-pattern>
       <last-replace>form</last-replace>
       <last-substitute>formContainer</last-substitute>
       <last-dir>1</last-dir>
@@ -6425,9 +6425,6 @@
     </search>
     <history>
       <history-search>
-        <entry>lower</entry>
-        <entry>lowerCase</entry>
-        <entry>disabled</entry>
         <entry>dump</entry>
         <entry>__</entry>
         <entry>KEY_PREFIX</entry>
@@ -6445,6 +6442,9 @@
         <entry>onValidate</entry>
         <entry>formContainer</entry>
         <entry>parseRights</entry>
+        <entry>Submited</entry>
+        <entry>Submit</entry>
+        <entry>remove</entry>
       </history-search>
       <history-cmd>
         <entry>134</entry>
