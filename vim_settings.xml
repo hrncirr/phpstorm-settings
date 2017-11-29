@@ -2071,11 +2071,12 @@
         <mark key="]" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsForm/Containers/OrdersContainer/OrdersContainer.php" timestamp="1511955402091">
-        <mark key="'" line="268" column="21" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="4" />
-        <mark key="." line="116" column="4" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsForm/Containers/OrdersContainer/OrdersContainer.php" timestamp="1511961948685">
+        <mark key="'" line="284" column="21" />
+        <mark key="[" line="36" column="27" />
+        <mark key="]" line="36" column="27" />
+        <mark key="." line="36" column="27" />
+        <mark key="^" line="110" column="31" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/client-side/js/hrncirr.mediaelement.init.js" timestamp="1476357940960">
         <mark key="[" line="27" column="66" />
@@ -2241,10 +2242,11 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/js/access.rights.form.init.js" timestamp="1511959360423">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="/home/www/html/nnb/passportization/js/access.rights.form.init.js" timestamp="1511961272043">
+        <mark key="[" line="33" column="90" />
+        <mark key="]" line="32" column="55" />
+        <mark key="." line="32" column="55" />
+        <mark key="^" line="32" column="55" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/VersionUploadForm/UploadVersionForm.php" timestamp="1490276880105">
         <mark key="[" line="109" column="64" />
@@ -3935,11 +3937,11 @@
         <mark key="]" line="29" column="4" />
         <mark key="." line="29" column="4" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsForm/Containers/OrdersContainer/OrdersContainer.latte" timestamp="1511957838027">
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsForm/Containers/OrdersContainer/OrdersContainer.latte" timestamp="1511961843852">
         <mark key="'" line="14" column="44" />
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="10" column="23" />
-        <mark key="." line="10" column="23" />
+        <mark key="[" line="60" column="27" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Folders/components/FolderSortTypeForm/FolderSortTypeForm.latte" timestamp="1484210351489">
         <mark key="[" line="5" column="25" />
@@ -3956,7 +3958,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511954412702">
+      <file name="/Dummy.txt" timestamp="1511961932697">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -6467,11 +6469,11 @@
       <jump line="14" column="44" filename="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsForm/Containers/OrdersContainer/OrdersContainer.latte" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkvL2NvbnNvbGUubG9nKCkK</text>
+      <register name="&quot;" type="4">
+        <text>Hokus pokus</text>
       </register>
       <register name="-" type="4">
-        <text>console.log($tbodyInput);</text>
+        <text>Hokus pokus</text>
       </register>
       <register name="/" type="4">
         <text>data-provide</text>
@@ -6480,36 +6482,31 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkvL2NvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">CQkJCQkJe2R1bXAgJGtleX0K</text>
       </register>
-      <register name="2" type="4">
-        <text>$('a[data-toggle=&quot;tab&quot;]', $context).on('shown.bs.tab', function (e) {
-						$.fn.dataTable.tables({ visible: true, api: true }).columns.adjust();
-					});</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCXtkdW1wICRvcHRpb25zfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQl2YXIgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>/*	
-				*/</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCXtkdW1wICRvcHRpb25zfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>$('a[data-toggle=&quot;tab&quot;]').on('shown.bs.tab', function (e) {
-					$.fn.dataTable.tables({ visible: true, api: true }).columns.adjust();
-				});</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQkJe2R1bXAgJGtleX0K</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PHNjcmlwdD4KCQkkKGZ1bmN0aW9uICgpIHsKCgkJCSQoJ2FbZGF0YS10b2dnbGU9InRhYiJdJykub24oJ3Nob3duLmJzLnRhYicsIGZ1bmN0aW9uIChlKSB7CgkJCQkkLmZuLmRhdGFUYWJsZS50YWJsZXMoeyB2aXNpYmxlOiB0cnVlLCBhcGk6IHRydWUgfSkuY29sdW1ucy5hZGp1c3QoKTsKCQkJfSk7CgoJCQkkKCcjY29zdC1jZW50ZXJzJykuRGF0YVRhYmxlKHsKCQkJCXNjcm9sbFk6ICcyOTBweCcsCgkJCQlzY3JvbGxDb2xsYXBzZTogdHJ1ZSwKCQkJCXBhZ2luZzogZmFsc2UsCgkJCQlzZWFyY2hpbmc6IGZhbHNlLAoJCQkJb3JkZXJpbmc6IGZhbHNlLAoJCQkJaW5mbzogZmFsc2UsCgkJCQljb2x1bW5EZWZzOiBbCgkJCQkJeyB3aWR0aDogJzEwcHgnLCB0YXJnZXRzOiAwIH0KCQkJCV0KCQkJfSk7CgkJfSk7Cgk8L3NjcmlwdD4=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">LAoKCQkJY3JlYXRlRGF0YVRhYmxlOiBmdW5jdGlvbiAoJHRhYmxlKSB7CgkJCQlpZiAoJC5mbi5EYXRhVGFibGUuaXNEYXRhVGFibGUoJHRhYmxlKSkgewoJCQkJCXJldHVybjsKCQkJCX0KCgkJCQlpZiAoJHRhYmxlLmZpbmQoJ3Rib2R5IHRyJykubGVuZ3RoID09PSAxKSB7CgkJCQkJdmFyIGNvbHNwYW4sICR0ciA9ICR0YWJsZS5maW5kKCd0Ym9keSB0cicpOwoJCQkJCWlmIChjb2xzcGFuID0gJHRyLmZpbmQoJ3RkJykuZmlyc3QoKS5hdHRyKCdjb2xzcGFuJykpIHsKCQkJCQkJJHRyLmZpbmQoJ3RkJykuZmlyc3QoKS5yZW1vdmVBdHRyKCdjb2xzcGFuJyk7CgkJCQkJCWZvciAodmFyIGkgPSAwOyBpIDwgY29sc3BhbiAtIDE7IGkrKykgewoJCQkJCQkJJHRyLmFwcGVuZCgkKCc8dGQ+PC90ZD4nKSk7CgkJCQkJCX0KCQkJCQl9CgkJCQl9CgoJCQkJaWYgKCR0YWJsZS5maW5kKCd0Zm9vdCcpLmxlbmd0aCAhPT0gMCkgewoJCQkJCXZhciAkZm9vdCA9ICR0YWJsZS5maW5kKCd0Zm9vdCcpLmNsb25lKCk7CgkJCQkJJCgnPHRhYmxlIC8+JywgewoJCQkJCQljbGFzczogJ2RhdGFncmlkLWV4dGVuZGVkLWZvb3RlcicsCgkJCQkJCXN0eWxlOiAncG9zaXRpb246IHJlbGF0aXZlOyB0b3A6IC0xcHgnCgkJCQkJfSkuaHRtbCgkZm9vdCkuaW5zZXJ0QWZ0ZXIoJHRhYmxlKTsKCQkJCQkkdGFibGUuZmluZCgndGZvb3QnKS5yZW1vdmUoKTsKCQkJCQkkLm5ldHRlLmxvYWQoKTsKCQkJCX0KCgkJCQkkdGFibGUuRGF0YVRhYmxlKHsKCQkJCQlzY3JvbGxZOiAnNDgwcHgnLAoJCQkJCXNjcm9sbFg6IHRydWUsCgkJCQkJc2Nyb2xsQ29sbGFwc2U6IHRydWUsCgkJCQkJcGFnaW5nOiBmYWxzZSwKCQkJCQlzZWFyY2hpbmc6IGZhbHNlLAoJCQkJCW9yZGVyaW5nOiBmYWxzZSwKCQkJCQlpbmZvOiBmYWxzZSwKCQkJCQlyZXNwb25zaXZlOiB0cnVlLAoJCQkJCWNvbHVtbkRlZnM6IFsKCQkJCQkJLy8gZml4aW5nIHdpZHRoCgkJCQkJCXt3aWR0aDogODAsIHRhcmdldHM6ICdfYWxsJ30KCQkJCQldLAoJCQkJCWZpeGVkQ29sdW1uczogewoJCQkJCQlsZWZ0Q29sdW1uczogMywKCQkJCQkJZHJhd0NhbGxiYWNrOiAkLnByb3h5KGZ1bmN0aW9uICgpIHsKCQkJCQkJCXRoaXMucmVtb3ZlRHVwbGljYXRlRm9ybUlucHV0cygkdGFibGUpOwoKCQkJCQkJCS8qCgkJCQkJCQkkdGFibGUucGFyZW50cygnZm9ybScpLmZpcnN0KCkuZmluZCgnOmlucHV0JykuZWFjaChmdW5jdGlvbiAoKSB7CgkJCQkJCQkJY29uc29sZS5sb2coJCh0aGlzKS5hdHRyKCduYW1lJykpOwoJCQkJCQkJfSk7CgkJCQkJCQkqLwoKCQkJCQkJCSQubmV0dGUubG9hZCgpOwoJCQkJCQl9LCB0aGlzKQoJCQkJCX0sCgkJCQkJY3JlYXRlZFJvdzogZnVuY3Rpb24gKHJvdywgZGF0YSwgZGF0YUluZGV4KSB7CgkJCQkJCXZhciBjb3VudCA9IGRhdGEuZmlsdGVyKGZ1bmN0aW9uIChjb2x1bW4pIHsKCQkJCQkJCXJldHVybiBjb2x1bW4gIT09ICcnOwoJCQkJCQl9KS5sZW5ndGg7CgoJCQkJCQlpZiAoY291bnQgPiAxKSB7CgkJCQkJCQlyZXR1cm47CgkJCQkJCX0KCgkJCQkJCSQuZWFjaCgkKHJvdykuY2hpbGRyZW4oJ3RkJyksIGZ1bmN0aW9uIChjb2x1bW5Qb3MsIGNvbHVtbikgewoJCQkJCQkJdmFyIHN0eWxlID0gJyc7CgkJCQkJCQlpZiAoY29sdW1uUG9zID4gMSkgewoJCQkJCQkJCXN0eWxlID0gJ3dpZHRoOiAwOyc7CgkJCQkJCQl9CgoJCQkJCQkJJChjb2x1bW4pLmF0dHIoJ3N0eWxlJywgc3R5bGUgKyAnYm9yZGVyOiAwJyk7CgkJCQkJCX0pOwoKCQkJCQkJJChyb3cpLmNoaWxkcmVuKCd0ZCcpLmZpcnN0KCkuYXR0cignY29sc3BhbicsIGRhdGEubGVuZ3RoKTsKCgkJCQkJfSwKCQkJCQlkcmF3Q2FsbGJhY2s6ICQucHJveHkoZnVuY3Rpb24gKCkgewoJCQkJCQl2YXIgJHNjcm9sbFdyYXBwZXIgPSAkdGFibGUucGFyZW50cygnZGl2LkRURkNfU2Nyb2xsV3JhcHBlcicpOwoJCQkJCQl2YXIgJGxlZnRGb290V3JhcHBlciA9ICRzY3JvbGxXcmFwcGVyLmZpbmQoJ2Rpdi5EVEZDX0xlZnRGb290V3JhcHBlcicpOwoKCQkJCQkJaWYgKCRsZWZ0Rm9vdFdyYXBwZXIubGVuZ3RoICE9PSAwKSB7CgkJCQkJCQkkdGFibGUucGFyZW50cygnZm9ybScpLmZpcnN0KCkuZmluZCgndGFibGUuZGF0YWdyaWQtZXh0ZW5kZWQtZm9vdGVyJykKCQkJCQkJCQkud2lkdGgoJHNjcm9sbFdyYXBwZXIud2lkdGgoKSk7CgkJCQkJCX0KCgkJCQkJfSwgdGhpcykKCQkJCX0pOwoKCQkJCXZhciByZXNpemVJZCA9ICR0YWJsZS5hdHRyKCdpZCcpLnJlcGxhY2UoLy0vZywgJ18nKTsKCQkJCSQod2luZG93KS5vZmYoJ3Jlc2l6ZS4nICsgcmVzaXplSWQpLm9uKCdyZXNpemUuJyArIHJlc2l6ZUlkLCAoZnVuY3Rpb24gKCkgewoJCQkJCXZhciAkc2Nyb2xsV3JhcHBlciA9ICR0YWJsZS5wYXJlbnRzKCdkaXYuRFRGQ19TY3JvbGxXcmFwcGVyJyk7CgkJCQkJJHRhYmxlLnBhcmVudHMoJ2Zvcm0nKS5maXJzdCgpLmZpbmQoJ3RhYmxlLmRhdGFncmlkLWV4dGVuZGVkLWZvb3RlcicpCgkJCQkJCS53aWR0aCgkc2Nyb2xsV3JhcHBlci53aWR0aCgpKTsKCQkJCX0pKTsKCQkJfSwKCgkJCXJlbW92ZUR1cGxpY2F0ZUZvcm1JbnB1dHM6IGZ1bmN0aW9uICgkdGFibGUpIHsKCQkJCXZhciBmb3JtSW5wdXRzID0ge307CgkJCQkkdGFibGUucGFyZW50cygnZm9ybScpLmZpcnN0KCkuZmluZCgnOmlucHV0JykuZWFjaChmdW5jdGlvbiAoKSB7CgkJCQkJdmFyIG5hbWUgPSAkKHRoaXMpLmF0dHIoJ25hbWUnKTsKCQkJCQlpZiAoIWZvcm1JbnB1dHMuaGFzT3duUHJvcGVydHkobmFtZSkpIHsKCQkJCQkJZm9ybUlucHV0c1tuYW1lXSA9ICQodGhpcyk7CgkJCQkJfSBlbHNlIGlmIChmb3JtSW5wdXRzLmhhc093blByb3BlcnR5KG5hbWUpKSB7CgkJCQkJCXZhciAkY29udGFpbmVyID0gJCh0aGlzKS5jbG9zZXN0KCdkaXYnKTsKCgkJCQkJCWlmICgkY29udGFpbmVyLmhhc0NsYXNzKCdkYXRhVGFibGVzX3Njcm9sbEhlYWRJbm5lcicpKSB7CgkJCQkJCQlmb3JtSW5wdXRzW25hbWVdLnJlbW92ZSgpOwoJCQkJCQl9IGVsc2UgaWYgKCRjb250YWluZXIuaGFzQ2xhc3MoJ0RURkNfTGVmdEhlYWRXcmFwcGVyJykpIHsKCQkJCQkJCS8vZm9ybUlucHV0c1tuYW1lXS5yZW1vdmVBdHRyKCdpZCcpLnJlbW92ZUF0dHIoJ25hbWUnKTsKCQkJCQkJfSBlbHNlIHsKCQkJCQkJCSQodGhpcykucmVtb3ZlKCk7CgkJCQkJCX0KCQkJCQl9CgkJCQl9KTsKCQkJfSwKCgkJCXNjcm9sbGJhcldpZHRoOiBmdW5jdGlvbiAoKSB7CgkJCQl2YXIgJG91dGVyID0gJCgnPGRpdj4nKS5jc3Moe3Zpc2liaWxpdHk6ICdoaWRkZW4nLCB3aWR0aDogMTAwLCBvdmVyZmxvdzogJ3Njcm9sbCd9KS5hcHBlbmRUbygnYm9keScpLAoJCQkJCXdpZHRoV2l0aFNjcm9sbCA9ICQoJzxkaXY+JykuY3NzKHt3aWR0aDogJzEwMCUnfSkuYXBwZW5kVG8oJG91dGVyKS5vdXRlcldpZHRoKCk7CgkJCQkkb3V0ZXIucmVtb3ZlKCk7CgoJCQkJcmV0dXJuIDEwMCAtIHdpZHRoV2l0aFNjcm9sbDsKCQkJfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCSRjb250ZXh0LmNsb3Nlc3QoJycpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">dmFyICR0YWJsZSA9IHVuZGVmaW5lZDsKCgkJCQlpZiAoJGNvbnRleHQuZmluZCgnLmRhdGFncmlkJykubGVuZ3RoICE9PSAwKSB7CgkJCQkJJHRhYmxlID0gJGNvbnRleHQuZmluZCgndGFibGUuJyArIHRoaXMudGFibGVDbGFzcyk7CgkJCQl9IGVsc2UgaWYgKCRjb250ZXh0LmNsb3Nlc3QoJy5kYXRhZ3JpZCcpLmxlbmd0aCAhPT0gMCAmJiAkY29udGV4dC5hdHRyKCdpZCcpLm1hdGNoKC9cLWdyaWQkLykpIHsKCQkJCQkkdGFibGUgPSAkY29udGV4dC5jbG9zZXN0KCdkaXYuZGF0YWdyaWQnKS5maW5kKCd0YWJsZS4nICsgdGhpcy50YWJsZUNsYXNzKTsKCQkJCX0KCgkJCQlpZiAoJHRhYmxlID09PSB1bmRlZmluZWQgfHwgJHRhYmxlLmxlbmd0aCA9PT0gMCB8fCAkLmZuLkRhdGFUYWJsZS5pc0RhdGFUYWJsZSgkdGFibGUpKSB7CgkJCQkJcmV0dXJuOwoJCQkJfQoKCQkJCXRoaXMuY3JlYXRlRGF0YVRhYmxlKCR0YWJsZSk7</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCQkJCQlQb3BvdmVyIG9uIHRvcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWlmKCkK</text>
+        <text encoding="base64">CQkJCQkvL2NvbnNvbGUubG9nKCkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
