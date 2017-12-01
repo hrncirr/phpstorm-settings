@@ -1968,12 +1968,12 @@
         <mark key="]" line="693" column="0" />
         <mark key="." line="693" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.control.init.js" timestamp="1512136220091">
+      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.control.init.js" timestamp="1512137088253">
         <mark key="'" line="46" column="20" />
-        <mark key="[" line="31" column="16" />
-        <mark key="]" line="31" column="16" />
+        <mark key="[" line="29" column="57" />
+        <mark key="]" line="72" column="20" />
         <mark key="^" line="72" column="26" />
-        <mark key="." line="31" column="16" />
+        <mark key="." line="72" column="20" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Pilscom/IFakturaAccounts/IFakturaAccountsRepository.php" timestamp="1509356363523">
         <mark key="[" line="13" column="0" />
@@ -3974,7 +3974,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512136280062">
+      <file name="/Dummy.txt" timestamp="1512137272647">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -4275,11 +4275,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" timestamp="1512135798202">
-        <mark key="'" line="354" column="12" />
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="0" />
-        <mark key="." line="161" column="0" />
+      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" timestamp="1512137189758">
+        <mark key="'" line="79" column="17" />
+        <mark key="[" line="24" column="19" />
+        <mark key="]" line="33" column="5" />
+        <mark key="." line="33" column="5" />
+        <mark key="^" line="33" column="5" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Compiler/Filters/MediaLightboxFilter.php" timestamp="1496128421231">
         <mark key="[" line="8" column="0" />
@@ -6406,24 +6407,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="6" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/DataSources/DoctrineDataSource.php" />
-      <jump line="179" column="12" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/DataSources/DoctrineDataSource.php" />
-      <jump line="104" column="16" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/DataSources/DoctrineDataSource.php" />
-      <jump line="111" column="16" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/DataSources/DoctrineDataSource.php" />
-      <jump line="40" column="27" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/DataSources/NetteDatabase.php" />
-      <jump line="189" column="12" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/DataSources/NetteDatabase.php" />
-      <jump line="36" column="12" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/EventSource.php" />
-      <jump line="113" column="8" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/EventSource.php" />
-      <jump line="14" column="35" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/DataSources/DoctrineDataSource.php" />
-      <jump line="57" column="5" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Model/Event.php" />
-      <jump line="26" column="19" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formItems.latte" />
-      <jump line="53" column="21" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" />
-      <jump line="72" column="26" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="154" column="12" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="301" column="15" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="33" column="12" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="274" column="27" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="462" column="55" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="260" column="13" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="261" column="13" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="290" column="44" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
@@ -6506,20 +6489,34 @@
       <jump line="77" column="33" filename="/home/www/html/dv/adera/app/config/extensions/header.neon" />
       <jump line="121" column="44" filename="/home/www/html/dv/adera/app/config/extensions/header.neon" />
       <jump line="25" column="25" filename="/home/www/html/dv/adera/app/config/extensions/header.neon" />
+      <jump line="59" column="45" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
+      <jump line="88" column="33" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
+      <jump line="92" column="29" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
+      <jump line="104" column="33" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
+      <jump line="108" column="29" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
+      <jump line="124" column="33" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
+      <jump line="128" column="29" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
+      <jump line="143" column="33" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
+      <jump line="147" column="29" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
+      <jump line="153" column="25" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
+      <jump line="160" column="59" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
+      <jump line="161" column="25" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
+      <jump line="162" column="71" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
+      <jump line="166" column="17" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
+      <jump line="33" column="5" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
+      <jump line="304" column="36" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
+      <jump line="40" column="36" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
+      <jump line="79" column="17" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>if ($.fn.datetimepicker === undefined) {
-					console.error('Boostrap datetimepicker is not registered, download it from ' +
-						'https://github.com/Eonasdan/bootstrap-datetimepicker');
-					return;
-				}</text>
+        <text>var $el = $(fullCalendarId);</text>
       </register>
       <register name="-" type="4">
-        <text>var fullCalendarId = '#' + $(this).data('full-calendar');</text>
+        <text>var $el = $(fullCalendarId);</text>
       </register>
       <register name="/" type="4">
-        <text>date</text>
+        <text>$el</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
@@ -6572,26 +6569,20 @@
 			};</text>
       </register>
       <register name=":" type="4">
-        <text>%s/initFormPart/formPart/g</text>
+        <text>%s/this.$element/this.$el/g</text>
       </register>
     </registers>
     <search>
-      <last-search>date</last-search>
+      <last-search>$el</last-search>
       <last-offset />
-      <last-pattern>date</last-pattern>
-      <last-replace>formPart</last-replace>
-      <last-substitute>initFormPart</last-substitute>
+      <last-pattern>$el</last-pattern>
+      <last-replace>this.$el</last-replace>
+      <last-substitute>this.$element</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>links</entry>
-        <entry>createLinks</entry>
-        <entry>onEve</entry>
-        <entry>handle</entry>
-        <entry>onDayClick</entry>
-        <entry>onEventClick</entry>
         <entry>createResponse</entry>
         <entry>sendRequest</entry>
         <entry>getRequest</entry>
@@ -6606,10 +6597,14 @@
         <entry>send</entry>
         <entry>render</entry>
         <entry>date</entry>
+        <entry>element</entry>
+        <entry>this.element</entry>
+        <entry>:%s</entry>
+        <entry>this.$element</entry>
+        <entry>el</entry>
+        <entry>$el</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/itemTextCallback/itemsTextCallback/g</entry>
-        <entry>%s/itemsTextCallback/itemsCallback/g</entry>
         <entry>%s/formContainer/form/g</entry>
         <entry>%s/NULL/null/g</entry>
         <entry>%s/columnStartAt/columnFrom</entry>
@@ -6628,6 +6623,8 @@
         <entry>%s/$model/$dataModel/g</entry>
         <entry encoding="base64">JXMvLT5tb2RlbC8tPmRhdGFNb2RlbC9n</entry>
         <entry>%s/initFormPart/formPart/g</entry>
+        <entry>%s/this.element/this.$element/g</entry>
+        <entry>%s/this.$element/this.$el/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
