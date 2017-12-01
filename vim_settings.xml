@@ -1968,12 +1968,12 @@
         <mark key="]" line="693" column="0" />
         <mark key="." line="693" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.control.init.js" timestamp="1512134674040">
-        <mark key="'" line="40" column="20" />
-        <mark key="[" line="65" column="28" />
-        <mark key="]" line="66" column="26" />
-        <mark key="^" line="66" column="26" />
-        <mark key="." line="66" column="26" />
+      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.control.init.js" timestamp="1512136220091">
+        <mark key="'" line="46" column="20" />
+        <mark key="[" line="31" column="16" />
+        <mark key="]" line="31" column="16" />
+        <mark key="^" line="72" column="26" />
+        <mark key="." line="31" column="16" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Pilscom/IFakturaAccounts/IFakturaAccountsRepository.php" timestamp="1509356363523">
         <mark key="[" line="13" column="0" />
@@ -3974,7 +3974,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512126562792">
+      <file name="/Dummy.txt" timestamp="1512136280062">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -4275,12 +4275,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" timestamp="1512131726071">
-        <mark key="'" line="352" column="12" />
-        <mark key="[" line="160" column="12" />
-        <mark key="]" line="160" column="12" />
-        <mark key="." line="160" column="12" />
-        <mark key="^" line="159" column="8" />
+      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" timestamp="1512135798202">
+        <mark key="'" line="354" column="12" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="." line="161" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Compiler/Filters/MediaLightboxFilter.php" timestamp="1496128421231">
         <mark key="[" line="8" column="0" />
@@ -6220,13 +6219,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formItems.latte" timestamp="1512055154670">
-        <mark key="'" line="26" column="19" />
-        <mark key="[" line="11" column="14" />
-        <mark key="]" line="26" column="19" />
-        <mark key="." line="26" column="19" />
-        <mark key="^" line="26" column="19" />
-      </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Pilscom/IFakturaAccounts/IFakturaAccountsMapper.php" timestamp="1509357018110">
         <mark key="[" line="25" column="4" />
         <mark key="]" line="25" column="8" />
@@ -6407,13 +6399,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/src/DataSources/IDataSource.php" timestamp="1512045531150">
-        <mark key="'" line="23" column="22" />
-        <mark key="[" line="34" column="54" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="23" column="22" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="/home/www/html/dv/cms/src/Options/Components/ExtensionsGrid/ExtensionsGrid.php" timestamp="1497014853957">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="64" column="0" />
@@ -6524,10 +6509,14 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iYm94LWhlYWRlciB3aXRoLWJvcmRlciI+CgkJCQk8aDQgY2xhc3M9ImJveC10aXRsZSI+VcW+aXZhdGVsw6k8L2g0PgoJCQk8L2Rpdj4=</text>
+        <text>if ($.fn.datetimepicker === undefined) {
+					console.error('Boostrap datetimepicker is not registered, download it from ' +
+						'https://github.com/Eonasdan/bootstrap-datetimepicker');
+					return;
+				}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSAkZm9ybS0+Z2V0RW50aXR5KCk=</text>
+        <text>var fullCalendarId = '#' + $(this).data('full-calendar');</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
@@ -6536,13 +6525,33 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iYm94LWhlYWRlciB3aXRoLWJvcmRlciI+CgkJCQk8aDQgY2xhc3M9ImJveC10aXRsZSI+VcW+aXZhdGVsw6k8L2g0PgoJCQk8L2Rpdj4=</text>
+        <text>if ($.fn.datetimepicker === undefined) {
+					console.error('Boostrap datetimepicker is not registered, download it from ' +
+						'https://github.com/Eonasdan/bootstrap-datetimepicker');
+					return;
+				}</text>
       </register>
       <register name="2" type="4">
+        <text>if ($.fn.datetimepicker === undefined) {
+					console.error('Boostrap datetimepicker is registered, download it from ' +
+						'https://github.com/Eonasdan/bootstrap-datetimepicker');
+					return;
+				}</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKHRoaXMuZWxlbWVudC5kYXRhKCdmdWxsQ2FsZWRhclZpZXdDYWxsYmFjaycpKTsK</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0iYm94LWhlYWRlciB3aXRoLWJvcmRlciI+CgkJCQk8aDQgY2xhc3M9ImJveC10aXRsZSI+VcW+aXZhdGVsw6k8L2g0PgoJCQk8L2Rpdj4=</text>
+      </register>
+      <register name="6" type="4">
         <text>console.log('ok');
 					return;</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>$(fullCalendarId).data('fullCalendar').optionsManager.overrides.viewRender = function (view, element) {
 					console.log(view);
 					console.log(element);
@@ -6552,27 +6561,15 @@
 
 				return;</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>console.log($(fullCalendarId).data('fullCalendar'));
 
 				return;</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>config['viewRender'] = function (view, element) {
 				console.log(element);
 			};</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJPCEtLSAvLmJveDstYm9keSAtLT4K</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY29sLW1kLTMiPgoJCTxkaXYgY2xhc3M9ImJveCBib3gtc29saWQiPgoJCQk8ZGl2IGNsYXNzPSJib3gtaGVhZGVyIHdpdGgtYm9yZGVyIj4KCQkJCTxoNCBjbGFzcz0iYm94LXRpdGxlIj5Vxb5pdmF0ZWzDqTwvaDQ+CgkJCTwvZGl2PgoJCQk8ZGl2IGNsYXNzPSJib3gtYm9keSI+CgkJCQk8ZGl2IGRhdGEtcHJvdmlkZT0iZnVsbC1jYWxlbmRhci1jb250cm9sIgoJCQkJICAgICBkYXRhLWZ1bGwtY2FsZW5kYXI9InskY29udHJvbFsnY2FsZW5kYXInXS0+Z2V0SHRtbElkKCl9Ij48L2Rpdj4KCQkJPC9kaXY+CgkJPC9kaXY+Cgk8L2Rpdj4=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJPCEtLSAvLmJveC1ib2R5IC0tPgo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJey9mb3JlYWNofQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/initFormPart/formPart/g</text>
