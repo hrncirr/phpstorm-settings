@@ -298,10 +298,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Calendar/Presenters/templates/Calendar/default.latte" timestamp="1512121882595">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Calendar/Presenters/templates/Calendar/default.latte" timestamp="1512125925875">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="8" />
+        <mark key="." line="12" column="8" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Forms/Controls/SubjectNameInput.php" timestamp="1504184435168">
         <mark key="[" line="20" column="41" />
@@ -1887,11 +1887,12 @@
         <mark key="]" line="111" column="8" />
         <mark key="." line="111" column="8" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/src/Model/Event.php" timestamp="1512120310277">
-        <mark key="'" line="189" column="20" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
+      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/src/Model/Event.php" timestamp="1512126470567">
+        <mark key="'" line="201" column="20" />
+        <mark key="[" line="215" column="8" />
+        <mark key="]" line="215" column="8" />
+        <mark key="." line="215" column="8" />
+        <mark key="^" line="144" column="65" />
       </file>
       <file name="/home/www/html/nnb/obj/app/config/services.neon" timestamp="1479902682032">
         <mark key="[" line="4" column="24" />
@@ -3983,7 +3984,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512122965808">
+      <file name="/Dummy.txt" timestamp="1512126562792">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -5473,10 +5474,10 @@
         <mark key="]" line="21" column="38" />
         <mark key="." line="21" column="38" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Calendar/Presenters/CalendarPresenter.php" timestamp="1512121195505">
-        <mark key="[" line="87" column="14" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Calendar/Presenters/CalendarPresenter.php" timestamp="1512126311211">
+        <mark key="[" line="60" column="38" />
+        <mark key="]" line="60" column="38" />
+        <mark key="." line="60" column="38" />
       </file>
       <file name="/home/www/html/dv/adera/src/Navigation/Helpers.php" timestamp="1500886576079">
         <mark key="[" line="23" column="37" />
@@ -6531,11 +6532,11 @@
       <jump line="469" column="36" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JGFsbERheSA9ICR0aGlzLT5pc0FsbERheSgpOwoJCWlmICgkYWxsRGF5ICE9PSBudWxsKSB7CgkJCSRyZXRbJ2FsbERheSddID0gJHRoaXMtPmlzQWxsRGF5KCk7CgkJfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>return;</text>
+        <text>\DateTime|</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
@@ -6543,32 +6544,32 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">JGFsbERheSA9ICR0aGlzLT5pc0FsbERheSgpOwoJCWlmICgkYWxsRGF5ICE9PSBudWxsKSB7CgkJCSRyZXRbJ2FsbERheSddID0gJHRoaXMtPmlzQWxsRGF5KCk7CgkJfQ==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCQoZnVsbENhbGVuZGFySWQpLmRhdGEoJ2Z1bGxDYWxlbmRhcicpKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">aWYgKCEkdGhpcy0+Z2V0U3RhcnQoKSBpbnN0YW5jZW9mIFxEYXRlVGltZSB8fCAhJHRoaXMtPmdldEVuZCgpIGluc3RhbmNlb2YgXERhdGVUaW1lKSB7CgkJCXJldHVybiBudWxsOwoJCX0KCQkKCQkkZGlmZiA9ICR0aGlzLT5nZXRFbmQoKS0+ZGlmZigkdGhpcy0+Z2V0U3RhcnQoKSk7CgkJCgkJcmV0dXJuIGZhbHNlOyAvLygkZGlmZi0+aW52ZXJ0ID09PSAxICYmICRkaWZmLT5kYXlzID49IDEpOw==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCQoZnVsbENhbGVuZGFySWQpLmRhdGEoJ2Z1bGxDYWxlbmRhcicpKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5nZXRQcmVzZW50ZXIoKS0+aXNBamF4KCkgJiYgJHRoaXMtPmlzQ29udHJvbEludmFsaWQoKSkgewoJCQlkdW1wKCdhYWFhJyk7CgkJCXJldHVybjsKCQl9</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkkdGhpcy0+cmVkcmF3Q29udHJvbCgpOwo=</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCQoZnVsbENhbGVuZGFySWQpLmRhdGEoJ2Z1bGxDYWxlbmRhcicpKTsK</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5nZXRQcmVzZW50ZXIoKS0+aXNBamF4KCkgJiYgJHRoaXMtPmlzQ29udHJvbEludmFsaWQoKSkgewoJCQlkdW1wKCdhYWFhYWEnKTsKCQkJcmV0dXJuOwoJCX0=</text>
+        <text encoding="base64">aWYgKCR0aGlzLT5nZXRQcmVzZW50ZXIoKS0+aXNBamF4KCkgJiYgJHRoaXMtPmlzQ29udHJvbEludmFsaWQoKSkgewoJCQlkdW1wKCdhYWFhJyk7CgkJCXJldHVybjsKCQl9</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">CQkkdGhpcy0+cmVkcmF3Q29udHJvbCgpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkvL2R1bXAoJGRpZmYpOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">aWYgKCR0aGlzLT5nZXRQcmVzZW50ZXIoKS0+aXNBamF4KCkgJiYgJHRoaXMtPmlzQ29udHJvbEludmFsaWQoKSkgewoJCQlkdW1wKCdhYWFhYWEnKTsKCQkJcmV0dXJuOwoJCX0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlkdW1wKCRkaWZmKTsK</text>
+        <text encoding="base64">CQkkdGhpcy0+cmVkcmF3Q29udHJvbCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/initFormPart/formPart/g</text>
