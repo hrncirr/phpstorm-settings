@@ -298,10 +298,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Calendar/Presenters/templates/Calendar/default.latte" timestamp="1512130054321">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Calendar/Presenters/templates/Calendar/default.latte" timestamp="1512134826147">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="12" />
+        <mark key="." line="12" column="12" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Forms/Controls/SubjectNameInput.php" timestamp="1504184435168">
         <mark key="[" line="20" column="41" />
@@ -1968,12 +1968,12 @@
         <mark key="]" line="693" column="0" />
         <mark key="." line="693" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.control.init.js" timestamp="1512131904747">
+      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.control.init.js" timestamp="1512134674040">
         <mark key="'" line="40" column="20" />
-        <mark key="[" line="36" column="20" />
-        <mark key="]" line="36" column="20" />
-        <mark key="^" line="40" column="20" />
-        <mark key="." line="36" column="20" />
+        <mark key="[" line="65" column="28" />
+        <mark key="]" line="66" column="26" />
+        <mark key="^" line="66" column="26" />
+        <mark key="." line="66" column="26" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Pilscom/IFakturaAccounts/IFakturaAccountsRepository.php" timestamp="1509356363523">
         <mark key="[" line="13" column="0" />
@@ -3837,11 +3837,11 @@
         <mark key="]" line="27" column="4" />
         <mark key="." line="27" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/extensions/header.neon" timestamp="1512128792071">
+      <file name="/home/www/html/dv/adera/app/config/extensions/header.neon" timestamp="1512134707803">
         <mark key="'" line="25" column="25" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/services/Unique.php" timestamp="1477994988699">
         <mark key="[" line="41" column="32" />
@@ -4276,7 +4276,7 @@
         <mark key="." line="12" column="0" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" timestamp="1512131726071">
-        <mark key="'" line="350" column="12" />
+        <mark key="'" line="352" column="12" />
         <mark key="[" line="160" column="12" />
         <mark key="]" line="160" column="12" />
         <mark key="." line="160" column="12" />
@@ -6220,6 +6220,13 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formItems.latte" timestamp="1512055154670">
+        <mark key="'" line="26" column="19" />
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="26" column="19" />
+        <mark key="." line="26" column="19" />
+        <mark key="^" line="26" column="19" />
+      </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Pilscom/IFakturaAccounts/IFakturaAccountsMapper.php" timestamp="1509357018110">
         <mark key="[" line="25" column="4" />
         <mark key="]" line="25" column="8" />
@@ -6400,6 +6407,13 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/src/DataSources/IDataSource.php" timestamp="1512045531150">
+        <mark key="'" line="23" column="22" />
+        <mark key="[" line="34" column="54" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="23" column="22" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="/home/www/html/dv/cms/src/Options/Components/ExtensionsGrid/ExtensionsGrid.php" timestamp="1497014853957">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="64" column="0" />
@@ -6407,8 +6421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="353" column="22" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="118" column="36" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="32" column="6" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/DataSources/DoctrineDataSource.php" />
       <jump line="179" column="12" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/DataSources/DoctrineDataSource.php" />
       <jump line="104" column="16" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/DataSources/DoctrineDataSource.php" />
@@ -6501,17 +6513,18 @@
       <jump line="240" column="15" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="469" column="36" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="101" column="0" filename="/home/www/html/dv/adera/app/config/extensions/header.neon" />
+      <jump line="42" column="20" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.control.init.js" />
+      <jump line="80" column="37" filename="/home/www/html/dv/adera/app/config/extensions/header.neon" />
+      <jump line="124" column="16" filename="/home/www/html/dv/adera/app/config/extensions/header.neon" />
       <jump line="34" column="25" filename="/home/www/html/dv/adera/app/config/extensions/header.neon" />
       <jump line="76" column="29" filename="/home/www/html/dv/adera/app/config/extensions/header.neon" />
       <jump line="77" column="33" filename="/home/www/html/dv/adera/app/config/extensions/header.neon" />
       <jump line="121" column="44" filename="/home/www/html/dv/adera/app/config/extensions/header.neon" />
       <jump line="25" column="25" filename="/home/www/html/dv/adera/app/config/extensions/header.neon" />
-      <jump line="42" column="20" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.control.init.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>console.log('ok');
-					return;</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iYm94LWhlYWRlciB3aXRoLWJvcmRlciI+CgkJCQk8aDQgY2xhc3M9ImJveC10aXRsZSI+VcW+aXZhdGVsw6k8L2g0PgoJCQk8L2Rpdj4=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PSAkZm9ybS0+Z2V0RW50aXR5KCk=</text>
@@ -6523,10 +6536,13 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0iYm94LWhlYWRlciB3aXRoLWJvcmRlciI+CgkJCQk8aDQgY2xhc3M9ImJveC10aXRsZSI+VcW+aXZhdGVsw6k8L2g0PgoJCQk8L2Rpdj4=</text>
+      </register>
+      <register name="2" type="4">
         <text>console.log('ok');
 					return;</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>$(fullCalendarId).data('fullCalendar').optionsManager.overrides.viewRender = function (view, element) {
 					console.log(view);
 					console.log(element);
@@ -6536,34 +6552,27 @@
 
 				return;</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>console.log($(fullCalendarId).data('fullCalendar'));
 
 				return;</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>config['viewRender'] = function (view, element) {
 				console.log(element);
 			};</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJPCEtLSAvLmJveDstYm9keSAtLT4K</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">PGRpdiBjbGFzcz0iY29sLW1kLTMiPgoJCTxkaXYgY2xhc3M9ImJveCBib3gtc29saWQiPgoJCQk8ZGl2IGNsYXNzPSJib3gtaGVhZGVyIHdpdGgtYm9yZGVyIj4KCQkJCTxoNCBjbGFzcz0iYm94LXRpdGxlIj5Vxb5pdmF0ZWzDqTwvaDQ+CgkJCTwvZGl2PgoJCQk8ZGl2IGNsYXNzPSJib3gtYm9keSI+CgkJCQk8ZGl2IGRhdGEtcHJvdmlkZT0iZnVsbC1jYWxlbmRhci1jb250cm9sIgoJCQkJICAgICBkYXRhLWZ1bGwtY2FsZW5kYXI9InskY29udHJvbFsnY2FsZW5kYXInXS0+Z2V0SHRtbElkKCl9Ij48L2Rpdj4KCQkJPC9kaXY+CgkJPC9kaXY+Cgk8L2Rpdj4=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJPCEtLSAvLmJveC1ib2R5IC0tPgo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQkJey9mb3JlYWNofQo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>/**
-	 * @ORM\OneToMany(targetEntity=&quot;User&quot;, cascade={&quot;persist&quot;})
-	 * @var User[]|\Doctrine\Common\Collections\ArrayCollection
-	 */
-	protected $user;</text>
       </register>
       <register name=":" type="4">
         <text>%s/initFormPart/formPart/g</text>
