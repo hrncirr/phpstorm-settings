@@ -3972,7 +3972,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512142042824">
+      <file name="/Dummy.txt" timestamp="1512388986907">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -4090,8 +4090,8 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/media/src/Responses/FileResponse.php" timestamp="1507216901590">
-        <mark key="[" line="85" column="0" />
+      <file name="/home/www/vendor/hrncirr/media/src/Responses/FileResponse.php" timestamp="1512388720372">
+        <mark key="[" line="125" column="37" />
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
@@ -6551,7 +6551,7 @@
         <text encoding="base64">CQkJY29uc29sZS5sb2coY2hlY2tlZCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/this.$element/this.$el/g</text>
+        <text>126</text>
       </register>
     </registers>
     <search>
@@ -6587,7 +6587,6 @@
         <entry>dump</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/formContainer/form/g</entry>
         <entry>%s/NULL/null/g</entry>
         <entry>%s/columnStartAt/columnFrom</entry>
         <entry>%s/columnEndAt/columnTo</entry>
@@ -6607,6 +6606,7 @@
         <entry>%s/initFormPart/formPart/g</entry>
         <entry>%s/this.element/this.$element/g</entry>
         <entry>%s/this.$element/this.$el/g</entry>
+        <entry>126</entry>
       </history-cmd>
       <history-expr />
       <history-input />
