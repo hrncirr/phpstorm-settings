@@ -2201,6 +2201,12 @@
       <file name="/home/www/lib/vendor/hrncirr/fullcalendar/src/Exceptions/InvalidArgumentException.php" timestamp="1511950572029">
         <mark key="[" line="8" column="0" />
       </file>
+      <file name="/home/www/html/bul/mamo/app/components/Calendar/Calendar.php" timestamp="1512467446787">
+        <mark key="'" line="423" column="48" />
+        <mark key="[" line="413" column="12" />
+        <mark key="]" line="413" column="16" />
+        <mark key="." line="413" column="16" />
+      </file>
       <file name="/home/www/vendor/hrncirr/document-parsers/src/Types/Ppt.php" timestamp="1488899586063">
         <mark key="[" line="69" column="4" />
         <mark key="]" line="69" column="8" />
@@ -3146,8 +3152,8 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="/home/www/html/bul/medical_examinations/app/config/config.local.neon" timestamp="1507547624071">
-        <mark key="[" line="31" column="8" />
+      <file name="/home/www/html/bul/medical_examinations/app/config/config.local.neon" timestamp="1512466057269">
+        <mark key="[" line="10" column="23" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
@@ -5615,6 +5621,11 @@
         <mark key="]" line="62" column="8" />
         <mark key="." line="62" column="8" />
       </file>
+      <file name="/home/www/html/bul/mamo/app/config/config.local.neon" timestamp="1512468002736">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="8" />
+        <mark key="." line="5" column="8" />
+      </file>
       <file name="/home/www/html/bul/mamo/app/components/VisitForm/VisitForm.php" timestamp="1481268573739">
         <mark key="[" line="14" column="24" />
         <mark key="]" line="6" column="0" />
@@ -6072,9 +6083,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/nette/application/src/Application/UI/Control.php" timestamp="1512117148641">
-        <mark key="'" line="115" column="19" />
-      </file>
       <file name="/home/www/html/nnb/aktuality/app/model/MediaFacade.php" timestamp="1478531220153">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -6406,20 +6414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="290" column="44" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="448" column="34" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="468" column="61" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="142" column="25" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="275" column="29" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="303" column="15" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="320" column="15" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="375" column="15" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="225" column="15" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="239" column="49" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="246" column="33" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="379" column="42" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="229" column="47" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="165" column="47" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="213" column="20" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="82" column="39" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="279" column="27" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
@@ -6506,58 +6500,84 @@
       <jump line="79" column="17" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
       <jump line="77" column="41" filename="/home/www/html/dv/adera/Modules/Calendar/Presenters/CalendarPresenter.php" />
       <jump line="57" column="8" filename="/home/www/html/dv/adera/Modules/Calendar/Presenters/CalendarPresenter.php" />
+      <jump line="80" column="42" filename="/home/www/html/bul/mamo/app/components/Calendar/Calendar.php" />
+      <jump line="86" column="58" filename="/home/www/html/bul/mamo/app/components/Calendar/Calendar.php" />
+      <jump line="332" column="28" filename="/home/www/html/bul/mamo/app/components/Calendar/Calendar.php" />
+      <jump line="337" column="36" filename="/home/www/html/bul/mamo/app/components/Calendar/Calendar.php" />
+      <jump line="89" column="30" filename="/home/www/html/bul/mamo/app/components/Calendar/Calendar.php" />
+      <jump line="218" column="26" filename="/home/www/html/bul/mamo/app/components/Calendar/Calendar.php" />
+      <jump line="319" column="9" filename="/home/www/html/bul/mamo/app/components/Calendar/Calendar.php" />
+      <jump line="351" column="36" filename="/home/www/html/bul/mamo/app/components/Calendar/Calendar.php" />
+      <jump line="413" column="48" filename="/home/www/html/bul/mamo/app/components/Calendar/Calendar.php" />
+      <jump line="101" column="52" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
+      <jump line="103" column="80" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
+      <jump line="104" column="86" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
+      <jump line="319" column="9" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
+      <jump line="320" column="35" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkkdXNlcnMgPSBbXTsK</text>
+      <register name="&quot;" type="4">
+        <text>dump($toDate);</text>
       </register>
       <register name="-" type="4">
-        <text>{'users' : checked}</text>
+        <text>dump($toDate);</text>
       </register>
       <register name="/" type="4">
-        <text>dump</text>
+        <text>parseBlockedHours</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkkdXNlcnMgPSBbXTsK</text>
+        <text encoding="base64">CQkJCWR1bXAoJHRvRGF0ZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXByaXZhdGUgJGVtcHR5VXNlcnMgPSBmYWxzZTsK</text>
+        <text encoding="base64">CQkJZHVtcCgkbWF0Y2hlc1sndGltZSddKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">aWYgKCEkdXNlcnMpIHsKCQkJJHRoaXMtPmVtcHR5VXNlcnMgPSB0cnVlOwoJCX0KCQk=</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJZHVtcCgkZGF5cyk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">aWYgKCEkdGhpcy0+ZW1wdHlVc2VycykgewoJCQlpZiAoISR0aGlzLT51c2VycykgewoJCQkJJHVzZXJzID0gWzEsIDJdOwoJCQl9IGVsc2UgewoJCQkJJHVzZXJzID0gJHRoaXMtPnVzZXJzOwoJCQl9CgkJfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJZHVtcCgkbWF0Y2hlcyk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkvL2R1bXAoJHRoaXMtPnVzZXJzKTsK</text>
+      <register name="5" type="4">
+        <text>if (isset($matches['toDate'])) {
+				$toDate = new DateTime($matches['toDate']);
+			}</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGJlZm9yZVJlbmRlcigpCgl7CgkJaWYgKCR0aGlzLT4pCgl9</text>
+        <text>'every Tuesday': '*',
+		'every Wednesday': '14:30-15:00,20' #'12:30-15:00,20',
+		'every Thursday': '07:00-12:00,20',
+		'every Friday': '*',
+		'2017-10-11': '*',
+		'2017-10-18': '*',
+		'2017-10-25': '*',
+		'2017-11-10': '*',
+		'2017-11-24': '*',
+		'2017-12-01': '*',
+		'2017-12-08': '*',
+		'2017-12-15': '*',
+		'2017-12-22': '*',
+		'2017-12-29': '*'</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlwYXJlbnQ6OmJlZm9yZVJlbmRlcigpOyAvLyBUT0RPOiBDaGFuZ2UgdGhlIGF1dG9nZW5lcmF0ZWQgc3R1Ygo=</text>
+        <text encoding="base64">CWJsb2NrZWRIb3VyczogWydldmVyeSB3ZWRuZXNkYXknIDogJyonXQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>public function __construct()
-	{
-		
-	}</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkkdXNlcnMgPSBbXTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coY2hlY2tlZCk7Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgJGVtcHR5VXNlcnMgPSBmYWxzZTsK</text>
       </register>
       <register name=":" type="4">
-        <text>126</text>
+        <text>407</text>
       </register>
     </registers>
     <search>
-      <last-search>dump</last-search>
+      <last-search>parseBlockedHours</last-search>
       <last-offset />
-      <last-pattern>dump</last-pattern>
+      <last-pattern>parseBlockedHours</last-pattern>
       <last-replace>this.$el</last-replace>
       <last-substitute>this.$element</last-substitute>
       <last-dir>1</last-dir>
@@ -6565,13 +6585,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sendRequest</entry>
-        <entry>getRequest</entry>
-        <entry>invalidSnippets</entry>
-        <entry>all</entry>
-        <entry>createRequest</entry>
-        <entry>redrawControl</entry>
-        <entry>sendResponse</entry>
         <entry>redraw</entry>
         <entry>refetch</entry>
         <entry>request</entry>
@@ -6585,9 +6598,15 @@
         <entry>el</entry>
         <entry>$el</entry>
         <entry>dump</entry>
+        <entry>visitHours</entry>
+        <entry>maxOcc</entry>
+        <entry>blocked</entry>
+        <entry>parseBlocked</entry>
+        <entry>every</entry>
+        <entry>blockedHours</entry>
+        <entry>parseBlockedHours</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/NULL/null/g</entry>
         <entry>%s/columnStartAt/columnFrom</entry>
         <entry>%s/columnEndAt/columnTo</entry>
         <entry>%scolumnMap/fieldMap/g</entry>
@@ -6607,6 +6626,7 @@
         <entry>%s/this.element/this.$element/g</entry>
         <entry>%s/this.$element/this.$el/g</entry>
         <entry>126</entry>
+        <entry>407</entry>
       </history-cmd>
       <history-expr />
       <history-input />
