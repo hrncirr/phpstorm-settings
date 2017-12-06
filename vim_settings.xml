@@ -4220,12 +4220,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" timestamp="1512553682098">
-        <mark key="'" line="356" column="96" />
-        <mark key="[" line="181" column="12" />
-        <mark key="]" line="181" column="12" />
-        <mark key="." line="181" column="12" />
-        <mark key="^" line="175" column="12" />
+      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" timestamp="1512554741460">
+        <mark key="'" line="56" column="29" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="46" column="46" />
+        <mark key="." line="46" column="46" />
+        <mark key="^" line="46" column="46" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Compiler/Filters/MediaLightboxFilter.php" timestamp="1496128421231">
         <mark key="[" line="8" column="0" />
@@ -6324,7 +6324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="383" column="0" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="233" column="11" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="414" column="19" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="421" column="22" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
@@ -6424,32 +6423,74 @@
       <jump line="348" column="93" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
       <jump line="352" column="96" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
       <jump line="356" column="96" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
+      <jump line="56" column="29" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/*
-			var id = event.id;
-			event.id = this.parseId(id, eventSourceId);
-			event.localId = id;
-			event.source = eventSource;
-
-			if (!event.hasOwnProperty('editable')) {
-				event.editable = true;
-			}
-
-			this.$el.fullCalendar('renderEvent', event);
-			*/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdvaycpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>, event</text>
       </register>
       <register name="/" type="4">
-        <text>options</text>
+        <text>editable</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdvaycpOwo=</text>
+      </register>
+      <register name="2" type="4">
+        <text>if ('editable' in eventSource) {
+					editable = true;
+				}</text>
+      </register>
+      <register name="3" type="4">
+        <text>var eventSource = this.$el.data('fullCalendar').options.eventSources.filter(function (eventSource) {
+				return eventSource.id === eventSourceId;
+			})[0];
+
+			this.$el.fullCalendar('removeEventSource', eventSource);
+			this.$el.fullCalendar('addEventSource', eventSource);</text>
+      </register>
+      <register name="4" type="4">
+        <text>if (('googleCalendarId' in eventSource)) {
+					continue;
+				}
+
+				eventSource['events'] = $.proxy(function (start, end, timezone, callback) {
+					this.context._ajax(this.context.links['eventSources'][this.eventSource.id], {
+						start: start.format('YYYY-MM-DD'),
+						end: end.format('YYYY-MM-DD')
+					}, false).done($.proxy(function (payload) {
+						if (!this.context._processResponse(payload)) {
+							return;
+						}
+
+						if (!payload['fullCalendar'].hasOwnProperty('events')) {
+							console.error(&quot;Missing property 'events'.&quot;);
+						}
+
+						var events = $.extend(true, [], payload['fullCalendar']['events']);
+						for (var i in events) {
+							var event = events[i];
+							var id = event.id;
+							event.id = this.context.parseId(id, this.eventSource.id);
+							event.localId = id;
+						}
+
+						callback(events);
+					}, {context: this.context, eventSource: this.eventSource}));
+				}, {context: this, eventSource: eventSource});
+
+				if ('editable' in eventSource) {
+					editable = true;
+				}
+
+				delete eventSource['link'];</text>
+      </register>
+      <register name="5" type="4">
         <text>/*
 			var id = event.id;
 			event.id = this.parseId(id, eventSourceId);
@@ -6463,13 +6504,13 @@
 			this.$el.fullCalendar('renderEvent', event);
 			*/</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>if (this._findEvent(eventSourceId, event.id)) {
 				this.$el.fullCalendar('refetchEvents');
 				return;
 			}</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>updateLinks: function (links) {
 			$.each(links, $.proxy(function (name) {
 				if (!this.links.hasOwnProperty(name)) {
@@ -6481,34 +6522,22 @@
 			}, this));
 		},</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJZHVtcCgnYWFhYScpOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>It is possible that the address is
 incorrect, or that the page no longer exists. Please use a search engine to find
 what you are looking for.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CWVycm9yUHJlc2VudGVyOiBFcnJvcgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJHRvRGF0ZSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJZHVtcCgkbWF0Y2hlc1sndGltZSddKTsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJZHVtcCgkZGF5cyk7Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>216</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>options</last-search>
+      <last-search>editable</last-search>
       <last-offset />
-      <last-pattern>options</last-pattern>
+      <last-pattern>editable</last-pattern>
       <last-replace>this.$el</last-replace>
       <last-substitute>this.$element</last-substitute>
       <last-dir>1</last-dir>
@@ -6516,7 +6545,6 @@ what you are looking for.</text>
     </search>
     <history>
       <history-search>
-        <entry>refetch</entry>
         <entry>request</entry>
         <entry>send</entry>
         <entry>render</entry>
@@ -6536,9 +6564,9 @@ what you are looking for.</text>
         <entry>blockedHours</entry>
         <entry>parseBlockedHours</entry>
         <entry>options</entry>
+        <entry>editable</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/columnEndAt/columnTo</entry>
         <entry>%scolumnMap/fieldMap/g</entry>
         <entry>%s/columnMap/fieldMap/g</entry>
         <entry>%s/eventSourceName/eventSourceId/g</entry>
@@ -6558,6 +6586,7 @@ what you are looking for.</text>
         <entry>126</entry>
         <entry>407</entry>
         <entry>216</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
