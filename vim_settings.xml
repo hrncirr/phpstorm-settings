@@ -4220,12 +4220,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" timestamp="1512137189758">
-        <mark key="'" line="79" column="17" />
-        <mark key="[" line="24" column="19" />
-        <mark key="]" line="33" column="5" />
-        <mark key="." line="33" column="5" />
-        <mark key="^" line="33" column="5" />
+      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" timestamp="1512553682098">
+        <mark key="'" line="356" column="96" />
+        <mark key="[" line="181" column="12" />
+        <mark key="]" line="181" column="12" />
+        <mark key="." line="181" column="12" />
+        <mark key="^" line="175" column="12" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Compiler/Filters/MediaLightboxFilter.php" timestamp="1496128421231">
         <mark key="[" line="8" column="0" />
@@ -4842,10 +4842,10 @@
         <mark key="]" line="18" column="4" />
         <mark key="." line="18" column="4" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsForm/AccessRightsForm.php" timestamp="1511955424166">
-        <mark key="[" line="183" column="36" />
-        <mark key="]" line="183" column="36" />
-        <mark key="." line="183" column="36" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsForm/AccessRightsForm.php" timestamp="1512552712645">
+        <mark key="[" line="169" column="29" />
+        <mark key="]" line="169" column="0" />
+        <mark key="." line="169" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/forms/src/DI/NextrasDateTimeExtension.php" timestamp="1501139160598">
         <mark key="[" line="31" column="75" />
@@ -5799,8 +5799,8 @@
         <mark key="]" line="63" column="4" />
         <mark key="." line="63" column="4" />
       </file>
-      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsForm/templates/AccessRightsForm.latte" timestamp="1511958359383">
-        <mark key="[" line="33" column="33" />
+      <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsForm/templates/AccessRightsForm.latte" timestamp="1512552271048">
+        <mark key="[" line="47" column="12" />
         <mark key="]" line="33" column="33" />
         <mark key="." line="33" column="33" />
       </file>
@@ -6222,7 +6222,6 @@
         <mark key="]" line="16" column="36" />
         <mark key="." line="16" column="36" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/js/news.js" timestamp="1512374930479" />
       <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Mapping/Annotations/Template.php" timestamp="1476706291544">
         <mark key="[" line="18" column="31" />
         <mark key="]" line="18" column="31" />
@@ -6325,15 +6324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="213" column="20" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="82" column="39" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="279" column="27" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="38" column="0" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="42" column="12" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="280" column="29" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="242" column="0" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="250" column="21" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="324" column="4" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="383" column="0" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="233" column="11" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="414" column="19" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
@@ -6425,74 +6415,100 @@
       <jump line="104" column="86" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
       <jump line="319" column="9" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
       <jump line="320" column="35" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
+      <jump line="176" column="64" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
+      <jump line="191" column="60" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
+      <jump line="273" column="16" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
+      <jump line="280" column="16" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
+      <jump line="283" column="32" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
+      <jump line="344" column="60" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
+      <jump line="348" column="93" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
+      <jump line="352" column="96" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
+      <jump line="356" column="96" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>It is possible that the address is
-incorrect, or that the page no longer exists. Please use a search engine to find
-what you are looking for.</text>
+        <text>/*
+			var id = event.id;
+			event.id = this.parseId(id, eventSourceId);
+			event.localId = id;
+			event.source = eventSource;
+
+			if (!event.hasOwnProperty('editable')) {
+				event.editable = true;
+			}
+
+			this.$el.fullCalendar('renderEvent', event);
+			*/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VGhlIHBhZ2UgeW91IHJlcXVlc3RlZCBjb3VsZCBub3QgYmUgZm91bmQuIA==</text>
+        <text>, event</text>
       </register>
       <register name="/" type="4">
-        <text>parseBlockedHours</text>
+        <text>options</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
+        <text>/*
+			var id = event.id;
+			event.id = this.parseId(id, eventSourceId);
+			event.localId = id;
+			event.source = eventSource;
+
+			if (!event.hasOwnProperty('editable')) {
+				event.editable = true;
+			}
+
+			this.$el.fullCalendar('renderEvent', event);
+			*/</text>
+      </register>
+      <register name="2" type="4">
+        <text>if (this._findEvent(eventSourceId, event.id)) {
+				this.$el.fullCalendar('refetchEvents');
+				return;
+			}</text>
+      </register>
+      <register name="3" type="4">
+        <text>updateLinks: function (links) {
+			$.each(links, $.proxy(function (name) {
+				if (!this.links.hasOwnProperty(name)) {
+					console.error('Unknown link name &quot;' + name + '&quot;.');
+					return;
+				}
+
+				this.links[name] = links[name];
+			}, this));
+		},</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJZHVtcCgnYWFhYScpOwo=</text>
+      </register>
+      <register name="5" type="4">
         <text>It is possible that the address is
 incorrect, or that the page no longer exists. Please use a search engine to find
 what you are looking for.</text>
       </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CWVycm9yUHJlc2VudGVyOiBFcnJvcgo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCWR1bXAoJHRvRGF0ZSk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJZHVtcCgkbWF0Y2hlc1sndGltZSddKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJZHVtcCgkZGF5cyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJZHVtcCgkbWF0Y2hlcyk7Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>if (isset($matches['toDate'])) {
-				$toDate = new DateTime($matches['toDate']);
-			}</text>
-      </register>
-      <register name="8" type="4">
-        <text>'every Tuesday': '*',
-		'every Wednesday': '14:30-15:00,20' #'12:30-15:00,20',
-		'every Thursday': '07:00-12:00,20',
-		'every Friday': '*',
-		'2017-10-11': '*',
-		'2017-10-18': '*',
-		'2017-10-25': '*',
-		'2017-11-10': '*',
-		'2017-11-24': '*',
-		'2017-12-01': '*',
-		'2017-12-08': '*',
-		'2017-12-15': '*',
-		'2017-12-22': '*',
-		'2017-12-29': '*'</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CWJsb2NrZWRIb3VyczogWydldmVyeSB3ZWRuZXNkYXknIDogJyonXQo=</text>
+        <text encoding="base64">CQkJZHVtcCgkZGF5cyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>216</text>
       </register>
     </registers>
     <search>
-      <last-search>parseBlockedHours</last-search>
+      <last-search>options</last-search>
       <last-offset />
-      <last-pattern>parseBlockedHours</last-pattern>
+      <last-pattern>options</last-pattern>
       <last-replace>this.$el</last-replace>
       <last-substitute>this.$element</last-substitute>
       <last-dir>1</last-dir>
@@ -6500,7 +6516,6 @@ what you are looking for.</text>
     </search>
     <history>
       <history-search>
-        <entry>redraw</entry>
         <entry>refetch</entry>
         <entry>request</entry>
         <entry>send</entry>
@@ -6520,6 +6535,7 @@ what you are looking for.</text>
         <entry>every</entry>
         <entry>blockedHours</entry>
         <entry>parseBlockedHours</entry>
+        <entry>options</entry>
       </history-search>
       <history-cmd>
         <entry>%s/columnEndAt/columnTo</entry>
