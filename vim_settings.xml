@@ -288,10 +288,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Calendar/Presenters/templates/Calendar/default.latte" timestamp="1512558011268">
-        <mark key="[" line="14" column="42" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Calendar/Presenters/templates/Calendar/default.latte" timestamp="1512571433784">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Forms/Controls/SubjectNameInput.php" timestamp="1504184435168">
         <mark key="[" line="20" column="41" />
@@ -3911,7 +3911,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512570123374">
+      <file name="/Dummy.txt" timestamp="1512571592421">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -5376,10 +5376,10 @@
         <mark key="]" line="21" column="38" />
         <mark key="." line="21" column="38" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Calendar/Presenters/CalendarPresenter.php" timestamp="1512566763723">
-        <mark key="[" line="71" column="4" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Calendar/Presenters/CalendarPresenter.php" timestamp="1512570148119">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/src/Navigation/Helpers.php" timestamp="1500886576079">
         <mark key="[" line="23" column="37" />
@@ -6405,10 +6405,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJZHVtcCgkZGVsdGEpOwo=</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coY2hlY2tlZEVsKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KCEkZXZlbnRTb3VyY2UtPmlzRWRpdGFibGUoKSAmJiAhJGV2ZW50LT5pc0VkaXRhYmxlKCkpIHx8ICEkZXZlbnQtPmlzRWRpdGFibGUoKQ==</text>
+        <text>$(this).iCheck('check');</text>
       </register>
       <register name="/" type="4">
         <text>allDay</text>
@@ -6417,31 +6417,38 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJZHVtcCgkZGVsdGEpOwo=</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coY2hlY2tlZEVsKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJZHVtcCgkZGVsdGEpOwo=</text>
+        <text encoding="base64">CQkJCXJldHVybjsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJZHVtcCgnb2snKTsK</text>
+      <register name="3" type="4">
+        <text>if ($(this).data('oneChecked')) {
+				$(this).removeData('oneChecked');
+				$(this).iCheck('check');
+				return;
+			}</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkkYWxsRGF5ID0gJGFsbERheSA9PT0gJ3RydWUnOwo=</text>
+      <register name="4" type="4">
+        <text>$(this).data('oneChecked', true);
+				$(this).iCheck('toggle');</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">LyoKCQlpZiAoJGV2ZW50LT5pc0FsbERheSgpICYmICEkYWxsRGF5KSB7CgkJCS8vJGVuZCA9IChjbG9uZSAkZW5kKS0+bW9kaWZ5KCcrMiBob3VycycpOwoJCX0gZWxzZSB7CgkJCWlmICghJGV2ZW50LT5pc0FsbERheSgpICYmICRhbGxEYXkpIHsKCQkJCWR1bXAoJ29rJyk7CgkJCQkvLyRzdGFydC0+c2V0VGltZSgwLCAwLCAwKTsKCQkJCS8vJGVuZCA9IChjbG9uZSAkc3RhcnQpLT5tb2RpZnkoJysxIGRheScpOwoJCQl9IGVsc2UgewoJKi8KCQkKCQkvL30KCQkvL30=</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCQodGhpcykuZGF0YSgnb25lQ2hlY2tlZCcpKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">bGlzdCgkZGVsdGEsICRzdWIpID0gJHRoaXMtPnBhcnNlRGVsdGEoJGRlbHRhKTsKCQkJCWlmICgkc3ViKSB7CgkJCQkJJGVuZC0+c3ViKCRkZWx0YSk7CgkJCQl9IGVsc2UgewoJCQkJCSRlbmQtPmFkZCgkZGVsdGEpOwoJCQkJfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCQodGhpcykuZGF0YSgnb25lQ2hlY2tlZCcpKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCQlkdW1wKCRkZWx0YSk7Cg==</text>
+      <register name="7" type="4">
+        <text>console.log($(this).data('oneChecked'));
+				$(this).removeData('oneChecked');
+				console.log($(this).data('oneChecked'));</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQlkdW1wKCRkZWx0YSk7Cg==</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCduZSBuZScpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldEh0bWxJZCgpCgl7CgkJcmV0dXJuICR0aGlzLT5nZXRVbmlxdWVJZCgpOwoJfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJLy9jb25zb2xlLmxvZyhlLnRhcmdldC5jaGVja2VkKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
