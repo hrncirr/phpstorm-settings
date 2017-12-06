@@ -288,8 +288,8 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Calendar/Presenters/templates/Calendar/default.latte" timestamp="1512556106362">
-        <mark key="[" line="14" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Calendar/Presenters/templates/Calendar/default.latte" timestamp="1512558011268">
+        <mark key="[" line="14" column="42" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
@@ -4201,12 +4201,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" timestamp="1512554741460">
-        <mark key="'" line="56" column="29" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="46" column="46" />
-        <mark key="." line="46" column="46" />
-        <mark key="^" line="46" column="46" />
+      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" timestamp="1512558264347">
+        <mark key="'" line="40" column="32" />
+        <mark key="[" line="96" column="20" />
+        <mark key="]" line="40" column="32" />
+        <mark key="." line="40" column="32" />
+        <mark key="^" line="40" column="32" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Compiler/Filters/MediaLightboxFilter.php" timestamp="1496128421231">
         <mark key="[" line="8" column="0" />
@@ -5372,11 +5372,11 @@
         <mark key="]" line="21" column="38" />
         <mark key="." line="21" column="38" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Calendar/Presenters/CalendarPresenter.php" timestamp="1512380676269">
+      <file name="/home/www/html/dv/adera/Modules/Calendar/Presenters/CalendarPresenter.php" timestamp="1512558198190">
         <mark key="'" line="64" column="8" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
+        <mark key="[" line="87" column="65" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/src/Navigation/Helpers.php" timestamp="1500886576079">
         <mark key="[" line="23" column="37" />
@@ -6369,7 +6369,6 @@
       <jump line="166" column="17" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
       <jump line="33" column="5" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
       <jump line="304" column="36" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
-      <jump line="40" column="36" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
       <jump line="79" column="17" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
       <jump line="77" column="41" filename="/home/www/html/dv/adera/Modules/Calendar/Presenters/CalendarPresenter.php" />
       <jump line="57" column="8" filename="/home/www/html/dv/adera/Modules/Calendar/Presenters/CalendarPresenter.php" />
@@ -6399,95 +6398,58 @@
       <jump line="56" column="29" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
       <jump line="256" column="29" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="222" column="23" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
+      <jump line="40" column="32" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCWFhYWEK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZWRpdGFibGUgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>Factory</text>
+        <text encoding="base64">ZWRpdGFibGUgJiYg</text>
       </register>
       <register name="/" type="4">
-        <text>render</text>
+        <text>editable</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCWFhYWEK</text>
+        <text encoding="base64">CQkJCXZhciBlZGl0YWJsZSA9IGZhbHNlOwo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">PGRpdiBkYXRhLXByb3ZpZGU9ImZ1bGwtY2FsZW5kYXItY29udHJvbCIKCQkJCSAgICAgZGF0YS1mdWxsLWNhbGVuZGFyPSJ7JGNvbnRyb2xbJ2NhbGVuZGFyJ10tPmdldEh0bWxJZCgpfSI+PC9kaXY+</text>
+        <text>if ('editable' in eventSource) {
+						editable = true;
+					}</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5yZXF1ZXN0KSB7CgkJCSR0aGlzLT5zZW5kUmVxdWVzdCgpOwoJCQkKCQkJcmV0dXJuOwoJCX0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJaWYgKCR1c2VyID09PSAxKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPnRlbXBsYXRlID0gJHZhbHVlOwo=</text>
+        <text encoding="base64">CQkJCWFhYWEK</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">aWYgKCEkdmFsdWUgaW5zdGFuY2VvZiBJVGVtcGxhdGUgJiYgJHZhbHVlICE9PSBudWxsKSB7CgkJCQkkY2xhc3MyID0gZ2V0X2NsYXNzKCR2YWx1ZSk7CgkJCQkkY2xhc3MgPSBnZXRfY2xhc3MoJHRoaXMpOwoJCQkJdGhyb3cgbmV3IE5ldHRlXFVuZXhwZWN0ZWRWYWx1ZUV4Y2VwdGlvbigiT2JqZWN0IHJldHVybmVkIGJ5ICRjbGFzczo6Y3JlYXRlVGVtcGxhdGUoKSBtdXN0IGJlIGluc3RhbmNlIG9mIE5ldHRlXFxBcHBsaWNhdGlvblxcVUlcXElUZW1wbGF0ZSwgJyRjbGFzczInIGdpdmVuLiIpOwoJCQl9</text>
+        <text encoding="base64">PGRpdiBkYXRhLXByb3ZpZGU9ImZ1bGwtY2FsZW5kYXItY29udHJvbCIKCQkJCSAgICAgZGF0YS1mdWxsLWNhbGVuZGFyPSJ7JGNvbnRyb2xbJ2NhbGVuZGFyJ10tPmdldEh0bWxJZCgpfSI+PC9kaXY+</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdvaycpOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">aWYgKCR0aGlzLT5yZXF1ZXN0KSB7CgkJCSR0aGlzLT5zZW5kUmVxdWVzdCgpOwoJCQkKCQkJcmV0dXJuOwoJCX0=</text>
       </register>
-      <register name="7" type="4">
-        <text>if ('editable' in eventSource) {
-					editable = true;
-				}</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJJHRoaXMtPnRlbXBsYXRlID0gJHZhbHVlOwo=</text>
       </register>
       <register name="8" type="4">
-        <text>var eventSource = this.$el.data('fullCalendar').options.eventSources.filter(function (eventSource) {
-				return eventSource.id === eventSourceId;
-			})[0];
-
-			this.$el.fullCalendar('removeEventSource', eventSource);
-			this.$el.fullCalendar('addEventSource', eventSource);</text>
+        <text encoding="base64">aWYgKCEkdmFsdWUgaW5zdGFuY2VvZiBJVGVtcGxhdGUgJiYgJHZhbHVlICE9PSBudWxsKSB7CgkJCQkkY2xhc3MyID0gZ2V0X2NsYXNzKCR2YWx1ZSk7CgkJCQkkY2xhc3MgPSBnZXRfY2xhc3MoJHRoaXMpOwoJCQkJdGhyb3cgbmV3IE5ldHRlXFVuZXhwZWN0ZWRWYWx1ZUV4Y2VwdGlvbigiT2JqZWN0IHJldHVybmVkIGJ5ICRjbGFzczo6Y3JlYXRlVGVtcGxhdGUoKSBtdXN0IGJlIGluc3RhbmNlIG9mIE5ldHRlXFxBcHBsaWNhdGlvblxcVUlcXElUZW1wbGF0ZSwgJyRjbGFzczInIGdpdmVuLiIpOwoJCQl9</text>
       </register>
-      <register name="9" type="4">
-        <text>if (('googleCalendarId' in eventSource)) {
-					continue;
-				}
-
-				eventSource['events'] = $.proxy(function (start, end, timezone, callback) {
-					this.context._ajax(this.context.links['eventSources'][this.eventSource.id], {
-						start: start.format('YYYY-MM-DD'),
-						end: end.format('YYYY-MM-DD')
-					}, false).done($.proxy(function (payload) {
-						if (!this.context._processResponse(payload)) {
-							return;
-						}
-
-						if (!payload['fullCalendar'].hasOwnProperty('events')) {
-							console.error(&quot;Missing property 'events'.&quot;);
-						}
-
-						var events = $.extend(true, [], payload['fullCalendar']['events']);
-						for (var i in events) {
-							var event = events[i];
-							var id = event.id;
-							event.id = this.context.parseId(id, this.eventSource.id);
-							event.localId = id;
-						}
-
-						callback(events);
-					}, {context: this.context, eventSource: this.eventSource}));
-				}, {context: this, eventSource: eventSource});
-
-				if ('editable' in eventSource) {
-					editable = true;
-				}
-
-				delete eventSource['link'];</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdvaycpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>render</last-search>
+      <last-search>editable</last-search>
       <last-offset />
-      <last-pattern>render</last-pattern>
+      <last-pattern>editable</last-pattern>
       <last-replace>this.$el</last-replace>
       <last-substitute>this.$element</last-substitute>
       <last-dir>1</last-dir>
@@ -6513,8 +6475,8 @@
         <entry>blockedHours</entry>
         <entry>parseBlockedHours</entry>
         <entry>options</entry>
-        <entry>editable</entry>
         <entry>render</entry>
+        <entry>editable</entry>
       </history-search>
       <history-cmd>
         <entry>%scolumnMap/fieldMap/g</entry>
