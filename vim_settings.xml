@@ -283,10 +283,10 @@
         <mark key="]" line="24" column="4" />
         <mark key="." line="24" column="4" />
       </file>
-      <file name="/home/www/vendor/hrncirr/media/src/Utils/FileLinkGenerator.php" timestamp="1507126000013">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="/home/www/vendor/hrncirr/media/src/Utils/FileLinkGenerator.php" timestamp="1512649395072">
+        <mark key="[" line="58" column="37" />
+        <mark key="]" line="50" column="4" />
+        <mark key="." line="50" column="4" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Calendar/Presenters/templates/Calendar/default.latte" timestamp="1512639748919">
         <mark key="[" line="40" column="25" />
@@ -2660,6 +2660,9 @@
         <mark key="]" line="22" column="4" />
         <mark key="." line="22" column="4" />
       </file>
+      <file name="/home/www/vendor/hrncirr/cmp/src/DI/CmpExtension.php" timestamp="1512649522834">
+        <mark key="[" line="208" column="56" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Documents/DocumentFacade.php" timestamp="1495784456413">
         <mark key="[" line="303" column="45" />
         <mark key="]" line="305" column="0" />
@@ -3903,7 +3906,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512648436744">
+      <file name="/Dummy.txt" timestamp="1512649466928">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -4613,6 +4616,9 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="/home/www/vendor/hrncirr/cmp/src/Compiler/Filters/MediaFileFilter.php" timestamp="1512649341400">
+        <mark key="'" line="130" column="24" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/Note/Components/NotesControl/NotesControl.latte" timestamp="1506946115638">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="18" column="16" />
@@ -5310,6 +5316,11 @@
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
+      </file>
+      <file name="/home/www/vendor/hrncirr/media/src/Utils/ImageLinkGenerator.php" timestamp="1512649139172">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="4" />
+        <mark key="." line="51" column="4" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/CalendarControl/IFullCalendarControlFactory.php" timestamp="1512639177857">
         <mark key="[" line="14" column="11" />
@@ -6289,8 +6300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="32" filename="/home/www/lib/vendor/nette/application/src/Application/UI/Control.php" />
-      <jump line="29" column="13" filename="/home/www/lib/vendor/nette/application/src/Application/UI/Control.php" />
       <jump line="109" column="19" filename="/home/www/lib/vendor/nette/application/src/Application/UI/Control.php" />
       <jump line="112" column="19" filename="/home/www/lib/vendor/nette/application/src/Application/UI/Control.php" />
       <jump line="115" column="19" filename="/home/www/lib/vendor/nette/application/src/Application/UI/Control.php" />
@@ -6389,59 +6398,77 @@
       <jump line="323" column="15" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="324" column="39" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="72" column="13" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
+      <jump line="92" column="17" filename="/home/www/vendor/hrncirr/cmp/src/Compiler/Filters/MediaFileFilter.php" />
+      <jump line="130" column="24" filename="/home/www/vendor/hrncirr/cmp/src/Compiler/Filters/MediaFileFilter.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=== nul</text>
+        <text>/**
+	 * @param             $image
+	 * @param string      $format
+	 * @param string|null $formatParams
+	 *
+	 * @return string
+	 */</text>
       </register>
       <register name="-" type="4">
         <text>=== nul</text>
       </register>
       <register name="/" type="4">
-        <text>selectedDate</text>
+        <text>gener</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
+        <text>/**
+	 * @param             $image
+	 * @param string      $format
+	 * @param string|null $formatParams
+	 *
+	 * @return string
+	 */</text>
+      </register>
+      <register name="2" type="4">
+        <text>/**
+	 * @param string $file
+	 *
+	 * @return string
+	 */</text>
+      </register>
+      <register name="3" type="4">
         <text>dump($forceDownload);
 			exit;</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkJZHVtcCgkZm9yY2VEb3dubG9hZCk7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">JGJ1aWxkZXItPmFkZERlZmluaXRpb24oJHRoaXMtPnByZWZpeCgnY2FsZW5kYXJDb250cm9sJykpCgkJCS0+c2V0SW1wbGVtZW50KElDYWxlbmRhckNvbnRyb2xGYWN0b3J5OjpjbGFzcykKCQkJLT5zZXRGYWN0b3J5KENhbGVuZGFyQ29udHJvbDo6Y2xhc3MpOw==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">cHJvdGVjdGVkIGZ1bmN0aW9uIGNyZWF0ZUNvbXBvbmVudENhbGVuZGFyKElDYWxlbmRhckNvbnRyb2xGYWN0b3J5ICRmYWN0b3J5KTogQ2FsZW5kYXJDb250cm9sCgl7CgkJcmV0dXJuICRmYWN0b3J5LT5jcmVhdGUoJHRoaXNbJ2Z1bGxDYWxlbmRhciddKTsKCX0=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">JGV2ZW50ID0gJHRoaXMtPmV2ZW50OwoJCWlmICgkZXZlbnQgIT09IG51bGwgJiYgJGV2ZW50LT5pZCA9PT0gbnVsbCkgewoJCQkkZXZlbnQgPSBjbG9uZSAkdGhpcy0+ZXZlbnQ7CgkJCSR0aGlzLT5ldmVudCA9IG51bGw7CgkJfQoJCQoJCSRmb3JtID0gJGZhY3RvcnktPmNyZWF0ZSgkZXZlbnQpOwoJCQoJCSRmb3JtLT5vblNhdmVbXSA9IGZ1bmN0aW9uICgpIHsKCQkJJHRoaXMtPmV2ZW50ID0gbnVsbDsKCQkJJHRoaXNbJ2NhbGVuZGFyJ10tPnJlZmV0Y2hFdmVudHMoKTsKCQl9OwoJCQoJCXJldHVybiAkZm9ybTs=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>/**
 	 * @var Template
 	 */
 	private $controlTemplate;</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHJlbmRlckNvbnRyb2woKQoJewoJCSR0aGlzLT5nZXRDb250cm9sVGVtcGxhdGUoKS0+cmVuZGVyKF9fRElSX18gLiAnL3RlbXBsYXRlcy9Db250cm9sLmxhdHRlJyk7Cgl9</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIFRlbXBsYXRlCgkgKgoJICogQHRocm93cyBVbmV4cGVjdGVkVmFsdWVFeGNlcHRpb24KCSAqLwoJcHVibGljIGZ1bmN0aW9uIGdldENvbnRyb2xUZW1wbGF0ZSgpOiBUZW1wbGF0ZQoJewoJCWlmICgkdGhpcy0+Y29udHJvbFRlbXBsYXRlID09PSBudWxsKSB7CgkJCS8qKiBAdmFyIFRlbXBsYXRlICR2YWx1ZSAqLwoJCQkkdmFsdWUgPSAkdGhpcy0+Y3JlYXRlVGVtcGxhdGUoKTsKCQkJaWYgKCEkdmFsdWUgaW5zdGFuY2VvZiBJVGVtcGxhdGUgJiYgJHZhbHVlICE9PSBudWxsKSB7CgkJCQl0aHJvdyBuZXcgVW5leHBlY3RlZFZhbHVlRXhjZXB0aW9uKHNwcmludGYoCgkJCQkJIk9iamVjdCByZXR1cm5lZCBieSAlczo6Y3JlYXRlVGVtcGxhdGUoKSBtdXN0IGJlIGluc3RhbmNlIG9mICVzLCAnJXMnIGdpdmVuLiIsCgkJCQkJZ2V0X2NsYXNzKCR2YWx1ZSksIElUZW1wbGF0ZTo6Y2xhc3MsIGdldF9jbGFzcygkdGhpcykpKTsKCQkJfQoJCQkKCQkJJHRoaXMtPmNvbnRyb2xUZW1wbGF0ZSA9ICR2YWx1ZTsKCQl9CgkJCgkJcmV0dXJuICR0aGlzLT5jb250cm9sVGVtcGxhdGU7Cgl9</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXFV0aWxzXEpzb247Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>selectedDate</last-search>
+      <last-search>gener</last-search>
       <last-offset />
-      <last-pattern>selectedDate</last-pattern>
+      <last-pattern>gener</last-pattern>
       <last-replace>this.$el</last-replace>
       <last-substitute>this.$element</last-substitute>
       <last-dir>1</last-dir>
@@ -6449,7 +6476,6 @@
     </search>
     <history>
       <history-search>
-        <entry>element</entry>
         <entry>this.element</entry>
         <entry>:%s</entry>
         <entry>this.$element</entry>
@@ -6469,6 +6495,7 @@
         <entry>controlTemplate</entry>
         <entry>render</entry>
         <entry>selectedDate</entry>
+        <entry>gener</entry>
       </history-search>
       <history-cmd>
         <entry>%scolumnMap/fieldMap/g</entry>
