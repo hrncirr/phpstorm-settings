@@ -2662,11 +2662,11 @@
         <mark key="]" line="22" column="4" />
         <mark key="." line="22" column="4" />
       </file>
-      <file name="/home/www/vendor/hrncirr/cmp/src/DI/CmpExtension.php" timestamp="1512655132198">
-        <mark key="[" line="208" column="48" />
-        <mark key="]" line="208" column="47" />
-        <mark key="^" line="208" column="47" />
-        <mark key="." line="208" column="47" />
+      <file name="/home/www/vendor/hrncirr/cmp/src/DI/CmpExtension.php" timestamp="1512655481079">
+        <mark key="[" line="107" column="4" />
+        <mark key="]" line="107" column="4" />
+        <mark key="^" line="209" column="47" />
+        <mark key="." line="107" column="4" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/DocumentFacade.php" timestamp="1495784456413">
         <mark key="[" line="303" column="45" />
@@ -3911,7 +3911,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512655272944">
+      <file name="/Dummy.txt" timestamp="1512655551083">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -6418,8 +6418,12 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dump($forceDownload);
-					exit;</text>
+        <text>/**
+	 * @param $name
+	 * @param $type
+	 *
+	 * @throws AssertionException
+	 */</text>
       </register>
       <register name="-" type="4">
         <text>if ($value === null)</text>
@@ -6431,25 +6435,33 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
+        <text>/**
+	 * @param $name
+	 * @param $type
+	 *
+	 * @throws AssertionException
+	 */</text>
+      </register>
+      <register name="2" type="4">
         <text>dump($forceDownload);
 					exit;</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ZHVtcChIZWxwZXJzOjpnZW5lcmF0ZVJlbmRlcmVyUGhwKHNwcmludGYoIi0+eyR0eXBlfUxpbmsoJXMpIiwgaW1wbG9kZSgnLCcsICRwYXJhbXMpKSkpOwoJCWV4aXQ7</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkJCWR1bXAoJHZhbHVlKTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CWR1bXAoJHBhcmFtcyk7CgkJZXhpdDs=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRwYXJhbWV0ZXJzKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBkdW1wKCRwYXJhbWV0ZXJzKTsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkdW1wKCRwYXJhbWV0ZXJzKTsK</text>
+      </register>
+      <register name="8" type="4">
         <text>$parameters['file'] = $id;
 
             if ($forceDownload !== null) {
@@ -6458,11 +6470,8 @@
 
             dump($parameters);</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">JGZvcmNlRG93bmxvYWQgPSBudWxsOwogICAgICAgICAgICAgICAgaWYgKGlzc2V0KCR0YWctPmF0dHJpYnV0ZXMtPnsnZGF0YS1kb3dubG9hZCd9KSAmJiAkdGFnLT5hdHRyaWJ1dGVzLT57J2RhdGEtZG93bmxvYWQnfSA9PT0gJ3knKSB7CiAgICAgICAgICAgICAgICAgICAgJGZvcmNlRG93bmxvYWQgPSB0cnVlOwogICAgICAgICAgICAgICAgfQ==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">IGR1bXAoJHBhcmFtZXRlcnMpOwoKICAgICAgICAgICAgaWYgKCRmb3JjZURvd25sb2FkICE9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAkcGFyYW1ldGVyc1snZm9yY2VEb3dubG9hZCddID0gJGZvcmNlRG93bmxvYWQ7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGR1bXAoJHBhcmFtZXRlcnMpOw==</text>
+        <text encoding="base64">JGZvcmNlRG93bmxvYWQgPSBudWxsOwogICAgICAgICAgICAgICAgaWYgKGlzc2V0KCR0YWctPmF0dHJpYnV0ZXMtPnsnZGF0YS1kb3dubG9hZCd9KSAmJiAkdGFnLT5hdHRyaWJ1dGVzLT57J2RhdGEtZG93bmxvYWQnfSA9PT0gJ3knKSB7CiAgICAgICAgICAgICAgICAgICAgJGZvcmNlRG93bmxvYWQgPSB0cnVlOwogICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
