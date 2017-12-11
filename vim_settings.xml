@@ -712,10 +712,11 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/media/src/Storages/TImageFormat.php" timestamp="1508224163008">
-        <mark key="[" line="169" column="5" />
-        <mark key="]" line="213" column="0" />
-        <mark key="." line="213" column="0" />
+      <file name="/home/www/vendor/hrncirr/media/src/Storages/TImageFormat.php" timestamp="1513000669643">
+        <mark key="[" line="304" column="12" />
+        <mark key="]" line="302" column="36" />
+        <mark key="." line="302" column="36" />
+        <mark key="^" line="302" column="36" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/config/client-side.neon" timestamp="1511956546116">
         <mark key="[" line="55" column="34" />
@@ -1743,13 +1744,6 @@
         <mark key="]" line="977" column="0" />
         <mark key="." line="977" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" timestamp="1512640190289">
-        <mark key="'" line="70" column="13" />
-        <mark key="[" line="122" column="15" />
-        <mark key="]" line="68" column="25" />
-        <mark key="." line="68" column="25" />
-        <mark key="^" line="68" column="25" />
-      </file>
       <file name="/home/www/vendor/hrncirr/media/src/DI/FileExtension.php" timestamp="1512647465011">
         <mark key="[" line="28" column="51" />
         <mark key="]" line="88" column="0" />
@@ -2269,6 +2263,11 @@
         <mark key="[" line="13" column="18" />
         <mark key="]" line="140" column="0" />
         <mark key="." line="140" column="0" />
+      </file>
+      <file name="/home/www/vendor/hrncirr/media/src/Latte/MediaProvider.php" timestamp="1513000186319">
+        <mark key="[" line="49" column="4" />
+        <mark key="]" line="49" column="4" />
+        <mark key="." line="49" column="4" />
       </file>
       <file name="/home/www/vendor/nnb/application/src/UI/Error4xxPresenter.php" timestamp="1475577612295">
         <mark key="[" line="3" column="0" />
@@ -3707,6 +3706,11 @@
         <mark key="]" line="39" column="4" />
         <mark key="." line="39" column="4" />
       </file>
+      <file name="/home/www/html/dv/adera/src/User/AdminModule/Components/UserForm/UserForm.latte" timestamp="1513000369512">
+        <mark key="[" line="12" column="79" />
+        <mark key="]" line="12" column="79" />
+        <mark key="." line="12" column="79" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/BaseItem.php" timestamp="1507551459052">
         <mark key="[" line="90" column="25" />
         <mark key="]" line="90" column="0" />
@@ -3927,7 +3931,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512994869940">
+      <file name="/Dummy.txt" timestamp="1513001060548">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -5209,10 +5213,10 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/src/User/AdminModule/Components/UserForm/UserForm.php" timestamp="1512998074571">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="83" column="8" />
-        <mark key="." line="83" column="8" />
+      <file name="/home/www/html/dv/adera/src/User/AdminModule/Components/UserForm/UserForm.php" timestamp="1512999527133">
+        <mark key="[" line="66" column="19" />
+        <mark key="]" line="66" column="19" />
+        <mark key="." line="66" column="19" />
       </file>
       <file name="/home/www/vendor/hrncirr/media/src/Model/File.php" timestamp="1507128330772">
         <mark key="[" line="88" column="27" />
@@ -6433,12 +6437,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/**
-	 * @return SessionSection
-	 */</text>
+        <text>alt=&quot;avatar&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3RyaW5nczo6bG93ZXIocGF0aGluZm8oJHRoaXMtPm5hbWUsIFBBVEhJTkZPX0VYVEVOU0lPTikpOw==</text>
+        <text>alt=&quot;avatar&quot;</text>
       </register>
       <register name="/" type="4">
         <text>_save</text>
@@ -6448,30 +6450,40 @@
       </register>
       <register name="1" type="4">
         <text>/**
+	 * @param string     $image
+	 * @param string     $format
+	 * @param array|null $formatParams
+	 *
+	 * @return string
+	 */</text>
+      </register>
+      <register name="2" type="4">
+        <text>/**
+	 * @param string $file
+	 *
+	 * @return string
+	 */</text>
+      </register>
+      <register name="3" type="4">
+        <text>/**
 	 * @return SessionSection
 	 */</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkkZWxmaW5kZXJGaWxlLT5zZXRNaW1lKEhlbHBlcnM6OmZpeE1pbWUoJGVsZmluZGVyRmlsZS0+Z2V0TWltZSgpLCAkZWxmaW5kZXJGaWxlLT5nZXRFeHQoKSkpOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAqIAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAqIE1lZGlhTGlzdGVuZXIgY29uc3RydWN0b3IuCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>/**
 	 * @param string $elFinderFileClassName
 	 * @param string $fileClassName
 	 * @param string $imageClassName
 	 */</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCQkkZWxmaW5kZXJGaWxlLT5nZXRFeHQoKSkpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCSRlbGZpbmRlckZpbGUtPnNldE1pbWUoXEhybmNpcnJcRWxGaW5kZXJcVXRpbHNcSGVscGVyczo6Zml4TWltZSgkZWxmaW5kZXJGaWxlLT5nZXRNaW1lKCksCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">CQkJCQkkZWxmaW5kZXJGaWxlLT5nZXRFeHQoKSkpOwo=</text>
