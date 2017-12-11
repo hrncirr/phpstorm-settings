@@ -288,11 +288,11 @@
         <mark key="]" line="24" column="4" />
         <mark key="." line="24" column="4" />
       </file>
-      <file name="/home/www/vendor/hrncirr/media/src/Utils/FileLinkGenerator.php" timestamp="1512653410165">
-        <mark key="[" line="65" column="29" />
-        <mark key="]" line="62" column="27" />
-        <mark key="." line="62" column="27" />
-        <mark key="^" line="62" column="27" />
+      <file name="/home/www/vendor/hrncirr/media/src/Utils/FileLinkGenerator.php" timestamp="1513007215503">
+        <mark key="[" line="61" column="4" />
+        <mark key="]" line="66" column="27" />
+        <mark key="." line="66" column="27" />
+        <mark key="^" line="66" column="27" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Calendar/Presenters/templates/Calendar/default.latte" timestamp="1512639748919">
         <mark key="[" line="40" column="25" />
@@ -2264,10 +2264,10 @@
         <mark key="]" line="140" column="0" />
         <mark key="." line="140" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/media/src/Latte/MediaProvider.php" timestamp="1513000186319">
-        <mark key="[" line="49" column="4" />
-        <mark key="]" line="49" column="4" />
-        <mark key="." line="49" column="4" />
+      <file name="/home/www/vendor/hrncirr/media/src/Latte/MediaProvider.php" timestamp="1513007321519">
+        <mark key="[" line="60" column="30" />
+        <mark key="]" line="51" column="4" />
+        <mark key="." line="51" column="4" />
       </file>
       <file name="/home/www/vendor/nnb/application/src/UI/Error4xxPresenter.php" timestamp="1475577612295">
         <mark key="[" line="3" column="0" />
@@ -3931,7 +3931,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513001060548">
+      <file name="/Dummy.txt" timestamp="1513007653648">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -5351,10 +5351,10 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/media/src/Utils/ImageLinkGenerator.php" timestamp="1512649139172">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="4" />
-        <mark key="." line="51" column="4" />
+      <file name="/home/www/vendor/hrncirr/media/src/Utils/ImageLinkGenerator.php" timestamp="1513007471458">
+        <mark key="[" line="54" column="14" />
+        <mark key="]" line="69" column="8" />
+        <mark key="." line="69" column="8" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/CalendarControl/IFullCalendarControlFactory.php" timestamp="1512639177857">
         <mark key="[" line="14" column="11" />
@@ -6437,7 +6437,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>alt=&quot;avatar&quot;</text>
+        <text>if ($image instanceof IImage) {
+			
+		} elsei</text>
       </register>
       <register name="-" type="4">
         <text>alt=&quot;avatar&quot;</text>
@@ -6449,6 +6451,11 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
+        <text>if ($image instanceof IImage) {
+			
+		} elsei</text>
+      </register>
+      <register name="2" type="4">
         <text>/**
 	 * @param string     $image
 	 * @param string     $format
@@ -6457,39 +6464,36 @@
 	 * @return string
 	 */</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>/**
 	 * @param string $file
 	 *
 	 * @return string
 	 */</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>/**
 	 * @return SessionSection
 	 */</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkkZWxmaW5kZXJGaWxlLT5zZXRNaW1lKEhlbHBlcnM6OmZpeE1pbWUoJGVsZmluZGVyRmlsZS0+Z2V0TWltZSgpLCAkZWxmaW5kZXJGaWxlLT5nZXRFeHQoKSkpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAqIAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAqIE1lZGlhTGlzdGVuZXIgY29uc3RydWN0b3IuCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>/**
 	 * @param string $elFinderFileClassName
 	 * @param string $fileClassName
 	 * @param string $imageClassName
 	 */</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCQkkZWxmaW5kZXJGaWxlLT5nZXRFeHQoKSkpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCSRlbGZpbmRlckZpbGUtPnNldE1pbWUoXEhybmNpcnJcRWxGaW5kZXJcVXRpbHNcSGVscGVyczo6Zml4TWltZSgkZWxmaW5kZXJGaWxlLT5nZXRNaW1lKCksCg==</text>
+        <text encoding="base64">CQkJCQkkZWxmaW5kZXJGaWxlLT5nZXRFeHQoKSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
