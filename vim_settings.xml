@@ -133,6 +133,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaListener.php" timestamp="1512994708738">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
       <file name="/home/www/html/dv/adera/src/User/Resource.php" timestamp="1508419719688">
         <mark key="[" line="69" column="4" />
         <mark key="]" line="69" column="4" />
@@ -1061,6 +1066,12 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" timestamp="1512994950347">
+        <mark key="[" line="597" column="0" />
+        <mark key="]" line="417" column="104" />
+        <mark key="." line="417" column="104" />
+        <mark key="^" line="417" column="104" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/router/TreeIconRouterFactory.php" timestamp="1480338116491">
         <mark key="[" line="45" column="12" />
@@ -2893,8 +2904,8 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/ElFinderFile.php" timestamp="1512994194136">
-        <mark key="[" line="434" column="8" />
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/ElFinderFile.php" timestamp="1512994756408">
+        <mark key="[" line="28" column="0" />
         <mark key="]" line="434" column="8" />
         <mark key="." line="434" column="8" />
       </file>
@@ -3916,7 +3927,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512661592884">
+      <file name="/Dummy.txt" timestamp="1512994869940">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -6421,8 +6432,10 @@
       <jump line="1145" column="37" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkkZWxmaW5kZXJGaWxlLT5nZXRFeHQoKSkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>/**
+	 * @return SessionSection
+	 */</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">U3RyaW5nczo6bG93ZXIocGF0aGluZm8oJHRoaXMtPm5hbWUsIFBBVEhJTkZPX0VYVEVOU0lPTikpOw==</text>
@@ -6433,38 +6446,38 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCQkkZWxmaW5kZXJGaWxlLT5nZXRFeHQoKSkpOwo=</text>
+      <register name="1" type="4">
+        <text>/**
+	 * @return SessionSection
+	 */</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCSRlbGZpbmRlckZpbGUtPnNldE1pbWUoXEhybmNpcnJcRWxGaW5kZXJcVXRpbHNcSGVscGVyczo6Zml4TWltZSgkZWxmaW5kZXJGaWxlLT5nZXRNaW1lKCksCg==</text>
+        <text encoding="base64">CQkkZWxmaW5kZXJGaWxlLT5zZXRNaW1lKEhlbHBlcnM6OmZpeE1pbWUoJGVsZmluZGVyRmlsZS0+Z2V0TWltZSgpLCAkZWxmaW5kZXJGaWxlLT5nZXRFeHQoKSkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkkZWxmaW5kZXJGaWxlLT5nZXRFeHQoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCSRlbGZpbmRlckZpbGUtPnNldE1pbWUoXEhybmNpcnJcRWxGaW5kZXJcVXRpbHNcSGVscGVyczo6Zml4TWltZSgkZWxmaW5kZXJGaWxlLT5nZXRNaW1lKCksCg==</text>
+        <text encoding="base64">ICAgICAqIE1lZGlhTGlzdGVuZXIgY29uc3RydWN0b3IuCg==</text>
       </register>
       <register name="5" type="4">
         <text>/**
-	 * @param $name
-	 * @param $type
-	 *
-	 * @throws AssertionException
+	 * @param string $elFinderFileClassName
+	 * @param string $fileClassName
+	 * @param string $imageClassName
 	 */</text>
       </register>
-      <register name="6" type="4">
-        <text>dump($forceDownload);
-					exit;</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCQkkZWxmaW5kZXJGaWxlLT5nZXRFeHQoKSkpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZHVtcChIZWxwZXJzOjpnZW5lcmF0ZVJlbmRlcmVyUGhwKHNwcmludGYoIi0+eyR0eXBlfUxpbmsoJXMpIiwgaW1wbG9kZSgnLCcsICRwYXJhbXMpKSkpOwoJCWV4aXQ7</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCSRlbGZpbmRlckZpbGUtPnNldE1pbWUoXEhybmNpcnJcRWxGaW5kZXJcVXRpbHNcSGVscGVyczo6Zml4TWltZSgkZWxmaW5kZXJGaWxlLT5nZXRNaW1lKCksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJHZhbHVlKTsK</text>
+        <text encoding="base64">CQkJCQkkZWxmaW5kZXJGaWxlLT5nZXRFeHQoKSkpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CWR1bXAoJHBhcmFtcyk7CgkJZXhpdDs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCSRlbGZpbmRlckZpbGUtPnNldE1pbWUoXEhybmNpcnJcRWxGaW5kZXJcVXRpbHNcSGVscGVyczo6Zml4TWltZSgkZWxmaW5kZXJGaWxlLT5nZXRNaW1lKCksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
