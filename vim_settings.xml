@@ -120,16 +120,15 @@
         <mark key="]" line="76" column="4" />
         <mark key="." line="76" column="4" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/Components/FileManagerControl/FileManagerControl.php" timestamp="1513088410173">
-        <mark key="[" line="318" column="79" />
-        <mark key="]" line="318" column="79" />
-        <mark key="." line="318" column="79" />
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Components/FileManagerControl/FileManagerControl.php" timestamp="1513091108004">
+        <mark key="[" line="267" column="9" />
+        <mark key="]" line="264" column="0" />
+        <mark key="." line="264" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/Components/FileManagerTinyMCEControl/FileManagerTinyMCEControl.php" timestamp="1513088194575">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="49" column="31" />
-        <mark key="^" line="49" column="31" />
-        <mark key="." line="49" column="31" />
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Components/FileManagerTinyMCEControl/FileManagerTinyMCEControl.php" timestamp="1513091066787">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/media/src/Latte/MediaMacros.php" timestamp="1513074480638">
         <mark key="[" line="42" column="4" />
@@ -279,15 +278,8 @@
       <jump line="759" column="16" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/**
-	 * Get the configuration for specific object class
-	 * if cache driver is present it scans it also
-	 *
-	 * @param string $class
-	 *
-	 * @return array
-	 */</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkkdGVtcGxhdGUgPSAkdGhpcy0+Z2V0VGVtcGxhdGUoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>!preg_match('#^http#', $root['URL'])</text>
@@ -298,61 +290,48 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
-        <text>/**
-	 * Get the configuration for specific object class
-	 * if cache driver is present it scans it also
-	 *
-	 * @param string $class
-	 *
-	 * @return array
-	 */</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkkdGVtcGxhdGUgPSAkdGhpcy0+Z2V0VGVtcGxhdGUoKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text>/**
-	 * Get the configuration for specific object class
-	 * if cache driver is present it scans it also
-	 *
-	 * @param string $class
-	 *
-	 * @return array
-	 */</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkkdGVtcGxhdGUgPSAkdGhpcy0+Z2V0VGVtcGxhdGUoKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>/**
-	 * @param ClassMetadata $classMetadata
-	 */</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICogQHBhY2thZ2UgSHJuY2lyclxFbEZpbmRlclxDb21wb25lbnRzXEZpbGVNYW5hZ2VyVGlueU1DRUNvbnRyb2wK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LyoqCgkgKiBNZWRpYUxpc3RlbmVyIGNvbnN0cnVjdG9yLgoJICoKCSAqIEBwYXJhbSBzdHJpbmcgJGVsRmluZGVyRmlsZUNsYXNzTmFtZQoJICogQHBhcmFtIHN0cmluZyAkZmlsZUNsYXNzTmFtZQoJICogQHBhcmFtIHN0cmluZyAkaW1hZ2VDbGFzc05hbWUKCSAqLyA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICogQ2xhc3MgRmlsZU1hbmFnZXJUaW55TUNFQ29udHJvbAo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IC8qKgogICAgICogQHBhcmFtIHN0cmluZyAkZWxGaW5kZXJGaWxlQ2xhc3NOYW1lCiAgICAgKiBAcGFyYW0gc3RyaW5nICRmaWxlQ2xhc3NOYW1lCiAgICAgKiBAcGFyYW0gc3RyaW5nICRpbWFnZUNsYXNzTmFtZQogICAgICov</text>
+        <text>/**
+	 * Get the configuration for specific object class
+	 * if cache driver is present it scans it also
+	 *
+	 * @param string $class
+	 *
+	 * @return array
+	 */</text>
       </register>
       <register name="6" type="4">
         <text>/**
-	 * @param OnFlushEventArgs $args
+	 * Get the configuration for specific object class
+	 * if cache driver is present it scans it also
+	 *
+	 * @param string $class
+	 *
+	 * @return array
 	 */</text>
       </register>
       <register name="7" type="4">
         <text>/**
-	 * @param PostFlushEventArgs $args
+	 * @param ClassMetadata $classMetadata
 	 */</text>
       </register>
       <register name="8" type="4">
-        <text>/**
-	 * @param ElFinderFile  $elFinderFile
-	 * @param array         $filesToDelete
-	 * @param EntityManager $em
-	 */</text>
+        <text encoding="base64">LyoqCgkgKiBNZWRpYUxpc3RlbmVyIGNvbnN0cnVjdG9yLgoJICoKCSAqIEBwYXJhbSBzdHJpbmcgJGVsRmluZGVyRmlsZUNsYXNzTmFtZQoJICogQHBhcmFtIHN0cmluZyAkZmlsZUNsYXNzTmFtZQoJICogQHBhcmFtIHN0cmluZyAkaW1hZ2VDbGFzc05hbWUKCSAqLyA=</text>
       </register>
       <register name="9" type="4">
-        <text>/**
-	 * @param IFile         $file
-	 * @param EntityManager $em
-	 *
-	 * @return int
-	 */</text>
+        <text encoding="base64">IC8qKgogICAgICogQHBhcmFtIHN0cmluZyAkZWxGaW5kZXJGaWxlQ2xhc3NOYW1lCiAgICAgKiBAcGFyYW0gc3RyaW5nICRmaWxlQ2xhc3NOYW1lCiAgICAgKiBAcGFyYW0gc3RyaW5nICRpbWFnZUNsYXNzTmFtZQogICAgICov</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
