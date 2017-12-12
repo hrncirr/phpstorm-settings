@@ -2289,10 +2289,10 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/File/DI/FileExtension.php" timestamp="1513081058505">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="23" column="8" />
-        <mark key="." line="23" column="8" />
+      <file name="/home/www/html/dv/adera/Modules/File/DI/FileExtension.php" timestamp="1513085163111">
+        <mark key="[" line="14" column="73" />
+        <mark key="]" line="14" column="73" />
+        <mark key="." line="14" column="73" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Install/AddressBookInstall.php" timestamp="1511948862228">
         <mark key="[" line="24" column="44" />
@@ -3142,10 +3142,11 @@
         <mark key="]" line="234" column="48" />
         <mark key="." line="234" column="48" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/File/Install/Helpers/FileInstallHelper.php" timestamp="1513080965425">
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/File/Install/Helpers/FileInstallHelper.php" timestamp="1513085072778">
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="87" column="12" />
+        <mark key="." line="87" column="12" />
+        <mark key="^" line="87" column="8" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Doctrine/Mapping/Annotation/MediaHtml.php" timestamp="1476272677359">
         <mark key="[" line="18" column="6" />
@@ -4873,7 +4874,9 @@
         <mark key="]" line="30" column="29" />
         <mark key="." line="30" column="29" />
       </file>
-      <file name="/home/www/html/dv/adera/src/Navigation/DI/NavigationExtension.php" timestamp="1513081039397" />
+      <file name="/home/www/html/dv/adera/src/Navigation/DI/NavigationExtension.php" timestamp="1513083795664">
+        <mark key="[" line="33" column="0" />
+      </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Steiner/RisAccounts/RisAccountsMapper.php" timestamp="1509454330601">
         <mark key="[" line="21" column="16" />
         <mark key="]" line="18" column="4" />
@@ -6420,11 +6423,11 @@
       <jump line="759" column="16" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXFV0aWxzXFN0cmluZ3M7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/*, IEntityAuditProvider, ITranslationProvider */</text>
       </register>
       <register name="-" type="4">
-        <text>array $translation</text>
+        <text>/*, IEntityAuditProvider, ITranslationProvider */</text>
       </register>
       <register name="/" type="4">
         <text>_save</text>
@@ -6432,32 +6435,34 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXFV0aWxzXFN0cmluZ3M7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">LyoKCXB1YmxpYyBmdW5jdGlvbiBiZWZvcmVDb21waWxlKCkKCXsKCQkkdGhpcy0+c2V0TWFwcGluZyhbJ1BhZ2VzJyA9PiAnUGFnZXNcKk1vZHVsZVxQcmVzZW50ZXJzXCpQcmVzZW50ZXInXSk7Cgl9CgkqLw==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbjsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">LyoKCXB1YmxpYyBmdW5jdGlvbiBnZXRBdWRpdGVkRW50aXRpZXMoKQoJewoJCXJldHVybiBbUGFnZTo6Y2xhc3NdOwoJfQoKCglwdWJsaWMgZnVuY3Rpb24gZ2V0VHJhbnNsYXRpb25SZXNvdXJjZXMoKQoJewoJCXJldHVybiBbX19ESVJfXyAuICcvLi4vbG9jYWxlJ107Cgl9CgkqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJjbXNcVXJsXFVybDsK</text>
+        <text encoding="base64">dXNlIEhybmNpcnJjbXNcTmF2aWdhdGlvblxJbnN0YWxsXEhlbHBlcnNcRmlsZUluc3RhbGxIZWxwZXI7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJjbXNcTmF2aWdhdGlvblxOYXZpZ2F0aW9uUmVwb3NpdG9yeTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">JHRoaXMtPnJvb3QgPSAkZWxGaW5kZXJGaWxlOwoJCX0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJjbXNcTmF2aWdhdGlvblxOYXZpZ2F0aW9uOwo=</text>
+        <text encoding="base64">CQlyZXR1cm4gJGVsRmluZGVyRmlsZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkkdGhpcy0+YWRtaW5VcmwgPSAkbmF2aWdhdGlvbi0+dXJsOwo=</text>
+        <text encoding="base64">CQkJcmV0dXJuICRlbEZpbmRlckZpbGU7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>if ($parent === null) {
+		
+		} elseif ($parent !== null) {</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkkdGhpcy0+ZW0tPmZsdXNoKCRuYXZpZ2F0aW9uKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">cHJpdmF0ZSBmdW5jdGlvbiBnZXRSb290KCkKCXsKCQlyZXR1cm4gJHRoaXMtPmVtLT5nZXRSZXBvc2l0b3J5KEVsRmluZGVyRmlsZTo6Y2xhc3MpCgkJCS0+ZmluZE9uZUJ5KFsncGFyZW50JyA9PiBudWxsLCAnbmFtZScgPT4gJHRoaXMtPnJvb3RdKTsKCX0=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGNyZWF0ZVJvb3QoKQoJewoJCWlmICgkdGhpcy0+Z2V0Um9vdCgpKSB7CgkJCXJldHVybjsKCQl9CgkJCgkJJGVsRmluZGVyRmlsZSA9IG5ldyBFbEZpbmRlckZpbGUoKTsKCQkkZWxGaW5kZXJGaWxlLT5zZXROYW1lKCR0aGlzLT5yb290KTsKCQkkZWxGaW5kZXJGaWxlLT5zZXRTaXplKDApOwoJCSRlbEZpbmRlckZpbGUtPnNldE1pbWUoc2VsZjo6RElSRUNUT1JZX01JTUVUWVBFKTsKCQkKCQkkdGhpcy0+bG9nZ2VyLT5hZGRJbmZvKCdJbnN0YWxsaW5nIEVsRmluZGVyRmlsZSByb290ICcgLiAkZWxGaW5kZXJGaWxlLT5nZXROYW1lKCkpOwoKCQkkdGhpcy0+ZW0tPnBlcnNpc3QoJGVsRmluZGVyRmlsZSktPmZsdXNoKCRlbEZpbmRlckZpbGUpOwoJfQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
