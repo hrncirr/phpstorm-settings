@@ -288,12 +288,6 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" timestamp="1513170975374">
-        <mark key="'" line="43" column="23" />
-        <mark key="[" line="177" column="4" />
-        <mark key="]" line="177" column="4" />
-        <mark key="." line="177" column="4" />
-      </file>
       <file name="/home/www/vendor/hrncirr/document-parsers/src/Types/Doc.php" timestamp="1488899557143">
         <mark key="[" line="81" column="4" />
         <mark key="]" line="81" column="8" />
@@ -3142,10 +3136,11 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="/home/www/html/bul/medical_examinations/app/config/config.local.neon" timestamp="1512466057269">
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="/home/www/html/bul/medical_examinations/app/config/config.local.neon" timestamp="1513179354881">
+        <mark key="[" line="10" column="61" />
+        <mark key="]" line="10" column="61" />
+        <mark key="." line="10" column="61" />
+        <mark key="^" line="10" column="42" />
       </file>
       <file name="/home/www/vendor/hrncirr/history/src/Model/HistoryItem.php" timestamp="1476429176558">
         <mark key="[" line="38" column="4" />
@@ -3993,7 +3988,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513175731791">
+      <file name="/Dummy.txt" timestamp="1513178770709">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -6081,6 +6076,13 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" timestamp="1513179482322">
+        <mark key="'" line="101" column="58" />
+        <mark key="[" line="453" column="115" />
+        <mark key="]" line="397" column="63" />
+        <mark key="." line="397" column="63" />
+        <mark key="^" line="397" column="63" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/DI/AddressBookExtension.php" timestamp="1511341739532">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -6416,12 +6418,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="318" column="15" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="335" column="15" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="388" column="15" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="451" column="19" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="488" column="21" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="136" column="26" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="356" column="38" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="489" column="20" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="45" column="21" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
@@ -6470,7 +6466,6 @@
       <jump line="319" column="9" filename="/home/www/html/bul/mamo/app/components/Calendar/Calendar.php" />
       <jump line="351" column="36" filename="/home/www/html/bul/mamo/app/components/Calendar/Calendar.php" />
       <jump line="413" column="48" filename="/home/www/html/bul/mamo/app/components/Calendar/Calendar.php" />
-      <jump line="101" column="52" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
       <jump line="103" column="80" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
       <jump line="104" column="86" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
       <jump line="319" column="9" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
@@ -6516,42 +6511,52 @@
       <jump line="1163" column="67" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="1132" column="19" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="23" column="28" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
+      <jump line="435" column="33" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
+      <jump line="396" column="47" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
+      <jump line="293" column="54" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
+      <jump line="443" column="21" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
+      <jump line="397" column="61" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
+      <jump line="417" column="65" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
+      <jump line="101" column="58" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQk8aW1nIHNyYz0ieyRiYXNlUGF0aH0vaW1hZ2VzL2F2YXRhci5qcGciIGNsYXNzPSJ1c2VyLWltYWdlIiBhbHQ9IlVzZXIgSW1hZ2UiLz4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICcxNDozMC0xNTowMCwxNSc=</text>
       </register>
       <register name="-" type="4">
-        <text>EntityManager</text>
+        <text encoding="base64">ICcxNDozMC0xNTowMCwxNSc=</text>
       </register>
       <register name="/" type="4">
-        <text>storage</text>
+        <text>visitHours</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQk8aW1nIHNyYz0ieyRiYXNlUGF0aH0vaW1hZ2VzL2F2YXRhci5qcGciIGNsYXNzPSJ1c2VyLWltYWdlIiBhbHQ9IlVzZXIgSW1hZ2UiLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcChpc3NldCgkbWF0Y2hlc1snZnJvbURhdGUnXSkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCXtkdW1wIH0K</text>
+        <text encoding="base64">CQk8aW1nIHNyYz0ieyRiYXNlUGF0aH0vaW1hZ2VzL2F2YXRhci5qcGciIGNsYXNzPSJ1c2VyLWltYWdlIiBhbHQ9IlVzZXIgSW1hZ2UiLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJPGltZyBzcmM9InskYmFzZVBhdGh9L2ltYWdlcy9hdmF0YXIuanBnIiBjbGFzcz0iaW1nLWNpcmNsZSIgYWx0PSJVc2VyIEltYWdlIi8+Cg==</text>
+        <text encoding="base64">CQkJCXtkdW1wIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXEJyaWRnZXNcQXBwbGljYXRpb25MYXR0ZVxUZW1wbGF0ZTsK</text>
+        <text encoding="base64">CQkJPGltZyBzcmM9InskYmFzZVBhdGh9L2ltYWdlcy9hdmF0YXIuanBnIiBjbGFzcz0iaW1nLWNpcmNsZSIgYWx0PSJVc2VyIEltYWdlIi8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkkdGVtcGxhdGUgPSAkdGhpcy0+Z2V0VGVtcGxhdGUoKTsK</text>
+        <text encoding="base64">dXNlIE5ldHRlXEJyaWRnZXNcQXBwbGljYXRpb25MYXR0ZVxUZW1wbGF0ZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvKiogQHZhciBUZW1wbGF0ZSAkdGVtcGxhdGUgKi8K</text>
+        <text encoding="base64">CQkkdGVtcGxhdGUgPSAkdGhpcy0+Z2V0VGVtcGxhdGUoKTsK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">CQkvKiogQHZhciBUZW1wbGF0ZSAkdGVtcGxhdGUgKi8K</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CQkkdGhpcy0+Y2FjaGUgPSBuZXcgQ2FjaGUoJGNhY2hlU3RvcmFnZSwgc2VsZjo6Q0FDSEVfTkFNRVNQQUNFKTsK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>/**
 	 * @param IElFinderFileConsumer $consumer
 	 * @param MediaImportOptions    $options
@@ -6559,17 +6564,14 @@
 	 * @throws \Doctrine\ORM\NonUniqueResultException
 	 */</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">JHJlc3VsdCA9ICR0aGlzLT5lbS0+Y3JlYXRlUXVlcnkoCgkJCXNwcmludGYoJ1NFTEVDVCBlLmlkIEZST00gJXMgZSBXSEVSRSBlLnBhcmVudCA9IDpwYXJlbnQgQU5EIGUubmFtZSA9IDpuYW1lJywgRWxGaW5kZXJGaWxlOjpjbGFzcykpCgkJCS0+c2V0UGFyYW1ldGVycyhbJ3BhcmVudCcgPT4gMSwgJ25hbWUnID0+ICR0aGlzLT5yb290RGlyXSkKCQkJLT5nZXRPbmVPck51bGxSZXN1bHQoKTsKCQkKCQlpZiAoJHJlc3VsdCA9PT0gbnVsbCkgewoJCQl0aHJvdyBuZXcgSW52YWxpZFN0YXRlRXhjZXB0aW9uKCdFbEZpbmRlckZpbGUgbm90IGZvdW5kLicpOwoJCX0KCQkKCQkkb3B0aW9ucy0+cGFyZW50Um9vdElkID0gJHJlc3VsdFsnaWQnXTs=</text>
-      </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>storage</last-search>
+      <last-search>visitHours</last-search>
       <last-offset />
-      <last-pattern>storage</last-pattern>
+      <last-pattern>visitHours</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -6577,9 +6579,6 @@
     </search>
     <history>
       <history-search>
-        <entry>parseBlocked</entry>
-        <entry>every</entry>
-        <entry>blockedHours</entry>
         <entry>parseBlockedHours</entry>
         <entry>options</entry>
         <entry>editable</entry>
@@ -6597,6 +6596,9 @@
         <entry>getPath</entry>
         <entry>_fopen</entry>
         <entry>storage</entry>
+        <entry>createTiemLine</entry>
+        <entry>createTimeLine</entry>
+        <entry>visitHours</entry>
       </history-search>
       <history-cmd>
         <entry>%s/columnMap/fieldMap/g</entry>
