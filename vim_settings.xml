@@ -33,7 +33,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1513078990493">
+      <file name="/a.dummy" timestamp="1513151321176">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -133,8 +133,8 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaListener.php" timestamp="1513088544893">
-        <mark key="[" line="52" column="4" />
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaListener.php" timestamp="1513151302647">
+        <mark key="[" line="27" column="11" />
         <mark key="]" line="52" column="4" />
         <mark key="." line="52" column="4" />
       </file>
@@ -293,10 +293,10 @@
         <mark key="]" line="24" column="4" />
         <mark key="." line="24" column="4" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerListener.php" timestamp="1513149582494">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="183" column="4" />
-        <mark key="." line="183" column="4" />
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerListener.php" timestamp="1513151060503">
+        <mark key="[" line="177" column="4" />
+        <mark key="]" line="177" column="4" />
+        <mark key="." line="177" column="4" />
       </file>
       <file name="/home/www/vendor/hrncirr/media/src/Utils/FileLinkGenerator.php" timestamp="1513075699702">
         <mark key="[" line="56" column="33" />
@@ -1933,8 +1933,10 @@
         <mark key="]" line="14" column="32" />
         <mark key="." line="14" column="32" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/DI/ElFinderMediaExtension.php" timestamp="1513088462907">
-        <mark key="[" line="44" column="0" />
+      <file name="/home/www/vendor/hrncirr/elfinder/src/DI/ElFinderMediaExtension.php" timestamp="1513151367873">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Base/DI/BaseExtension.php" timestamp="1505309061225">
         <mark key="[" line="17" column="44" />
@@ -6466,10 +6468,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEhybmNpcnJcRWxGaW5kZXJcRG9jdHJpbmVcRXZlbnRzXE1lZGlhTGlzdGVuZXI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>!preg_match('#^http#', $root['URL'])</text>
+        <text encoding="base64">UmVxdWVzdCAkaHR0cFJlcXVlc3QsIA==</text>
       </register>
       <register name="/" type="4">
         <text>_save</text>
@@ -6478,34 +6480,42 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEhybmNpcnJcRWxGaW5kZXJcRG9jdHJpbmVcRXZlbnRzXE1lZGlhTGlzdGVuZXI7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CS0gU3RvcmFnZVxJbnN0YWxsXFN0b3JhZ2VJbnN0YWxsCg==</text>
+      <register name="2" type="4">
+        <text>/**
+	 * @param PostFlushEventArgs $args
+	 *
+	 * @throws \Doctrine\ORM\Mapping\MappingException
+	 * @throws \Doctrine\ORM\OptimisticLockException
+	 * @throws \Nette\Application\UI\InvalidLinkException
+	 */</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">LyoqIEB2YXIgRmlsZUluc3RhbGxIZWxwZXIgJGZpbGVIZWxwZXIgKi8KCQkkZmlsZUhlbHBlciA9ICR0aGlzLT5oZWxwZXJzLT5nZXRIZWxwZXIoJ2ZpbGUnKTs=</text>
+        <text>/**
+	 * @param LifecycleEventArgs $args
+	 */</text>
       </register>
       <register name="4" type="4">
-        <text>public function provideConfig()
-	{
-		return __DIR__ . '/config.neon';
-	}</text>
+        <text encoding="base64">aWYgKCR0aGlzLT5iZWZvcmVJbXBvcnRDYWxsYmFjayAhPT0gbnVsbCkgewoJCQkJCWNhbGxfdXNlcl9mdW5jKCR0aGlzLT5iZWZvcmVJbXBvcnRDYWxsYmFjaywgJGNvbnN1bWVyLCAkb3B0aW9ucyk7CgkJCQl9</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gY2FsbGFibGUgJGNhbGxiYWNrCgkgKgoJICogQHJldHVybiAkdGhpcwoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0QmVmb3JlSW1wb3J0Q2FsbGJhY2soY2FsbGFibGUgJGNhbGxiYWNrKTogTWVkaWFDb25zdW1lckxpc3RlbmVyCgl7CgkJJHRoaXMtPmJlZm9yZUltcG9ydENhbGxiYWNrID0gJGNhbGxiYWNrOwoKCQlyZXR1cm4gJHRoaXM7Cgl9</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CS0gSW52b2ljaW5nXEluc3RhbGxcSW52b2ljaW5nSW5zdGFsbAo=</text>
+      <register name="6" type="4">
+        <text>/**
+	 * @var callable
+	 */
+	private $beforeImportCallback;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkkdGVtcGxhdGUgPSAkdGhpcy0+Z2V0VGVtcGxhdGUoKTsK</text>
+        <text encoding="base64">ICogQ2xhc3MgTWVkaWFDb25zdW1lckxpc3RlbmVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkkdGVtcGxhdGUgPSAkdGhpcy0+Z2V0VGVtcGxhdGUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQHBhY2thZ2UgSHJuY2lyclxFbEZpbmRlclxDb21wb25lbnRzXEZpbGVNYW5hZ2VyVGlueU1DRUNvbnRyb2wK</text>
+        <text encoding="base64">CS0gU3RvcmFnZVxJbnN0YWxsXFN0b3JhZ2VJbnN0YWxsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
