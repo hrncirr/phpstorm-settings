@@ -1769,8 +1769,8 @@
         <mark key="]" line="22" column="12" />
         <mark key="." line="22" column="12" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" timestamp="1513160802163">
-        <mark key="'" line="157" column="12" />
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" timestamp="1513162185629">
+        <mark key="'" line="1163" column="67" />
         <mark key="[" line="707" column="4" />
         <mark key="]" line="157" column="18" />
         <mark key="." line="157" column="13" />
@@ -6426,8 +6426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="418" column="19" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
-      <jump line="266" column="30" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="503" column="25" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="254" column="21" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="318" column="15" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
@@ -6521,11 +6519,13 @@
       <jump line="983" column="52" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="1027" column="37" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="1095" column="23" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
-      <jump line="1145" column="37" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="1033" column="45" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="759" column="16" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="42" column="23" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" />
       <jump line="157" column="12" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
+      <jump line="714" column="0" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
+      <jump line="1145" column="32" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
+      <jump line="1163" column="67" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -6535,7 +6535,7 @@
         <text>exit;</text>
       </register>
       <register name="/" type="4">
-        <text>getTempFile</text>
+        <text>getPath</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
@@ -6572,9 +6572,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getTempFile</last-search>
+      <last-search>getPath</last-search>
       <last-offset />
-      <last-pattern>getTempFile</last-pattern>
+      <last-pattern>getPath</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -6582,7 +6582,6 @@
     </search>
     <history>
       <history-search>
-        <entry>maxOcc</entry>
         <entry>blocked</entry>
         <entry>parseBlocked</entry>
         <entry>every</entry>
@@ -6602,6 +6601,7 @@
         <entry>NULL</entry>
         <entry>_fopen</entry>
         <entry>getTempFile</entry>
+        <entry>getPath</entry>
       </history-search>
       <history-cmd>
         <entry>%s/columnMap/fieldMap/g</entry>
