@@ -288,6 +288,12 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" timestamp="1513170975374">
+        <mark key="'" line="43" column="23" />
+        <mark key="[" line="177" column="4" />
+        <mark key="]" line="177" column="4" />
+        <mark key="." line="177" column="4" />
+      </file>
       <file name="/home/www/vendor/hrncirr/document-parsers/src/Types/Doc.php" timestamp="1488899557143">
         <mark key="[" line="81" column="4" />
         <mark key="]" line="81" column="8" />
@@ -539,10 +545,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.php" timestamp="1511448324533">
-        <mark key="[" line="193" column="4" />
-        <mark key="]" line="193" column="8" />
-        <mark key="." line="193" column="8" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.php" timestamp="1513171151833">
+        <mark key="[" line="93" column="8" />
+        <mark key="]" line="95" column="9" />
+        <mark key="." line="95" column="9" />
+        <mark key="^" line="95" column="9" />
       </file>
       <file name="/home/www/html/dv/cms/src/Pages/Query/PagesQuery.php" timestamp="1491828474090">
         <mark key="[" line="11" column="46" />
@@ -3992,7 +3999,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513164971009">
+      <file name="/Dummy.txt" timestamp="1513171161003">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -6514,11 +6521,18 @@
       <jump line="23" column="28" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlzdHJwb3MoJHJvb3RbJ1VSTCddLCAnaHR0cCcpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>/**
+	 * @param PostFlushEventArgs $args
+	 *
+	 * @throws \Doctrine\ORM\Mapping\MappingException
+	 * @throws \Doctrine\ORM\OptimisticLockException
+	 * @throws \Exception
+	 * @throws \Nette\Application\UI\InvalidLinkException
+	 */</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT5zZWxlY3QoJ2UuaWQnKQ==</text>
+        <text encoding="base64">bXVzdCBiZSA=</text>
       </register>
       <register name="/" type="4">
         <text>storage</text>
@@ -6526,22 +6540,35 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>/**
+	 * @param PostFlushEventArgs $args
+	 *
+	 * @throws \Doctrine\ORM\Mapping\MappingException
+	 * @throws \Doctrine\ORM\OptimisticLockException
+	 * @throws \Exception
+	 * @throws \Nette\Application\UI\InvalidLinkException
+	 */</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkvL2V4aXQ7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CQlzdHJwb3MoJHJvb3RbJ1VSTCddLCAnaHR0cCcpKQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">JHJlc3VsdCA9ICR0aGlzLT5lbS0+Y3JlYXRlUXVlcnlCdWlsZGVyKCktPnNlbGVjdCgnZS5pZCcpCgkJCS0+ZnJvbShFbEZpbmRlckZpbGU6OmNsYXNzLCAnZScpCgkJCS0+d2hlcmUoJ2UucGFyZW50ID0gOnBhcmVudCcpCgkJCS0+YW5kV2hlcmUoJ2UubmFtZSA9IDpuYW1lJykKCQkJLT5zZXRQYXJhbWV0ZXJzKFsncGFyZW50JyA9PiAxICwgJ25hbWUnID0+ICR0aGlzLT5yb290RGlyXSkKCQkJLT5nZXRRdWVyeSgpLT5nZXRPbmVPck51bGxSZXN1bHQoKTs=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ZHVtcCgkdGhpcy0+ZW0tPmNyZWF0ZVF1ZXJ5QnVpbGRlcigpLT5zZWxlY3QoJ2UuaWQnKQoJCQktPmZyb20oRWxGaW5kZXJGaWxlOjpjbGFzcywgJ2UnKQoJCQktPndoZXJlKCdlLnBhcmVudCA9IDpwYXJlbnQnKQoJCQktPmFuZFdoZXJlKCdlLm5hbWUgPSA6bmFtZScpCgkJCS0+c2V0UGFyYW1ldGVycyhbJ3BhcmVudCcgPT4gMSAsICduYW1lJyA9PiAnc3RvcmFnZS1pdGVtcyddKQoJCQktPmdldFF1ZXJ5KCktPmdldE9uZU9yTnVsbFJlc3VsdCgpKTs=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">LT5mcm9tKEVsRmluZGVyRmlsZTo6Y2xhc3MsICdlJykKCQkJLT53aGVyZSgnZS5wYXJlbnQgPSA6cGFyZW50JykKCQkJLT5hbmRXaGVyZSgnZS5uYW1lID0gOm5hbWUnKQ==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">JHRoaXMtPmVtLT5nZXRSZXBvc2l0b3J5KEVsRmluZGVyRmlsZTo6Y2xhc3MpLT5maW5kT25lQnkoWydwYXJlbnQnID0+IDEsCgkJCSduYW1lJyA9PiAkdGhpcy0+cm9vdERpcl0pLT5nZXRJZCgpOw==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>/**
 	 * @param IElFinderFileConsumer $consumer
 	 * @param MediaImportOptions    $options
@@ -6549,16 +6576,8 @@
 	 * @throws \Doctrine\ORM\NonUniqueResultException
 	 */</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShFbEZpbmRlckZpbGU6OmNsYXNzKS0+ZmluZE9uZUJ5KFsncGFyZW50JyA9PiAxLAoJCQknbmFtZScgPT4gJHRoaXMtPnJvb3REaXJdKS0+Z2V0SWQoKQ==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">LT5maW5kT25lQnkoWydwYXJlbnQnID0+IDEsCgkJCSduYW1lJyA9PiAnc3RvcmFnZS1pdGVtcyddKS0+Z2V0SWQoKQ==</text>
-      </register>
       <register name="9" type="4">
-        <text>/**
-	 * @param IFile $image
-	 */</text>
+        <text encoding="base64">ICR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShFbEZpbmRlckZpbGU6OmNsYXNzKS0+ZmluZE9uZUJ5KFsncGFyZW50JyA9PiAxLAoJCQknbmFtZScgPT4gJHRoaXMtPnJvb3REaXJdKS0+Z2V0SWQoKQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
