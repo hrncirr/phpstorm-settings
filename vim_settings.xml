@@ -283,6 +283,10 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" timestamp="1513154298835">
+        <mark key="'" line="42" column="23" />
+        <mark key="[" line="67" column="31" />
+      </file>
       <file name="/home/www/vendor/hrncirr/document-parsers/src/Types/Doc.php" timestamp="1488899557143">
         <mark key="[" line="81" column="4" />
         <mark key="]" line="81" column="8" />
@@ -1933,7 +1937,7 @@
         <mark key="]" line="14" column="32" />
         <mark key="." line="14" column="32" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/DI/ElFinderMediaExtension.php" timestamp="1513151367873">
+      <file name="/home/www/vendor/hrncirr/elfinder/src/DI/ElFinderMediaExtension.php" timestamp="1513153881174">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
@@ -4786,6 +4790,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Storage/Events/ItemFileImportSubscriber.php" timestamp="1513154288316">
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="18" column="12" />
+        <mark key="." line="18" column="12" />
+      </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/IAccountsLastAccessRepository.php" timestamp="1509099269559">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -4841,10 +4850,10 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/DI/StorageExtension.php" timestamp="1513149318417">
-        <mark key="[" line="49" column="32" />
-        <mark key="]" line="52" column="4" />
-        <mark key="." line="52" column="4" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/DI/StorageExtension.php" timestamp="1513153947118">
+        <mark key="[" line="53" column="48" />
+        <mark key="]" line="59" column="4" />
+        <mark key="." line="59" column="4" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Model/Orm/Proffessions/ProfessionsMapper.php" timestamp="1503299144654">
         <mark key="[" line="12" column="0" />
@@ -6365,7 +6374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="0" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="400" column="19" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="418" column="19" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="266" column="30" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
@@ -6465,74 +6473,63 @@
       <jump line="1145" column="37" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="1033" column="45" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="759" column="16" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
+      <jump line="42" column="23" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJcRWxGaW5kZXJcRG9jdHJpbmVcRXZlbnRzXE1lZGlhTGlzdGVuZXI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">RXZlbnRzOjpwb3N0VXBkYXRlID0+ICdjaGVja0NvbnN1bWVyJywKCQkJRXZlbnRzOjpwb3N0Rmx1c2g=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UmVxdWVzdCAkaHR0cFJlcXVlc3QsIA==</text>
+        <text>const ZERO_PAD_LEN = 4;</text>
       </register>
       <register name="/" type="4">
-        <text>_save</text>
+        <text>NULL</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJcRWxGaW5kZXJcRG9jdHJpbmVcRXZlbnRzXE1lZGlhTGlzdGVuZXI7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">RXZlbnRzOjpwb3N0VXBkYXRlID0+ICdjaGVja0NvbnN1bWVyJywKCQkJRXZlbnRzOjpwb3N0Rmx1c2g=</text>
       </register>
-      <register name="2" type="4">
-        <text>/**
-	 * @param PostFlushEventArgs $args
-	 *
-	 * @throws \Doctrine\ORM\Mapping\MappingException
-	 * @throws \Doctrine\ORM\OptimisticLockException
-	 * @throws \Nette\Application\UI\InvalidLinkException
-	 */</text>
+      <register name="2" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXFV0aWxzXFN0cmluZ3M7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>/**
-	 * @param LifecycleEventArgs $args
-	 */</text>
+      <register name="3" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXFNtYXJ0T2JqZWN0Owo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5iZWZvcmVJbXBvcnRDYWxsYmFjayAhPT0gbnVsbCkgewoJCQkJCWNhbGxfdXNlcl9mdW5jKCR0aGlzLT5iZWZvcmVJbXBvcnRDYWxsYmFjaywgJGNvbnN1bWVyLCAkb3B0aW9ucyk7CgkJCQl9</text>
+      <register name="4" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXERhdGVUaW1lOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gY2FsbGFibGUgJGNhbGxiYWNrCgkgKgoJICogQHJldHVybiAkdGhpcwoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0QmVmb3JlSW1wb3J0Q2FsbGJhY2soY2FsbGFibGUgJGNhbGxiYWNrKTogTWVkaWFDb25zdW1lckxpc3RlbmVyCgl7CgkJJHRoaXMtPmJlZm9yZUltcG9ydENhbGxiYWNrID0gJGNhbGxiYWNrOwoKCQlyZXR1cm4gJHRoaXM7Cgl9</text>
+      <register name="5" type="2">
+        <text encoding="base64">dXNlIEludm9pY2luZ1xCYXNlRG9jdW1lbnQ7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>/**
-	 * @var callable
-	 */
-	private $beforeImportCallback;</text>
+      <register name="6" type="2">
+        <text encoding="base64">dXNlIERvY3RyaW5lXE9STVxFdmVudFxMaWZlY3ljbGVFdmVudEFyZ3M7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQ2xhc3MgTWVkaWFDb25zdW1lckxpc3RlbmVyCg==</text>
+        <text encoding="base64">CXVzZSBTbWFydE9iamVjdDsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">JGVtID0gJGFyZ3MtPmdldEVudGl0eU1hbmFnZXIoKTsKCgkJJGVtLT5nZXRGaWx0ZXJzKCktPmRpc2FibGUoJ3NvZnQtZGVsZXRlYWJsZScpOwoKCQkvKiogQHZhciBCYXNlRG9jdW1lbnQgJGxhc3REb2N1bWVudCAqLwoJCSRsYXN0RG9jdW1lbnQgPSAkZW0tPmdldFJlcG9zaXRvcnkoZ2V0X2NsYXNzKCRkb2N1bWVudCkpCgkJCS0+Y3JlYXRlUXVlcnlCdWlsZGVyKCdlJykKCQkJLT5vcmRlckJ5KCdlLm51bWJlcicsICdERVNDJykKCQkJLT5zZXRNYXhSZXN1bHRzKDEpCgkJCS0+Z2V0UXVlcnkoKS0+Z2V0T25lT3JOdWxsUmVzdWx0KCk7CgoJCSRlbS0+Z2V0RmlsdGVycygpLT5lbmFibGUoJ3NvZnQtZGVsZXRlYWJsZScpOwoKCQkkcHJlZml4ID0gJGRvY3VtZW50LT5nZXREb2N1bWVudE51bWJlclByZWZpeCgpOwoJCWlmICgkbGFzdERvY3VtZW50ICE9PSBudWxsKSB7CgkJCSRsYXN0TnVtYmVyID0gKGludCkgU3RyaW5nczo6bWF0Y2goJGxhc3REb2N1bWVudC0+Z2V0TnVtYmVyKCksICd+XicgLiBwcmVnX3F1b3RlKCRwcmVmaXgsICd+JykKCQkJCQkuICdcZHs2fShcZCspJH4nKVsxXSArIDE7CgkJfQoKCQkkZG9jdW1lbnQtPm51bWJlciA9ICRwcmVmaXggLiAobmV3IERhdGVUaW1lKCkpLT5mb3JtYXQoJ3ltZCcpIC4gc3ByaW50ZignJTAnIC4KCQkJCXNlbGY6OlpFUk9fUEFEX0xFTiAuICdzJywgJGxhc3ROdW1iZXIgPz8gMSk7CgoJCWlmICgkZG9jdW1lbnQtPmJ1c2luZXNzQ2FzZSA9PT0gbnVsbCkgewoKCQl9</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CS0gU3RvcmFnZVxJbnN0YWxsXFN0b3JhZ2VJbnN0YWxsCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHByZVVwZGF0ZShCYXNlRG9jdW1lbnQgJGRvY3VtZW50LCBMaWZlY3ljbGVFdmVudEFyZ3MgJGFyZ3MpCgl7CgkJaWYgKCRkb2N1bWVudC0+YnVzaW5lc3NDYXNlID09PSBudWxsKSB7CgoJCX0KCX0=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/NULL/null/g</text>
       </register>
     </registers>
     <search>
-      <last-search>_save</last-search>
+      <last-search>NULL</last-search>
       <last-offset />
-      <last-pattern>_save</last-pattern>
-      <last-replace>this.$el</last-replace>
-      <last-substitute>this.$element</last-substitute>
+      <last-pattern>NULL</last-pattern>
+      <last-replace>null</last-replace>
+      <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>$el</entry>
         <entry>dump</entry>
         <entry>visitHours</entry>
         <entry>maxOcc</entry>
@@ -6552,9 +6549,9 @@
         <entry>_find</entry>
         <entry>save</entry>
         <entry>_save</entry>
+        <entry>NULL</entry>
       </history-search>
       <history-cmd>
-        <entry>%scolumnMap/fieldMap/g</entry>
         <entry>%s/columnMap/fieldMap/g</entry>
         <entry>%s/eventSourceName/eventSourceId/g</entry>
         <entry>328</entry>
@@ -6574,6 +6571,7 @@
         <entry>407</entry>
         <entry>216</entry>
         <entry>w</entry>
+        <entry>%s/NULL/null/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
