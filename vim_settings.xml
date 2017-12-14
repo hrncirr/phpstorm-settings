@@ -520,6 +520,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/File/Helpers/DirectoryHelper.php" timestamp="1513260643255">
+        <mark key="[" line="31" column="44" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="/home/www/html/dv/cms/app/Extensions/InstallHelpers.php" timestamp="1500986525724">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="56" column="0" />
@@ -3201,7 +3206,7 @@
         <mark key="]" line="234" column="48" />
         <mark key="." line="234" column="48" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/File/Install/Helpers/FileInstallHelper.php" timestamp="1513087367244">
+      <file name="/home/www/html/dv/adera/Modules/File/Install/Helpers/FileInstallHelper.php" timestamp="1513260494860">
         <mark key="[" line="75" column="58" />
         <mark key="]" line="89" column="12" />
         <mark key="." line="89" column="12" />
@@ -3917,10 +3922,10 @@
         <mark key="]" line="12" column="4" />
         <mark key="." line="12" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/File/MediaFacade.php" timestamp="1513174614341">
-        <mark key="[" line="125" column="38" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/File/MediaFacade.php" timestamp="1513260616918">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="4" />
+        <mark key="." line="65" column="4" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/locale/invoicing.cs_CZ.neon" timestamp="1511341853145">
         <mark key="[" line="12" column="4" />
@@ -4002,7 +4007,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513253806715">
+      <file name="/Dummy.txt" timestamp="1513260435255">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -6539,10 +6544,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">XEFwcFxDb21wb25lbnRzXENhbGVuZGFyXENhbGVuZGFyOjpwYXJzZUhvdXJzKCR0aGlzLT52aXNpdEhvdXJzKQ==</text>
+        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gc3RyaW5nICAgICAgICAgICAgJG5hbWUKCSAqIEBwYXJhbSBFbEZpbmRlckZpbGV8bnVsbCAkcGFyZW50CgkgKgoJICogQHJldHVybiBtaXhlZAoJICoKCSAqIEB0aHJvd3MgXERvY3RyaW5lXE9STVxOb1Jlc3VsdEV4Y2VwdGlvbgoJICogQHRocm93cyBcRG9jdHJpbmVcT1JNXE5vblVuaXF1ZVJlc3VsdEV4Y2VwdGlvbgoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0QnlOYW1lKHN0cmluZyAkbmFtZSwgRWxGaW5kZXJGaWxlICRwYXJlbnQgPSBudWxsKQoJewoJCWlmICgkcGFyZW50ID09PSBudWxsKSB7CgkJCSRwYXJlbnQgPSAkdGhpcy0+ZW0tPmdldFJlcG9zaXRvcnkoRWxGaW5kZXJGaWxlOjpjbGFzcyktPmZpbmRPbmVCeShbJ3BhcmVudCcgPT4gbnVsbF0pOwoJCX0KCQkKCQlyZXR1cm4gJHRoaXMtPmVtLT5jcmVhdGVRdWVyeSgKCQkJc3ByaW50ZignU0VMRUNUIGUgRlJPTSAlcyBlIFdIRVJFIGUucGFyZW50ID0gOnBhcmVudCBBTkQgZS5uYW1lID0gOm5hbWUnLAoJCQkJRWxGaW5kZXJGaWxlOjpjbGFzcykpCgkJCS0+c2V0UGFyYW1ldGVycyhbJ3BhcmVudCcgPT4gJHBhcmVudCwgJ25hbWUnID0+ICRuYW1lXSkKCQkJLT5nZXRTaW5nbGVSZXN1bHQoKTsKCX0=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">XEFwcFxDb21wb25lbnRzXENhbGVuZGFyXENhbGVuZGFyOjpwYXJzZUhvdXJzKCR0aGlzLT52aXNpdEhvdXJzKQ==</text>
+        <text>, IStorage $cacheStorage</text>
       </register>
       <register name="/" type="4">
         <text>createTimeLine</text>
@@ -6550,32 +6555,32 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="1" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gc3RyaW5nICAgICAgICAgICAgJG5hbWUKCSAqIEBwYXJhbSBFbEZpbmRlckZpbGV8bnVsbCAkcGFyZW50CgkgKgoJICogQHJldHVybiBtaXhlZAoJICoKCSAqIEB0aHJvd3MgXERvY3RyaW5lXE9STVxOb1Jlc3VsdEV4Y2VwdGlvbgoJICogQHRocm93cyBcRG9jdHJpbmVcT1JNXE5vblVuaXF1ZVJlc3VsdEV4Y2VwdGlvbgoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0QnlOYW1lKHN0cmluZyAkbmFtZSwgRWxGaW5kZXJGaWxlICRwYXJlbnQgPSBudWxsKQoJewoJCWlmICgkcGFyZW50ID09PSBudWxsKSB7CgkJCSRwYXJlbnQgPSAkdGhpcy0+ZW0tPmdldFJlcG9zaXRvcnkoRWxGaW5kZXJGaWxlOjpjbGFzcyktPmZpbmRPbmVCeShbJ3BhcmVudCcgPT4gbnVsbF0pOwoJCX0KCQkKCQlyZXR1cm4gJHRoaXMtPmVtLT5jcmVhdGVRdWVyeSgKCQkJc3ByaW50ZignU0VMRUNUIGUgRlJPTSAlcyBlIFdIRVJFIGUucGFyZW50ID0gOnBhcmVudCBBTkQgZS5uYW1lID0gOm5hbWUnLAoJCQkJRWxGaW5kZXJGaWxlOjpjbGFzcykpCgkJCS0+c2V0UGFyYW1ldGVycyhbJ3BhcmVudCcgPT4gJHBhcmVudCwgJ25hbWUnID0+ICRuYW1lXSkKCQkJLT5nZXRTaW5nbGVSZXN1bHQoKTsKCX0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlyZXR1cm47Cg==</text>
+        <text encoding="base64">CQkkdGhpcy0+Y2FjaGVTdG9yYWdlID0gJGNhY2hlU3RvcmFnZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkkdGhpcy0+Zmxhc2hNZXNzYWdlKCdPSycsICdzdWNjZXNzJyk7Cg==</text>
+        <text encoding="base64">dXNlIERvY3RyaW5lXE9STVxFbnRpdHlNYW5hZ2VyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkkZGF5ID0gJGRheSAhPT0gbnVsbCA/ICRkYXkgOiBuZXcgRGF0ZVRpbWUoKTsK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJJGRhdGVUaW1lID0gbmV3IERhdGVUaW1lKCk7Cg==</text>
+        <text encoding="base64">CQlyZXR1cm47Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJZXhpdDsK</text>
+        <text encoding="base64">CQkkdGhpcy0+Zmxhc2hNZXNzYWdlKCdPSycsICdzdWNjZXNzJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJZHVtcCgkaG91cnMpOwo=</text>
+        <text encoding="base64">CQkkZGF5ID0gJGRheSAhPT0gbnVsbCA/ICRkYXkgOiBuZXcgRGF0ZVRpbWUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJZXhpdDsK</text>
+        <text encoding="base64">CQkJJGRhdGVUaW1lID0gbmV3IERhdGVUaW1lKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJZXhpdDsK</text>
       </register>
       <register name=":" type="4">
         <text>433</text>
