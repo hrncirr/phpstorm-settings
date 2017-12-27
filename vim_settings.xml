@@ -1995,10 +1995,10 @@
         <mark key="]" line="62" column="8" />
         <mark key="." line="62" column="8" />
       </file>
-      <file name="/home/www/lib/vendor/arachne/entity-loader/composer.json" timestamp="1505134707589">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="/home/www/lib/vendor/arachne/entity-loader/composer.json" timestamp="1514378315309">
+        <mark key="[" line="26" column="31" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Documents/components/FilesUploadForm/FilesUploadForm.php" timestamp="1484318587018">
         <mark key="[" line="124" column="8" />
@@ -2660,10 +2660,10 @@
         <mark key="]" line="31" column="4" />
         <mark key="." line="31" column="4" />
       </file>
-      <file name="/home/www/lib/vendor/arachne/entity-loader/src/DI/EntityLoaderExtension.php" timestamp="1491373103443">
-        <mark key="[" line="126" column="51" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
+      <file name="/home/www/lib/vendor/arachne/entity-loader/src/DI/EntityLoaderExtension.php" timestamp="1514378523683">
+        <mark key="[" line="101" column="8" />
+        <mark key="]" line="101" column="8" />
+        <mark key="." line="101" column="8" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Pages/AdminModule/Presenters/templates/Pages/edit.latte" timestamp="1495625879747">
         <mark key="[" line="4" column="0" />
@@ -6488,30 +6488,36 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>// TODO: Implement getPath() method.</text>
+        <text encoding="base64">JGJ1aWxkZXItPmFkZERlZmluaXRpb24oJHRoaXMtPnByZWZpeCgnZW50aXR5VW5sb2FkZXInKSkKCQkJLT5zZXRUeXBlKEVudGl0eVVubG9hZGVyOjpjbGFzcykKCQkJLT5zZXRBcmd1bWVudHMoCgkJCQlbCgkJCQkJJ2ZpbHRlck91dEl0ZXJhdG9yJyA9PiAnQCcgLiAkZmlsdGVyT3V0SXRlcmF0b3IsCgkJCQldCgkJCSk7</text>
       </register>
       <register name="-" type="4">
-        <text>// TODO: Implement getPath() method.</text>
+        <text>&quot;arachne/service-collections&quot;: &quot;^0.1.0 || ^0.2.0&quot;,</text>
       </register>
       <register name="/" type="4">
-        <text>createTimeLine</text>
+        <text>Closure</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CWNvbnN0IERJUkVDVE9SWV9NSU1FVFlQRSA9ICdkaXJlY3RvcnknOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">JGJ1aWxkZXItPmFkZERlZmluaXRpb24oJHRoaXMtPnByZWZpeCgnZW50aXR5VW5sb2FkZXInKSkKCQkJLT5zZXRUeXBlKEVudGl0eVVubG9hZGVyOjpjbGFzcykKCQkJLT5zZXRBcmd1bWVudHMoCgkJCQlbCgkJCQkJJ2ZpbHRlck91dEl0ZXJhdG9yJyA9PiAnQCcgLiAkZmlsdGVyT3V0SXRlcmF0b3IsCgkJCQldCgkJCSk7</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJjbXNcRmlsZVxJbnN0YWxsXEhlbHBlcnNcRmlsZUluc3RhbGxIZWxwZXI7Cg==</text>
+        <text encoding="base64">CQkic3ltcGxpZnkvc3ltZm9ueS1ldmVudC1kaXNwYXRjaGVyIjogImRldi1tYXN0ZXIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJjbXNcRmlsZVxGaWxlRmFjYWRlOwo=</text>
+        <text encoding="base64">CWNvbnN0IERJUkVDVE9SWV9NSU1FVFlQRSA9ICdkaXJlY3RvcnknOwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">dXNlIEhybmNpcnJjbXNcRmlsZVxJbnN0YWxsXEhlbHBlcnNcRmlsZUluc3RhbGxIZWxwZXI7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">dXNlIEhybmNpcnJjbXNcRmlsZVxGaWxlRmFjYWRlOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">dXNlIEhybmNpcnJjbXNcRmlsZVxGaWxlRmFjYWRlOwo=</text>
+      </register>
+      <register name="7" type="4">
         <text>/**
 	 * @param string            $name
 	 * @param ElFinderFile|null $parent
@@ -6522,26 +6528,20 @@
 	 * @throws \Doctrine\ORM\NonUniqueResultException
 	 */</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CWNvbnN0IERJUkVDVE9SWV9NSU1FVFlQRSA9IAo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gc3RyaW5nICAgICAgICAgICAgJG5hbWUKCSAqIEBwYXJhbSBFbEZpbmRlckZpbGV8bnVsbCAkcGFyZW50CgkgKgoJICogQHJldHVybiBtaXhlZAoJICoKCSAqIEB0aHJvd3MgXERvY3RyaW5lXE9STVxOb1Jlc3VsdEV4Y2VwdGlvbgoJICogQHRocm93cyBcRG9jdHJpbmVcT1JNXE5vblVuaXF1ZVJlc3VsdEV4Y2VwdGlvbgoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0QnlOYW1lKHN0cmluZyAkbmFtZSwgRWxGaW5kZXJGaWxlICRwYXJlbnQgPSBudWxsKQoJewoJCWlmICgkcGFyZW50ID09PSBudWxsKSB7CgkJCSRwYXJlbnQgPSAkdGhpcy0+ZW0tPmdldFJlcG9zaXRvcnkoRWxGaW5kZXJGaWxlOjpjbGFzcyktPmZpbmRPbmVCeShbJ3BhcmVudCcgPT4gbnVsbF0pOwoJCX0KCQkKCQlyZXR1cm4gJHRoaXMtPmVtLT5jcmVhdGVRdWVyeSgKCQkJc3ByaW50ZignU0VMRUNUIGUgRlJPTSAlcyBlIFdIRVJFIGUucGFyZW50ID0gOnBhcmVudCBBTkQgZS5uYW1lID0gOm5hbWUnLAoJCQkJRWxGaW5kZXJGaWxlOjpjbGFzcykpCgkJCS0+c2V0UGFyYW1ldGVycyhbJ3BhcmVudCcgPT4gJHBhcmVudCwgJ25hbWUnID0+ICRuYW1lXSkKCQkJLT5nZXRTaW5nbGVSZXN1bHQoKTsKCX0=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkkdGhpcy0+Y2FjaGVTdG9yYWdlID0gJGNhY2hlU3RvcmFnZTsK</text>
+        <text encoding="base64">CWNvbnN0IERJUkVDVE9SWV9NSU1FVFlQRSA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>433</text>
       </register>
     </registers>
     <search>
-      <last-search>createTimeLine</last-search>
+      <last-search>Closure</last-search>
       <last-offset />
-      <last-pattern>createTimeLine</last-pattern>
+      <last-pattern>Closure</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -6549,7 +6549,6 @@
     </search>
     <history>
       <history-search>
-        <entry>render</entry>
         <entry>selectedDate</entry>
         <entry>gener</entry>
         <entry>findId</entry>
@@ -6569,6 +6568,7 @@
         <entry>parseBlockedHours</entry>
         <entry>visitHours</entry>
         <entry>createTimeLine</entry>
+        <entry>Closure</entry>
       </history-search>
       <history-cmd>
         <entry>%s/eventSourceName/eventSourceId/g</entry>
