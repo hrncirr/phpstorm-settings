@@ -1148,10 +1148,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/zenify/doctrine-filters/src/EventSubscriber/EnableFiltersSubscriber.php" timestamp="1491378455316">
-        <mark key="[" line="37" column="23" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="/home/www/lib/vendor/zenify/doctrine-filters/src/EventSubscriber/EnableFiltersSubscriber.php" timestamp="1514982920829">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/app/Components/BaseFormControl.php" timestamp="1497947034131">
         <mark key="[" line="1" column="0" />
@@ -2103,6 +2103,9 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="/home/www/lib/vendor/zenify/doctrine-filters/src/Contract/FilterInterface.php" timestamp="1514982853874">
+        <mark key="[" line="17" column="94" />
+      </file>
       <file name="/home/www/vendor/hrncirr/media/src/Doctrine/ImageMethods.php" timestamp="1508224470326">
         <mark key="[" line="14" column="4" />
         <mark key="]" line="14" column="4" />
@@ -2178,7 +2181,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/app/config/extensions.neon" timestamp="1514979629330">
+      <file name="/home/www/html/nnb/passportization/app/config/extensions.neon" timestamp="1514982195487">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
@@ -4072,10 +4075,10 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/zenify/doctrine-filters/composer.json" timestamp="1491378600295">
-        <mark key="[" line="14" column="37" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="/home/www/lib/vendor/zenify/doctrine-filters/composer.json" timestamp="1514983764527">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/presenters/SignPresenter.php" timestamp="1478787303304">
         <mark key="[" line="19" column="25" />
@@ -4142,6 +4145,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="/home/www/lib/vendor/zenify/doctrine-filters/src/Contract/__FilterInterface.php" timestamp="1514982839457" />
       <file name="/home/www/html/bul/mamo/app/components/SignInForm/SignInForm.latte" timestamp="1481268293755">
         <mark key="[" line="18" column="4" />
         <mark key="]" line="18" column="4" />
@@ -4192,10 +4196,11 @@
         <mark key="]" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Doctrine/Filters/SoftDeletableFilter.php" timestamp="1514974837857">
-        <mark key="[" line="39" column="4" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Doctrine/Filters/SoftDeletableFilter.php" timestamp="1514983688326">
+        <mark key="[" line="43" column="4" />
+        <mark key="]" line="43" column="4" />
+        <mark key="." line="43" column="4" />
+        <mark key="^" line="43" column="4" />
       </file>
       <file name="/home/www/html/bul/phonebook/app/templates/Error/@layout.latte" timestamp="1489996662376">
         <mark key="[" line="12" column="0" />
@@ -4217,10 +4222,11 @@
         <mark key="]" line="4" column="31" />
         <mark key="." line="4" column="31" />
       </file>
-      <file name="/home/www/lib/vendor/zenify/doctrine-filters/src/DI/FiltersExtension.php" timestamp="1491378751986">
-        <mark key="[" line="10" column="85" />
-        <mark key="]" line="10" column="85" />
-        <mark key="." line="10" column="85" />
+      <file name="/home/www/lib/vendor/zenify/doctrine-filters/src/DI/FiltersExtension.php" timestamp="1514983611348">
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="28" column="4" />
+        <mark key="." line="28" column="4" />
+        <mark key="^" line="28" column="4" />
       </file>
       <file name="/home/www/html/nnb/access-rights/app/components/SearchForm/SearchForm.php" timestamp="1475567872619">
         <mark key="[" line="69" column="45" />
@@ -6506,7 +6512,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkic3ltcGxpZnkvc3ltZm9ueS1ldmVudC1kaXNwYXRjaGVyIjogIn4xLjIiCg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;arachne/service-collections&quot;: &quot;^0.1.0 || ^0.2.0&quot;,</text>
@@ -6518,33 +6524,31 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkic3ltcGxpZnkvc3ltZm9ueS1ldmVudC1kaXNwYXRjaGVyIjogIn4xLjIiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSNzeW1wbGlmeS5ldmVudERpc3BhdGNoZXI6IFN5bXBsaWZ5XFN5bWZvbnlFdmVudERpc3BhdGNoZXJcQWRhcHRlclxOZXR0ZVxESVxTeW1mb255RXZlbnREaXNwYXRjaGVyRXh0ZW5zaW9uCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="3" type="4">
-        <text>contributte.eventDispatcher: Contributte\EventDispatcher\DI\EventDispatcherExtension
-	contributte.eventsApplicationBridge: Contributte\Events\Bridges\Application\DI\EventApplicationBridgeExtension</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQlkdW1wKCdhYWFhJyk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>contributte.eventDispatcher: Contributte\EventDispatcher\DI\EventDispatcherExtension
-	contributte.eventsApplicationBridge: Contributte\Events\Bridges\Application\DI\EventApplicationBridgeExtension</text>
+      <register name="4" type="2">
+        <text encoding="base64">dXNlIENvbnRyaWJ1dHRlXEV2ZW50c1xCcmlkZ2VzXEFwcGxpY2F0aW9uXEV2ZW50XEFwcGxpY2F0aW9uRXZlbnRzOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIFN5bXBsaWZ5XFN5bWZvbnlFdmVudERpc3BhdGNoZXJcQWRhcHRlclxOZXR0ZVxFdmVudFxBcHBsaWNhdGlvblN0YXJ0dXBFdmVudDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSNzeW1wbGlmeS5ldmVudERpc3BhdGNoZXI6IFN5bXBsaWZ5XFN5bWZvbnlFdmVudERpc3BhdGNoZXJcQWRhcHRlclxOZXR0ZVxESVxTeW1mb255RXZlbnREaXNwYXRjaGVyRXh0ZW5zaW9uCg==</text>
+        <text encoding="base64">dXNlIFN5bXBsaWZ5XFN5bWZvbnlFdmVudERpc3BhdGNoZXJcQWRhcHRlclxOZXR0ZVxFdmVudFxQcmVzZW50ZXJDcmVhdGVkRXZlbnQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XEV2ZW50RGlzcGF0Y2hlclxFdmVudFN1YnNjcmliZXJJbnRlcmZhY2U7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSNzeW1wbGlmeS5ldmVudERpc3BhdGNoZXI6IFN5bXBsaWZ5XFN5bWZvbnlFdmVudERpc3BhdGNoZXJcQWRhcHRlclxOZXR0ZVxESVxTeW1mb255RXZlbnREaXNwYXRjaGVyRXh0ZW5zaW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">JGJ1aWxkZXItPmFkZERlZmluaXRpb24oJHRoaXMtPnByZWZpeCgnZW50aXR5VW5sb2FkZXInKSkKCQkJLT5zZXRUeXBlKEVudGl0eVVubG9hZGVyOjpjbGFzcykKCQkJLT5zZXRBcmd1bWVudHMoCgkJCQlbCgkJCQkJJ2ZpbHRlck91dEl0ZXJhdG9yJyA9PiAnQCcgLiAkZmlsdGVyT3V0SXRlcmF0b3IsCgkJCQldCgkJCSk7</text>
+      <register name="9" type="2">
+        <text encoding="base64">CSNzeW1wbGlmeS5ldmVudERpc3BhdGNoZXI6IFN5bXBsaWZ5XFN5bWZvbnlFdmVudERpc3BhdGNoZXJcQWRhcHRlclxOZXR0ZVxESVxTeW1mb255RXZlbnREaXNwYXRjaGVyRXh0ZW5zaW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>433</text>
