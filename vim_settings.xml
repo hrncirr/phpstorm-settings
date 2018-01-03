@@ -574,6 +574,13 @@
         <mark key="]" line="113" column="4" />
         <mark key="." line="113" column="4" />
       </file>
+      <file name="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" timestamp="1514970272076">
+        <mark key="'" line="246" column="49" />
+        <mark key="[" line="274" column="81" />
+        <mark key="]" line="241" column="16" />
+        <mark key="^" line="241" column="16" />
+        <mark key="." line="241" column="16" />
+      </file>
       <file name="/home/www/html/nnb/socialni-pece/app/Components/Modals/DepartmentFormModal.php" timestamp="1484899531468">
         <mark key="[" line="31" column="66" />
         <mark key="]" line="62" column="12" />
@@ -2169,6 +2176,11 @@
         <mark key="[" line="27" column="46" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/passportization/app/config/extensions.neon" timestamp="1514970782574">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="/home/www/lib/vendor/zenify/doctrine-filters/src/DI/DefinitionFinder.php" timestamp="1487143926860">
         <mark key="[" line="1" column="0" />
@@ -3974,7 +3986,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513771681104">
+      <file name="/Dummy.txt" timestamp="1514383427954">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -6385,12 +6397,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="304" column="36" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
-      <jump line="79" column="17" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
-      <jump line="77" column="41" filename="/home/www/html/dv/adera/Modules/Calendar/Presenters/CalendarPresenter.php" />
-      <jump line="57" column="8" filename="/home/www/html/dv/adera/Modules/Calendar/Presenters/CalendarPresenter.php" />
-      <jump line="80" column="42" filename="/home/www/html/bul/mamo/app/components/Calendar/Calendar.php" />
-      <jump line="86" column="58" filename="/home/www/html/bul/mamo/app/components/Calendar/Calendar.php" />
       <jump line="332" column="28" filename="/home/www/html/bul/mamo/app/components/Calendar/Calendar.php" />
       <jump line="337" column="36" filename="/home/www/html/bul/mamo/app/components/Calendar/Calendar.php" />
       <jump line="89" column="30" filename="/home/www/html/bul/mamo/app/components/Calendar/Calendar.php" />
@@ -6485,39 +6491,51 @@
       <jump line="484" column="45" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
       <jump line="438" column="61" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
       <jump line="458" column="65" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
+      <jump line="117" column="28" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="183" column="88" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="247" column="47" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="115" column="94" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="105" column="24" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="246" column="49" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JGJ1aWxkZXItPmFkZERlZmluaXRpb24oJHRoaXMtPnByZWZpeCgnZW50aXR5VW5sb2FkZXInKSkKCQkJLT5zZXRUeXBlKEVudGl0eVVubG9hZGVyOjpjbGFzcykKCQkJLT5zZXRBcmd1bWVudHMoCgkJCQlbCgkJCQkJJ2ZpbHRlck91dEl0ZXJhdG9yJyA9PiAnQCcgLiAkZmlsdGVyT3V0SXRlcmF0b3IsCgkJCQldCgkJCSk7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;arachne/service-collections&quot;: &quot;^0.1.0 || ^0.2.0&quot;,</text>
       </register>
       <register name="/" type="4">
-        <text>Closure</text>
+        <text>$_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">JGJ1aWxkZXItPmFkZERlZmluaXRpb24oJHRoaXMtPnByZWZpeCgnZW50aXR5VW5sb2FkZXInKSkKCQkJLT5zZXRUeXBlKEVudGl0eVVubG9hZGVyOjpjbGFzcykKCQkJLT5zZXRBcmd1bWVudHMoCgkJCQlbCgkJCQkJJ2ZpbHRlck91dEl0ZXJhdG9yJyA9PiAnQCcgLiAkZmlsdGVyT3V0SXRlcmF0b3IsCgkJCQldCgkJCSk7</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkic3ltcGxpZnkvc3ltZm9ueS1ldmVudC1kaXNwYXRjaGVyIjogImRldi1tYXN0ZXIiCg==</text>
+        <text encoding="base64">CSNzeW1wbGlmeS5ldmVudERpc3BhdGNoZXI6IFN5bXBsaWZ5XFN5bWZvbnlFdmVudERpc3BhdGNoZXJcQWRhcHRlclxOZXR0ZVxESVxTeW1mb255RXZlbnREaXNwYXRjaGVyRXh0ZW5zaW9uCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CWNvbnN0IERJUkVDVE9SWV9NSU1FVFlQRSA9ICdkaXJlY3RvcnknOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">JGJ1aWxkZXItPmFkZERlZmluaXRpb24oJHRoaXMtPnByZWZpeCgnZW50aXR5VW5sb2FkZXInKSkKCQkJLT5zZXRUeXBlKEVudGl0eVVubG9hZGVyOjpjbGFzcykKCQkJLT5zZXRBcmd1bWVudHMoCgkJCQlbCgkJCQkJJ2ZpbHRlck91dEl0ZXJhdG9yJyA9PiAnQCcgLiAkZmlsdGVyT3V0SXRlcmF0b3IsCgkJCQldCgkJCSk7</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJjbXNcRmlsZVxJbnN0YWxsXEhlbHBlcnNcRmlsZUluc3RhbGxIZWxwZXI7Cg==</text>
+        <text encoding="base64">CQkic3ltcGxpZnkvc3ltZm9ueS1ldmVudC1kaXNwYXRjaGVyIjogImRldi1tYXN0ZXIiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJjbXNcRmlsZVxGaWxlRmFjYWRlOwo=</text>
+        <text encoding="base64">CWNvbnN0IERJUkVDVE9SWV9NSU1FVFlQRSA9ICdkaXJlY3RvcnknOwo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">dXNlIEhybmNpcnJjbXNcRmlsZVxJbnN0YWxsXEhlbHBlcnNcRmlsZUluc3RhbGxIZWxwZXI7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">dXNlIEhybmNpcnJjbXNcRmlsZVxGaWxlRmFjYWRlOwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">dXNlIEhybmNpcnJjbXNcRmlsZVxGaWxlRmFjYWRlOwo=</text>
+      </register>
+      <register name="9" type="4">
         <text>/**
 	 * @param string            $name
 	 * @param ElFinderFile|null $parent
@@ -6528,20 +6546,14 @@
 	 * @throws \Doctrine\ORM\NonUniqueResultException
 	 */</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CWNvbnN0IERJUkVDVE9SWV9NSU1FVFlQRSA9IAo=</text>
-      </register>
       <register name=":" type="4">
         <text>433</text>
       </register>
     </registers>
     <search>
-      <last-search>Closure</last-search>
+      <last-search>$_</last-search>
       <last-offset />
-      <last-pattern>Closure</last-pattern>
+      <last-pattern>$_</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -6549,9 +6561,6 @@
     </search>
     <history>
       <history-search>
-        <entry>selectedDate</entry>
-        <entry>gener</entry>
-        <entry>findId</entry>
         <entry>_find</entry>
         <entry>save</entry>
         <entry>_save</entry>
@@ -6569,6 +6578,9 @@
         <entry>visitHours</entry>
         <entry>createTimeLine</entry>
         <entry>Closure</entry>
+        <entry>createReflection</entry>
+        <entry>components</entry>
+        <entry>$_</entry>
       </history-search>
       <history-cmd>
         <entry>%s/eventSourceName/eventSourceId/g</entry>
