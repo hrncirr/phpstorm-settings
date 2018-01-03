@@ -2178,7 +2178,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/app/config/extensions.neon" timestamp="1514971518535">
+      <file name="/home/www/html/nnb/passportization/app/config/extensions.neon" timestamp="1514979629330">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
@@ -5821,6 +5821,11 @@
         <mark key="]" line="110" column="0" />
         <mark key="." line="110" column="0" />
       </file>
+      <file name="/home/www/html/nnb/dms/app/config/extensions.neon" timestamp="1514980304550">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Steiner/AmadeusAccounts/AmadeusAccountsRepository.php" timestamp="1509105762938">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -6518,26 +6523,28 @@
       <register name="2" type="2">
         <text encoding="base64">CSNzeW1wbGlmeS5ldmVudERpc3BhdGNoZXI6IFN5bXBsaWZ5XFN5bWZvbnlFdmVudERpc3BhdGNoZXJcQWRhcHRlclxOZXR0ZVxESVxTeW1mb255RXZlbnREaXNwYXRjaGVyRXh0ZW5zaW9uCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="3" type="4">
+        <text>contributte.eventDispatcher: Contributte\EventDispatcher\DI\EventDispatcherExtension
+	contributte.eventsApplicationBridge: Contributte\Events\Bridges\Application\DI\EventApplicationBridgeExtension</text>
+      </register>
+      <register name="4" type="4">
+        <text>contributte.eventDispatcher: Contributte\EventDispatcher\DI\EventDispatcherExtension
+	contributte.eventsApplicationBridge: Contributte\Events\Bridges\Application\DI\EventApplicationBridgeExtension</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CSNzeW1wbGlmeS5ldmVudERpc3BhdGNoZXI6IFN5bXBsaWZ5XFN5bWZvbnlFdmVudERpc3BhdGNoZXJcQWRhcHRlclxOZXR0ZVxESVxTeW1mb255RXZlbnREaXNwYXRjaGVyRXh0ZW5zaW9uCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">JGJ1aWxkZXItPmFkZERlZmluaXRpb24oJHRoaXMtPnByZWZpeCgnZW50aXR5VW5sb2FkZXInKSkKCQkJLT5zZXRUeXBlKEVudGl0eVVubG9hZGVyOjpjbGFzcykKCQkJLT5zZXRBcmd1bWVudHMoCgkJCQlbCgkJCQkJJ2ZpbHRlck91dEl0ZXJhdG9yJyA9PiAnQCcgLiAkZmlsdGVyT3V0SXRlcmF0b3IsCgkJCQldCgkJCSk7</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkic3ltcGxpZnkvc3ltZm9ueS1ldmVudC1kaXNwYXRjaGVyIjogImRldi1tYXN0ZXIiCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">CWNvbnN0IERJUkVDVE9SWV9NSU1FVFlQRSA9ICdkaXJlY3RvcnknOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJjbXNcRmlsZVxJbnN0YWxsXEhlbHBlcnNcRmlsZUluc3RhbGxIZWxwZXI7Cg==</text>
+        <text encoding="base64">CSNzeW1wbGlmeS5ldmVudERpc3BhdGNoZXI6IFN5bXBsaWZ5XFN5bWZvbnlFdmVudERpc3BhdGNoZXJcQWRhcHRlclxOZXR0ZVxESVxTeW1mb255RXZlbnREaXNwYXRjaGVyRXh0ZW5zaW9uCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJjbXNcRmlsZVxGaWxlRmFjYWRlOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">JGJ1aWxkZXItPmFkZERlZmluaXRpb24oJHRoaXMtPnByZWZpeCgnZW50aXR5VW5sb2FkZXInKSkKCQkJLT5zZXRUeXBlKEVudGl0eVVubG9hZGVyOjpjbGFzcykKCQkJLT5zZXRBcmd1bWVudHMoCgkJCQlbCgkJCQkJJ2ZpbHRlck91dEl0ZXJhdG9yJyA9PiAnQCcgLiAkZmlsdGVyT3V0SXRlcmF0b3IsCgkJCQldCgkJCSk7</text>
       </register>
       <register name=":" type="4">
         <text>433</text>
