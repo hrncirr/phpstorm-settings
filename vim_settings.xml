@@ -298,6 +298,10 @@
         <mark key="]" line="24" column="4" />
         <mark key="." line="24" column="4" />
       </file>
+      <file name="/home/www/html/nnb/nezadouci-udalosti/app/Model/Facades/StatisticsFacade.php" timestamp="1515405453837">
+        <mark key="'" line="50" column="25" />
+        <mark key="[" line="215" column="16" />
+      </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerListener.php" timestamp="1513151060503">
         <mark key="[" line="177" column="4" />
         <mark key="]" line="177" column="4" />
@@ -6428,7 +6432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="332" column="28" filename="/home/www/html/bul/mamo/app/components/Calendar/Calendar.php" />
       <jump line="337" column="36" filename="/home/www/html/bul/mamo/app/components/Calendar/Calendar.php" />
       <jump line="89" column="30" filename="/home/www/html/bul/mamo/app/components/Calendar/Calendar.php" />
       <jump line="218" column="26" filename="/home/www/html/bul/mamo/app/components/Calendar/Calendar.php" />
@@ -6528,6 +6531,7 @@
       <jump line="115" column="94" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
       <jump line="105" column="24" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
       <jump line="246" column="49" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="50" column="25" filename="/home/www/html/nnb/nezadouci-udalosti/app/Model/Facades/StatisticsFacade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -6537,7 +6541,7 @@
         <text>', ' . implode(', ', array_map([$writer, 'formatWord'], $words))</text>
       </register>
       <register name="/" type="4">
-        <text>$_</text>
+        <text>decubitus</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
@@ -6574,9 +6578,9 @@
       </register>
     </registers>
     <search>
-      <last-search>$_</last-search>
+      <last-search>decubitus</last-search>
       <last-offset />
-      <last-pattern>$_</last-pattern>
+      <last-pattern>decubitus</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -6584,8 +6588,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_find</entry>
-        <entry>save</entry>
         <entry>_save</entry>
         <entry>NULL</entry>
         <entry>getTempFile</entry>
@@ -6604,6 +6606,8 @@
         <entry>createReflection</entry>
         <entry>components</entry>
         <entry>$_</entry>
+        <entry>Decubitus</entry>
+        <entry>decubitus</entry>
       </history-search>
       <history-cmd>
         <entry>%s/startAt/startDate/g</entry>
