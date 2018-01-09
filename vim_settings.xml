@@ -298,8 +298,8 @@
         <mark key="]" line="24" column="4" />
         <mark key="." line="24" column="4" />
       </file>
-      <file name="/home/www/html/nnb/nezadouci-udalosti/app/Model/Facades/StatisticsFacade.php" timestamp="1515415717658">
-        <mark key="'" line="292" column="50" />
+      <file name="/home/www/html/nnb/nezadouci-udalosti/app/Model/Facades/StatisticsFacade.php" timestamp="1515481079721">
+        <mark key="'" line="270" column="36" />
         <mark key="[" line="215" column="16" />
         <mark key="]" line="292" column="50" />
         <mark key="^" line="292" column="50" />
@@ -6435,7 +6435,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="30" filename="/home/www/html/bul/mamo/app/components/Calendar/Calendar.php" />
       <jump line="218" column="26" filename="/home/www/html/bul/mamo/app/components/Calendar/Calendar.php" />
       <jump line="319" column="9" filename="/home/www/html/bul/mamo/app/components/Calendar/Calendar.php" />
       <jump line="351" column="36" filename="/home/www/html/bul/mamo/app/components/Calendar/Calendar.php" />
@@ -6535,6 +6534,7 @@
       <jump line="246" column="49" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
       <jump line="50" column="25" filename="/home/www/html/nnb/nezadouci-udalosti/app/Model/Facades/StatisticsFacade.php" />
       <jump line="292" column="50" filename="/home/www/html/nnb/nezadouci-udalosti/app/Model/Facades/StatisticsFacade.php" />
+      <jump line="270" column="36" filename="/home/www/html/nnb/nezadouci-udalosti/app/Model/Facades/StatisticsFacade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -6544,7 +6544,7 @@
         <text>', ' . implode(', ', array_map([$writer, 'formatWord'], $words))</text>
       </register>
       <register name="/" type="4">
-        <text>NULL</text>
+        <text>qb</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
@@ -6581,9 +6581,9 @@
       </register>
     </registers>
     <search>
-      <last-search>NULL</last-search>
+      <last-search>qb</last-search>
       <last-offset />
-      <last-pattern>NULL</last-pattern>
+      <last-pattern>qb</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -6591,7 +6591,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_save</entry>
         <entry>getTempFile</entry>
         <entry>getPath</entry>
         <entry>_fopen</entry>
@@ -6611,6 +6610,7 @@
         <entry>Decubitus</entry>
         <entry>decubitus</entry>
         <entry>NULL</entry>
+        <entry>qb</entry>
       </history-search>
       <history-cmd>
         <entry>%s/startAt/startDate/g</entry>
