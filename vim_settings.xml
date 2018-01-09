@@ -298,11 +298,11 @@
         <mark key="]" line="24" column="4" />
         <mark key="." line="24" column="4" />
       </file>
-      <file name="/home/www/html/nnb/nezadouci-udalosti/app/Model/Facades/StatisticsFacade.php" timestamp="1515486959493">
-        <mark key="'" line="283" column="36" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="/home/www/html/nnb/nezadouci-udalosti/app/Model/Facades/StatisticsFacade.php" timestamp="1515488466604">
+        <mark key="'" line="288" column="36" />
+        <mark key="[" line="137" column="21" />
+        <mark key="]" line="137" column="21" />
+        <mark key="." line="137" column="21" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerListener.php" timestamp="1513151060503">
         <mark key="[" line="177" column="4" />
@@ -6536,11 +6536,11 @@
       <jump line="270" column="36" filename="/home/www/html/nnb/nezadouci-udalosti/app/Model/Facades/StatisticsFacade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXByaXZhdGUgJGluY2lkZW50TmFtZXNDYWNoZTsK</text>
+      <register name="&quot;" type="4">
+        <text>self::BATCH_SIZE %</text>
       </register>
       <register name="-" type="4">
-        <text>', ' . implode(', ', array_map([$writer, 'formatWord'], $words))</text>
+        <text>self::BATCH_SIZE %</text>
       </register>
       <register name="/" type="4">
         <text>qb</text>
@@ -6548,32 +6548,34 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CXByaXZhdGUgJGluY2lkZW50TmFtZXNDYWNoZTsK</text>
+      <register name="1" type="4">
+        <text>dump ($iterator);
+			exit;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJJHRoaXMtPmVtLT5kZXRhY2goJGluY2lkZW50KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXN5bXBsaWZ5LmV2ZW50RGlzcGF0Y2hlcjogU3ltcGxpZnlcU3ltZm9ueUV2ZW50RGlzcGF0Y2hlclxBZGFwdGVyXE5ldHRlXERJXFN5bWZvbnlFdmVudERpc3BhdGNoZXJFeHRlbnNpb24K</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmZvcm0gIT09ICRmb3JtKSB7Cg==</text>
+        <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWR1bXAoJGl0ZXJhdG9yLT5rZXkoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXN5bXBsaWZ5LmV2ZW50RGlzcGF0Y2hlcjogU3ltcGxpZnlcU3ltZm9ueUV2ZW50RGlzcGF0Y2hlclxBZGFwdGVyXE5ldHRlXERJXFN5bWZvbnlFdmVudERpc3BhdGNoZXJFeHRlbnNpb24K</text>
+        <text encoding="base64">CQkJCSR0aGlzLT5lbS0+ZGV0YWNoKCRjbGFzc2lmaSk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkic3ltcGxpZnkvc3ltZm9ueS1ldmVudC1kaXNwYXRjaGVyIjogIn4xLjIiCg==</text>
+      <register name="7" type="4">
+        <text>dump($res);
+				exit;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CXByaXZhdGUgJGluY2lkZW50TmFtZXNDYWNoZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlkdW1wKCdhYWFhJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
