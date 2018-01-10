@@ -4016,7 +4016,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515575441083">
+      <file name="/Dummy.txt" timestamp="1515576666618">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -5087,6 +5087,11 @@
         <mark key="[" line="12" column="10" />
         <mark key="]" line="12" column="10" />
         <mark key="." line="12" column="10" />
+      </file>
+      <file name="/home/www/lib/vendor/arachne/entity-loader/src/EntityLoader.php" timestamp="1515576620287">
+        <mark key="[" line="83" column="16" />
+        <mark key="]" line="83" column="16" />
+        <mark key="." line="83" column="16" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/validator/src/Constraints/File.php" timestamp="1513771470012">
         <mark key="[" line="94" column="29" />
@@ -6537,10 +6542,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>self::BATCH_SIZE %</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>self::BATCH_SIZE %</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>qb</text>
@@ -6548,34 +6553,34 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCXJldHVybiBpc19ib29sKCR2YWx1ZSk7Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>dump ($iterator);
 			exit;</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CQkJJHRoaXMtPmVtLT5kZXRhY2goJGluY2lkZW50KTsK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkJCQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJCWR1bXAoJGl0ZXJhdG9yLT5rZXkoKSk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCSR0aGlzLT5lbS0+ZGV0YWNoKCRjbGFzc2lmaSk7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>dump($res);
 				exit;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CXByaXZhdGUgJGluY2lkZW50TmFtZXNDYWNoZTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgJGluY2lkZW50TmFtZXNDYWNoZTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
