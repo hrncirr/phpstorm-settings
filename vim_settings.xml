@@ -168,8 +168,8 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Groups/Components/GroupsPermissionsForm/GroupsPermissionsForm.php" timestamp="1490277019277">
-        <mark key="[" line="96" column="52" />
+      <file name="/home/www/html/nnb/dms/src/Groups/Components/GroupsPermissionsForm/GroupsPermissionsForm.php" timestamp="1515662378821">
+        <mark key="[" line="59" column="68" />
         <mark key="]" line="96" column="52" />
         <mark key="." line="96" column="52" />
       </file>
@@ -6612,7 +6612,7 @@
         <text encoding="base64">cHVibGljIGZ1bmN0aW9uICZfX2dldCgkbmFtZSkKCXsKCQkkcHJlZml4ID0gJ2dldCc7CgkJaWYgKHByZWdfbWF0Y2goJy9eKGlzfGhhcykvaScsICRuYW1lKSkgewoJCQkkcHJlZml4ID0gJyc7CgkJfQoKCQkkb3JpZ2luYWxOYW1lID0gJG5hbWU7CgkJJG5hbWVbMF0gPSAkbmFtZVswXSAmICJceERGIjsKCQkkbSA9ICRwcmVmaXggLiAkbmFtZTsKCgkJaWYgKHByb3BlcnR5X2V4aXN0cygkdGhpcywgJG9yaWdpbmFsTmFtZSkgPT09IGZhbHNlICYmIG1ldGhvZF9leGlzdHMoJHRoaXMsICRtKSA9PT0gZmFsc2UpIHsKCQkJJHZhbHVlID0gJHRoaXMtPnByb3h5Q3VycmVudExvY2FsZVRyYW5zbGF0aW9uKCRtKTsKCgkJCXJldHVybiAkdmFsdWU7CgkJfQoKCQlyZXR1cm4gbnVsbDsKCX0=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/NULL/null/g</text>
+        <text>60</text>
       </register>
     </registers>
     <search>
@@ -6648,7 +6648,6 @@
         <entry>NULL</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/endAt/endDate/g</entry>
         <entry>%s/$model/$dataModel/g</entry>
         <entry encoding="base64">JXMvLT5tb2RlbC8tPmRhdGFNb2RlbC9n</entry>
         <entry>%s/initFormPart/formPart/g</entry>
@@ -6668,6 +6667,7 @@
         <entry>260</entry>
         <entry>187</entry>
         <entry>%s/NULL/null/g</entry>
+        <entry>60</entry>
       </history-cmd>
       <history-expr />
       <history-input />
