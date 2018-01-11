@@ -4006,7 +4006,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515663363667">
+      <file name="/Dummy.txt" timestamp="1515668853379">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -6280,8 +6280,10 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/EntityForm.php" timestamp="1515663312879">
-        <mark key="[" line="145" column="56" />
+      <file name="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/EntityForm.php" timestamp="1515668821545">
+        <mark key="]" line="152" column="29" />
+        <mark key="." line="152" column="29" />
+        <mark key="^" line="152" column="29" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/Tabs/src/Components/TabControl/TabControl.latte" timestamp="1487254765675">
         <mark key="[" line="3" column="0" />
@@ -6564,14 +6566,12 @@
     <registers>
       <register name="&quot;" type="4">
         <text>/**
-	 * @param EntityForm $form
-	 * @param            $values
-	 *
-	 * @throws \Exception
-	 */</text>
+		 * Temporary validation fix
+		 * TODO: find better solution
+		 */</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>// ---</text>
       </register>
       <register name="/" type="4">
         <text>submittedBy</text>
@@ -6581,19 +6581,28 @@
       </register>
       <register name="1" type="4">
         <text>/**
+		 * Temporary validation fix
+		 * TODO: find better solution
+		 */</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">aWYgKCRzdWJtaXR0ZWRCeSBpbnN0YW5jZW9mIElTdWJtaXR0ZXJDb250cm9sKSB7CgkJCWlmICgkdGhpcy0+aXNWYWxpZCgpKSB7CgkJCQkkc3VibWl0dGVkQnktPm9uQ2xpY2soJHN1Ym1pdHRlZEJ5KTsKCQkJfSBlbHNlIHsKCQkJCSRzdWJtaXR0ZWRCeS0+b25JbnZhbGlkQ2xpY2soJHN1Ym1pdHRlZEJ5KTsKCQkJfQoJCX0=</text>
+      </register>
+      <register name="3" type="4">
+        <text>/**
 	 * @param EntityForm $form
 	 * @param            $values
 	 *
 	 * @throws \Exception
 	 */</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CS8vdXNlIFxaZW5pZnlcRG9jdHJpbmVCZWhhdmlvcnNcRW50aXRpZXNcQXR0cmlidXRlc1xUcmFuc2xhdGFibGU7Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">dXNlIE5ldHRlXFNlY3VyaXR5XElkZW50aXR5Owo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>/**
 	 * @param $credentials
 	 *
@@ -6602,20 +6611,14 @@
 	 * @throws AuthenticationException
 	 */</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXE1hZ2ljQWNjZXNzb3JzXE1hZ2ljQWNjZXNzb3JzOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CXVzZSBNYWdpY0FjY2Vzc29yczsK</text>
-      </register>
       <register name="7" type="2">
         <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXE1hZ2ljQWNjZXNzb3JzXE1hZ2ljQWNjZXNzb3JzOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">CXVzZSBNYWdpY0FjY2Vzc29yczsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uICZfX2dldCgkbmFtZSkKCXsKCQkkcHJlZml4ID0gJ2dldCc7CgkJaWYgKHByZWdfbWF0Y2goJy9eKGlzfGhhcykvaScsICRuYW1lKSkgewoJCQkkcHJlZml4ID0gJyc7CgkJfQoKCQkkb3JpZ2luYWxOYW1lID0gJG5hbWU7CgkJJG5hbWVbMF0gPSAkbmFtZVswXSAmICJceERGIjsKCQkkbSA9ICRwcmVmaXggLiAkbmFtZTsKCgkJaWYgKHByb3BlcnR5X2V4aXN0cygkdGhpcywgJG9yaWdpbmFsTmFtZSkgPT09IGZhbHNlICYmIG1ldGhvZF9leGlzdHMoJHRoaXMsICRtKSA9PT0gZmFsc2UpIHsKCQkJJHZhbHVlID0gJHRoaXMtPnByb3h5Q3VycmVudExvY2FsZVRyYW5zbGF0aW9uKCRtKTsKCgkJCXJldHVybiAkdmFsdWU7CgkJfQoKCQlyZXR1cm4gbnVsbDsKCX0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXE1hZ2ljQWNjZXNzb3JzXE1hZ2ljQWNjZXNzb3JzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>60</text>
