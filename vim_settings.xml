@@ -1053,12 +1053,6 @@
         <mark key="]" line="83" column="10" />
         <mark key="." line="83" column="10" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Users/User.php" timestamp="1515745956495">
-        <mark key="[" line="60" column="11" />
-        <mark key="]" line="60" column="12" />
-        <mark key="." line="60" column="12" />
-        <mark key="^" line="60" column="51" />
-      </file>
       <file name="/home/www/html/dv/cms/app/src/Extensions/CompilerExtension.php" timestamp="1505376879387">
         <mark key="[" line="16" column="32" />
         <mark key="]" line="16" column="32" />
@@ -4724,8 +4718,8 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1515746774941">
-        <mark key="[" line="56" column="24" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1515761439427">
+        <mark key="[" line="259" column="8" />
         <mark key="]" line="56" column="24" />
         <mark key="." line="56" column="24" />
       </file>
@@ -5576,6 +5570,10 @@
         <mark key="]" line="10" column="8" />
         <mark key="." line="10" column="8" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1515760550157">
+        <mark key="'" line="61" column="14" />
+        <mark key="[" line="359" column="12" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/FilesUploadForm/FilesUploadForm.php" timestamp="1495783367578">
         <mark key="[" line="28" column="36" />
         <mark key="]" line="118" column="22" />
@@ -6231,10 +6229,10 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentFilesGrid/DocumentFilesGrid.php" timestamp="1495783722391">
-        <mark key="[" line="16" column="2" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentFilesGrid/DocumentFilesGrid.php" timestamp="1515761174896">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="/home/www/html/bul/mamo/app/components/SignInForm/SignInForm.php" timestamp="1481277957418">
         <mark key="[" line="34" column="24" />
@@ -6474,9 +6472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="86" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
-      <jump line="319" column="9" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
-      <jump line="320" column="35" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
       <jump line="176" column="64" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
       <jump line="191" column="60" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
       <jump line="273" column="16" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
@@ -6574,59 +6569,62 @@
       <jump line="23" column="31" filename="/home/www/vendor/nette/forms/src/Forms/Form.php" />
       <jump line="99" column="13" filename="/home/www/vendor/nette/forms/src/Forms/Form.php" />
       <jump line="28" column="35" filename="/home/www/html/nnb/dms/src/Documents/Components/InfoControl/InfoControl.latte" />
+      <jump line="588" column="36" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="42" column="13" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="61" column="14" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJJHRoaXMtPmVtLT5kZXRhY2goJGZpbGUpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>editTags</text>
+        <text>Remove</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJJHRoaXMtPmVtLT5kZXRhY2goJGZpbGUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlkdW1wKCRmb3JtLT5nZXRUcmFuc2xhdG9yKCkpOwo=</text>
+        <text encoding="base64">CQkJZXhpdDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJLT5zZXRSZXF1aXJlZChmYWxzZSk7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGJlZm9yZVJlbmRlcigpCgl7CgkJcGFyZW50OjpiZWZvcmVSZW5kZXIoKTsgLy8gVE9ETzogQ2hhbmdlIHRoZSBhdXRvZ2VuZXJhdGVkIHN0dWIKCQlkdW1wKCR0aGlzLT5jb250ZXh0LT5nZXRCeVR5cGUoSVRyYW5zbGF0b3I6OmNsYXNzKSk7CgkJZXhpdDsKCX0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQlkdW1wKCRmb3JtLT5nZXRUcmFuc2xhdG9yKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogICAgICBtZXNzYWdlPSJ0YWdOYW1lQWxyZWFkeUV4aXN0cyIK</text>
+        <text encoding="base64">CQkJLT5zZXRSZXF1aXJlZChmYWxzZSk7Cg==</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGJlZm9yZVJlbmRlcigpCgl7CgkJcGFyZW50OjpiZWZvcmVSZW5kZXIoKTsgLy8gVE9ETzogQ2hhbmdlIHRoZSBhdXRvZ2VuZXJhdGVkIHN0dWIKCQlkdW1wKCR0aGlzLT5jb250ZXh0LT5nZXRCeVR5cGUoSVRyYW5zbGF0b3I6OmNsYXNzKSk7CgkJZXhpdDsKCX0=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICogICAgICBtZXNzYWdlPSJ0YWdOYW1lQWxyZWFkeUV4aXN0cyIK</text>
+      </register>
+      <register name="8" type="4">
         <text>/**
 	 * @param Document $document
 	 *
 	 * @return array
 	 */</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CSAqICAgICBtZXNzYWdlPSJkb2N1bWVudE5hbWVDb250YWluSW52YWxpZENoYXJhY3RlcnMiLAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICogICAgICBtZXNzYWdlPSJncm91cE5hbWVBbHJlYWR5RXhpc3RzIgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAqICAgICAgbWF4TWVzc2FnZT0iZ3JvdXBOYW1lTWF4TGltaXQiCg==</text>
+        <text encoding="base64">CSAqICAgICBtZXNzYWdlPSJkb2N1bWVudE5hbWVDb250YWluSW52YWxpZENoYXJhY3RlcnMiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>60</text>
       </register>
     </registers>
     <search>
-      <last-search>editTags</last-search>
+      <last-search>Remove</last-search>
       <last-offset />
-      <last-pattern>editTags</last-pattern>
+      <last-pattern>Remove</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -6634,7 +6632,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_fopen</entry>
         <entry>storage</entry>
         <entry>createTiemLine</entry>
         <entry>Invalid</entry>
@@ -6654,6 +6651,7 @@
         <entry>NULL</entry>
         <entry>submittedBy</entry>
         <entry>editTags</entry>
+        <entry>Remove</entry>
       </history-search>
       <history-cmd>
         <entry>%s/$model/$dataModel/g</entry>
