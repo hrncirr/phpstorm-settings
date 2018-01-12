@@ -4018,7 +4018,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515765280823">
+      <file name="/Dummy.txt" timestamp="1515767609576">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -5581,8 +5581,8 @@
         <mark key="]" line="10" column="8" />
         <mark key="." line="10" column="8" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1515765813469">
-        <mark key="'" line="61" column="14" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1515767288147">
+        <mark key="'" line="276" column="31" />
         <mark key="[" line="347" column="0" />
         <mark key="]" line="347" column="4" />
         <mark key="." line="347" column="4" />
@@ -6485,7 +6485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="60" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
       <jump line="273" column="16" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
       <jump line="280" column="16" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
       <jump line="283" column="32" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
@@ -6585,6 +6584,7 @@
       <jump line="42" column="13" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="61" column="14" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="86" column="46" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentTabsControlFactory.php" />
+      <jump line="276" column="31" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -6594,7 +6594,7 @@
         <text>use ($document)</text>
       </register>
       <register name="/" type="4">
-        <text>onChange</text>
+        <text>remove</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
@@ -6635,9 +6635,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onChange</last-search>
+      <last-search>remove</last-search>
       <last-offset />
-      <last-pattern>onChange</last-pattern>
+      <last-pattern>remove</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -6645,7 +6645,6 @@
     </search>
     <history>
       <history-search>
-        <entry>createTiemLine</entry>
         <entry>Invalid</entry>
         <entry>hoursFormat</entry>
         <entry>parseHours</entry>
@@ -6665,6 +6664,7 @@
         <entry>editTags</entry>
         <entry>Remove</entry>
         <entry>onChange</entry>
+        <entry>remove</entry>
       </history-search>
       <history-cmd>
         <entry>%s/$model/$dataModel/g</entry>
