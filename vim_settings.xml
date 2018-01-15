@@ -133,10 +133,10 @@
         <mark key="]" line="64" column="38" />
         <mark key="." line="64" column="38" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/ItemGroup.php" timestamp="1507100235861">
-        <mark key="[" line="50" column="4" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/ItemGroup.php" timestamp="1516022137985">
+        <mark key="[" line="87" column="20" />
+        <mark key="]" line="20" column="7" />
+        <mark key="." line="20" column="7" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/PageModule/FrontModule/PagePresenter.php" timestamp="1492065680701">
         <mark key="[" line="9" column="0" />
@@ -557,6 +557,10 @@
         <mark key="[" line="22" column="16" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.php" timestamp="1516021408590">
+        <mark key="'" line="97" column="25" />
+        <mark key="[" line="156" column="49" />
       </file>
       <file name="/home/www/html/dv/cms/src/Pages/Query/PagesQuery.php" timestamp="1491828474090">
         <mark key="[" line="11" column="46" />
@@ -2331,10 +2335,10 @@
         <mark key="]" line="22" column="4" />
         <mark key="." line="22" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Item.php" timestamp="1513156774943">
-        <mark key="[" line="215" column="0" />
-        <mark key="]" line="215" column="4" />
-        <mark key="." line="215" column="4" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/Item.php" timestamp="1516022070720">
+        <mark key="[" line="324" column="55" />
+        <mark key="]" line="335" column="4" />
+        <mark key="." line="335" column="4" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/client-side/js/hrncirr.cmp.mediaelement.player.init.js" timestamp="1477049218979">
         <mark key="[" line="26" column="12" />
@@ -6466,10 +6470,10 @@
         <mark key="]" line="17" column="4" />
         <mark key="." line="17" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Note/Note.php" timestamp="1509030401975">
-        <mark key="[" line="51" column="4" />
-        <mark key="]" line="51" column="4" />
-        <mark key="." line="51" column="4" />
+      <file name="/home/www/html/dv/adera/Modules/Note/Note.php" timestamp="1516022187953">
+        <mark key="[" line="55" column="40" />
+        <mark key="]" line="18" column="2" />
+        <mark key="." line="18" column="2" />
       </file>
       <file name="/home/www/vendor/nnb/application/src/UI/TControl.php" timestamp="1485877613168">
         <mark key="[" line="4" column="0" />
@@ -6483,7 +6487,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="273" column="16" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
       <jump line="280" column="16" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
       <jump line="283" column="32" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
       <jump line="344" column="60" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
@@ -6583,59 +6586,56 @@
       <jump line="61" column="14" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="86" column="46" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentTabsControlFactory.php" />
       <jump line="276" column="31" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="97" column="25" filename="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>use ($document)</text>
+        <text encoding="base64">IG1lc3NhZ2U9Iml0ZW1Hcm91cEFscmVhZHlFeGlzdHMi</text>
       </register>
       <register name="-" type="4">
-        <text>use ($document)</text>
+        <text encoding="base64">IG1lc3NhZ2U9Iml0ZW1Hcm91cEFscmVhZHlFeGlzdHMi</text>
       </register>
       <register name="/" type="4">
-        <text>remove</text>
+        <text>groups</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAqCg==</text>
+        <text encoding="base64">CXVzZSBNYWdpY0FjY2Vzc29yczsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSBEb2N1bWVudCAkZG9jdW1lbnQK</text>
+      <register name="2" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldEdyb3VwcygpOiBDb2xsZWN0aW9uCgl7CgkJcmV0dXJuIG5ldyBSZWFkT25seUNvbGxlY3Rpb25XcmFwcGVyKCR0aGlzLT5ncm91cHMpOwoJfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkkdGhpcy0+Cg==</text>
+        <text encoding="base64">ICogQHByb3BlcnR5LXJlYWQgaW50ICAgICAgICAgICAgICAgICAgJGlkCiAqIEBwcm9wZXJ0eSBzdHJpbmcgICAgICAgICAgICAgICAgICAgICRuYW1lCiAqIEBwcm9wZXJ0eSBzdHJpbmcgICAgICAgICAgICAgICAgICAgICRkZXNjcmlwdGlvbgogKiBAcHJvcGVydHkgc3RyaW5nICAgICAgICAgICAgICAgICAgICAkY29kZQogKiBAcHJvcGVydHkgc3RyaW5nICAgICAgICAgICAgICAgICAgICAkc2NhbGVVbml0CiAqIEBwcm9wZXJ0eSBpbnQgICAgICAgICAgICAgICAgICAgICAgICRhbW91bnQKICogQHByb3BlcnR5IGludCAgICAgICAgICAgICAgICAgICAgICAgJHByaWNlCiAqIEBwcm9wZXJ0eSBpbnQgICAgICAgICAgICAgICAgICAgICAgICR2YXQKICogQHByb3BlcnR5IGludCAgICAgICAgICAgICAgICAgICAgICAgJHN0b2NrCiAqIEBwcm9wZXJ0eSBJdGVtR3JvdXB8QXJyYXlDb2xsZWN0aW9uICRncm91cHMK</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">JHRoaXMtPm9uUmVtb3ZlKCk7CgkJCgkJJHRoaXMtPnJlZHJhd0NvbnRyb2woJ2RvY3VtZW50cycpOw==</text>
+        <text encoding="base64">IEBwcm9wZXJ0eS1yZWFkIGludCAgJGlkCiAqIEBwcm9wZXJ0eSBcRGF0ZVRpbWUgJGNyZWF0ZWRBdAogKiBAcHJvcGVydHkgXERhdGVUaW1lICR1cGRhdGVkQXQKICogQHByb3BlcnR5IHN0cmluZyAgICAkdGV4dA==</text>
       </register>
-      <register name="5" type="4">
-        <text>/**
-	 * @secured
-	 *
-	 * @param Document $document
-	 */</text>
+      <register name="5" type="2">
+        <text encoding="base64">CXVzZSBNYWdpY0FjY2Vzc29yczsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ZHVtcChjb3VudCgkdGhpcy0+ZG9jdW1lbnQtPmZpbGVzLT5nZXRWYWx1ZXMoKSkpOwoJCWV4aXQ7</text>
+      <register name="6" type="2">
+        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXE1hZ2ljQWNjZXNzb3JzXE1hZ2ljQWNjZXNzb3JzOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlkdW1wKGNvdW50KCR0aGlzLT5kb2N1bWVudC0+ZmlsZXMtPmdldFZhbHVlcygpKSk7Cg==</text>
+        <text encoding="base64">CXVzZSBNYWdpY0FjY2Vzc29yczsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZHVtcChjb3VudCgkdGhpcy0+ZG9jdW1lbnQtPmZpbGVzLT5nZXRWYWx1ZXMoKSkpOwoJCWV4aXQ7</text>
+      <register name="8" type="2">
+        <text encoding="base64">CSAqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPmVtLT5kZXRhY2goJGZpbGUpOwo=</text>
+        <text encoding="base64">CSAqIEBwYXJhbSBEb2N1bWVudCAkZG9jdW1lbnQK</text>
       </register>
       <register name=":" type="4">
         <text>60</text>
       </register>
     </registers>
     <search>
-      <last-search>remove</last-search>
+      <last-search>groups</last-search>
       <last-offset />
-      <last-pattern>remove</last-pattern>
+      <last-pattern>groups</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -6643,7 +6643,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Invalid</entry>
         <entry>hoursFormat</entry>
         <entry>parseHours</entry>
         <entry>blockedHours</entry>
@@ -6663,6 +6662,7 @@
         <entry>Remove</entry>
         <entry>onChange</entry>
         <entry>remove</entry>
+        <entry>groups</entry>
       </history-search>
       <history-cmd>
         <entry>%s/$model/$dataModel/g</entry>
