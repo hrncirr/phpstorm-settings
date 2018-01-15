@@ -2654,10 +2654,11 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1515579271759">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1516033221396">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="22" column="42" />
+        <mark key="." line="22" column="42" />
+        <mark key="^" line="22" column="42" />
       </file>
       <file name="/home/www/html/dv/cms/src/Admin/AdminModule/Presenters/BasePresenter.php" timestamp="1506507163228">
         <mark key="[" line="31" column="0" />
@@ -4003,7 +4004,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515767609576">
+      <file name="/Dummy.txt" timestamp="1516032833660">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -4318,10 +4319,10 @@
         <mark key="]" line="91" column="62" />
         <mark key="." line="91" column="62" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Calendar/Event.php" timestamp="1516025088792">
-        <mark key="[" line="16" column="1" />
-        <mark key="]" line="16" column="1" />
-        <mark key="." line="16" column="1" />
+      <file name="/home/www/html/dv/adera/Modules/Calendar/Event.php" timestamp="1516032553792">
+        <mark key="[" line="72" column="62" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/IWorkers.php" timestamp="1511354915180">
         <mark key="[" line="24" column="0" />
@@ -6566,11 +6567,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>* @property-read int $id
- * @property string   $name</text>
+        <text>contributte.eventDispatcher: Contributte\EventDispatcher\DI\EventDispatcherExtension</text>
       </register>
       <register name="-" type="4">
-        <text>|null</text>
+        <text>contributte.eventDispatcher: Contributte\EventDispatcher\DI\EventDispatcherExtension</text>
       </register>
       <register name="/" type="4">
         <text>groups</text>
@@ -6578,33 +6578,33 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXE1hZ2ljQWNjZXNzb3JzXE1hZ2ljQWNjZXNzb3JzOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CXVzZSBNYWdpY0FjY2Vzc29yczsK</text>
+      </register>
+      <register name="3" type="4">
         <text>* @property-read int $id
  * @property string   $name</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICogQHByb3BlcnR5LXJlYWQgaW50ICRpZAogKiBAcHJvcGVydHkgc3RyaW5nICAgJG5hbWU=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQlyZXR1cm4gJHRoaXM7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CXVzZSBNYWdpY0FjY2Vzc29yczsK</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldEdyb3VwcygpOiBDb2xsZWN0aW9uCgl7CgkJcmV0dXJuIG5ldyBSZWFkT25seUNvbGxlY3Rpb25XcmFwcGVyKCR0aGlzLT5ncm91cHMpOwoJfQ==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQHByb3BlcnR5LXJlYWQgaW50ICAgICAgICAgICAgICAgICAgJGlkCiAqIEBwcm9wZXJ0eSBzdHJpbmcgICAgICAgICAgICAgICAgICAgICRuYW1lCiAqIEBwcm9wZXJ0eSBzdHJpbmcgICAgICAgICAgICAgICAgICAgICRkZXNjcmlwdGlvbgogKiBAcHJvcGVydHkgc3RyaW5nICAgICAgICAgICAgICAgICAgICAkY29kZQogKiBAcHJvcGVydHkgc3RyaW5nICAgICAgICAgICAgICAgICAgICAkc2NhbGVVbml0CiAqIEBwcm9wZXJ0eSBpbnQgICAgICAgICAgICAgICAgICAgICAgICRhbW91bnQKICogQHByb3BlcnR5IGludCAgICAgICAgICAgICAgICAgICAgICAgJHByaWNlCiAqIEBwcm9wZXJ0eSBpbnQgICAgICAgICAgICAgICAgICAgICAgICR2YXQKICogQHByb3BlcnR5IGludCAgICAgICAgICAgICAgICAgICAgICAgJHN0b2NrCiAqIEBwcm9wZXJ0eSBJdGVtR3JvdXB8QXJyYXlDb2xsZWN0aW9uICRncm91cHMK</text>
+        <text encoding="base64">CXVzZSBNYWdpY0FjY2Vzc29yczsK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IEBwcm9wZXJ0eS1yZWFkIGludCAgJGlkCiAqIEBwcm9wZXJ0eSBcRGF0ZVRpbWUgJGNyZWF0ZWRBdAogKiBAcHJvcGVydHkgXERhdGVUaW1lICR1cGRhdGVkQXQKICogQHByb3BlcnR5IHN0cmluZyAgICAkdGV4dA==</text>
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldEdyb3VwcygpOiBDb2xsZWN0aW9uCgl7CgkJcmV0dXJuIG5ldyBSZWFkT25seUNvbGxlY3Rpb25XcmFwcGVyKCR0aGlzLT5ncm91cHMpOwoJfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXVzZSBNYWdpY0FjY2Vzc29yczsK</text>
+        <text encoding="base64">ICogQHByb3BlcnR5LXJlYWQgaW50ICAgICAgICAgICAgICAgICAgJGlkCiAqIEBwcm9wZXJ0eSBzdHJpbmcgICAgICAgICAgICAgICAgICAgICRuYW1lCiAqIEBwcm9wZXJ0eSBzdHJpbmcgICAgICAgICAgICAgICAgICAgICRkZXNjcmlwdGlvbgogKiBAcHJvcGVydHkgc3RyaW5nICAgICAgICAgICAgICAgICAgICAkY29kZQogKiBAcHJvcGVydHkgc3RyaW5nICAgICAgICAgICAgICAgICAgICAkc2NhbGVVbml0CiAqIEBwcm9wZXJ0eSBpbnQgICAgICAgICAgICAgICAgICAgICAgICRhbW91bnQKICogQHByb3BlcnR5IGludCAgICAgICAgICAgICAgICAgICAgICAgJHByaWNlCiAqIEBwcm9wZXJ0eSBpbnQgICAgICAgICAgICAgICAgICAgICAgICR2YXQKICogQHByb3BlcnR5IGludCAgICAgICAgICAgICAgICAgICAgICAgJHN0b2NrCiAqIEBwcm9wZXJ0eSBJdGVtR3JvdXB8QXJyYXlDb2xsZWN0aW9uICRncm91cHMK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXE1hZ2ljQWNjZXNzb3JzXE1hZ2ljQWNjZXNzb3JzOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IEBwcm9wZXJ0eS1yZWFkIGludCAgJGlkCiAqIEBwcm9wZXJ0eSBcRGF0ZVRpbWUgJGNyZWF0ZWRBdAogKiBAcHJvcGVydHkgXERhdGVUaW1lICR1cGRhdGVkQXQKICogQHByb3BlcnR5IHN0cmluZyAgICAkdGV4dA==</text>
       </register>
       <register name=":" type="4">
         <text>60</text>
