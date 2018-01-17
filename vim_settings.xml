@@ -2659,8 +2659,8 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1516201472380">
-        <mark key="[" line="53" column="64" />
+      <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1516203913974">
+        <mark key="[" line="71" column="0" />
         <mark key="]" line="53" column="64" />
         <mark key="." line="53" column="64" />
         <mark key="^" line="53" column="64" />
@@ -2792,6 +2792,11 @@
         <mark key="[" line="55" column="49" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="/home/www/html/dv/adera/app/src/Events/EnumSubscriber.php" timestamp="1516204199131">
+        <mark key="[" line="31" column="60" />
+        <mark key="]" line="44" column="29" />
+        <mark key="." line="44" column="29" />
       </file>
       <file name="/home/www/vendor/hrncirr/history/src/Components/HistoryControl/templates/SideBySide.latte" timestamp="1476880380290">
         <mark key="[" line="0" column="0" />
@@ -3876,7 +3881,7 @@
         <mark key="]" line="136" column="27" />
         <mark key="." line="136" column="27" />
       </file>
-      <file name="/home/www/html/dv/adera/app/src/Extensions/AppInstaller.php" timestamp="1511948313235">
+      <file name="/home/www/html/dv/adera/app/src/Extensions/AppInstaller.php" timestamp="1516203049195">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
@@ -4016,7 +4021,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516199092792">
+      <file name="/Dummy.txt" timestamp="1516204288124">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -6588,11 +6593,11 @@
       <jump line="9" column="71" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectsGrid/SubjectForm.latte" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXENvbGxlY3Rpb25zXFJlYWRvbmx5XFJlYWRPbmx5Q29sbGVjdGlvbldyYXBwZXI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PT4gJ2xpc3RlbmVyJw==</text>
       </register>
       <register name="-" type="4">
-        <text>ReadOnlyCollectionWrapper</text>
+        <text encoding="base64">PT4gJ2xpc3RlbmVyJw==</text>
       </register>
       <register name="/" type="4">
         <text>NULL</text>
@@ -6601,31 +6606,31 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXENvbGxlY3Rpb25zXFJlYWRvbmx5XFJlYWRPbmx5Q29sbGVjdGlvbldyYXBwZXI7Cg==</text>
+        <text encoding="base64">dXNlIERvY3RyaW5lXENvbW1vblxBbm5vdGF0aW9uc1xBbm5vdGF0aW9uUmVhZGVyOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICoKICogQHByb3BlcnR5LXJlYWQgaW50ICRpZAogKiBAcHJvcGVydHkgc3RyaW5nICAgJG5hbWUKICogQHByb3BlcnR5IHN0cmluZyAgICRxdWFudGl0eQogKiBAcHJvcGVydHkgc3RyaW5nICAgJHNjYWxlVW5pdAogKiBAcHJvcGVydHkgaW50ICAgICAgJHByaWNlCiAqIEBwcm9wZXJ0eSBpbnQgICAgICAkdmF0</text>
+      <register name="2" type="2">
+        <text encoding="base64">dXNlIEludm9pY2luZ1xCdXNpbmVzc0Nhc2U7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXE1hZ2ljQWNjZXNzb3JzXE1hZ2ljQWNjZXNzb3JzOwo=</text>
+        <text encoding="base64">dXNlIEhybmNpcnJcRWxGaW5kZXJcRG9jdHJpbmVcTWVkaWFJbXBvcnRPcHRpb25zOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXVzZSBNYWdpY0FjY2Vzc29yczsK</text>
+        <text encoding="base64">dXNlIEhybmNpcnJcRWxGaW5kZXJcRG9jdHJpbmVcSUVsRmluZGVyRmlsZUNvbnN1bWVyOwo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGFkZEl0ZW0oSW52b2ljZUl0ZW0gJGludm9pY2VJdGVtKTogdm9pZAoJewoJCWlmICgkdGhpcy0+aXRlbXMtPmNvbnRhaW5zKCRpbnZvaWNlSXRlbSkpIHsKCQkJcmV0dXJuOwoJCX0KCgkJJHRoaXMtPml0ZW1zW10gPSAkaW52b2ljZUl0ZW07CgkJJGludm9pY2VJdGVtLT5zZXRJbnZvaWNlKCR0aGlzKTsKCX0KCgoJcHVibGljIGZ1bmN0aW9uIHJlbW92ZUl0ZW0oSW52b2ljZUl0ZW0gJGludm9pY2VJdGVtKTogdm9pZAoJewoJCSR0aGlzLT5pdGVtcy0+cmVtb3ZlRWxlbWVudCgkaW52b2ljZUl0ZW0pOwoJCSRpbnZvaWNlSXRlbS0+c2V0SW52b2ljZShudWxsKTsKCX0=</text>
+        <text encoding="base64">CgkvKioKCSAqIEBwYXJhbSBJRWxGaW5kZXJGaWxlQ29uc3VtZXIgJGNvbnN1bWVyCgkgKiBAcGFyYW0gTWVkaWFJbXBvcnRPcHRpb25zICAgICRvcHRpb25zCgkgKgoJICogQHRocm93cyBcRG9jdHJpbmVcT1JNXE5vUmVzdWx0RXhjZXB0aW9uCgkgKiBAdGhyb3dzIFxEb2N0cmluZVxPUk1cTm9uVW5pcXVlUmVzdWx0RXhjZXB0aW9uCgkgKi8=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="6" type="4">
+        <text encoding="base64">aWYgKCEkY29uc3VtZXIgaW5zdGFuY2VvZiBCdXNpbmVzc0Nhc2UpIHsKCQkJcmV0dXJuOwoJCX0KCQkKCQkkb3B0aW9ucy0+cGFyZW50Um9vdElkID0gJHRoaXMtPmRpcmVjdG9yeUhlbHBlci0+Z2V0QnlOYW1lKCR0aGlzLT5yb290RGlyTmFtZSktPmdldElkKCk7CgkJCgkJJG9wdGlvbnMtPmRpcmVjdG9yeU5hbWUgPSAkY29uc3VtZXItPm51bWJlcjs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+        <text encoding="base64">dXNlIEhybmNpcnJjbXNcRmlsZVxIZWxwZXJzXERpcmVjdG9yeUhlbHBlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzLT5jYWxjdWxhdGVQcmljZSgpKTsK</text>
+        <text encoding="base64">dXNlIEtkeWJ5XEV2ZW50c1xTdWJzY3JpYmVyOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIE5vdGVbXXxDb2xsZWN0aW9uCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXROb3RlcygpOiBDb2xsZWN0aW9uCgl7CgkJcmV0dXJuIG5ldyBSZWFkT25seUNvbGxlY3Rpb25XcmFwcGVyKCR0aGlzLT5ub3Rlcyk7Cgl9CgkKCQoJLyoqCgkgKiBAcGFyYW0gTm90ZSAkbm90ZQoJICovCglwdWJsaWMgZnVuY3Rpb24gYWRkTm90ZShOb3RlICRub3RlKTogdm9pZAoJewoJCSR0aGlzLT5ub3Rlcy0+YWRkKCRub3RlKTsKCQkvLyB1bmNvbW1lbnQgaWYgeW91IHdhbnQgdG8gdXBkYXRlIG90aGVyIHNpZGUKCQkvLyRub3RlLT5zZXRCdXNpbmVzc0Nhc2UoJHRoaXMpOwoJfQoJCgkKCS8qKgoJICogQHBhcmFtIE5vdGUgJG5vdGUKCSAqLwoJcHVibGljIGZ1bmN0aW9uIHJlbW92ZU5vdGUoTm90ZSAkbm90ZSk6IHZvaWQKCXsKCQkkdGhpcy0+bm90ZXMtPnJlbW92ZUVsZW1lbnQoJG5vdGUpOwoJCS8vIHVuY29tbWVudCBpZiB5b3Ugd2FudCB0byB1cGRhdGUgb3RoZXIgc2lkZQoJCS8vJG5vdGUtPnNldEJ1c2luZXNzQ2FzZShudWxsKTsKCX0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXENvbGxlY3Rpb25zXFJlYWRvbmx5XFJlYWRPbmx5Q29sbGVjdGlvbldyYXBwZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
