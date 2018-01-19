@@ -306,11 +306,11 @@
         <mark key="]" line="24" column="4" />
         <mark key="." line="24" column="4" />
       </file>
-      <file name="/home/www/html/nnb/nezadouci-udalosti/app/Model/Facades/StatisticsFacade.php" timestamp="1516366475929">
-        <mark key="[" line="130" column="35" />
-        <mark key="]" line="102" column="34" />
-        <mark key="." line="102" column="34" />
-        <mark key="^" line="102" column="34" />
+      <file name="/home/www/html/nnb/nezadouci-udalosti/app/Model/Facades/StatisticsFacade.php" timestamp="1516370479088">
+        <mark key="[" line="135" column="16" />
+        <mark key="]" line="135" column="16" />
+        <mark key="." line="135" column="16" />
+        <mark key="^" line="157" column="35" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerListener.php" timestamp="1513151060503">
         <mark key="[" line="177" column="4" />
@@ -562,6 +562,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.php" timestamp="1516367336317" />
       <file name="/home/www/html/dv/cms/src/Pages/Query/PagesQuery.php" timestamp="1491828474090">
         <mark key="[" line="11" column="46" />
         <mark key="]" line="4" column="0" />
@@ -4032,7 +4033,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516354214829">
+      <file name="/Dummy.txt" timestamp="1516370500732">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -6608,10 +6609,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>COUNT(</text>
+        <text>$countDecubitus = 0;</text>
       </register>
       <register name="-" type="4">
-        <text>COUNT(</text>
+        <text>$countDecubitus = 0;</text>
       </register>
       <register name="/" type="4">
         <text>decubitus</text>
@@ -6620,34 +6621,34 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJZXhpdDsK</text>
+        <text encoding="base64">CQkJCSRjb3VudCArPSAkY291bnREZWN1Yml0dXM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CV07Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkzID0+ICdQcmFnb2NsZWFuIHMuci5vLicK</text>
+        <text encoding="base64">CQkJCWR1bXAoJHJlc3VsdCk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkyID0+ICdBREVSQSBCaXJkQ29udHJvbCwgcy5yLm8uJywK</text>
+      <register name="4" type="4">
+        <text encoding="base64">JGNvdW50RGVjdWJpdHVzID0gMDsKCQkJCWZvcmVhY2ggKCRpbmNpZGVudEl0ZXJhdG9yID0gbmV3IFxBcnJheUl0ZXJhdG9yKCRyZXN1bHQpIGFzICRpbmNpZGVudCkgewoJCQkJCWlmIChjb3VudCgkaW5jaWRlbnQtPmRlY3ViaXR1cykgPiAwKSB7CgkJCQkJCSRjb3VudERlY3ViaXR1cyArPSBjb3VudCgkaW5jaWRlbnQtPmRlY3ViaXR1cyk7CgkJCQkJfQoJCQkJCQoJCQkJCWlmICgoJGluY2lkZW50SXRlcmF0b3ItPmtleSgpICUgc2VsZjo6QkFUQ0hfU0laRSkgPT09IDApIHsKCQkJCQkJJHRoaXMtPmVtLT5jbGVhcigpOwoJCQkJCX0KCQkJCX0KCQkJCQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkxID0+ICdBREVSQSBzLnIuby4nLAo=</text>
+        <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgJGZpbmFsU3VwcGxpZXJzID0gWwo=</text>
+      <register name="6" type="4">
+        <text>dump($decubitusResult);
+					dump(count($decubitusResult));
+					dump($countDecubitus);</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCQkJCWR1bXAoY291bnQoJGRlY3ViaXR1c1Jlc3VsdCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlkdW1wKFN1cHBsaWVyOjpnZXRBdmFpbGFibGVWYWx1ZXMoKSk7Cg==</text>
+        <text encoding="base64">CQkJCQkJCWR1bXAoJGRlY3ViaXR1c2VzKTsK</text>
       </register>
       <register name="9" type="4">
-        <text>const CLUBS = 'clubs';
-	const DIAMONDS = 'diamonds';
-	const HEARTS = 'hearts';
-	const SPADES = 'spades';</text>
+        <text>dump(count())
+				dump($countDecubitus);</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
