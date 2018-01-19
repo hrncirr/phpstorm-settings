@@ -306,10 +306,11 @@
         <mark key="]" line="24" column="4" />
         <mark key="." line="24" column="4" />
       </file>
-      <file name="/home/www/html/nnb/nezadouci-udalosti/app/Model/Facades/StatisticsFacade.php" timestamp="1516362948774">
-        <mark key="[" line="136" column="16" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
+      <file name="/home/www/html/nnb/nezadouci-udalosti/app/Model/Facades/StatisticsFacade.php" timestamp="1516366475929">
+        <mark key="[" line="130" column="35" />
+        <mark key="]" line="102" column="34" />
+        <mark key="." line="102" column="34" />
+        <mark key="^" line="102" column="34" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerListener.php" timestamp="1513151060503">
         <mark key="[" line="177" column="4" />
@@ -5158,6 +5159,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="/home/www/html/nnb/nezadouci-udalosti/app/Model/Entities/IncidentEntity.php" timestamp="1516365716830">
+        <mark key="'" line="270" column="30" />
+      </file>
       <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Storage/ImageStorage.php" timestamp="1513770266716">
         <mark key="[" line="94" column="8" />
         <mark key="]" line="94" column="8" />
@@ -6501,7 +6505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="344" column="60" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
       <jump line="348" column="93" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
       <jump line="352" column="96" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
       <jump line="356" column="96" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
@@ -6601,16 +6604,17 @@
       <jump line="97" column="25" filename="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.php" />
       <jump line="79" column="37" filename="/home/www/html/dv/adera/Modules/Calendar/Event.php" />
       <jump line="9" column="71" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectsGrid/SubjectForm.latte" />
+      <jump line="270" column="30" filename="/home/www/html/nnb/nezadouci-udalosti/app/Model/Entities/IncidentEntity.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJZXhpdDsK</text>
+      <register name="&quot;" type="4">
+        <text>COUNT(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KGludCkkcWItPmdldFF1ZXJ5KCktPmdldFJlc3VsdCgpLT5bMV07</text>
+        <text>COUNT(</text>
       </register>
       <register name="/" type="4">
-        <text>NULL</text>
+        <text>decubitus</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
@@ -6650,9 +6654,9 @@
       </register>
     </registers>
     <search>
-      <last-search>NULL</last-search>
+      <last-search>decubitus</last-search>
       <last-offset />
-      <last-pattern>NULL</last-pattern>
+      <last-pattern>decubitus</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -6670,7 +6674,6 @@
         <entry>components</entry>
         <entry>$_</entry>
         <entry>Decubitus</entry>
-        <entry>decubitus</entry>
         <entry>qb</entry>
         <entry>submittedBy</entry>
         <entry>editTags</entry>
@@ -6680,6 +6683,7 @@
         <entry>groups</entry>
         <entry>DateTimeImmutable</entry>
         <entry>NULL</entry>
+        <entry>decubitus</entry>
       </history-search>
       <history-cmd>
         <entry>%s/initFormPart/formPart/g</entry>
