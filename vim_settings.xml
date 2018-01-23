@@ -36,7 +36,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1513157278344">
+      <file name="/a.dummy" timestamp="1516713912414">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -921,6 +921,11 @@
         <mark key="[" line="133" column="52" />
         <mark key="]" line="114" column="0" />
         <mark key="." line="114" column="0" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Contract.php" timestamp="1516713941614">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Model/BankCodesModel.php" timestamp="1501764321936">
         <mark key="[" line="26" column="33" />
@@ -4182,7 +4187,8 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Case.php" timestamp="1516712301063">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Case.php" timestamp="1516713897756">
+        <mark key="[" line="24" column="7" />
         <mark key="^" line="32" column="27" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/EmployeeUnis.php" timestamp="1504700444511">
@@ -6610,11 +6616,11 @@
       <jump line="270" column="30" filename="/home/www/html/nnb/nezadouci-udalosti/app/Model/Entities/IncidentEntity.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CS8qKgoJICogQE9STVxPbmVUb09uZSh0YXJnZXRFbnRpdHk9IkJ1c2luZXNzQ2FzZSIsIG1hcHBlZEJ5PSJvZmZlciIsIGNhc2NhZGU9eyJwZXJzaXN0IiwgInJlbW92ZSJ9KQoJICogQHZhciBCdXNpbmVzc0Nhc2V8bnVsbAoJICovCglwcm90ZWN0ZWQgJGJ1c2luZXNzQ2FzZTs=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICogQE9STVxFbnRpdHlMaXN0ZW5lcnMoeyJJbnZvaWNpbmdcRXZlbnRzXERvY3VtZW50TGlzdGVuZXIifSkK</text>
       </register>
       <register name="-" type="4">
-        <text>extends BaseDocument</text>
+        <text>Case</text>
       </register>
       <register name="/" type="4">
         <text>decubitus</text>
@@ -6622,10 +6628,13 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CS8qKgoJICogQE9STVxPbmVUb09uZSh0YXJnZXRFbnRpdHk9IkJ1c2luZXNzQ2FzZSIsIG1hcHBlZEJ5PSJvZmZlciIsIGNhc2NhZGU9eyJwZXJzaXN0IiwgInJlbW92ZSJ9KQoJICogQHZhciBCdXNpbmVzc0Nhc2V8bnVsbAoJICovCglwcm90ZWN0ZWQgJGJ1c2luZXNzQ2FzZTs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICogQE9STVxFbnRpdHlMaXN0ZW5lcnMoeyJJbnZvaWNpbmdcRXZlbnRzXERvY3VtZW50TGlzdGVuZXIifSkK</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CS8qKgoJICogQE9STVxPbmVUb09uZSh0YXJnZXRFbnRpdHk9IkJ1c2luZXNzQ2FzZSIsIG1hcHBlZEJ5PSJvZmZlciIsIGNhc2NhZGU9eyJwZXJzaXN0IiwgInJlbW92ZSJ9KQoJICogQHZhciBCdXNpbmVzc0Nhc2V8bnVsbAoJICovCglwcm90ZWN0ZWQgJGJ1c2luZXNzQ2FzZTs=</text>
+      </register>
+      <register name="3" type="4">
         <text>/**
 	 * @ORM\Column(type=&quot;date&quot;, name=&quot;expirationDate&quot;)
 	 * @Assert\NotBlank()
@@ -6633,26 +6642,23 @@
 	 */
 	private $expirationDate;</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQlkdW1wKFN1cHBsaWVyOjpnZXQoJ0FERVJBIHMuci5vLicpKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJCSRjb3VudCArPSAkY291bnREZWN1Yml0dXM7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCWR1bXAoJHJlc3VsdCk7Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">JGNvdW50RGVjdWJpdHVzID0gMDsKCQkJCWZvcmVhY2ggKCRpbmNpZGVudEl0ZXJhdG9yID0gbmV3IFxBcnJheUl0ZXJhdG9yKCRyZXN1bHQpIGFzICRpbmNpZGVudCkgewoJCQkJCWlmIChjb3VudCgkaW5jaWRlbnQtPmRlY3ViaXR1cykgPiAwKSB7CgkJCQkJCSRjb3VudERlY3ViaXR1cyArPSBjb3VudCgkaW5jaWRlbnQtPmRlY3ViaXR1cyk7CgkJCQkJfQoJCQkJCQoJCQkJCWlmICgoJGluY2lkZW50SXRlcmF0b3ItPmtleSgpICUgc2VsZjo6QkFUQ0hfU0laRSkgPT09IDApIHsKCQkJCQkJJHRoaXMtPmVtLT5jbGVhcigpOwoJCQkJCX0KCQkJCX0KCQkJCQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
