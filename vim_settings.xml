@@ -1067,10 +1067,10 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Presenters/SubjectsPresenter.php" timestamp="1516359542812">
-        <mark key="[" line="29" column="27" />
-        <mark key="]" line="29" column="26" />
-        <mark key="." line="29" column="26" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Presenters/SubjectsPresenter.php" timestamp="1516711358762">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Files/Presenters/FilePresenterCallback.php" timestamp="1484811254682">
         <mark key="[" line="105" column="8" />
@@ -4182,6 +4182,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Case.php" timestamp="1516711670129">
+        <mark key="[" line="24" column="11" />
+        <mark key="]" line="24" column="11" />
+        <mark key="." line="24" column="11" />
+      </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/EmployeeUnis.php" timestamp="1504700444511">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="4" />
@@ -6608,10 +6613,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$countDecubitus = 0;</text>
+        <text>extends BaseDocument</text>
       </register>
       <register name="-" type="4">
-        <text>$countDecubitus = 0;</text>
+        <text>extends BaseDocument</text>
       </register>
       <register name="/" type="4">
         <text>decubitus</text>
@@ -6620,34 +6625,33 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCSRjb3VudCArPSAkY291bnREZWN1Yml0dXM7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQlkdW1wKFN1cHBsaWVyOjpnZXQoJ0FERVJBIHMuci5vLicpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">CQkJCSRjb3VudCArPSAkY291bnREZWN1Yml0dXM7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">JGNvdW50RGVjdWJpdHVzID0gMDsKCQkJCWZvcmVhY2ggKCRpbmNpZGVudEl0ZXJhdG9yID0gbmV3IFxBcnJheUl0ZXJhdG9yKCRyZXN1bHQpIGFzICRpbmNpZGVudCkgewoJCQkJCWlmIChjb3VudCgkaW5jaWRlbnQtPmRlY3ViaXR1cykgPiAwKSB7CgkJCQkJCSRjb3VudERlY3ViaXR1cyArPSBjb3VudCgkaW5jaWRlbnQtPmRlY3ViaXR1cyk7CgkJCQkJfQoJCQkJCQoJCQkJCWlmICgoJGluY2lkZW50SXRlcmF0b3ItPmtleSgpICUgc2VsZjo6QkFUQ0hfU0laRSkgPT09IDApIHsKCQkJCQkJJHRoaXMtPmVtLT5jbGVhcigpOwoJCQkJCX0KCQkJCX0KCQkJCQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
+        <text encoding="base64">CQkJCWR1bXAoJHJlc3VsdCk7Cg==</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">JGNvdW50RGVjdWJpdHVzID0gMDsKCQkJCWZvcmVhY2ggKCRpbmNpZGVudEl0ZXJhdG9yID0gbmV3IFxBcnJheUl0ZXJhdG9yKCRyZXN1bHQpIGFzICRpbmNpZGVudCkgewoJCQkJCWlmIChjb3VudCgkaW5jaWRlbnQtPmRlY3ViaXR1cykgPiAwKSB7CgkJCQkJCSRjb3VudERlY3ViaXR1cyArPSBjb3VudCgkaW5jaWRlbnQtPmRlY3ViaXR1cyk7CgkJCQkJfQoJCQkJCQoJCQkJCWlmICgoJGluY2lkZW50SXRlcmF0b3ItPmtleSgpICUgc2VsZjo6QkFUQ0hfU0laRSkgPT09IDApIHsKCQkJCQkJJHRoaXMtPmVtLT5jbGVhcigpOwoJCQkJCX0KCQkJCX0KCQkJCQ==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>dump($decubitusResult);
 					dump(count($decubitusResult));
 					dump($countDecubitus);</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQkJCQkJCWR1bXAoY291bnQoJGRlY3ViaXR1c1Jlc3VsdCkpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCWR1bXAoJGRlY3ViaXR1c2VzKTsK</text>
-      </register>
-      <register name="9" type="4">
-        <text>dump(count())
-				dump($countDecubitus);</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
