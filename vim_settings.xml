@@ -2407,10 +2407,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractForm/ContractForm.latte" timestamp="1516806108732">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractForm/ContractForm.latte" timestamp="1516874852349">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Order.php" timestamp="1516783282834">
         <mark key="[" line="17" column="13" />
@@ -2515,7 +2515,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/FormParts/InterventionFormPart/TInterventionFormPart.php" timestamp="1512055480673">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/FormParts/InterventionFormPart/TInterventionFormPart.php" timestamp="1516874889203">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
@@ -3314,7 +3314,7 @@
         <mark key="]" line="16" column="4" />
         <mark key="." line="16" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/OfferForm/OfferForm.latte" timestamp="1504260641800">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/OfferForm/OfferForm.latte" timestamp="1516874298752">
         <mark key="[" line="4" column="4" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
@@ -5045,8 +5045,8 @@
         <mark key="]" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractForm/ContractForm.php" timestamp="1516805913690">
-        <mark key="[" line="43" column="4" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractForm/ContractForm.php" timestamp="1516874902979">
+        <mark key="[" line="144" column="4" />
         <mark key="]" line="43" column="4" />
         <mark key="." line="43" column="4" />
       </file>
@@ -5712,6 +5712,7 @@
         <mark key="]" line="38" column="34" />
         <mark key="." line="38" column="34" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/FormParts/InterventionFormPart/InterventionFormPart.latte" timestamp="1516874845835" />
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/IAccountsRepository.php" timestamp="1509099301063">
         <mark key="[" line="17" column="26" />
         <mark key="]" line="16" column="4" />
@@ -6408,6 +6409,7 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formItems.latte" timestamp="1516874533506" />
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Pilscom/IFakturaAccounts/IFakturaAccountsMapper.php" timestamp="1509357018110">
         <mark key="[" line="25" column="4" />
         <mark key="]" line="25" column="8" />
@@ -6571,7 +6573,7 @@
         <mark key="]" line="82" column="34" />
         <mark key="." line="82" column="34" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" timestamp="1516805458387">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" timestamp="1516874736610">
         <mark key="'" line="34" column="43" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Apotheke/ApothekeAccountsRepository.php" timestamp="1509453649535">
@@ -6704,10 +6706,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEludm9pY2luZ1xDb21wb25lbnRzXE9yZGVyRm9ybVxJQ29udHJhY3RGb3JtRmFjc29yeTsK</text>
+        <text encoding="base64">CQkJCQl7aW5jbHVkZSAkY29udHJvbC0+Z2V0SW50ZXJ2ZW50aW9uRm9ybVBhcnRUZW1wbGF0ZSgpfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>{block detailsTitle}{/block}</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
@@ -6716,33 +6718,33 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEludm9pY2luZ1xDb21wb25lbnRzXE9yZGVyRm9ybVxJQ29udHJhY3RGb3JtRmFjc29yeTsK</text>
+        <text encoding="base64">CQkJCQl7aW5jbHVkZSAkY29udHJvbC0+Z2V0SW50ZXJ2ZW50aW9uRm9ybVBhcnRUZW1wbGF0ZSgpfQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dXNlIEludm9pY2luZ1xDb21wb25lbnRzXE9yZGVyc0dyaWRcQ29udHJhY3RzR3JpZDsK</text>
+      <register name="2" type="4">
+        <text>{ifset $form['workers']}
+						{pair workers}
+					{/ifset}</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">dXNlIEludm9pY2luZ1xDb21wb25lbnRzXE9yZGVyc0dyaWRcSUNvbnRyYWN0c0dyaWRGYWN0b3J5Owo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">PGRpdiBuOmlmc2V0PSIkZm9ybVsnZXhwaXJhdGlvbkRhdGUnXSIgbjpjbGFzcz0iZm9ybS1ncm91cCwgJGZvcm1bJ2V4cGlyYXRpb25EYXRlJ10tPmhhc0Vycm9ycygpID8gJ2hhcy1lcnJvciciPgoJCQkJCQl7bGFiZWwgZXhwaXJhdGlvbkRhdGV9CgkJCQkJCTxkaXYgY2xhc3M9ImNvbC1zbS05Ij4KCQkJCQkJCTxkaXYgY2xhc3M9ImlucHV0LWdyb3VwIGRhdGUiPgoJCQkJCQkJCTxkaXYgY2xhc3M9ImlucHV0LWdyb3VwLWFkZG9uIj4KCQkJCQkJCQkJPGkgY2xhc3M9ImZhIGZhLWNhbGVuZGFyIj48L2k+CgkJCQkJCQkJPC9kaXY+CgkJCQkJCQkJe2lucHV0IGV4cGlyYXRpb25EYXRlfQoJCQkJCQkJCXtpbnB1dC5lcnJvcnMgZXhwaXJhdGlvbkRhdGV9CgkJCQkJCQk8L2Rpdj4KCQkJCQkJPC9kaXY+CgkJCQkJPC9kaXY+</text>
       </register>
       <register name="4" type="4">
-        <text>{block tabPanes}
-	{include itemsTabPane}
-{/block}</text>
+        <text encoding="base64">PGRpdiBuOmNsYXNzPSJmb3JtLWdyb3VwLCAkZm9ybVsnZGF0ZSddLT5oYXNFcnJvcnMoKSA/ICdoYXMtZXJyb3InIj4KCQkJCQkJe2xhYmVsIGRhdGV9CgkJCQkJCTxkaXYgY2xhc3M9ImNvbC1zbS05Ij4KCQkJCQkJCTxkaXYgY2xhc3M9ImlucHV0LWdyb3VwIGRhdGUiPgoJCQkJCQkJCTxkaXYgY2xhc3M9ImlucHV0LWdyb3VwLWFkZG9uIj4KCQkJCQkJCQkJPGkgY2xhc3M9ImZhIGZhLWNhbGVuZGFyIj48L2k+CgkJCQkJCQkJPC9kaXY+CgkJCQkJCQkJe2lucHV0IGRhdGV9CgkJCQkJCQkJe2lucHV0LmVycm9ycyBkYXRlfQoJCQkJCQkJPC9kaXY+CgkJCQkJCTwvZGl2PgoJCQkJCTwvZGl2Pg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">e2Jsb2NrIGl0ZW1zVGFiTmF2VGl0bGV9CglPYmplZG5hbsOpIHNsdcW+YnkvemJvxb7DrQp7L2Jsb2NrfQoKe2Jsb2NrIHRhYk5hdnN9Cgl7aW5jbHVkZSBpdGVtc1RhYk5hdn0Key9ibG9ja30K</text>
+      <register name="5" type="2">
+        <text encoding="base64">CXtpbmNsdWRlIGl0ZW1zVGFiUGFuZX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">e2ltcG9ydCAuLi90ZW1wbGF0ZXMvZm9ybUl0ZW1zLmxhdHRlfQo=</text>
+        <text encoding="base64">CXtpbmNsdWRlIGl0ZW1zVGFiTmF2fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEludm9pY2luZ1xDb21wb25lbnRzXE9yZGVyRm9ybVxJQ29udHJhY3RGb3JtRmFjc29yeTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlwYXJlbnQ6OmZvcm1TdWNjZWVkZWQoJHN1Ym1pdEJ1dHRvbik7Cg==</text>
+        <text encoding="base64">dXNlIEludm9pY2luZ1xDb21wb25lbnRzXE9yZGVyc0dyaWRcQ29udHJhY3RzR3JpZDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEludm9pY2luZ1xPcmRlckl0ZW07Cg==</text>
+        <text encoding="base64">dXNlIEludm9pY2luZ1xDb21wb25lbnRzXE9yZGVyc0dyaWRcSUNvbnRyYWN0c0dyaWRGYWN0b3J5Owo=</text>
       </register>
       <register name=":" type="4">
         <text>104</text>
