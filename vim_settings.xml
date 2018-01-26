@@ -709,6 +709,11 @@
         <mark key="]" line="19" column="41" />
         <mark key="." line="19" column="41" />
       </file>
+      <file name="/home/www/html/dv/adera/www/js/admin.js" timestamp="1516968013541">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+      </file>
       <file name="/home/www/html/nnb/dms/app/Presenters/TagsPresenter.php" timestamp="1490274016091">
         <mark key="[" line="17" column="4" />
         <mark key="]" line="17" column="4" />
@@ -929,10 +934,10 @@
         <mark key="]" line="114" column="0" />
         <mark key="." line="114" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Contract.php" timestamp="1516889172587">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="4" />
-        <mark key="." line="65" column="4" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Contract.php" timestamp="1516968466194">
+        <mark key="[" line="61" column="30" />
+        <mark key="]" line="72" column="4" />
+        <mark key="." line="72" column="4" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Model/BankCodesModel.php" timestamp="1501764321936">
         <mark key="[" line="26" column="33" />
@@ -2971,6 +2976,11 @@
         <mark key="]" line="34" column="4" />
         <mark key="." line="34" column="4" />
       </file>
+      <file name="/home/www/html/dv/adera/www/js/iCheck.init.js" timestamp="1516967558405">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="12" />
+        <mark key="." line="14" column="12" />
+      </file>
       <file name="/home/www/vendor/hrncirr/history/src/DI/HistoryExtension.php" timestamp="1476432300808">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -3932,6 +3942,12 @@
         <mark key="[" line="28" column="39" />
         <mark key="]" line="27" column="4" />
         <mark key="." line="27" column="4" />
+      </file>
+      <file name="/home/www/html/dv/adera/app/config/extensions/header.neon" timestamp="1516967981250">
+        <mark key="[" line="135" column="12" />
+        <mark key="]" line="136" column="55" />
+        <mark key="^" line="136" column="55" />
+        <mark key="." line="136" column="55" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/services/Unique.php" timestamp="1477994988699">
         <mark key="[" line="41" column="32" />
@@ -5679,10 +5695,10 @@
         <mark key="]" line="38" column="34" />
         <mark key="." line="38" column="34" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/FormParts/InterventionFormPart/InterventionFormPart.latte" timestamp="1516966819656">
-        <mark key="[" line="35" column="46" />
-        <mark key="]" line="36" column="8" />
-        <mark key="." line="36" column="8" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/FormParts/InterventionFormPart/InterventionFormPart.latte" timestamp="1516968162053">
+        <mark key="[" line="30" column="5" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/IAccountsRepository.php" timestamp="1509099301063">
         <mark key="[" line="17" column="26" />
@@ -6675,8 +6691,8 @@
       <jump line="34" column="43" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">eyRmb3JtWydzY2hlZHVsZSddLT5nZXRMYWJlbFBhcnQoJGtleSl9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJeyogPGxhYmVsIG46bmFtZT0ic2NoZWR1bGU6JGtleSI+PGlucHV0IG46bmFtZT0ic2NoZWR1bGU6JGtleSI+IHskbGFiZWx9PC9sYWJlbD4gKn0K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">eyRmb3JtWydzY2hlZHVsZSddLT5nZXRMYWJlbFBhcnQoJGtleSl9</text>
@@ -6687,32 +6703,47 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY2hlY2tib3giPgoJCXtsYWJlbCBzY2hlZHVsZSAvfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJeyogPGxhYmVsIG46bmFtZT0ic2NoZWR1bGU6JGtleSI+PGlucHV0IG46bmFtZT0ic2NoZWR1bGU6JGtleSI+IHskbGFiZWx9PC9sYWJlbD4gKn0K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CXtpbnB1dCBzY2hlZHVsZToka2V5fQo=</text>
+      <register name="2" type="4">
+        <text>$('input.ick').iCheck({
+      checkboxClass: 'icheckbox_square-blue',
+      radioClass: 'iradio_square-blue',
+      increaseArea: '20%' // optional
+    });</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCQl7cGFpciBpbnRlcnZlbnRpb25QbGFjZX0K</text>
+      <register name="3" type="4">
+        <text>$('input.ick').iCheck({
+				checkboxClass: 'icheckbox_square-blue',
+				radioClass: 'iradio_square-blue',
+				increaseArea: '20%' // optional
+			});</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">J3InID0+ICdyZWQnLAoJCQknZycgPT4gJ2dyZWVuJywKCQkJJ2InID0+ICdibHVlJyw=</text>
+        <text>on('change', function () {
+				var selected = $(this).find(':selected');
+
+				$('#' + $(this).data('bankCodeId')).val(selected.data('bankCode') !== undefined ?
+					selected.data('bankCode') : '');
+				$('#' + $(this).data('swiftId')).val(selected.data('swift') !== undefined ?
+					selected.data('swift') : '');
+			});</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">LyoqCgkgKiBAT1JNXE9uZVRvTWFueSh0YXJnZXRFbnRpdHk9IkNvbnRyYWN0SXRlbSIsIG1hcHBlZEJ5PSJjb250cmFjdCIsIGNhc2NhZGU9eyJwZXJzaXN0IiwgInJlbW92ZSJ9LCBvcnBoYW5SZW1vdmFsPXRydWUpCgkgKiBAdmFyIEludm9pY2VJdGVtW118QXJyYXlDb2xsZWN0aW9uCgkgKi8KCXByaXZhdGUgJGl0ZW1zOwoJCgkKCXB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgpCgl7CgkJJHRoaXMtPml0ZW1zID0gbmV3IEFycmF5Q29sbGVjdGlvbigpOwoJfQ==</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iY2hlY2tib3giPgoJCXtsYWJlbCBzY2hlZHVsZSAvfQ==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIEludm9pY2VJdGVtW118Q29sbGVjdGlvbgoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0SXRlbXMoKTogQ29sbGVjdGlvbgoJewoJCXJldHVybiBuZXcgUmVhZE9ubHlDb2xsZWN0aW9uV3JhcHBlcigkdGhpcy0+aXRlbXMpOwoJfQoJCgkKCXB1YmxpYyBmdW5jdGlvbiBhZGRJdGVtKE9mZmVySXRlbSAkb2ZmZXJJdGVtKTogdm9pZAoJewoJCWlmICgkdGhpcy0+aXRlbXMtPmNvbnRhaW5zKCRvZmZlckl0ZW0pKSB7CgkJCXJldHVybjsKCQl9CgkJCgkJJHRoaXMtPml0ZW1zW10gPSAkb2ZmZXJJdGVtOwoJCSRvZmZlckl0ZW0tPnNldE9mZmVyKCR0aGlzKTsKCX0KCQoJCglwdWJsaWMgZnVuY3Rpb24gcmVtb3ZlSXRlbShPZmZlckl0ZW0gJG9mZmVySXRlbSk6IHZvaWQKCXsKCQkkdGhpcy0+aXRlbXMtPnJlbW92ZUVsZW1lbnQoJG9mZmVySXRlbSk7CgkJJG9mZmVySXRlbS0+c2V0T2ZmZXIobnVsbCk7Cgl9</text>
+      <register name="6" type="2">
+        <text encoding="base64">CXtpbnB1dCBzY2hlZHVsZToka2V5fQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">aWYgKCFpc3NldCgkdGVtcGxhdGUtPml0ZW1zKSkgewoJCQkkdGVtcGxhdGUtPml0ZW1zID0gJHRoaXNbJ2Zvcm0taXRlbXMnXS0+Z2V0Q29udGFpbmVycygpOwoJCX0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCQl7cGFpciBpbnRlcnZlbnRpb25QbGFjZX0K</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">JHRoaXMtPmNyZWF0ZUl0ZW1zRm9ybVBhcnQoJGZvcm0sIGZ1bmN0aW9uIChDb250YWluZXIgJGl0ZW0pIHsKCQkJcmV0dXJuIG5ldyBDb250cmFjdEl0ZW0oKTsKCQl9KTs=</text>
+        <text encoding="base64">J3InID0+ICdyZWQnLAoJCQknZycgPT4gJ2dyZWVuJywKCQkJJ2InID0+ICdibHVlJyw=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">dXNlIE5vdGVcQ29tcG9uZW50c1xOb3Rlc0NvbnRyb2xcTm90ZXNDb250cm9sOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">LyoqCgkgKiBAT1JNXE9uZVRvTWFueSh0YXJnZXRFbnRpdHk9IkNvbnRyYWN0SXRlbSIsIG1hcHBlZEJ5PSJjb250cmFjdCIsIGNhc2NhZGU9eyJwZXJzaXN0IiwgInJlbW92ZSJ9LCBvcnBoYW5SZW1vdmFsPXRydWUpCgkgKiBAdmFyIEludm9pY2VJdGVtW118QXJyYXlDb2xsZWN0aW9uCgkgKi8KCXByaXZhdGUgJGl0ZW1zOwoJCgkKCXB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgpCgl7CgkJJHRoaXMtPml0ZW1zID0gbmV3IEFycmF5Q29sbGVjdGlvbigpOwoJfQ==</text>
       </register>
       <register name=":" type="4">
         <text>104</text>
