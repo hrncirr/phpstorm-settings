@@ -6695,11 +6695,11 @@
       <jump line="127" column="46" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractsGrid/ContractsGrid.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEludm9pY2luZ1xDb21wb25lbnRzXEludGVydmVudGlvbnNHcmlkXEludGVydmVudGlvbnNHcmlkOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Invoices</text>
       </register>
       <register name="-" type="4">
-        <text>use TWorkers;</text>
+        <text>Invoices</text>
       </register>
       <register name="/" type="4">
         <text>getNumber</text>
