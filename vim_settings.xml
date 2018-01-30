@@ -3491,8 +3491,8 @@
         <mark key="]" line="60" column="8" />
         <mark key="." line="60" column="8" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Invoice.php" timestamp="1517324981010">
-        <mark key="[" line="287" column="4" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Invoice.php" timestamp="1517327425788">
+        <mark key="[" line="176" column="31" />
         <mark key="]" line="325" column="4" />
         <mark key="." line="325" column="4" />
       </file>
@@ -3652,10 +3652,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InterventionsGrid/InterventionsGrid.php" timestamp="1517320997314">
-        <mark key="[" line="167" column="45" />
-        <mark key="]" line="167" column="45" />
-        <mark key="." line="167" column="45" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InterventionsGrid/InterventionsGrid.php" timestamp="1517327230090">
+        <mark key="[" line="208" column="0" />
+        <mark key="]" line="208" column="0" />
+        <mark key="." line="208" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Latte/CmpProvider.php" timestamp="1508223813151">
         <mark key="[" line="82" column="0" />
@@ -4128,7 +4128,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517324879623">
+      <file name="/Dummy.txt" timestamp="1517326375391">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -4711,7 +4711,7 @@
         <mark key="]" line="19" column="4" />
         <mark key="." line="19" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InquiriesGrid/InquiriesGrid.php" timestamp="1516196763396">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InquiriesGrid/InquiriesGrid.php" timestamp="1517326399688">
         <mark key="[" line="70" column="55" />
         <mark key="]" line="42" column="4" />
         <mark key="." line="42" column="4" />
@@ -5099,8 +5099,8 @@
         <mark key="]" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractForm/ContractForm.php" timestamp="1517320199879">
-        <mark key="[" line="140" column="36" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractForm/ContractForm.php" timestamp="1517327241578">
+        <mark key="[" line="142" column="20" />
         <mark key="]" line="110" column="8" />
         <mark key="." line="110" column="8" />
       </file>
@@ -6752,12 +6752,8 @@
       <jump line="34" column="22" filename="/home/www/html/dv/adera/Modules/Invoicing/Intervention.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/**
-	 * @ORM\OneToMany(targetEntity=&quot;Intervention&quot;, mappedBy=&quot;contract&quot;)
-	 * @var Intervention[]|ArrayCollection
-	 */
-	private $interventions;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJJHRoaXMtPm9uVmlld0NoYW5nZWQobnVsbCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JHRoaXMtPmNvbnRyYWN0LCAkaW50ZXJ2ZW50aW9u</text>
@@ -6768,58 +6764,36 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQkJJHRoaXMtPm9uVmlld0NoYW5nZWQobnVsbCk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJJHRoaXMtPm9uVmlld0NoYW5nZWQoJHRoaXMtPm51bGwpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkkdGhpcy0+b25WaWV3Q2hhbmdlZCgkdGhpcy0+dmlldyk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkkdGhpcy0+b25WaWV3Q2hhbmdlZCgkdGhpcy0+dmlldyk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICogQHBhY2thZ2UgSW52b2ljaW5nXENvbXBvbmVudHNcSW50ZXJ2ZW50aW9uc0dyaWQK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICogQ2xhc3MgSW50ZXJ2ZW50aW9uc0dyaWQK</text>
+      </register>
+      <register name="9" type="4">
         <text>/**
 	 * @ORM\OneToMany(targetEntity=&quot;Intervention&quot;, mappedBy=&quot;contract&quot;)
 	 * @var Intervention[]|ArrayCollection
 	 */
 	private $interventions;</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIENvbnRyYWN0CgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRDb250cmFjdCgpOiBDb250cmFjdAoJewoJCXJldHVybiAkdGhpcy0+Y29udHJhY3Q7Cgl9CgkKCQoJLyoqCgkgKiBAcGFyYW0gQ29udHJhY3QgJGNvbnRyYWN0CgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRDb250cmFjdChDb250cmFjdCAkY29udHJhY3QpCgl7CgkJJHRoaXMtPmNvbnRyYWN0ID0gJGNvbnRyYWN0OwoJfQ==</text>
-      </register>
-      <register name="3" type="4">
-        <text>/**
-	 * @ORM\ManyToOne(targetEntity=&quot;Contract&quot;, inversedBy=&quot;interventions&quot;)
-	 * @ORM\JoinColumn(name=&quot;contract_id&quot;, referencedColumnName=&quot;id&quot;)
-	 * @Assert\NotBlank()
-	 * @var Contract
-	 */
-	private $contract;</text>
-      </register>
-      <register name="4" type="4">
-        <text>/**
-	 * @ORM\ManyToOne(targetEntity=&quot;Contract&quot;, inversedBy=&quot;interventions&quot;)
-	 * @ORM\JoinColumn(name=&quot;contract_id&quot;, referencedColumnName=&quot;id&quot;)
-	 * @Assert\NotBlank()
-	 * @var Contract
-	 */
-	private $contract;</text>
-      </register>
-      <register name="5" type="4">
-        <text>/**
-	 * @var string
-	 * @persistent
-	 */
-	public $view;
-	
-	/**
-	 * @var Intervention
-	 * @persistent
-	 */
-	public $intervention;</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCQl7ZHVtcCAoc3RyaW5nKSR0YWJOYXZzfQo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgZnVuY3Rpb24gY29weUVudGl0eURhdGEoJGZyb20sICR0bywgRW50aXR5TWFuYWdlciAkZW0sIGFycmF5ICRza2lwcGVkRmllbGRzID0gW10pOiB2b2lkCgl7CgkJJGZyb21NZXRhZGF0YSA9ICRlbS0+Z2V0Q2xhc3NNZXRhZGF0YShnZXRfY2xhc3MoJGZyb20pKTsKCQkkdG9NZXRhZGF0YSA9ICRlbS0+Z2V0Q2xhc3NNZXRhZGF0YShnZXRfY2xhc3MoJHRvKSk7CgoJCWZvcmVhY2ggKCRmcm9tTWV0YWRhdGEtPmdldEZpZWxkTmFtZXMoKSBhcyAkZmllbGROYW1lKSB7CgkJCWlmIChpbl9hcnJheSgkZmllbGROYW1lLCAkc2tpcHBlZEZpZWxkcywgdHJ1ZSkgfHwKCQkJCSFpbl9hcnJheSgkZmllbGROYW1lLCAkdG9NZXRhZGF0YS0+Z2V0RmllbGROYW1lcygpLCB0cnVlKSkgewoJCQkJY29udGludWU7CgkJCX0KCgkJCSR0b01ldGFkYXRhLT5zZXRGaWVsZFZhbHVlKCR0bywgJGZpZWxkTmFtZSwKCQkJCSRmcm9tTWV0YWRhdGEtPmdldEZpZWxkVmFsdWUoJGZyb20sICRmaWVsZE5hbWUpKTsKCQl9Cgl9</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">JGJ1c2luZXNzQ2FzZU1ldGFkYXRhID0gJGVtLT5nZXRDbGFzc01ldGFkYXRhKGdldF9jbGFzcygkZnJvbURvY3VtZW50LT5nZXRCdXNpbmVzc0Nhc2UoKSkpOwoJCSR0YXJnZXRGaWVsZCA9IHN0cnRvbG93ZXIoKG5ldyBcUmVmbGVjdGlvbkNsYXNzKCR0b0RvY3VtZW50KSktPmdldFNob3J0TmFtZSgpKTsKCQkkZnJvbU1ldGFkYXRhID0gJGVtLT5nZXRDbGFzc01ldGFkYXRhKGdldF9jbGFzcygkZnJvbURvY3VtZW50KSk7CgkJCgkJaWYgKCRidXNpbmVzc0Nhc2VNZXRhZGF0YS0+Z2V0RmllbGRWYWx1ZSgkZnJvbURvY3VtZW50LT5nZXRCdXNpbmVzc0Nhc2UoKSwgJHRhcmdldEZpZWxkKSAhPT0gbnVsbCkgewoJCQlyZXR1cm4gbnVsbDsKCQl9CgoJCSRza2lwcGVkRmllbGRzID0gWydpZCcsICdjcmVhdGVkQXQnLCAndXBkYXRlZEF0JywgJ2RlbGV0ZWRBdCcsICdkYXRlJywKCQkJJ251bWJlcicsICdmaWxlUm9vdCcsICdtZWRpYUltcG9ydElkJywgJ25vdGVzJ107CgoJCSR0b01ldGFkYXRhID0gJGVtLT5nZXRDbGFzc01ldGFkYXRhKCRjbGFzc05hbWUpOwoKCQlzZWxmOjpjb3B5RW50aXR5RGF0YSgkZnJvbURvY3VtZW50LCAkdG9Eb2N1bWVudCwgJGVtLCAkc2tpcHBlZEZpZWxkcyk7CgoJCWlmICgkZnJvbU1ldGFkYXRhLT5oYXNBc3NvY2lhdGlvbignaXRlbXMnKSAmJiAkdG9NZXRhZGF0YS0+aGFzQXNzb2NpYXRpb24oJ2l0ZW1zJykpIHsKCQkJJHRvSXRlbUNsYXNzTmFtZSA9ICR0b01ldGFkYXRhLT5nZXRBc3NvY2lhdGlvbk1hcHBpbmcoJ2l0ZW1zJylbJ3RhcmdldEVudGl0eSddOwoJCQkKCQkJZm9yZWFjaCAoJGZyb21Eb2N1bWVudC0+Z2V0SXRlbXMoKSBhcyAkZnJvbUl0ZW0pIHsKCQkJCSR0b0l0ZW0gPSBuZXcgJHRvSXRlbUNsYXNzTmFtZTsKCQkJCXNlbGY6OmNvcHlFbnRpdHlEYXRhKCRmcm9tSXRlbSwgJHRvSXRlbSwgJGVtLCBbJ2NyZWF0ZWRBdCcsICd1cGRhdGVkQXQnLCAnZGVsZXRlZEF0J10pOwoJCQkJJHRvRG9jdW1lbnQtPmFkZEl0ZW0oJHRvSXRlbSk7CgkJCX0KCQl9CgoJCS8vJGZyb21NZXRhZGF0YS0+c2V0RmllbGRWYWx1ZSgkZnJvbURvY3VtZW50LCAkdGFyZ2V0RmllbGQsICR0b0RvY3VtZW50KTsKCgkJJHRvTWV0YWRhdGEtPnNldEZpZWxkVmFsdWUoJHRvRG9jdW1lbnQsICdidXNpbmVzc0Nhc2UnLCAkZnJvbURvY3VtZW50LT5idXNpbmVzc0Nhc2UpOwoKCQlyZXR1cm4gJHRvRG9jdW1lbnQ7</text>
       </register>
       <register name=":" type="4">
         <text>104</text>
