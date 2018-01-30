@@ -1070,6 +1070,11 @@
         <mark key="]" line="46" column="8" />
         <mark key="." line="46" column="8" />
       </file>
+      <file name="/home/www/html/dv/adera/app/src/Utils/EntityCopy.php" timestamp="1517315614878">
+        <mark key="[" line="64" column="57" />
+        <mark key="]" line="64" column="57" />
+        <mark key="." line="64" column="57" />
+      </file>
       <file name="/home/www/html/dv/cms/src/Url/DI/UrlExtension.php" timestamp="1505307067476">
         <mark key="[" line="40" column="4" />
         <mark key="]" line="40" column="8" />
@@ -4108,7 +4113,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517243628733">
+      <file name="/Dummy.txt" timestamp="1517314887317">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -4208,7 +4213,7 @@
         <mark key="]" line="24" column="4" />
         <mark key="." line="24" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/BaseBusinessCaseDocument.php" timestamp="1516886554573">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/BaseBusinessCaseDocument.php" timestamp="1517314862666">
         <mark key="[" line="24" column="39" />
         <mark key="]" line="24" column="40" />
         <mark key="." line="24" column="40" />
@@ -6732,10 +6737,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JG5ld1JlY29yZCA=</text>
+        <text>$em,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JG5ld1JlY29yZCA=</text>
+        <text>$em,</text>
       </register>
       <register name="/" type="4">
         <text>notes</text>
@@ -6744,31 +6749,31 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQk8L2xpPgo=</text>
+        <text encoding="base64">CXVzZSBTdGF0aWNDbGFzczsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQk8bGkgY2xhc3M9ImFjdGl2ZSI+Cg==</text>
+        <text encoding="base64">CQkJCQk8L2xpPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJeyogPGxpPjxhIGhyZWY9IiNub3RlcyIgZGF0YS10b2dnbGU9InRhYiI+UG96bsOhbWt5PC9hPjwvbGk+ICp9Cg==</text>
+        <text encoding="base64">CQkJCQk8bGkgY2xhc3M9ImFjdGl2ZSI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkkdGVtcGxhdGUtPmluUHJlc2VudGVyID0gJHRoaXMtPnBhcmVudCBpbnN0YW5jZW9mIFByZXNlbnRlcjsK</text>
+        <text encoding="base64">CQkJCQkJeyogPGxpPjxhIGhyZWY9IiNub3RlcyIgZGF0YS10b2dnbGU9InRhYiI+UG96bsOhbWt5PC9hPjwvbGk+ICp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CTwvZGl2Pgo=</text>
+        <text encoding="base64">CQkkdGVtcGxhdGUtPmluUHJlc2VudGVyID0gJHRoaXMtPnBhcmVudCBpbnN0YW5jZW9mIFByZXNlbnRlcjsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">CTwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQk8ZGl2IG46dGFnLWlmPSIkaW5QcmVzZW50ZXIiIGNsYXNzPSJib3gtYm9keSI+Cg==</text>
+        <text encoding="base64">CTwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CTxkaXYgbjp0YWctaWY9IiRpblByZXNlbnRlciIgY2xhc3M9ImJveCI+Cg==</text>
+        <text encoding="base64">CQk8ZGl2IG46dGFnLWlmPSIkaW5QcmVzZW50ZXIiIGNsYXNzPSJib3gtYm9keSI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CTwvZGl2Pgo=</text>
+        <text encoding="base64">CTxkaXYgbjp0YWctaWY9IiRpblByZXNlbnRlciIgY2xhc3M9ImJveCI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>104</text>
