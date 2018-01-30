@@ -2423,10 +2423,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractForm/ContractForm.latte" timestamp="1517230836535">
-        <mark key="[" line="39" column="17" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractForm/ContractForm.latte" timestamp="1517313509623">
+        <mark key="[" line="38" column="70" />
+        <mark key="]" line="38" column="68" />
+        <mark key="." line="38" column="68" />
+        <mark key="^" line="38" column="68" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Order.php" timestamp="1517295839462">
         <mark key="[" line="17" column="13" />
@@ -6595,8 +6596,11 @@
         <mark key="]" line="82" column="34" />
         <mark key="." line="82" column="34" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" timestamp="1517296128108">
-        <mark key="[" line="64" column="33" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" timestamp="1517314453780">
+        <mark key="'" line="82" column="50" />
+        <mark key="[" line="134" column="82" />
+        <mark key="]" line="134" column="82" />
+        <mark key="." line="134" column="82" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Apotheke/ApothekeAccountsRepository.php" timestamp="1509453649535">
         <mark key="[" line="33" column="0" />
@@ -6625,7 +6629,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="356" column="96" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
       <jump line="56" column="29" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
       <jump line="222" column="23" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="40" column="32" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
@@ -6725,55 +6728,56 @@
       <jump line="270" column="30" filename="/home/www/html/nnb/nezadouci-udalosti/app/Model/Entities/IncidentEntity.php" />
       <jump line="34" column="43" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" />
       <jump line="127" column="46" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractsGrid/ContractsGrid.php" />
+      <jump line="82" column="50" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkkdGVtcGxhdGUtPmluUHJlc2VudGVyID0gJHRoaXMtPnBhcmVudCBpbnN0YW5jZW9mIFByZXNlbnRlcjsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JG5ld1JlY29yZCA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT5yZW5kZXIoKQ==</text>
+        <text encoding="base64">JG5ld1JlY29yZCA=</text>
       </register>
       <register name="/" type="4">
-        <text>getParams</text>
+        <text>notes</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkkdGVtcGxhdGUtPmluUHJlc2VudGVyID0gJHRoaXMtPnBhcmVudCBpbnN0YW5jZW9mIFByZXNlbnRlcjsK</text>
+        <text encoding="base64">CQkJCQk8L2xpPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CTwvZGl2Pgo=</text>
+        <text encoding="base64">CQkJCQk8bGkgY2xhc3M9ImFjdGl2ZSI+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CTwvZGl2Pgo=</text>
+        <text encoding="base64">CQkJCQkJeyogPGxpPjxhIGhyZWY9IiNub3RlcyIgZGF0YS10b2dnbGU9InRhYiI+UG96bsOhbWt5PC9hPjwvbGk+ICp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQk8ZGl2IG46dGFnLWlmPSIkaW5QcmVzZW50ZXIiIGNsYXNzPSJib3gtYm9keSI+Cg==</text>
+        <text encoding="base64">CQkkdGVtcGxhdGUtPmluUHJlc2VudGVyID0gJHRoaXMtPnBhcmVudCBpbnN0YW5jZW9mIFByZXNlbnRlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CTxkaXYgbjp0YWctaWY9IiRpblByZXNlbnRlciIgY2xhc3M9ImJveCI+Cg==</text>
+        <text encoding="base64">CTwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">CTwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQk8L2Rpdj4K</text>
+        <text encoding="base64">CQk8ZGl2IG46dGFnLWlmPSIkaW5QcmVzZW50ZXIiIGNsYXNzPSJib3gtYm9keSI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQk8ZGl2IG46dGFnLWlmPSIkaW5QcmVzZW50ZXIiIGNsYXNzPSJjb2wtbWQtMTIiPgo=</text>
+        <text encoding="base64">CTxkaXYgbjp0YWctaWY9IiRpblByZXNlbnRlciIgY2xhc3M9ImJveCI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CTxkaXYgbjp0YWctaWY9IiRpblByZXNlbnRlciIgY2xhc3M9InJvdyI+Cg==</text>
+        <text encoding="base64">CTwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>104</text>
       </register>
     </registers>
     <search>
-      <last-search>getParams</last-search>
+      <last-search>notes</last-search>
       <last-offset />
-      <last-pattern>getParams</last-pattern>
+      <last-pattern>notes</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -6781,7 +6785,6 @@
     </search>
     <history>
       <history-search>
-        <entry>visitHours</entry>
         <entry>createTimeLine</entry>
         <entry>Closure</entry>
         <entry>createReflection</entry>
@@ -6801,6 +6804,7 @@
         <entry>date</entry>
         <entry>getNumber</entry>
         <entry>getParams</entry>
+        <entry>notes</entry>
       </history-search>
       <history-cmd>
         <entry>%s/this.element/this.$element/g</entry>
