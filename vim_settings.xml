@@ -1692,10 +1692,10 @@
         <mark key="]" line="29" column="16" />
         <mark key="." line="29" column="16" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Utils/DocumentCopy.php" timestamp="1517318608208">
-        <mark key="[" line="75" column="72" />
-        <mark key="]" line="34" column="52" />
-        <mark key="." line="34" column="52" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Utils/DocumentCopy.php" timestamp="1517403018630">
+        <mark key="[" line="57" column="16" />
+        <mark key="]" line="57" column="16" />
+        <mark key="." line="57" column="16" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccountsLastAccessControl/templates/AccountsLastAccessControl.latte" timestamp="1509354267201">
         <mark key="[" line="4" column="0" />
@@ -6746,11 +6746,12 @@
       <jump line="34" column="22" filename="/home/www/html/dv/adera/Modules/Invoicing/Intervention.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlpZiAobWV0aG9kX2V4aXN0cygkZnJvbURvY3VtZW50LCAnZ2V0QnVzaW5lc3NDYXNlJykpCg==</text>
+      <register name="&quot;" type="4">
+        <text>dump($toItem);
+				exit;</text>
       </register>
       <register name="-" type="4">
-        <text>extends IElFinderFileConsumer, INotes</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>invoice</text>
@@ -6758,42 +6759,33 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlpZiAobWV0aG9kX2V4aXN0cygkZnJvbURvY3VtZW50LCAnZ2V0QnVzaW5lc3NDYXNlJykpCg==</text>
+      <register name="1" type="4">
+        <text>dump($toItem);
+				exit;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXEVudGl0eU1hbmFnZXI7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">dXNlIEludm9pY2luZ1xVdGlsc1xEb2N1bWVudENvcHk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXNlIE5vdGVcSU5vdGVzOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJcRWxGaW5kZXJcRG9jdHJpbmVcSUVsRmluZGVyRmlsZUNvbnN1bWVyOwo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>/*
-		if ($toClassName === get_class($fromDocument)) {
-			throw new InvalidArgumentException(sprintf('This is a some document type &quot;%s&quot;.', static::class));
-		}
-		*/</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkvLyR0b0RvY3VtZW50ID0gY2FsbF91c2VyX2Z1bmMoJHRvQ2xhc3NOYW1lIC4gJzo6Y3JlYXRlRnJvbURvY3VtZW50JywgJGZyb21Eb2N1bWVudCwgJHRoaXMtPmVtKTsK</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
-      <register name="9" type="4">
-        <text>public static function createFromDocument(BaseBusinessCaseDocument $fromDocument, EntityManager $em): BaseBusinessCaseDocument
-	{
-		/** @var Invoice $document */
-		$document = parent::createFromDocument($fromDocument, $em);
-		
-		return $document;
-	}</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQlkdW1wKCR0b0RvY3VtZW50KTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQlpZiAobWV0aG9kX2V4aXN0cygkZnJvbURvY3VtZW50LCAnZ2V0QnVzaW5lc3NDYXNlJykpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXEVudGl0eU1hbmFnZXI7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dXNlIEludm9pY2luZ1xVdGlsc1xEb2N1bWVudENvcHk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">dXNlIE5vdGVcSU5vdGVzOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">dXNlIEhybmNpcnJcRWxGaW5kZXJcRG9jdHJpbmVcSUVsRmluZGVyRmlsZUNvbnN1bWVyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>104</text>
