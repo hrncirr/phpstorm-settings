@@ -389,8 +389,8 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InterventionsGrid/templates/InterventionsGrid.latte" timestamp="1517394403815">
-        <mark key="[" line="39" column="20" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InterventionsGrid/templates/InterventionsGrid.latte" timestamp="1517401072758">
+        <mark key="[" line="39" column="23" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
@@ -1486,8 +1486,8 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseDocumentFormControl.php" timestamp="1517399495086">
-        <mark key="[" line="49" column="35" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseDocumentFormControl.php" timestamp="1517400696498">
+        <mark key="[" line="50" column="70" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractsGrid/OrdersGrid.php" timestamp="1516792003299">
         <mark key="[" line="18" column="0" />
@@ -2271,10 +2271,10 @@
         <mark key="]" line="69" column="8" />
         <mark key="." line="69" column="8" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Presenters/BaseBusinessCaseDocumentPresenter.php" timestamp="1517398216922">
-        <mark key="[" line="54" column="4" />
-        <mark key="]" line="54" column="8" />
-        <mark key="." line="54" column="8" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Presenters/BaseBusinessCaseDocumentPresenter.php" timestamp="1517401306026">
+        <mark key="[" line="64" column="63" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Offer.php" timestamp="1517324909762">
         <mark key="[" line="81" column="15" />
@@ -6747,7 +6747,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXEVudGl0eU1hbmFnZXI7Cg==</text>
+        <text encoding="base64">CQlpZiAobWV0aG9kX2V4aXN0cygkZnJvbURvY3VtZW50LCAnZ2V0QnVzaW5lc3NDYXNlJykpCg==</text>
       </register>
       <register name="-" type="4">
         <text>extends IElFinderFileConsumer, INotes</text>
@@ -6759,31 +6759,34 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXEVudGl0eU1hbmFnZXI7Cg==</text>
+        <text encoding="base64">CQlpZiAobWV0aG9kX2V4aXN0cygkZnJvbURvY3VtZW50LCAnZ2V0QnVzaW5lc3NDYXNlJykpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEludm9pY2luZ1xVdGlsc1xEb2N1bWVudENvcHk7Cg==</text>
+        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXEVudGl0eU1hbmFnZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIE5vdGVcSU5vdGVzOwo=</text>
+        <text encoding="base64">dXNlIEludm9pY2luZ1xVdGlsc1xEb2N1bWVudENvcHk7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">dXNlIE5vdGVcSU5vdGVzOwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">dXNlIEhybmNpcnJcRWxGaW5kZXJcRG9jdHJpbmVcSUVsRmluZGVyRmlsZUNvbnN1bWVyOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>/*
 		if ($toClassName === get_class($fromDocument)) {
 			throw new InvalidArgumentException(sprintf('This is a some document type &quot;%s&quot;.', static::class));
 		}
 		*/</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkvLyR0b0RvY3VtZW50ID0gY2FsbF91c2VyX2Z1bmMoJHRvQ2xhc3NOYW1lIC4gJzo6Y3JlYXRlRnJvbURvY3VtZW50JywgJGZyb21Eb2N1bWVudCwgJHRoaXMtPmVtKTsK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>public static function createFromDocument(BaseBusinessCaseDocument $fromDocument, EntityManager $em): BaseBusinessCaseDocument
 	{
 		/** @var Invoice $document */
@@ -6791,9 +6794,6 @@
 		
 		return $document;
 	}</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">cHVibGljIHN0YXRpYyBmdW5jdGlvbiBjcmVhdGVGcm9tRG9jdW1lbnQoQmFzZUJ1c2luZXNzQ2FzZURvY3VtZW50ICRmcm9tRG9jdW1lbnQsIEVudGl0eU1hbmFnZXIgJGVtKTogQmFzZUJ1c2luZXNzQ2FzZURvY3VtZW50Cgl7CgkJaWYgKHN0YXRpYzo6Y2xhc3MgPT09IGdldF9jbGFzcygkZnJvbURvY3VtZW50KSkgewoJCQl0aHJvdyBuZXcgSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uKHNwcmludGYoJ1RoaXMgaXMgYSBzb21lIGRvY3VtZW50IHR5cGUgIiVzIi4nLCBzdGF0aWM6OmNsYXNzKSk7CgkJfQoKCQkkY2xhc3NOYW1lID0gc3RhdGljOjpjbGFzczsKCQkkdG9Eb2N1bWVudCA9IG5ldyAkY2xhc3NOYW1lOwoJCQoJCSRkb2N1bWVudENvcHkgPSBuZXcgRG9jdW1lbnRDb3B5KCRlbSk7CgkJCgkJcmV0dXJuICRkb2N1bWVudENvcHktPmNvcHkoJGZyb21Eb2N1bWVudCwgJHRvRG9jdW1lbnQpID8gJHRvRG9jdW1lbnQgOiBudWxsOwoJfQ==</text>
       </register>
       <register name=":" type="4">
         <text>104</text>
