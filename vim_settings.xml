@@ -36,7 +36,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1517316298593">
+      <file name="/a.dummy" timestamp="1517479439263">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1651,6 +1651,9 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Dashboard/Presenters/CalendarPresenter.php" timestamp="1517479445368">
+        <mark key="[" line="32" column="6" />
+      </file>
       <file name="/home/www/html/bul/laboratory-methods/app/config/extensions.neon" timestamp="1496669592999">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -1901,6 +1904,9 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/Dashboard/DI/DashboardExtension.php" timestamp="1517479399119">
+        <mark key="[" line="4" column="11" />
       </file>
       <file name="/home/www/html/bul/medical_examinations/app/SummaryModule/presenters/SignPresenter.php" timestamp="1480672822111">
         <mark key="[" line="32" column="15" />
@@ -4969,6 +4975,9 @@
         <mark key="]" line="35" column="4" />
         <mark key="." line="35" column="4" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Dashboard/Install/CalendarInstall.php" timestamp="1517479428855">
+        <mark key="[" line="4" column="10" />
+      </file>
       <file name="/home/www/html/nnb/dms/css/file.preview.spinner.css" timestamp="1489570367983">
         <mark key="[" line="64" column="1" />
         <mark key="]" line="64" column="1" />
@@ -6771,10 +6780,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+        <text>Calendar</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>Calendar</text>
       </register>
       <register name="/" type="4">
         <text>invoice</text>
