@@ -389,11 +389,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InterventionsGrid/templates/InterventionsGrid.latte" timestamp="1517476845890">
-        <mark key="[" line="54" column="87" />
-        <mark key="]" line="36" column="67" />
-        <mark key="." line="36" column="67" />
-        <mark key="^" line="36" column="91" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InterventionsGrid/templates/InterventionsGrid.latte" timestamp="1517478157477">
+        <mark key="[" line="54" column="24" />
+        <mark key="]" line="54" column="24" />
+        <mark key="." line="54" column="24" />
       </file>
       <file name="/home/www/html/nnb/laboratory-methods/app/components/BaseControl.php" timestamp="1486737114809">
         <mark key="[" line="5" column="0" />
@@ -6365,6 +6364,11 @@
         <mark key="]" line="23" column="4" />
         <mark key="." line="23" column="4" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Dashboard/Event.php" timestamp="1517478298712">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/home/www/html/bul/medical_examinations/app/components/GridFactory.php" timestamp="1491302816865">
         <mark key="[" line="43" column="8" />
         <mark key="]" line="43" column="8" />
@@ -6631,11 +6635,11 @@
         <mark key="]" line="82" column="34" />
         <mark key="." line="82" column="34" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" timestamp="1517476559381">
-        <mark key="'" line="82" column="50" />
-        <mark key="[" line="110" column="17" />
-        <mark key="]" line="110" column="17" />
-        <mark key="." line="110" column="17" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" timestamp="1517477589108">
+        <mark key="'" line="86" column="50" />
+        <mark key="[" line="94" column="24" />
+        <mark key="]" line="94" column="28" />
+        <mark key="." line="94" column="28" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Apotheke/ApothekeAccountsRepository.php" timestamp="1509453649535">
         <mark key="[" line="33" column="0" />
@@ -6767,10 +6771,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n:snippet=&quot;tabs</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="-" type="4">
-        <text>n:snippet=&quot;tabs</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text>invoice</text>
@@ -6778,36 +6782,34 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCX0K</text>
+      <register name="1" type="4">
+        <text encoding="base64">PGEgaHJlZj0ie3BsaW5rIEludm9pY2VzOiBpZCA9PiAkaW50ZXJ2ZW50aW9uLT5nZXRJZCgpLCBmcm9tID0+ICdpbnRlcnZlbnRpb24nfSIKCQkJCQkJICAgY2xhc3M9ImJ0biBidG4teHMgYnRuLXN1Y2Nlc3MiPkZha3R1cm92YXQ8L2E+</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkkdGhpcy0+cmVkcmF3Q29udHJvbCgnY29udGVudCcpOwo=</text>
+        <text encoding="base64">CQkJCQkJPGEgbjpocmVmPSJlZGl0ISAkaW50ZXJ2ZW50aW9uIiBjbGFzcz0iYnRuIGJ0bi14cyBidG4tZGFuZ2VyIGFqYXgiPk5hcGzDoW5vdmF0PC9hPgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCWlmICgkbmV3KSB7Cg==</text>
+      <register name="3" type="4">
+        <text>{ifset $form['workers']}
+								{pair workers}
+							{/ifset}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkkdGhpcy0+cmVkcmF3Q29udHJvbCgndGFicycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIGludHxudWxsCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRNb250aCgpOiA/aW50Cgl7CgkJcmV0dXJuICR0aGlzLT5tb250aDsKCX0KCQoJCgkvKioKCSAqIEBwYXJhbSBpbnQgJG1vbnRoCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRNb250aChpbnQgJG1vbnRoKQoJewoJCSR0aGlzLT5tb250aCA9ICRtb250aDsKCX0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQkJCXtibG9jayBkZXRhaWxzfQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>/**
-	 * @ORM\Column(type=&quot;boolean&quot;)
-	 * @var bool
-	 */
-	private $finished;</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJPGEgbjpocmVmPSJlZGl0ISAkaW50ZXJ2ZW50aW9uIiBjbGFzcz0iYnRuIGJ0bi14cyBidG4tZGFuZ2VyIj5OYXBsw6Fub3ZhdDwvYT4K</text>
+        <text encoding="base64">CQkJCQkkdGhpcy0+cmVkcmF3Q29udHJvbCgnY29udGVudCcpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJPGEgaHJlZj0ie3BsaW5rIEludm9pY2VzOiBpZCA9PiAkaW50ZXJ2ZW50aW9uLT5nZXRJZCgpLCBmcm9tID0+ICdpbnRlcnZlbnRpb24nfSIgY2xhc3M9ImJ0biBidG4teHMgYnRuLXN1Y2Nlc3MiPkZha3R1cm92YXQ8L2E+Cg==</text>
+        <text encoding="base64">CQkJCWlmICgkbmV3KSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkkdGhpcy0+cmVkcmF3Q29udHJvbCgndGFicycpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>104</text>
