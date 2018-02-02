@@ -350,8 +350,10 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/application/src/UI/TTranslatorComponent.php" timestamp="1517570818205">
-        <mark key="[" line="48" column="36" />
+      <file name="/home/www/vendor/hrncirr/application/src/UI/TTranslatorComponent.php" timestamp="1517578247912">
+        <mark key="[" line="48" column="5" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="/home/www/html/bul/maternal-register/app/templates/@layout.latte" timestamp="1489995117356">
         <mark key="[" line="13" column="0" />
@@ -1837,8 +1839,10 @@
         <mark key="]" line="84" column="98" />
         <mark key="." line="84" column="98" />
       </file>
-      <file name="/home/www/vendor/hrncirr/application/src/UI/ITranslatorComponent.php" timestamp="1517570864878">
-        <mark key="[" line="21" column="36" />
+      <file name="/home/www/vendor/hrncirr/application/src/UI/ITranslatorComponent.php" timestamp="1517578272136">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="4" />
+        <mark key="." line="19" column="4" />
       </file>
       <file name="/home/www/html/dv/cms/app/config/modules.neon" timestamp="1505305339955">
         <mark key="[" line="19" column="33" />
@@ -4193,7 +4197,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517572871325">
+      <file name="/Dummy.txt" timestamp="1517578294454">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
@@ -6829,7 +6833,12 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgIA==</text>
+        <text>/**
+	 * @param ITranslator $translator
+	 *
+	 * @return void
+	 */
+	public function setTranslator(ITranslator $translator): void;</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAgICAgIA==</text>
@@ -6840,32 +6849,37 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICogQHBhY2thZ2UK</text>
+      <register name="1" type="4">
+        <text>/**
+	 * @param ITranslator $translator
+	 *
+	 * @return void
+	 */
+	public function setTranslator(ITranslator $translator): void;</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CSAqIEByZXR1cm4gJHRoaXMK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQlyZXR1cm4gJHRoaXM7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICogQHBhY2thZ2UK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">dXNlIE5ldHRlXEJyaWRnZXNcQXBwbGljYXRpb25MYXR0ZVxUZW1wbGF0ZTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5nZXRQcmVzZW50ZXIoKS0+aXNBamF4KCkpIHsKCQkJCSR0aGlzLT5yZWRyYXdDb250cm9sKCk7CgkJCX0=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">JHRoaXMtPnJlZHJhd0NvbnRyb2woJ2NvbnRlbnQnKTsKCQkJCQoJCQl9IGVsc2Ugew==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5nZXRQcmVzZW50ZXIoKS0+aXNBamF4KCkpIHsKCQkJJHRoaXMtPnJlZHJhd0NvbnRyb2woKTsKCQl9</text>
-      </register>
       <register name="6" type="4">
-        <text encoding="base64">CgkJaWYgKCR0aGlzLT5nZXRQcmVzZW50ZXIoKS0+aXNBamF4KCkpIHsKCQkJJHRoaXMtPnJlZHJhd0NvbnRyb2woKTsKCQl9CgkJ</text>
+        <text encoding="base64">aWYgKCR0aGlzLT5nZXRQcmVzZW50ZXIoKS0+aXNBamF4KCkpIHsKCQkJCSR0aGlzLT5yZWRyYXdDb250cm9sKCk7CgkJCX0=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHJlbmRlcigpCgl7CgkJLyoqIEB2YXIgVGVtcGxhdGUgJHRlbXBsYXRlICovCgkJJHRlbXBsYXRlID0gJHRoaXMtPmdldFRlbXBsYXRlKCk7CgkJCgkJaWYgKCEkdGhpcy0+dmlldykgewoJCQkkaW50ZXJ2ZW50aW9ucyA9IFtdOwoJCQkkYXZhaWxhYmxlSW50ZXJ2ZW50aW9ucyA9ICR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShJbnRlcnZlbnRpb246OmNsYXNzKQoJCQkJLT5maW5kQnkoWydjb250cmFjdCcgPT4gJHRoaXMtPmNvbnRyYWN0XSk7CgkJCQoJCQkkZG9jdW1lbnRDb3B5ID0gbmV3IERvY3VtZW50Q29weSgkdGhpcy0+ZW0pOwoJCQkvKiogQHZhciBJbnRlcnZlbnRpb24gJGF2YWlsYWJsZUludGVydmVudGlvbiAqLwoJCQlmb3JlYWNoICgkYXZhaWxhYmxlSW50ZXJ2ZW50aW9ucyBhcyAkYXZhaWxhYmxlSW50ZXJ2ZW50aW9uKSB7CgkJCQkkaW50ZXJ2ZW50aW9uc1skYXZhaWxhYmxlSW50ZXJ2ZW50aW9uLT5nZXRNb250aCgpXSA9ICRhdmFpbGFibGVJbnRlcnZlbnRpb247CgkJCX0KCQkJCgkJCWZvcmVhY2ggKCR0aGlzLT5jb250cmFjdC0+Z2V0U2NoZWR1bGUoKSBhcyAkbW9udGgpIHsKCQkJCWlmICghYXJyYXlfa2V5X2V4aXN0cygkbW9udGgsICRpbnRlcnZlbnRpb25zKSkgewoJCQkJCSRpbnRlcnZlbnRpb24gPSBuZXcgSW50ZXJ2ZW50aW9uKCk7CgkJCQkJJGludGVydmVudGlvbi0+c2V0TW9udGgoKGludCkgJG1vbnRoKTsKCQkJCQkkZG9jdW1lbnRDb3B5LT5jb3B5KCR0aGlzLT5jb250cmFjdCwgJGludGVydmVudGlvbik7CgkJCQkJJGludGVydmVudGlvbnNbJG1vbnRoXSA9ICRpbnRlcnZlbnRpb247CgkJCQl9CgkJCX0KCQkJCgkJCSR0ZW1wbGF0ZS0+aW50ZXJ2ZW50aW9ucyA9ICRpbnRlcnZlbnRpb25zOwoJCQkKCQkJJHRlbXBsYXRlLT5yZW5kZXIoX19ESVJfXyAuICcvdGVtcGxhdGVzL0ludGVydmVudGlvbnNHcmlkLmxhdHRlJyk7CgkJCQoJCX0gZWxzZWlmICgkdGhpcy0+dmlldyA9PT0gJ2Zvcm0nKSB7CgkJCSR0ZW1wbGF0ZS0+cmVuZGVyKF9fRElSX18gLiAnL3RlbXBsYXRlcy9JbnRlcnZlbnRpb25Gb3JtLmxhdHRlJyk7CgkJfQoJfQ==</text>
+        <text encoding="base64">JHRoaXMtPnJlZHJhd0NvbnRyb2woJ2NvbnRlbnQnKTsKCQkJCQoJCQl9IGVsc2Ugew==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkkdGhpcy0+dGVtcGxhdGUtPnJlbmRlcihfX0RJUl9fIC4gJy90ZW1wbGF0ZXMvT3JkZXJzR3JpZC5sYXR0ZScpOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">aWYgKCR0aGlzLT5nZXRQcmVzZW50ZXIoKS0+aXNBamF4KCkpIHsKCQkJJHRoaXMtPnJlZHJhd0NvbnRyb2woKTsKCQl9</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5nZXRQcmVzZW50ZXIoKS0+aXNBamF4KCkpIHsKCQkJCSR0aGlzLT5yZWRyYXdDb250cm9sKCk7CgkJCX0=</text>
+        <text encoding="base64">CgkJaWYgKCR0aGlzLT5nZXRQcmVzZW50ZXIoKS0+aXNBamF4KCkpIHsKCQkJJHRoaXMtPnJlZHJhd0NvbnRyb2woKTsKCQl9CgkJ</text>
       </register>
       <register name=":" type="4">
         <text>104</text>
