@@ -2868,7 +2868,8 @@
         <mark key="]" line="22" column="4" />
         <mark key="." line="22" column="4" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/DocumentFacade.php" timestamp="1495784456413">
+      <file name="/home/www/html/nnb/dms/src/Documents/DocumentFacade.php" timestamp="1517836866530">
+        <mark key="'" line="134" column="24" />
         <mark key="[" line="303" column="45" />
         <mark key="]" line="305" column="0" />
         <mark key="." line="305" column="0" />
@@ -6761,7 +6762,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="13" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="92" column="17" filename="/home/www/vendor/hrncirr/cmp/src/Compiler/Filters/MediaFileFilter.php" />
       <jump line="130" column="24" filename="/home/www/vendor/hrncirr/cmp/src/Compiler/Filters/MediaFileFilter.php" />
       <jump line="978" column="46" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
@@ -6861,6 +6861,7 @@
       <jump line="94" column="20" filename="/home/www/vendor/hrncirr/modals/src/Components/ModalControl/ModalControl.php" />
       <jump line="98" column="41" filename="/home/www/vendor/hrncirr/modals/src/Components/ModalControl/ModalControl.php" />
       <jump line="100" column="30" filename="/home/www/vendor/hrncirr/modals/src/Components/ModalControl/ModalControl.php" />
+      <jump line="134" column="24" filename="/home/www/html/nnb/dms/src/Documents/DocumentFacade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -6870,7 +6871,7 @@
         <text encoding="base64">ISRwcm9wWydkb2N1bWVudCddLT5pc0F0dGFjaG1lbnQoKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>notClosable</text>
+        <text>NULL</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
@@ -6903,13 +6904,13 @@
         <text encoding="base64">dXNlIE5ldHRlXEJyaWRnZXNcQXBwbGljYXRpb25MYXR0ZVxUZW1wbGF0ZTsK</text>
       </register>
       <register name=":" type="4">
-        <text>104</text>
+        <text>%s/NULL/null/g</text>
       </register>
     </registers>
     <search>
-      <last-search>notClosable</last-search>
+      <last-search>NULL</last-search>
       <last-offset />
-      <last-pattern>notClosable</last-pattern>
+      <last-pattern>NULL</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -6925,7 +6926,6 @@
         <entry>remove</entry>
         <entry>groups</entry>
         <entry>DateTimeImmutable</entry>
-        <entry>NULL</entry>
         <entry>decubitus</entry>
         <entry>date</entry>
         <entry>getNumber</entry>
@@ -6937,6 +6937,7 @@
         <entry>try</entry>
         <entry>dump</entry>
         <entry>notClosable</entry>
+        <entry>NULL</entry>
       </history-search>
       <history-cmd>
         <entry>%s/this.element/this.$element/g</entry>
@@ -6955,10 +6956,10 @@
         <entry>187</entry>
         <entry>60</entry>
         <entry>%s/DateTimeImmutable/DateTime/g</entry>
-        <entry>%s/NULL/null/g</entry>
         <entry>145</entry>
         <entry>w</entry>
         <entry>104</entry>
+        <entry>%s/NULL/null/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
