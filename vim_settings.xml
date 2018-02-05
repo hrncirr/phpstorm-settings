@@ -576,6 +576,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.php" timestamp="1517829883442">
+        <mark key="[" line="70" column="9" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+      </file>
       <file name="/home/www/html/dv/cms/src/Pages/Query/PagesQuery.php" timestamp="1491828474090">
         <mark key="[" line="11" column="46" />
         <mark key="]" line="4" column="0" />
@@ -1912,10 +1917,10 @@
         <mark key="]" line="29" column="4" />
         <mark key="." line="29" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemsGrid/ItemsGrid.php" timestamp="1506502186798">
-        <mark key="[" line="11" column="49" />
-        <mark key="]" line="130" column="12" />
-        <mark key="." line="130" column="12" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemsGrid/ItemsGrid.php" timestamp="1517829955940">
+        <mark key="[" line="152" column="56" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/ContactsGrid/ContactsGrid.latte" timestamp="1516112544291">
         <mark key="[" line="1" column="18" />
@@ -2188,6 +2193,11 @@
         <mark key="[" line="26" column="47" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractsGrid/ContractsGrid.php" timestamp="1517829740530">
+        <mark key="[" line="49" column="13" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/src/Users/Resource.php" timestamp="1497013825055">
         <mark key="[" line="5" column="0" />
@@ -4600,10 +4610,10 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemGroupsGrid/ItemGroupsGrid.php" timestamp="1506502182542">
-        <mark key="[" line="11" column="49" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemGroupsGrid/ItemGroupsGrid.php" timestamp="1517829924372">
+        <mark key="[" line="113" column="61" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/src/Navigation/Install/NavigationInstall.php" timestamp="1506689801942">
         <mark key="[" line="94" column="10" />
@@ -5282,6 +5292,11 @@
         <mark key="]" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
+      <file name="/home/www/html/dv/adera/src/User/AdminModule/Components/UserGrid/UserGrid.php" timestamp="1517830134631">
+        <mark key="[" line="48" column="9" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="/home/www/html/nnb/passportization/app/Model/PathModel.php" timestamp="1505135819116">
         <mark key="[" line="38" column="63" />
         <mark key="]" line="20" column="0" />
@@ -5713,6 +5728,9 @@
       </file>
       <file name="/home/www/html/dv/adera/src/User/Security/User.php" timestamp="1515580353429">
         <mark key="[" line="21" column="23" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/FileManagerControlFactory.php" timestamp="1517830009005">
+        <mark key="[" line="87" column="49" />
       </file>
       <file name="/home/www/vendor/hrncirr/modals/src/TModalControl.php" timestamp="1517586337416">
         <mark key="[" line="144" column="4" />
@@ -6830,11 +6848,8 @@
       <jump line="100" column="30" filename="/home/www/vendor/hrncirr/modals/src/Components/ModalControl/ModalControl.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/**
-	 * @param bool $sendPayload
-	 * @param bool $useOnHideLink
-	 */</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkkdGVtcGxhdGUgPSAkdGhpcy0+Z2V0VGVtcGxhdGUoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>use TControlViews;</text>
@@ -6845,29 +6860,20 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
-        <text>/**
-	 * @param bool $sendPayload
-	 * @param bool $useOnHideLink
-	 */</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkkdGVtcGxhdGUgPSAkdGhpcy0+Z2V0VGVtcGxhdGUoKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text>/**
-	 * @param IModalControlFactouuury $modalControlFactory
-	 */</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkvKiogQHZhciBUZW1wbGF0ZSAkdGVtcGxhdGUgKi8K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CgkvKioKCSAqIEBwYXJhbSBJTW9kYWxDb250cm9sRmFjdG9yeSAkbW9kYWxDb250cm9sRmFjdG9yeQoJICovCQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXEJyaWRnZXNcQXBwbGljYXRpb25MYXR0ZVxUZW1wbGF0ZTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>/**
-	 * @param IModalControlFactory $modalControlFactory
-	 *
-	 * @throws MemberAccessException
-	 */</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkkdGVtcGxhdGUgPSAkdGhpcy0+Z2V0VGVtcGxhdGUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkvKiogQHZhciBUZW1wbGF0ZSAkdGVtcGxhdGUgKi8K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">CQkkdGVtcGxhdGUgPSAkdGhpcy0+Z2V0VGVtcGxhdGUoKTsK</text>
@@ -6876,10 +6882,10 @@
         <text encoding="base64">CQkvKiogQHZhciBUZW1wbGF0ZSAkdGVtcGxhdGUgKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkkdGVtcGxhdGUgPSAkdGhpcy0+Z2V0VGVtcGxhdGUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkkdGVtcGxhdGUgPSAkdGhpcy0+Z2V0VGVtcGxhdGUoKTsK</text>
+        <text encoding="base64">CQkvKiogQHZhciBUZW1wbGF0ZSAkdGVtcGxhdGUgKi8K</text>
       </register>
       <register name=":" type="4">
         <text>104</text>
