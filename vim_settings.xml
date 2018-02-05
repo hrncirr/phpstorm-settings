@@ -3847,6 +3847,11 @@
       <file name="/home/www/html/dv/adera/src/User/Events/UserListener.php" timestamp="1515581922068">
         <mark key="[" line="46" column="15" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/ClipboardControl/templates/ClipboardControl.latte" timestamp="1517835565140">
+        <mark key="[" line="55" column="27" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
       <file name="/home/www/vendor/hrncirr/elfinder/client-side.neon" timestamp="1507294454859">
         <mark key="[" line="7" column="28" />
         <mark key="]" line="8" column="0" />
@@ -5813,6 +5818,9 @@
         <mark key="]" line="10" column="8" />
         <mark key="." line="10" column="8" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1517836202262">
+        <mark key="[" line="206" column="106" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/FilesUploadForm/FilesUploadForm.php" timestamp="1495783367578">
         <mark key="[" line="28" column="36" />
         <mark key="]" line="118" column="22" />
@@ -6229,10 +6237,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" timestamp="1493293611618">
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="181" column="0" />
-        <mark key="." line="181" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" timestamp="1517836173566">
+        <mark key="[" line="44" column="64" />
+        <mark key="]" line="46" column="46" />
+        <mark key="." line="46" column="46" />
+        <mark key="^" line="46" column="46" />
       </file>
       <file name="/home/www/html/nnb/nezadouci-udalosti/app/Components/Modals/ViewModal.php" timestamp="1482399971117">
         <mark key="[" line="36" column="0" />
@@ -6259,10 +6268,10 @@
         <mark key="]" line="18" column="58" />
         <mark key="." line="18" column="58" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/ClipboardControl/ClipboardControl.php" timestamp="1495784679212">
-        <mark key="[" line="191" column="10" />
-        <mark key="]" line="191" column="10" />
-        <mark key="." line="191" column="10" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/ClipboardControl/ClipboardControl.php" timestamp="1517836041098">
+        <mark key="[" line="188" column="0" />
+        <mark key="]" line="188" column="0" />
+        <mark key="." line="188" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InquiriesGrid/IInquiriesGridFactory.php" timestamp="1516804760246">
         <mark key="[" line="15" column="43" />
@@ -6854,11 +6863,11 @@
       <jump line="100" column="30" filename="/home/www/vendor/hrncirr/modals/src/Components/ModalControl/ModalControl.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5nZXRQcmVzZW50ZXIoKS0+aXNBamF4KCkpIHsKCQkJCSR0aGlzLT5yZWRyYXdDb250cm9sKCk7CgkJCX0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCS0+Z3JvdXBCeSgnZG9jdW1lbnQuaWQnKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPmZsYXNoTWVzc2FnZSgnQmFua292bsOtIHNwb2plbsOtIGJ5bG8gw7pzcMSbxaFuxJsgdWxvxb5lbm8uJywgJ3N1Y2Nlc3MnKTs=</text>
+        <text encoding="base64">ISRwcm9wWydkb2N1bWVudCddLT5pc0F0dGFjaG1lbnQoKQ==</text>
       </register>
       <register name="/" type="4">
         <text>notClosable</text>
@@ -6866,44 +6875,32 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5nZXRQcmVzZW50ZXIoKS0+aXNBamF4KCkpIHsKCQkJCSR0aGlzLT5yZWRyYXdDb250cm9sKCk7CgkJCX0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCS0+Z3JvdXBCeSgnZG9jdW1lbnQuaWQnKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXEJyaWRnZXNcQXBwbGljYXRpb25MYXR0ZVxUZW1wbGF0ZTsK</text>
+        <text encoding="base64">CQkJCS0+aGF2aW5nKCdDT1VOVChkb2N1bWVudFBhcmVudHMuaWQpID0gMCcpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5nZXRQcmVzZW50ZXIoKS0+aXNBamF4KCkpIHsKCQkJJHRoaXMtPnJlZHJhd0NvbnRyb2woKTsKCQl9</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQlkdW1wKCRkb2N1bWVudCk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5nZXRQcmVzZW50ZXIoKS0+aXNBamF4KCkpIHsKCQkJJHRoaXMtPnJlZHJhd0NvbnRyb2woKTsKCQl9</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCSRkb2N1bWVudC0+aXNBdHRhY2htZW50KCkK</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHJlbmRlcigpCgl7CgkJLyoqIEB2YXIgVGVtcGxhdGUgJHRlbXBsYXRlICovCgkJJHRlbXBsYXRlID0gJHRoaXMtPmdldFRlbXBsYXRlKCk7CgoJCWlmICghJHRoaXMtPnZpZXcpIHsKCQkJJHRlbXBsYXRlLT5yZW5kZXIoX19ESVJfXyAuICcvdGVtcGxhdGVzL1N1YmplY3RzR3JpZC5sYXR0ZScpOwoJCX0gZWxzZSB7CgkJCSR0ZW1wbGF0ZS0+cmVuZGVyKF9fRElSX18gLiAnL3RlbXBsYXRlcy9TdWJqZWN0Rm9ybS5sYXR0ZScpOwoJCX0KCX0=</text>
+        <text encoding="base64">KCR0aGlzLT5kb2N1bWVudCAhPT0gbnVsbCAmJiAhJGRvY3VtZW50LT5pc0F0dGFjaG1lbnQoKSAmJiAhJGRvY3VtZW50LT5oYXNBdHRhY2htZW50cygpKSB8fAoJCQkoJHRoaXMtPmRvY3VtZW50ID09PSBudWxsICYmICEkZG9jdW1lbnQtPmlzQXR0YWNobWVudCgpICYm</text>
       </register>
-      <register name="6" type="4">
-        <text>/**
-	 * @var string
-	 * @persistent
-	 */
-	public $view;</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCQl7L2lmfQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>/**
-	 * @var string
-	 * @persistent
-	 */
-	public $view;</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCQl7aWYgJGRvY3VtZW50ID09PSBOVUxMfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJcQXBwbGljYXRpb25cVUlcVENvbnRyb2xWaWV3czsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">aWYgKCR0aGlzLT5nZXRQcmVzZW50ZXIoKS0+aXNBamF4KCkpIHsKCQkJCSR0aGlzLT5yZWRyYXdDb250cm9sKCk7CgkJCX0=</text>
       </register>
-      <register name="9" type="4">
-        <text>/**
-	 * @var string
-	 * @persistent
-	 */
-	public $view;</text>
+      <register name="9" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXEJyaWRnZXNcQXBwbGljYXRpb25MYXR0ZVxUZW1wbGF0ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>104</text>
