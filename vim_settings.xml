@@ -324,6 +324,9 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Events/DocumentFolderSortableListener.php" timestamp="1517901249003">
+        <mark key="'" line="156" column="92" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Forms/Controls/SubjectNameInput.php" timestamp="1504184435168">
         <mark key="[" line="20" column="41" />
         <mark key="]" line="73" column="0" />
@@ -4216,7 +4219,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517843810262">
+      <file name="/Dummy.txt" timestamp="1517900743439">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
@@ -5824,8 +5827,11 @@
         <mark key="]" line="10" column="8" />
         <mark key="." line="10" column="8" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1517839805634">
-        <mark key="[" line="207" column="34" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1517902235042">
+        <mark key="'" line="201" column="39" />
+        <mark key="[" line="209" column="16" />
+        <mark key="]" line="209" column="16" />
+        <mark key="." line="209" column="16" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/FilesUploadForm/FilesUploadForm.php" timestamp="1495783367578">
         <mark key="[" line="28" column="36" />
@@ -6243,10 +6249,10 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" timestamp="1517841674381">
-        <mark key="[" line="127" column="44" />
-        <mark key="]" line="127" column="44" />
-        <mark key="." line="127" column="44" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" timestamp="1517901925764">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="/home/www/html/nnb/nezadouci-udalosti/app/Components/Modals/ViewModal.php" timestamp="1482399971117">
         <mark key="[" line="36" column="0" />
@@ -6766,10 +6772,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="17" filename="/home/www/vendor/hrncirr/cmp/src/Compiler/Filters/MediaFileFilter.php" />
-      <jump line="130" column="24" filename="/home/www/vendor/hrncirr/cmp/src/Compiler/Filters/MediaFileFilter.php" />
-      <jump line="978" column="46" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
-      <jump line="983" column="52" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="1027" column="37" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="1095" column="23" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="1033" column="45" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
@@ -6866,59 +6868,63 @@
       <jump line="98" column="41" filename="/home/www/vendor/hrncirr/modals/src/Components/ModalControl/ModalControl.php" />
       <jump line="100" column="30" filename="/home/www/vendor/hrncirr/modals/src/Components/ModalControl/ModalControl.php" />
       <jump line="134" column="24" filename="/home/www/html/nnb/dms/src/Documents/DocumentFacade.php" />
+      <jump line="201" column="39" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="172" column="37" filename="/home/www/html/nnb/dms/src/Documents/Events/DocumentFolderSortableListener.php" />
+      <jump line="61" column="94" filename="/home/www/html/nnb/dms/src/Documents/Events/DocumentFolderSortableListener.php" />
+      <jump line="156" column="92" filename="/home/www/html/nnb/dms/src/Documents/Events/DocumentFolderSortableListener.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LCAkZm9sZGVyLT5pZA==</text>
+        <text encoding="base64">LT5leGNlcHRBdHRhY2htZW50c0J5Rm9sZGVyKCR0aGlzLT5wYXRoWydmb2xkZXInXSk=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCAkZm9sZGVyLT5pZA==</text>
+        <text encoding="base64">LT5leGNlcHRBdHRhY2htZW50c0J5Rm9sZGVyKCR0aGlzLT5wYXRoWydmb2xkZXInXSk=</text>
       </register>
       <register name="/" type="4">
-        <text>NULL</text>
+        <text>byDoc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJSk9JTiBkb2N1bWVudC5kb2N1bWVudEZvbGRlcnMgZG9jdW1lbnRGb2xkZXJzMgo=</text>
+        <text encoding="base64">CQkJZHVtcCgkcWIpOwo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">aWYgKGlzc2V0KCR0aGlzLT5mb2xkZXIpKSB7CgkJCWR1bXAoJHRoaXMtPmVtLT5jcmVhdGVRdWVyeShzcHJpbnRmKCdTRUxFQ1QgZG9jdW1lbnQuaWQsIGRvY3VtZW50Lm5hbWUgRlJPTSAlcyBkb2N1bWVudAoJCQlKT0lOIGRvY3VtZW50LnBhcmVudHMgZG9jdW1lbnRQYXJlbnRzCgkJCUpPSU4gZG9jdW1lbnQuZG9jdW1lbnRGb2xkZXJzIGRvY3VtZW50Rm9sZGVycwoJCQlKT0lOIGRvY3VtZW50UGFyZW50cy5kb2N1bWVudEZvbGRlcnMgZG9jdW1lbnRQYXJlbnRzRm9sZGVycwoJCQlXSEVSRSBkb2N1bWVudEZvbGRlcnMuZm9sZGVyID0gJWQgQU5EIGRvY3VtZW50UGFyZW50c0ZvbGRlcnMgPSAlZCcsIERvY3VtZW50OjpjbGFzcywKCQkJCSR0aGlzLT5mb2xkZXItPmlkLCAkdGhpcy0+Zm9sZGVyLT5pZCkpCgkJCS0+Z2V0UmVzdWx0KCkpOwoJCX0=</text>
+        <text encoding="base64">CQoJCQkkZiA9IHNwcmludGYoJ1NFTEVDVCBkb2N1bWVudC5pZCBGUk9NICVzIGRvY3VtZW50MgoJCQlKT0lOIGRvY3VtZW50LnBhcmVudHMgZG9jdW1lbnRQYXJlbnRzMgoJCQlKT0lOIGRvY3VtZW50UGFyZW50cy5kb2N1bWVudEZvbGRlcnMgZG9jdW1lbnRQYXJlbnRzRm9sZGVycwoJCQlXSEVSRSBkb2N1bWVudFBhcmVudHNGb2xkZXJzLmZvbGRlciA9ICVkJywKCQkJCURvY3VtZW50OjpjbGFzcywgJGZvbGRlci0+aWQpOwoJCQkKCQkJZWNobyAkZjsKCQkJZXhpdDsKCQkJLy8kcWItPmdldEVudGl0eU1hbmFnZXIoKS0+Y3JlYXRlUXVlcnlCdWlsZGVyKCk7</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">ZWNobyAkcWIyLT5nZXREUUwoKTsKCQkJCgkJCWVjaG8gJzxiciAvPic7</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJSk9JTiBkb2N1bWVudC5kb2N1bWVudEZvbGRlcnMgZG9jdW1lbnRGb2xkZXJzMgo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">aWYgKGlzc2V0KCR0aGlzLT5mb2xkZXIpKSB7CgkJCWR1bXAoJHRoaXMtPmVtLT5jcmVhdGVRdWVyeShzcHJpbnRmKCdTRUxFQ1QgZG9jdW1lbnQuaWQsIGRvY3VtZW50Lm5hbWUgRlJPTSAlcyBkb2N1bWVudAoJCQlKT0lOIGRvY3VtZW50LnBhcmVudHMgZG9jdW1lbnRQYXJlbnRzCgkJCUpPSU4gZG9jdW1lbnQuZG9jdW1lbnRGb2xkZXJzIGRvY3VtZW50Rm9sZGVycwoJCQlKT0lOIGRvY3VtZW50UGFyZW50cy5kb2N1bWVudEZvbGRlcnMgZG9jdW1lbnRQYXJlbnRzRm9sZGVycwoJCQlXSEVSRSBkb2N1bWVudEZvbGRlcnMuZm9sZGVyID0gJWQgQU5EIGRvY3VtZW50UGFyZW50c0ZvbGRlcnMgPSAlZCcsIERvY3VtZW50OjpjbGFzcywKCQkJCSR0aGlzLT5mb2xkZXItPmlkLCAkdGhpcy0+Zm9sZGVyLT5pZCkpCgkJCS0+Z2V0UmVzdWx0KCkpOwoJCX0=</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">c3ByaW50ZignU0VMRUNUIGRvY3VtZW50LmlkIEZST00gJXMgZG9jdW1lbnQyCgkJCUpPSU4gZG9jdW1lbnQucGFyZW50cyBkb2N1bWVudFBhcmVudHMyCgkJCUpPSU4gZG9jdW1lbnQuZG9jdW1lbnRGb2xkZXJzIGRvY3VtZW50Rm9sZGVyczIKCQkJV0hFUkUgZG9jdW1lbnRGb2xkZXJzMi5mb2xkZXIgPSAlZCcsIERvY3VtZW50OjpjbGFzcywgJGZvbGRlci0+aWQpOw==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>/**
 	 * @var EntityManager
 	 * @inject
 	 */
 	public $em;</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkkdGhpcy0+cGF0aFsnZm9sZGVyJ10pCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJJHFiLT5hbmRXaGVyZSgnZG9jdW1lbnRGb2xkZXJzLmZvbGRlciA9IDpmb2xkZXInKS0+c2V0UGFyYW1ldGVyKCdmb2xkZXInLCAkZm9sZGVyLT5nZXRJZCgpKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkkdGhpcy0+dXNlRG9jdW1lbnRGb2xkZXJzKCk7Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
       </register>
     </registers>
     <search>
-      <last-search>NULL</last-search>
+      <last-search>byDoc</last-search>
       <last-offset />
-      <last-pattern>NULL</last-pattern>
+      <last-pattern>byDoc</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -6926,7 +6932,6 @@
     </search>
     <history>
       <history-search>
-        <entry>qb</entry>
         <entry>submittedBy</entry>
         <entry>editTags</entry>
         <entry>Remove</entry>
@@ -6946,6 +6951,7 @@
         <entry>dump</entry>
         <entry>notClosable</entry>
         <entry>NULL</entry>
+        <entry>byDoc</entry>
       </history-search>
       <history-cmd>
         <entry>%s/this.element/this.$element/g</entry>
