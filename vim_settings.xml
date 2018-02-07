@@ -3182,7 +3182,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/media/src/DI/ImageExtension.php" timestamp="1513074712448">
+      <file name="/home/www/vendor/hrncirr/media/src/DI/ImageExtension.php" timestamp="1518011473116">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="114" column="8" />
         <mark key="." line="114" column="8" />
@@ -3603,6 +3603,11 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Presenters/SubjectsImportPresenter.php" timestamp="1518014001230">
+        <mark key="[" line="52" column="8" />
+        <mark key="]" line="52" column="8" />
+        <mark key="." line="52" column="8" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/TDocumentNumber.php" timestamp="1507551517656">
         <mark key="[" line="40" column="34" />
@@ -6446,10 +6451,10 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/DI/AddressBookExtension.php" timestamp="1511341739532">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/DI/AddressBookExtension.php" timestamp="1518012546065">
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/TItems.php" timestamp="1516784058567">
         <mark key="[" line="19" column="12" />
@@ -6908,10 +6913,11 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>App:IMPORT SUBJECTS</text>
+        <text>dump($request);
+		exit;</text>
       </register>
       <register name="-" type="4">
-        <text>App:IMPORT SUBJECTS</text>
+        <text encoding="base64">dGhpcy0+c3ViamVjdEltcG9ydENvbW1hbmQ=</text>
       </register>
       <register name="/" type="4">
         <text>tempDir</text>
@@ -6919,32 +6925,33 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dXNlIE1wZGZcVGFnXFN1YjsK</text>
+      <register name="1" type="4">
+        <text>dump($request);
+		exit;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJJG91dHB1dC0+d3JpdGVMbigkcmVjb3JkWyduYW1lJ10pOwo=</text>
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XENvbnNvbGVcT3V0cHV0XENvbnNvbGVPdXRwdXQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJLy8kdGhpcy0+ZW0tPmZsdXNoKCk7Cg==</text>
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XENvbnNvbGVcSW5wdXRcQXJndklucHV0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJZHVtcCgkaXRlcmF0b3IpOwo=</text>
+        <text encoding="base64">dXNlIE5ldHRlTW9kdWxlXE1pY3JvUHJlc2VudGVyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZXhpdDsK</text>
+        <text encoding="base64">dXNlIE5ldHRlXERJXENvbnRhaW5lcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJZHVtcCgkaXRlcmF0b3ItPispOwo=</text>
+        <text encoding="base64">dXNlIEhybmNpcnJjbXNcQWRtaW5cQWRtaW5Nb2R1bGVcUHJlc2VudGVyc1xCYXNlUHJlc2VudGVyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlyZXR1cm4gMDsK</text>
+        <text encoding="base64">dXNlIEFkZHJlc3NCb29rXENvbXBvbmVudHNcU3ViamVjdHNHcmlkXFN1YmplY3RzR3JpZDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJJG91dHB1dC0+d3JpdGVMbigka2V5KTsK</text>
+        <text encoding="base64">dXNlIEFkZHJlc3NCb29rXENvbXBvbmVudHNcU3ViamVjdHNHcmlkXElTdWJqZWN0c0dyaWRGYWN0b3J5Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgcnVuKCkgbWV0aG9kLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
