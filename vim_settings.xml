@@ -1973,11 +1973,10 @@
         <mark key="]" line="12" column="4" />
         <mark key="." line="12" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Console/Commands/SubjectImportCommand.php" timestamp="1517997667008">
-        <mark key="[" line="53" column="4" />
-        <mark key="]" line="56" column="36" />
-        <mark key="." line="56" column="36" />
-        <mark key="^" line="56" column="36" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Console/Commands/SubjectImportCommand.php" timestamp="1517999138198">
+        <mark key="[" line="54" column="4" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Plugins/Urlizer/elFinderPluginUrlizer.php" timestamp="1507284506269">
         <mark key="[" line="128" column="8" />
@@ -6908,11 +6907,11 @@
       <jump line="448" column="40" filename="/home/www/html/dv/adera/libs/vendor/jkuchar/pdfresponse/PDFResponse.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>','</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="-" type="4">
-        <text>','</text>
+        <text>FileSystem::createDir();</text>
       </register>
       <register name="/" type="4">
         <text>tempDir</text>
@@ -6920,38 +6919,34 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQllcnJvcl9yZXBvcnRpbmcoRV9BTEwpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQlpbmlfc2V0KCdkaXNwbGF5X2Vycm9ycycsIDEpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkkaSA9IDA7Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CgkJJG91dHB1dC0+d3JpdGVMbigkaW5wdXQtPmhhc0FyZ3VtZW50KCdmaWxlJykpOwoJCQoJCSRvdXRwdXQtPndyaXRlTG4oY291bnQoJGRhdGEpKTsKCQkKCQkkZGF0YSA9IFsnaG9rdXMnID0+ICdhYWFhYScsICdwb2t1cycgPT4gJ2JiYmJiJ107CgkJCgkJCgkJCgkJcmV0dXJuIDA7</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CgkJZm9yZWFjaCgkZGF0YSBhcyAkcm93KSB7CgkJCS8vJG91dHB1dC0+d3JpdGVMbigkcm93KTsKCQl9</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQlmaWxlX3B1dF9jb250ZW50cyhzZWxmOjpBUkVTX09VVFBVVF9ESVIgLiBESVJFQ1RPUllfU0VQQVJBVE9SIC4gJ2JsYWJsYScsIE5lb246OmVuY29kZSgkZGF0YSkpOwo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">Zm9yZWFjaCAoJGRhdGEgYXMgJGtleSA9PiAkdmFsdWUpIHsKCQkJCQlpZiAoaXNzZXQoJGZvcm1bJGtleV0pKSB7CgkJCQkJCSRmb3JtWyRrZXldLT5zZXRWYWx1ZSgkdmFsdWUpOwoJCQkJCX0KCQkJCX0=</text>
+      </register>
+      <register name="9" type="4">
         <text>if (($handle = fopen(__DIR__ . '/../../../data/ic.aderap.csv', 'rb')) !== false) {
 			$data = fgetcsv($handle, 1000, ',',&quot;);
 		}</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJZHVtcCgnYWFhYScpOwo=</text>
-      </register>
-      <register name="3" type="4">
-        <text>$data = [];
-		if (($handle = fopen(__DIR__ . '/../../../data/ic.aderap.csv', 'rb')) !== false) {
-			dump('aaaa');
-			$data = fgetcsv($handle, 1000, ',',&quot;);
-		}</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">Zm9yZWFjaCAoWydzJywnZCcsJ2UnXSBhcyAkcm93KSB7CgkJCSRvdXRwdXQtPndyaXRlTG4oJHJvdyk7CgkJfQoJCQoJCXJldHVybiAwOw==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlkdW1wKCdhYWFhJyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkkb3V0cHV0LT53cml0ZUxuKGZnZXRjc3YoX19ESVJfXyAuICcvLi4vLi4vLi4vZGF0YS9pYy5hZGVyYXAuY3N2JykpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXE5lb25cTmVvbjsK</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">cHJpdmF0ZSBmdW5jdGlvbiBjcmVhdGVGb2xkZXJUcmVlKGFycmF5ICRmb2xkZXJzLCAkcGFyZW50ID0gbnVsbCkKCXsKCQkvKiogQHZhciBGb2xkZXIgJHBhcmVudCAqLwoJCSRwYXJlbnQgPSAkcGFyZW50ICE9PSBudWxsID8gJHBhcmVudCA6ICR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShGb2xkZXI6OmNsYXNzKS0+ZmluZCgxKTsKCQkKCQkkbmVlZEZsdXNoID0gZmFsc2U7CgkJZm9yZWFjaCAoJGZvbGRlcnMgYXMgJGlkID0+ICRwcm9wKSB7CgkJCWlmICghJGZvbGRlciA9ICR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShGb2xkZXI6OmNsYXNzKS0+ZmluZE9uZUJ5KFsndGl0bGUnID0+ICRwcm9wWyd0aXRsZSddLAoJCQkJJ3BhcmVudCcgPT4gJHBhcmVudF0pCgkJCSkgewoJCQkJCgkJCQkkZm9sZGVyID0gbmV3IEZvbGRlcjsKCQkJCSRmb2xkZXItPnRpdGxlID0gJHByb3BbJ3RpdGxlJ107CgkJCQkkZm9sZGVyLT5wYXJlbnQgPSAkcGFyZW50OwoJCQkJCgkJCQlmb3JlYWNoIChpc19hcnJheSgkcHJvcFsnZ3JvdXBzJ10pID8gJHByb3BbJ2dyb3VwcyddIDogWyRwcm9wWydncm91cHMnXV0gYXMgJGdyb3VwSWQpIHsKCQkJCQkvKiogQHZhciBHcm91cCAkZ3JvdXAgKi8KCQkJCQkkZ3JvdXAgPSAkdGhpcy0+ZW0tPmdldFJlcG9zaXRvcnkoR3JvdXA6OmNsYXNzKS0+ZmluZCgkZ3JvdXBJZCk7CgkJCQkJaWYgKCRncm91cCkgewoJCQkJCQkkZm9sZGVyLT5hZGRGb2xkZXJHcm91cCgkZ3JvdXApOwoJCQkJCX0KCQkJCX0KCQkJCQoJCQkJJHRoaXMtPmVtLT5wZXJzaXN0KCRmb2xkZXIpOwoJCQkJCgkJCQkkbmVlZEZsdXNoID0gdHJ1ZTsKCQkJfQoJCQkKCQkJaWYgKGlzc2V0KCRwcm9wWydpbXBvcnQnXSkpIHsKCQkJCSR0aGlzLT5mb2xkZXJzW10gPSBbCgkJCQkJJ2ZvbGRlcicgPT4gJGZvbGRlciwKCQkJCQknaW1wb3J0JyA9PiAkcHJvcFsnaW1wb3J0J10KCQkJCV07CgkJCX0KCQkJCgkJCWlmIChpc3NldCgkcHJvcFsnY2hpbGRyZW4nXSkpIHsKCQkJCSR0aGlzLT5jcmVhdGVGb2xkZXJUcmVlKCRwcm9wWydjaGlsZHJlbiddLCAkZm9sZGVyKTsKCQkJfQoJCX0KCQkKCQlpZiAoJG5lZWRGbHVzaCkgewoJCQkkdGhpcy0+ZW0tPmZsdXNoKCk7CgkJfQoJfQ==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">JGltcG9ydHMgPSBbXTsKCQkkY29uZmlnRmlsZSA9ICRpbnB1dC0+Z2V0T3B0aW9uKCdpbXBvcnQnKSA/ICRpbnB1dC0+Z2V0T3B0aW9uKCdpbXBvcnQnKSA6ICR0aGlzLT5kZWZhdWx0Q29uZmlnOwoJCSRmb2xkZXJzID0gTmVvbjo6ZGVjb2RlKGZpbGVfZ2V0X2NvbnRlbnRzKCRjb25maWdGaWxlKSk7CgkJJHRoaXMtPmNyZWF0ZUZvbGRlclRyZWUoJGZvbGRlcnMpOwoJCQoJCWZvcmVhY2ggKCR0aGlzLT5mb2xkZXJzIGFzICRwcm9wKSB7CgkJCSR0eXBlID0gJHByb3BbJ2ltcG9ydCddWyd0eXBlJ107CgkJCQoJCQlpZiAoIWlzc2V0KCRpbXBvcnRzWyR0eXBlXSkpIHsKCQkJCSRpbXBvcnRzWyR0eXBlXSA9IG5ldyAkdGhpcy0+aW1wb3J0c1skdHlwZV0oJHRoaXMtPmVtLCAkdGhpcy0+Y2FjaGVTdG9yYWdlKTsKCQkJfQoJCQkKCQkJJGltcG9ydHNbJHR5cGVdKCRwcm9wWydpbXBvcnQnXVsnaWQnXSwgJHByb3BbJ2ZvbGRlciddLT5pZCwgJG91dHB1dCk7CgkJfQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
