@@ -1523,10 +1523,10 @@
       <file name="/home/www/vendor/hrncirr/application/composer.json" timestamp="1517570809861">
         <mark key="[" line="11" column="19" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/FormParts/TButtonsFormPart.php" timestamp="1517913889232">
-        <mark key="[" line="29" column="57" />
-        <mark key="]" line="29" column="57" />
-        <mark key="." line="29" column="57" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/FormParts/TButtonsFormPart.php" timestamp="1518014586862">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/Controls/ToMany.php" timestamp="1502467453007">
         <mark key="[" line="51" column="75" />
@@ -1973,10 +1973,10 @@
         <mark key="]" line="12" column="4" />
         <mark key="." line="12" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Console/Commands/SubjectImportCommand.php" timestamp="1518010499540">
-        <mark key="[" line="124" column="47" />
-        <mark key="]" line="124" column="47" />
-        <mark key="." line="124" column="47" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Console/Commands/SubjectImportCommand.php" timestamp="1518015891168">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Plugins/Urlizer/elFinderPluginUrlizer.php" timestamp="1507284506269">
         <mark key="[" line="128" column="8" />
@@ -4693,11 +4693,8 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" timestamp="1517987566300">
-        <mark key="[" line="109" column="8" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-        <mark key="^" line="78" column="47" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" timestamp="1518014761264">
+        <mark key="[" line="79" column="32" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/Model/File.php" timestamp="1493983525202">
         <mark key="[" line="20" column="26" />
@@ -5220,6 +5217,7 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Model/AresModel.php" timestamp="1518015739646" />
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Forms/Controls/ContactInput.php" timestamp="1516195581796">
         <mark key="[" line="34" column="48" />
         <mark key="]" line="46" column="12" />
@@ -6778,8 +6776,8 @@
         <mark key="]" line="82" column="34" />
         <mark key="." line="82" column="34" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" timestamp="1517914053697">
-        <mark key="[" line="170" column="29" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" timestamp="1518014778976">
+        <mark key="[" line="171" column="35" />
         <mark key="]" line="181" column="0" />
         <mark key="." line="181" column="0" />
       </file>
@@ -6912,55 +6910,53 @@
       <jump line="448" column="40" filename="/home/www/html/dv/adera/libs/vendor/jkuchar/pdfresponse/PDFResponse.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dump($request);
-		exit;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJJG91dHB1dC0+d3JpdGVMbihzcHJpbnRmKCc8ZXJyb3I+TmVuYWxlemVubyAlZCB6w6F6bmFtxa8uPC9lcnJvcj4nLCAkY2luKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhpcy0+c3ViamVjdEltcG9ydENvbW1hbmQ=</text>
+        <text encoding="base64">fHwgc3RybGVuKCRjaW4pIDwgOCB8fA==</text>
       </register>
       <register name="/" type="4">
-        <text>tempDir</text>
+        <text>div</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
-        <text>dump($request);
-		exit;</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJJG91dHB1dC0+d3JpdGVMbihzcHJpbnRmKCc8ZXJyb3I+TmVuYWxlemVubyAlZCB6w6F6bmFtxa8uPC9lcnJvcj4nLCAkY2luKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XENvbnNvbGVcT3V0cHV0XENvbnNvbGVPdXRwdXQ7Cg==</text>
+        <text encoding="base64">CQkJCSRub3RGb3VuZCsrOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XENvbnNvbGVcSW5wdXRcQXJndklucHV0Owo=</text>
+        <text encoding="base64">CQkJdHJ5IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIE5ldHRlTW9kdWxlXE1pY3JvUHJlc2VudGVyOwo=</text>
+        <text encoding="base64">CQkkdGhpcy0+Z2V0UHJlc2VudGVyKCktPnNlbmRSZXNwb25zZSgkcGRmKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXERJXENvbnRhaW5lcjsK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJjbXNcQWRtaW5cQWRtaW5Nb2R1bGVcUHJlc2VudGVyc1xCYXNlUHJlc2VudGVyOwo=</text>
+        <text encoding="base64">CQkvLyRwZGYtPm1QREYtPk9wZW5QcmludERpYWxvZygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIEFkZHJlc3NCb29rXENvbXBvbmVudHNcU3ViamVjdHNHcmlkXFN1YmplY3RzR3JpZDsK</text>
+        <text encoding="base64">CQkkcGRmID0gJHRoaXMtPnBkZlJlc3BvbnNlRmFjdG9yeS0+Y3JlYXRlKChzdHJpbmcpICR0ZW1wbGF0ZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEFkZHJlc3NCb29rXENvbXBvbmVudHNcU3ViamVjdHNHcmlkXElTdWJqZWN0c0dyaWRGYWN0b3J5Owo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgcnVuKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">CQkkdGVtcGxhdGUtPnNldEZpbGUoX19ESVJfXyAuICcvdGVtcGxhdGVzL0ludm9pY2UubGF0dGUnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tempDir</last-search>
+      <last-search>div</last-search>
       <last-offset />
-      <last-pattern>tempDir</last-pattern>
+      <last-pattern>div</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -6968,7 +6964,6 @@
     </search>
     <history>
       <history-search>
-        <entry>editTags</entry>
         <entry>Remove</entry>
         <entry>onChange</entry>
         <entry>remove</entry>
@@ -6988,6 +6983,7 @@
         <entry>NULL</entry>
         <entry>byDoc</entry>
         <entry>tempDir</entry>
+        <entry>div</entry>
       </history-search>
       <history-cmd>
         <entry>%s/this.element/this.$element/g</entry>
