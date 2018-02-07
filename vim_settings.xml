@@ -1974,6 +1974,11 @@
         <mark key="]" line="12" column="4" />
         <mark key="." line="12" column="4" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Console/Commands/SubjectImportCommand.php" timestamp="1517996907149">
+        <mark key="[" line="42" column="42" />
+        <mark key="]" line="42" column="42" />
+        <mark key="." line="42" column="42" />
+      </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Plugins/Urlizer/elFinderPluginUrlizer.php" timestamp="1507284506269">
         <mark key="[" line="128" column="8" />
         <mark key="]" line="128" column="8" />
@@ -2800,8 +2805,8 @@
         <mark key="]" line="179" column="12" />
         <mark key="." line="179" column="12" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1517419963535">
-        <mark key="[" line="4" column="5" />
+      <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1517996028904">
+        <mark key="[" line="3" column="4" />
       </file>
       <file name="/home/www/html/dv/cms/src/Admin/AdminModule/Presenters/BasePresenter.php" timestamp="1506507163228">
         <mark key="[" line="31" column="0" />
@@ -4102,10 +4107,11 @@
         <mark key="]" line="29" column="36" />
         <mark key="." line="29" column="36" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/DI/config.neon" timestamp="1517993353911">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/DI/config.neon" timestamp="1517995967670">
+        <mark key="[" line="2" column="43" />
+        <mark key="]" line="3" column="31" />
+        <mark key="." line="3" column="31" />
+        <mark key="^" line="3" column="31" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Components/TechnicalRequisitionImagesControl/TechnicalRequisitionImagesControl.php" timestamp="1507905702526">
         <mark key="[" line="11" column="18" />
@@ -4982,9 +4988,6 @@
         <mark key="[" line="37" column="32" />
         <mark key="]" line="36" column="8" />
         <mark key="." line="36" column="8" />
-      </file>
-      <file name="/home/www/html/dv/adera/libs/vendor/jkuchar/pdfresponse/PDFResponse.php" timestamp="1517910020208">
-        <mark key="'" line="448" column="40" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/callbacks/MediaBeforeImportCallable.php" timestamp="1477984885839">
         <mark key="[" line="24" column="8" />
@@ -6465,7 +6468,7 @@
         <mark key="]" line="7" column="4" />
         <mark key="." line="7" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Console/SubjectImportCommand.php" timestamp="1517994924991">
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Console/SubjectImportCommand.php" timestamp="1517995723453">
         <mark key="[" line="38" column="30" />
         <mark key="]" line="38" column="29" />
         <mark key="." line="38" column="29" />
@@ -6906,11 +6909,11 @@
       <jump line="448" column="40" filename="/home/www/html/dv/adera/libs/vendor/jkuchar/pdfresponse/PDFResponse.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXE5lb25cTmVvbjsK</text>
+      <register name="&quot;" type="4">
+        <text>','</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCAkdGhpcy0+aW52b2ljZQ==</text>
+        <text>','</text>
       </register>
       <register name="/" type="4">
         <text>tempDir</text>
@@ -6918,38 +6921,41 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXE5lb25cTmVvbjsK</text>
+      <register name="1" type="4">
+        <text>if (($handle = fopen(__DIR__ . '/../../../data/ic.aderap.csv', 'rb')) !== false) {
+			$data = fgetcsv($handle, 1000, ',',&quot;);
+		}</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">cHJpdmF0ZSBmdW5jdGlvbiBjcmVhdGVGb2xkZXJUcmVlKGFycmF5ICRmb2xkZXJzLCAkcGFyZW50ID0gbnVsbCkKCXsKCQkvKiogQHZhciBGb2xkZXIgJHBhcmVudCAqLwoJCSRwYXJlbnQgPSAkcGFyZW50ICE9PSBudWxsID8gJHBhcmVudCA6ICR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShGb2xkZXI6OmNsYXNzKS0+ZmluZCgxKTsKCQkKCQkkbmVlZEZsdXNoID0gZmFsc2U7CgkJZm9yZWFjaCAoJGZvbGRlcnMgYXMgJGlkID0+ICRwcm9wKSB7CgkJCWlmICghJGZvbGRlciA9ICR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShGb2xkZXI6OmNsYXNzKS0+ZmluZE9uZUJ5KFsndGl0bGUnID0+ICRwcm9wWyd0aXRsZSddLAoJCQkJJ3BhcmVudCcgPT4gJHBhcmVudF0pCgkJCSkgewoJCQkJCgkJCQkkZm9sZGVyID0gbmV3IEZvbGRlcjsKCQkJCSRmb2xkZXItPnRpdGxlID0gJHByb3BbJ3RpdGxlJ107CgkJCQkkZm9sZGVyLT5wYXJlbnQgPSAkcGFyZW50OwoJCQkJCgkJCQlmb3JlYWNoIChpc19hcnJheSgkcHJvcFsnZ3JvdXBzJ10pID8gJHByb3BbJ2dyb3VwcyddIDogWyRwcm9wWydncm91cHMnXV0gYXMgJGdyb3VwSWQpIHsKCQkJCQkvKiogQHZhciBHcm91cCAkZ3JvdXAgKi8KCQkJCQkkZ3JvdXAgPSAkdGhpcy0+ZW0tPmdldFJlcG9zaXRvcnkoR3JvdXA6OmNsYXNzKS0+ZmluZCgkZ3JvdXBJZCk7CgkJCQkJaWYgKCRncm91cCkgewoJCQkJCQkkZm9sZGVyLT5hZGRGb2xkZXJHcm91cCgkZ3JvdXApOwoJCQkJCX0KCQkJCX0KCQkJCQoJCQkJJHRoaXMtPmVtLT5wZXJzaXN0KCRmb2xkZXIpOwoJCQkJCgkJCQkkbmVlZEZsdXNoID0gdHJ1ZTsKCQkJfQoJCQkKCQkJaWYgKGlzc2V0KCRwcm9wWydpbXBvcnQnXSkpIHsKCQkJCSR0aGlzLT5mb2xkZXJzW10gPSBbCgkJCQkJJ2ZvbGRlcicgPT4gJGZvbGRlciwKCQkJCQknaW1wb3J0JyA9PiAkcHJvcFsnaW1wb3J0J10KCQkJCV07CgkJCX0KCQkJCgkJCWlmIChpc3NldCgkcHJvcFsnY2hpbGRyZW4nXSkpIHsKCQkJCSR0aGlzLT5jcmVhdGVGb2xkZXJUcmVlKCRwcm9wWydjaGlsZHJlbiddLCAkZm9sZGVyKTsKCQkJfQoJCX0KCQkKCQlpZiAoJG5lZWRGbHVzaCkgewoJCQkkdGhpcy0+ZW0tPmZsdXNoKCk7CgkJfQoJfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJZHVtcCgnYWFhYScpOwo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">JGltcG9ydHMgPSBbXTsKCQkkY29uZmlnRmlsZSA9ICRpbnB1dC0+Z2V0T3B0aW9uKCdpbXBvcnQnKSA/ICRpbnB1dC0+Z2V0T3B0aW9uKCdpbXBvcnQnKSA6ICR0aGlzLT5kZWZhdWx0Q29uZmlnOwoJCSRmb2xkZXJzID0gTmVvbjo6ZGVjb2RlKGZpbGVfZ2V0X2NvbnRlbnRzKCRjb25maWdGaWxlKSk7CgkJJHRoaXMtPmNyZWF0ZUZvbGRlclRyZWUoJGZvbGRlcnMpOwoJCQoJCWZvcmVhY2ggKCR0aGlzLT5mb2xkZXJzIGFzICRwcm9wKSB7CgkJCSR0eXBlID0gJHByb3BbJ2ltcG9ydCddWyd0eXBlJ107CgkJCQoJCQlpZiAoIWlzc2V0KCRpbXBvcnRzWyR0eXBlXSkpIHsKCQkJCSRpbXBvcnRzWyR0eXBlXSA9IG5ldyAkdGhpcy0+aW1wb3J0c1skdHlwZV0oJHRoaXMtPmVtLCAkdGhpcy0+Y2FjaGVTdG9yYWdlKTsKCQkJfQoJCQkKCQkJJGltcG9ydHNbJHR5cGVdKCRwcm9wWydpbXBvcnQnXVsnaWQnXSwgJHByb3BbJ2ZvbGRlciddLT5pZCwgJG91dHB1dCk7CgkJfQ==</text>
+        <text>$data = [];
+		if (($handle = fopen(__DIR__ . '/../../../data/ic.aderap.csv', 'rb')) !== false) {
+			dump('aaaa');
+			$data = fgetcsv($handle, 1000, ',',&quot;);
+		}</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJJGZvcm0gPSAkdGhpcy0+Z2V0Rm9ybSgpOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">Zm9yZWFjaCAoWydzJywnZCcsJ2UnXSBhcyAkcm93KSB7CgkJCSRvdXRwdXQtPndyaXRlTG4oJHJvdyk7CgkJfQoJCQoJCXJldHVybiAwOw==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">dHJ5IHsKCQkJLy8kdGhpcy0+ZWxhc3RpY2FDbGllbnQtPmdldEluZGV4KCdkbXMnKS0+ZGVsZXRlKCk7CgkJfSBjYXRjaCAoUmVzcG9uc2VFeGNlcHRpb24gJGUpIHsKCQl9</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQlkdW1wKCdhYWFhJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXENhY2hpbmdcSVN0b3JhZ2U7Cg==</text>
+        <text encoding="base64">CQkkb3V0cHV0LT53cml0ZUxuKGZnZXRjc3YoX19ESVJfXyAuICcvLi4vLi4vLi4vZGF0YS9pYy5hZGVyYXAuY3N2JykpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XENvbnNvbGVcSW5wdXRcSW5wdXRBcmd1bWVudDsK</text>
+        <text encoding="base64">dXNlIE5ldHRlXE5lb25cTmVvbjsK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">LT5hZGRPcHRpb24oJ2ltcG9ydCcsIG51bGwsIElucHV0QXJndW1lbnQ6Ok9QVElPTkFMLCAnSW1wb3J0IGZvbGRlciBjb25maWcnKQoJCQktPmFkZE9wdGlvbignaWQnLCBudWxsLCBJbnB1dEFyZ3VtZW50OjpPUFRJT05BTCwgJ0ltcG9ydCBmb2xkZXIgaWQnKTs=</text>
+        <text encoding="base64">cHJpdmF0ZSBmdW5jdGlvbiBjcmVhdGVGb2xkZXJUcmVlKGFycmF5ICRmb2xkZXJzLCAkcGFyZW50ID0gbnVsbCkKCXsKCQkvKiogQHZhciBGb2xkZXIgJHBhcmVudCAqLwoJCSRwYXJlbnQgPSAkcGFyZW50ICE9PSBudWxsID8gJHBhcmVudCA6ICR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShGb2xkZXI6OmNsYXNzKS0+ZmluZCgxKTsKCQkKCQkkbmVlZEZsdXNoID0gZmFsc2U7CgkJZm9yZWFjaCAoJGZvbGRlcnMgYXMgJGlkID0+ICRwcm9wKSB7CgkJCWlmICghJGZvbGRlciA9ICR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShGb2xkZXI6OmNsYXNzKS0+ZmluZE9uZUJ5KFsndGl0bGUnID0+ICRwcm9wWyd0aXRsZSddLAoJCQkJJ3BhcmVudCcgPT4gJHBhcmVudF0pCgkJCSkgewoJCQkJCgkJCQkkZm9sZGVyID0gbmV3IEZvbGRlcjsKCQkJCSRmb2xkZXItPnRpdGxlID0gJHByb3BbJ3RpdGxlJ107CgkJCQkkZm9sZGVyLT5wYXJlbnQgPSAkcGFyZW50OwoJCQkJCgkJCQlmb3JlYWNoIChpc19hcnJheSgkcHJvcFsnZ3JvdXBzJ10pID8gJHByb3BbJ2dyb3VwcyddIDogWyRwcm9wWydncm91cHMnXV0gYXMgJGdyb3VwSWQpIHsKCQkJCQkvKiogQHZhciBHcm91cCAkZ3JvdXAgKi8KCQkJCQkkZ3JvdXAgPSAkdGhpcy0+ZW0tPmdldFJlcG9zaXRvcnkoR3JvdXA6OmNsYXNzKS0+ZmluZCgkZ3JvdXBJZCk7CgkJCQkJaWYgKCRncm91cCkgewoJCQkJCQkkZm9sZGVyLT5hZGRGb2xkZXJHcm91cCgkZ3JvdXApOwoJCQkJCX0KCQkJCX0KCQkJCQoJCQkJJHRoaXMtPmVtLT5wZXJzaXN0KCRmb2xkZXIpOwoJCQkJCgkJCQkkbmVlZEZsdXNoID0gdHJ1ZTsKCQkJfQoJCQkKCQkJaWYgKGlzc2V0KCRwcm9wWydpbXBvcnQnXSkpIHsKCQkJCSR0aGlzLT5mb2xkZXJzW10gPSBbCgkJCQkJJ2ZvbGRlcicgPT4gJGZvbGRlciwKCQkJCQknaW1wb3J0JyA9PiAkcHJvcFsnaW1wb3J0J10KCQkJCV07CgkJCX0KCQkJCgkJCWlmIChpc3NldCgkcHJvcFsnY2hpbGRyZW4nXSkpIHsKCQkJCSR0aGlzLT5jcmVhdGVGb2xkZXJUcmVlKCRwcm9wWydjaGlsZHJlbiddLCAkZm9sZGVyKTsKCQkJfQoJCX0KCQkKCQlpZiAoJG5lZWRGbHVzaCkgewoJCQkkdGhpcy0+ZW0tPmZsdXNoKCk7CgkJfQoJfQ==</text>
       </register>
       <register name="9" type="4">
-        <text>/**
-	 * @var array
-	 */
-	private $folders = [];</text>
+        <text encoding="base64">JGltcG9ydHMgPSBbXTsKCQkkY29uZmlnRmlsZSA9ICRpbnB1dC0+Z2V0T3B0aW9uKCdpbXBvcnQnKSA/ICRpbnB1dC0+Z2V0T3B0aW9uKCdpbXBvcnQnKSA6ICR0aGlzLT5kZWZhdWx0Q29uZmlnOwoJCSRmb2xkZXJzID0gTmVvbjo6ZGVjb2RlKGZpbGVfZ2V0X2NvbnRlbnRzKCRjb25maWdGaWxlKSk7CgkJJHRoaXMtPmNyZWF0ZUZvbGRlclRyZWUoJGZvbGRlcnMpOwoJCQoJCWZvcmVhY2ggKCR0aGlzLT5mb2xkZXJzIGFzICRwcm9wKSB7CgkJCSR0eXBlID0gJHByb3BbJ2ltcG9ydCddWyd0eXBlJ107CgkJCQoJCQlpZiAoIWlzc2V0KCRpbXBvcnRzWyR0eXBlXSkpIHsKCQkJCSRpbXBvcnRzWyR0eXBlXSA9IG5ldyAkdGhpcy0+aW1wb3J0c1skdHlwZV0oJHRoaXMtPmVtLCAkdGhpcy0+Y2FjaGVTdG9yYWdlKTsKCQkJfQoJCQkKCQkJJGltcG9ydHNbJHR5cGVdKCRwcm9wWydpbXBvcnQnXVsnaWQnXSwgJHByb3BbJ2ZvbGRlciddLT5pZCwgJG91dHB1dCk7CgkJfQ==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/NULL/null/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -7002,9 +7008,9 @@
         <entry>60</entry>
         <entry>%s/DateTimeImmutable/DateTime/g</entry>
         <entry>145</entry>
-        <entry>w</entry>
         <entry>104</entry>
         <entry>%s/NULL/null/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
