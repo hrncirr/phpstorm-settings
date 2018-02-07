@@ -1033,6 +1033,7 @@
         <mark key="]" line="17" column="27" />
         <mark key="." line="17" column="27" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Forms/Controls/CinInput.php" timestamp="1517993640951" />
       <file name="/home/www/lib/vendor/hrncirr/forms-typeahead/src/Exceptions/InvalidArgumentException.php" timestamp="1496228940246">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -2358,6 +2359,7 @@
         <mark key="]" line="167" column="16" />
         <mark key="." line="167" column="16" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/DI/config.neon" timestamp="1517993309386" />
       <file name="/home/www/html/nnb/nezadouci-udalosti/app/Components/IncidentViewer.php" timestamp="1482400217288">
         <mark key="[" line="95" column="29" />
         <mark key="]" line="7" column="0" />
@@ -4100,10 +4102,10 @@
         <mark key="]" line="29" column="36" />
         <mark key="." line="29" column="36" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/DI/config.neon" timestamp="1511948545867">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/DI/config.neon" timestamp="1517993353911">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Components/TechnicalRequisitionImagesControl/TechnicalRequisitionImagesControl.php" timestamp="1507905702526">
         <mark key="[" line="11" column="18" />
@@ -6463,10 +6465,10 @@
         <mark key="]" line="7" column="4" />
         <mark key="." line="7" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Console/SubjectImportCommand.php" timestamp="1517992596317">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Console/SubjectImportCommand.php" timestamp="1517993971202">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Console/DI/ConsoleExtension.php" timestamp="1486026725384">
         <mark key="[" line="18" column="9" />
@@ -6904,7 +6906,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5XEVsYXN0aWNTZWFyY2hcQ2xpZW50Owo=</text>
+        <text encoding="base64">dXNlIE5ldHRlXE5lb25cTmVvbjsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">LCAkdGhpcy0+aW52b2ljZQ==</text>
@@ -6916,31 +6918,34 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5XEVsYXN0aWNTZWFyY2hcQ2xpZW50Owo=</text>
+        <text encoding="base64">dXNlIE5ldHRlXE5lb25cTmVvbjsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dXNlIEVsYXN0aWNhXEV4Y2VwdGlvblxSZXNwb25zZUV4Y2VwdGlvbjsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">cHJpdmF0ZSBmdW5jdGlvbiBjcmVhdGVGb2xkZXJUcmVlKGFycmF5ICRmb2xkZXJzLCAkcGFyZW50ID0gbnVsbCkKCXsKCQkvKiogQHZhciBGb2xkZXIgJHBhcmVudCAqLwoJCSRwYXJlbnQgPSAkcGFyZW50ICE9PSBudWxsID8gJHBhcmVudCA6ICR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShGb2xkZXI6OmNsYXNzKS0+ZmluZCgxKTsKCQkKCQkkbmVlZEZsdXNoID0gZmFsc2U7CgkJZm9yZWFjaCAoJGZvbGRlcnMgYXMgJGlkID0+ICRwcm9wKSB7CgkJCWlmICghJGZvbGRlciA9ICR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShGb2xkZXI6OmNsYXNzKS0+ZmluZE9uZUJ5KFsndGl0bGUnID0+ICRwcm9wWyd0aXRsZSddLAoJCQkJJ3BhcmVudCcgPT4gJHBhcmVudF0pCgkJCSkgewoJCQkJCgkJCQkkZm9sZGVyID0gbmV3IEZvbGRlcjsKCQkJCSRmb2xkZXItPnRpdGxlID0gJHByb3BbJ3RpdGxlJ107CgkJCQkkZm9sZGVyLT5wYXJlbnQgPSAkcGFyZW50OwoJCQkJCgkJCQlmb3JlYWNoIChpc19hcnJheSgkcHJvcFsnZ3JvdXBzJ10pID8gJHByb3BbJ2dyb3VwcyddIDogWyRwcm9wWydncm91cHMnXV0gYXMgJGdyb3VwSWQpIHsKCQkJCQkvKiogQHZhciBHcm91cCAkZ3JvdXAgKi8KCQkJCQkkZ3JvdXAgPSAkdGhpcy0+ZW0tPmdldFJlcG9zaXRvcnkoR3JvdXA6OmNsYXNzKS0+ZmluZCgkZ3JvdXBJZCk7CgkJCQkJaWYgKCRncm91cCkgewoJCQkJCQkkZm9sZGVyLT5hZGRGb2xkZXJHcm91cCgkZ3JvdXApOwoJCQkJCX0KCQkJCX0KCQkJCQoJCQkJJHRoaXMtPmVtLT5wZXJzaXN0KCRmb2xkZXIpOwoJCQkJCgkJCQkkbmVlZEZsdXNoID0gdHJ1ZTsKCQkJfQoJCQkKCQkJaWYgKGlzc2V0KCRwcm9wWydpbXBvcnQnXSkpIHsKCQkJCSR0aGlzLT5mb2xkZXJzW10gPSBbCgkJCQkJJ2ZvbGRlcicgPT4gJGZvbGRlciwKCQkJCQknaW1wb3J0JyA9PiAkcHJvcFsnaW1wb3J0J10KCQkJCV07CgkJCX0KCQkJCgkJCWlmIChpc3NldCgkcHJvcFsnY2hpbGRyZW4nXSkpIHsKCQkJCSR0aGlzLT5jcmVhdGVGb2xkZXJUcmVlKCRwcm9wWydjaGlsZHJlbiddLCAkZm9sZGVyKTsKCQkJfQoJCX0KCQkKCQlpZiAoJG5lZWRGbHVzaCkgewoJCQkkdGhpcy0+ZW0tPmZsdXNoKCk7CgkJfQoJfQ==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">dXNlIEFwcFxHcm91cHNcR3JvdXA7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">JGltcG9ydHMgPSBbXTsKCQkkY29uZmlnRmlsZSA9ICRpbnB1dC0+Z2V0T3B0aW9uKCdpbXBvcnQnKSA/ICRpbnB1dC0+Z2V0T3B0aW9uKCdpbXBvcnQnKSA6ICR0aGlzLT5kZWZhdWx0Q29uZmlnOwoJCSRmb2xkZXJzID0gTmVvbjo6ZGVjb2RlKGZpbGVfZ2V0X2NvbnRlbnRzKCRjb25maWdGaWxlKSk7CgkJJHRoaXMtPmNyZWF0ZUZvbGRlclRyZWUoJGZvbGRlcnMpOwoJCQoJCWZvcmVhY2ggKCR0aGlzLT5mb2xkZXJzIGFzICRwcm9wKSB7CgkJCSR0eXBlID0gJHByb3BbJ2ltcG9ydCddWyd0eXBlJ107CgkJCQoJCQlpZiAoIWlzc2V0KCRpbXBvcnRzWyR0eXBlXSkpIHsKCQkJCSRpbXBvcnRzWyR0eXBlXSA9IG5ldyAkdGhpcy0+aW1wb3J0c1skdHlwZV0oJHRoaXMtPmVtLCAkdGhpcy0+Y2FjaGVTdG9yYWdlKTsKCQkJfQoJCQkKCQkJJGltcG9ydHNbJHR5cGVdKCRwcm9wWydpbXBvcnQnXVsnaWQnXSwgJHByb3BbJ2ZvbGRlciddLT5pZCwgJG91dHB1dCk7CgkJfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEFwcFxGb2xkZXJzXEZvbGRlcjsK</text>
+        <text encoding="base64">CQkJJGZvcm0gPSAkdGhpcy0+Z2V0Rm9ybSgpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICA8bWV0YSBodHRwLWVxdWl2PSJYLVVBLUNvbXBhdGlibGUiIGNvbnRlbnQ9IklFPWVkZ2UiPgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">dHJ5IHsKCQkJLy8kdGhpcy0+ZWxhc3RpY2FDbGllbnQtPmdldEluZGV4KCdkbXMnKS0+ZGVsZXRlKCk7CgkJfSBjYXRjaCAoUmVzcG9uc2VFeGNlcHRpb24gJGUpIHsKCQl9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8bWV0YSBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsIGluaXRpYWwtc2NhbGU9MSwgbWF4aW11bS1zY2FsZT0xLCB1c2VyLXNjYWxhYmxlPW5vIiBuYW1lPSJ2aWV3cG9ydCI+Cg==</text>
+        <text encoding="base64">dXNlIE5ldHRlXENhY2hpbmdcSVN0b3JhZ2U7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IDwhLS0gQm9vdHN0cmFwIDMuMy43IC0tPgogIDx4bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Imh0dHBzOi8vbWF4Y2RuLmJvb3RzdHJhcGNkbi5jb20vYm9vdHN0cmFwLzMuMy43L2Nzcy9ib290c3RyYXAubWluLmNzcyI+CiAgPCEtLSBGb250IEF3ZXNvbWUgLS0+CiAgPHhsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvZm9udC1hd2Vzb21lLzQuNS4wL2Nzcy9mb250LWF3ZXNvbWUubWluLmNzcyI+CiAgPCEtLSBJb25pY29ucyAtLT4KICA8eGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy9pb25pY29ucy8yLjAuMS9jc3MvaW9uaWNvbnMubWluLmNzcyI+CiAgPCEtLSBUaGVtZSBzdHlsZSAtLT4KICA8eGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSJodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy9hZG1pbi1sdGUvMi40LjIvY3NzL0FkbWluTFRFLm1pbi5jc3MiPg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XENvbnNvbGVcSW5wdXRcSW5wdXRBcmd1bWVudDsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkkaW52b2ljZS0+c2V0TnVtYmVyKCdGVicgLiBkYXRlKCdZbWQnKSAuIFJhbmRvbTo6Z2VuZXJhdGUoMTAsICcwLTknKSk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">LT5hZGRPcHRpb24oJ2ltcG9ydCcsIG51bGwsIElucHV0QXJndW1lbnQ6Ok9QVElPTkFMLCAnSW1wb3J0IGZvbGRlciBjb25maWcnKQoJCQktPmFkZE9wdGlvbignaWQnLCBudWxsLCBJbnB1dEFyZ3VtZW50OjpPUFRJT05BTCwgJ0ltcG9ydCBmb2xkZXIgaWQnKTs=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">JHN0eWxlc2hlZXQgPSBmaWxlX2dldF9jb250ZW50cyhfX0RJUl9fIC4gJy8uLi8uLi8uLi9saWJzL3ZlbmRvci1jbGllbnQvYm9vdHN0cmFwL2Rpc3QvY3NzL2Jvb3RzdHJhcC5jc3MnKTsKCQkkc3R5bGVzaGVldCAuPSBmaWxlX2dldF9jb250ZW50cyhfX0RJUl9fIC4gJy8uLi8uLi8uLi9saWJzL3ZlbmRvci1jbGllbnQvYm9vdHN0cmFwL2Rpc3QvY3NzL2Jvb3RzdHJhcC10aGVtZS5jc3MnKTsKCQkkc3R5bGVzaGVldCAuPSBmaWxlX2dldF9jb250ZW50cyhfX0RJUl9fIC4gJy8uLi8uLi8uLi9saWJzL3ZlbmRvci1jbGllbnQvYWRtaW4tbHRlL2Rpc3QvY3NzL0FkbWluTFRFLmNzcycpOwoJCSRzdHlsZXNoZWV0IC49IGZpbGVfZ2V0X2NvbnRlbnRzKF9fRElSX18gLiAnLy4uLy4uLy4uL2xpYnMvdmVuZG9yLWNsaWVudC9hZG1pbi1sdGUvZGlzdC9jc3Mvc2tpbnMvc2tpbi1ibHVlLWxpZ2h0LmNzcycpOwoJCQoJCSRtcGRmID0gJHBkZi0+Z2V0TVBERigpOwoJCQoJCSRtcGRmLT5Xcml0ZUhUTUwoJHN0eWxlc2hlZXQsIDEpOwoJCSRtcGRmLT5Xcml0ZUhUTUwoJHNvdXJjZSwgMik7</text>
+        <text>/**
+	 * @var array
+	 */
+	private $folders = [];</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
