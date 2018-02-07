@@ -1468,7 +1468,7 @@
         <mark key="]" line="119" column="8" />
         <mark key="." line="119" column="8" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Console/Commands/ImportCommand.php" timestamp="1517997368181">
+      <file name="/home/www/html/nnb/dms/src/Documents/Console/Commands/ImportCommand.php" timestamp="1518001305999">
         <mark key="[" line="60" column="17" />
         <mark key="]" line="61" column="23" />
         <mark key="." line="61" column="23" />
@@ -1973,10 +1973,10 @@
         <mark key="]" line="12" column="4" />
         <mark key="." line="12" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Console/Commands/SubjectImportCommand.php" timestamp="1517999138198">
-        <mark key="[" line="54" column="4" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Console/Commands/SubjectImportCommand.php" timestamp="1518002236421">
+        <mark key="[" line="96" column="64" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Plugins/Urlizer/elFinderPluginUrlizer.php" timestamp="1507284506269">
         <mark key="[" line="128" column="8" />
@@ -2803,8 +2803,8 @@
         <mark key="]" line="179" column="12" />
         <mark key="." line="179" column="12" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1517996028904">
-        <mark key="[" line="3" column="4" />
+      <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1518001433073">
+        <mark key="[" line="4" column="5" />
       </file>
       <file name="/home/www/html/dv/cms/src/Admin/AdminModule/Presenters/BasePresenter.php" timestamp="1506507163228">
         <mark key="[" line="31" column="0" />
@@ -5922,7 +5922,7 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" timestamp="1517830426651">
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" timestamp="1518001171639">
         <mark key="[" line="67" column="9" />
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
@@ -6908,10 +6908,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJJG91dHB1dC0+d3JpdGVMbigka2V5KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>FileSystem::createDir();</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text>tempDir</text>
@@ -6920,33 +6920,31 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJJG91dHB1dC0+d3JpdGVMbigka2V5KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQllcnJvcl9yZXBvcnRpbmcoRV9BTEwpOwo=</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlpbmlfc2V0KCdkaXNwbGF5X2Vycm9ycycsIDEpOwo=</text>
+        <text encoding="base64">CQkJaWYgKCB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkkaSA9IDA7Cg==</text>
+        <text encoding="base64">dXNlIE5ldHRlXE5lb25cTmVvbjsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CgkJJG91dHB1dC0+d3JpdGVMbigkaW5wdXQtPmhhc0FyZ3VtZW50KCdmaWxlJykpOwoJCQoJCSRvdXRwdXQtPndyaXRlTG4oY291bnQoJGRhdGEpKTsKCQkKCQkkZGF0YSA9IFsnaG9rdXMnID0+ICdhYWFhYScsICdwb2t1cycgPT4gJ2JiYmJiJ107CgkJCgkJCgkJCgkJcmV0dXJuIDA7</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJJG91dHB1dC0+d3JpdGVMbih1bnNlcmlhbGl6ZShmaWxlX2dldF9jb250ZW50cygka2V5KSwgZmFsc2UpKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgkJZm9yZWFjaCgkZGF0YSBhcyAkcm93KSB7CgkJCS8vJG91dHB1dC0+d3JpdGVMbigkcm93KTsKCQl9</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJYnJlYWs7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlmaWxlX3B1dF9jb250ZW50cyhzZWxmOjpBUkVTX09VVFBVVF9ESVIgLiBESVJFQ1RPUllfU0VQQVJBVE9SIC4gJ2JsYWJsYScsIE5lb246OmVuY29kZSgkZGF0YSkpOwo=</text>
+        <text encoding="base64">CQkJCWJyZWFrOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Zm9yZWFjaCAoJGRhdGEgYXMgJGtleSA9PiAkdmFsdWUpIHsKCQkJCQlpZiAoaXNzZXQoJGZvcm1bJGtleV0pKSB7CgkJCQkJCSRmb3JtWyRrZXldLT5zZXRWYWx1ZSgkdmFsdWUpOwoJCQkJCX0KCQkJCX0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJZHVtcCgkZmlsZSk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>if (($handle = fopen(__DIR__ . '/../../../data/ic.aderap.csv', 'rb')) !== false) {
-			$data = fgetcsv($handle, 1000, ',',&quot;);
-		}</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJJGNpbiA9ICRmaWxlLT5nZXRCYXNlTmFtZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
