@@ -1108,10 +1108,10 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Presenters/SubjectsPresenter.php" timestamp="1518082401563">
-        <mark key="[" line="36" column="39" />
-        <mark key="]" line="44" column="8" />
-        <mark key="." line="44" column="8" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Presenters/SubjectsPresenter.php" timestamp="1518087642701">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="4" />
+        <mark key="." line="26" column="4" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Files/Presenters/FilePresenterCallback.php" timestamp="1484811254682">
         <mark key="[" line="105" column="8" />
@@ -1973,10 +1973,10 @@
         <mark key="]" line="12" column="4" />
         <mark key="." line="12" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Console/Commands/SubjectImportCommand.php" timestamp="1518081048308">
-        <mark key="[" line="131" column="8" />
-        <mark key="]" line="131" column="12" />
-        <mark key="." line="131" column="12" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Console/Commands/SubjectImportCommand.php" timestamp="1518087908782">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Plugins/Urlizer/elFinderPluginUrlizer.php" timestamp="1507284506269">
         <mark key="[" line="128" column="8" />
@@ -5217,8 +5217,10 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Model/AresModel.php" timestamp="1518082419875">
-        <mark key="[" line="84" column="10" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Model/AresModel.php" timestamp="1518087366272">
+        <mark key="[" line="37" column="16" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Forms/Controls/ContactInput.php" timestamp="1516195581796">
         <mark key="[" line="34" column="48" />
@@ -6912,8 +6914,8 @@
       <jump line="448" column="40" filename="/home/www/html/dv/adera/libs/vendor/jkuchar/pdfresponse/PDFResponse.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JHN1YmplY3QtPnNldFBheWVyT2ZWQVQoJHJlY29yZFsncGF5ZXJPZlZBVCddKTs=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkqLwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JHN1YmplY3QtPnNldFBheWVyT2ZWQVQoJHJlY29yZFsncGF5ZXJPZlZBVCddKTs=</text>
@@ -6925,31 +6927,35 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvKgo=</text>
+        <text encoding="base64">CQkqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkqLwo=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">JG91dHB1dC0+d3JpdGVMbihodHRwX2J1aWxkX3F1ZXJ5KCRyZWNvcmQpKTsKCQkJJG91dHB1dC0+d3JpdGVMbigkcmVjb3JkWydjb3VudHJ5J10pOwoJCQkKCQkJaWYgKCRyZWNvcmRbJ2NvdW50cnknXSA9PT0gbnVsbCkgewoJCQkJJG91dHB1dC0+d3JpdGVMbigkcmVjb3JkWydjaW4nXSk7CgkJCQlyZXR1cm4gMDsKCQkJfQ==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkqLwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">CQkvKgo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ZHVtcCgkdGhpcy0+YXJlc01vZGVsLT5zZWFyY2goJzcxMDA5MTkxJykpOwoJCWV4aXQ7</text>
+      <register name="3" type="4">
+        <text>/**
+	 * @var AresModel
+	 * @inject
+	 */
+	public $aresModel;</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ZHVtcCgkdGhpcy0+YXJlc01vZGVsLT5zZWFyY2goJzAwMDIzMjIxJykpOwoJCWV4aXQ7CgkJ</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJJG91dHB1dC0+d3JpdGVMbigkcmVjb3JkWyduYW1lJ10pOwo=</text>
+        <text encoding="base64">CQlkdW1wKCRyZXN1bHQtPlZCQVNbMF0tPkFBKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJJG91dHB1dC0+d3JpdGVMbihzcHJpbnRmKCc8ZXJyb3I+TmVuYWxlemVubyAlZCB6w6F6bmFtxa8uPC9lcnJvcj4nLCAkY2luKSk7Cg==</text>
+        <text encoding="base64">CQkvKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCSRub3RGb3VuZCsrOwo=</text>
+        <text encoding="base64">CQkqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
