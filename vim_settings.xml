@@ -1973,10 +1973,10 @@
         <mark key="]" line="12" column="4" />
         <mark key="." line="12" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Console/Commands/SubjectImportCommand.php" timestamp="1518089023705">
-        <mark key="[" line="134" column="25" />
-        <mark key="]" line="134" column="25" />
-        <mark key="." line="134" column="25" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Console/Commands/SubjectImportCommand.php" timestamp="1518098407130">
+        <mark key="[" line="123" column="8" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Plugins/Urlizer/elFinderPluginUrlizer.php" timestamp="1507284506269">
         <mark key="[" line="128" column="8" />
@@ -4224,7 +4224,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518016632931">
+      <file name="/Dummy.txt" timestamp="1518098417947">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
@@ -5219,10 +5219,10 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Model/AresModel.php" timestamp="1518087366272">
-        <mark key="[" line="37" column="16" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Model/AresModel.php" timestamp="1518098142032">
+        <mark key="[" line="104" column="45" />
+        <mark key="]" line="104" column="45" />
+        <mark key="." line="104" column="45" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Forms/Controls/ContactInput.php" timestamp="1516195581796">
         <mark key="[" line="34" column="48" />
@@ -6916,11 +6916,11 @@
       <jump line="142" column="31" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/templates/Invoice.latte" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'tin</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJdHJ5IHsK</text>
       </register>
       <register name="-" type="4">
-        <text>'tin</text>
+        <text>Neplatný</text>
       </register>
       <register name="/" type="4">
         <text>vatPrice</text>
@@ -6929,35 +6929,35 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CQkJdHJ5IHsK</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">fSBjYXRjaCAoXFR5cGVFcnJvciAkZSkgewoJCQkJJG91dHB1dC0+d3JpdGVMbihzcHJpbnRmKCc8ZXJyb3I+JWQgLSAlczwvZXJyb3I+JywgJHJlY29yZFsnY2luJ10sICRlLT5nZXRNZXNzYWdlKCkpKTsKCQkJCSRza2lwcGVkKys7CgkJCQljb250aW51ZTsKCQkJfQ==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CQkqLwo=</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkvKgo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>/**
 	 * @var AresModel
 	 * @inject
 	 */
 	public $aresModel;</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ZHVtcCgkdGhpcy0+YXJlc01vZGVsLT5zZWFyY2goJzAwMDIzMjIxJykpOwoJCWV4aXQ7CgkJ</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQlleGl0Owo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlkdW1wKCRyZXN1bHQtPlZCQVNbMF0tPkFBKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkvKgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkqLwo=</text>
+        <text encoding="base64">CQlkdW1wKCRyZXN1bHQtPlZCQVNbMF0tPkFBKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
