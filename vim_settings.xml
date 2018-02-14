@@ -337,10 +337,11 @@
         <mark key="]" line="177" column="4" />
         <mark key="." line="177" column="4" />
       </file>
-      <file name="/home/www/html/bul/contracts/app/model/DocumentsModel.php" timestamp="1518615900437">
-        <mark key="[" line="99" column="4" />
-        <mark key="]" line="76" column="58" />
-        <mark key="." line="76" column="58" />
+      <file name="/home/www/html/bul/contracts/app/model/DocumentsModel.php" timestamp="1518618294359">
+        <mark key="'" line="106" column="27" />
+        <mark key="[" line="55" column="86" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/media/src/Utils/FileLinkGenerator.php" timestamp="1513075699702">
         <mark key="[" line="56" column="33" />
@@ -1464,6 +1465,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="/home/www/html/bul/vendor/nette/utils/src/Utils/Arrays.php" timestamp="1518616630631" />
       <file name="/home/www/html/dv/cms/Modules/Storage/Components/ItemGroupsGrid/IItemGroupsGridFactory.php" timestamp="1497605114966">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="18" />
@@ -6606,12 +6608,11 @@
         <mark key="]" line="7" column="4" />
         <mark key="." line="7" column="4" />
       </file>
-      <file name="/home/www/html/bul/contracts/app/components/DocumentsGrid/DocumentsGrid.php" timestamp="1518614409535">
+      <file name="/home/www/html/bul/contracts/app/components/DocumentsGrid/DocumentsGrid.php" timestamp="1518618372264">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="51" column="43" />
-        <mark key="]" line="18" column="4" />
-        <mark key="^" line="45" column="0" />
-        <mark key="." line="18" column="4" />
+        <mark key="[" line="78" column="30" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Console/DI/ConsoleExtension.php" timestamp="1486026725384">
         <mark key="[" line="18" column="9" />
@@ -6955,7 +6956,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="28" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="435" column="33" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
       <jump line="396" column="47" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
       <jump line="293" column="54" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
@@ -7055,57 +7055,56 @@
       <jump line="53" column="9" filename="/home/www/html/bul/vendor/jzechy/nette-antispam/README.md" />
       <jump line="83" column="33" filename="/home/www/html/bul/contracts/app/model/WordpressModel.php" />
       <jump line="12" column="0" filename="/home/www/html/bul/contracts/app/components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="109" column="27" filename="/home/www/html/bul/contracts/app/model/DocumentsModel.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>wordPressDocumentsUrl: http://bulovka.cz/wp-content/uploads/pravo-na-informace</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkka2V5ID0gJHRoaXMtPmZpbmRLZXlCeUlkKCRpZCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>wordPressDocumentsUrl: http://bulovka.cz/wp-content/uploads/pravo-na-informace</text>
+        <text encoding="base64">J2lkJyA9PiBcY291bnQoJHRoaXMtPmRvY3VtZW50cykgKyAxLA==</text>
       </register>
       <register name="/" type="4">
-        <text>ICa</text>
+        <text>dump</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkka2V5ID0gJHRoaXMtPmZpbmRLZXlCeUlkKCRpZCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXNpemU6IG1vZGFsLWxnCg==</text>
+        <text encoding="base64">CQkka2V5ID0gbWF4KGFycmF5X2tleXMoJHRoaXMtPmRvY3VtZW50cykpICsgMTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aHJuY2lyci5tb2RhbHM6Cg==</text>
+        <text encoding="base64">CQkkZGF0YSA9IAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CWhybmNpcnIubW9kYWxzOiBIcm5jaXJyXE1vZGFsc1xESVxNb2RhbHNFeHRlbnNpb24K</text>
+      <register name="4" type="4">
+        <text encoding="base64">JGRvY3VtZW50cyA9IAoJCWZvcmVhY2ggKCR0aGlzLT5kb2N1bWVudHMgYXMgJGtleSA9PiAmJHZhbHVlKSB7CgkJCSR2YWx1ZVsnaWQnXSA9ICRrZXk7CgkJfQoJCXVuc2V0KCR2YWx1ZSk7</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">Zm9yZWFjaCAoJHRoaXMtPmRvY3VtZW50cyBhcyAka2V5ID0+ICYkdmFsdWUpIHsKCQkJJHZhbHVlWydpZCddID0gJGtleTsKCQl9CgkJdW5zZXQoJHZhbHVlKTs=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkkZm9ybS0+b25TdWNjZXNzW10K</text>
+      <register name="6" type="4">
+        <text encoding="base64">CgkJJHRoaXMtPmRvY3VtZW50c1ska2V5XSA9IFsKCQkJJ2lkJyA9PiBcY291bnQoJHRoaXMtPmRvY3VtZW50cykgKyAxCgkJXTs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlyZXF1aXJlZDogIlByb3PDrW0sIHphZGVqdGUgaGVzbG8iCg==</text>
+        <text encoding="base64">CQknaWQnID0+IFxjb3VudCgkdGhpcy0+ZG9jdW1lbnRzKSArIDEsCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CXVzZSBUTW9kYWxQcmVzZW50ZXI7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">J3RpdGxlJyA9PiAhZW1wdHkoJHRpdGxlKSA/IHN0cl9yZXBsYWNlKCctJywgJycsICR0aXRsZSkgOgoJCQkJcGF0aGluZm8oJGZpbGVVcGxvYWQtPmdldFNhbml0aXplZE5hbWUoKSlbJ2Jhc2VuYW1lJ10sCgkJCSdmaWxlJyA9PiAkZmlsZVVwbG9hZC0+Z2V0U2FuaXRpemVkTmFtZSgp</text>
       </register>
       <register name="9" type="4">
-        <text>{ifset $control['modal']}
-	{control modal}
-	{/ifset}</text>
+        <text encoding="base64">cHJpdmF0ZSBmdW5jdGlvbiBmaW5kS2V5QnlJZChpbnQgJGlkKTogP2ludAoJewoJCSR0aGlzLT5sb2FkKCk7CgkJCgkJZm9yZWFjaCAoJHRoaXMtPmRvY3VtZW50cyBhcyAka2V5ID0+ICR2YWx1ZSkgewoJCQlpZiAoJHZhbHVlWydpZCddID09PSAkaWQpIHsKCQkJCXJldHVybiAka2V5OwoJCQl9CgkJfQoJCQoJCXJldHVybiBudWxsOwoJfQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ICa</last-search>
+      <last-search>dump</last-search>
       <last-offset />
-      <last-pattern>ICa</last-pattern>
+      <last-pattern>dump</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -7123,7 +7122,6 @@
         <entry>invoice</entry>
         <entry>sales</entry>
         <entry>try</entry>
-        <entry>dump</entry>
         <entry>notClosable</entry>
         <entry>NULL</entry>
         <entry>byDoc</entry>
@@ -7133,6 +7131,7 @@
         <entry>addAnti</entry>
         <entry>update</entry>
         <entry>ICa</entry>
+        <entry>dump</entry>
       </history-search>
       <history-cmd>
         <entry>%s/this.element/this.$element/g</entry>
