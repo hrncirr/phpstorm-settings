@@ -313,10 +313,11 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="/home/www/html/bul/contracts/app/config/config.local.neon" timestamp="1518601196894">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="4" />
-        <mark key="." line="1" column="4" />
+      <file name="/home/www/html/bul/contracts/app/config/config.local.neon" timestamp="1518605503702">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="53" />
+        <mark key="." line="2" column="53" />
+        <mark key="^" line="2" column="53" />
       </file>
       <file name="/home/www/vendor/hrncirr/document-parsers/src/Types/Doc.php" timestamp="1488899557143">
         <mark key="[" line="81" column="4" />
@@ -609,10 +610,10 @@
         <mark key="]" line="70" column="8" />
         <mark key="." line="70" column="8" />
       </file>
-      <file name="/home/www/html/bul/contracts/app/config/services.neon" timestamp="1518601486243">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="11" column="4" />
-        <mark key="." line="11" column="4" />
+      <file name="/home/www/html/bul/contracts/app/config/services.neon" timestamp="1518605256770">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Pages/DI/PageExtension.php" timestamp="1492066854641">
         <mark key="[" line="5" column="0" />
@@ -2537,11 +2538,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/bul/contracts/app/presenters/DefaultPresenter.php" timestamp="1518596202220">
-        <mark key="[" line="25" column="53" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="22" column="4" />
+      <file name="/home/www/html/bul/contracts/app/presenters/DefaultPresenter.php" timestamp="1518604248267">
+        <mark key="[" line="21" column="50" />
+        <mark key="]" line="17" column="4" />
+        <mark key="." line="17" column="4" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Order.php" timestamp="1517324925137">
         <mark key="[" line="63" column="15" />
@@ -2723,6 +2723,11 @@
         <mark key="[" line="17" column="4" />
         <mark key="]" line="17" column="4" />
         <mark key="." line="17" column="4" />
+      </file>
+      <file name="/home/www/html/bul/contracts/app/config/client.side.neon" timestamp="1518604316652">
+        <mark key="[" line="54" column="8" />
+        <mark key="]" line="54" column="12" />
+        <mark key="." line="54" column="12" />
       </file>
       <file name="/home/www/vendor/hrncirr/modals/src/TModalFormControl.php" timestamp="1517586241893">
         <mark key="[" line="123" column="49" />
@@ -4735,8 +4740,10 @@
         <mark key="]" line="11" column="18" />
         <mark key="." line="11" column="18" />
       </file>
-      <file name="/home/www/html/bul/contracts/app/bootstrap.php" timestamp="1518594292248">
-        <mark key="[" line="1" column="23" />
+      <file name="/home/www/html/bul/contracts/app/bootstrap.php" timestamp="1518605244579">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InterventionsGrid/IInvoicesGridFactory.php" timestamp="1517218218847">
         <mark key="[" line="4" column="44" />
@@ -4972,8 +4979,11 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="/home/www/html/bul/contracts/app/presenters/templates/Default/default.latte" timestamp="1518601874160">
-        <mark key="[" line="12" column="0" />
+      <file name="/home/www/html/bul/contracts/app/presenters/templates/Default/default.latte" timestamp="1518604024560">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+        <mark key="^" line="2" column="20" />
       </file>
       <file name="/home/www/html/nnb/dms/app/router/RouterFactory.php" timestamp="1485778998829">
         <mark key="[" line="4" column="0" />
@@ -5004,12 +5014,6 @@
         <mark key="[" line="29" column="21" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="/home/www/html/bul/medical_examinations/app/components/RegistrationForm/RegistrationForm.php" timestamp="1518597200642">
-        <mark key="'" line="175" column="36" />
-        <mark key="[" line="250" column="0" />
-        <mark key="]" line="250" column="0" />
-        <mark key="." line="250" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Files/Events/FileListener.php" timestamp="1486733507547">
         <mark key="[" line="77" column="0" />
@@ -5158,6 +5162,11 @@
       </file>
       <file name="/home/www/html/dv/adera/Modules/Dashboard/Install/CalendarInstall.php" timestamp="1517479428855">
         <mark key="[" line="4" column="10" />
+      </file>
+      <file name="/home/www/html/bul/contracts/app/presenters/templates/@layout.latte" timestamp="1518604227571">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="4" />
+        <mark key="." line="21" column="4" />
       </file>
       <file name="/home/www/html/nnb/dms/css/file.preview.spinner.css" timestamp="1489570367983">
         <mark key="[" line="64" column="1" />
@@ -7042,10 +7051,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CWR1bXAoTmVvbjo6ZGVjb2RlKGZpbGVfZ2V0X2NvbnRlbnRzKCR0aGlzLT5maWxlKSkpOwoJCWV4aXQ7</text>
+        <text>-
+		class: App\Console\UserAddCommand
+		tags: [kdyby.console.command]
+
+	-
+		class:  App\Console\UserChangePasswordCommand
+		tags: [kdyby.console.command]</text>
       </register>
       <register name="-" type="4">
-        <text>- App\Model\DocumentsModel</text>
+        <text>.data</text>
       </register>
       <register name="/" type="4">
         <text>ICa</text>
@@ -7054,31 +7069,37 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CWR1bXAoTmVvbjo6ZGVjb2RlKGZpbGVfZ2V0X2NvbnRlbnRzKCR0aGlzLT5maWxlKSkpOwoJCWV4aXQ7</text>
+        <text>-
+		class: App\Console\UserAddCommand
+		tags: [kdyby.console.command]
+
+	-
+		class:  App\Console\UserChangePasswordCommand
+		tags: [kdyby.console.command]</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJdW5zZXQoKQkK</text>
+        <text encoding="base64">CS0+YWRkRGlyZWN0b3J5KF9fRElSX18gLiAnLy4uL2xpYnMnKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkkZ3JpZC0+c2V0Q29sdW1uc0hpZGVhYmxlKCk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">cmVnaXN0cmF0aW9uOgoJCQkJLSAmZGVmYXVsdAoJCQkJLSBodHRwczovL2FwaS5tYXB5LmN6L2xvYWRlci5qcwoKCQkJCS0gJmlucHV0bWFzawoJCQkJLSAmaW5wdXRtYXNrLmV4dGVuc2lvbnMKCQkJCS0gJmlucHV0bWFzay5kYXRlLmV4dGVuc2lvbnMKCQkJCS0gJmlucHV0bWFzay5qcXVlcnkKCQkJCS0gJmhybmNpcnIuZm9ybXMuaW5wdXRtYXNrLmFqYXgKCgkJCQktICZtb21lbnQKCQkJCS0gJm1vbWVudC5jcwoJCQkJLSAmYm9vdHN0cmFwLmRhdGVyYW5nZXBpY2tlcgoJCQkJLSAmaHJuY2lyci5mb3Jtcy5kYXRlcmFuZ2VwaWNrZXIuYWpheAoKCQkJCS0gJmhybmNpcnIubW9kYWxzCgoJCQkJLSAld3d3RGlyJS9qcy9kYXRlLnNlbGVjdG9yLmpzCgkJCQktICV3d3dEaXIlL2pzL21haW4uanM=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">cHJvdGVjdGVkIGZ1bmN0aW9uIGNyZWF0ZUNvbXBvbmVudFZpc2l0Rm9ybShJVmlzaXRGb3JtRmFjdG9yeSAkZmFjdG9yeSkKCXsKCQkkZm9ybSA9ICRmYWN0b3J5LT5jcmVhdGUoKTsKCQkKCQkkZm9ybS0+b25TYXZlW10gPSBmdW5jdGlvbiAoKSB7CgkJCSR0aGlzWydncmlkJ10tPnJlbG9hZCgpOwoJCX07CgkJCgkJcmV0dXJuICRmb3JtOwoJfQoJCgkKCXByb3RlY3RlZCBmdW5jdGlvbiBjcmVhdGVDb21wb25lbnRNYXNjRm9ybShJTWFzY0Zvcm1GYWN0b3J5ICRmYWN0b3J5KQoJewoJCSRmb3JtID0gJGZhY3RvcnktPmNyZWF0ZSgpOwoJCQoJCSRmb3JtLT5vblNhdmVbXSA9IGZ1bmN0aW9uICgpIHsKCQkJJHRoaXNbJ2dyaWQnXS0+cmVsb2FkKCk7CgkJfTsKCQkKCQlyZXR1cm4gJGZvcm07Cgl9</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCS0gJnplcm9jbGlwYm9hcmQK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">cHJvdGVjdGVkIGZ1bmN0aW9uIGNyZWF0ZUNvbXBvbmVudFZpc2l0Q2FsZW5kYXIoSUNhbGVuZGFyRmFjdG9yeSAkZmFjdG9yeSkKCXsKCQkkY29udHJvbCA9ICRmYWN0b3J5LT5jcmVhdGUoKTsKCQkKCQkkY29udHJvbC0+c2V0U2hvd0RhdGVQaWNrZXIodHJ1ZSk7CgkJJGNvbnRyb2wtPnNldFNob3dJbmZvKGZhbHNlKTsKCQkKCQkkY29udHJvbC0+c2V0Q29uZmlybShmdW5jdGlvbiAoRGF0ZVRpbWUgJGRhdGVUaW1lKSB7CgkJCXJldHVybiAiT3ByYXZkdSBjaGNldGUgem3Em25pdCBkYXR1bSBhIMSNYXMgb2JqZWRuw6Fuw60gcGFjaWVudGEgbmEgeyRkYXRlVGltZS0+Zm9ybWF0KCdkLm0gWSBIOmknKX0iOwoJCX0pOwoJCQoJCSRjb250cm9sLT5vblNlbGVjdFtdID0gZnVuY3Rpb24gKCRjb250cm9sLCBEYXRlVGltZSAkZGF0ZVRpbWUpIHsKCQkJaWYgKCR0aGlzLT5pdGVtc0xvY2tlci0+aXNMb2NrZWQoJGRhdGVUaW1lLT5mb3JtYXQoJ1ktbS1kIEg6aTpzJyksIHRydWUpIHx8CgkJCQkkdGhpcy0+cmVnaXN0ZXJNb2RlbC0+aXNPY2N1cGllZCgkZGF0ZVRpbWUpCgkJCSkgewoJCQkJJHRoaXMtPmZsYXNoTWVzc2FnZShzcHJpbnRmKCdOYSAlcyBzZSBuZW3Fr8W+ZXRlIG9iamVkbmF0LCB0ZXJtw61uIGplIGppxb4gb2JzYXplbicsCgkJCQkJJGRhdGVUaW1lLT5mb3JtYXQoJ2QubS5ZIEg6aScpKSwgJ2Vycm9yJyk7CgkJCX0KCQkJCgkJCSRvbGREYXRlVGltZSA9ICR0aGlzLT5yZWdpc3Rlck1vZGVsLT5nZXRUYWJsZSgpLT5nZXQoJHRoaXMtPmlkKS0+dmlzaXRfYXQ7CgkJCWlmICgkdGhpcy0+aXRlbXNMb2NrZXItPmlzTG9ja2VkKCRvbGREYXRlVGltZS0+Zm9ybWF0KCdZLW0tZCBIOmk6cycpKSkgewoJCQkJJHRoaXMtPml0ZW1zTG9ja2VyLT51bmxvY2soJG9sZERhdGVUaW1lLT5mb3JtYXQoJ1ktbS1kIEg6aTpzJykpOwoJCQl9CgkJCQoJCQkkdGhpcy0+cmVnaXN0ZXJNb2RlbC0+Y2hhbmdlVmlzaXQoJHRoaXMtPmlkLCAkZGF0ZVRpbWUpOwoJCQkKCQkJJHRoaXMtPm9uUmVnaXN0cmF0aW9uQ2hhbmdlKCR0aGlzLCAkdGhpcy0+aWQpOwoJCQkkdGhpcy0+aWQgPSBudWxsOwoJCQkKCQkJJHRoaXMtPmZsYXNoTWVzc2FnZSgnT2JqZWRuw6Fuw60gbmEgbWFtb2dyYWZpY2vDvSBzY3JlZW5pbmcgYnlsbyDDunNwxJvFoW7EmyB6bcSbbsSbbm8nLCAnc3VjY2VzcycpOwoJCQkkY29udHJvbC0+bW9kYWxIaWRlKCk7CgkJCSR0aGlzWydncmlkJ10tPnJlbG9hZCgpOwoJCX07CgkJCgkJcmV0dXJuICRjb250cm9sOwoJfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCS0gJnB3c3RyZW5ndGguYm9vdHN0cmFwCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXFV0aWxzXEh0bWw7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">LSAmaW5wdXRtYXNrCgkJCQktICZpbnB1dG1hc2suZXh0ZW5zaW9ucwoJCQkJLSAmaW5wdXRtYXNrLmRhdGUuZXh0ZW5zaW9ucwoJCQkJLSAmaW5wdXRtYXNrLmpxdWVyeQoJCQkJLSAmaHJuY2lyci5mb3Jtcy5pbnB1dG1hc2suYWpheAoKCQkJCS0gJm1vbWVudAoJCQkJLSAmbW9tZW50LmNzCgkJCQktICZib290c3RyYXAuZGF0ZXJhbmdlcGlja2VyCgkJCQktICZocm5jaXJyLmZvcm1zLmRhdGVyYW5nZXBpY2tlci5hamF4CgkJCQktICZib290c3RyYXAuZGF0ZXBpY2tlcgoJCQkJLSAmYm9vdHN0cmFwLmRhdGVwaWNrZXIuY3MubWlu</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkkdGhpcy0+YWRkQ29tcG9uZW50KCRncmlkLCAnZ3JpZCcpOwo=</text>
+        <text encoding="base64">CQkJLSAld3d3RGlyJS9jc3Mvc3VtbWFyeS5jc3MJCg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">JGdyaWQtPmFkZEFjdGlvbigndmlzaXQnLCAnJywgJ3Nob3dWaXNpdENhbGVuZGFyIScpCgkJCS8qCgkJCS0+c2V0Q29uZmlybShmdW5jdGlvbiAoJGl0ZW0pIHsKCQkJCXJldHVybiAiT3ByYXZkdSBjaGNldGUgem3Em25pdCBzdGF2ICd7JGl0ZW0tPmZpcnN0bmFtZX0geyRpdGVtLT5zdXJuYW1lfSc/IjsKCQkJfSkKCQkJKi8KCQkJLT5zZXRJY29uKCdjYWxlbmRhcicpCgkJCS0+c2V0Q2xhc3MoJ2J0biBidG4teHMgYnRuLXN1Y2Nlc3MgYWpheCcpCgkJCS0+c2V0VGl0bGUoJ1ptxJtuaXQgZGF0dW0gYSDEjWFzIHZ5xaFldMWZZW7DrScpOwoJCQoJCSRncmlkLT5hZGRBY3Rpb24oJ3Nob3dNYXNjRm9ybScsICcnLCAnc2hvd01hc2NGb3JtIScpCgkJCS8qCgkJCS0+c2V0Q29uZmlybShmdW5jdGlvbiAoJGl0ZW0pIHsKCQkJCXJldHVybiAiT3ByYXZkdSBjaGNldGUgem3Em25pdCBzdGF2ICd7JGl0ZW0tPmZpcnN0bmFtZX0geyRpdGVtLT5zdXJuYW1lfSc/IjsKCQkJfSkKCQkJKi8KCQkJLT5zZXRJY29uKCd0aHVtYnMtZG93bicpCgkJCS0+c2V0Q2xhc3MoJ2J0biBidG4teHMgYnRuLXdhcm5pbmcgYWpheCcpCgkJCS0+c2V0VGl0bGUoJ1phcHNhdCDEjWFzIHZ5dHZvxZllbsOtIHrDoXpuYW11IHYgc29mdHdhcmUgTWFzYycpOw==</text>
+        <text encoding="base64">cmVnaXN0cmF0aW9uOgoJCQktICZkZWZhdWx0CgkJCS0gJmJvb3RzdHJhcC5kYXRlcmFuZ2VwaWNrZXIKCQkJLSAld3d3RGlyJS9jc3MvcmVnaXN0cmF0aW9uLmNzcw==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">JGdyaWQtPmFkZENvbHVtblRleHQoJ3Bob25lJywgJ1RlbGVmb24nKQoJCQktPnNldFJlbmRlcmVyKGZ1bmN0aW9uICgkaXRlbSkgewoJCQkJcmV0dXJuICFlbXB0eSgkaXRlbS0+cGhvbmUpID8gSGVscGVyczo6Zm9ybWF0UGhvbmVOdW1iZXIoJGl0ZW0tPnBob25lKSA6ICcnOwoJCQl9KQoJCQktPnNldFNvcnRhYmxlKCkKCQkJLT5zZXRGaWx0ZXJUZXh0KCk7CgkJCgkJJGdyaWQtPmFkZENvbHVtblRleHQoJ3BpbicsICdSb2Ruw6kgxI3DrXNsbycpCgkJCS0+c2V0UmVuZGVyZXIoZnVuY3Rpb24gKCRpdGVtKSB7CgkJCQlyZXR1cm4gSHRtbDo6ZWwoJ2RpdicpCgkJCQkJLT5zZXRIdG1sKCRpdGVtLT5waW4gLiAnJm5ic3A7JyAuCgkJCQkJCUh0bWw6OmVsKCdhJyktPnNldENsYXNzKCdidG4gYnRuLXhzIGJ0bi1kZWZhdWx0IGNvcHktYnV0dG9uJyktPnNldEh0bWwoCgkJCQkJCQlIdG1sOjplbCgnc3BhbicpLT5zZXRDbGFzcygnZ2x5cGhpY29uIGdseXBoaWNvbi1wYXBlcmNsaXAnKSkKCQkJCQkJCS0+ZGF0YSgnY2xpcGJvYXJkLXRleHQnLCAkaXRlbS0+cGluKQoJCQkJCQkJLT5kYXRhKCdpbmZvJywgJ1JvZG7DqSDEjcOtc2xvIFwnJXNcJyBieWxvIHVsb8W+ZW5vIGRvIHNjaHLDoW5reScpCgkJCQkJCQktPnNldFRpdGxlKCdVbG/Fvml0IHJvZG7DqSDEjcOtc2xvIGRvIHNjaHLDoW5reScpCgkJCQkJCQktPnNldEhyZWYoJyMnKSk7CgkJCX0pCgkJCS0+c2V0U29ydGFibGUoKQoJCQktPnNldEZpbHRlclRleHQoKTsKCQkKCQkkZ3JpZC0+YWRkQ29sdW1uVGV4dCgnZW1haWwnLCAnRW1haWwnKQoJCQktPnNldFJlbmRlcmVyKGZ1bmN0aW9uICgkaXRlbSkgewoJCQkJcmV0dXJuIEh0bWw6OmVsKCdhJykKCQkJCQktPnNldEhyZWYoJ21haWx0bzonIC4gJGl0ZW0tPmVtYWlsKQoJCQkJCS0+c2V0VGV4dCgkaXRlbS0+ZW1haWwpOwoJCQl9KQoJCQktPnNldFNvcnRhYmxlKCkKCQkJLT5zZXRGaWx0ZXJUZXh0KCk7CgkJCgkJJGdyaWQtPmFkZENvbHVtblRleHQoJ25vdGUnLCAnUG96bsOhbWthJykKCQkJLT5zZXRTb3J0YWJsZSgpCgkJCS0+c2V0RmlsdGVyVGV4dCgpOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJLSAld3d3RGlyJS9jc3Mvc2lnbmluLmNzcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
