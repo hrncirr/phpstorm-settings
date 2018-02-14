@@ -36,7 +36,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1518596115852">
+      <file name="/a.dummy" timestamp="1518600667103">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -254,6 +254,9 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="/home/www/html/bul/contracts/data/documents" timestamp="1518602327007">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/home/www/html/dv/cms/Modules/Storage/locale/storage-forms.cs_CZ.neon" timestamp="1499068257502">
         <mark key="[" line="24" column="9" />
         <mark key="]" line="43" column="4" />
@@ -276,9 +279,6 @@
       </file>
       <file name="/home/www/vendor/hrncirr/application/src/UI/TControlView.php" timestamp="1517563161705">
         <mark key="[" line="35" column="0" />
-      </file>
-      <file name="/home/www/html/bul/contracts/app/FrontModule/presenters/BasePresenter.php" timestamp="1518595034316">
-        <mark key="[" line="1" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Folders/DI/config.neon" timestamp="1494507324265">
         <mark key="[" line="11" column="0" />
@@ -313,6 +313,11 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
+      <file name="/home/www/html/bul/contracts/app/config/config.local.neon" timestamp="1518601196894">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+      </file>
       <file name="/home/www/vendor/hrncirr/document-parsers/src/Types/Doc.php" timestamp="1488899557143">
         <mark key="[" line="81" column="4" />
         <mark key="]" line="81" column="8" />
@@ -330,6 +335,11 @@
         <mark key="[" line="177" column="4" />
         <mark key="]" line="177" column="4" />
         <mark key="." line="177" column="4" />
+      </file>
+      <file name="/home/www/html/bul/contracts/app/model/DocumentsModel.php" timestamp="1518602747510">
+        <mark key="[" line="64" column="4" />
+        <mark key="]" line="64" column="4" />
+        <mark key="." line="64" column="4" />
       </file>
       <file name="/home/www/vendor/hrncirr/media/src/Utils/FileLinkGenerator.php" timestamp="1513075699702">
         <mark key="[" line="56" column="33" />
@@ -598,6 +608,11 @@
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="8" />
         <mark key="." line="70" column="8" />
+      </file>
+      <file name="/home/www/html/bul/contracts/app/config/services.neon" timestamp="1518601486243">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="4" />
+        <mark key="." line="11" column="4" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Pages/DI/PageExtension.php" timestamp="1492066854641">
         <mark key="[" line="5" column="0" />
@@ -1513,8 +1528,10 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/home/www/html/bul/contracts/app/model/UserManager.php" timestamp="1518594678518">
-        <mark key="[" line="1" column="0" />
+      <file name="/home/www/html/bul/contracts/app/model/UserManager.php" timestamp="1518601450867">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" timestamp="1500550523151">
         <mark key="[" line="92" column="8" />
@@ -2585,6 +2602,12 @@
         <mark key="]" line="18" column="4" />
         <mark key="." line="18" column="4" />
       </file>
+      <file name="/home/www/html/bul/contracts/app/model/WordpressModel.php" timestamp="1518601302931">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="52" column="8" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="/home/www/html/dv/cms/Modules/AddressBook/DI/config.neon" timestamp="1500460970099">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="3" column="51" />
@@ -2734,8 +2757,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/home/www/html/bul/contracts/app/locale/app.cs_CZ.neon" timestamp="1518595947537">
-        <mark key="[" line="23" column="4" />
+      <file name="/home/www/html/bul/contracts/app/locale/app.cs_CZ.neon" timestamp="1518600280808">
+        <mark key="[" line="24" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
@@ -4088,8 +4111,10 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="/home/www/html/bul/contracts/app/model/RegisterModel.php" timestamp="1518594673462">
-        <mark key="[" line="1" column="0" />
+      <file name="/home/www/html/bul/contracts/app/model/RegisterModel.php" timestamp="1518600657087">
+        <mark key="[" line="28" column="32" />
+        <mark key="]" line="28" column="32" />
+        <mark key="." line="28" column="32" />
       </file>
       <file name="/home/www/html/dv/adera/src/Url/Route.php" timestamp="1515593049281">
         <mark key="[" line="347" column="46" />
@@ -4819,6 +4844,11 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
+      <file name="/home/www/html/bul/contracts/app/model/templates/page.latte" timestamp="1518600122222">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="4" column="13" />
+        <mark key="." line="4" column="13" />
+      </file>
       <file name="/home/www/html/nnb/passportization/app/components/RoomDetailControl/templates/RoomDetailControl.latte" timestamp="1486630890070">
         <mark key="[" line="6" column="54" />
         <mark key="]" line="6" column="0" />
@@ -4941,6 +4971,9 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
+      </file>
+      <file name="/home/www/html/bul/contracts/app/presenters/templates/Default/default.latte" timestamp="1518601874160">
+        <mark key="[" line="12" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/app/router/RouterFactory.php" timestamp="1485778998829">
         <mark key="[" line="4" column="0" />
@@ -6555,8 +6588,11 @@
         <mark key="]" line="7" column="4" />
         <mark key="." line="7" column="4" />
       </file>
-      <file name="/home/www/html/bul/contracts/app/components/DocumentsGrid/DocumentsGrid.php" timestamp="1518596148283">
-        <mark key="[" line="64" column="38" />
+      <file name="/home/www/html/bul/contracts/app/components/DocumentsGrid/DocumentsGrid.php" timestamp="1518602296240">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="." line="147" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Console/DI/ConsoleExtension.php" timestamp="1486026725384">
         <mark key="[" line="18" column="9" />
@@ -6734,8 +6770,10 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/home/www/html/bul/contracts/app/components/DocumentForm/DocumentForm.php" timestamp="1518595979113">
-        <mark key="[" line="4" column="25" />
+      <file name="/home/www/html/bul/contracts/app/components/DocumentForm/DocumentForm.php" timestamp="1518600256288">
+        <mark key="[" line="51" column="4" />
+        <mark key="]" line="31" column="32" />
+        <mark key="." line="31" column="32" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Documents/components/TagsGrid/TagsGrid.php" timestamp="1484215509747">
         <mark key="[" line="38" column="19" />
@@ -6885,8 +6923,8 @@
         <mark key="]" line="18" column="2" />
         <mark key="." line="18" column="2" />
       </file>
-      <file name="/home/www/html/bul/contracts/app/config/factories.neon" timestamp="1518596179684">
-        <mark key="[" line="6" column="21" />
+      <file name="/home/www/html/bul/contracts/app/config/factories.neon" timestamp="1518599752320">
+        <mark key="[" line="6" column="4" />
         <mark key="^" line="9" column="28" />
       </file>
       <file name="/home/www/vendor/nnb/application/src/UI/TControl.php" timestamp="1485877613168">
@@ -6901,8 +6939,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1163" column="67" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
-      <jump line="1132" column="19" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="23" column="28" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="435" column="33" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
       <jump line="396" column="47" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
@@ -7001,55 +7037,57 @@
       <jump line="57" column="0" filename="/home/www/html/bul/vendor/jzechy/nette-antispam/README.md" />
       <jump line="56" column="7" filename="/home/www/html/bul/vendor/jzechy/nette-antispam/README.md" />
       <jump line="53" column="9" filename="/home/www/html/bul/vendor/jzechy/nette-antispam/README.md" />
+      <jump line="83" column="33" filename="/home/www/html/bul/contracts/app/model/WordpressModel.php" />
+      <jump line="12" column="0" filename="/home/www/html/bul/contracts/app/components/DocumentsGrid/DocumentsGrid.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEFwcFxDb21wb25lbnRzXFJlZ2lzdGVyR3JpZFxJRG9jdW1lbnRzR3JpZEZhY3Rvcnk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CWR1bXAoTmVvbjo6ZGVjb2RlKGZpbGVfZ2V0X2NvbnRlbnRzKCR0aGlzLT5maWxlKSkpOwoJCWV4aXQ7</text>
       </register>
       <register name="-" type="4">
-        <text>Register</text>
+        <text>- App\Model\DocumentsModel</text>
       </register>
       <register name="/" type="4">
-        <text>addAnti</text>
+        <text>ICa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dXNlIEFwcFxDb21wb25lbnRzXFJlZ2lzdGVyR3JpZFxJRG9jdW1lbnRzR3JpZEZhY3Rvcnk7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CWR1bXAoTmVvbjo6ZGVjb2RlKGZpbGVfZ2V0X2NvbnRlbnRzKCR0aGlzLT5maWxlKSkpOwoJCWV4aXQ7</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEFwcFxDb21wb25lbnRzXEZpbGVGb3JtXElEb2N1bWVudEZvcm1GYWN0b3J5Owo=</text>
+        <text encoding="base64">CQkJdW5zZXQoKQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGFzc3dvcmRGb3JtOgoKCXBhc3N3b3JkOgoJCXRpdGxlOiAiSGVzbG8iCgkJcGxhY2Vob2xkZXI6ICJTdGFyw6kgaGVzbG8iCgkJcmVxdWlyZWQ6ICJQcm9zw61tLCB6YWRlanRlIGhlc2xvIgoKCW5ld1Bhc3N3b3JkOgoJCXRpdGxlOiAiTm92w6kgaGVzbG8iCgkJcGxhY2Vob2xkZXI6ICJOb3bDqSBoZXNsbyIKCQlyZXF1aXJlZDogIlByb3PDrW0sIHphZGVqdGUgbm92w6kgaGVzbG8iCgkJbWluTGVuZ3RoOiAiTm92w6kgaGVzbG8gbXVzw60gYsO9dCBuZWptw6luxJsgJWQgem5ha8WvIGRsb3Vow6kiCgoJY29uZmlybU5ld1Bhc3N3b3JkOgoJCXRpdGxlOiAiWm5vdnUgbm92w6kgaGVzbG8iCgkJcGxhY2Vob2xkZXI6ICJabm92dSBub3bDqSBoZXNsbyIKCQlyZXF1aXJlZDogIlByb3PDrW0sIHphZGVqdGUgem5vdnUgaGVzbG8iCgkJZXF1YWw6ICJIZXNsYSBuZWpzb3Ugc2hvZG7DoSIKCglzZW5kOgoJCXRpdGxlOiAiWm3Em25pdCIKCgl2YWxpZGF0aW9uOgoJCWluY29ycmVjdFBhc3N3b3JkOiAixaBwYXRuw6kgaGVzbG8iCg==</text>
+        <text encoding="base64">CQkkZ3JpZC0+c2V0Q29sdW1uc0hpZGVhYmxlKCk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">bWFzY0Zvcm06CgoJbWFzY0F0OgoJCXRpdGxlOiAiRGF0dW0gYSDEjWFzIHrDoXBpc3UiCgkJcGxhY2Vob2xkZXI6ICJEYXR1bSBhIMSNYXMgesOhcGlzdSIKCQlyZXF1aXJlZDogIlphZGVqdGUsIHByb3PDrW0sIGRhdHVtIGEgxI1hcyB6w6FwaXN1IgoKCXNlbmQ6CgkJdGl0bGU6ICJPZGVzbGF0Igo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">cHJvdGVjdGVkIGZ1bmN0aW9uIGNyZWF0ZUNvbXBvbmVudFZpc2l0Rm9ybShJVmlzaXRGb3JtRmFjdG9yeSAkZmFjdG9yeSkKCXsKCQkkZm9ybSA9ICRmYWN0b3J5LT5jcmVhdGUoKTsKCQkKCQkkZm9ybS0+b25TYXZlW10gPSBmdW5jdGlvbiAoKSB7CgkJCSR0aGlzWydncmlkJ10tPnJlbG9hZCgpOwoJCX07CgkJCgkJcmV0dXJuICRmb3JtOwoJfQoJCgkKCXByb3RlY3RlZCBmdW5jdGlvbiBjcmVhdGVDb21wb25lbnRNYXNjRm9ybShJTWFzY0Zvcm1GYWN0b3J5ICRmYWN0b3J5KQoJewoJCSRmb3JtID0gJGZhY3RvcnktPmNyZWF0ZSgpOwoJCQoJCSRmb3JtLT5vblNhdmVbXSA9IGZ1bmN0aW9uICgpIHsKCQkJJHRoaXNbJ2dyaWQnXS0+cmVsb2FkKCk7CgkJfTsKCQkKCQlyZXR1cm4gJGZvcm07Cgl9</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlyZXF1aXJlZDogIlphZGVqdGUsIHByb3PDrW0sIGRhdHVtIGEgxI1hcyB2ecWhZXTFmWVuw60iCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">cHJvdGVjdGVkIGZ1bmN0aW9uIGNyZWF0ZUNvbXBvbmVudFZpc2l0Q2FsZW5kYXIoSUNhbGVuZGFyRmFjdG9yeSAkZmFjdG9yeSkKCXsKCQkkY29udHJvbCA9ICRmYWN0b3J5LT5jcmVhdGUoKTsKCQkKCQkkY29udHJvbC0+c2V0U2hvd0RhdGVQaWNrZXIodHJ1ZSk7CgkJJGNvbnRyb2wtPnNldFNob3dJbmZvKGZhbHNlKTsKCQkKCQkkY29udHJvbC0+c2V0Q29uZmlybShmdW5jdGlvbiAoRGF0ZVRpbWUgJGRhdGVUaW1lKSB7CgkJCXJldHVybiAiT3ByYXZkdSBjaGNldGUgem3Em25pdCBkYXR1bSBhIMSNYXMgb2JqZWRuw6Fuw60gcGFjaWVudGEgbmEgeyRkYXRlVGltZS0+Zm9ybWF0KCdkLm0gWSBIOmknKX0iOwoJCX0pOwoJCQoJCSRjb250cm9sLT5vblNlbGVjdFtdID0gZnVuY3Rpb24gKCRjb250cm9sLCBEYXRlVGltZSAkZGF0ZVRpbWUpIHsKCQkJaWYgKCR0aGlzLT5pdGVtc0xvY2tlci0+aXNMb2NrZWQoJGRhdGVUaW1lLT5mb3JtYXQoJ1ktbS1kIEg6aTpzJyksIHRydWUpIHx8CgkJCQkkdGhpcy0+cmVnaXN0ZXJNb2RlbC0+aXNPY2N1cGllZCgkZGF0ZVRpbWUpCgkJCSkgewoJCQkJJHRoaXMtPmZsYXNoTWVzc2FnZShzcHJpbnRmKCdOYSAlcyBzZSBuZW3Fr8W+ZXRlIG9iamVkbmF0LCB0ZXJtw61uIGplIGppxb4gb2JzYXplbicsCgkJCQkJJGRhdGVUaW1lLT5mb3JtYXQoJ2QubS5ZIEg6aScpKSwgJ2Vycm9yJyk7CgkJCX0KCQkJCgkJCSRvbGREYXRlVGltZSA9ICR0aGlzLT5yZWdpc3Rlck1vZGVsLT5nZXRUYWJsZSgpLT5nZXQoJHRoaXMtPmlkKS0+dmlzaXRfYXQ7CgkJCWlmICgkdGhpcy0+aXRlbXNMb2NrZXItPmlzTG9ja2VkKCRvbGREYXRlVGltZS0+Zm9ybWF0KCdZLW0tZCBIOmk6cycpKSkgewoJCQkJJHRoaXMtPml0ZW1zTG9ja2VyLT51bmxvY2soJG9sZERhdGVUaW1lLT5mb3JtYXQoJ1ktbS1kIEg6aTpzJykpOwoJCQl9CgkJCQoJCQkkdGhpcy0+cmVnaXN0ZXJNb2RlbC0+Y2hhbmdlVmlzaXQoJHRoaXMtPmlkLCAkZGF0ZVRpbWUpOwoJCQkKCQkJJHRoaXMtPm9uUmVnaXN0cmF0aW9uQ2hhbmdlKCR0aGlzLCAkdGhpcy0+aWQpOwoJCQkkdGhpcy0+aWQgPSBudWxsOwoJCQkKCQkJJHRoaXMtPmZsYXNoTWVzc2FnZSgnT2JqZWRuw6Fuw60gbmEgbWFtb2dyYWZpY2vDvSBzY3JlZW5pbmcgYnlsbyDDunNwxJvFoW7EmyB6bcSbbsSbbm8nLCAnc3VjY2VzcycpOwoJCQkkY29udHJvbC0+bW9kYWxIaWRlKCk7CgkJCSR0aGlzWydncmlkJ10tPnJlbG9hZCgpOwoJCX07CgkJCgkJcmV0dXJuICRjb250cm9sOwoJfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlwbGFjZWhvbGRlcjogIkRhdHVtIGEgxI1hcyB2ecWhZXTFmWVuw60iCg==</text>
+        <text encoding="base64">dXNlIE5ldHRlXFV0aWxzXEh0bWw7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkkdGhpcy0+aXRlbXNMb2NrZXIgPSAkaXRlbXNMb2NrZXI7Cg==</text>
+        <text encoding="base64">CQkkdGhpcy0+YWRkQ29tcG9uZW50KCRncmlkLCAnZ3JpZCcpOwo=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">cHJvdGVjdGVkIGZ1bmN0aW9uIGNyZWF0ZUNvbXBvbmVudEdyaWQoSVJlZ2lzdGVyR3JpZEZhY3RvcnkgJGZhY3RvcnkpCgl7CgkJcmV0dXJuICRmYWN0b3J5LT5jcmVhdGUoKTsKCX0=</text>
+        <text encoding="base64">JGdyaWQtPmFkZEFjdGlvbigndmlzaXQnLCAnJywgJ3Nob3dWaXNpdENhbGVuZGFyIScpCgkJCS8qCgkJCS0+c2V0Q29uZmlybShmdW5jdGlvbiAoJGl0ZW0pIHsKCQkJCXJldHVybiAiT3ByYXZkdSBjaGNldGUgem3Em25pdCBzdGF2ICd7JGl0ZW0tPmZpcnN0bmFtZX0geyRpdGVtLT5zdXJuYW1lfSc/IjsKCQkJfSkKCQkJKi8KCQkJLT5zZXRJY29uKCdjYWxlbmRhcicpCgkJCS0+c2V0Q2xhc3MoJ2J0biBidG4teHMgYnRuLXN1Y2Nlc3MgYWpheCcpCgkJCS0+c2V0VGl0bGUoJ1ptxJtuaXQgZGF0dW0gYSDEjWFzIHZ5xaFldMWZZW7DrScpOwoJCQoJCSRncmlkLT5hZGRBY3Rpb24oJ3Nob3dNYXNjRm9ybScsICcnLCAnc2hvd01hc2NGb3JtIScpCgkJCS8qCgkJCS0+c2V0Q29uZmlybShmdW5jdGlvbiAoJGl0ZW0pIHsKCQkJCXJldHVybiAiT3ByYXZkdSBjaGNldGUgem3Em25pdCBzdGF2ICd7JGl0ZW0tPmZpcnN0bmFtZX0geyRpdGVtLT5zdXJuYW1lfSc/IjsKCQkJfSkKCQkJKi8KCQkJLT5zZXRJY29uKCd0aHVtYnMtZG93bicpCgkJCS0+c2V0Q2xhc3MoJ2J0biBidG4teHMgYnRuLXdhcm5pbmcgYWpheCcpCgkJCS0+c2V0VGl0bGUoJ1phcHNhdCDEjWFzIHZ5dHZvxZllbsOtIHrDoXpuYW11IHYgc29mdHdhcmUgTWFzYycpOw==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXEFwcGxpY2F0aW9uXEJhZFJlcXVlc3RFeGNlcHRpb247Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">JGdyaWQtPmFkZENvbHVtblRleHQoJ3Bob25lJywgJ1RlbGVmb24nKQoJCQktPnNldFJlbmRlcmVyKGZ1bmN0aW9uICgkaXRlbSkgewoJCQkJcmV0dXJuICFlbXB0eSgkaXRlbS0+cGhvbmUpID8gSGVscGVyczo6Zm9ybWF0UGhvbmVOdW1iZXIoJGl0ZW0tPnBob25lKSA6ICcnOwoJCQl9KQoJCQktPnNldFNvcnRhYmxlKCkKCQkJLT5zZXRGaWx0ZXJUZXh0KCk7CgkJCgkJJGdyaWQtPmFkZENvbHVtblRleHQoJ3BpbicsICdSb2Ruw6kgxI3DrXNsbycpCgkJCS0+c2V0UmVuZGVyZXIoZnVuY3Rpb24gKCRpdGVtKSB7CgkJCQlyZXR1cm4gSHRtbDo6ZWwoJ2RpdicpCgkJCQkJLT5zZXRIdG1sKCRpdGVtLT5waW4gLiAnJm5ic3A7JyAuCgkJCQkJCUh0bWw6OmVsKCdhJyktPnNldENsYXNzKCdidG4gYnRuLXhzIGJ0bi1kZWZhdWx0IGNvcHktYnV0dG9uJyktPnNldEh0bWwoCgkJCQkJCQlIdG1sOjplbCgnc3BhbicpLT5zZXRDbGFzcygnZ2x5cGhpY29uIGdseXBoaWNvbi1wYXBlcmNsaXAnKSkKCQkJCQkJCS0+ZGF0YSgnY2xpcGJvYXJkLXRleHQnLCAkaXRlbS0+cGluKQoJCQkJCQkJLT5kYXRhKCdpbmZvJywgJ1JvZG7DqSDEjcOtc2xvIFwnJXNcJyBieWxvIHVsb8W+ZW5vIGRvIHNjaHLDoW5reScpCgkJCQkJCQktPnNldFRpdGxlKCdVbG/Fvml0IHJvZG7DqSDEjcOtc2xvIGRvIHNjaHLDoW5reScpCgkJCQkJCQktPnNldEhyZWYoJyMnKSk7CgkJCX0pCgkJCS0+c2V0U29ydGFibGUoKQoJCQktPnNldEZpbHRlclRleHQoKTsKCQkKCQkkZ3JpZC0+YWRkQ29sdW1uVGV4dCgnZW1haWwnLCAnRW1haWwnKQoJCQktPnNldFJlbmRlcmVyKGZ1bmN0aW9uICgkaXRlbSkgewoJCQkJcmV0dXJuIEh0bWw6OmVsKCdhJykKCQkJCQktPnNldEhyZWYoJ21haWx0bzonIC4gJGl0ZW0tPmVtYWlsKQoJCQkJCS0+c2V0VGV4dCgkaXRlbS0+ZW1haWwpOwoJCQl9KQoJCQktPnNldFNvcnRhYmxlKCkKCQkJLT5zZXRGaWx0ZXJUZXh0KCk7CgkJCgkJJGdyaWQtPmFkZENvbHVtblRleHQoJ25vdGUnLCAnUG96bsOhbWthJykKCQkJLT5zZXRTb3J0YWJsZSgpCgkJCS0+c2V0RmlsdGVyVGV4dCgpOw==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>addAnti</last-search>
+      <last-search>ICa</last-search>
       <last-offset />
-      <last-pattern>addAnti</last-pattern>
+      <last-pattern>ICa</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -7057,8 +7095,6 @@
     </search>
     <history>
       <history-search>
-        <entry>remove</entry>
-        <entry>groups</entry>
         <entry>DateTimeImmutable</entry>
         <entry>decubitus</entry>
         <entry>date</entry>
@@ -7077,6 +7113,8 @@
         <entry>div</entry>
         <entry>vatPrice</entry>
         <entry>addAnti</entry>
+        <entry>update</entry>
+        <entry>ICa</entry>
       </history-search>
       <history-cmd>
         <entry>%s/this.element/this.$element/g</entry>
