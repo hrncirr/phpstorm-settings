@@ -4269,7 +4269,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518594334571">
+      <file name="/Dummy.txt" timestamp="1518597227846">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
@@ -4972,7 +4972,8 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/html/bul/medical_examinations/app/components/RegistrationForm/RegistrationForm.php" timestamp="1513250350584">
+      <file name="/home/www/html/bul/medical_examinations/app/components/RegistrationForm/RegistrationForm.php" timestamp="1518597200642">
+        <mark key="'" line="175" column="36" />
         <mark key="[" line="250" column="0" />
         <mark key="]" line="250" column="0" />
         <mark key="." line="250" column="0" />
@@ -6526,6 +6527,9 @@
         <mark key="]" line="32" column="32" />
         <mark key="." line="32" column="32" />
       </file>
+      <file name="/home/www/html/bul/vendor/jzechy/nette-antispam/README.md" timestamp="1518597261636">
+        <mark key="'" line="53" column="9" />
+      </file>
       <file name="/home/www/vendor/hrncirr/cmp/client-side/js/hrncirr.cmp.lightbox.init.js" timestamp="1477049204187">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -6897,10 +6901,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="23" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" />
-      <jump line="157" column="12" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
-      <jump line="714" column="0" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
-      <jump line="1145" column="32" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="1163" column="67" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="1132" column="19" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="23" column="28" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
@@ -6997,6 +6997,10 @@
       <jump line="447" column="19" filename="/home/www/html/dv/adera/libs/vendor/jkuchar/pdfresponse/PDFResponse.php" />
       <jump line="448" column="40" filename="/home/www/html/dv/adera/libs/vendor/jkuchar/pdfresponse/PDFResponse.php" />
       <jump line="142" column="31" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/templates/Invoice.latte" />
+      <jump line="175" column="36" filename="/home/www/html/bul/medical_examinations/app/components/RegistrationForm/RegistrationForm.php" />
+      <jump line="57" column="0" filename="/home/www/html/bul/vendor/jzechy/nette-antispam/README.md" />
+      <jump line="56" column="7" filename="/home/www/html/bul/vendor/jzechy/nette-antispam/README.md" />
+      <jump line="53" column="9" filename="/home/www/html/bul/vendor/jzechy/nette-antispam/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -7006,7 +7010,7 @@
         <text>Register</text>
       </register>
       <register name="/" type="4">
-        <text>vatPrice</text>
+        <text>addAnti</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
@@ -7043,9 +7047,9 @@
       </register>
     </registers>
     <search>
-      <last-search>vatPrice</last-search>
+      <last-search>addAnti</last-search>
       <last-offset />
-      <last-pattern>vatPrice</last-pattern>
+      <last-pattern>addAnti</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -7053,7 +7057,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onChange</entry>
         <entry>remove</entry>
         <entry>groups</entry>
         <entry>DateTimeImmutable</entry>
@@ -7073,6 +7076,7 @@
         <entry>tempDir</entry>
         <entry>div</entry>
         <entry>vatPrice</entry>
+        <entry>addAnti</entry>
       </history-search>
       <history-cmd>
         <entry>%s/this.element/this.$element/g</entry>
