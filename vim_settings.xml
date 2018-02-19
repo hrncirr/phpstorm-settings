@@ -474,10 +474,11 @@
         <mark key="]" line="40" column="4" />
         <mark key="." line="40" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Forms/Controls/WorkersInput.php" timestamp="1519046722058">
-        <mark key="[" line="60" column="32" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Forms/Controls/WorkersInput.php" timestamp="1519048429198">
+        <mark key="[" line="67" column="98" />
+        <mark key="]" line="61" column="16" />
+        <mark key="." line="61" column="16" />
+        <mark key="^" line="61" column="16" />
       </file>
       <file name="/home/www/html/dv/cms/app/extensions/CompilerExtension.php" timestamp="1491462703147">
         <mark key="[" line="9" column="31" />
@@ -504,10 +505,10 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/EmailForm/EmailForm.php" timestamp="1519046751282">
-        <mark key="[" line="108" column="50" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/EmailForm/EmailForm.php" timestamp="1519049056744">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Filters/EmailFilter.php" timestamp="1475670030858">
         <mark key="[" line="10" column="18" />
@@ -4220,10 +4221,10 @@
         <mark key="]" line="65" column="4" />
         <mark key="." line="65" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/locale/invoicing.cs_CZ.neon" timestamp="1517475319387">
-        <mark key="[" line="114" column="22" />
-        <mark key="]" line="12" column="4" />
-        <mark key="." line="12" column="4" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/locale/invoicing.cs_CZ.neon" timestamp="1519048566824">
+        <mark key="[" line="124" column="6" />
+        <mark key="]" line="135" column="4" />
+        <mark key="." line="135" column="4" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Doctrine/Mapping/Driver/CMP.php" timestamp="1475841409230">
         <mark key="[" line="191" column="12" />
@@ -6936,6 +6937,7 @@
         <mark key="]" line="18" column="2" />
         <mark key="." line="18" column="2" />
       </file>
+      <file name="/home/www/lib/vendor/nnb/application/src/config/config.neon" timestamp="1519049127236" />
       <file name="/home/www/vendor/nnb/application/src/UI/TControl.php" timestamp="1485877613168">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -7051,10 +7053,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlkdW1wKCR2YWx1ZXMtPmVtYWlscyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>use ($em)</text>
+        <text>EntityManager</text>
       </register>
       <register name="/" type="4">
         <text>workers</text>
@@ -7063,31 +7065,45 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlkdW1wKCR2YWx1ZXMtPmVtYWlscyk7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkkZm9ybS0+YmluZEVudGl0eSgkdGhpcy0+ZG9jdW1lbnQpOwo=</text>
+      <register name="2" type="4">
+        <text>interventionPlace:
+		title: &quot;Místo zásahu&quot;
+		placeholder: &quot;&quot;
+
+	schedule:
+		title: &quot;Plán zásahů&quot;
+		placeholder: &quot;&quot;
+
+	autoRenew:
+		title: &quot;Automaticky obnovit v novém roce&quot;
+		placeholder: &quot;&quot;
+
+	finished:
+		title: &quot;Zásah byl proveden&quot;
+		placeholder: &quot;&quot;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJcRm9ybXNcSUVudGl0eUZvcm1GYWN0b3J5Owo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CS8qKiBAdmFyIENvbnRhY3QgJGNvbnRhY3QgKi8KCQkkdGhpcy0+ZW0tPnBlcnNpc3QoJGNvbnRhY3QgPSAkZm9ybS0+Z2V0RW50aXR5KCkpLT5mbHVzaCgpOw==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEFkZHJlc3NCb29rXERJXEFkZHJlc3NCb29rRXh0ZW5zaW9uOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIEFkZHJlc3NCb29rXEFkZHJlc3M7Cg==</text>
+        <text encoding="base64">CQkvLyRmb3JtLT5hZGRDb21wb25lbnQobmV3IFdvcmtlcnNJbnB1dCgkdGhpcy0+ZG9jdW1lbnQtPmdldEludm9pY2UoKSwgJHRyYW5zbGF0b3IsICR0aGlzLT5lbSksICd3b3JrZXJzJyk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">JGl0ZW1zQ2FsbGJhY2sgPSBmdW5jdGlvbiAoYXJyYXkgJGlkcykgdXNlICgkZW50aXR5LCAkZW0pIHsKCQkJJHVzZXJzID0gJGVtLT5nZXRSZXBvc2l0b3J5KFVzZXI6OmNsYXNzKS0+Y3JlYXRlUXVlcnlCdWlsZGVyKCd1JykKCQkJCS0+d2hlcmUoJ3Uud29ya2luZ1Bvc2l0aW9uID0gOndvcmtpbmdQb3NpdGlvbicpCgkJCQktPmFuZFdoZXJlKCd1LmlkIElOICg6aWRzKScpCgkJCQktPnNldFBhcmFtZXRlcnMoWyd3b3JraW5nUG9zaXRpb24nID0+IDEsICdpZHMnID0+ICRpZHNdKQoJCQkJLT5nZXRRdWVyeSgpLT5nZXRSZXN1bHQoKTsKCgkJCSRvdXQgPSBbXTsKCQkJZm9yZWFjaCAoJHVzZXJzIGFzICR1c2VyKSB7CgkJCQkkb3V0WyR1c2VyLT5pZF0gPSAkdGhpcy0+Zm9ybWF0VXNlcigkdXNlcik7CgkJCX0KCgkJCXJldHVybiAkb3V0OwoJCX07</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCS0+d2hlcmUoJ3Uud29ya2luZ1Bvc2l0aW9uID0gOndvcmtpbmdQb3NpdGlvbicpCg==</text>
+        <text encoding="base64">CQkkZm9ybS0+YmluZEVudGl0eSgkdGhpcy0+ZG9jdW1lbnQpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">JHVzZXJzID0gYXJyYXlfY29tYmluZSgkdGhpcy0+ZW0tPmdldFJlcG9zaXRvcnkoQWRkcmVzczo6Y2xhc3MpIGVudGl0eS0+Z2V0V29ya2VycygpLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB7CgkJCXJldHVybiAkdXNlci0+aWQ7CgkJfSktPnRvQXJyYXkoKSwgJGVudGl0eS0+Z2V0V29ya2VycygpLT5tYXAoZnVuY3Rpb24gKCR1c2VyKSB7CgkJCXJldHVybiAkdGhpcy0+Zm9ybWF0VXNlcigkdXNlcik7CgkJfSktPnRvQXJyYXkoKSk7Cg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">dXNlIEhybmNpcnJcRm9ybXNcSUVudGl0eUZvcm1GYWN0b3J5Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlwYXJlbnQ6Ol9fY29uc3RydWN0KCR0cmFuc2xhdG9yLT50cmFuc2xhdGUoJHRyYW5zbGF0b3JEb21haW4gLiAnLndvcmtlcnMudGl0bGUnKSwgJHVzZXJzLCAkaXRlbXNDYWxsYmFjaywgJGNhbGxiYWNrKTsK</text>
+        <text encoding="base64">dXNlIEFkZHJlc3NCb29rXERJXEFkZHJlc3NCb29rRXh0ZW5zaW9uOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
