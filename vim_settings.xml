@@ -474,7 +474,7 @@
         <mark key="]" line="40" column="4" />
         <mark key="." line="40" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Forms/Controls/WorkersInput.php" timestamp="1519043723523">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Forms/Controls/WorkersInput.php" timestamp="1519046722058">
         <mark key="[" line="60" column="32" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
@@ -504,10 +504,10 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/EmailForm/EmailForm.php" timestamp="1519045323567">
-        <mark key="[" line="105" column="38" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/EmailForm/EmailForm.php" timestamp="1519046751282">
+        <mark key="[" line="108" column="50" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Filters/EmailFilter.php" timestamp="1475670030858">
         <mark key="[" line="10" column="18" />
@@ -1555,10 +1555,10 @@
       <file name="/home/www/vendor/hrncirr/application/composer.json" timestamp="1517570809861">
         <mark key="[" line="11" column="19" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/FormParts/TButtonsFormPart.php" timestamp="1518790198803">
-        <mark key="[" line="70" column="4" />
-        <mark key="]" line="70" column="8" />
-        <mark key="." line="70" column="8" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/FormParts/TButtonsFormPart.php" timestamp="1519046613701">
+        <mark key="[" line="74" column="74" />
+        <mark key="]" line="71" column="8" />
+        <mark key="." line="71" column="8" />
       </file>
       <file name="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/Controls/ToMany.php" timestamp="1502467453007">
         <mark key="[" line="51" column="75" />
@@ -2258,8 +2258,12 @@
         <mark key="]" line="27" column="66" />
         <mark key="." line="27" column="66" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/templates/InvoiceForm.latte" timestamp="1517909030803">
-        <mark key="[" line="0" column="11" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/templates/InvoiceForm.latte" timestamp="1519046281873">
+        <mark key="'" line="14" column="46" />
+        <mark key="[" line="35" column="17" />
+        <mark key="]" line="35" column="31" />
+        <mark key="^" line="35" column="31" />
+        <mark key="." line="35" column="31" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Components/TechnicalRequisitionImages/ITechnicalRequisitionsGridFactory.php" timestamp="1494329356414">
         <mark key="[" line="11" column="0" />
@@ -4299,7 +4303,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518796821238">
+      <file name="/Dummy.txt" timestamp="1519046595052">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
@@ -4773,8 +4777,8 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" timestamp="1518790148156">
-        <mark key="[" line="79" column="32" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" timestamp="1519046370280">
+        <mark key="[" line="154" column="10" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/Model/File.php" timestamp="1493983525202">
         <mark key="[" line="20" column="26" />
@@ -6944,7 +6948,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="435" column="33" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
       <jump line="396" column="47" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
       <jump line="293" column="54" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
       <jump line="443" column="21" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
@@ -7044,6 +7047,7 @@
       <jump line="83" column="33" filename="/home/www/html/bul/contracts/app/model/WordpressModel.php" />
       <jump line="12" column="0" filename="/home/www/html/bul/contracts/app/components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="109" column="27" filename="/home/www/html/bul/contracts/app/model/DocumentsModel.php" />
+      <jump line="14" column="46" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/templates/InvoiceForm.latte" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -7053,7 +7057,7 @@
         <text>use ($em)</text>
       </register>
       <register name="/" type="4">
-        <text>dump</text>
+        <text>workers</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
@@ -7090,9 +7094,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dump</last-search>
+      <last-search>workers</last-search>
       <last-offset />
-      <last-pattern>dump</last-pattern>
+      <last-pattern>workers</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -7100,7 +7104,6 @@
     </search>
     <history>
       <history-search>
-        <entry>DateTimeImmutable</entry>
         <entry>decubitus</entry>
         <entry>date</entry>
         <entry>getNumber</entry>
@@ -7120,6 +7123,7 @@
         <entry>update</entry>
         <entry>ICa</entry>
         <entry>dump</entry>
+        <entry>workers</entry>
       </history-search>
       <history-cmd>
         <entry>%s/this.element/this.$element/g</entry>
