@@ -1001,10 +1001,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/home/www/html/bul/sender/index.php" timestamp="1519130932844">
-        <mark key="[" line="21" column="25" />
-        <mark key="]" line="21" column="25" />
-        <mark key="." line="21" column="25" />
+      <file name="/home/www/html/bul/sender/index.php" timestamp="1519134603276">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="11" column="4" />
+        <mark key="." line="11" column="4" />
+        <mark key="^" line="38" column="22" />
       </file>
       <file name="/home/www/html/dv/adera/src/Navigation/AdminModule/Presenters/NavigationPresenter.php" timestamp="1500880477023">
         <mark key="[" line="24" column="46" />
@@ -2658,8 +2659,10 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/home/www/html/bul/sender/composer.json" timestamp="1519129217033">
-        <mark key="[" line="10" column="4" />
+      <file name="/home/www/html/bul/sender/composer.json" timestamp="1519133768154">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/Router/IconRouterFactory.php" timestamp="1502111174254">
         <mark key="[" line="30" column="41" />
@@ -7076,11 +7079,11 @@
       <jump line="97" column="41" filename="/home/www/lib/vendor/nette/forms/src/Forms/Container.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'/post'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkiYWxjaGVteS96aXBweSI6ICJeMC40LjAiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>'/post'</text>
+        <text>Alchemy\Zippy\</text>
       </register>
       <register name="/" type="4">
         <text>extensionMethod</text>
@@ -7089,45 +7092,31 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CQkiYWxjaGVteS96aXBweSI6ICJeMC40LjAiLAo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">JGNsaWVudC0+cG9zdCgpCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IFsKICAgICAgICAgICAgJ25hbWUnICAgICA9PiAnYmF6JywKICAgICAgICAgICAgJ2NvbnRlbnRzJyA9PiBmb3BlbignL3BhdGgvdG8vZmlsZScsICdyJykKICAgICAgICBdLAogICAgICAgIFsKICAgICAgICAgICAgJ25hbWUnICAgICA9PiAncXV4JywKICAgICAgICAgICAgJ2NvbnRlbnRzJyA9PiBmb3BlbignL3BhdGgvdG8vZmlsZScsICdyJyksCiAgICAgICAgICAgICdmaWxlbmFtZScgPT4gJ2N1c3RvbV9maWxlbmFtZS50eHQnCiAgICAgICAgXSw=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkvLyRwZGZGaWxlID0gJHBkZi0+Z2V0TVBERigpLT5PdXRwdXQoJycsIERlc3RpbmF0aW9uOjpTVFJJTkdfUkVUVVJOKTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQlyZXR1cm47Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQlkdW1wKCRwZGZGaWxlKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkkcGRmLT5nZXRNUERGKCktPgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkkdGVtcGxhdGUgPSAkdGhpcy0+Y3JlYXRlUGRmVGVtcGxhdGUoKTsK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQlkdW1wKCR2YWx1ZXMtPmVtYWlscyk7Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>interventionPlace:
-		title: &quot;Místo zásahu&quot;
-		placeholder: &quot;&quot;
-
-	schedule:
-		title: &quot;Plán zásahů&quot;
-		placeholder: &quot;&quot;
-
-	autoRenew:
-		title: &quot;Automaticky obnovit v novém roce&quot;
-		placeholder: &quot;&quot;
-
-	finished:
-		title: &quot;Zásah byl proveden&quot;
-		placeholder: &quot;&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
