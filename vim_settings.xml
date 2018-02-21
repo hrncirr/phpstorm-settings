@@ -476,6 +476,12 @@
         <mark key="]" line="40" column="4" />
         <mark key="." line="40" column="4" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Forms/Controls/WorkersInput.php" timestamp="1519048429198">
+        <mark key="[" line="67" column="98" />
+        <mark key="]" line="61" column="16" />
+        <mark key="." line="61" column="16" />
+        <mark key="^" line="61" column="16" />
+      </file>
       <file name="/home/www/html/dv/cms/app/extensions/CompilerExtension.php" timestamp="1491462703147">
         <mark key="[" line="9" column="31" />
         <mark key="]" line="9" column="32" />
@@ -3826,10 +3832,10 @@
         <mark key="]" line="30" column="4" />
         <mark key="." line="30" column="4" />
       </file>
-      <file name="/home/www/html/bul/sender/app/Presenters/ImportPresenter.php" timestamp="1519224676023">
-        <mark key="[" line="73" column="35" />
-        <mark key="]" line="71" column="67" />
-        <mark key="." line="71" column="67" />
+      <file name="/home/www/html/bul/sender/app/Presenters/ImportPresenter.php" timestamp="1519226315398">
+        <mark key="[" line="76" column="4" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/src/Translatable.php" timestamp="1491478738299">
         <mark key="[" line="11" column="22" />
@@ -4340,7 +4346,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519217689091">
+      <file name="/Dummy.txt" timestamp="1519225909569">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
@@ -4784,10 +4790,11 @@
         <mark key="]" line="11" column="18" />
         <mark key="." line="11" column="18" />
       </file>
-      <file name="/home/www/html/bul/sender/app/config/config.neon" timestamp="1519224556813">
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="/home/www/html/bul/sender/app/config/config.neon" timestamp="1519225890440">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="13" column="21" />
+        <mark key="^" line="13" column="21" />
       </file>
       <file name="/home/www/html/bul/contracts/app/bootstrap.php" timestamp="1518605244579">
         <mark key="[" line="25" column="0" />
@@ -6002,6 +6009,7 @@
       <file name="/home/www/html/dv/adera/app/src/Utils/PdfCreator.php" timestamp="1517907240313">
         <mark key="[" line="29" column="7" />
       </file>
+      <file name="/home/www/html/dv/adera/libs/vendor/hrncirr/elfinder/src/MediaImporterControl.php" timestamp="1519225904692" />
       <file name="/home/www/html/bul/mamo/app/presenters/BasePresenter.php" timestamp="1481267871908">
         <mark key="[" line="21" column="14" />
         <mark key="]" line="4" column="0" />
@@ -7119,8 +7127,8 @@
       <jump line="97" column="41" filename="/home/www/lib/vendor/nette/forms/src/Forms/Container.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, 'sending</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlyZXR1cm4gbmV3IFZvaWRSZXNwb25zZTsK</text>
       </register>
       <register name="-" type="4">
         <text>, 'sending</text>
@@ -7132,14 +7140,26 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CQlyZXR1cm4gbmV3IFZvaWRSZXNwb25zZTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXEFwcGxpY2F0aW9uXFJlc3BvbnNlc1xWb2lkUmVzcG9uc2U7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dXNlIFppcFN0cmVhbVxaaXBTdHJlYW07Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQktIE1vbm9sb2dcUHJvY2Vzc29yXFBzckxvZ01lc3NhZ2VQcm9jZXNzb3IK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CQl1c2VyQWdlbnQ6IEhUVFBfVVNFUl9BR0VOVAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>monolog:
 		processors:
 			- Monolog\Processor\WebProcessor</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>&quot;nette/di&quot;: &quot;v3.0.0-alpha1 as 2.4&quot;,
         &quot;nette/finder&quot;: &quot;v3.0.0-RC as 2.4&quot;,
         &quot;nette/caching&quot;: &quot;v3.0.0-beta as 2.4&quot;,
@@ -7148,10 +7168,10 @@
         &quot;nette/http&quot;: &quot;v3.0.0-alpha1 as 2.4&quot;,
         &quot;nette/utils&quot;: &quot;v3.0.0-beta1 as 2.4&quot;,</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAibmV0dGUvbmVvbiI6ICJ2My4wLjAtYmV0YTEgYXMgMi40IiwK</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>&quot;nette/di&quot;: &quot;v3.0.0-alpha1 as 2.4&quot;,
         &quot;nette/finder&quot;: &quot;v3.0.0-RC as 2.4&quot;,
         &quot;nette/caching&quot;: &quot;v3.0.0-beta as 2.4&quot;,
@@ -7161,31 +7181,6 @@
         &quot;nette/utils&quot;: &quot;v3.0.0-beta1 as 2.4&quot;,
 		&quot;nette/robot-loader&quot;: &quot;^3.0.0&quot;,
         &quot;nette/neon&quot;: &quot;v3.0.0-beta1 as 2.4&quot;,</text>
-      </register>
-      <register name="6" type="4">
-        <text>&quot;nette/bootstrap&quot;: &quot;v3.0.0-beta as 2.4&quot;,
-        &quot;nette/di&quot;: &quot;v3.0.0-alpha1 as 2.4&quot;,
-        &quot;nette/finder&quot;: &quot;v3.0.0-RC as 2.4&quot;,
-        &quot;nette/caching&quot;: &quot;v3.0.0-beta as 2.4&quot;,
-        &quot;nette/component-model&quot;: &quot;v3.0.0-beta as 2.4&quot;,
-        &quot;nette/database&quot;: &quot;v3.0.0-alpha as 2.4&quot;,
-        &quot;nette/http&quot;: &quot;v3.0.0-alpha1 as 2.4&quot;,
-        &quot;nette/utils&quot;: &quot;v3.0.0-beta1 as 2.4&quot;,
-		&quot;nette/robot-loader&quot;: &quot;^3.0.0&quot;,
-        &quot;nette/neon&quot;: &quot;v3.0.0-beta1 as 2.4&quot;,</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkia2R5YnkvbW9ub2xvZyI6ICJeMS4zIiwK</text>
-      </register>
-      <register name="8" type="4">
-        <text>atabase:
-	dsn: 'pgsql:host=pglaboratornimetody.bulovka.cz;dbname=laboratornimetody'
-	#'pgsql:host=/var/run/pgsql;dbname=laboratornimetody'
-	user: laboratornimetody
-	password: melody44125S</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
