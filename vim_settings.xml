@@ -491,6 +491,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="/home/www/html/bul/sender/app/bootstrap.php" timestamp="1519213923424">
+        <mark key="[" line="22" column="78" />
+        <mark key="]" line="22" column="96" />
+        <mark key="." line="22" column="96" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Files/IFileConversionStorage.php" timestamp="1484656775332">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="38" column="4" />
@@ -997,11 +1002,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/home/www/html/bul/sender/index.php" timestamp="1519202492283">
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="5" column="19" />
-        <mark key="." line="5" column="19" />
-        <mark key="^" line="12" column="0" />
+      <file name="/home/www/html/bul/sender/index.php" timestamp="1519213127037">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/src/Navigation/AdminModule/Presenters/NavigationPresenter.php" timestamp="1500880477023">
         <mark key="[" line="24" column="46" />
@@ -1598,8 +1602,10 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/home/www/html/bul/sender/bootstrap.php" timestamp="1519208302666">
-        <mark key="[" line="34" column="33" />
+      <file name="/home/www/html/bul/sender/bootstrap.php" timestamp="1519213026811">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/header/src/DI/ClientSideParsers/NeonParser.php" timestamp="1496839350716">
         <mark key="[" line="60" column="58" />
@@ -1853,6 +1859,11 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="30" column="4" />
         <mark key="." line="30" column="4" />
+      </file>
+      <file name="/home/www/html/bul/sender/app/Presenters/ActionPresenter.php" timestamp="1519214059378">
+        <mark key="[" line="22" column="22" />
+        <mark key="]" line="11" column="33" />
+        <mark key="." line="11" column="33" />
       </file>
       <file name="/home/www/vendor/hrncirr/jstree/src/DI/DoctrineDataSource.php" timestamp="1479301570985">
         <mark key="[" line="13" column="0" />
@@ -2651,10 +2662,10 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/home/www/html/bul/sender/composer.json" timestamp="1519207605207">
-        <mark key="[" line="18" column="4" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="/home/www/html/bul/sender/composer.json" timestamp="1519212822619">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/Router/IconRouterFactory.php" timestamp="1502111174254">
         <mark key="[" line="30" column="41" />
@@ -4321,7 +4332,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519207086596">
+      <file name="/Dummy.txt" timestamp="1519213521919">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
@@ -6612,6 +6623,9 @@
         <mark key="]" line="32" column="32" />
         <mark key="." line="32" column="32" />
       </file>
+      <file name="/home/www/html/bul/sender/app/config.neon" timestamp="1519213977521">
+        <mark key="[" line="1" column="10" />
+      </file>
       <file name="/home/www/vendor/hrncirr/cmp/client-side/js/hrncirr.cmp.lightbox.init.js" timestamp="1477049204187">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -7083,10 +7097,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JHppcCA9IG5ldyBaaXBTdHJlYW0oJ3Jlc3VsdC56aXAnKTsKJHppcC0+YWRkRmlsZUZyb21QYXRoKCcxLnBuZycsIF9fRElSX18gLiAnL3VpLWljb25zXzI2OTRlOF8yNTZ4MjQwLnBuZycpOwokemlwLT5hZGRGaWxlRnJvbVBhdGgoJzIucG5nJywgX19ESVJfXyAuICcvdWktaWNvbnNfMmU4M2ZmXzI1NngyNDAucG5nJyk7CiR6aXAtPmZpbmlzaCgpOw==</text>
+        <text>\Nette\Application\</text>
       </register>
       <register name="-" type="4">
-        <text>Debugger::enable(false);</text>
+        <text>\Nette\Application\</text>
       </register>
       <register name="/" type="4">
         <text>extensionMethod</text>
@@ -7094,40 +7108,36 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">JHppcCA9IG5ldyBaaXBTdHJlYW0oJ3Jlc3VsdC56aXAnKTsKJHppcC0+YWRkRmlsZUZyb21QYXRoKCcxLnBuZycsIF9fRElSX18gLiAnL3VpLWljb25zXzI2OTRlOF8yNTZ4MjQwLnBuZycpOwokemlwLT5hZGRGaWxlRnJvbVBhdGgoJzIucG5nJywgX19ESVJfXyAuICcvdWktaWNvbnNfMmU4M2ZmXzI1NngyNDAucG5nJyk7CiR6aXAtPmZpbmlzaCgpOw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LyoKaWYgKCRfU0VSVkVSWydTU0xfQ0xJRU5UX1ZFUklGWSddICE9PSAnU1VDQ0VTUycpIHsKCWR1bXAoJ25lbmUnKTsKfQoKZHVtcCgkX1NFUlZFUlsnU1NMX0NMSUVOVF9TX0ROX0NOJ10pOwpkdW1wKCRyZXF1ZXN0LT5nZXRRdWVyeSgpKTsKZXhpdDsKKi8=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JHJlc3VsdCA9ICRtb2RlbC0+ZmluZEJ5RXhwb3J0Rm9yKCdrYXJkaW8nKTsK</text>
+        <text encoding="base64">Ly8gVW5jb21tZW50IHRoaXMgbGluZSBpZiB5b3UgbXVzdCB0ZW1wb3JhcmlseSB0YWtlIGRvd24geW91ciBzaXRlIGZvciBtYWludGVuYW5jZS4K</text>
       </register>
-      <register name="4" type="4">
-        <text>/*
-$database = new Connection('pgsql:host=/var/run/pgsql;dbname=laboratornimetody',
-	'laboratornimetody',
-	'melody44125S');
-*/
-
-$database = new Connection('pgsql:host=pglaboratornimetody.bulovka.cz;dbname=laboratornimetody',
-	'laboratornimetody',
-	'melody44125S');</text>
+      <register name="4" type="2">
+        <text encoding="base64">Ly9yZXF1aXJlICcubWFpbnRlbmFuY2UucGhwJzsK</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">JHJlc3VsdCA9ICRkYXRhYmFzZS0+cXVlcnkoCgknU0VMRUNUIGJpLmlkLCBiaS5leHBvcnRfZm9yIEFTIGV4cG9ydEZvciwgYmkuZXhwb3J0X2ZpbGVuYW1lIEFTIGZpbGVuYW1lLCBiaS5leHBvcnRfZmlsZV9jb250ZW50IEFTIGNvbnRlbnQKRlJPTSBleHBvcnRzLmJsb2JfaW1wb3J0IGJpCldIRVJFCmJpLmV4cG9ydF9mb3IgPSA/CkFORApiaS5leHBvcnRlZCBJUyBOVUxMCkFORApiaS5kZWxldGVkIElTIE5VTEwKJywgJ2thcmRpbycpOw==</text>
+        <text>/*
+if (!Nette\Http\Helpers::ipMatch($_SERVER['REMOTE_ADDR'], '195.113.79.0/28')) {
+    require '.maintenance.php';
+}
+*/</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIEFwcDsK</text>
+        <text encoding="base64">cmVxdWlyZSBfX0RJUl9fIC4gJy9ib290c3RyYXAucGhwJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Ly8gQ29uZmlndXJlIGFwcGxpY2F0aW9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlkdW1wKCRlbEZpbmRlckZpbGVDb25zdW1lci0+Z2V0TWVkaWFJbXBvcnRJZCgpKTsK</text>
+        <text encoding="base64">Ly8gRW5hYmxlIFRyYWN5IGZvciBlcnJvciB2aXN1YWxpc2F0aW9uICYgbG9nZ2luZwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">JGdyaWQtPmFkZENvbHVtbkxpbmsoJ2lkJywgJ0lEJywgJ2VkaXQhJywgJ2lkJywgWydjb250cmFjdCcgPT4gbnVsbF0pCgkJCS0+c2V0Q2xhc3MoJ2FqYXgnKQoJCQktPnNldFNvcnRhYmxlKCk7</text>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gQ3JlYXRlIERlcGVuZGVuY3kgSW5qZWN0aW9uIGNvbnRhaW5lcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
