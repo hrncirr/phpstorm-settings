@@ -461,8 +461,10 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/FileManagerControlFactory.php" timestamp="1516804597586">
-        <mark key="[" line="76" column="49" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/FileManagerControlFactory.php" timestamp="1519206010721">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Storage/AdminModule/Components/ItemsGrid/GroupsGrid.latte" timestamp="1497351916802">
         <mark key="[" line="1" column="0" />
@@ -1596,10 +1598,8 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/home/www/html/bul/sender/bootstrap.php" timestamp="1519202669621">
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="/home/www/html/bul/sender/bootstrap.php" timestamp="1519208302666">
+        <mark key="[" line="34" column="33" />
       </file>
       <file name="/home/www/vendor/hrncirr/header/src/DI/ClientSideParsers/NeonParser.php" timestamp="1496839350716">
         <mark key="[" line="60" column="58" />
@@ -2244,8 +2244,8 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractsGrid/ContractsGrid.php" timestamp="1519204175261">
-        <mark key="[" line="182" column="8" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractsGrid/ContractsGrid.php" timestamp="1519205507305">
+        <mark key="[" line="183" column="33" />
         <mark key="]" line="128" column="8" />
         <mark key="." line="128" column="8" />
       </file>
@@ -2651,8 +2651,8 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/home/www/html/bul/sender/composer.json" timestamp="1519133768154">
-        <mark key="[" line="12" column="0" />
+      <file name="/home/www/html/bul/sender/composer.json" timestamp="1519207605207">
+        <mark key="[" line="18" column="4" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
@@ -4321,7 +4321,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519203040666">
+      <file name="/Dummy.txt" timestamp="1519207086596">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
@@ -4795,7 +4795,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" timestamp="1519049728946">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" timestamp="1519205445834">
         <mark key="[" line="75" column="6" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/Model/File.php" timestamp="1493983525202">
@@ -5329,8 +5329,8 @@
         <mark key="]" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractForm/ContractForm.php" timestamp="1517579214470">
-        <mark key="[" line="66" column="9" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractForm/ContractForm.php" timestamp="1519205561058">
+        <mark key="[" line="90" column="10" />
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
@@ -5781,6 +5781,12 @@
         <mark key="[" line="45" column="8" />
         <mark key="]" line="45" column="8" />
         <mark key="." line="45" column="8" />
+      </file>
+      <file name="/home/www/html/bul/sender/app/Model.php" timestamp="1519207352621">
+        <mark key="[" line="29" column="26" />
+        <mark key="]" line="29" column="26" />
+        <mark key="^" line="28" column="8" />
+        <mark key="." line="29" column="26" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/templates/Default/oivt.latte" timestamp="1478774910394">
         <mark key="[" line="0" column="0" />
@@ -7077,10 +7083,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/../../apps/distribuce/app</text>
+        <text encoding="base64">JHppcCA9IG5ldyBaaXBTdHJlYW0oJ3Jlc3VsdC56aXAnKTsKJHppcC0+YWRkRmlsZUZyb21QYXRoKCcxLnBuZycsIF9fRElSX18gLiAnL3VpLWljb25zXzI2OTRlOF8yNTZ4MjQwLnBuZycpOwokemlwLT5hZGRGaWxlRnJvbVBhdGgoJzIucG5nJywgX19ESVJfXyAuICcvdWktaWNvbnNfMmU4M2ZmXzI1NngyNDAucG5nJyk7CiR6aXAtPmZpbmlzaCgpOw==</text>
       </register>
       <register name="-" type="4">
-        <text>/../../apps/distribuce/app</text>
+        <text>Debugger::enable(false);</text>
       </register>
       <register name="/" type="4">
         <text>extensionMethod</text>
@@ -7089,35 +7095,39 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">JGdyaWQtPmFkZENvbHVtbkxpbmsoJ2lkJywgJ0lEJywgJ2VkaXQhJywgJ2lkJywgWydjb250cmFjdCcgPT4gbnVsbF0pCgkJCS0+c2V0Q2xhc3MoJ2FqYXgnKQoJCQktPnNldFNvcnRhYmxlKCk7</text>
+        <text encoding="base64">JHppcCA9IG5ldyBaaXBTdHJlYW0oJ3Jlc3VsdC56aXAnKTsKJHppcC0+YWRkRmlsZUZyb21QYXRoKCcxLnBuZycsIF9fRElSX18gLiAnL3VpLWljb25zXzI2OTRlOF8yNTZ4MjQwLnBuZycpOwokemlwLT5hZGRGaWxlRnJvbVBhdGgoJzIucG5nJywgX19ESVJfXyAuICcvdWktaWNvbnNfMmU4M2ZmXzI1NngyNDAucG5nJyk7CiR6aXAtPmZpbmlzaCgpOw==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHByZVVwZGF0ZShCYXNlQnVzaW5lc3NDYXNlRG9jdW1lbnQgJGRvY3VtZW50LCBMaWZlY3ljbGVFdmVudEFyZ3MgJGFyZ3MpCgl7CgkJaWYgKCRkb2N1bWVudC0+Z2V0QnVzaW5lc3NDYXNlKCkgPT09IG51bGwpIHsKCgkJfQoJfQ==</text>
+        <text encoding="base64">LyoKaWYgKCRfU0VSVkVSWydTU0xfQ0xJRU5UX1ZFUklGWSddICE9PSAnU1VDQ0VTUycpIHsKCWR1bXAoJ25lbmUnKTsKfQoKZHVtcCgkX1NFUlZFUlsnU1NMX0NMSUVOVF9TX0ROX0NOJ10pOwpkdW1wKCRyZXF1ZXN0LT5nZXRRdWVyeSgpKTsKZXhpdDsKKi8=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">aWYgKCRkb2N1bWVudC0+Z2V0QnVzaW5lc3NDYXNlKCkgPT09IG51bGwpIHsKCgkJfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">JHJlc3VsdCA9ICRtb2RlbC0+ZmluZEJ5RXhwb3J0Rm9yKCdrYXJkaW8nKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CWFic3RyYWN0IHB1YmxpYyBmdW5jdGlvbiBnZXREb2N1bWVudE51bWJlclByZWZpeCgpOiBzdHJpbmc7Cg==</text>
+      <register name="4" type="4">
+        <text>/*
+$database = new Connection('pgsql:host=/var/run/pgsql;dbname=laboratornimetody',
+	'laboratornimetody',
+	'melody44125S');
+*/
+
+$database = new Connection('pgsql:host=pglaboratornimetody.bulovka.cz;dbname=laboratornimetody',
+	'laboratornimetody',
+	'melody44125S');</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIHN0cmluZ3xudWxsCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXROdW1iZXIoKTogP3N0cmluZwoJewoJCXJldHVybiAkdGhpcy0+bnVtYmVyOwoJfQoKCgkvKioKCSAqIEBwYXJhbSBzdHJpbmcgJG51bWJlcgoJICoKCSAqIEB0aHJvd3MgSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXROdW1iZXIoc3RyaW5nICRudW1iZXIpOiB2b2lkCgl7CgkJaWYgKCFTdHJpbmdzOjptYXRjaCgkbnVtYmVyLCAnfl4nIC4gcHJlZ19xdW90ZSgkdGhpcy0+Z2V0RG9jdW1lbnROdW1iZXJQcmVmaXgoKSwgJ34nKQoJCQkuICdcZHs2fShcZCspJH4nKSkgewoJCQl0aHJvdyBuZXcgSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uKCdCYWQgbnVtYmVyIGZvcm1hdC4nKTsKCQl9CgoJCSR0aGlzLT5udW1iZXIgPSAkbnVtYmVyOwoJfQ==</text>
+        <text encoding="base64">JHJlc3VsdCA9ICRkYXRhYmFzZS0+cXVlcnkoCgknU0VMRUNUIGJpLmlkLCBiaS5leHBvcnRfZm9yIEFTIGV4cG9ydEZvciwgYmkuZXhwb3J0X2ZpbGVuYW1lIEFTIGZpbGVuYW1lLCBiaS5leHBvcnRfZmlsZV9jb250ZW50IEFTIGNvbnRlbnQKRlJPTSBleHBvcnRzLmJsb2JfaW1wb3J0IGJpCldIRVJFCmJpLmV4cG9ydF9mb3IgPSA/CkFORApiaS5leHBvcnRlZCBJUyBOVUxMCkFORApiaS5kZWxldGVkIElTIE5VTEwKJywgJ2thcmRpbycpOw==</text>
       </register>
-      <register name="6" type="4">
-        <text>/**
-	 * @ORM\Column(type=&quot;string&quot;, length=15, unique=true)
-	 * @var string
-	 */
-	private $number;</text>
+      <register name="6" type="2">
+        <text encoding="base64">bmFtZXNwYWNlIEFwcDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vZHVtcCgkcm93LT5leHBvcnRfZmlsZSk7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWVjaG8gJHJvdy0+ZXhwb3J0X2ZpbGU7Cg==</text>
+        <text encoding="base64">CQlkdW1wKCRlbEZpbmRlckZpbGVDb25zdW1lci0+Z2V0TWVkaWFJbXBvcnRJZCgpKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">JGNvbnRhaW5lci0+Z2V0U2VydmljZSgnYXBwbGljYXRpb24nKS0+cnVuKCk7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">JGdyaWQtPmFkZENvbHVtbkxpbmsoJ2lkJywgJ0lEJywgJ2VkaXQhJywgJ2lkJywgWydjb250cmFjdCcgPT4gbnVsbF0pCgkJCS0+c2V0Q2xhc3MoJ2FqYXgnKQoJCQktPnNldFNvcnRhYmxlKCk7</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
