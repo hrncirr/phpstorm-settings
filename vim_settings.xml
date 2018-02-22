@@ -2892,10 +2892,12 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectsGrid/SubjectsGrid.php" timestamp="1519204105343">
-        <mark key="[" line="140" column="58" />
-        <mark key="]" line="140" column="63" />
-        <mark key="." line="140" column="63" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectsGrid/SubjectsGrid.php" timestamp="1519314738406">
+        <mark key="'" line="100" column="15" />
+        <mark key="[" line="100" column="30" />
+        <mark key="]" line="99" column="4" />
+        <mark key="." line="99" column="4" />
+        <mark key="^" line="99" column="4" />
       </file>
       <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1518001433073">
         <mark key="[" line="4" column="5" />
@@ -4107,8 +4109,8 @@
         <mark key="]" line="12" column="79" />
         <mark key="." line="12" column="79" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/BaseItem.php" timestamp="1517321492305">
-        <mark key="[" line="154" column="29" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/BaseItem.php" timestamp="1519314904696">
+        <mark key="[" line="85" column="16" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressForm/AddressForm.php" timestamp="1517830322628">
         <mark key="[" line="72" column="0" />
@@ -6009,7 +6011,6 @@
       <file name="/home/www/html/dv/adera/app/src/Utils/PdfCreator.php" timestamp="1517907240313">
         <mark key="[" line="29" column="7" />
       </file>
-      <file name="/home/www/html/dv/adera/libs/vendor/hrncirr/elfinder/src/MediaImporterControl.php" timestamp="1519225904692" />
       <file name="/home/www/html/bul/mamo/app/presenters/BasePresenter.php" timestamp="1481267871908">
         <mark key="[" line="21" column="14" />
         <mark key="]" line="4" column="0" />
@@ -7025,8 +7026,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="18" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
-      <jump line="129" column="48" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
       <jump line="132" column="18" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
       <jump line="337" column="43" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
       <jump line="313" column="50" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
@@ -7125,6 +7124,8 @@
       <jump line="9336" column="62" filename="/home/www/html/dv/adera/libs/vendor/mpdf/mpdf/src/Mpdf.php" />
       <jump line="9341" column="28" filename="/home/www/html/dv/adera/libs/vendor/mpdf/mpdf/src/Mpdf.php" />
       <jump line="97" column="41" filename="/home/www/lib/vendor/nette/forms/src/Forms/Container.php" />
+      <jump line="99" column="4" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectsGrid/SubjectsGrid.php" />
+      <jump line="100" column="15" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectsGrid/SubjectsGrid.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -7134,7 +7135,7 @@
         <text>, 'sending</text>
       </register>
       <register name="/" type="4">
-        <text>extensionMethod</text>
+        <text>setDefaultSort</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
@@ -7187,9 +7188,9 @@
       </register>
     </registers>
     <search>
-      <last-search>extensionMethod</last-search>
+      <last-search>setDefaultSort</last-search>
       <last-offset />
-      <last-pattern>extensionMethod</last-pattern>
+      <last-pattern>setDefaultSort</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -7197,7 +7198,6 @@
     </search>
     <history>
       <history-search>
-        <entry>try</entry>
         <entry>notClosable</entry>
         <entry>NULL</entry>
         <entry>byDoc</entry>
@@ -7217,6 +7217,7 @@
         <entry>Output</entry>
         <entry>buffer</entry>
         <entry>extensionMethod</entry>
+        <entry>setDefaultSort</entry>
       </history-search>
       <history-cmd>
         <entry>%s/this.element/this.$element/g</entry>
