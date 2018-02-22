@@ -2359,6 +2359,11 @@
         <mark key="]" line="72" column="4" />
         <mark key="." line="72" column="4" />
       </file>
+      <file name="/home/www/html/dv/adera/www/js/form.default.submit.js" timestamp="1519319163088">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="/home/www/html/dv/cms/src/Users/Presenters/DefaultPresenter.php" timestamp="1491826100125">
         <mark key="[" line="27" column="4" />
         <mark key="]" line="27" column="4" />
@@ -5413,10 +5418,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/OfferForm/OfferForm.php" timestamp="1517987569901">
-        <mark key="[" line="85" column="8" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/OfferForm/OfferForm.php" timestamp="1519319205071">
+        <mark key="[" line="130" column="4" />
+        <mark key="]" line="130" column="43" />
+        <mark key="." line="130" column="43" />
+        <mark key="^" line="130" column="43" />
       </file>
       <file name="/home/www/vendor/hrncirr/jstree/js/hrncirr.jstree.init.js" timestamp="1479827618855">
         <mark key="[" line="453" column="0" />
@@ -7128,11 +7134,11 @@
       <jump line="100" column="15" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectsGrid/SubjectsGrid.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbmV3IFZvaWRSZXNwb25zZTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LyoKCQkkZm9ybS0+b25TdWJtaXRbXSA9IGZ1bmN0aW9uKEZvcm0gJGZvcm0pIHsKCQkJZHVtcCgkZm9ybS0+aXNTdWJtaXR0ZWQoKSk7CgkJfTsKCQkqLw==</text>
       </register>
       <register name="-" type="4">
-        <text>, 'sending</text>
+        <text>$(this).data('protected', true);</text>
       </register>
       <register name="/" type="4">
         <text>setDefaultSort</text>
@@ -7140,48 +7146,32 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbmV3IFZvaWRSZXNwb25zZTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">LyoKCQkkZm9ybS0+b25TdWJtaXRbXSA9IGZ1bmN0aW9uKEZvcm0gJGZvcm0pIHsKCQkJZHVtcCgkZm9ybS0+aXNTdWJtaXR0ZWQoKSk7CgkJfTsKCQkqLw==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXEFwcGxpY2F0aW9uXFJlc3BvbnNlc1xWb2lkUmVzcG9uc2U7Cg==</text>
+        <text encoding="base64">CQkJCQkJZS5wcmV2ZW50RGVmYXVsdCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIFppcFN0cmVhbVxaaXBTdHJlYW07Cg==</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCQodGhpcykuZGF0YSgncHJvdGVjdGVkJykpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQktIE1vbm9sb2dcUHJvY2Vzc29yXFBzckxvZ01lc3NhZ2VQcm9jZXNzb3IK</text>
+      <register name="4" type="4">
+        <text encoding="base64">LyoKCQkJCSQodGhpcykucGFyZW50cygnZm9ybTpmaXJzdCcpLmZpbmQoJ2lucHV0Jykub24oJ2tleXByZXNzJywgZnVuY3Rpb24oZSkgewoJCQkJCXJldHVybiBlLndoaWNoICE9PSAxMzsKCQkJCX0pOwoJCQkJKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl1c2VyQWdlbnQ6IEhUVFBfVVNFUl9BR0VOVAo=</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coJ0Nvxb5lID8nKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text>monolog:
-		processors:
-			- Monolog\Processor\WebProcessor</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCQoZWwpKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>&quot;nette/di&quot;: &quot;v3.0.0-alpha1 as 2.4&quot;,
-        &quot;nette/finder&quot;: &quot;v3.0.0-RC as 2.4&quot;,
-        &quot;nette/caching&quot;: &quot;v3.0.0-beta as 2.4&quot;,
-        &quot;nette/component-model&quot;: &quot;v3.0.0-beta as 2.4&quot;,
-        &quot;nette/database&quot;: &quot;v3.0.0-alpha as 2.4&quot;,
-        &quot;nette/http&quot;: &quot;v3.0.0-alpha1 as 2.4&quot;,
-        &quot;nette/utils&quot;: &quot;v3.0.0-beta1 as 2.4&quot;,</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAibmV0dGUvbmVvbiI6ICJ2My4wLjAtYmV0YTEgYXMgMi40IiwK</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCQoZWwpKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text>&quot;nette/di&quot;: &quot;v3.0.0-alpha1 as 2.4&quot;,
-        &quot;nette/finder&quot;: &quot;v3.0.0-RC as 2.4&quot;,
-        &quot;nette/caching&quot;: &quot;v3.0.0-beta as 2.4&quot;,
-        &quot;nette/component-model&quot;: &quot;v3.0.0-beta as 2.4&quot;,
-        &quot;nette/database&quot;: &quot;v3.0.0-alpha as 2.4&quot;,
-        &quot;nette/http&quot;: &quot;v3.0.0-alpha1 as 2.4&quot;,
-        &quot;nette/utils&quot;: &quot;v3.0.0-beta1 as 2.4&quot;,
-		&quot;nette/robot-loader&quot;: &quot;^3.0.0&quot;,
-        &quot;nette/neon&quot;: &quot;v3.0.0-beta1 as 2.4&quot;,</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJY29uc29sZS5sb2coJCgnZm9ybScsICRjb250ZXh0IHx8IGRvY3VtZW50KS5sZW5ndGgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
