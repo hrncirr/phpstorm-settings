@@ -515,10 +515,8 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/EmailForm/EmailForm.php" timestamp="1519393956827">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/EmailForm/EmailForm.php" timestamp="1519395530361">
+        <mark key="'" line="188" column="24" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Filters/EmailFilter.php" timestamp="1475670030858">
         <mark key="[" line="10" column="18" />
@@ -4286,10 +4284,11 @@
         <mark key="]" line="65" column="4" />
         <mark key="." line="65" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/locale/invoicing.cs_CZ.neon" timestamp="1519049405653">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/locale/invoicing.cs_CZ.neon" timestamp="1519395617183">
         <mark key="[" line="125" column="4" />
-        <mark key="]" line="135" column="4" />
-        <mark key="." line="135" column="4" />
+        <mark key="]" line="125" column="4" />
+        <mark key="." line="125" column="4" />
+        <mark key="^" line="125" column="4" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Doctrine/Mapping/Driver/CMP.php" timestamp="1475841409230">
         <mark key="[" line="191" column="12" />
@@ -7053,8 +7052,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="438" column="61" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
-      <jump line="458" column="65" filename="/home/www/html/bul/medical_examinations/app/components/Calendar/Calendar.php" />
       <jump line="117" column="28" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
       <jump line="183" column="88" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
       <jump line="247" column="47" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
@@ -7153,70 +7150,64 @@
       <jump line="25" column="11" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InterventionForm/InterventionForm.php" />
       <jump line="48" column="20" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InterventionsGrid/InterventionsGrid.php" />
       <jump line="82" column="0" filename="/home/www/lib/vendor/nette/utils/src/Utils/Strings.php" />
+      <jump line="185" column="39" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/EmailForm/EmailForm.php" />
+      <jump line="188" column="24" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/EmailForm/EmailForm.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlkdW1wKCR2YWx1ZXMtPnJlY2lwaWVudHMpOwo=</text>
+        <text encoding="base64">CQkJCQl9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0gc3RybGVuKCR2YWx1ZSkpID09PSBzZWxmOjpLRVlfU1VGRkk=</text>
+        <text encoding="base64">ZHVtcCgkdGhpcy0+dmFsaWRhdG9yLT52YWxpZGF0ZSgkcmVjaXBpZW50LCAkZW1haWxDb25zdHJhaW50KSk7</text>
       </register>
       <register name="/" type="4">
-        <text>findPrefix</text>
+        <text>recipient</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlkdW1wKCR2YWx1ZXMtPnJlY2lwaWVudHMpOwo=</text>
+        <text encoding="base64">CQkJCQl9Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>dump($recipient);
-				exit;</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCQlpZiAoJHRoaXMtPnZhbGlkYXRvci0+dmFsaWRhdGUoJHJlY2lwaWVudCwgJGVtYWlsQ29uc3RyYWludCktPmNvdW50KCkgPiAwKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJZHVtcChUYWdzSW5wdXQ6OmlzSXRlbU5ldygkcmVjaXBpZW50KSk7Cg==</text>
+        <text encoding="base64">CQkJCQlkdW1wKCR0aGlzLT52YWxpZGF0b3ItPnZhbGlkYXRlKCRyZWNpcGllbnQsICRlbWFpbENvbnN0cmFpbnQpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZHVtcChwcmVnX21hdGNoKCd+Xl9fXyhbXl9dKylfX18kficsICRyZWNpcGllbnQpKTsK</text>
+        <text encoding="base64">CQkJCQlkdW1wKCR0aGlzLT52YWxpZGF0b3ItPnZhbGlkYXRlKCRyZWNpcGllbnQsICRlbWFpbENvbnN0cmFpbnQpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJaWYgKHN1YnN0cikK</text>
+        <text encoding="base64">CQkJCWR1bXAoJHRoaXMtPnZhbGlkYXRvci0+dmFsaWRhdGUoJHJlY2lwaWVudCwgJGVtYWlsQ29uc3RyYWludCkpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>/**
-	 * @param SubmitButton $submitButton
-	 *
-	 * @throws \Nette\Application\BadRequestException
-	 * @throws \Throwable
-	 */</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJe2R1bXAgJGludGVydmVudGlvbnN9Cg==</text>
+        <text encoding="base64">CQkJCWR1bXAoJHRoaXMtPnZhbGlkYXRvci0+dmFsaWRhdGUoJHJlY2lwaWVudCwgJGVtYWlsQ29uc3RyYWludCkpOwo=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5tZWRpYUltcG9ydElkKSB7CgkJCSR0aGlzLT5zZXRNZWRpYUltcG9ydElkKCR0aGlzLT5jb250cmFjdCwgdHJ1ZSk7CgkJfQ==</text>
+        <text encoding="base64">ZHVtcCgkZXJyCgkJCQkJ</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/recipient/email</text>
       </register>
     </registers>
     <search>
-      <last-search>findPrefix</last-search>
+      <last-search>recipient</last-search>
       <last-offset />
-      <last-pattern>findPrefix</last-pattern>
-      <last-replace>null</last-replace>
-      <last-substitute>NULL</last-substitute>
+      <last-pattern>recipient</last-pattern>
+      <last-replace>email</last-replace>
+      <last-substitute>recipient</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tempDir</entry>
-        <entry>div</entry>
         <entry>vatPrice</entry>
         <entry>addAnti</entry>
         <entry>update</entry>
@@ -7235,10 +7226,10 @@
         <entry>dump</entry>
         <entry>onCancel</entry>
         <entry>findPrefix</entry>
+        <entry>recipients</entry>
+        <entry>recipient</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/this.element/this.$element/g</entry>
-        <entry>%s/this.$element/this.$el/g</entry>
         <entry>126</entry>
         <entry>407</entry>
         <entry>216</entry>
@@ -7257,6 +7248,8 @@
         <entry>104</entry>
         <entry>%s/NULL/null/g</entry>
         <entry>w</entry>
+        <entry>%s/recipients/emails</entry>
+        <entry>%s/recipient/email</entry>
       </history-cmd>
       <history-expr />
       <history-input />
