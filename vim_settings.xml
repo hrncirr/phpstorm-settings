@@ -2135,10 +2135,10 @@
         <mark key="]" line="285" column="59" />
         <mark key="." line="285" column="59" />
       </file>
-      <file name="/home/www/html/bul/sender/app/Responses/ZipResponse.php" timestamp="1519224601214">
-        <mark key="[" line="33" column="32" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="/home/www/html/bul/sender/app/Responses/ZipResponse.php" timestamp="1519650380467">
+        <mark key="[" line="45" column="43" />
+        <mark key="]" line="44" column="33" />
+        <mark key="." line="44" column="33" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/Users/Security/ResourcesProvider.php" timestamp="1502109130431">
         <mark key="[" line="14" column="32" />
@@ -3170,6 +3170,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="/home/www/html/bul/sender/vendor/monolog/monolog/src/Monolog/Logger.php" timestamp="1519650591926">
+        <mark key="'" line="136" column="57" />
+      </file>
       <file name="/home/www/html/nnb/aktuality/app/components/FileManagerFactory.php" timestamp="1473155414323">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -3845,10 +3848,10 @@
         <mark key="]" line="30" column="4" />
         <mark key="." line="30" column="4" />
       </file>
-      <file name="/home/www/html/bul/sender/app/Presenters/ImportPresenter.php" timestamp="1519648067080">
-        <mark key="[" line="84" column="50" />
-        <mark key="]" line="53" column="8" />
-        <mark key="." line="53" column="8" />
+      <file name="/home/www/html/bul/sender/app/Presenters/ImportPresenter.php" timestamp="1519652347423">
+        <mark key="[" line="103" column="57" />
+        <mark key="]" line="103" column="57" />
+        <mark key="." line="103" column="57" />
       </file>
       <file name="/home/www/html/dv/cms/src/Translatable.php" timestamp="1491478738299">
         <mark key="[" line="11" column="22" />
@@ -7033,10 +7036,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/home/www/html/bul/sender/app/Model/Model.php" timestamp="1519648105258">
-        <mark key="[" line="69" column="12" />
-        <mark key="]" line="69" column="12" />
-        <mark key="." line="69" column="12" />
+      <file name="/home/www/html/bul/sender/app/Model/Model.php" timestamp="1519650292674">
+        <mark key="[" line="35" column="52" />
+        <mark key="]" line="43" column="8" />
+        <mark key="." line="43" column="8" />
         <mark key="^" line="69" column="28" />
       </file>
       <file name="/home/www/html/dv/cms/src/Options/Components/ExtensionsGrid/ExtensionsGrid.php" timestamp="1497014853957">
@@ -7046,10 +7049,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="28" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
-      <jump line="183" column="88" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
-      <jump line="247" column="47" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
-      <jump line="115" column="94" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
       <jump line="105" column="24" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
       <jump line="246" column="49" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
       <jump line="50" column="25" filename="/home/www/html/nnb/nezadouci-udalosti/app/Model/Facades/StatisticsFacade.php" />
@@ -7146,65 +7145,59 @@
       <jump line="82" column="0" filename="/home/www/lib/vendor/nette/utils/src/Utils/Strings.php" />
       <jump line="185" column="39" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/EmailForm/EmailForm.php" />
       <jump line="188" column="24" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/EmailForm/EmailForm.php" />
+      <jump line="348" column="5" filename="/home/www/html/bul/sender/vendor/monolog/monolog/src/Monolog/Logger.php" />
+      <jump line="326" column="13" filename="/home/www/html/bul/sender/vendor/monolog/monolog/src/Monolog/Logger.php" />
+      <jump line="19" column="15" filename="/home/www/html/bul/sender/vendor/monolog/monolog/src/Monolog/Logger.php" />
+      <jump line="136" column="57" filename="/home/www/html/bul/sender/vendor/monolog/monolog/src/Monolog/Logger.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bi.export_for = ?
-			AND</text>
+        <text>$zipFileName . '.zip'</text>
       </register>
       <register name="-" type="4">
-        <text>new DateTime(), $exportFor, $filename</text>
+        <text>$zipFileName . '.zip'</text>
       </register>
       <register name="/" type="4">
-        <text>recipient</text>
+        <text>channel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
-        <text>bi.export_for = ?
-			AND</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJJHRoaXMtPmxvZ2dlci0+YWRkSW5mbyhzcHJpbnRmKCdET05FIEVYUE9SVEVEOiAlcycsICRleHBvcnRGb3IpKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">JGlkcyA9ICR0aGlzLT5tb2RlbC0+ZmluZElkc0J5RXhwb3J0Rm9yQW5kRmlsZU5hbWVzKCdrYXJkaW8nLAoJCQlbJ1JYWDE4MDIxNTIwMzBAMSM0MzIxNSddKTsKCQlkdW1wKCRpZHMpOwoJCWV4aXQ7</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJJHRoaXMtPmxvZ2dlci0+YWRkSW5mbyhzcHJpbnRmKCdFWFBPUlRFRDogJXMnLCAkZXhwb3J0Rm9yKSk7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">JHRoaXMtPmRhdGFiYXNlLT5xdWVyeSgnCgkJCVNFTEVDVCBiaS5pZAoJCQlGUk9NIGV4cG9ydHMuYmxvYl9pbXBvcnQgYmkKCQkJV0hFUkUKCQkJYmkuZXhwb3J0X2ZvciA9ID8KCQkJQU5ECgkJCWJpLmV4cG9ydGVkIElTIE5VTEwKCQkJQU5ECgkJCWJpLmRlbGV0ZWQgSVMgTlVMTAoJCScsICRleHBvcnRGb3IpLT5mZXRjaFBhaXJzKCdmaWxlbmFtZScsICdjb250ZW50Jyk7</text>
+        <text encoding="base64">aWYgKCRmaWxlcykgewoJCQkJJHRoaXMtPmxvZ2dlci0+YWRkSW5mbyhzcHJpbnRmKCdET05FICVzIC0gJXMnLCAkZXhwb3J0Rm9yLCAkemlwRmlsZU5hbWUgLiAnLnppcCcpKTsKCQkJfQ==</text>
       </register>
       <register name="4" type="4">
-        <text>WHERE
-			bi.export_for = ?
-			AND
-			bi.export_filename = ?
-			AND
-			bi.exported IS NULL
-			AND
-			bi.deleted IS NULL</text>
+        <text encoding="base64">aWYgKCRmaWxlcykgewoJCQkJJHRoaXMtPmxvZ2dlci0+YWRkSW5mbyhzcHJpbnRmKCdTVEFSVCBFWFBPUlRJTkc6ICVzIC0gJXMnLCAkZXhwb3J0Rm9yLCAkemlwRmlsZU5hbWUgLiAnLnppcCcpKTsKCQkJfQoJCQk=</text>
       </register>
       <register name="5" type="4">
-        <text>CT bi.export_filename AS filename, bi.export_file_content AS content
-			FROM exports.blob_import bi</text>
+        <text encoding="base64">aWYgKCRmaWxlcykgewoJCQkJJHRoaXMtPmxvZ2dlci0+YWRkSW5mbyhzcHJpbnRmKCdET05FIEVYUE9SVElORyAlcyAtICVzJywgJGV4cG9ydEZvciwgJHppcEZpbGVOYW1lKSwKCQkJCQlbJ2V4cG9ydGluZyddKTsKCQkJfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQl9Cg==</text>
+        <text encoding="base64">CQkJJGxvZ2dlciA9ICR0aGlzLT5sb2dnZXItPmNoYW5uZWwoJ2V4cG9ydGluZycpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCQlpZiAoJHRoaXMtPnZhbGlkYXRvci0+dmFsaWRhdGUoJHJlY2lwaWVudCwgJGVtYWlsQ29uc3RyYWludCktPmNvdW50KCkgPiAwKSB7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">JHRoaXMtPmxvZ2dlci0+YWRkSW5mbyhzcHJpbnRmKCclcyAtICVzIC0gJXMnLCAkZXhwb3J0Rm9yLCAkemlwRmlsZU5hbWUsCgkJCQlpbXBsb2RlKCcsJywgYXJyYXlfa2V5cygkZmlsZXMpKSkpOw==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">CQkJJHppcEZpbGVOYW1lID0gKHN0cmluZykgdGltZSgpOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCQlkdW1wKCR0aGlzLT52YWxpZGF0b3ItPnZhbGlkYXRlKCRyZWNpcGllbnQsICRlbWFpbENvbnN0cmFpbnQpKTsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">JG91dCA9IFtdOwoJCWZvcmVhY2ggKCRyZXN1bHQgYXMgJHJvdykgewoJCQkkb3V0WyRyb3ctPmlkXSA9IFsKCQkJCSduYW1lJyA9PiAkcm93LT5maWxlbmFtZSwKCQkJCSdjb250ZW50JyA9PiAkcm93LT5jb250ZW50CgkJCV07CgkJfQoJCQoJCXJldHVybiAkb3V0Ow==</text>
       </register>
       <register name=":" type="4">
         <text>%s/recipient/email</text>
       </register>
     </registers>
     <search>
-      <last-search>recipient</last-search>
+      <last-search>channel</last-search>
       <last-offset />
-      <last-pattern>recipient</last-pattern>
+      <last-pattern>channel</last-pattern>
       <last-replace>email</last-replace>
       <last-substitute>recipient</last-substitute>
       <last-dir>1</last-dir>
@@ -7212,7 +7205,6 @@
     </search>
     <history>
       <history-search>
-        <entry>vatPrice</entry>
         <entry>addAnti</entry>
         <entry>update</entry>
         <entry>ICa</entry>
@@ -7232,6 +7224,7 @@
         <entry>findPrefix</entry>
         <entry>recipients</entry>
         <entry>recipient</entry>
+        <entry>channel</entry>
       </history-search>
       <history-cmd>
         <entry>126</entry>
