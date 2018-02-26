@@ -3845,10 +3845,10 @@
         <mark key="]" line="30" column="4" />
         <mark key="." line="30" column="4" />
       </file>
-      <file name="/home/www/html/bul/sender/app/Presenters/ImportPresenter.php" timestamp="1519641666077">
-        <mark key="[" line="75" column="4" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="/home/www/html/bul/sender/app/Presenters/ImportPresenter.php" timestamp="1519645814722">
+        <mark key="[" line="53" column="8" />
+        <mark key="]" line="53" column="8" />
+        <mark key="." line="53" column="8" />
       </file>
       <file name="/home/www/html/dv/cms/src/Translatable.php" timestamp="1491478738299">
         <mark key="[" line="11" column="22" />
@@ -7033,11 +7033,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/home/www/html/bul/sender/app/Model/Model.php" timestamp="1519643832375">
-        <mark key="[" line="63" column="8" />
-        <mark key="]" line="63" column="8" />
-        <mark key="." line="63" column="8" />
-        <mark key="^" line="68" column="28" />
+      <file name="/home/www/html/bul/sender/app/Model/Model.php" timestamp="1519645632254">
+        <mark key="[" line="64" column="51" />
+        <mark key="]" line="65" column="8" />
+        <mark key="." line="65" column="8" />
+        <mark key="^" line="70" column="28" />
       </file>
       <file name="/home/www/html/dv/cms/src/Options/Components/ExtensionsGrid/ExtensionsGrid.php" timestamp="1497014853957">
         <mark key="[" line="5" column="0" />
@@ -7149,7 +7149,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JHRoaXMtPmRhdGFiYXNlLT5xdWVyeSgnCgkJCVNFTEVDVCBiaS5pZAoJCQlGUk9NIGV4cG9ydHMuYmxvYl9pbXBvcnQgYmkKCQkJV0hFUkUKCQkJYmkuZXhwb3J0X2ZvciA9ID8KCQkJQU5ECgkJCWJpLmV4cG9ydGVkIElTIE5VTEwKCQkJQU5ECgkJCWJpLmRlbGV0ZWQgSVMgTlVMTAoJCScsICRleHBvcnRGb3IpLT5mZXRjaFBhaXJzKCdmaWxlbmFtZScsICdjb250ZW50Jyk7</text>
+        <text encoding="base64">JGlkcyA9ICR0aGlzLT5tb2RlbC0+ZmluZElkc0J5RXhwb3J0Rm9yQW5kRmlsZU5hbWVzKCdrYXJkaW8nLAoJCQlbJ1JYWDE4MDIxNTIwMzBAMSM0MzIxNSddKTsKCQlkdW1wKCRpZHMpOwoJCWV4aXQ7</text>
       </register>
       <register name="-" type="4">
         <text>new DateTime(), $exportFor, $filename</text>
@@ -7161,9 +7161,12 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">JHRoaXMtPmRhdGFiYXNlLT5xdWVyeSgnCgkJCVNFTEVDVCBiaS5pZAoJCQlGUk9NIGV4cG9ydHMuYmxvYl9pbXBvcnQgYmkKCQkJV0hFUkUKCQkJYmkuZXhwb3J0X2ZvciA9ID8KCQkJQU5ECgkJCWJpLmV4cG9ydGVkIElTIE5VTEwKCQkJQU5ECgkJCWJpLmRlbGV0ZWQgSVMgTlVMTAoJCScsICRleHBvcnRGb3IpLT5mZXRjaFBhaXJzKCdmaWxlbmFtZScsICdjb250ZW50Jyk7</text>
+        <text encoding="base64">JGlkcyA9ICR0aGlzLT5tb2RlbC0+ZmluZElkc0J5RXhwb3J0Rm9yQW5kRmlsZU5hbWVzKCdrYXJkaW8nLAoJCQlbJ1JYWDE4MDIxNTIwMzBAMSM0MzIxNSddKTsKCQlkdW1wKCRpZHMpOwoJCWV4aXQ7</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">JHRoaXMtPmRhdGFiYXNlLT5xdWVyeSgnCgkJCVNFTEVDVCBiaS5pZAoJCQlGUk9NIGV4cG9ydHMuYmxvYl9pbXBvcnQgYmkKCQkJV0hFUkUKCQkJYmkuZXhwb3J0X2ZvciA9ID8KCQkJQU5ECgkJCWJpLmV4cG9ydGVkIElTIE5VTEwKCQkJQU5ECgkJCWJpLmRlbGV0ZWQgSVMgTlVMTAoJCScsICRleHBvcnRGb3IpLT5mZXRjaFBhaXJzKCdmaWxlbmFtZScsICdjb250ZW50Jyk7</text>
+      </register>
+      <register name="3" type="4">
         <text>WHERE
 			bi.export_for = ?
 			AND
@@ -7173,27 +7176,24 @@
 			AND
 			bi.deleted IS NULL</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>CT bi.export_filename AS filename, bi.export_file_content AS content
 			FROM exports.blob_import bi</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJCQl9Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJCQlpZiAoJHRoaXMtPnZhbGlkYXRvci0+dmFsaWRhdGUoJHJlY2lwaWVudCwgJGVtYWlsQ29uc3RyYWludCktPmNvdW50KCkgPiAwKSB7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCQkK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQlkdW1wKCR0aGlzLT52YWxpZGF0b3ItPnZhbGlkYXRlKCRyZWNpcGllbnQsICRlbWFpbENvbnN0cmFpbnQpKTsK</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">CQkJCQlkdW1wKCR0aGlzLT52YWxpZGF0b3ItPnZhbGlkYXRlKCRyZWNpcGllbnQsICRlbWFpbENvbnN0cmFpbnQpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJHRoaXMtPnZhbGlkYXRvci0+dmFsaWRhdGUoJHJlY2lwaWVudCwgJGVtYWlsQ29uc3RyYWludCkpOwo=</text>
+        <text encoding="base64">CQkJCQlkdW1wKCR0aGlzLT52YWxpZGF0b3ItPnZhbGlkYXRlKCRyZWNpcGllbnQsICRlbWFpbENvbnN0cmFpbnQpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/recipient/email</text>
