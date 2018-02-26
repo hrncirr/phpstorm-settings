@@ -2910,13 +2910,6 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectsGrid/SubjectsGrid.php" timestamp="1519314738406">
-        <mark key="'" line="100" column="15" />
-        <mark key="[" line="100" column="30" />
-        <mark key="]" line="99" column="4" />
-        <mark key="." line="99" column="4" />
-        <mark key="^" line="99" column="4" />
-      </file>
       <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1518001433073">
         <mark key="[" line="4" column="5" />
       </file>
@@ -7040,10 +7033,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/home/www/html/bul/sender/app/Model/Model.php" timestamp="1519220709951">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="34" column="19" />
-        <mark key="." line="34" column="19" />
+      <file name="/home/www/html/bul/sender/app/Model/Model.php" timestamp="1519637288318">
+        <mark key="[" line="53" column="28" />
+        <mark key="]" line="53" column="28" />
+        <mark key="." line="53" column="28" />
+        <mark key="^" line="53" column="28" />
       </file>
       <file name="/home/www/html/dv/cms/src/Options/Components/ExtensionsGrid/ExtensionsGrid.php" timestamp="1497014853957">
         <mark key="[" line="5" column="0" />
@@ -7154,11 +7148,12 @@
       <jump line="188" column="24" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/EmailForm/EmailForm.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQl9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>CT bi.export_filename AS filename, bi.export_file_content AS content
+			FROM exports.blob_import bi</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZHVtcCgkdGhpcy0+dmFsaWRhdG9yLT52YWxpZGF0ZSgkcmVjaXBpZW50LCAkZW1haWxDb25zdHJhaW50KSk7</text>
+        <text encoding="base64">LT5mZXRjaFBhaXJzKCdmaWxlbmFtZScsICdjb250ZW50Jyk=</text>
       </register>
       <register name="/" type="4">
         <text>recipient</text>
@@ -7166,32 +7161,33 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCQl9Cg==</text>
+      <register name="1" type="4">
+        <text>CT bi.export_filename AS filename, bi.export_file_content AS content
+			FROM exports.blob_import bi</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQlpZiAoJHRoaXMtPnZhbGlkYXRvci0+dmFsaWRhdGUoJHJlY2lwaWVudCwgJGVtYWlsQ29uc3RyYWludCktPmNvdW50KCkgPiAwKSB7Cg==</text>
+        <text encoding="base64">CQkJCQl9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">CQkJCQlpZiAoJHRoaXMtPnZhbGlkYXRvci0+dmFsaWRhdGUoJHJlY2lwaWVudCwgJGVtYWlsQ29uc3RyYWludCktPmNvdW50KCkgPiAwKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQlkdW1wKCR0aGlzLT52YWxpZGF0b3ItPnZhbGlkYXRlKCRyZWNpcGllbnQsICRlbWFpbENvbnN0cmFpbnQpKTsK</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">CQkJCQlkdW1wKCR0aGlzLT52YWxpZGF0b3ItPnZhbGlkYXRlKCRyZWNpcGllbnQsICRlbWFpbENvbnN0cmFpbnQpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJHRoaXMtPnZhbGlkYXRvci0+dmFsaWRhdGUoJHJlY2lwaWVudCwgJGVtYWlsQ29uc3RyYWludCkpOwo=</text>
+        <text encoding="base64">CQkJCQlkdW1wKCR0aGlzLT52YWxpZGF0b3ItPnZhbGlkYXRlKCRyZWNpcGllbnQsICRlbWFpbENvbnN0cmFpbnQpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">CQkJCWR1bXAoJHRoaXMtPnZhbGlkYXRvci0+dmFsaWRhdGUoJHJlY2lwaWVudCwgJGVtYWlsQ29uc3RyYWludCkpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZHVtcCgkZXJyCgkJCQkJ</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCWR1bXAoJHRoaXMtPnZhbGlkYXRvci0+dmFsaWRhdGUoJHJlY2lwaWVudCwgJGVtYWlsQ29uc3RyYWludCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/recipient/email</text>
