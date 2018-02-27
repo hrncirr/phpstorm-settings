@@ -66,9 +66,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/nette/utils/src/Utils/Strings.php" timestamp="1519393229145">
-        <mark key="'" line="82" column="0" />
-      </file>
       <file name="/home/www/html/dv/cms/app/config/extensions.neon" timestamp="1505388990193">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -514,9 +511,6 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/EmailForm/EmailForm.php" timestamp="1519395530361">
-        <mark key="'" line="187" column="24" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Filters/EmailFilter.php" timestamp="1475670030858">
         <mark key="[" line="10" column="18" />
@@ -1216,8 +1210,8 @@
         <mark key="]" line="45" column="12" />
         <mark key="." line="45" column="12" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Forms/Controls/SubjectNameInput.php" timestamp="1519733847332">
-        <mark key="[" line="78" column="16" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Forms/Controls/SubjectNameInput.php" timestamp="1519735775673">
+        <mark key="[" line="78" column="41" />
         <mark key="]" line="44" column="12" />
         <mark key="." line="44" column="12" />
       </file>
@@ -3178,9 +3172,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/home/www/html/bul/sender/vendor/monolog/monolog/src/Monolog/Logger.php" timestamp="1519650591926">
-        <mark key="'" line="136" column="57" />
-      </file>
       <file name="/home/www/html/nnb/aktuality/app/components/FileManagerFactory.php" timestamp="1473155414323">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -4856,8 +4847,8 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" timestamp="1519205445834">
-        <mark key="[" line="75" column="6" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" timestamp="1519735535533">
+        <mark key="[" line="100" column="4" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/Model/File.php" timestamp="1493983525202">
         <mark key="[" line="20" column="26" />
@@ -6038,9 +6029,6 @@
       <file name="/home/www/html/dv/adera/app/src/Utils/PdfCreator.php" timestamp="1517907240313">
         <mark key="[" line="29" column="7" />
       </file>
-      <file name="/home/www/html/dv/adera/libs/vendor/hrncirr/elfinder/src/MediaImporterControl.php" timestamp="1519388945812">
-        <mark key="'" line="87" column="91" />
-      </file>
       <file name="/home/www/html/bul/mamo/app/presenters/BasePresenter.php" timestamp="1481267871908">
         <mark key="[" line="21" column="14" />
         <mark key="]" line="4" column="0" />
@@ -7014,10 +7002,10 @@
         <mark key="]" line="82" column="34" />
         <mark key="." line="82" column="34" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" timestamp="1519734302611">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" timestamp="1519735700336">
+        <mark key="[" line="22" column="24" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Apotheke/ApothekeAccountsRepository.php" timestamp="1509453649535">
         <mark key="[" line="33" column="0" />
@@ -7155,7 +7143,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJCWFhYWFhYQo=</text>
+        <text encoding="base64">CQkJCQkJe2lmc2V0ICRmb3JtWydzdWJqZWN0J119Cg==</text>
       </register>
       <register name="-" type="4">
         <text>c</text>
@@ -7167,20 +7155,23 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CQkJCQkJe2lmc2V0ICRmb3JtWydzdWJqZWN0J119Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">CQkJCQkJCWFhYWFhYQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>{ifset $form['subject']}
 						
 						{/ifset}</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">dXNlIEludm9pY2luZzsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">dXNlIEFkZHJlc3NCb29rXFN1YmpldDsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>/**
 	 * @ORM\ManyToOne(targetEntity=&quot;Subject&quot;)
 	 * @ORM\JoinColumn(name=&quot;subject_id&quot;, referencedColumnName=&quot;id&quot;)
@@ -7188,17 +7179,14 @@
 	 */
 	protected $subject;</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CSAqIEBBc3NlcnRcTm90QmxhbmsoKQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">LyoKCQkkaWRzID0gJHRoaXMtPm1vZGVsLT5maW5kSWRzQnlFeHBvcnRGb3JBbmRGaWxlTmFtZXMoJ2thcmRpbycsCgkJCVsnUlhYMTgwMjE1MjAzMEAxIzQzMjE1LnppcCddKTsKCQlkdW1wKCRpZHMpOwoJCWV4aXQ7CgkJKi8=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJZXhpdDsK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/recipient/email</text>
