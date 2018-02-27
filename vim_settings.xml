@@ -18,7 +18,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Subject.php" timestamp="1516359706798">
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Subject.php" timestamp="1519740003766">
         <mark key="[" line="17" column="52" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Events/BusinessCaseFileImportSubscriber.php" timestamp="1517318470742">
@@ -512,6 +512,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/EmailForm/EmailForm.php" timestamp="1519741599509">
+        <mark key="'" line="214" column="24" />
+        <mark key="[" line="201" column="0" />
+        <mark key="]" line="201" column="0" />
+        <mark key="." line="201" column="0" />
+      </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Filters/EmailFilter.php" timestamp="1475670030858">
         <mark key="[" line="10" column="18" />
         <mark key="]" line="4" column="0" />
@@ -622,10 +628,10 @@
         <mark key="]" line="31" column="4" />
         <mark key="." line="31" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseBusinessCaseDocumentFormControl.php" timestamp="1518790390077">
-        <mark key="[" line="37" column="4" />
-        <mark key="]" line="103" column="4" />
-        <mark key="." line="103" column="4" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseBusinessCaseDocumentFormControl.php" timestamp="1519738839997">
+        <mark key="[" line="47" column="4" />
+        <mark key="]" line="55" column="4" />
+        <mark key="." line="55" column="4" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/File/Events/ElFinderFileListener.php" timestamp="1509525338966">
         <mark key="[" line="63" column="0" />
@@ -1560,10 +1566,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseDocumentFormControl.php" timestamp="1519733758923">
-        <mark key="[" line="81" column="25" />
-        <mark key="]" line="111" column="8" />
-        <mark key="." line="111" column="8" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseDocumentFormControl.php" timestamp="1519738832789">
+        <mark key="[" line="71" column="8" />
+        <mark key="]" line="71" column="8" />
+        <mark key="." line="71" column="8" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractsGrid/OrdersGrid.php" timestamp="1516792003299">
         <mark key="[" line="18" column="0" />
@@ -3851,12 +3857,6 @@
         <mark key="[" line="30" column="4" />
         <mark key="]" line="30" column="4" />
         <mark key="." line="30" column="4" />
-      </file>
-      <file name="/home/www/html/bul/sender/app/Presenters/ImportPresenter.php" timestamp="1519721956453">
-        <mark key="[" line="93" column="46" />
-        <mark key="]" line="93" column="46" />
-        <mark key="." line="93" column="46" />
-        <mark key="^" line="93" column="56" />
       </file>
       <file name="/home/www/html/dv/cms/src/Translatable.php" timestamp="1491478738299">
         <mark key="[" line="11" column="22" />
@@ -7032,12 +7032,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/home/www/html/bul/sender/app/Model/Model.php" timestamp="1519720306701">
-        <mark key="[" line="67" column="38" />
-        <mark key="]" line="43" column="8" />
-        <mark key="." line="43" column="8" />
-        <mark key="^" line="69" column="28" />
-      </file>
       <file name="/home/www/html/dv/cms/src/Options/Components/ExtensionsGrid/ExtensionsGrid.php" timestamp="1497014853957">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="64" column="0" />
@@ -7148,10 +7142,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlBQUFBQUEK</text>
+        <text encoding="base64">CQkJCWR1bXAoJ29rJyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>{input subject}</text>
+        <text encoding="base64">LT5nZXRDb250YWN0cygp</text>
       </register>
       <register name="/" type="4">
         <text>channel</text>
@@ -7160,38 +7154,34 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlBQUFBQUEK</text>
+        <text encoding="base64">CQkJCWR1bXAoJ29rJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJZHVtcCgkY29udGFjdHMpOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCXtpbnB1dCBzdWJqZWN0fQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">JGNvbnRhY3RzID0gW107CgkJZm9yZWFjaCAoJHRoaXMtPmRvY3VtZW50LT5nZXRTdWJqZWN0KCktPmdldEFkZHJlc3NlcygpIGFzICRhZGRyZXNzKSB7CgkJCWZvcmVhY2ggKCRhZGRyZXNzLT5nZXRDb250YWN0cygpIGFzICRjb250YWN0KSB7CgkJCQkkY29udGFjdHNbXSA9ICRjb250YWN0OwoJCQl9CgkJfQoJCQoJCWR1bXAoJGNvbnRhY3RzKTs=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJe2lmc2V0ICRmb3JtWydzdWJqZWN0J119Cg==</text>
+        <text encoding="base64">CQkJYnJlYWs7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCWFhYWFhYQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">JHJlc3VsdCA9ICR0aGlzLT5lbS0+Y3JlYXRlUXVlcnkoc3ByaW50ZigKCQkJJ1NFTEVDVCBzLCBhLCBjIEZST00gJXMgcyBKT0lOIHMuYWRkcmVzc2VzIGEgSk9JTiBhLmNvbnRhY3RzIGMgV0hFUkUgcy5pZD0lZCcsCgkJCVN1YmplY3Q6OmNsYXNzLCAkdGhpcy0+ZG9jdW1lbnQtPmdldFN1YmplY3QoKS0+Z2V0SWQoKSkpLT5nZXRSZXN1bHQoKTs=</text>
       </register>
       <register name="6" type="4">
-        <text>{ifset $form['subject']}
-						
-						{/ifset}</text>
+        <text encoding="base64">LT5zZWxlY3QoJ2UnKQoJCQktPmZyb20oJycpCgkJCS0+d2hlcmUoKTs=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">dXNlIEludm9pY2luZzsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">cHJvdGVjdGVkIGZ1bmN0aW9uIGdldEVsRmluZGVyRmlsZUNvbnN1bWVyKCkKCXsKCQlyZXR1cm4gJHRoaXMtPmJ1c2luZXNzQ2FzZURvY3VtZW50OwoJfQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dXNlIEFkZHJlc3NCb29rXFN1YmpldDsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">aWYgKCEkdGhpcy0+ZG9jdW1lbnQgaW5zdGFuY2VvZiBJRWxGaW5kZXJGaWxlQ29uc3VtZXIpIHsKCQkJdGhyb3cgbmV3IEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbihzcHJpbnRmKCdEb2N1bWVudCBtdXN0IGJlIGluc3RhbmNlIG9mICVzLCAlcyBnaXZlbi4nLAoJCQkJSUVsRmluZGVyRmlsZUNvbnN1bWVyOjpjbGFzcywgZ2V0dHlwZSgkZG9jdW1lbnQpKSk7CgkJfQ==</text>
       </register>
       <register name="9" type="4">
-        <text>/**
-	 * @ORM\ManyToOne(targetEntity=&quot;Subject&quot;)
-	 * @ORM\JoinColumn(name=&quot;subject_id&quot;, referencedColumnName=&quot;id&quot;)
-	 * @var Subject
-	 */
-	protected $subject;</text>
+        <text>if (!$document instanceof IElFinderFileConsumer) {
+			throw new InvalidArgumentException(sprintf('Document must be instance of %s, %s given.',
+				IElFinderFileConsumer::class, gettype($document)));
+		}</text>
       </register>
       <register name=":" type="4">
         <text>%s/recipient/email</text>
