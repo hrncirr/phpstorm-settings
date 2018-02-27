@@ -4368,7 +4368,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519397220679">
+      <file name="/Dummy.txt" timestamp="1519730603086">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
@@ -4478,10 +4478,10 @@
         <mark key="]" line="24" column="4" />
         <mark key="." line="24" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/BaseBusinessCaseDocument.php" timestamp="1519201414850">
-        <mark key="[" line="23" column="59" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/BaseBusinessCaseDocument.php" timestamp="1519730881368">
+        <mark key="[" line="46" column="29" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/tabs/src/Components/TabsControl/TabsControl.latte" timestamp="1499157106951">
         <mark key="[" line="0" column="0" />
@@ -6824,7 +6824,7 @@
         <mark key="]" line="12" column="4" />
         <mark key="." line="12" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Contact.php" timestamp="1517324001343">
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Contact.php" timestamp="1519730628672">
         <mark key="[" line="112" column="44" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
@@ -7155,11 +7155,11 @@
       <jump line="136" column="57" filename="/home/www/html/bul/sender/vendor/monolog/monolog/src/Monolog/Logger.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'Not found.'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CSAqIEBBc3NlcnRcTm90QmxhbmsoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>'Not found.'</text>
+        <text>, inversedBy=&quot;contacts</text>
       </register>
       <register name="/" type="4">
         <text>channel</text>
@@ -7167,32 +7167,32 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CSAqIEBBc3NlcnRcTm90QmxhbmsoKQo=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">LyoKCQkkaWRzID0gJHRoaXMtPm1vZGVsLT5maW5kSWRzQnlFeHBvcnRGb3JBbmRGaWxlTmFtZXMoJ2thcmRpbycsCgkJCVsnUlhYMTgwMjE1MjAzMEAxIzQzMjE1LnppcCddKTsKCQlkdW1wKCRpZHMpOwoJCWV4aXQ7CgkJKi8=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CQkJCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkJZXhpdDsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJZHVtcCgkaWRzKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJJHRoaXMtPmxvZ2dlci0+YWRkSW5mbyhzcHJpbnRmKCdET05FIEVYUE9SVEVEOiAlcycsICRleHBvcnRGb3IpKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJJHRoaXMtPmxvZ2dlci0+YWRkSW5mbyhzcHJpbnRmKCdFWFBPUlRFRDogJXMnLCAkZXhwb3J0Rm9yKSk7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">aWYgKCRmaWxlcykgewoJCQkJJHRoaXMtPmxvZ2dlci0+YWRkSW5mbyhzcHJpbnRmKCdET05FICVzIC0gJXMnLCAkZXhwb3J0Rm9yLCAkemlwRmlsZU5hbWUgLiAnLnppcCcpKTsKCQkJfQ==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">aWYgKCRmaWxlcykgewoJCQkJJHRoaXMtPmxvZ2dlci0+YWRkSW5mbyhzcHJpbnRmKCdTVEFSVCBFWFBPUlRJTkc6ICVzIC0gJXMnLCAkZXhwb3J0Rm9yLCAkemlwRmlsZU5hbWUgLiAnLnppcCcpKTsKCQkJfQoJCQk=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">aWYgKCRmaWxlcykgewoJCQkJJHRoaXMtPmxvZ2dlci0+YWRkSW5mbyhzcHJpbnRmKCdET05FIEVYUE9SVElORyAlcyAtICVzJywgJGV4cG9ydEZvciwgJHppcEZpbGVOYW1lKSwKCQkJCQlbJ2V4cG9ydGluZyddKTsKCQkJfQ==</text>
+        <text encoding="base64">aWYgKCRmaWxlcykgewoJCQkJJHRoaXMtPmxvZ2dlci0+YWRkSW5mbyhzcHJpbnRmKCdTVEFSVCBFWFBPUlRJTkc6ICVzIC0gJXMnLCAkZXhwb3J0Rm9yLCAkemlwRmlsZU5hbWUgLiAnLnppcCcpKTsKCQkJfQoJCQk=</text>
       </register>
       <register name=":" type="4">
         <text>%s/recipient/email</text>
