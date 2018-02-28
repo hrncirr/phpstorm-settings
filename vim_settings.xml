@@ -506,11 +506,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/EmailForm/EmailForm.php" timestamp="1519745289507">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/EmailForm/EmailForm.php" timestamp="1519827801797">
         <mark key="'" line="214" column="24" />
-        <mark key="[" line="100" column="8" />
-        <mark key="]" line="100" column="8" />
-        <mark key="." line="100" column="8" />
+        <mark key="[" line="202" column="47" />
+        <mark key="]" line="200" column="46" />
+        <mark key="." line="200" column="46" />
+        <mark key="^" line="200" column="46" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Filters/EmailFilter.php" timestamp="1475670030858">
         <mark key="[" line="10" column="18" />
@@ -4360,7 +4361,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519804179050">
+      <file name="/Dummy.txt" timestamp="1519828774098">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
@@ -7162,7 +7163,7 @@
         <text encoding="base64">JGNvbnRyb2wtPm9uQ2hhbmdlW10gPSBmdW5jdGlvbiAoKSB7CgkJCSR0aGlzLT5yZWRyYXdDb250cm9sKCdub3Rlc1NpemUnKTsKCQl9Ow==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/recipient/email</text>
+        <text>189</text>
       </register>
     </registers>
     <search>
@@ -7198,7 +7199,6 @@
         <entry>channel</entry>
       </history-search>
       <history-cmd>
-        <entry>126</entry>
         <entry>407</entry>
         <entry>216</entry>
         <entry>433</entry>
@@ -7218,6 +7218,7 @@
         <entry>w</entry>
         <entry>%s/recipients/emails</entry>
         <entry>%s/recipient/email</entry>
+        <entry>189</entry>
       </history-cmd>
       <history-expr />
       <history-input />
