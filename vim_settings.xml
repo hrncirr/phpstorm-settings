@@ -1560,8 +1560,8 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseDocumentFormControl.php" timestamp="1519738832789">
-        <mark key="[" line="71" column="8" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseDocumentFormControl.php" timestamp="1519815395709">
+        <mark key="[" line="96" column="51" />
         <mark key="]" line="71" column="8" />
         <mark key="." line="71" column="8" />
       </file>
@@ -3974,6 +3974,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Note/Components/NotesControl/INotesControlFactory.php" timestamp="1519815138082">
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="/home/www/html/nnb/passportization/app/Model/PassportizationModel.php" timestamp="1505135777835">
         <mark key="[" line="36" column="63" />
         <mark key="]" line="17" column="0" />
@@ -4073,10 +4078,10 @@
         <mark key="]" line="47" column="8" />
         <mark key="." line="47" column="8" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Note/Components/NotesControl/NotesControl.php" timestamp="1519814190508">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Note/Components/NotesControl/NotesControl.php" timestamp="1519815477864">
+        <mark key="[" line="62" column="8" />
+        <mark key="]" line="62" column="8" />
+        <mark key="." line="62" column="8" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/nette-menu/src/DK/Menu/Menu.php" timestamp="1491568564156">
         <mark key="[" line="83" column="15" />
@@ -7104,11 +7109,11 @@
       <jump line="136" column="57" filename="/home/www/html/bul/sender/vendor/monolog/monolog/src/Monolog/Logger.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkkdGhpcy0+dGVtcGxhdGUtPmVudGl0eSA9ICR0aGlzLT5lbnRpdHk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aWYgKCR0aGlzLT5lbnRpdHktPmhhc05vdGVzKCkpIHs=</text>
       </register>
       <register name="-" type="4">
-        <text>mappedBy=&quot;businessCase&quot;,</text>
+        <text encoding="base64">aWYgKCR0aGlzLT5lbnRpdHktPmhhc05vdGVzKCkpIHs=</text>
       </register>
       <register name="/" type="4">
         <text>channel</text>
@@ -7117,22 +7122,22 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkkdGhpcy0+dGVtcGxhdGUtPmVudGl0eSA9ICR0aGlzLT5lbnRpdHk7Cg==</text>
+        <text encoding="base64">dXNlIE5vdGVcSU5vdGVzOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkkdGhpcy0+dGVtcGxhdGUgPSAkdGhpcy0+Z2V0VGVtcGxhdGUoKTsK</text>
+        <text encoding="base64">CQkkdGhpcy0+dGVtcGxhdGUtPmVudGl0eSA9ICR0aGlzLT5lbnRpdHk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkvKiogZGRAdmFyIFRlbXBsYXRlICR0ZW1wbGF0ZSAqLwo=</text>
+        <text encoding="base64">CQkkdGhpcy0+dGVtcGxhdGUgPSAkdGhpcy0+Z2V0VGVtcGxhdGUoKTsK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CQkvKiogZGRAdmFyIFRlbXBsYXRlICR0ZW1wbGF0ZSAqLwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">LyoqCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">JGxpbmsgPSAkdGhpcy0+bGF6eUxpbmsoJ2FkZCEnKTsKCQlkdW1wKCR0aGlzLT5wYXJlbnQtPmdldFBhcmFtZXRlcnMoKSk7</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXNlIE5vdGVcTm90ZTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">dXNlIE5vdGVcTm90ZTsK</text>
@@ -7140,15 +7145,8 @@
       <register name="8" type="2">
         <text encoding="base64">dXNlIE5vdGVcTm90ZTsK</text>
       </register>
-      <register name="9" type="4">
-        <text>/**
-	 * @ORM\ManyToMany(targetEntity=&quot;Note\Note&quot;)
-	 * @ORM\JoinTable(
-	 *      inverseJoinColumns={@ORM\JoinColumn(name=&quot;note_id&quot;, referencedColumnName=&quot;id&quot;)}
-	 * )
-	 * @var Note[]|Collection
-	 */
-	protected $notes;</text>
+      <register name="9" type="2">
+        <text encoding="base64">dXNlIE5vdGVcTm90ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/recipient/email</text>
