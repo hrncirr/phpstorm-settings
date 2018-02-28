@@ -1560,10 +1560,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseDocumentFormControl.php" timestamp="1519816302299">
-        <mark key="[" line="96" column="51" />
-        <mark key="]" line="71" column="8" />
-        <mark key="." line="71" column="8" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseDocumentFormControl.php" timestamp="1519826339664">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractsGrid/OrdersGrid.php" timestamp="1516792003299">
         <mark key="[" line="18" column="0" />
@@ -3974,10 +3974,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Note/Components/NotesControl/INotesControlFactory.php" timestamp="1519816106720">
-        <mark key="[" line="27" column="43" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Note/Components/NotesControl/INotesControlFactory.php" timestamp="1519824285442">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/Model/PassportizationModel.php" timestamp="1505135777835">
         <mark key="[" line="36" column="63" />
@@ -4078,10 +4078,10 @@
         <mark key="]" line="47" column="8" />
         <mark key="." line="47" column="8" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Note/Components/NotesControl/NotesControl.php" timestamp="1519816189489">
-        <mark key="[" line="57" column="8" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Note/Components/NotesControl/NotesControl.php" timestamp="1519825553149">
+        <mark key="[" line="61" column="4" />
+        <mark key="]" line="61" column="4" />
+        <mark key="." line="61" column="4" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/nette-menu/src/DK/Menu/Menu.php" timestamp="1491568564156">
         <mark key="[" line="83" column="15" />
@@ -5371,10 +5371,10 @@
         <mark key="]" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractForm/ContractForm.php" timestamp="1519391218642">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="4" />
-        <mark key="." line="82" column="4" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractForm/ContractForm.php" timestamp="1519826165086">
+        <mark key="[" line="84" column="4" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Model/AresModel.php" timestamp="1518098142032">
         <mark key="[" line="104" column="45" />
@@ -6256,6 +6256,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InterventionForm/InterventionForm.php" timestamp="1519826025877">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="4" />
+        <mark key="." line="72" column="4" />
+      </file>
       <file name="/home/www/lib/vendor/nnb/staff/src/Authentication/LdapAuthenticator.php" timestamp="1478780403815">
         <mark key="[" line="115" column="8" />
         <mark key="]" line="115" column="8" />
@@ -7109,11 +7114,11 @@
       <jump line="136" column="57" filename="/home/www/html/bul/sender/vendor/monolog/monolog/src/Monolog/Logger.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cGVyc2lzdCgkdGhpcy0+ZW50aXR5KQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJJHRoaXMtPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGVyc2lzdCgkdGhpcy0+ZW50aXR5KQ==</text>
+        <text encoding="base64">IT09IG51bGwgPzogJGVudGl0eS0+Z2V0Tm90ZXMoKTs=</text>
       </register>
       <register name="/" type="4">
         <text>channel</text>
@@ -7121,32 +7126,40 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">JGNvbHVtbiA9IGxjZmlyc3QoKG5ldyBcUmVmbGVjdGlvbkNsYXNzKCR0aGlzKSktPmdldFNob3J0TmFtZSgpKTsKCQkkbm90ZS0+eyRjb2x1bW59ID0gJHRoaXM7</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJJHRoaXMtPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlpZiAoJG5vdGVzICE9PSBudWxsKSB7Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gW107Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIE5vdGVcSU5vdGVzOwo=</text>
+        <text encoding="base64">CQlkdW1wKCdhYWFhYWEnKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkkdGhpcy0+dGVtcGxhdGUtPmVudGl0eSA9ICR0aGlzLT5lbnRpdHk7Cg==</text>
+      <register name="4" type="4">
+        <text>/**
+	 * @param SubmitButton $submitButton
+	 *
+	 * @throws \Exception
+	 */</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkkdGhpcy0+dGVtcGxhdGUgPSAkdGhpcy0+Z2V0VGVtcGxhdGUoKTsK</text>
+      <register name="5" type="4">
+        <text>protected function getNotes()
+	{
+		dump('aaaaaa');
+		return [];
+	}</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvKiogZGRAdmFyIFRlbXBsYXRlICR0ZW1wbGF0ZSAqLwo=</text>
+        <text encoding="base64">CQkkY29udHJvbC0+c2V0Tm90ZXMoJHRoaXMtPmdldE5vdGVzKCkpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">LyoqCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIENvbGxlY3Rpb24KCSAqLwoJcHVibGljIGZ1bmN0aW9uIGdldE5vdGVzKCk6IENvbGxlY3Rpb24KCXsKCQlyZXR1cm4gJHRoaXMtPm5vdGVzOwoJfQoJCgkKCS8qKgoJICogQHBhcmFtIENvbGxlY3Rpb24gJG5vdGVzCgkgKgoJICogQHJldHVybiBOb3Rlc0NvbnRyb2wKCSAqLwoJcHVibGljIGZ1bmN0aW9uIHNldE5vdGVzKENvbGxlY3Rpb24gJG5vdGVzKTogTm90ZXNDb250cm9sCgl7CgkJJHRoaXMtPm5vdGVzID0gJG5vdGVzOwoJCQoJCXJldHVybiAkdGhpczsKCX0=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">JGxpbmsgPSAkdGhpcy0+bGF6eUxpbmsoJ2FkZCEnKTsKCQlkdW1wKCR0aGlzLT5wYXJlbnQtPmdldFBhcmFtZXRlcnMoKSk7</text>
+        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gSU5vdGVzQ29udHJvbEZhY3RvcnkgJGZhY3RvcnkKCSAqCgkgKiBAcmV0dXJuIE5vdGVzQ29udHJvbAoJICovCglwcm90ZWN0ZWQgZnVuY3Rpb24gY3JlYXRlQ29tcG9uZW50Tm90ZXNDb250cm9sKElOb3Rlc0NvbnRyb2xGYWN0b3J5ICRmYWN0b3J5KTogTm90ZXNDb250cm9sCgl7CgkJJGNvbnRyb2wgPSBwYXJlbnQ6OmNyZWF0ZUNvbXBvbmVudE5vdGVzQ29udHJvbCgkZmFjdG9yeSk7CgkJJGNvbnRyb2wtPnNldE5vdGVzKFtdKTsKCQkKCQlyZXR1cm4gJGNvbnRyb2w7Cgl9</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">dXNlIE5vdGVcTm90ZTsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">JGNvbnRyb2wtPm9uQ2hhbmdlW10gPSBmdW5jdGlvbiAoKSB7CgkJCSR0aGlzLT5yZWRyYXdDb250cm9sKCdub3Rlc1NpemUnKTsKCQl9Ow==</text>
       </register>
       <register name=":" type="4">
         <text>%s/recipient/email</text>
