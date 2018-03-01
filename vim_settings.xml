@@ -4402,7 +4402,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519900246442">
+      <file name="/Dummy.txt" timestamp="1519902733441">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
@@ -5870,12 +5870,11 @@
         <mark key="]" line="45" column="8" />
         <mark key="." line="45" column="8" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/TMediaImporterControl.php" timestamp="1519897345282">
+      <file name="/home/www/vendor/hrncirr/elfinder/src/TMediaImporterControl.php" timestamp="1519902295042">
         <mark key="'" line="75" column="18" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="^" line="130" column="8" />
-        <mark key="." line="101" column="0" />
+        <mark key="[" line="94" column="28" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/templates/Default/oivt.latte" timestamp="1478774910394">
         <mark key="[" line="0" column="0" />
@@ -7182,9 +7181,8 @@
       <jump line="56" column="28" filename="/home/www/vendor/hrncirr/cmp/src/Compiler/Filters/MediaFileFilter.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dump($tag);
-		exit;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkkZWxGaW5kZXJGaWxlQ29uc3VtZXIgPSAkdGhpcy0+Z2V0RWxGaW5kZXJGaWxlQ29uc3VtZXIoKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JGVsRmluZGVyRmlsZURpcmVjdG9yeVJvb3QgIT09IG51bGwgJiY=</text>
@@ -7195,11 +7193,14 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQkkZWxGaW5kZXJGaWxlQ29uc3VtZXIgPSAkdGhpcy0+Z2V0RWxGaW5kZXJGaWxlQ29uc3VtZXIoKTsK</text>
+      </register>
+      <register name="2" type="4">
         <text>dump($tag);
 		exit;</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>/**
 	 * @param string $s
 	 *
@@ -7208,7 +7209,7 @@
 	 * @throws InvalidStateException
 	 */</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>/**
 	 * @param string $url
 	 *
@@ -7217,7 +7218,7 @@
 	 * @throws InvalidStateException
 	 */</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>/**
 	 * @param IRouter $router
 	 * @param string  $url
@@ -7225,14 +7226,14 @@
 	 * @return array|null
 	 */</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>/**
 	 * @param string $s
 	 *
 	 * @return string
 	 */</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>/**
 	 * @param IFilter $filter
 	 *
@@ -7241,14 +7242,11 @@
 	 * @throws InvalidStateException
 	 */</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlkdW1wKCR0YWcpOwo=</text>
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>189</text>
