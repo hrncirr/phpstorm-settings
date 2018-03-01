@@ -1193,10 +1193,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" timestamp="1519896128003">
-        <mark key="[" line="354" column="0" />
-        <mark key="]" line="354" column="4" />
-        <mark key="." line="354" column="4" />
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" timestamp="1519908397804">
+        <mark key="'" line="129" column="45" />
+        <mark key="[" line="38" column="35" />
+        <mark key="]" line="168" column="4" />
+        <mark key="." line="168" column="4" />
+        <mark key="^" line="168" column="4" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/router/TreeIconRouterFactory.php" timestamp="1480338116491">
         <mark key="[" line="45" column="12" />
@@ -4237,7 +4239,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519906113161">
+      <file name="/Dummy.txt" timestamp="1519908259198">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
@@ -6834,12 +6836,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="71" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectsGrid/SubjectForm.latte" />
-      <jump line="270" column="30" filename="/home/www/html/nnb/nezadouci-udalosti/app/Model/Entities/IncidentEntity.php" />
-      <jump line="34" column="43" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" />
-      <jump line="127" column="46" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractsGrid/ContractsGrid.php" />
-      <jump line="82" column="50" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" />
-      <jump line="1138" column="47" filename="/home/www/html/dv/adera/libs/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
       <jump line="184" column="51" filename="/home/www/html/dv/adera/libs/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
       <jump line="189" column="56" filename="/home/www/html/dv/adera/libs/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
       <jump line="489" column="61" filename="/home/www/html/dv/adera/libs/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
@@ -6934,56 +6930,94 @@
       <jump line="66" column="20" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractForm/ContractForm.php" />
       <jump line="28" column="0" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractsGrid/ContractsGrid.php" />
       <jump line="108" column="23" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractsGrid/ContractsGrid.php" />
+      <jump line="168" column="4" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
+      <jump line="592" column="21" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
+      <jump line="475" column="33" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
+      <jump line="482" column="76" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
+      <jump line="42" column="37" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
+      <jump line="129" column="45" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkkdGhpcy0+ZW0tPnRyYW5zYWN0aW9uYWwoZnVuY3Rpb24gKCkgdXNlICgkbm90ZSkgewo=</text>
+      <register name="&quot;" type="4">
+        <text>/**
+	 * @param int|string $oldId
+	 * @param string     $data
+	 * @param bool       $regenerate
+	 *
+	 * @return string|null
+	 */</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JHRoaXMtPmludm9pY2UtPmdldEJ1c2luZXNzQ2FzZSgpLA==</text>
       </register>
       <register name="/" type="4">
-        <text>reload</text>
+        <text>Maximu</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkkdGhpcy0+ZW0tPnRyYW5zYWN0aW9uYWwoZnVuY3Rpb24gKCkgdXNlICgkbm90ZSkgewo=</text>
+      <register name="1" type="4">
+        <text>/**
+	 * @param int|string $oldId
+	 * @param string     $data
+	 * @param bool       $regenerate
+	 *
+	 * @return string|null
+	 */</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkvLyBUT0RPOiBWecWZZcWhaXQgZWxmaW5kZXIK</text>
+      <register name="2" type="4">
+        <text>/**
+	 * @param int|string         $id
+	 * @param MediaImportOptions $options
+	 * @param array|null         $excludedFiles
+	 *
+	 * @return array|null
+	 *
+	 * @throws \Exception
+	 */</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">aWYgKCRlbEZpbmRlckZpbGVEaXJlY3RvcnlSb290ICE9PSBudWxsICYmIAoJCQkJCSEkdGhpcy0+bWVkaWFJbXBvcnRlci0+aGFzSW1wb3J0RGlyZWN0b3J5QnlJZCgkdGhpcy0+bWVkaWFJbXBvcnRJZCkpIHsKCQkJCSR0aGlzLT5tZWRpYUltcG9ydElkID0gbnVsbDsKCQkJfQ==</text>
+        <text>/**
+	 * @param ElFinderFile $elfinderFile
+	 * @param string       $path
+	 *
+	 * @throws \Doctrine\ORM\NoResultException
+	 * @throws \Doctrine\ORM\NonUniqueResultException
+	 */</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ZWxzZWlmICgkZWxGaW5kZXJGaWxlRGlyZWN0b3J5Um9vdCAhPT0gbnVsbCAmJgoJCQkhJHRoaXMtPm1lZGlhSW1wb3J0ZXItPmhhc0ltcG9ydERpcmVjdG9yeUJ5SWQoJHRoaXMtPm1lZGlhSW1wb3J0SWQpKSB7CgkJCSR0aGlzLT5tZWRpYUltcG9ydElkID0gbnVsbDsKCQl9</text>
+        <text>/**
+	 * @param int|string $id
+	 * @param bool       $need
+	 *
+	 * @return array|null
+	 */</text>
       </register>
       <register name="5" type="4">
-        <text>dump('aaaaaa');
-		exit;</text>
+        <text>/**
+	 * @param int|string $id
+	 */</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkkdGhpcy0+ZW0tPnRyYW5zYWN0aW9uYWwoZnVuY3Rpb24gKCkgdXNlICgkbm90ZSkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkkdGhpcy0+cHJlcGFyZUVsRmluZGVyRmlsZUNvbnN1bWVyKCk7Cg==</text>
+        <text encoding="base64">CQkvLyBUT0RPOiBWecWZZcWhaXQgZWxmaW5kZXIK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="8" type="4">
+        <text encoding="base64">aWYgKCRlbEZpbmRlckZpbGVEaXJlY3RvcnlSb290ICE9PSBudWxsICYmIAoJCQkJCSEkdGhpcy0+bWVkaWFJbXBvcnRlci0+aGFzSW1wb3J0RGlyZWN0b3J5QnlJZCgkdGhpcy0+bWVkaWFJbXBvcnRJZCkpIHsKCQkJCSR0aGlzLT5tZWRpYUltcG9ydElkID0gbnVsbDsKCQkJfQ==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkkdGhpcy0+cHJlcGFyZUVsRmluZGVyRmlsZUNvbnN1bWVyKCk7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ZWxzZWlmICgkZWxGaW5kZXJGaWxlRGlyZWN0b3J5Um9vdCAhPT0gbnVsbCAmJgoJCQkhJHRoaXMtPm1lZGlhSW1wb3J0ZXItPmhhc0ltcG9ydERpcmVjdG9yeUJ5SWQoJHRoaXMtPm1lZGlhSW1wb3J0SWQpKSB7CgkJCSR0aGlzLT5tZWRpYUltcG9ydElkID0gbnVsbDsKCQl9</text>
       </register>
       <register name=":" type="4">
         <text>189</text>
       </register>
     </registers>
     <search>
-      <last-search>reload</last-search>
+      <last-search>Maximu</last-search>
       <last-offset />
-      <last-pattern>reload</last-pattern>
+      <last-pattern>Maximu</last-pattern>
       <last-replace>email</last-replace>
       <last-substitute>recipient</last-substitute>
       <last-dir>1</last-dir>
@@ -6991,12 +7025,6 @@
     </search>
     <history>
       <history-search>
-        <entry>buffer</entry>
-        <entry>extensionMethod</entry>
-        <entry>setDefaultSort</entry>
-        <entry>regenerate</entry>
-        <entry>dump</entry>
-        <entry>onCancel</entry>
         <entry>findPrefix</entry>
         <entry>recipients</entry>
         <entry>recipient</entry>
@@ -7011,6 +7039,12 @@
         <entry>reloaD</entry>
         <entry>reloaf</entry>
         <entry>reload</entry>
+        <entry>Maximus</entry>
+        <entry>Maximux</entry>
+        <entry>Maximum</entry>
+        <entry encoding="base64">XDxmaW5kRGlyXD4=</entry>
+        <entry>clean</entry>
+        <entry>Maximu</entry>
       </history-search>
       <history-cmd>
         <entry>407</entry>
