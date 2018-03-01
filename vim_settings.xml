@@ -461,10 +461,10 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/FileManagerControlFactory.php" timestamp="1519206010721">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/FileManagerControlFactory.php" timestamp="1519887542410">
+        <mark key="[" line="52" column="55" />
+        <mark key="]" line="96" column="4" />
+        <mark key="." line="96" column="4" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Storage/AdminModule/Components/ItemsGrid/GroupsGrid.latte" timestamp="1497351916802">
         <mark key="[" line="1" column="0" />
@@ -1561,8 +1561,8 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseDocumentFormControl.php" timestamp="1519826339664">
-        <mark key="[" line="104" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseDocumentFormControl.php" timestamp="1519887407112">
+        <mark key="[" line="118" column="32" />
         <mark key="]" line="104" column="0" />
         <mark key="." line="104" column="0" />
       </file>
@@ -7115,8 +7115,8 @@
       <jump line="136" column="57" filename="/home/www/html/bul/sender/vendor/monolog/monolog/src/Monolog/Logger.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGNyZWF0ZShJRWxGaW5kZXJGaWxlQ29uc3VtZXIgJGVsRmluZGVyRmlsZUNvbnN1bWVyKQoJewoJCSRjb250cm9sID0gJHRoaXMtPmNvbnRyb2xGYWN0b3J5LT5jcmVhdGUoKTsKCQkkdGhpcy0+Y29uZmlndXJlKCRjb250cm9sLCAkZWxGaW5kZXJGaWxlQ29uc3VtZXIpOwoKCQlyZXR1cm4gJGNvbnRyb2w7Cgl9</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IT09IG51bGwgPzogJGVudGl0eS0+Z2V0Tm90ZXMoKTs=</text>
@@ -7127,40 +7127,40 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGNyZWF0ZShJRWxGaW5kZXJGaWxlQ29uc3VtZXIgJGVsRmluZGVyRmlsZUNvbnN1bWVyKQoJewoJCSRjb250cm9sID0gJHRoaXMtPmNvbnRyb2xGYWN0b3J5LT5jcmVhdGUoKTsKCQkkdGhpcy0+Y29uZmlndXJlKCRjb250cm9sLCAkZWxGaW5kZXJGaWxlQ29uc3VtZXIpOwoKCQlyZXR1cm4gJGNvbnRyb2w7Cgl9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlyZXR1cm4gW107Cg==</text>
+        <text encoding="base64">CQkJJHRoaXMtPgo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CQlyZXR1cm4gW107Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CQlkdW1wKCdhYWFhYWEnKTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>/**
 	 * @param SubmitButton $submitButton
 	 *
 	 * @throws \Exception
 	 */</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>protected function getNotes()
 	{
 		dump('aaaaaa');
 		return [];
 	}</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkkY29udHJvbC0+c2V0Tm90ZXMoJHRoaXMtPmdldE5vdGVzKCkpOwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIENvbGxlY3Rpb24KCSAqLwoJcHVibGljIGZ1bmN0aW9uIGdldE5vdGVzKCk6IENvbGxlY3Rpb24KCXsKCQlyZXR1cm4gJHRoaXMtPm5vdGVzOwoJfQoJCgkKCS8qKgoJICogQHBhcmFtIENvbGxlY3Rpb24gJG5vdGVzCgkgKgoJICogQHJldHVybiBOb3Rlc0NvbnRyb2wKCSAqLwoJcHVibGljIGZ1bmN0aW9uIHNldE5vdGVzKENvbGxlY3Rpb24gJG5vdGVzKTogTm90ZXNDb250cm9sCgl7CgkJJHRoaXMtPm5vdGVzID0gJG5vdGVzOwoJCQoJCXJldHVybiAkdGhpczsKCX0=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gSU5vdGVzQ29udHJvbEZhY3RvcnkgJGZhY3RvcnkKCSAqCgkgKiBAcmV0dXJuIE5vdGVzQ29udHJvbAoJICovCglwcm90ZWN0ZWQgZnVuY3Rpb24gY3JlYXRlQ29tcG9uZW50Tm90ZXNDb250cm9sKElOb3Rlc0NvbnRyb2xGYWN0b3J5ICRmYWN0b3J5KTogTm90ZXNDb250cm9sCgl7CgkJJGNvbnRyb2wgPSBwYXJlbnQ6OmNyZWF0ZUNvbXBvbmVudE5vdGVzQ29udHJvbCgkZmFjdG9yeSk7CgkJJGNvbnRyb2wtPnNldE5vdGVzKFtdKTsKCQkKCQlyZXR1cm4gJGNvbnRyb2w7Cgl9</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">JGNvbnRyb2wtPm9uQ2hhbmdlW10gPSBmdW5jdGlvbiAoKSB7CgkJCSR0aGlzLT5yZWRyYXdDb250cm9sKCdub3Rlc1NpemUnKTsKCQl9Ow==</text>
+        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gSU5vdGVzQ29udHJvbEZhY3RvcnkgJGZhY3RvcnkKCSAqCgkgKiBAcmV0dXJuIE5vdGVzQ29udHJvbAoJICovCglwcm90ZWN0ZWQgZnVuY3Rpb24gY3JlYXRlQ29tcG9uZW50Tm90ZXNDb250cm9sKElOb3Rlc0NvbnRyb2xGYWN0b3J5ICRmYWN0b3J5KTogTm90ZXNDb250cm9sCgl7CgkJJGNvbnRyb2wgPSBwYXJlbnQ6OmNyZWF0ZUNvbXBvbmVudE5vdGVzQ29udHJvbCgkZmFjdG9yeSk7CgkJJGNvbnRyb2wtPnNldE5vdGVzKFtdKTsKCQkKCQlyZXR1cm4gJGNvbnRyb2w7Cgl9</text>
       </register>
       <register name=":" type="4">
         <text>189</text>
