@@ -315,6 +315,9 @@
         <mark key="]" line="24" column="4" />
         <mark key="." line="24" column="4" />
       </file>
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/TElFinderFileConsumer.php" timestamp="1519893176578">
+        <mark key="[" line="51" column="73" />
+      </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerListener.php" timestamp="1513151060503">
         <mark key="[" line="177" column="4" />
         <mark key="]" line="177" column="4" />
@@ -1560,10 +1563,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseDocumentFormControl.php" timestamp="1519912657714">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseDocumentFormControl.php" timestamp="1519983142249">
+        <mark key="[" line="96" column="72" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/FormParts/TButtonsFormPart.php" timestamp="1519049908237">
         <mark key="[" line="35" column="49" />
@@ -2324,6 +2327,9 @@
         <mark key="[" line="51" column="12" />
         <mark key="]" line="51" column="12" />
         <mark key="." line="51" column="12" />
+      </file>
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Utils/Helpers.php" timestamp="1519894676416">
+        <mark key="[" line="29" column="60" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Pages/AdminModule/Components/PageForm/PageForm.latte" timestamp="1495799253115">
         <mark key="[" line="64" column="39" />
@@ -3114,6 +3120,11 @@
         <mark key="[" line="67" column="14" />
         <mark key="]" line="67" column="14" />
         <mark key="." line="67" column="14" />
+      </file>
+      <file name="/home/www/html/dv/adera/www/js/form.enter.as.tab.js" timestamp="1519983612203">
+        <mark key="[" line="56" column="16" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Storage/AdminModule/Components/ItemsGrid/ItemsGrid.php" timestamp="1497598692910">
         <mark key="[" line="34" column="4" />
@@ -4119,6 +4130,9 @@
         <mark key="[" line="28" column="39" />
         <mark key="]" line="27" column="4" />
         <mark key="." line="27" column="4" />
+      </file>
+      <file name="/home/www/html/dv/adera/app/config/extensions/header.neon" timestamp="1519982746299">
+        <mark key="[" line="139" column="16" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/services/Unique.php" timestamp="1477994988699">
         <mark key="[" line="41" column="32" />
@@ -6963,10 +6977,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzLT5nZXROb3RlcygpKTsK</text>
+        <text encoding="base64">CQkJCQkJCS8vIGhhbmRsZSBvYmplY3RzIG5vdCBvZmZlcmluZyBzZWxlY3QK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPmludm9pY2UtPmdldEJ1c2luZXNzQ2FzZSgpLA==</text>
+        <text>|| !$form.data('enterAsTab')</text>
       </register>
       <register name="/" type="4">
         <text>count</text>
@@ -6975,55 +6989,42 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzLT5nZXROb3RlcygpKTsK</text>
+        <text encoding="base64">CQkJCQkJCS8vIGhhbmRsZSBvYmplY3RzIG5vdCBvZmZlcmluZyBzZWxlY3QK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+      <register name="2" type="4">
+        <text>var idx = inputs.index(this);
+						
+						if (idx === inputs.length - 1) {
+							inputs[0].select()
+						} else {
+							inputs[idx + 1].focus();
+							inputs[idx + 1].select();
+						}
+						return false;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJcRWxGaW5kZXJcRG9jdHJpbmVcRWxGaW5kZXJGaWxlQ29uc3VtZXI7Cg==</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJcRWxGaW5kZXJcRG9jdHJpbmVcRWxGaW5kZXJGaWxlQ29uc3VtZXI7Cg==</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCQodGhpcykuYXR0cignJykpOwo=</text>
       </register>
       <register name="5" type="4">
-        <text>/**
-	 * @param EntityForm $form
-	 * @param            $values
-	 *
-	 * @throws \Exception
-	 */</text>
+        <text>var $defaultButton = $(el).find('.default-submit');
+				if ($defaultButton.length === 0) {
+					return;
+				}</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJcRWxGaW5kZXJcRG9jdHJpbmVcRWxGaW5kZXJGaWxlQ29uc3VtZXI7Cg==</text>
+        <text encoding="base64">CQkJaWYgKCRkZWZhdWx0QnV0dG9uLmxlbmd0aCAhPT0gMCkgewo=</text>
       </register>
-      <register name="7" type="4">
-        <text>/**
-	 * @param PostFlushEventArgs $args
-	 *
-	 * @throws \Doctrine\ORM\Mapping\MappingException
-	 * @throws \Doctrine\ORM\OptimisticLockException
-	 * @throws \Exception
-	 * @throws \Nette\Application\UI\InvalidLinkException
-	 */</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJdmFyICRkZWZhdWx0QnV0dG9uID0gJGZvcm0uZmluZCgnLmRlZmF1bHQtc3VibWl0Jyk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>/**
-	 * @param int|string $id
-	 *
-	 * @return int
-	 *
-	 * @throws \Exception
-	 */</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCQkJLyogRk9DVVMgRUxFTUVOVCAqLwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>/**
-	 * @param int|string $oldId
-	 * @param string     $data
-	 * @param bool       $regenerate
-	 *
-	 * @return string|null
-	 */</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCQkvKiBFTlRFUiBQUkVTU0VEKi8K</text>
       </register>
       <register name=":" type="4">
         <text>189</text>
