@@ -3761,6 +3761,9 @@
         <mark key="]" line="30" column="4" />
         <mark key="." line="30" column="4" />
       </file>
+      <file name="/home/www/html/bul/sender/app/Presenters/ImportPresenter.php" timestamp="1520411320980">
+        <mark key="[" line="57" column="47" />
+      </file>
       <file name="/home/www/html/dv/cms/src/Translatable.php" timestamp="1491478738299">
         <mark key="[" line="11" column="22" />
         <mark key="]" line="11" column="22" />
@@ -6849,6 +6852,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="/home/www/html/bul/sender/app/Model/Model.php" timestamp="1520413531737">
+        <mark key="[" line="91" column="20" />
+        <mark key="]" line="92" column="10" />
+        <mark key="." line="92" column="10" />
+      </file>
       <file name="/home/www/html/dv/cms/src/Options/Components/ExtensionsGrid/ExtensionsGrid.php" timestamp="1497014853957">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="64" column="0" />
@@ -6958,11 +6966,13 @@
       <jump line="212" column="23" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">JGZvcm0tPmdldEVsZW1lbnRQcm90b3R5cGUoKS0+c2V0QXR0cmlidXRlKCdkYXRhLWVudGVyLWFzLXRhYicsIHRydWUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>elseif ($deleted === true) {
+			$filter .= ' AND bi.deleted IS NOT NULL';
+		}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGZvcm0tPmdldEVsZW1lbnRQcm90b3R5cGUoKS0+c2V0QXR0cmlidXRlKCdkYXRhLWVudGVyLWFzLXRhYicsIHRydWUpOw==</text>
+        <text encoding="base64">JHRoaXMtPmNyZWF0ZUZpbHRlcigkZXhwb3J0ZWQsICRkZWxldGVkKTs=</text>
       </register>
       <register name="/" type="4">
         <text>count</text>
@@ -6970,43 +6980,51 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">JGZvcm0tPmdldEVsZW1lbnRQcm90b3R5cGUoKS0+c2V0QXR0cmlidXRlKCdkYXRhLWVudGVyLWFzLXRhYicsIHRydWUpOwo=</text>
+      <register name="1" type="4">
+        <text>elseif ($deleted === true) {
+			$filter .= ' AND bi.deleted IS NOT NULL';
+		}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCS8vIGhhbmRsZSBvYmplY3RzIG5vdCBvZmZlcmluZyBzZWxlY3QK</text>
+        <text encoding="base64">CQkJJGZpbHRlciAuPSAnIEFORCBiaS5kZWxldGVkIElTIE5VTEwnOwo=</text>
       </register>
       <register name="3" type="4">
-        <text>var idx = inputs.index(this);
-						
-						if (idx === inputs.length - 1) {
-							inputs[0].select()
-						} else {
-							inputs[idx + 1].focus();
-							inputs[idx + 1].select();
-						}
-						return false;</text>
+        <text>elseif ($exported === true) {
+			$filter = ' AND bi.exported IS NOT NULL';
+		}</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCk7Cg==</text>
+      <register name="4" type="4">
+        <text>AND
+			bi.exported IS NULL
+			AND
+			bi.deleted IS NULL</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCQodGhpcykuYXR0cignJykpOwo=</text>
+      <register name="5" type="4">
+        <text>AND
+			bi.deleted IS NULL</text>
       </register>
       <register name="6" type="4">
-        <text>var $defaultButton = $(el).find('.default-submit');
-				if ($defaultButton.length === 0) {
-					return;
-				}</text>
+        <text>$filter = '';
+		if ($exported === false) {
+			$filter = 'AND bi.exported IS NULL';
+		} elseif ($exported === true) {
+			$filter = 'AND bi.exported IS NOT NULL';
+		}</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJaWYgKCRkZWZhdWx0QnV0dG9uLmxlbmd0aCAhPT0gMCkgewo=</text>
+      <register name="7" type="4">
+        <text>$filter = '';
+		if ($exported === false) {
+			$filter = 'AND bi.exported IS NULL';
+		} elseif ($exported === true) {
+			$filter = 'AND bi.exported IS NOT NULL';
+		}</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJdmFyICRkZWZhdWx0QnV0dG9uID0gJGZvcm0uZmluZCgnLmRlZmF1bHQtc3VibWl0Jyk7Cg==</text>
+      <register name="8" type="4">
+        <text>AND
+			bi.exported IS NULL</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJLyogRk9DVVMgRUxFTUVOVCAqLwo=</text>
+        <text encoding="base64">JGZvcm0tPmdldEVsZW1lbnRQcm90b3R5cGUoKS0+c2V0QXR0cmlidXRlKCdkYXRhLWVudGVyLWFzLXRhYicsIHRydWUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>189</text>
