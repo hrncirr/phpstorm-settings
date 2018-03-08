@@ -3762,10 +3762,11 @@
         <mark key="]" line="30" column="4" />
         <mark key="." line="30" column="4" />
       </file>
-      <file name="/home/www/html/bul/sender/app/Presenters/ImportPresenter.php" timestamp="1520497091237">
-        <mark key="[" line="67" column="12" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+      <file name="/home/www/html/bul/sender/app/Presenters/ImportPresenter.php" timestamp="1520518547630">
+        <mark key="'" line="69" column="30" />
+        <mark key="[" line="73" column="39" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/src/Translatable.php" timestamp="1491478738299">
         <mark key="[" line="11" column="22" />
@@ -6855,10 +6856,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/home/www/html/bul/sender/app/Model/Model.php" timestamp="1520416140959">
-        <mark key="[" line="60" column="59" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="/home/www/html/bul/sender/app/Model/Model.php" timestamp="1520517380948">
+        <mark key="[" line="97" column="52" />
+        <mark key="]" line="94" column="30" />
+        <mark key="." line="94" column="30" />
       </file>
       <file name="/home/www/html/dv/cms/src/Options/Components/ExtensionsGrid/ExtensionsGrid.php" timestamp="1497014853957">
         <mark key="[" line="5" column="0" />
@@ -6867,7 +6868,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="493" column="63" filename="/home/www/html/dv/adera/libs/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
       <jump line="511" column="67" filename="/home/www/html/dv/adera/libs/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
       <jump line="34" column="24" filename="/home/www/html/dv/adera/libs/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
       <jump line="34" column="22" filename="/home/www/html/dv/adera/Modules/Invoicing/Intervention.php" />
@@ -6967,16 +6967,17 @@
       <jump line="608" column="31" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
       <jump line="210" column="19" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
       <jump line="212" column="23" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
+      <jump line="68" column="30" filename="/home/www/html/bul/sender/app/Presenters/ImportPresenter.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJZXhpdDsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">c3RyaW5nICRhZGRyZXNzLCA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text encoding="base64">c3RyaW5nICRhZGRyZXNzLCA=</text>
       </register>
       <register name="/" type="4">
-        <text>count</text>
+        <text>logExpo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
@@ -7017,9 +7018,9 @@
       </register>
     </registers>
     <search>
-      <last-search>count</last-search>
+      <last-search>logExpo</last-search>
       <last-offset />
-      <last-pattern>count</last-pattern>
+      <last-pattern>logExpo</last-pattern>
       <last-replace>email</last-replace>
       <last-substitute>recipient</last-substitute>
       <last-dir>1</last-dir>
@@ -7027,8 +7028,6 @@
     </search>
     <history>
       <history-search>
-        <entry>recipients</entry>
-        <entry>recipient</entry>
         <entry>channel</entry>
         <entry>setMediaImportId</entry>
         <entry>MediaImport</entry>
@@ -7047,6 +7046,8 @@
         <entry>clean</entry>
         <entry>Maximu</entry>
         <entry>count</entry>
+        <entry>addExport</entry>
+        <entry>logExpo</entry>
       </history-search>
       <history-cmd>
         <entry>407</entry>
