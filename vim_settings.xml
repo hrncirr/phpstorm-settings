@@ -3762,11 +3762,10 @@
         <mark key="]" line="30" column="4" />
         <mark key="." line="30" column="4" />
       </file>
-      <file name="/home/www/html/bul/sender/app/Presenters/ImportPresenter.php" timestamp="1520521539265">
-        <mark key="'" line="69" column="30" />
-        <mark key="[" line="73" column="39" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+      <file name="/home/www/html/bul/sender/app/Presenters/ImportPresenter.php" timestamp="1520527868574">
+        <mark key="[" line="82" column="28" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/src/Translatable.php" timestamp="1491478738299">
         <mark key="[" line="11" column="22" />
@@ -6970,11 +6969,11 @@
       <jump line="68" column="30" filename="/home/www/html/bul/sender/app/Presenters/ImportPresenter.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c3RyaW5nICRhZGRyZXNzLCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXEFwcGxpY2F0aW9uXEZvcmJpZGRlblJlcXVlc3RFeGNlcHRpb247Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RyaW5nICRhZGRyZXNzLCA=</text>
+        <text encoding="base64">JHRoaXMtPmxvZ2dlci0+Y2hhbm5lbCgnYWNjZXNzJyktPmFkZEluZm8oJ29rJyk7</text>
       </register>
       <register name="/" type="4">
         <text>logExpo</text>
@@ -6983,35 +6982,43 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJZXhpdDsK</text>
+        <text encoding="base64">dXNlIE5ldHRlXEFwcGxpY2F0aW9uXEZvcmJpZGRlblJlcXVlc3RFeGNlcHRpb247Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZHVtcCgkcmVxdWVzdC0+Z2V0RmlsZXMoKSk7CgkJCWV4aXQ7</text>
+      <register name="2" type="2">
+        <text encoding="base64">CSAqIEB0aHJvd3MgRm9yYmlkZGVuUmVxdWVzdEV4Y2VwdGlvbgo=</text>
       </register>
-      <register name="3" type="4">
-        <text>dump($files);
-			exit;</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQl0aHJvdyBuZXcgQmFkUmVxdWVzdEV4Y2VwdGlvbigpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="4" type="4">
+        <text encoding="base64">aWYgKCRsb2cgPT09IG51bGwgJiYgJGV4cG9ydEZvciA9PT0gbnVsbCAmJiAkZmlsZU5hbWVzID09PSBudWxsKSB7CgkJCSR0aGlzLT5sb2dnZXItPmNoYW5uZWwoJ2FjY2VzcycpLT5hZGRJbmZvKCdmb3JiaWRkZW4gYWNjZXNzJyk7CgkJCXRocm93IG5ldyBGb3JiaWRkZW5SZXF1ZXN0RXhjZXB0aW9uKCk7CgkJfQ==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzLT5jcmVhdGVGaWx0ZXIoJGV4cG9ydGVkLCAkZGVsZXRlZCkpOwo=</text>
+      <register name="5" type="4">
+        <text>/** @var string|null $exportFor */
+		$exportFor = $parameters['for'] ?? null;
+		$all = isset($parameters['all']) ? null : false;
+		$fileNames = $parameters['fileNames'] ?? null;
+		$log = isset($parameters['log']);
+		
+		if ($fileNames !== null) {
+			$fileNames = array_map('trim', explode(',', $fileNames));
+		}</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJJXMK</text>
+      <register name="6" type="4">
+        <text>/**
+	 * @return TextResponse
+	 *
+	 * @throws BadRequestException
+	 */</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlkdW1wKCRkZWxldGVkKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">aWYgKCRleHBvcnRGb3IgIT09IG51bGwgJiYgJGZpbGVOYW1lcyA9PT0gbnVsbCkgewoJCQkvKgoJCQlpZiAoISRmaWxlcyA9ICR0aGlzLT5tb2RlbC0+ZmluZEZpbGVzQnlFeHBvcnRGb3IoJGV4cG9ydEZvcikpIHsKCQkJCXRocm93IG5ldyBCYWRSZXF1ZXN0RXhjZXB0aW9uKCk7CgkJCX0KCQkJKi8KCQkJCgkJCSRmaWxlcyA9ICR0aGlzLT5tb2RlbC0+ZmluZEZpbGVzQnlFeHBvcnRGb3IoJGV4cG9ydEZvciwgJGFsbCk7CgkJCSR6aXBGaWxlTmFtZSA9IChzdHJpbmcpIHRpbWUoKTsKCQkJCgkJCWZvcmVhY2ggKCRmaWxlcyBhcyAkaWQgPT4gJGZpbGUpIHsKCQkJCSR0aGlzLT5tb2RlbC0+YWRkRXhwb3J0TG9nKCRpZCk7CgkJCQkkdGhpcy0+bG9nZ2VyLT5jaGFubmVsKCdleHBvcnQnKS0+YWRkSW5mbyhzcHJpbnRmKCclZCAtICVzJywgJGlkLCAkZmlsZS0+ZmlsZW5hbWUpLAoJCQkJCVtzcHJpbnRmKCdleHBvcnRpbmc6ICVzIC0gJXMnLCAkZXhwb3J0Rm9yLCAkemlwRmlsZU5hbWUgLiAnLnppcCcpXSk7CgkJCX0KCQkJCgkJCXJldHVybiBuZXcgWmlwUmVzcG9uc2UoJHppcEZpbGVOYW1lLCAkZmlsZXMpOwoJCX0=</text>
       </register>
       <register name="8" type="4">
-        <text>dump($all);
-			exit;</text>
+        <text encoding="base64">aWYgKCRmaWxlTmFtZXMgIT09IG51bGwpIHsKCQkJJGZpbGVOYW1lcyA9IGFycmF5X21hcCgndHJpbScsIGV4cGxvZGUoJywnLCAkZmlsZU5hbWVzKSk7CgkJfQoJCQoJCSRyZXN1bHQgPSAkdGhpcy0+bW9kZWwtPmZpbmRJZHNCeUV4cG9ydEZvckFuZEZpbGVOYW1lcygkZm9yLCAkZmlsZU5hbWVzKTsKCQlpZiAoISRyZXN1bHQpIHsKCQkJdGhyb3cgbmV3IEJhZFJlcXVlc3RFeGNlcHRpb24oKTsKCQl9CgkJCgkJJHRoaXMtPm1vZGVsLT5tYXJrRXhwb3J0ZWQoYXJyYXlfa2V5cygkcmVzdWx0KSk7CgkJCgkJZm9yZWFjaCAoJHJlc3VsdCBhcyAkaWQgPT4gJHJvdykgewoJCQkkdGhpcy0+bG9nZ2VyLT5jaGFubmVsKCdleHBvcnQnKQoJCQkJLT5hZGRJbmZvKHNwcmludGYoJyVkIC0gJXMnLCAkaWQsICRyb3dbJ2ZpbGVOYW1lJ10pLAoJCQkJCVtzcHJpbnRmKCdleHBvcnRlZDogJXMnLCAkZm9yKV0pOwoJCX0KCQkKCQlyZXR1cm4gbmV3IFRleHRSZXNwb25zZSgnT0snKTs=</text>
       </register>
       <register name="9" type="4">
-        <text>elseif ($deleted === true) {
-			$filter .= ' AND bi.deleted IS NOT NULL';
-		}</text>
+        <text encoding="base64">aWYgKCRsb2cgJiYgJGV4cG9ydEZvciAhPT0gbnVsbCAmJiBcY291bnQoJHJlcXVlc3QtPmdldEZpbGVzKCkpID4gMCkgewoJCQkkbG9nVGV4dCA9ICcnOwoJCQkKCQkJLyoqIEB2YXIgRmlsZVVwbG9hZCAkZmlsZSAqLwoJCQlmb3JlYWNoICgkcmVxdWVzdC0+Z2V0RmlsZXMoKSBhcyAkZmlsZSkgewoJCQkJaWYgKCEkZmlsZS0+aXNPaygpKSB7CgkJCQkJcmV0dXJuIG5ldyBUZXh0UmVzcG9uc2UoJ0JhZCBmaWxlICInIC4gJGZpbGUtPmdldE5hbWUoKSAuICciJyk7CgkJCQl9CgkJCQkKCQkJCSRsb2dUZXh0IC49ICRmaWxlLT5nZXRDb250ZW50cygpOwoJCQl9CgkJCQoJCQkkdGhpcy0+bW9kZWwtPmFkZENsaWVudExvZygkZXhwb3J0Rm9yLCAkbG9nVGV4dCk7CgkJCQoJCQlyZXR1cm4gbmV3IFRleHRSZXNwb25zZSgnT0snKTsKCQl9</text>
       </register>
       <register name=":" type="4">
         <text>189</text>
