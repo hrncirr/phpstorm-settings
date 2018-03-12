@@ -3523,8 +3523,8 @@
         <mark key="]" line="144" column="4" />
         <mark key="." line="144" column="4" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/IMediaImporterControl.php" timestamp="1507214839071">
-        <mark key="[" line="12" column="0" />
+      <file name="/home/www/vendor/hrncirr/elfinder/src/IMediaImporterControl.php" timestamp="1520848823044">
+        <mark key="[" line="25" column="95" />
         <mark key="]" line="27" column="4" />
         <mark key="." line="27" column="4" />
       </file>
@@ -4242,7 +4242,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520845468189">
+      <file name="/Dummy.txt" timestamp="1520848844499">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
@@ -5691,6 +5691,11 @@
         <mark key="^" line="28" column="8" />
         <mark key="." line="29" column="26" />
       </file>
+      <file name="/home/www/vendor/hrncirr/elfinder/src/TMediaImporterControl.php" timestamp="1520848833541">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="4" />
+        <mark key="." line="48" column="4" />
+      </file>
       <file name="/home/www/html/nnb/aktuality/app/templates/Default/oivt.latte" timestamp="1478774910394">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -6954,52 +6959,58 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aWYgKCEkdGhpcy0+Z2V0UHJlc2VudGVyKCktPmlzQWpheCgpKSB7CgkJCQkkdGhpcy0+cmVkaXJlY3QoJ3RoaXMnKTsKCQkJfQ==</text>
+        <text>/**
+	 * @param MediaImporter              $mediaImporter
+	 * @param ElFinderFileConsumerDriver $elFinderFileConsumerDriver
+	 */</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">aWR4ICE9PSAtMSAmJg==</text>
       </register>
       <register name="/" type="4">
-        <text>logExpo</text>
+        <text>reset</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
+        <text>/**
+	 * @param MediaImporter              $mediaImporter
+	 * @param ElFinderFileConsumerDriver $elFinderFileConsumerDriver
+	 */</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">aWYgKCEkdGhpcy0+Z2V0UHJlc2VudGVyKCktPmlzQWpheCgpKSB7CgkJCQkkdGhpcy0+cmVkaXJlY3QoJ3RoaXMnKTsKCQkJfQ==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CQkJJHRoaXMtPmludm9pY2UgPSBudWxsOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkJCQkJCQkJY29uc29sZS5sb2coJChpbnB1dHNbaWR4ICsgMV0pLmRhdGEoJ2VudGVyLWFzLXRhYi1za2lwJykpOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJCQkJCWlmICgkKGlucHV0c1tpZHggKyAxXSkuZGF0YSgpKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJCQkJCSRpbnB1dCA9ICQoaW5wdXRzW2lkeCArIDFdKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdvaycpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPmxvZ0ZvcmJpZGVuQWNjZXNzKCk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJJHRoaXMtPmxvZ0ZvcmJpZGVuQWNjZXNzKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>189</text>
       </register>
     </registers>
     <search>
-      <last-search>logExpo</last-search>
+      <last-search>reset</last-search>
       <last-offset />
-      <last-pattern>logExpo</last-pattern>
+      <last-pattern>reset</last-pattern>
       <last-replace>email</last-replace>
       <last-substitute>recipient</last-substitute>
       <last-dir>1</last-dir>
@@ -7007,7 +7018,6 @@
     </search>
     <history>
       <history-search>
-        <entry>channel</entry>
         <entry>setMediaImportId</entry>
         <entry>MediaImport</entry>
         <entry>onBeforeImport</entry>
@@ -7027,6 +7037,7 @@
         <entry>count</entry>
         <entry>addExport</entry>
         <entry>logExpo</entry>
+        <entry>reset</entry>
       </history-search>
       <history-cmd>
         <entry>407</entry>
