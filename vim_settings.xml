@@ -502,12 +502,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/EmailForm/EmailForm.php" timestamp="1520858157720">
-        <mark key="'" line="242" column="24" />
-        <mark key="[" line="122" column="68" />
-        <mark key="]" line="228" column="46" />
-        <mark key="." line="228" column="46" />
-        <mark key="^" line="228" column="46" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/EmailForm/EmailForm.php" timestamp="1520860877457">
+        <mark key="'" line="269" column="24" />
+        <mark key="[" line="82" column="52" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Filters/EmailFilter.php" timestamp="1475670030858">
         <mark key="[" line="10" column="18" />
@@ -989,10 +988,10 @@
         <mark key="]" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/DI/config.neon" timestamp="1519201051102">
-        <mark key="[" line="23" column="31" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/DI/config.neon" timestamp="1520861194061">
+        <mark key="[" line="3" column="89" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="/home/www/html/bul/sender/index.php" timestamp="1519213127037">
         <mark key="[" line="1" column="0" />
@@ -6968,11 +6967,11 @@
       <jump line="68" column="30" filename="/home/www/html/bul/sender/app/Presenters/ImportPresenter.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>EntityForm $form</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>EntityForm $form</text>
+        <text>FileStorage $fileStorage,</text>
       </register>
       <register name="/" type="4">
         <text>reset</text>
@@ -6981,34 +6980,40 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lRm9ybXNcRW50aXR5Rm9ybTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CQkJLSBzZXRGaWxlU3RvcmFnZShAaHJuY2lyci5tZWRpYS5maWxlLnN0b3JhZ2UpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQlzZXR1cDoK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkkdGhpcy0+ZmlsZVN0b3JhZ2UgPSAkZmlsZVN0b3JhZ2U7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CSAqIEBwYXJhbSBGaWxlU3RvcmFnZSAgICAgICAgJGZpbGVTdG9yYWdlCg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>/**
+	 * @param IDocument          $document
+	 * @param PdfResponseFactory $pdfResponseFactory
+	 * @param IMailer            $mailer
+	 * @param ValidatorInterface $validator
+	 * @param EntityManager      $em
+	 */</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lRm9ybXNcRW50aXR5Rm9ybTsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CQkJCQkJCQkJY29uc29sZS5sb2coJChpbnB1dHNbaWR4ICsgMV0pKTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text>/**
 	 * @param MediaImporter              $mediaImporter
 	 * @param ElFinderFileConsumerDriver $elFinderFileConsumerDriver
 	 */</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">aWYgKCEkdGhpcy0+Z2V0UHJlc2VudGVyKCktPmlzQWpheCgpKSB7CgkJCQkkdGhpcy0+cmVkaXJlY3QoJ3RoaXMnKTsKCQkJfQ==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPmludm9pY2UgPSBudWxsOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCQkJY29uc29sZS5sb2coJChpbnB1dHNbaWR4ICsgMV0pLmRhdGEoJ2VudGVyLWFzLXRhYi1za2lwJykpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCWlmICgkKGlucHV0c1tpZHggKyAxXSkuZGF0YSgpKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCSRpbnB1dCA9ICQoaW5wdXRzW2lkeCArIDFdKTsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>189</text>
