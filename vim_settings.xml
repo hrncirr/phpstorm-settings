@@ -3813,10 +3813,10 @@
         <mark key="]" line="37" column="37" />
         <mark key="." line="37" column="37" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoicesGrid/InvoicesGrid.php" timestamp="1520848130218">
-        <mark key="[" line="157" column="40" />
-        <mark key="]" line="154" column="12" />
-        <mark key="." line="154" column="12" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoicesGrid/InvoicesGrid.php" timestamp="1520851072571">
+        <mark key="[" line="158" column="23" />
+        <mark key="]" line="158" column="23" />
+        <mark key="." line="158" column="23" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Latte/CMPProvider.php" timestamp="1496048680217">
         <mark key="[" line="47" column="21" />
@@ -6959,13 +6959,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/**
-	 * @param MediaImporter              $mediaImporter
-	 * @param ElFinderFileConsumerDriver $elFinderFileConsumerDriver
-	 */</text>
+        <text>mediaImportId = null;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aWR4ICE9PSAtMSAmJg==</text>
+        <text>mediaImportId = null;</text>
       </register>
       <register name="/" type="4">
         <text>reset</text>
