@@ -996,7 +996,6 @@
         <mark key="]" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="/home/www/html/bul/sender/app/config/config.local.neon" timestamp="1520415964629" />
       <file name="/home/www/html/dv/adera/Modules/Invoicing/DI/config.neon" timestamp="1519201051102">
         <mark key="[" line="23" column="31" />
         <mark key="]" line="1" column="0" />
@@ -3122,10 +3121,10 @@
         <mark key="]" line="67" column="14" />
         <mark key="." line="67" column="14" />
       </file>
-      <file name="/home/www/html/dv/adera/www/js/form.enter.as.tab.js" timestamp="1519983612203">
-        <mark key="[" line="56" column="16" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="/home/www/html/dv/adera/www/js/form.enter.as.tab.js" timestamp="1520845959118">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Storage/AdminModule/Components/ItemsGrid/ItemsGrid.php" timestamp="1497598692910">
         <mark key="[" line="34" column="4" />
@@ -4264,7 +4263,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520584909267">
+      <file name="/Dummy.txt" timestamp="1520845468189">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
@@ -6973,7 +6972,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPmxvZ0ZvcmJpZGVuQWNjZXNzKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">aXNfc3RyaW5nKCRhcmcpICYmIA==</text>
@@ -6985,12 +6984,18 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPmxvZ0ZvcmJpZGVuQWNjZXNzKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdvaycpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJJHRoaXMtPmxvZ0ZvcmJpZGVuQWNjZXNzKCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>/**
 	 * @param Request $request
 	 *
@@ -6999,7 +7004,7 @@
 	 * @throws BadRequestException
 	 */</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>/**
 	 * @param string      $for
 	 * @param null|string $all
@@ -7007,25 +7012,17 @@
 	 * @return ZipResponse
 	 */</text>
       </register>
-      <register name="5" type="4">
-        <text>dump($args);
-		exit;</text>
-      </register>
-      <register name="6" type="4">
-        <text>dump($params);
-		exit;</text>
-      </register>
       <register name="7" type="4">
         <text>dump($args);
 		exit;</text>
       </register>
       <register name="8" type="4">
-        <text>$args = array_map(function ($arg) {
-			return $arg !== '' ? $arg : true;
-		}, $args);</text>
+        <text>dump($params);
+		exit;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="9" type="4">
+        <text>dump($args);
+		exit;</text>
       </register>
       <register name=":" type="4">
         <text>189</text>
