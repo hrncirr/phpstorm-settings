@@ -2649,7 +2649,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Money/Doctrine/Types/MoneyType.php" timestamp="1521030693495">
+      <file name="/home/www/html/dv/adera/Modules/Money/Doctrine/Types/MoneyType.php" timestamp="1521034827782">
         <mark key="[" line="45" column="15" />
         <mark key="]" line="45" column="37" />
         <mark key="^" line="45" column="37" />
@@ -4180,8 +4180,10 @@
         <mark key="]" line="29" column="36" />
         <mark key="." line="29" column="36" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Money/Utils/Money.php" timestamp="1521022465415">
-        <mark key="[" line="8" column="23" />
+      <file name="/home/www/html/dv/adera/Modules/Money/Utils/Money.php" timestamp="1521035240053">
+        <mark key="[" line="24" column="36" />
+        <mark key="]" line="24" column="36" />
+        <mark key="." line="24" column="36" />
       </file>
       <file name="/home/www/html/bul/lv/app/Model/Model.php" timestamp="1521033353733">
         <mark key="[" line="49" column="14" />
@@ -5171,8 +5173,8 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Events/ItemFileImportSubscriber.php" timestamp="1513261152461">
-        <mark key="[" line="25" column="49" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/Events/ItemFileImportSubscriber.php" timestamp="1521035117483">
+        <mark key="[" line="58" column="45" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
@@ -6379,10 +6381,10 @@
         <mark key="]" line="14" column="55" />
         <mark key="." line="14" column="55" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Money/Forms/Controls/MoneyInput.php" timestamp="1521032097093">
-        <mark key="[" line="41" column="8" />
-        <mark key="]" line="41" column="8" />
-        <mark key="." line="41" column="8" />
+      <file name="/home/www/html/dv/adera/Modules/Money/Forms/Controls/MoneyInput.php" timestamp="1521035691012">
+        <mark key="[" line="35" column="57" />
+        <mark key="]" line="35" column="57" />
+        <mark key="." line="35" column="57" />
         <mark key="^" line="24" column="21" />
       </file>
       <file name="/home/www/html/dv/cms/app/Extensions/Configurators/ExtensionConfig.php" timestamp="1505295912083">
@@ -7018,10 +7020,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dGhpcy0+Y3JlYXRlRmlsdGVyKCRleHBvcnRlZCwgJGRlbGV0ZWQp</text>
+        <text>number_format((float) $value,2)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhpcy0+Y3JlYXRlRmlsdGVyKCRleHBvcnRlZCwgJGRlbGV0ZWQp</text>
+        <text>number_format((float) $value,2)</text>
       </register>
       <register name="/" type="4">
         <text>getForma</text>
