@@ -2410,10 +2410,10 @@
         <mark key="]" line="167" column="16" />
         <mark key="." line="167" column="16" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/TPrice.php" timestamp="1521032745054">
-        <mark key="[" line="10" column="11" />
-        <mark key="]" line="73" column="4" />
-        <mark key="." line="73" column="4" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/TPrice.php" timestamp="1521037392925">
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="47" column="4" />
+        <mark key="." line="47" column="4" />
       </file>
       <file name="/home/www/html/nnb/nezadouci-udalosti/app/Components/IncidentViewer.php" timestamp="1482400217288">
         <mark key="[" line="95" column="29" />
@@ -2865,7 +2865,7 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1521031685295">
+      <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1521037448558">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
@@ -4049,8 +4049,10 @@
         <mark key="]" line="25" column="4" />
         <mark key="." line="25" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/BaseItem.php" timestamp="1521032540044">
-        <mark key="[" line="65" column="18" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/BaseItem.php" timestamp="1521037188746">
+        <mark key="[" line="61" column="4" />
+        <mark key="]" line="61" column="4" />
+        <mark key="." line="61" column="4" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressForm/AddressForm.php" timestamp="1519989548163">
         <mark key="[" line="102" column="0" />
@@ -4180,10 +4182,10 @@
         <mark key="]" line="29" column="36" />
         <mark key="." line="29" column="36" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Money/Utils/Money.php" timestamp="1521035240053">
-        <mark key="[" line="24" column="36" />
-        <mark key="]" line="24" column="36" />
-        <mark key="." line="24" column="36" />
+      <file name="/home/www/html/dv/adera/Modules/Money/Utils/Money.php" timestamp="1521038164346">
+        <mark key="[" line="28" column="31" />
+        <mark key="]" line="28" column="31" />
+        <mark key="." line="28" column="31" />
       </file>
       <file name="/home/www/html/bul/lv/app/Model/Model.php" timestamp="1521033353733">
         <mark key="[" line="49" column="14" />
@@ -4290,7 +4292,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521034528561">
+      <file name="/Dummy.txt" timestamp="1521037028046">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
@@ -6381,11 +6383,10 @@
         <mark key="]" line="14" column="55" />
         <mark key="." line="14" column="55" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Money/Forms/Controls/MoneyInput.php" timestamp="1521035691012">
-        <mark key="[" line="35" column="57" />
-        <mark key="]" line="35" column="57" />
-        <mark key="." line="35" column="57" />
-        <mark key="^" line="24" column="21" />
+      <file name="/home/www/html/dv/adera/Modules/Money/Forms/Controls/MoneyInput.php" timestamp="1521037887101">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/app/Extensions/Configurators/ExtensionConfig.php" timestamp="1505295912083">
         <mark key="[" line="15" column="0" />
@@ -7020,10 +7021,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>number_format((float) $value,2)</text>
+        <text encoding="base64">dHJfcmVwbGFjZSgnLicsICcsJywg</text>
       </register>
       <register name="-" type="4">
-        <text>number_format((float) $value,2)</text>
+        <text encoding="base64">dHJfcmVwbGFjZSgnLicsICcsJywg</text>
       </register>
       <register name="/" type="4">
         <text>getForma</text>
@@ -7031,43 +7032,43 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQl9Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQlpZiAoJHZhbHVlICE9PSBudWxsKSB7Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">LyoKCQkkdmFsdWUgPSAkdmFsdWUgIT09IG51bGwgPyBzdHJfcmVwbGFjZSgnLicsICcsJywgJHZhbHVlKSA6IG51bGw7CgkJCgkJaWYgKCFlbXB0eSgkdmFsdWUpICYmICRwYXJ0cyA9IGV4cGxvZGUoJywnLCAkdmFsdWUpKSB7CgkJCSRwYXJ0c1sxXSA9IGlzc2V0KCRwYXJ0c1sxXSkgPyBzdHJfcGFkKCRwYXJ0c1sxXSwgMiwgJzAnKSA6ICcwMCc7CgkJCSR2YWx1ZSA9IGltcGxvZGUoJywnLCAkcGFydHMpOwoJCX0KCQkqLw==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkkdmFsdWUgPSBzdHJfcmVwbGFjZSgnLicsICcsJywgJGFtb3VudCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJZHVtcCgkcGFydHMpOwo=</text>
+      </register>
+      <register name="7" type="4">
         <text>/**
-	 * @ORM\Column(type=&quot;money&quot;)
+	 * @ORM\Column(type=&quot;integer&quot;)
 	 * @Assert\NotBlank()
 	 * @Assert\Type(
-	 *      type=&quot;numeric&quot;
+	 *      type=&quot;decimal&quot;
 	 * )
 	 * @Assert\Range(
 	 *      min = 0
 	 * )
-	 * @var string
+	 * @var int
 	 */
 	private $price;</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIHN0cmluZ3xudWxsCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRQcmljZSgpOiA/c3RyaW5nCgl7CgkJcmV0dXJuICR0aGlzLT5wcmljZTsKCX0KCQoJCgkvKioKCSAqIEBwYXJhbSBzdHJpbmcgJHByaWNlCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRQcmljZShzdHJpbmcgJHByaWNlKTogdm9pZAoJewoJCSR0aGlzLT5wcmljZSA9ICRwcmljZTsKCX0=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIGludHxudWxsCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXREaXNjb3VudCgpOiA/aW50Cgl7CgkJcmV0dXJuICR0aGlzLT5kaXNjb3VudDsKCX0KCQoJCgkvKioKCSAqIEBwYXJhbSBpbnR8bnVsbCAkZGlzY291bnQKCSAqLwoJcHVibGljIGZ1bmN0aW9uIHNldERpc2NvdW50KD9pbnQgJGRpc2NvdW50KTogdm9pZAoJewoJCSR0aGlzLT5kaXNjb3VudCA9ICRkaXNjb3VudDsKCX0=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">LyoqCgkgKiBAT1JNXENvbHVtbih0eXBlPSJpbnRlZ2VyIiwgbnVsbGFibGU9dHJ1ZSkKCSAqIEBBc3NlcnRcVHlwZSgKCSAqICAgICAgdHlwZT0iZGVjaW1hbCIKCSAqICkKCSAqIEBBc3NlcnRcUmFuZ2UoCgkgKiAgICAgIG1pbj0xLAoJICogICAgICBtYXg9MTAwCgkgKiApCgkgKiBAdmFyIGludAoJICovCglwcml2YXRlICRkaXNjb3VudDsK</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ZHVtcChzdHJfcmVwbGFjZSgnLCcsICcuJywgJHRoaXMtPnZhbHVlKSk7CgkJZXhpdDsKCQk=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldEZvcm1hdHRlZFByaWNlKCk6IHN0cmluZwoJewoJCXJldHVybiBtb25leV9mb3JtYXQoJyUuMG4nLCAkdGhpcy0+cHJpY2UpOwoJfQ==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXEZvcm1zXENvbnRhaW5lcjsK</text>
-      </register>
       <register name="8" type="4">
-        <text encoding="base64">LT5hZGRGaWx0ZXIoZnVuY3Rpb24gKCR2YWx1ZSkgewoJCQkJcmV0dXJuIHN0cl9yZXBsYWNlKCcsJywgJy4nLCAkdmFsdWUpOwoJCQl9KTs=</text>
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIGludHxudWxsCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRQcmljZSgpOiA/aW50Cgl7CgkJcmV0dXJuICR0aGlzLT5wcmljZTsKCX0KCQoJCgkvKioKCSAqIEBwYXJhbSBpbnR8bnVsbCAkcHJpY2UKCSAqLwoJcHVibGljIGZ1bmN0aW9uIHNldFByaWNlKD9pbnQgJHByaWNlKTogdm9pZAoJewoJCSR0aGlzLT5wcmljZSA9ICRwcmljZTsKCX0=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkkdGhpcy0+Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIHN0cmluZ3xudWxsCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRQcmljZSgpOiA/c3RyaW5nCgl7CgkJcmV0dXJuICR0aGlzLT5wcmljZTsKCX0KCQoJCgkvKioKCSAqIEBwYXJhbSBzdHJpbmd8bnVsbCAkcHJpY2UKCSAqLwoJcHVibGljIGZ1bmN0aW9uIHNldFByaWNlKHN0cmluZyAkcHJpY2UpOiB2b2lkCgl7CgkJJHRoaXMtPnByaWNlID0gJHByaWNlOwoJfQ==</text>
       </register>
       <register name=":" type="4">
         <text>189</text>
