@@ -1072,8 +1072,8 @@
         <mark key="]" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="/home/www/html/dv/adera/libs/vendor/doctrine/dbal/lib/Doctrine/DBAL/Types/Type.php" timestamp="1521012446589">
-        <mark key="'" line="56" column="22" />
+      <file name="/home/www/html/dv/adera/libs/vendor/doctrine/dbal/lib/Doctrine/DBAL/Types/Type.php" timestamp="1521017681764">
+        <mark key="'" line="33" column="15" />
       </file>
       <file name="/home/www/vendor/hrncirr/media/src/MediaLinkGenerator.php" timestamp="1477915627710">
         <mark key="[" line="71" column="42" />
@@ -1199,6 +1199,11 @@
         <mark key="[" line="28" column="36" />
         <mark key="]" line="44" column="12" />
         <mark key="." line="44" column="12" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Doctrine/Types/MoneyType.php" timestamp="1521017707569">
+        <mark key="[" line="47" column="4" />
+        <mark key="]" line="47" column="4" />
+        <mark key="." line="47" column="4" />
       </file>
       <file name="/home/www/html/nnb/dms/app/templates/Document/tab-versions.latte" timestamp="1488189425653">
         <mark key="[" line="2" column="1" />
@@ -1485,10 +1490,10 @@
         <mark key="]" line="61" column="4" />
         <mark key="." line="61" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/app/src/Doctrine/Types/MoneyType.php" timestamp="1521016106737">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+      <file name="/home/www/html/dv/adera/app/src/Doctrine/Types/MoneyType.php" timestamp="1521017620040">
+        <mark key="[" line="87" column="15" />
+        <mark key="]" line="87" column="15" />
+        <mark key="." line="87" column="15" />
       </file>
       <file name="/home/www/vendor/hrncirr/control-token/src/ControlToken.php" timestamp="1474463484944">
         <mark key="[" line="42" column="20" />
@@ -2511,10 +2516,10 @@
         <mark key="]" line="22" column="4" />
         <mark key="." line="22" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Item.php" timestamp="1521014320918">
-        <mark key="[" line="332" column="36" />
-        <mark key="]" line="278" column="30" />
-        <mark key="." line="278" column="30" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/Item.php" timestamp="1521017812459">
+        <mark key="[" line="331" column="0" />
+        <mark key="]" line="331" column="0" />
+        <mark key="." line="331" column="0" />
         <mark key="^" line="124" column="29" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/client-side/js/hrncirr.cmp.mediaelement.player.init.js" timestamp="1477049218979">
@@ -2853,8 +2858,8 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1521013487250">
-        <mark key="[" line="3" column="4" />
+      <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1521017738657">
+        <mark key="[" line="50" column="15" />
       </file>
       <file name="/home/www/html/dv/cms/src/Admin/AdminModule/Presenters/BasePresenter.php" timestamp="1506507163228">
         <mark key="[" line="31" column="0" />
@@ -6855,7 +6860,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="15" filename="/home/www/html/dv/adera/libs/vendor/nette/application/src/Application/UI/Component.php" />
       <jump line="32" column="21" filename="/home/www/vendor/hrncirr/modals/src/Components/ModalControl/ModalControl.php" />
       <jump line="89" column="22" filename="/home/www/vendor/hrncirr/modals/src/Components/ModalControl/ModalControl.php" />
       <jump line="94" column="20" filename="/home/www/vendor/hrncirr/modals/src/Components/ModalControl/ModalControl.php" />
@@ -6955,57 +6959,97 @@
       <jump line="159" column="16" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/EmailForm/EmailForm.php" />
       <jump line="160" column="16" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/EmailForm/EmailForm.php" />
       <jump line="56" column="22" filename="/home/www/html/dv/adera/libs/vendor/doctrine/dbal/lib/Doctrine/DBAL/Types/Type.php" />
+      <jump line="33" column="15" filename="/home/www/html/dv/adera/libs/vendor/doctrine/dbal/lib/Doctrine/DBAL/Types/Type.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlkdW1wKCR2YWx1ZSk7Cg==</text>
+        <text encoding="base64">CQlkdW1wKCR0aGlzLT5wcmljZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>, new Currency('CZK')</text>
+        <text>(null === $value) ? null : (int)</text>
       </register>
       <register name="/" type="4">
-        <text>canRequire</text>
+        <text>requires</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlkdW1wKCR2YWx1ZSk7Cg==</text>
+        <text encoding="base64">CQlkdW1wKCR0aGlzLT5wcmljZSk7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJLT5hZGRSdWxlKEZvcm06OikK</text>
+      <register name="2" type="4">
+        <text>/**
+	 * {@inheritdoc}
+	 */
+	public function getBindingType()
+	{
+		return \PDO::PARAM_INT;
+	}</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJcRWxGaW5kZXJcRG9jdHJpbmVcRWxGaW5kZXJGaWxlQ29uc3VtZXI7Cg==</text>
+      <register name="3" type="4">
+        <text>/**
+	 * {@inheritdoc}
+	 */
+	public function canRequireSQLConversion()
+	{
+		return false;
+	}
+	
+	
+	/**
+	 * {@inheritdoc}
+	 */
+	public function requiresSQLCommentHint(AbstractPlatform $platform)
+	{
+		return true;
+	}
+	
+	
+	/**
+	 * {@inheritdoc}
+	 */
+	public function convertToDatabaseValueSQL($sqlExpr, AbstractPlatform $platform)
+	{
+		return $sqlExpr . ' / 100';
+	}
+	
+	
+	/**
+	 * {@inheritdoc}
+	 *
+	 * No AbstractPlatform hint here...
+	 */
+	public function convertToPHPValueSQL($sqlExpr, $platform)
+	{
+		return $sqlExpr . ' * 100';
+	}</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGNyZWF0ZURpYWxvZyhzdHJpbmcgJG1lZGlhSW1wb3J0SWQgPSBudWxsLCBFbEZpbmRlckZpbGVDb25zdW1lciAkbmV3cykKCXsKCQkkY29udHJvbCA9ICR0aGlzLT5jb250cm9sRmFjdG9yeS0+Y3JlYXRlRGlhbG9nKCk7CgkJJHRoaXMtPmNvbmZpZ3VyZSgkbWVkaWFJbXBvcnRJZCwgJGNvbnRyb2wsICRuZXdzKTsKCgkJcmV0dXJuICRjb250cm9sOwoJfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">dXNlIE1vbmV5XE1vbmV5Owo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGNyZWF0ZShzdHJpbmcgJG1lZGlhSW1wb3J0SWQgPSBudWxsLCBJRWxGaW5kZXJGaWxlQ29uc3VtZXIgJGVsRmluZGVyRmlsZUNvbnN1bWVyKQoJewoJCSRjb250cm9sID0gJHRoaXMtPmNvbnRyb2xGYWN0b3J5LT5jcmVhdGUoKTsKCQkkdGhpcy0+Y29uZmlndXJlKCRtZWRpYUltcG9ydElkLCAkY29udHJvbCwgJGVsRmluZGVyRmlsZUNvbnN1bWVyKTsKCgkJcmV0dXJuICRjb250cm9sOwoJfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">dXNlIE1vbmV5XEZvcm1hdHRlclxJbnRsTW9uZXlGb3JtYXR0ZXI7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGNyZWF0ZShJRWxGaW5kZXJGaWxlQ29uc3VtZXIgJGVsRmluZGVyRmlsZUNvbnN1bWVyKQoJewoJCSRjb250cm9sID0gJHRoaXMtPmNvbnRyb2xGYWN0b3J5LT5jcmVhdGUoKTsKCQkkdGhpcy0+Y29uZmlndXJlKCRjb250cm9sLCAkZWxGaW5kZXJGaWxlQ29uc3VtZXIpOwoKCQlyZXR1cm4gJGNvbnRyb2w7Cgl9</text>
+      <register name="6" type="2">
+        <text encoding="base64">dXNlIE1vbmV5XEN1cnJlbmNpZXNcSVNPQ3VycmVuY2llczsK</text>
       </register>
-      <register name="7" type="4">
-        <text>@Assert\Range(
-	 *      min = 0
-	 * )</text>
+      <register name="7" type="2">
+        <text encoding="base64">dXNlIERvY3RyaW5lXERCQUxcVHlwZXNcRGVjaW1hbFR5cGU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCS8vZmNsb3NlKCRmaWxlKTsK</text>
+        <text encoding="base64">CQkvL3JldHVybiBNb25leTo6Q1pLKChzdHJpbmcpICR2YWx1ZSk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCS8vZHVtcCgkZWxGaW5kZXJGaWxlLT5nZXRGaWxlKCkpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">JGN1cnJlbmNpZXMgPSBuZXcgSVNPQ3VycmVuY2llcygpOwoKCQkkbnVtYmVyRm9ybWF0dGVyID0gbmV3IFxOdW1iZXJGb3JtYXR0ZXIoJ2NzX0NaJywgXE51bWJlckZvcm1hdHRlcjo6Q1VSUkVOQ1kpOwoJCSRtb25leUZvcm1hdHRlciA9IG5ldyBJbnRsTW9uZXlGb3JtYXR0ZXIoJG51bWJlckZvcm1hdHRlciwgJGN1cnJlbmNpZXMpOwoJCQoJCU1vbmV5OjpDWksoKHN0cmluZykgJHZhbHVlKS0+CgkJCgkJLy9kdW1wKCRtb25leUZvcm1hdHRlci0+Zm9ybWF0KE1vbmV5OjpDWksoKHN0cmluZykgJHZhbHVlKSkpOw==</text>
       </register>
       <register name=":" type="4">
         <text>189</text>
       </register>
     </registers>
     <search>
-      <last-search>canRequire</last-search>
+      <last-search>requires</last-search>
       <last-offset />
-      <last-pattern>canRequire</last-pattern>
+      <last-pattern>requires</last-pattern>
       <last-replace>email</last-replace>
       <last-substitute>recipient</last-substitute>
       <last-dir>1</last-dir>
@@ -7013,7 +7057,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onBeforeImport</entry>
         <entry>setFact</entry>
         <entry>setArguments</entry>
         <entry>IEl</entry>
@@ -7033,6 +7076,7 @@
         <entry>reset</entry>
         <entry>dump</entry>
         <entry>canRequire</entry>
+        <entry>requires</entry>
       </history-search>
       <history-cmd>
         <entry>407</entry>
