@@ -2415,11 +2415,6 @@
         <mark key="]" line="41" column="37" />
         <mark key="." line="41" column="37" />
       </file>
-      <file name="/home/www/html/bul/lv/app/config/config.neon" timestamp="1521101666114">
-        <mark key="[" line="13" column="28" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/EmployeesGrid/EmployeesGrid.php" timestamp="1503311951639">
         <mark key="[" line="167" column="16" />
         <mark key="]" line="167" column="16" />
@@ -6222,6 +6217,9 @@
         <mark key="]" line="17" column="57" />
         <mark key="." line="17" column="57" />
       </file>
+      <file name="/home/www/html/bul/lv/app/config/config.local.neon" timestamp="1521105714093">
+        <mark key="[" line="8" column="4" />
+      </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Compiler/Compiler.php" timestamp="1519899952073">
         <mark key="[" line="33" column="4" />
         <mark key="]" line="33" column="4" />
@@ -7029,8 +7027,10 @@
       <jump line="148" column="0" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoicesGrid/InvoicesGrid.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAkjLSBJbXBvcnQK</text>
+      <register name="&quot;" type="4">
+        <text>httpAuth:
+    credentials:
+        lv: derObCeOv2obCipN</text>
       </register>
       <register name="-" type="4">
         <text>Nette\Application\</text>
@@ -7041,32 +7041,34 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAkjLSBJbXBvcnQK</text>
+      <register name="1" type="4">
+        <text>httpAuth:
+    credentials:
+        lv: derObCeOv2obCipN</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByZXNlbnRlcnM6Cg==</text>
+        <text encoding="base64">ICAgIAkjLSBJbXBvcnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyMjogcGFzc3dvcmQyCg==</text>
+        <text encoding="base64">ICAgIHByZXNlbnRlcnM6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmV0dXJuICRjb250YWluZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VyMjogcGFzc3dvcmQyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8kY29udGFpbmVyLT5hZGRTZXJ2aWNlKCdyb3V0ZXInLCBuZXcgXE5ldHRlXEFwcGxpY2F0aW9uXFJvdXRlcnNcU2ltcGxlUm91dGVyKCdJbXBvcnQ6JykpOwo=</text>
+        <text encoding="base64">cmV0dXJuICRjb250YWluZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXERJXENvbnRhaW5lcjsK</text>
+        <text encoding="base64">Ly8kY29udGFpbmVyLT5hZGRTZXJ2aWNlKCdyb3V0ZXInLCBuZXcgXE5ldHRlXEFwcGxpY2F0aW9uXFJvdXRlcnNcU2ltcGxlUm91dGVyKCdJbXBvcnQ6JykpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXEFwcGxpY2F0aW9uXFJvdXRlcnNcUm91dGVMaXN0Owo=</text>
+        <text encoding="base64">dXNlIE5ldHRlXERJXENvbnRhaW5lcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEFyYWNobmVcRW50aXR5TG9hZGVyXFJvdXRpbmdcUm91dGU7Cg==</text>
+        <text encoding="base64">dXNlIE5ldHRlXEFwcGxpY2F0aW9uXFJvdXRlcnNcUm91dGVMaXN0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEFwcFxVc2Vyc1xVc2VyQ29udGV4dDsK</text>
+        <text encoding="base64">dXNlIEFyYWNobmVcRW50aXR5TG9hZGVyXFJvdXRpbmdcUm91dGU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>189</text>
