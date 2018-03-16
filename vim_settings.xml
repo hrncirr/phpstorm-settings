@@ -2478,8 +2478,10 @@
         <mark key="]" line="105" column="15" />
         <mark key="." line="105" column="15" />
       </file>
-      <file name="/home/www/html/bul/lv/app/Presenters/ImportPresenter.php" timestamp="1521033541299">
-        <mark key="[" line="123" column="66" />
+      <file name="/home/www/html/bul/lv/app/Presenters/ImportPresenter.php" timestamp="1521201340529">
+        <mark key="[" line="208" column="36" />
+        <mark key="]" line="198" column="33" />
+        <mark key="." line="198" column="33" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/locale/validators.cs_CZ.neon" timestamp="1506349265417">
         <mark key="[" line="4" column="0" />
@@ -4205,10 +4207,10 @@
         <mark key="]" line="28" column="31" />
         <mark key="." line="28" column="31" />
       </file>
-      <file name="/home/www/html/bul/lv/app/Model/Model.php" timestamp="1521033353733">
-        <mark key="[" line="49" column="14" />
-        <mark key="]" line="49" column="14" />
-        <mark key="." line="49" column="14" />
+      <file name="/home/www/html/bul/lv/app/Model/Model.php" timestamp="1521201941474">
+        <mark key="[" line="113" column="12" />
+        <mark key="]" line="111" column="11" />
+        <mark key="." line="111" column="11" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Components/TechnicalRequisitionImagesControl/TechnicalRequisitionImagesControl.php" timestamp="1507905702526">
         <mark key="[" line="11" column="18" />
@@ -6235,9 +6237,6 @@
         <mark key="]" line="17" column="57" />
         <mark key="." line="17" column="57" />
       </file>
-      <file name="/home/www/html/bul/lv/app/config/config.local.neon" timestamp="1521109551949">
-        <mark key="[" line="8" column="4" />
-      </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Compiler/Compiler.php" timestamp="1519899952073">
         <mark key="[" line="33" column="4" />
         <mark key="]" line="33" column="4" />
@@ -7046,13 +7045,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/**
-	 * @var EntityManager
-	 */
-	private $em;</text>
+        <text>'id')</text>
       </register>
       <register name="-" type="4">
-        <text>EntityManager $em,</text>
+        <text>'id')</text>
       </register>
       <register name="/" type="4">
         <text>getForma</text>
@@ -7060,41 +7056,35 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
-        <text>/**
-	 * @var EntityManager
-	 */
-	private $em;</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkkcmVzdWx0ID0gY291bnQoJHJlc3VsdCkgPiAwID8gJHJlc3VsdFswXSA6IG51bGw7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkkdGhpcy0+ZW0gPSAkZW07Cg==</text>
+        <text encoding="base64">CQkJc3Uuc29mdHdhcmVfdmVyc2lvbiA+ID8K</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">JGJ1aWxkZXItPmFkZERlZmluaXRpb24oJHRoaXMtPnByZWZpeCgnY29udHJhY3RGaWxlSW1wb3J0U3Vic2NyaWJlcicpKQoJCQktPnNldEZhY3RvcnkoQ29udHJhY3RGaWxlSW1wb3J0U3Vic2NyaWJlcjo6Y2xhc3MpCgkJCS0+c2V0QXJndW1lbnRzKFskdGhpcy0+Y29uZmlnWydjb250cmFjdHNSb290RGlyTmFtZSddXSkKCQkJLT5zZXRBdXRvd2lyZWQoZmFsc2UpCgkJCS0+YWRkVGFnKEV2ZW50c0V4dGVuc2lvbjo6VEFHX1NVQlNDUklCRVIpOw==</text>
+        <text>xport_for = ?
+			AND
+			bi.export_filename IN (?)
+			%s</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXNlIEludm9pY2luZ1xCdXNpbmVzc0Nhc2U7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">JHRoaXMtPmRhdGFiYXNlLT5xdWVyeSgnCgkJCVVQREFURSBleHBvcnRzLmJsb2JfaW1wb3J0CgkJCVNFVCBleHBvcnRlZCA9ID8KCQkJV0hFUkUKCQkJaWQgSU4gKD8pCgkJCUFORAoJCQlleHBvcnRlZCBJUyBOVUxMCgkJCUFORAoJCQlkZWxldGVkIElTIE5VTEwKCQknLCBuZXcgRGF0ZVRpbWUoKSwgJGlkcyk7</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIEVsRmluZGVyRmlsZXxudWxsCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRGaWxlUm9vdCgpOiA/RWxGaW5kZXJGaWxlCgl7CgkJcmV0dXJuICR0aGlzLT5maWxlUm9vdDsKCX0KCQoJCgkvKioKCSAqIEBwYXJhbSBFbEZpbmRlckZpbGUgJGZpbGVSb290CgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRGaWxlUm9vdChFbEZpbmRlckZpbGUgJGZpbGVSb290KQoJewoJCSR0aGlzLT5maWxlUm9vdCA9ICRmaWxlUm9vdDsKCX0=</text>
+        <text encoding="base64">JHRoaXMtPmRhdGFiYXNlLT5xdWVyeSgnCgkJCUlOU0VSVCBJTlRPIGV4cG9ydHMuY2xpZW50c19sb2cgKGFkZHJlc3MsIGV4cG9ydF9mb3IsIGxvZ190ZXh0KSBWQUxVRVMgKD8sID8sID8pCgkJJywgJHRoaXMtPmh0dHBSZXF1ZXN0LT5nZXRSZW1vdGVBZGRyZXNzKCksICRmb3IsICR0ZXh0KTs=</text>
       </register>
-      <register name="6" type="4">
-        <text>/**
-	 * @ORM\ManyToOne(targetEntity=&quot;Hrncirrcms\File\ElFinderFile&quot;)
-	 * @ORM\JoinColumn(name=&quot;elfinder_file_id&quot;, referencedColumnName=&quot;id&quot;)
-	 * @ElFinderFileDirectoryRoot()
-	 * @var ElFinderFile
-	 */
-	private $fileRoot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXVzZSBURWxGaW5kZXJGaWxlQ29uc3VtZXI7Cg==</text>
+        <text encoding="base64">CQkJJG1lc3NhZ2UgPSAkZS0+Z2V0TWVzc2FnZSgpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZHVtcCgkdGhpcy0+aW50ZXJ2ZW50aW9uLT5nZXRDb250cmFjdCgpKTsKCQlleGl0Ow==</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJJHRoaXMtPmxvZ2dlci0+Y2hhbm5lbCgnYWNjZXNzJyktPmFkZEluZm8oJ29rJyk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIElGaWxlCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRGaWxlKCk6ID9JRmlsZQoJewoJCXJldHVybiAkdGhpcy0+ZmlsZTsKCX0KCQoJCgkvKioKCSAqIEBwYXJhbSBJRmlsZSAkZmlsZQoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0RmlsZShJRmlsZSAkZmlsZSkKCXsKCQkkdGhpcy0+ZmlsZSA9ICRmaWxlOwoJfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQlyZXR1cm4gbmV3IFRleHRSZXNwb25zZSgnT0snKTsK</text>
       </register>
       <register name=":" type="4">
         <text>189</text>
