@@ -2477,10 +2477,10 @@
         <mark key="]" line="105" column="15" />
         <mark key="." line="105" column="15" />
       </file>
-      <file name="/home/www/html/bul/lv/app/Presenters/ImportPresenter.php" timestamp="1521206476444">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="/home/www/html/bul/lv/app/Presenters/ImportPresenter.php" timestamp="1521207809150">
+        <mark key="[" line="202" column="37" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/locale/validators.cs_CZ.neon" timestamp="1506349265417">
         <mark key="[" line="4" column="0" />
@@ -4306,7 +4306,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521192787838">
+      <file name="/Dummy.txt" timestamp="1521207864562">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
@@ -7029,9 +7029,8 @@
       <jump line="148" column="0" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoicesGrid/InvoicesGrid.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dump($file);
-			exit;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="-" type="4">
         <text>string $version /*</text>
@@ -7042,37 +7041,34 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkkZmlsZU5hbWVzID0gJHRoaXMtPmZpbGVzQ29udGVudFRvQXJyYXkoJGZpbGVzKTsK</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">LyoqIEB2YXIgRmlsZVVwbG9hZCAkZmlsZSAqLwoJCWZvcmVhY2ggKCRmaWxlcyBhcyAkZmlsZSkgewoJCQkkZmlsZU5hbWVzICs9IGFycmF5X2ZpbHRlcigKCQkJCWFycmF5X21hcCgndHJpbScsIHByZWdfc3BsaXQoJy9cclxufFxyfFxuLycsICRmaWxlLT5nZXRDb250ZW50cygpKSkpOwoJCX0=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">LyoqIEB2YXIgRmlsZVVwbG9hZCAkZmlsZSAqLwoJCWZvcmVhY2ggKCRmaWxlcyBhcyAkZmlsZSkgewoJCQkkdmVyc2lvbnMgKz0gYXJyYXlfZmlsdGVyKAoJCQkJYXJyYXlfbWFwKCd0cmltJywgcHJlZ19zcGxpdCgnL1xyXG58XHJ8XG4vJywgJGZpbGUtPmdldENvbnRlbnRzKCkpKSk7CgkJfQ==</text>
+      </register>
+      <register name="5" type="4">
         <text>dump($file);
 			exit;</text>
       </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">dXNlIEFwcFxSZXNwb25zZXNcWmlwUmVzcG9uc2U7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>print($versions[0]);
 		exit;</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJJHZlcnNpb24gLj0gJGZpbGUtPmdldENvbnRlbnRzKCk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlkdW1wKCRmaWxlKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkkZmluZm8gPSBuZXcgZmluZm8oRklMRUlORk9fTUlNRV9UWVBFKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkkaGFuZGxlID0gJHRoaXMtPmZpbGU7Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>/**
-	 * @param resource $file
-	 * @param bool   $forceDownload
-	 */</text>
       </register>
       <register name=":" type="4">
         <text>189</text>
