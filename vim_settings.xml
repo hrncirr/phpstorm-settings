@@ -581,10 +581,10 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/DI/InvoicingExtension.php" timestamp="1513261289887">
-        <mark key="[" line="22" column="16" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/DI/InvoicingExtension.php" timestamp="1521193014610">
+        <mark key="[" line="51" column="43" />
+        <mark key="]" line="52" column="8" />
+        <mark key="." line="52" column="8" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.php" timestamp="1521029876068">
         <mark key="[" line="151" column="18" />
@@ -1848,10 +1848,6 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
-      </file>
-      <file name="/home/www/html/bul/lv/app/bootstrap.php" timestamp="1521101492369">
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Page/AdminModule/Presenters/PagesPresenter.php" timestamp="1506523039918">
         <mark key="[" line="19" column="0" />
@@ -4314,7 +4310,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521129268279">
+      <file name="/Dummy.txt" timestamp="1521192787838">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
@@ -4910,10 +4906,10 @@
         <mark key="]" line="10" column="58" />
         <mark key="." line="10" column="58" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Install/InvoicingInstall.php" timestamp="1516795513763">
-        <mark key="[" line="94" column="32" />
-        <mark key="]" line="103" column="9" />
-        <mark key="." line="103" column="9" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Install/InvoicingInstall.php" timestamp="1521192996410">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="4" />
+        <mark key="." line="114" column="4" />
       </file>
       <file name="/home/www/vendor/nnb/bootstrap/src/DI/config/client-side.neon" timestamp="1510045405990">
         <mark key="[" line="8" column="0" />
@@ -7049,11 +7045,14 @@
       <jump line="148" column="0" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoicesGrid/InvoicesGrid.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEludm9pY2luZ1xCdXNpbmVzc0Nhc2U7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/**
+	 * @var EntityManager
+	 */
+	private $em;</text>
       </register>
       <register name="-" type="4">
-        <text>IElFinderFileConsumer,</text>
+        <text>EntityManager $em,</text>
       </register>
       <register name="/" type="4">
         <text>getForma</text>
@@ -7061,13 +7060,25 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dXNlIEludm9pY2luZ1xCdXNpbmVzc0Nhc2U7Cg==</text>
+      <register name="1" type="4">
+        <text>/**
+	 * @var EntityManager
+	 */
+	private $em;</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIEVsRmluZGVyRmlsZXxudWxsCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRGaWxlUm9vdCgpOiA/RWxGaW5kZXJGaWxlCgl7CgkJcmV0dXJuICR0aGlzLT5maWxlUm9vdDsKCX0KCQoJCgkvKioKCSAqIEBwYXJhbSBFbEZpbmRlckZpbGUgJGZpbGVSb290CgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRGaWxlUm9vdChFbEZpbmRlckZpbGUgJGZpbGVSb290KQoJewoJCSR0aGlzLT5maWxlUm9vdCA9ICRmaWxlUm9vdDsKCX0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkkdGhpcy0+ZW0gPSAkZW07Cg==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">JGJ1aWxkZXItPmFkZERlZmluaXRpb24oJHRoaXMtPnByZWZpeCgnY29udHJhY3RGaWxlSW1wb3J0U3Vic2NyaWJlcicpKQoJCQktPnNldEZhY3RvcnkoQ29udHJhY3RGaWxlSW1wb3J0U3Vic2NyaWJlcjo6Y2xhc3MpCgkJCS0+c2V0QXJndW1lbnRzKFskdGhpcy0+Y29uZmlnWydjb250cmFjdHNSb290RGlyTmFtZSddXSkKCQkJLT5zZXRBdXRvd2lyZWQoZmFsc2UpCgkJCS0+YWRkVGFnKEV2ZW50c0V4dGVuc2lvbjo6VEFHX1NVQlNDUklCRVIpOw==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">dXNlIEludm9pY2luZ1xCdXNpbmVzc0Nhc2U7Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIEVsRmluZGVyRmlsZXxudWxsCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRGaWxlUm9vdCgpOiA/RWxGaW5kZXJGaWxlCgl7CgkJcmV0dXJuICR0aGlzLT5maWxlUm9vdDsKCX0KCQoJCgkvKioKCSAqIEBwYXJhbSBFbEZpbmRlckZpbGUgJGZpbGVSb290CgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRGaWxlUm9vdChFbEZpbmRlckZpbGUgJGZpbGVSb290KQoJewoJCSR0aGlzLT5maWxlUm9vdCA9ICRmaWxlUm9vdDsKCX0=</text>
+      </register>
+      <register name="6" type="4">
         <text>/**
 	 * @ORM\ManyToOne(targetEntity=&quot;Hrncirrcms\File\ElFinderFile&quot;)
 	 * @ORM\JoinColumn(name=&quot;elfinder_file_id&quot;, referencedColumnName=&quot;id&quot;)
@@ -7076,25 +7087,14 @@
 	 */
 	private $fileRoot;</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CXVzZSBURWxGaW5kZXJGaWxlQ29uc3VtZXI7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ZHVtcCgkdGhpcy0+aW50ZXJ2ZW50aW9uLT5nZXRDb250cmFjdCgpKTsKCQlleGl0Ow==</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIElGaWxlCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRGaWxlKCk6ID9JRmlsZQoJewoJCXJldHVybiAkdGhpcy0+ZmlsZTsKCX0KCQoJCgkvKioKCSAqIEBwYXJhbSBJRmlsZSAkZmlsZQoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0RmlsZShJRmlsZSAkZmlsZSkKCXsKCQkkdGhpcy0+ZmlsZSA9ICRmaWxlOwoJfQ==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">cHJvdGVjdGVkIGZ1bmN0aW9uIGdldEVsRmluZGVyRmlsZUNvbnN1bWVyKCkKCXsKCQlyZXR1cm4gJHRoaXMtPmNvbnRyYWN0OwoJfQ==</text>
-      </register>
-      <register name="8" type="4">
-        <text>httpAuth:
-    credentials:
-        lv: derObCeOv2obCipN</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAkjLSBJbXBvcnQK</text>
       </register>
       <register name=":" type="4">
         <text>189</text>
