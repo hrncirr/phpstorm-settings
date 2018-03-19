@@ -3856,13 +3856,6 @@
         <mark key="]" line="37" column="37" />
         <mark key="." line="37" column="37" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoicesGrid/InvoicesGrid.php" timestamp="1521128531885">
-        <mark key="'" line="149" column="0" />
-        <mark key="[" line="103" column="34" />
-        <mark key="]" line="123" column="34" />
-        <mark key="." line="123" column="34" />
-        <mark key="^" line="123" column="34" />
-      </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Latte/CMPProvider.php" timestamp="1496048680217">
         <mark key="[" line="47" column="21" />
         <mark key="]" line="63" column="8" />
@@ -5631,10 +5624,10 @@
         <mark key="]" line="19" column="8" />
         <mark key="." line="19" column="8" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/OrderForm/OrderForm.php" timestamp="1519905903657">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/OrderForm/OrderForm.php" timestamp="1521468329194">
+        <mark key="[" line="102" column="8" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="/home/www/html/bul/medical_examinations/app/components/BaseControl.php" timestamp="1491302590381">
         <mark key="[" line="12" column="35" />
@@ -5890,6 +5883,11 @@
         <mark key="[" line="26" column="42" />
         <mark key="]" line="23" column="38" />
         <mark key="." line="23" column="38" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/Calendar/Presenters/CalendarPresenter.php" timestamp="1521467957148">
+        <mark key="[" line="51" column="22" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/src/Navigation/Helpers.php" timestamp="1500886576079">
         <mark key="[" line="23" column="37" />
@@ -6517,11 +6515,11 @@
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Calendar/EventManager.php" timestamp="1521455157401">
-        <mark key="[" line="48" column="26" />
-        <mark key="]" line="52" column="19" />
-        <mark key="^" line="44" column="15" />
-        <mark key="." line="52" column="19" />
+      <file name="/home/www/html/dv/adera/Modules/Calendar/EventManager.php" timestamp="1521467491254">
+        <mark key="[" line="42" column="36" />
+        <mark key="]" line="53" column="19" />
+        <mark key="^" line="45" column="15" />
+        <mark key="." line="53" column="19" />
       </file>
       <file name="/home/www/html/bul/phonebook/app/Presenters/BasePresenter.php" timestamp="1496668428182">
         <mark key="[" line="22" column="33" />
@@ -7040,8 +7038,8 @@
       <jump line="148" column="0" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoicesGrid/InvoicesGrid.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getRepository(Event::class);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="-" type="4">
         <text>getRepository(Event::class);</text>
@@ -7052,37 +7050,38 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQlkdW1wKCR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShVc2VyOjpjbGFzcyktPmZpbmRQYWlycygndXNlcm5hbWUnKSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCSR3b3JrZXIK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJLyoqIEB2YXIgICR3b3JrZXIgKi8K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CSAqCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CSAqIE9yZGVyRm9ybSBjb25zdHJ1Y3Rvci4K</text>
+      </register>
+      <register name="7" type="4">
+        <text>/**
+	 * @param Order         $order |null
+	 * @param EntityManager $em
+	 */</text>
+      </register>
+      <register name="8" type="4">
         <text>public function __construct(\DateTime $startDate, \DateTime $endDate)
 	{
 		
 	}</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkkZmlsZU5hbWVzID0gJHRoaXMtPmZpbGVzQ29udGVudFRvQXJyYXkoJGZpbGVzKTsK</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">LyoqIEB2YXIgRmlsZVVwbG9hZCAkZmlsZSAqLwoJCWZvcmVhY2ggKCRmaWxlcyBhcyAkZmlsZSkgewoJCQkkZmlsZU5hbWVzICs9IGFycmF5X2ZpbHRlcigKCQkJCWFycmF5X21hcCgndHJpbScsIHByZWdfc3BsaXQoJy9cclxufFxyfFxuLycsICRmaWxlLT5nZXRDb250ZW50cygpKSkpOwoJCX0=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">LyoqIEB2YXIgRmlsZVVwbG9hZCAkZmlsZSAqLwoJCWZvcmVhY2ggKCRmaWxlcyBhcyAkZmlsZSkgewoJCQkkdmVyc2lvbnMgKz0gYXJyYXlfZmlsdGVyKAoJCQkJYXJyYXlfbWFwKCd0cmltJywgcHJlZ19zcGxpdCgnL1xyXG58XHJ8XG4vJywgJGZpbGUtPmdldENvbnRlbnRzKCkpKSk7CgkJfQ==</text>
-      </register>
-      <register name="6" type="4">
-        <text>dump($file);
-			exit;</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">dXNlIEFwcFxSZXNwb25zZXNcWmlwUmVzcG9uc2U7Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>print($versions[0]);
-		exit;</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJJHZlcnNpb24gLj0gJGZpbGUtPmdldENvbnRlbnRzKCk7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>189</text>
