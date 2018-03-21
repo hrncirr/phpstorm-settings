@@ -4174,8 +4174,10 @@
         <mark key="]" line="27" column="4" />
         <mark key="." line="27" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/extensions/header.neon" timestamp="1519982746299">
-        <mark key="[" line="139" column="16" />
+      <file name="/home/www/html/dv/adera/app/config/extensions/header.neon" timestamp="1521644908432">
+        <mark key="[" line="45" column="12" />
+        <mark key="]" line="45" column="12" />
+        <mark key="." line="45" column="12" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/services/Unique.php" timestamp="1477994988699">
         <mark key="[" line="41" column="32" />
@@ -4302,7 +4304,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521477053907">
+      <file name="/Dummy.txt" timestamp="1521645014722">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
@@ -7044,11 +7046,11 @@
       <jump line="148" column="0" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoicesGrid/InvoicesGrid.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CUAK</text>
+      <register name="&quot;" type="4">
+        <text>- @bootstrap.colorpickersliders</text>
       </register>
       <register name="-" type="4">
-        <text>getRepository(Event::class);</text>
+        <text>- @bootstrap.colorpickersliders</text>
       </register>
       <register name="/" type="4">
         <text>getForma</text>
