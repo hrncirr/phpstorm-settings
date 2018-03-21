@@ -516,8 +516,8 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/src/Admin/AdminModule/Presenters/BasePresenter.php" timestamp="1507101032474">
-        <mark key="[" line="54" column="12" />
+      <file name="/home/www/html/dv/adera/src/Admin/AdminModule/Presenters/BasePresenter.php" timestamp="1521641801730">
+        <mark key="[" line="51" column="46" />
         <mark key="]" line="54" column="12" />
         <mark key="." line="54" column="12" />
       </file>
@@ -2862,10 +2862,10 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1521037448558">
+      <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1521642365562">
         <mark key="[" line="3" column="4" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/src/Admin/AdminModule/Presenters/BasePresenter.php" timestamp="1506507163228">
         <mark key="[" line="31" column="0" />
@@ -5442,10 +5442,10 @@
         <mark key="]" line="31" column="4" />
         <mark key="." line="31" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/src/User/Permission.php" timestamp="1515592801134">
-        <mark key="[" line="87" column="33" />
-        <mark key="]" line="87" column="34" />
-        <mark key="." line="87" column="34" />
+      <file name="/home/www/html/dv/adera/src/User/Permission.php" timestamp="1521641949398">
+        <mark key="[" line="40" column="12" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/libs/vendor/zenify/doctrine-behaviors/src/Entities/Attributes/Translatable.php" timestamp="1515588965141">
         <mark key="[" line="29" column="0" />
@@ -5927,6 +5927,9 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/src/User/Role.php" timestamp="1521641830858">
+        <mark key="[" line="110" column="30" />
+      </file>
       <file name="/home/www/html/bul/mamo/app/presenters/BasePresenter.php" timestamp="1481267871908">
         <mark key="[" line="21" column="14" />
         <mark key="]" line="4" column="0" />
@@ -6200,10 +6203,10 @@
         <mark key="]" line="25" column="4" />
         <mark key="." line="25" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/src/User/User.php" timestamp="1517393983520">
-        <mark key="[" line="215" column="4" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="/home/www/html/dv/adera/src/User/User.php" timestamp="1521642280179">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsForm/Accounts/OrdersContainerFactory.php" timestamp="1511859060048">
         <mark key="[" line="28" column="66" />
@@ -7042,7 +7045,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CUAK</text>
       </register>
       <register name="-" type="4">
         <text>getRepository(Event::class);</text>
@@ -7054,37 +7057,31 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CUAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShVc2VyOjpjbGFzcyktPmZpbmRQYWlycygndXNlcm5hbWUnKSk7Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgJGNvbG9yOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCSR3b3JrZXIK</text>
+        <text encoding="base64">dXNlIE5ldHRlXFNlY3VyaXR5XElSZXNvdXJjZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJLyoqIEB2YXIgICR3b3JrZXIgKi8K</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAqCg==</text>
+        <text encoding="base64">CQlkdW1wKCR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShVc2VyOjpjbGFzcyktPmZpbmRQYWlycygndXNlcm5hbWUnKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAqIE9yZGVyRm9ybSBjb25zdHJ1Y3Rvci4K</text>
+        <text encoding="base64">CQkJCSR3b3JrZXIK</text>
       </register>
-      <register name="7" type="4">
-        <text>/**
-	 * @param Order         $order |null
-	 * @param EntityManager $em
-	 */</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJLyoqIEB2YXIgICR3b3JrZXIgKi8K</text>
       </register>
-      <register name="8" type="4">
-        <text>public function __construct(\DateTime $startDate, \DateTime $endDate)
-	{
-		
-	}</text>
+      <register name="8" type="2">
+        <text encoding="base64">CSAqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CSAqIE9yZGVyRm9ybSBjb25zdHJ1Y3Rvci4K</text>
       </register>
       <register name=":" type="4">
         <text>189</text>
