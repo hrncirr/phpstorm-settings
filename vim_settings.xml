@@ -636,6 +636,11 @@
         <mark key="]" line="113" column="4" />
         <mark key="." line="113" column="4" />
       </file>
+      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/src/IO/Response.php" timestamp="1522045995987">
+        <mark key="[" line="29" column="22" />
+        <mark key="]" line="29" column="22" />
+        <mark key="." line="29" column="22" />
+      </file>
       <file name="/home/www/html/nnb/socialni-pece/app/Components/Modals/DepartmentFormModal.php" timestamp="1484899531468">
         <mark key="[" line="31" column="66" />
         <mark key="]" line="62" column="12" />
@@ -1104,8 +1109,8 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/src/DI/FullCalendarExtension.php" timestamp="1512640605560">
-        <mark key="[" line="46" column="4" />
+      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/src/DI/FullCalendarExtension.php" timestamp="1522046063837">
+        <mark key="[" line="29" column="38" />
         <mark key="]" line="46" column="8" />
         <mark key="." line="46" column="8" />
       </file>
@@ -1932,10 +1937,10 @@
         <mark key="]" line="22" column="12" />
         <mark key="." line="22" column="12" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" timestamp="1521818229488">
-        <mark key="[" line="450" column="32" />
-        <mark key="]" line="443" column="4" />
-        <mark key="." line="443" column="4" />
+      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" timestamp="1522046782866">
+        <mark key="[" line="81" column="43" />
+        <mark key="]" line="81" column="43" />
+        <mark key="." line="81" column="43" />
       </file>
       <file name="/home/www/vendor/hrncirr/media/src/DI/FileExtension.php" timestamp="1513074729629">
         <mark key="[" line="32" column="0" />
@@ -2071,8 +2076,9 @@
         <mark key="]" line="111" column="8" />
         <mark key="." line="111" column="8" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/src/Model/Event.php" timestamp="1521817847792">
+      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/src/Model/Event.php" timestamp="1522045897913">
         <mark key="'" line="170" column="6" />
+        <mark key="[" line="98" column="35" />
       </file>
       <file name="/home/www/html/nnb/obj/app/config/services.neon" timestamp="1479902682032">
         <mark key="[" line="4" column="24" />
@@ -3479,10 +3485,10 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/src/DataSources/DoctrineDataSource.php" timestamp="1521818196552">
-        <mark key="[" line="157" column="23" />
-        <mark key="]" line="170" column="8" />
-        <mark key="." line="170" column="8" />
+      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/src/DataSources/DoctrineDataSource.php" timestamp="1522046216177">
+        <mark key="[" line="99" column="4" />
+        <mark key="]" line="99" column="4" />
+        <mark key="." line="99" column="4" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaSubscriber.php" timestamp="1519893332038">
         <mark key="[" line="52" column="4" />
@@ -4947,8 +4953,10 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/src/DataSources/NetteDatabaseDataSource.php" timestamp="1521818003189">
-        <mark key="[" line="189" column="92" />
+      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/src/DataSources/NetteDatabaseDataSource.php" timestamp="1522046097757">
+        <mark key="[" line="126" column="8" />
+        <mark key="]" line="125" column="10" />
+        <mark key="." line="125" column="10" />
       </file>
       <file name="/home/www/html/nnb/dms/app/events/DisableSoftDeletableFilterSubscriber.php" timestamp="1487150594663">
         <mark key="[" line="48" column="8" />
@@ -6991,8 +6999,8 @@
         <mark key="]" line="94" column="30" />
         <mark key="." line="94" column="30" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/src/DataSources/IDataSource.php" timestamp="1521817991405">
-        <mark key="[" line="43" column="91" />
+      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/src/DataSources/IDataSource.php" timestamp="1522046138134">
+        <mark key="[" line="25" column="33" />
       </file>
       <file name="/home/www/html/dv/cms/src/Options/Components/ExtensionsGrid/ExtensionsGrid.php" timestamp="1497014853957">
         <mark key="[" line="5" column="0" />
@@ -7104,14 +7112,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/**
-	 * @param Event $event
-	 *
-	 * @throws InvalidStateException
-	 */</text>
+        <text>FullCalendarControl</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">e2lmICRfdXNlci0+Z2V0Q29sb3IoKSAhPT0gbnVsbH1zdHlsZT0iYmctY29sb3I6ICN7JF91c2VyLT5nZXRDb2xvcigpLT5oZXgoKX0iey9pZn0+</text>
+        <text>FullCalendarControl</text>
       </register>
       <register name="/" type="4">
         <text>DateTime</text>
@@ -7121,22 +7125,30 @@
       </register>
       <register name="1" type="4">
         <text>/**
+	 * @param \DateTimeImmutable $startDate
+	 * @param \DateTimeImmutable $endDate
+	 *
+	 * @return EventList
+	 */</text>
+      </register>
+      <register name="2" type="4">
+        <text>/**
 	 * @param Event $event
 	 *
 	 * @throws InvalidStateException
 	 */</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>/**
 	 * @param $delta
 	 *
 	 * @return array
 	 */</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">Ly8gRml4IGVuY2Fwc3VsYXRpb24KCQkkc3RhcnREYXRlID0gbmV3IFxEYXRlVGltZSgkc3RhcnREYXRlLT5mb3JtYXQoJ1ktbS1kIEg6aTpzLnUnKSk7CgkJJGVuZERhdGUgPSBuZXcgXERhdGVUaW1lKCRlbmREYXRlLT5mb3JtYXQoJ1ktbS1kIEg6aTpzLnUnKSk7</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>/**
 	 * @param int|string $id
 	 * @param \DateTime  $startDate
@@ -7148,24 +7160,21 @@
 	 * @throws \Doctrine\ORM\OptimisticLockException
 	 */</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJCQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCWR1bXAoJGV2ZW50KTsK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>/**
  * @ORM\Entity()
  * @ORM\Table(&quot;invoicing_intervention&quot;)
  * @Gedmo\SoftDeleteable(fieldName=&quot;deletedAt&quot;, timeAware=false)
  */</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJe2R1bXAgJF91c2VyLT5nZXRDb2xvcigpfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/DateTime/DateTimeImmutable/g</text>
