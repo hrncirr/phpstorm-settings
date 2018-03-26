@@ -1937,7 +1937,7 @@
         <mark key="]" line="22" column="12" />
         <mark key="." line="22" column="12" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" timestamp="1522053415460">
+      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" timestamp="1522055299207">
         <mark key="'" line="68" column="23" />
         <mark key="[" line="314" column="88" />
         <mark key="]" line="314" column="88" />
@@ -4664,7 +4664,8 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" timestamp="1522053396793">
+      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" timestamp="1522055331228">
+        <mark key="'" line="134" column="48" />
         <mark key="[" line="144" column="90" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Compiler/Filters/MediaLightboxFilter.php" timestamp="1519900038009">
@@ -7014,7 +7015,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="12" filename="/home/www/html/dv/adera/libs/vendor/jkuchar/pdfresponse/PDFResponse.php" />
       <jump line="209" column="12" filename="/home/www/html/dv/adera/libs/vendor/jkuchar/pdfresponse/PDFResponse.php" />
       <jump line="229" column="32" filename="/home/www/html/dv/adera/libs/vendor/jkuchar/pdfresponse/PDFResponse.php" />
       <jump line="231" column="10" filename="/home/www/html/dv/adera/libs/vendor/jkuchar/pdfresponse/PDFResponse.php" />
@@ -7114,6 +7114,7 @@
       <jump line="587" column="27" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="589" column="47" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="68" column="23" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
+      <jump line="134" column="48" filename="/home/www/lib/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -7123,7 +7124,7 @@
         <text encoding="base64">JGV2ZW50LT5nZXRVc2VyKCktPmdldENvbG9yKCkgPw==</text>
       </register>
       <register name="/" type="4">
-        <text>handleEvents</text>
+        <text>allDay</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
@@ -7190,9 +7191,9 @@
       </register>
     </registers>
     <search>
-      <last-search>handleEvents</last-search>
+      <last-search>allDay</last-search>
       <last-offset />
-      <last-pattern>handleEvents</last-pattern>
+      <last-pattern>allDay</last-pattern>
       <last-replace>DateTimeImmutable</last-replace>
       <last-substitute>DateTime</last-substitute>
       <last-dir>1</last-dir>
@@ -7200,7 +7201,6 @@
     </search>
     <history>
       <history-search>
-        <entry>count</entry>
         <entry>addExport</entry>
         <entry>logExpo</entry>
         <entry>reset</entry>
@@ -7220,6 +7220,7 @@
         <entry>handleDay</entry>
         <entry>Events</entry>
         <entry>handleEvents</entry>
+        <entry>allDay</entry>
       </history-search>
       <history-cmd>
         <entry>216</entry>
