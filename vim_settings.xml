@@ -2444,10 +2444,10 @@
         <mark key="]" line="93" column="4" />
         <mark key="." line="93" column="4" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMediaTemp.php" timestamp="1522315764018">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMediaTemp.php" timestamp="1522317035879">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/Model/MediaFacade.php" timestamp="1507211175020">
         <mark key="[" line="41" column="36" />
@@ -3187,8 +3187,8 @@
         <mark key="]" line="14" column="12" />
         <mark key="." line="14" column="12" />
       </file>
-      <file name="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" timestamp="1522314322069">
-        <mark key="'" line="449" column="21" />
+      <file name="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" timestamp="1522316976607">
+        <mark key="'" line="83" column="37" />
       </file>
       <file name="/home/www/vendor/hrncirr/history/src/DI/HistoryExtension.php" timestamp="1476432300808">
         <mark key="[" line="39" column="0" />
@@ -7052,7 +7052,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="788" column="41" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeLocalFileSystem.class.php" />
       <jump line="798" column="37" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeLocalFileSystem.class.php" />
       <jump line="831" column="42" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeLocalFileSystem.class.php" />
       <jump line="846" column="37" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeLocalFileSystem.class.php" />
@@ -7152,55 +7151,56 @@
       <jump line="7" column="37" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="449" column="21" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="50" column="6" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeLocalFileSystem.class.php" />
+      <jump line="83" column="37" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlyZXR1cm4gJHN0YXRbJ3JlYWQnXTsK</text>
       </register>
       <register name="-" type="4">
         <text>'number'</text>
       </register>
       <register name="/" type="4">
-        <text>_stat</text>
+        <text>dump</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlyZXR1cm4gJHN0YXRbJ3JlYWQnXTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+        <text encoding="base64">CQkkc3RhdCA9ICR0aGlzLT5zdGF0KCR0aGlzLT5yb290KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJZXhpdDsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJZHVtcCgnYWFhYWEnKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">CQkK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQlleGl0Owo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJZXhpdDsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlkdW1wKCdvaycpOwo=</text>
+        <text encoding="base64">CQkJZHVtcCgnYWFhYWEnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkkdGhpcy0+Z2V0UHJlc2VudGVyKCktPnNldENvbnRlbnRUaXRsZSgnS29udHJvbHknKTsK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCSR0aGlzLT50ZW1wbGF0ZS0+cmVuZGVyKF9fRElSX18gLiAnL3RlbXBsYXRlcy9JbnRlcnZlbnRpb25Gb3JtLmxhdHRlJyk7Cg==</text>
+        <text encoding="base64">CQlkdW1wKCdvaycpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCSR0aGlzWydjb250cmFjdEZvcm0taW50ZXJ2ZW50aW9uc0dyaWQtaW50ZXJ2ZW50aW9uRm9ybS1pbnNwZWN0aW9uc0dyaWQtaW5zcGVjdGlvbkZvcm0nXS0+cmVuZGVyKCk7Cg==</text>
+        <text encoding="base64">CQkkdGhpcy0+Z2V0UHJlc2VudGVyKCktPnNldENvbnRlbnRUaXRsZSgnS29udHJvbHknKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/DateTime/DateTimeImmutable/g</text>
       </register>
     </registers>
     <search>
-      <last-search>_stat</last-search>
+      <last-search>dump</last-search>
       <last-offset />
-      <last-pattern>_stat</last-pattern>
+      <last-pattern>dump</last-pattern>
       <last-replace>DateTimeImmutable</last-replace>
       <last-substitute>DateTime</last-substitute>
       <last-dir>1</last-dir>
@@ -7208,8 +7208,6 @@
     </search>
     <history>
       <history-search>
-        <entry>requires</entry>
-        <entry>rawValue</entry>
         <entry>isValue</entry>
         <entry>isValid</entry>
         <entry>nullable</entry>
@@ -7228,6 +7226,8 @@
         <entry>ERROR_DIR_NOT_FOUND</entry>
         <entry>public function dir</entry>
         <entry>_stat</entry>
+        <entry>isReadable</entry>
+        <entry>dump</entry>
       </history-search>
       <history-cmd>
         <entry>216</entry>
