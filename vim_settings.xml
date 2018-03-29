@@ -2444,10 +2444,10 @@
         <mark key="]" line="93" column="4" />
         <mark key="." line="93" column="4" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMediaTemp.php" timestamp="1522317035879">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMediaTemp.php" timestamp="1522320741660">
+        <mark key="[" line="157" column="4" />
+        <mark key="]" line="160" column="0" />
+        <mark key="." line="160" column="0" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/Model/MediaFacade.php" timestamp="1507211175020">
         <mark key="[" line="41" column="36" />
@@ -3187,7 +3187,7 @@
         <mark key="]" line="14" column="12" />
         <mark key="." line="14" column="12" />
       </file>
-      <file name="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" timestamp="1522316976607">
+      <file name="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" timestamp="1522321242084">
         <mark key="'" line="83" column="37" />
       </file>
       <file name="/home/www/vendor/hrncirr/history/src/DI/HistoryExtension.php" timestamp="1476432300808">
@@ -5811,8 +5811,8 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeLocalFileSystem.class.php" timestamp="1522315047663">
-        <mark key="'" line="50" column="6" />
+      <file name="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeLocalFileSystem.class.php" timestamp="1522318278035">
+        <mark key="'" line="517" column="34" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/AddressBook/AddressType.php" timestamp="1498739475809">
         <mark key="[" line="39" column="44" />
@@ -7052,8 +7052,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="798" column="37" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeLocalFileSystem.class.php" />
-      <jump line="831" column="42" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeLocalFileSystem.class.php" />
       <jump line="846" column="37" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeLocalFileSystem.class.php" />
       <jump line="853" column="45" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeLocalFileSystem.class.php" />
       <jump line="877" column="14" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeLocalFileSystem.class.php" />
@@ -7152,13 +7150,15 @@
       <jump line="449" column="21" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="50" column="6" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeLocalFileSystem.class.php" />
       <jump line="83" column="37" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="28" column="6" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeLocalFileSystem.class.php" />
+      <jump line="517" column="34" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeLocalFileSystem.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlyZXR1cm4gJHN0YXRbJ3JlYWQnXTsK</text>
+        <text encoding="base64">CQkJJ25hbWUnID0+ICdwb2t1cycsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'number'</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
         <text>dump</text>
@@ -7167,31 +7167,34 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlyZXR1cm4gJHN0YXRbJ3JlYWQnXTsK</text>
+        <text encoding="base64">CQkJJ25hbWUnID0+ICdwb2t1cycsCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkkc3RhdCA9ICR0aGlzLT5zdGF0KCR0aGlzLT5yb290KTsK</text>
+      <register name="2" type="4">
+        <text>dump('Cože ????');
+			exit;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">CQkJZXhpdDsK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJZHVtcCgnQ2/FvmUgPz8/PycpOwo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>dump('bbbbb');
+		exit;</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJZHVtcCgnYWFhYWEnKTsK</text>
+        <text encoding="base64">CQlkdW1wKCdhYWFhYScpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkkc3RhdCA9IFtdOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlkdW1wKCdvaycpOwo=</text>
+        <text encoding="base64">CQkJJ2lzbG9ja2VkJyA9PiAxCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkkdGhpcy0+Z2V0UHJlc2VudGVyKCktPnNldENvbnRlbnRUaXRsZSgnS29udHJvbHknKTsK</text>
+      <register name="9" type="4">
+        <text>dump('bbbbbb');
+		exit;</text>
       </register>
       <register name=":" type="4">
         <text>%s/DateTime/DateTimeImmutable/g</text>
@@ -7208,7 +7211,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isValue</entry>
         <entry>isValid</entry>
         <entry>nullable</entry>
         <entry>getForma</entry>
@@ -7227,6 +7229,7 @@
         <entry>public function dir</entry>
         <entry>_stat</entry>
         <entry>isReadable</entry>
+        <entry>_scan</entry>
         <entry>dump</entry>
       </history-search>
       <history-cmd>
