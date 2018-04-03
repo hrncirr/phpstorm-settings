@@ -1207,7 +1207,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" timestamp="1522313564017" />
       <file name="/home/www/html/nnb/passportization/app/router/TreeIconRouterFactory.php" timestamp="1480338116491">
         <mark key="[" line="45" column="12" />
         <mark key="]" line="45" column="12" />
@@ -2444,10 +2443,10 @@
         <mark key="]" line="93" column="4" />
         <mark key="." line="93" column="4" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMediaTemp.php" timestamp="1522325362562">
-        <mark key="[" line="171" column="27" />
-        <mark key="]" line="177" column="8" />
-        <mark key="." line="177" column="8" />
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMediaTemp.php" timestamp="1522745635810">
+        <mark key="[" line="88" column="4" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/Model/MediaFacade.php" timestamp="1507211175020">
         <mark key="[" line="41" column="36" />
@@ -3187,7 +3186,7 @@
         <mark key="]" line="14" column="12" />
         <mark key="." line="14" column="12" />
       </file>
-      <file name="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" timestamp="1522323918814">
+      <file name="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" timestamp="1522745310504">
         <mark key="'" line="924" column="28" />
       </file>
       <file name="/home/www/vendor/hrncirr/history/src/DI/HistoryExtension.php" timestamp="1476432300808">
@@ -7154,12 +7153,11 @@
       <jump line="924" column="28" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dump(parent::stat($path));
-		exit;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlyZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text encoding="base64">MCA9PiAn</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">JHRoaXMtPmlk</text>
@@ -7167,34 +7165,34 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQlyZXR1cm4gdHJ1ZTsK</text>
+      </register>
+      <register name="2" type="4">
+        <text>dump(parent::_scandir($path));
+		exit;</text>
+      </register>
+      <register name="3" type="4">
         <text>dump(parent::stat($path));
 		exit;</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkvKgo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkqLwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJCSRyZXRbJ3BoYXNoJ10gPSAkdGhpcy0+b3B0aW9uc1sncGhhc2gnXQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">J2lzb3duZXInID0+IGZhbHNlLAoJCQkJJ2lzcm9vdCcgPT4gMSwKCQkJCSdyZWFkJyA9PiAxLAoJCQkJJ3dyaXRlJyA9PiAxLAoJCQkJJHJldFsncGhhc2gnXSA9ICR0aGlzLT5vcHRpb25zWydwaGFzaCdd</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">J21pbWUnID0+ICdkaXJlY3RvcnknLAoJCQkJJ25hbWUnID0+ICdkZWZhdWx0IGRpcics</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQlyZXR1cm4gCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJJ25hbWUnID0+ICdwb2t1cycsCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>dump('Cože ????');
-			exit;</text>
       </register>
       <register name=":" type="4">
         <text>%s/DateTime/DateTimeImmutable/g</text>
