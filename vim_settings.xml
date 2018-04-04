@@ -1082,6 +1082,9 @@
         <mark key="]" line="17" column="27" />
         <mark key="." line="17" column="27" />
       </file>
+      <file name="/home/www/vendor/studio-42/elfinder/php/elFinder.class.php" timestamp="1522828947934">
+        <mark key="'" line="550" column="68" />
+      </file>
       <file name="/home/www/lib/vendor/hrncirr/forms-typeahead/src/Exceptions/InvalidArgumentException.php" timestamp="1496228940246">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -2443,12 +2446,12 @@
         <mark key="]" line="93" column="4" />
         <mark key="." line="93" column="4" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMediaTemp.php" timestamp="1522826575827">
-        <mark key="'" line="149" column="21" />
-        <mark key="[" line="75" column="75" />
-        <mark key="]" line="149" column="21" />
-        <mark key="^" line="149" column="21" />
-        <mark key="." line="149" column="21" />
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMediaTemp.php" timestamp="1522830412733">
+        <mark key="'" line="94" column="34" />
+        <mark key="[" line="78" column="12" />
+        <mark key="]" line="78" column="12" />
+        <mark key="." line="78" column="12" />
+        <mark key="^" line="83" column="8" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/Model/MediaFacade.php" timestamp="1507211175020">
         <mark key="[" line="41" column="36" />
@@ -3188,8 +3191,8 @@
         <mark key="]" line="14" column="12" />
         <mark key="." line="14" column="12" />
       </file>
-      <file name="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" timestamp="1522825988466">
-        <mark key="'" line="1679" column="26" />
+      <file name="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" timestamp="1522830176384">
+        <mark key="'" line="1775" column="46" />
       </file>
       <file name="/home/www/vendor/hrncirr/history/src/DI/HistoryExtension.php" timestamp="1476432300808">
         <mark key="[" line="39" column="0" />
@@ -7053,25 +7056,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1293" column="38" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1294" column="48" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1295" column="40" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1349" column="23" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1352" column="33" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1644" column="25" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1703" column="57" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1705" column="39" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1707" column="33" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="558" column="34" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="7" column="37" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="449" column="21" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="50" column="6" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeLocalFileSystem.class.php" />
-      <jump line="517" column="34" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeLocalFileSystem.class.php" />
-      <jump line="3935" column="26" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1883" column="11" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1890" column="23" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1928" column="32" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="23" column="18" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="33" column="23" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="47" column="14" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="83" column="20" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
@@ -7146,63 +7130,81 @@
       <jump line="1546" column="53" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="1577" column="13" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="1675" column="36" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1679" column="26" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="34" column="5" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeLocalFileSystem.class.php" />
       <jump line="1189" column="104" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeLocalFileSystem.class.php" />
       <jump line="1205" column="104" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeLocalFileSystem.class.php" />
       <jump line="1225" column="82" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeLocalFileSystem.class.php" />
       <jump line="1167" column="79" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeLocalFileSystem.class.php" />
       <jump line="146" column="21" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMediaTemp.php" />
+      <jump line="551" column="33" filename="/home/www/vendor/studio-42/elfinder/php/elFinder.class.php" />
+      <jump line="205" column="19" filename="/home/www/vendor/studio-42/elfinder/php/elFinder.class.php" />
+      <jump line="549" column="22" filename="/home/www/vendor/studio-42/elfinder/php/elFinder.class.php" />
+      <jump line="550" column="68" filename="/home/www/vendor/studio-42/elfinder/php/elFinder.class.php" />
+      <jump line="96" column="34" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMediaTemp.php" />
+      <jump line="3434" column="23" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="3451" column="33" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="3470" column="55" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="3480" column="55" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="3518" column="17" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="1679" column="20" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="1680" column="41" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="1684" column="24" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="1690" column="24" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="1691" column="9" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="1692" column="37" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="1706" column="21" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="1708" column="62" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="1767" column="98" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="1775" column="46" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZHVtcCgkdGhpcy0+cGF0aCgnJykpOwoJCQlkdW1wKCR0aGlzLT5lbmNvZGUoJHRoaXMtPm9wdGlvbnNbJ3BhdGgnXSkpOwoJCQlleGl0Ow==</text>
+        <text encoding="base64">ZHVtcCgnYWFhYScpOwoJCQlleGl0OwoJCQk=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPnBhdGgo</text>
+        <text>return parent::mount($opts);</text>
       </register>
       <register name="/" type="4">
-        <text>dump</text>
+        <text>path</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ZHVtcCgkdGhpcy0+cGF0aCgnJykpOwoJCQlkdW1wKCR0aGlzLT5lbmNvZGUoJHRoaXMtPm9wdGlvbnNbJ3BhdGgnXSkpOwoJCQlleGl0Ow==</text>
+        <text encoding="base64">ZHVtcCgnYWFhYScpOwoJCQlleGl0OwoJCQk=</text>
       </register>
-      <register name="2" type="4">
-        <text>dump($path);
-		dump(parent::stat($path));</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkkdGhpcy0+aWQgPSAkdGhpcy0+ZHJpdmVySWQuKCFlbXB0eSgkdGhpcy0+b3B0aW9uc1snaWQnXSkgPyAkdGhpcy0+b3B0aW9uc1snaWQnXSA6IGVsRmluZGVyOjokdm9sdW1lc0NudCsrKS4nXyc7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ly8gc2V0IGRyaXZlcklkCgkJaWYgKCFlbXB0eSgkdGhpcy0+b3B0aW9uc1snZHJpdmVySWQnXSkpIHsKCQkJJHRoaXMtPmRyaXZlcklkID0gJHRoaXMtPm9wdGlvbnNbJ2RyaXZlcklkJ107CgkJfQoJCQoJCSR0aGlzLT5pZCA9ICR0aGlzLT5kcml2ZXJJZCAuICghZW1wdHkoJHRoaXMtPm9wdGlvbnNbJ2lkJ10pID8gJHRoaXMtPm9wdGlvbnNbJ2lkJ10gOiBlbEZpbmRlcjo6JHZvbHVtZXNDbnQrKykgLiAnXyc7</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJZHVtcChzdWJzdHIoJHRoaXMtPmlkLCBzdHJsZW4oJHRoaXMtPmRyaXZlcklkKSwgLTEpKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">JHRoaXMtPm9wdGlvbnMgPSBhcnJheV9tZXJnZSgkdGhpcy0+b3B0aW9ucywgJG9wdHMpOwoJCQkKCQkJZHVtcCgkdGhpcy0+b3B0aW9uc1sncGF0aCddKTsKCQkJZXhpdDs=</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkkb3B0c1snaWQnXSA9ICd0bXAnOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlyZXR1cm4gcGFyZW50Ojptb3VudCgkb3B0cyk7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">aWYgKCRyZW1vdW50KSB7CgkJCWR1bXAoJHRoaXMtPmlkKTsKCQkJZXhpdDsKCQl9CQ==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGRpcigkaGFzaCwgJHJlc29sdmVMaW5rID0gZmFsc2UpCgl7CgkJaWYgKCR0aGlzLT5pc1Jvb3RDcmVhdGVkKSB7CgkJCXJldHVybiAkdGhpcy0+c3RhdCgnJyk7CgkJfQoJCQoJCXJldHVybiBwYXJlbnQ6OmRpcigkaGFzaCwgJHJlc29sdmVMaW5rKTsKCX0=</text>
+        <text encoding="base64">JHRoaXMtPmlkID0gJHRoaXMtPmRyaXZlcklkIC4gKCFlbXB0eSgkdGhpcy0+b3B0aW9uc1snaWQnXSkgPyAkdGhpcy0+b3B0aW9uc1snaWQnXSA6CgkJCQkJZWxGaW5kZXI6OiR2b2x1bWVzQ250KSAuICdfJzsKCQl9</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="7" type="4">
+        <text encoding="base64">aWYgKCFwYXJlbnQ6Om1vdW50KCRvcHRzKSkgewoJCQlyZXR1cm4gZmFsc2U7CgkJfQoJCQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlkdW1wKHBhcmVudDo6ZGlyKCRoYXNoLCAkcmVzb2x2ZUxpbmspKTsK</text>
+        <text encoding="base64">CQkJJHJlbW91bnQgPSB0cnVlOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">J2lzb3duZXInID0+IGZhbHNlLAoJCQkJJ2lzcm9vdCcgPT4gMSwKCQkJCSdpc2xvY2tlZCcgPT4gMSwKCQkJCSd0cycgPT4gdGltZSgpLAoJCQkJJ21pbWUnID0+ICdkaXJlY3RvcnknLAoJCQkJJ3JlYWQnID0+IDEsCgkJCQknd3JpdGUnID0+IDEsCgkJCQknc2l6ZScgPT4gMCwKCQkJCSduYW1lJyA9PiAnUG9rdXMnLAoJCQkJJ2hhc2gnID0+ICdtdDFfTHcnCgkJCV07</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkkcmVtb3VudCA9IGZhbHNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/DateTime/DateTimeImmutable/g</text>
       </register>
     </registers>
     <search>
-      <last-search>dump</last-search>
+      <last-search>path</last-search>
       <last-offset />
-      <last-pattern>dump</last-pattern>
+      <last-pattern>path</last-pattern>
       <last-replace>DateTimeImmutable</last-replace>
       <last-substitute>DateTime</last-substitute>
       <last-dir>1</last-dir>
@@ -7210,8 +7212,6 @@
     </search>
     <history>
       <history-search>
-        <entry>open</entry>
-        <entry>dir</entry>
         <entry>ERROR_DIR_NOT_FOUND</entry>
         <entry>public function dir</entry>
         <entry>_stat</entry>
@@ -7228,8 +7228,10 @@
         <entry>function ls</entry>
         <entry>hahs</entry>
         <entry>hash</entry>
-        <entry>encode</entry>
         <entry>dump</entry>
+        <entry>volumesCnt</entry>
+        <entry>encode</entry>
+        <entry>path</entry>
       </history-search>
       <history-cmd>
         <entry>216</entry>
