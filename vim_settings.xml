@@ -2443,8 +2443,8 @@
         <mark key="]" line="93" column="4" />
         <mark key="." line="93" column="4" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMediaTemp.php" timestamp="1522760967811">
-        <mark key="[" line="158" column="4" />
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMediaTemp.php" timestamp="1522824827697">
+        <mark key="[" line="205" column="4" />
         <mark key="]" line="158" column="8" />
         <mark key="." line="158" column="8" />
         <mark key="^" line="76" column="4" />
@@ -3187,8 +3187,8 @@
         <mark key="]" line="14" column="12" />
         <mark key="." line="14" column="12" />
       </file>
-      <file name="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" timestamp="1522760736680">
-        <mark key="'" line="1675" column="25" />
+      <file name="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" timestamp="1522824816163">
+        <mark key="'" line="133" column="19" />
       </file>
       <file name="/home/www/vendor/hrncirr/history/src/DI/HistoryExtension.php" timestamp="1476432300808">
         <mark key="[" line="39" column="0" />
@@ -7052,9 +7052,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1127" column="24" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeLocalFileSystem.class.php" />
-      <jump line="1150" column="31" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeLocalFileSystem.class.php" />
-      <jump line="72" column="18" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="100" column="18" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="107" column="21" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="167" column="19" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
@@ -7152,6 +7149,9 @@
       <jump line="1577" column="13" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="1675" column="25" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="28" column="6" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeLocalFileSystem.class.php" />
+      <jump line="35" column="17" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="19" column="7" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="133" column="19" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -7162,7 +7162,7 @@
         <text encoding="base64">MCA9PiAn</text>
       </register>
       <register name="/" type="4">
-        <text>ls</text>
+        <text>function ls</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
@@ -7200,9 +7200,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ls</last-search>
+      <last-search>function ls</last-search>
       <last-offset />
-      <last-pattern>ls</last-pattern>
+      <last-pattern>function ls</last-pattern>
       <last-replace>DateTimeImmutable</last-replace>
       <last-substitute>DateTime</last-substitute>
       <last-dir>1</last-dir>
@@ -7210,7 +7210,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Events</entry>
         <entry>handleEvents</entry>
         <entry>allDay</entry>
         <entry>open</entry>
@@ -7230,6 +7229,7 @@
         <entry>mkdir</entry>
         <entry>hash</entry>
         <entry>ls</entry>
+        <entry>function ls</entry>
       </history-search>
       <history-cmd>
         <entry>216</entry>
