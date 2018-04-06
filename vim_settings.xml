@@ -3419,6 +3419,11 @@
         <mark key="]" line="24" column="4" />
         <mark key="." line="24" column="4" />
       </file>
+      <file name="/home/www/lib/vendor/hrncirr/pnotify/src/FlashMessagesFactory.php" timestamp="1523001315553">
+        <mark key="[" line="25" column="18" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/OffersGrid/OffersGrid.php" timestamp="1521125620282">
         <mark key="[" line="99" column="48" />
         <mark key="]" line="132" column="73" />
@@ -7162,11 +7167,11 @@
       <jump line="1936" column="44" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>extends Objec</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXFNtYXJ0T2JqZWN0Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>extends Objec</text>
+        <text>extends Object</text>
       </register>
       <register name="/" type="4">
         <text>encode</text>
@@ -7175,31 +7180,31 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCSdyb290UmV2JyA9PiAnJywK</text>
+        <text encoding="base64">dXNlIE5ldHRlXFNtYXJ0T2JqZWN0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCSdyb290UmV2JyA9PiAnJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CQlleGl0Owo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CQlkdW1wKCRwYXRoKTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">LyoqCgkgKiBSZXR1cm4gZmlsZXMgbGlzdCBpbiBkaXJlY3RvcnkuCgkgKgoJICogQHBhcmFtICBzdHJpbmcgJHBhdGggZGlyIHBhdGgKCSAqCgkgKiBAcmV0dXJuIGFycmF5CgkgKiBAYXV0aG9yIERtaXRyeSAoZGlvKSBMZXZhc2hvdgoJICogQGF1dGhvciBSb21hbiBIcm7EjcOtxZkKCSAqKi8KCXByb3RlY3RlZCBmdW5jdGlvbiBfc2NhbmRpcigkcGF0aCkKCXsKCQkvKgoJCWlmICgkdGhpcy0+aW1wb3J0Q29uZmlnID09PSBudWxsKSB7CgkJCXJldHVybiBbXTsKCQl9CgkJKi8KCQkKCQlyZXR1cm4gcGFyZW50Ojpfc2NhbmRpcigkcGF0aCk7Cgl9</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">LyoqCgkgKiBSZXR1cm4gdHJ1ZSBpZiB2b2x1bWUgaXMgcmVhZGFibGUuCgkgKgoJICogQHJldHVybiBib29sCgkgKiBAYXV0aG9yIERtaXRyeSAoZGlvKSBMZXZhc2hvdgoJICoqLwoJcHVibGljIGZ1bmN0aW9uIGlzUmVhZGFibGUoKQoJewoJCS8qCgkJaWYgKCR0aGlzLT5pbXBvcnRDb25maWcgPT09IG51bGwpIHsKCQkJcmV0dXJuIHRydWU7CgkJfQoJCSovCgkJCgkJcmV0dXJuIHBhcmVudDo6aXNSZWFkYWJsZSgpOwoJfQ==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">LyoqCgkgKiBSZXR1cm4gc3ViZm9sZGVycyBmb3IgcmVxdWlyZWQgZm9sZGVyIG9yIGZhbHNlIG9uIGVycm9yCgkgKgoJICogQHBhcmFtICBzdHJpbmcgJGhhc2ggICAgZm9sZGVyIGhhc2ggb3IgZW1wdHkgc3RyaW5nIHRvIGdldCB0cmVlIGZyb20gcm9vdCBmb2xkZXIKCSAqIEBwYXJhbSAgaW50ICAgICRkZWVwICAgIHN1YmRpciBkZWVwCgkgKiBAcGFyYW0gIHN0cmluZyAkZXhjbHVkZSBkaXIgaGFzaCB3aGljaCBzdWJmb2xkZXJzIG11c3QgYmUgZXhsdWRlZCBmcm9tIHJlc3VsdCwgcmVxdWlyZWQgdG8gbm90IGdldCBzdGF0IHR3aWNlIG9uIGN3ZCBzdWJmb2xkZXJzCgkgKgoJICogQHJldHVybiBhcnJheXxmYWxzZQoJICogQGF1dGhvciBEbWl0cnkgKGRpbykgTGV2YXNob3YKCSAqIEBhdXRob3IgUm9tYW4gSHJuxI3DrcWZCgkgKiovCglwdWJsaWMgZnVuY3Rpb24gdHJlZSgkaGFzaCA9ICcnLCAkZGVlcCA9IDAsICRleGNsdWRlID0gJycpCgl7CgkJLyoKCQlpZiAoJHRoaXMtPmltcG9ydENvbmZpZyA9PT0gbnVsbCkgewoJCQlyZXR1cm4gWwoJCQkJJ2lzb3duZXInID0+IGZhbHNlLAoJCQkJJ2lzcm9vdCcgPT4gMSwKCQkJCSdyZWFkJyA9PiAxLAoJCQkJJ3dyaXRlJyA9PiAxCgkJCV07CgkJfQoJCSovCgkJCgkJcmV0dXJuIHBhcmVudDo6dHJlZSgkaGFzaCwgJGRlZXAsICRleGNsdWRlKTsKCX0=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkqLwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvKgo=</text>
+        <text encoding="base64">CQkqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/DateTime/DateTimeImmutable/g</text>
