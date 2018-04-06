@@ -4642,6 +4642,11 @@
         <mark key="]" line="23" column="4" />
         <mark key="." line="23" column="4" />
       </file>
+      <file name="/home/www/vendor/nnb/staff/src/Authentication/LdapAuthenticator.php" timestamp="1523003112197">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Search/SearchFile.php" timestamp="1491832444891">
         <mark key="[" line="32" column="20" />
         <mark key="]" line="10" column="0" />
@@ -4932,6 +4937,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="/home/www/vendor/nnb/staff/src/DI/StaffExtension.php" timestamp="1523003038674">
+        <mark key="[" line="67" column="17" />
+        <mark key="]" line="67" column="16" />
+        <mark key="^" line="67" column="16" />
+        <mark key="." line="67" column="16" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/FormParts/DetailsFormPart/TDetailsFormPart.php" timestamp="1504174847951">
         <mark key="[" line="33" column="4" />
         <mark key="]" line="33" column="8" />
@@ -5063,6 +5074,11 @@
         <mark key="." line="11" column="0" />
       </file>
       <file name="/home/www/html/bul/mamo/libs/App/Listeners/RegistrationChangeMailerListener.php" timestamp="1481277844209">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="/home/www/vendor/nnb/staff/src/Authentication/DBAuthenticator.php" timestamp="1523003126709">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -6244,6 +6260,11 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="/home/www/vendor/nnb/staff/src/Staff.php" timestamp="1523002997971">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Tag.php" timestamp="1515746743459">
         <mark key="[" line="18" column="21" />
         <mark key="]" line="19" column="0" />
@@ -7183,11 +7204,11 @@
       <jump line="68" column="27" filename="/home/www/lib/vendor/hrncirr/pnotify/src/TFlashMessagesPresenter.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>@param             $message</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXE9iamVjdDsK</text>
       </register>
       <register name="-" type="4">
-        <text>@param             $message</text>
+        <text>extends Objec</text>
       </register>
       <register name="/" type="4">
         <text>NULL</text>
@@ -7195,7 +7216,16 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXE9iamVjdDsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXE9iamVjdDsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXE9iamVjdDsK</text>
+      </register>
+      <register name="4" type="4">
         <text>/**
 	 * @param string|IPhraseAdapter $message
 	 * @param string $type
@@ -7206,33 +7236,24 @@
 	 * @return Notification
 	 */</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>/**
 	 * @param string   $message
 	 * @param int|null $count
 	 * @param array    $parameters
 	 */</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">dXNlIE5ldHRlXFNtYXJ0T2JqZWN0Owo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCSdyb290UmV2JyA9PiAnJywK</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQlleGl0Owo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlkdW1wKCRwYXRoKTsK</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">LyoqCgkgKiBSZXR1cm4gZmlsZXMgbGlzdCBpbiBkaXJlY3RvcnkuCgkgKgoJICogQHBhcmFtICBzdHJpbmcgJHBhdGggZGlyIHBhdGgKCSAqCgkgKiBAcmV0dXJuIGFycmF5CgkgKiBAYXV0aG9yIERtaXRyeSAoZGlvKSBMZXZhc2hvdgoJICogQGF1dGhvciBSb21hbiBIcm7EjcOtxZkKCSAqKi8KCXByb3RlY3RlZCBmdW5jdGlvbiBfc2NhbmRpcigkcGF0aCkKCXsKCQkvKgoJCWlmICgkdGhpcy0+aW1wb3J0Q29uZmlnID09PSBudWxsKSB7CgkJCXJldHVybiBbXTsKCQl9CgkJKi8KCQkKCQlyZXR1cm4gcGFyZW50Ojpfc2NhbmRpcigkcGF0aCk7Cgl9</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">LyoqCgkgKiBSZXR1cm4gdHJ1ZSBpZiB2b2x1bWUgaXMgcmVhZGFibGUuCgkgKgoJICogQHJldHVybiBib29sCgkgKiBAYXV0aG9yIERtaXRyeSAoZGlvKSBMZXZhc2hvdgoJICoqLwoJcHVibGljIGZ1bmN0aW9uIGlzUmVhZGFibGUoKQoJewoJCS8qCgkJaWYgKCR0aGlzLT5pbXBvcnRDb25maWcgPT09IG51bGwpIHsKCQkJcmV0dXJuIHRydWU7CgkJfQoJCSovCgkJCgkJcmV0dXJuIHBhcmVudDo6aXNSZWFkYWJsZSgpOwoJfQ==</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
