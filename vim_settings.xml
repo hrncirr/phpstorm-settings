@@ -1628,6 +1628,9 @@
         <mark key="]" line="74" column="27" />
         <mark key="." line="74" column="27" />
       </file>
+      <file name="/home/www/html/nnb/aktuality/app/Components/NewsItemControl/NewsItemControl.php" timestamp="1523261221113">
+        <mark key="'" line="31" column="16" />
+      </file>
       <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Components/TechnicalRequisitionForm/ITechnicalRequisitionFormFactory.php" timestamp="1503557487940">
         <mark key="[" line="27" column="84" />
         <mark key="]" line="14" column="0" />
@@ -4636,7 +4639,6 @@
         <mark key="]" line="23" column="4" />
         <mark key="." line="23" column="4" />
       </file>
-      <file name="/home/www/vendor/nnb/staff/src/Authentication/LdapAuthenticator.php" timestamp="1523003112197" />
       <file name="/home/www/html/nnb/dms/src/Search/SearchFile.php" timestamp="1491832444891">
         <mark key="[" line="32" column="20" />
         <mark key="]" line="10" column="0" />
@@ -5068,7 +5070,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/home/www/vendor/nnb/staff/src/Authentication/DBAuthenticator.php" timestamp="1523003126709" />
       <file name="/home/www/html/nnb/passportization/src/App/TechnicalRequisitions/components/TechnicalRequisitionForm/TechnicalRequisitionForm.php" timestamp="1485524623150">
         <mark key="[" line="173" column="11" />
         <mark key="]" line="175" column="0" />
@@ -7088,9 +7089,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1406" column="17" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1552" column="56" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1553" column="47" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="1554" column="56" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="1555" column="13" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="1556" column="69" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
@@ -7188,6 +7186,9 @@
       <jump line="1767" column="90" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="1936" column="44" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="68" column="27" filename="/home/www/lib/vendor/hrncirr/pnotify/src/TFlashMessagesPresenter.php" />
+      <jump line="216" column="38" filename="/home/www/html/nnb/aktuality/app/Components/NewsItemControl/NewsItemControl.php" />
+      <jump line="19" column="18" filename="/home/www/html/nnb/aktuality/app/Components/NewsItemControl/NewsItemControl.php" />
+      <jump line="31" column="16" filename="/home/www/html/nnb/aktuality/app/Components/NewsItemControl/NewsItemControl.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -7197,7 +7198,7 @@
         <text>extends Objec</text>
       </register>
       <register name="/" type="4">
-        <text>NULL</text>
+        <text>Date</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
@@ -7246,9 +7247,9 @@
       </register>
     </registers>
     <search>
-      <last-search>NULL</last-search>
+      <last-search>Date</last-search>
       <last-offset />
-      <last-pattern>NULL</last-pattern>
+      <last-pattern>Date</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -7256,7 +7257,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mkdir</entry>
         <entry>ls</entry>
         <entry>function ls</entry>
         <entry>hahs</entry>
@@ -7276,6 +7276,7 @@
         <entry>createImportConfig</entry>
         <entry>encode</entry>
         <entry>NULL</entry>
+        <entry>Date</entry>
       </history-search>
       <history-cmd>
         <entry>216</entry>
