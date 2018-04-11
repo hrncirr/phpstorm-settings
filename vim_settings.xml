@@ -1069,6 +1069,11 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="/home/www/vendor/nnb/nette-database/src/Repository.php" timestamp="1523437024762">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+      </file>
       <file name="/home/www/html/nnb/aktuality/app/config/components.neon" timestamp="1506672029185">
         <mark key="[" line="9" column="68" />
         <mark key="]" line="9" column="48" />
@@ -1635,12 +1640,6 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="74" column="27" />
         <mark key="." line="74" column="27" />
-      </file>
-      <file name="/home/www/html/nnb/aktuality/app/Components/NewsItemControl/NewsItemControl.php" timestamp="1523272395757">
-        <mark key="'" line="31" column="16" />
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="4" />
-        <mark key="." line="4" column="4" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Components/TechnicalRequisitionForm/ITechnicalRequisitionFormFactory.php" timestamp="1503557487940">
         <mark key="[" line="27" column="84" />
@@ -4416,7 +4415,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523349390024">
+      <file name="/Dummy.txt" timestamp="1523437044949">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
@@ -5890,6 +5889,9 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="/home/www/html/nnb/nezadouci-udalosti/app/DI/NUExtension.php" timestamp="1523436943270">
+        <mark key="[" line="25" column="35" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Presenters/templates/Subjects/default.latte" timestamp="1511948819355">
         <mark key="[" line="1" column="3" />
         <mark key="]" line="7" column="0" />
@@ -7224,10 +7226,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZGF0ZTogQXBwXEV4dGVuc2lvbnNcRGF0ZUV4dGVuc2lvbiA=</text>
+        <text>extends Nette\Object</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGF0ZTogQXBwXEV4dGVuc2lvbnNcRGF0ZUV4dGVuc2lvbiA=</text>
+        <text>extends Nette\Object</text>
       </register>
       <register name="/" type="4">
         <text>NULL</text>
