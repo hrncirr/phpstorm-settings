@@ -3370,6 +3370,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="/home/www/vendor/nnb/staff/src/Model/Employees.php" timestamp="1523442087595">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="/home/www/html/bul/mamo/app/components/MascForm/MascForm.php" timestamp="1481277205704">
         <mark key="[" line="53" column="29" />
         <mark key="]" line="6" column="0" />
@@ -4427,7 +4432,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523437044949">
+      <file name="/Dummy.txt" timestamp="1523442109695">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
@@ -6572,6 +6577,11 @@
         <mark key="]" line="121" column="0" />
         <mark key="." line="121" column="0" />
       </file>
+      <file name="/home/www/vendor/nnb/staff/src/Model/Employee.php" timestamp="1523442074476">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="/home/www/html/nnb/nezadouci-udalosti/app/Components/Modals/ViewModal.php" timestamp="1482399971117">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -7235,11 +7245,11 @@
       <jump line="90" column="37" filename="/home/www/vendor/hrncirr/history/src/Components/HistoryControl/HistoryControl.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>extends Nette\Object</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXE9iamVjdDsK</text>
       </register>
       <register name="-" type="4">
-        <text>extends Nette\Object</text>
+        <text>extends Object</text>
       </register>
       <register name="/" type="4">
         <text>NULL</text>
@@ -7247,7 +7257,13 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXE9iamVjdDsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXE9iamVjdDsK</text>
+      </register>
+      <register name="3" type="4">
         <text>/**
  * This file is part of the Hrncirr
  *
@@ -7256,35 +7272,29 @@
  * For the full copyright and license information, please view the file license.md that was distributed with this source code.
  */</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dXNlIFBhcnNpZGV2XERhdGVcRGF0ZTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlEYXRlOjpzZXRMb2NhbGUoJ2NzJyk7Cg==</text>
-      </register>
       <register name="4" type="2">
         <text encoding="base64">dXNlIFBhcnNpZGV2XERhdGVcRGF0ZTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">CQlEYXRlOjpzZXRMb2NhbGUoJ2NzJyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">dXNlIFBhcnNpZGV2XERhdGVcRGF0ZTsK</text>
+      </register>
+      <register name="7" type="4">
         <text>/**
 	 * @param string $text
 	 *
 	 * @return $this
 	 */</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>/**
 	 * @param array $items
 	 * @param       $class
 	 *
 	 * @return static
 	 */</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CSAqCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CSAqIEByZXR1cm4gJHRoaXMK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CSAqCg==</text>
