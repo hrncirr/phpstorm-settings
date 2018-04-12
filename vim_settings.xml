@@ -283,6 +283,9 @@
         <mark key="]" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
+      <file name="/home/www/lib/vendor/hrncirr/tabs/src/DI/TabsExtension.php" timestamp="1523534185080">
+        <mark key="[" line="12" column="0" />
+      </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccountsLastAccessControl/templates/AccountsControl.latte" timestamp="1509018450786">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="0" column="4" />
@@ -1495,8 +1498,8 @@
         <mark key="]" line="29" column="3" />
         <mark key="." line="29" column="3" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/tabs/composer.json" timestamp="1498042413954">
-        <mark key="[" line="10" column="15" />
+      <file name="/home/www/lib/vendor/hrncirr/tabs/composer.json" timestamp="1523533481909">
+        <mark key="[" line="11" column="19" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
@@ -2220,6 +2223,13 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="15" column="4" />
         <mark key="." line="15" column="4" />
+      </file>
+      <file name="/home/www/lib/vendor/hrncirr/tabs/src/Components/TabControl/TabControl.php" timestamp="1523533807539">
+        <mark key="'" line="214" column="4" />
+        <mark key="[" line="63" column="58" />
+        <mark key="]" line="214" column="4" />
+        <mark key="^" line="214" column="4" />
+        <mark key="." line="214" column="4" />
       </file>
       <file name="/home/www/html/bul/medical_examinations/app/components/DateSelectorForm/DateSelectorForm.php" timestamp="1481876019764">
         <mark key="[" line="55" column="8" />
@@ -3414,8 +3424,8 @@
         <mark key="]" line="57" column="32" />
         <mark key="." line="57" column="32" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/tabs/src/Components/TabControl/ITabControlFactory.php" timestamp="1498043598699">
-        <mark key="[" line="26" column="64" />
+      <file name="/home/www/lib/vendor/hrncirr/tabs/src/Components/TabControl/ITabControlFactory.php" timestamp="1523533601503">
+        <mark key="[" line="26" column="53" />
         <mark key="]" line="26" column="27" />
         <mark key="." line="26" column="27" />
       </file>
@@ -4453,7 +4463,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523451596331">
+      <file name="/Dummy.txt" timestamp="1523534411715">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
@@ -6784,6 +6794,12 @@
         <mark key="]" line="32" column="32" />
         <mark key="." line="32" column="32" />
       </file>
+      <file name="/home/www/lib/vendor/hrncirr/tabs/src/Components/TabsControl/TabsControl.php" timestamp="1523534222499">
+        <mark key="'" line="54" column="57" />
+        <mark key="[" line="260" column="4" />
+        <mark key="]" line="260" column="4" />
+        <mark key="." line="260" column="4" />
+      </file>
       <file name="/home/www/html/bul/sender/app/config.neon" timestamp="1519216787456">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -7178,8 +7194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2203" column="36" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="2235" column="58" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="2251" column="23" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="3052" column="20" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="3089" column="19" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
@@ -7278,10 +7292,16 @@
       <jump line="90" column="37" filename="/home/www/vendor/hrncirr/history/src/Components/HistoryControl/HistoryControl.php" />
       <jump line="47" column="0" filename="/home/www/lib/vendor/nette/component-model/src/ComponentModel/Component.php" />
       <jump line="34" column="24" filename="/home/www/lib/vendor/hrncirr/nette-menu/src/Menu.php" />
+      <jump line="214" column="4" filename="/home/www/lib/vendor/hrncirr/tabs/src/Components/TabControl/TabControl.php" />
+      <jump line="54" column="57" filename="/home/www/lib/vendor/hrncirr/tabs/src/Components/TabsControl/TabsControl.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXE9iamVjdDsK</text>
+      <register name="&quot;" type="4">
+        <text>/**
+	 * @param IComponent $child
+	 *
+	 * @throws InvalidStateException
+	 */</text>
       </register>
       <register name="-" type="4">
         <text>extends Object</text>
@@ -7292,13 +7312,28 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>/**
+	 * @param IComponent $child
+	 *
+	 * @throws InvalidStateException
+	 */</text>
+      </register>
+      <register name="2" type="4">
+        <text>/**
+	 * @param string $name
+	 * @param bool   $reload
+	 * @param bool   $usePayload
+	 * @param bool   $sendPayload
+	 */</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">dXNlIE5ldHRlXE9iamVjdDsK</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">dXNlIE5ldHRlXE9iamVjdDsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>/**
  * This file is part of the Hrncirr
  *
@@ -7307,32 +7342,21 @@
  * For the full copyright and license information, please view the file license.md that was distributed with this source code.
  */</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXNlIFBhcnNpZGV2XERhdGVcRGF0ZTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlEYXRlOjpzZXRMb2NhbGUoJ2NzJyk7Cg==</text>
-      </register>
       <register name="6" type="2">
         <text encoding="base64">dXNlIFBhcnNpZGV2XERhdGVcRGF0ZTsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">CQlEYXRlOjpzZXRMb2NhbGUoJ2NzJyk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">dXNlIFBhcnNpZGV2XERhdGVcRGF0ZTsK</text>
+      </register>
+      <register name="9" type="4">
         <text>/**
 	 * @param string $text
 	 *
 	 * @return $this
 	 */</text>
-      </register>
-      <register name="8" type="4">
-        <text>/**
-	 * @param array $items
-	 * @param       $class
-	 *
-	 * @return static
-	 */</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CSAqCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
