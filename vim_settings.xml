@@ -2438,10 +2438,10 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/src/User/DI/UserExtension.php" timestamp="1523621980223">
-        <mark key="[" line="78" column="8" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+      <file name="/home/www/html/dv/adera/src/User/DI/UserExtension.php" timestamp="1523623182319">
+        <mark key="[" line="80" column="60" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/www/js/form.default.submit.js" timestamp="1519319163088">
         <mark key="[" line="46" column="0" />
@@ -4470,7 +4470,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523611725485">
+      <file name="/Dummy.txt" timestamp="1523623348592">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
@@ -7291,8 +7291,8 @@
       <jump line="54" column="57" filename="/home/www/lib/vendor/hrncirr/tabs/src/Components/TabsControl/TabsControl.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>use TBlameable;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJKi8K</text>
       </register>
       <register name="-" type="4">
         <text>use TBlameable;</text>
@@ -7304,41 +7304,32 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJLy8tPmFkZFNldHVwKCc/IHNldFVzZXJWYWx1ZScsIFsnQEhybmNpcnJjbXNcVXNlclxVc2VyQ2FsbGFibGUnXSk7Cg==</text>
+        <text encoding="base64">CQkJKi8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS0gSHJuY2lycmNtc1xVc2VyXFVzZXJDYWxsYWJsZQo=</text>
+        <text encoding="base64">CQkJLyoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJLy8tPmFkZFNldHVwKCc/IHNldFVzZXJWYWx1ZScsIFsnQEhybmNpcnJjbXNcVXNlclxVc2VyQ2FsbGFibGUnXSk7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CS0gSHJuY2lycmNtc1xVc2VyXFVzZXJDYWxsYWJsZQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CQkkdXNlckNhbGxhYmxlID0gJHRoaXMtPmJ1aWxkRGVmaW5pdGlvbkZyb21DYWxsYWJsZSgkY29uZmlnWyd1c2VyQ2FsbGFibGUnXSk7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ZHVtcCgkdGhpcy0+Y29tcGlsZXItPmdldENvbnRhaW5lckJ1aWxkZXIoKSk7CgkJZXhpdDs=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>dump($form['dueDate']);
 				exit;</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CgkJCWR1bXAoJGZvcm0tPmdldFZhbHVlcygpKTsKCQkJZXhpdDs=</text>
-      </register>
-      <register name="8" type="4">
-        <text>/**
-	 * @param IComponent $child
-	 *
-	 * @throws InvalidStateException
-	 */</text>
-      </register>
       <register name="9" type="4">
-        <text>/**
-	 * @param string $name
-	 * @param bool   $reload
-	 * @param bool   $usePayload
-	 * @param bool   $sendPayload
-	 */</text>
+        <text encoding="base64">CgkJCWR1bXAoJGZvcm0tPmdldFZhbHVlcygpKTsKCQkJZXhpdDs=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
