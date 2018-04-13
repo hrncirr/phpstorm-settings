@@ -354,10 +354,10 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/src/User/DI/config.neon" timestamp="1513171788413">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="/home/www/html/dv/adera/src/User/DI/config.neon" timestamp="1523614484826">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/application/src/UI/TTranslatorComponent.php" timestamp="1517578247912">
         <mark key="[" line="48" column="5" />
@@ -2249,12 +2249,6 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/home/www/html/nnb/nezadouci-udalosti/app/Components/Forms/FormPermissions.php" timestamp="1523440540732">
-        <mark key="[" line="42" column="8" />
-        <mark key="]" line="42" column="4" />
-        <mark key="." line="42" column="4" />
-        <mark key="^" line="42" column="4" />
-      </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Documents/components/FilesUploadForm/FilesUploadForm.php" timestamp="1484318587018">
         <mark key="[" line="124" column="8" />
         <mark key="]" line="98" column="16" />
@@ -2444,10 +2438,10 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/src/User/DI/UserExtension.php" timestamp="1517484191400">
-        <mark key="[" line="71" column="57" />
-        <mark key="]" line="72" column="4" />
-        <mark key="." line="72" column="4" />
+      <file name="/home/www/html/dv/adera/src/User/DI/UserExtension.php" timestamp="1523615789953">
+        <mark key="[" line="81" column="46" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/www/js/form.default.submit.js" timestamp="1519319163088">
         <mark key="[" line="46" column="0" />
@@ -4950,12 +4944,6 @@
         <mark key="]" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="/home/www/html/nnb/nezadouci-udalosti/app/config/client-side.neon" timestamp="1523443733077">
-        <mark key="[" line="37" column="12" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="39" column="0" />
-      </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" timestamp="1521719366942">
         <mark key="[" line="100" column="37" />
         <mark key="]" line="102" column="27" />
@@ -4966,7 +4954,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/src/Url/DI/UrlExtension.php" timestamp="1506518111270">
+      <file name="/home/www/html/dv/adera/src/Url/DI/UrlExtension.php" timestamp="1523615220498">
         <mark key="[" line="34" column="4" />
         <mark key="]" line="52" column="4" />
         <mark key="." line="52" column="4" />
@@ -6595,12 +6583,6 @@
       <file name="/home/www/vendor/hrncirr/history/src/Exceptions/InvalidStateException.php" timestamp="1523271518262">
         <mark key="[" line="8" column="23" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/nette-menu/src/DI/MenuExtension.php" timestamp="1523451316742">
-        <mark key="[" line="65" column="29" />
-        <mark key="]" line="68" column="20" />
-        <mark key="^" line="68" column="20" />
-        <mark key="." line="68" column="20" />
-      </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Steiner/EyeRoomAccounts/OrpheusAccountsRepository.php" timestamp="1509457221799">
         <mark key="[" line="11" column="61" />
         <mark key="]" line="11" column="61" />
@@ -6927,9 +6909,6 @@
         <mark key="[" line="1" column="8" />
         <mark key="]" line="1" column="4" />
         <mark key="." line="1" column="4" />
-      </file>
-      <file name="/home/www/lib/vendor/nette/component-model/src/ComponentModel/Component.php" timestamp="1523450835346">
-        <mark key="'" line="47" column="0" />
       </file>
       <file name="/home/www/html/bul/mamo/app/config/extensions.neon" timestamp="1518522789205">
         <mark key="[" line="15" column="9" />
@@ -7311,12 +7290,11 @@
       <jump line="54" column="57" filename="/home/www/lib/vendor/hrncirr/tabs/src/Components/TabsControl/TabsControl.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dump($form['dueDate']);
-				exit;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJLy8tPmFkZFNldHVwKCc/IHNldFVzZXJWYWx1ZScsIFsnQEhybmNpcnJjbXNcVXNlclxVc2VyQ2FsbGFibGUnXSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>extends Object</text>
+        <text>'@Hrncirrcms\User\UserCallable()'</text>
       </register>
       <register name="/" type="4">
         <text>NULL</text>
@@ -7324,21 +7302,36 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQkJLy8tPmFkZFNldHVwKCc/IHNldFVzZXJWYWx1ZScsIFsnQEhybmNpcnJjbXNcVXNlclxVc2VyQ2FsbGFibGUnXSk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CS0gSHJuY2lycmNtc1xVc2VyXFVzZXJDYWxsYWJsZQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkkdXNlckNhbGxhYmxlID0gJHRoaXMtPmJ1aWxkRGVmaW5pdGlvbkZyb21DYWxsYWJsZSgkY29uZmlnWyd1c2VyQ2FsbGFibGUnXSk7Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ZHVtcCgkdGhpcy0+Y29tcGlsZXItPmdldENvbnRhaW5lckJ1aWxkZXIoKSk7CgkJZXhpdDs=</text>
+      </register>
+      <register name="6" type="4">
         <text>dump($form['dueDate']);
 				exit;</text>
       </register>
-      <register name="2" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CgkJCWR1bXAoJGZvcm0tPmdldFZhbHVlcygpKTsKCQkJZXhpdDs=</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>/**
 	 * @param IComponent $child
 	 *
 	 * @throws InvalidStateException
 	 */</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text>/**
 	 * @param string $name
 	 * @param bool   $reload
@@ -7346,29 +7339,8 @@
 	 * @param bool   $sendPayload
 	 */</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXE9iamVjdDsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXE9iamVjdDsK</text>
-      </register>
-      <register name="7" type="4">
-        <text>/**
- * This file is part of the Hrncirr
- *
- * Copyright (c) 2017 Roman Hrnčíř
- *
- * For the full copyright and license information, please view the file license.md that was distributed with this source code.
- */</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">dXNlIFBhcnNpZGV2XERhdGVcRGF0ZTsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQlEYXRlOjpzZXRMb2NhbGUoJ2NzJyk7Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>%s/NULL/null/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -7418,12 +7390,12 @@
         <entry>%s/DateTimeImmutable/DateTime/g</entry>
         <entry>145</entry>
         <entry>104</entry>
-        <entry>w</entry>
         <entry>%s/recipients/emails</entry>
         <entry>%s/recipient/email</entry>
         <entry>189</entry>
         <entry>%s/DateTime/DateTimeImmutable/g</entry>
         <entry>%s/NULL/null/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
