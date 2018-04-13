@@ -1020,8 +1020,8 @@
         <mark key="]" line="114" column="0" />
         <mark key="." line="114" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Contract.php" timestamp="1523349405734">
-        <mark key="[" line="15" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Contract.php" timestamp="1523618080813">
+        <mark key="[" line="38" column="13" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
@@ -2498,10 +2498,10 @@
         <mark key="]" line="81" column="15" />
         <mark key="." line="81" column="15" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Intervention.php" timestamp="1522135573904">
-        <mark key="[" line="179" column="24" />
-        <mark key="]" line="93" column="4" />
-        <mark key="." line="93" column="4" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Intervention.php" timestamp="1523618130861">
+        <mark key="[" line="33" column="14" />
+        <mark key="]" line="95" column="4" />
+        <mark key="." line="95" column="4" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/Model/MediaFacade.php" timestamp="1507211175020">
         <mark key="[" line="41" column="36" />
@@ -3772,10 +3772,11 @@
         <mark key="]" line="60" column="8" />
         <mark key="." line="60" column="8" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Invoice.php" timestamp="1523612025560">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Invoice.php" timestamp="1523617810081">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="33" column="0" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Model/Orm/States/StatesRepository.php" timestamp="1502108886667">
         <mark key="[" line="12" column="0" />
@@ -4579,10 +4580,10 @@
         <mark key="]" line="24" column="4" />
         <mark key="." line="24" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/BaseBusinessCaseDocument.php" timestamp="1521719682491">
-        <mark key="[" line="34" column="29" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/BaseBusinessCaseDocument.php" timestamp="1523618242671">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="4" />
+        <mark key="." line="26" column="4" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/tabs/src/Components/TabsControl/TabsControl.latte" timestamp="1499157106951">
         <mark key="[" line="0" column="0" />
@@ -6515,10 +6516,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Inspection.php" timestamp="1522133960984">
-        <mark key="[" line="44" column="38" />
-        <mark key="]" line="109" column="4" />
-        <mark key="." line="109" column="4" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Inspection.php" timestamp="1523618101293">
+        <mark key="[" line="33" column="15" />
+        <mark key="]" line="111" column="4" />
+        <mark key="." line="111" column="4" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Steiner/AmadeusAccounts/AmadeusAccountsRepository.php" timestamp="1509105762938">
         <mark key="[" line="14" column="0" />
@@ -7290,11 +7291,11 @@
       <jump line="54" column="57" filename="/home/www/lib/vendor/hrncirr/tabs/src/Components/TabsControl/TabsControl.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJLy8tPmFkZFNldHVwKCc/IHNldFVzZXJWYWx1ZScsIFsnQEhybmNpcnJjbXNcVXNlclxVc2VyQ2FsbGFibGUnXSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>use TBlameable;</text>
       </register>
       <register name="-" type="4">
-        <text>'@Hrncirrcms\User\UserCallable()'</text>
+        <text>use TBlameable;</text>
       </register>
       <register name="/" type="4">
         <text>NULL</text>
