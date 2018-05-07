@@ -2974,8 +2974,8 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1524048077510">
-        <mark key="[" line="4" column="4" />
+      <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1525690193267">
+        <mark key="[" line="4" column="5" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
@@ -3324,6 +3324,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/libs/vendor/nette/forms/src/Forms/Container.php" timestamp="1525688606612" />
       <file name="/home/www/vendor/hrncirr/cmp/src/Filters/AudioFilter.php" timestamp="1475759573445">
         <mark key="[" line="17" column="6" />
         <mark key="]" line="50" column="4" />
@@ -4212,8 +4213,8 @@
         <mark key="]" line="25" column="4" />
         <mark key="." line="25" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/BaseItem.php" timestamp="1521037188746">
-        <mark key="[" line="61" column="4" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/BaseItem.php" timestamp="1525690337438">
+        <mark key="[" line="48" column="12" />
         <mark key="]" line="61" column="4" />
         <mark key="." line="61" column="4" />
       </file>
@@ -4937,10 +4938,10 @@
         <mark key="]" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" timestamp="1525684242876">
-        <mark key="[" line="70" column="8" />
-        <mark key="]" line="98" column="8" />
-        <mark key="." line="98" column="8" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" timestamp="1525688464683">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/Model/File.php" timestamp="1523348235094">
         <mark key="[" line="4" column="31" />
@@ -6457,10 +6458,10 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/FormParts/TItemsFormPart.php" timestamp="1524048134118">
-        <mark key="[" line="78" column="46" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/FormParts/TItemsFormPart.php" timestamp="1525689493257">
+        <mark key="[" line="56" column="55" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="/home/www/lib/vendor/symplify/symfony-event-dispatcher/src/Adapter/Symfony/DependencyInjection/Extension/ContainerExtension.php" timestamp="1491374344316">
         <mark key="[" line="17" column="76" />
@@ -6625,7 +6626,7 @@
         <mark key="]" line="14" column="55" />
         <mark key="." line="14" column="55" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Money/Forms/Controls/MoneyInput.php" timestamp="1525687880994">
+      <file name="/home/www/html/dv/adera/Modules/Money/Forms/Controls/MoneyInput.php" timestamp="1525689484123">
         <mark key="[" line="81" column="4" />
         <mark key="]" line="81" column="4" />
         <mark key="." line="81" column="4" />
@@ -7280,8 +7281,8 @@
       <jump line="85" column="32" filename="/home/www/html/dv/adera/Modules/Invoicing/locale/invoicing.cs_CZ.neon" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIHN0cmluZ3xudWxsCgkgKi8KCXByb3RlY3RlZCBmdW5jdGlvbiBnZXRSZW5kZXJlZFZhbHVlKCkKCXsKCQlyZXR1cm4gJHRoaXMtPnJhd1ZhbHVlID09PSAnJwoJCQk/ICgkdGhpcy0+ZW1wdHlWYWx1ZSA9PT0gJycgPyBudWxsIDogJHRoaXMtPnRyYW5zbGF0ZSgkdGhpcy0+ZW1wdHlWYWx1ZSkpCgkJCTogJHRoaXMtPnJhd1ZhbHVlOwoJfQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQlkdW1wKCR2YWwpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>(string) $value</text>
@@ -7292,36 +7293,35 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCQlkdW1wKCR2YWwpOwo=</text>
+      </register>
+      <register name="2" type="4">
+        <text>dump($val);
+					exit;</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCS0+YWRkUnVsZShGb3JtOjpGTE9BVCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkvL2R1bXAoJHRoaXNbJ2Zvcm0nXS0+Z2V0VmFsdWVzKCkpOwo=</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIHN0cmluZ3xudWxsCgkgKi8KCXByb3RlY3RlZCBmdW5jdGlvbiBnZXRSZW5kZXJlZFZhbHVlKCkKCXsKCQlyZXR1cm4gJHRoaXMtPnJhd1ZhbHVlID09PSAnJwoJCQk/ICgkdGhpcy0+ZW1wdHlWYWx1ZSA9PT0gJycgPyBudWxsIDogJHRoaXMtPnRyYW5zbGF0ZSgkdGhpcy0+ZW1wdHlWYWx1ZSkpCgkJCTogJHRoaXMtPnJhd1ZhbHVlOwoJfQ==</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQlkdW1wKCR0aGlzLT5yYXdWYWx1ZSk7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>!== '' ?
 			Money::format((float) str_replace(',', '.', $value), false) : '';</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text>$value = $value !== '' ?
 			Money::format((float) str_replace(',', '.', $value), false) : '';</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkkdGhpcy0+c2V0T3B0aW9uKCd0eXBlJywgJ3RleHQnKTsK</text>
-      </register>
-      <register name="6" type="4">
-        <text>$value = '21';
-		
-		/*</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">cHJvdGVjdGVkIGZ1bmN0aW9uIGdldFJlbmRlcmVkVmFsdWUoKQoJewoJCWR1bXAoJHRoaXMtPnZhbHVlKTsKCQlleGl0OwoJfQ==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlkdW1wKCR2YWx1ZSk7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
