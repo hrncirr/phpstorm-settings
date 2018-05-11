@@ -3627,8 +3627,9 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Money/Forms/Controls/DecimalInput.php" timestamp="1526023231955">
-        <mark key="[" line="80" column="88" />
+      <file name="/home/www/html/dv/adera/Modules/Money/Forms/Controls/DecimalInput.php" timestamp="1526024751726">
+        <mark key="'" line="67" column="52" />
+        <mark key="[" line="83" column="40" />
         <mark key="]" line="80" column="69" />
         <mark key="." line="80" column="69" />
         <mark key="^" line="80" column="69" />
@@ -7185,7 +7186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3099" column="15" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="3904" column="57" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="3911" column="52" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="3912" column="52" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
@@ -7285,6 +7285,7 @@
       <jump line="23" column="15" filename="/home/www/html/dv/adera/libs/vendor/gedmo/doctrine-extensions/lib/Gedmo/Mapping/MappedEventSubscriber.php" />
       <jump line="85" column="32" filename="/home/www/html/dv/adera/Modules/Invoicing/locale/invoicing.cs_CZ.neon" />
       <jump line="110" column="29" filename="/home/www/html/dv/adera/libs/vendor/nette/forms/src/Forms/Controls/BaseControl.php" />
+      <jump line="67" column="52" filename="/home/www/html/dv/adera/Modules/Money/Forms/Controls/DecimalInput.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -7297,7 +7298,7 @@
         <text>Money::format((float) str_replace(',', '.', $value), false) : '';</text>
       </register>
       <register name="/" type="4">
-        <text>addRule</text>
+        <text>NULL</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
@@ -7337,13 +7338,13 @@
         <text encoding="base64">CQkJCQlkdW1wKCR2YWwpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/NULL/null/g</text>
       </register>
     </registers>
     <search>
-      <last-search>addRule</last-search>
+      <last-search>NULL</last-search>
       <last-offset />
-      <last-pattern>addRule</last-pattern>
+      <last-pattern>NULL</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -7363,7 +7364,6 @@
         <entry>Date</entry>
         <entry>setLocale</entry>
         <entry>setParent</entry>
-        <entry>NULL</entry>
         <entry>getName</entry>
         <entry>getNameSpace</entry>
         <entry>getNamespace</entry>
@@ -7371,6 +7371,7 @@
         <entry>splatnost</entry>
         <entry>isValid</entry>
         <entry>addRule</entry>
+        <entry>NULL</entry>
       </history-search>
       <history-cmd>
         <entry>216</entry>
@@ -7391,8 +7392,8 @@
         <entry>%s/recipient/email</entry>
         <entry>189</entry>
         <entry>%s/DateTime/DateTimeImmutable/g</entry>
-        <entry>%s/NULL/null/g</entry>
         <entry>w</entry>
+        <entry>%s/NULL/null/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
