@@ -36,7 +36,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1524042057967">
+      <file name="/a.dummy" timestamp="1526027467004">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -408,6 +408,7 @@
         <mark key="]" line="88" column="16" />
         <mark key="." line="88" column="16" />
       </file>
+      <file name="/home/www/html/dv/adera/libs/vendor/nette/forms/src/Forms/Controls/TextBase.php" timestamp="1526028023962" />
       <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Mapping/Drivers/ElFinderFileConsumerDriver.php" timestamp="1513088631439">
         <mark key="[" line="180" column="4" />
         <mark key="]" line="180" column="4" />
@@ -3627,12 +3628,11 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Money/Forms/Controls/DecimalInput.php" timestamp="1526024751726">
-        <mark key="'" line="67" column="52" />
-        <mark key="[" line="83" column="40" />
-        <mark key="]" line="80" column="69" />
-        <mark key="." line="80" column="69" />
-        <mark key="^" line="80" column="69" />
+      <file name="/home/www/html/dv/adera/Modules/Money/Forms/Controls/DecimalInput.php" timestamp="1526027457050">
+        <mark key="'" line="62" column="52" />
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="52" column="4" />
+        <mark key="." line="52" column="4" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Supplier.php" timestamp="1516359007198">
         <mark key="[" line="16" column="4" />
@@ -6588,6 +6588,11 @@
         <mark key="]" line="11" column="61" />
         <mark key="." line="11" column="61" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Money/Forms/Controls/NumberInput.php" timestamp="1526028085108">
+        <mark key="[" line="55" column="4" />
+        <mark key="]" line="55" column="4" />
+        <mark key="." line="55" column="4" />
+      </file>
       <file name="/home/www/vendor/hrncirr/document-parsers/src/Types/AbstractSpreadsheet.php" timestamp="1488894423082">
         <mark key="[" line="63" column="8" />
         <mark key="]" line="63" column="8" />
@@ -6633,11 +6638,11 @@
         <mark key="]" line="14" column="55" />
         <mark key="." line="14" column="55" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Money/Forms/Controls/MoneyInput.php" timestamp="1525693638879">
-        <mark key="[" line="17" column="64" />
-        <mark key="]" line="17" column="64" />
-        <mark key="." line="17" column="64" />
-        <mark key="^" line="17" column="75" />
+      <file name="/home/www/html/dv/adera/Modules/Money/Forms/Controls/MoneyInput.php" timestamp="1526027919896">
+        <mark key="[" line="38" column="37" />
+        <mark key="]" line="38" column="37" />
+        <mark key="." line="38" column="37" />
+        <mark key="^" line="41" column="76" />
       </file>
       <file name="/home/www/html/dv/cms/app/Extensions/Configurators/ExtensionConfig.php" timestamp="1505295912083">
         <mark key="[" line="15" column="0" />
@@ -7289,13 +7294,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/**
-	 * Loads HTTP data.
-	 * @return void
-	 */</text>
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldFZhbHVlKCkKCXsKCQkkdmFsdWUgPSAkdGhpcy0+dmFsdWUgPT09IFN0cmluZ3M6OnRyaW0oJHRoaXMtPnRyYW5zbGF0ZSgkdGhpcy0+ZW1wdHlWYWx1ZSkpID8gJycgOiAkdGhpcy0+dmFsdWU7CgkJcmV0dXJuICR0aGlzLT5udWxsYWJsZSAmJiAkdmFsdWUgPT09ICcnID8gbnVsbCA6ICR2YWx1ZTsKCX0=</text>
       </register>
       <register name="-" type="4">
-        <text>Money::format((float) str_replace(',', '.', $value), false) : '';</text>
+        <text encoding="base64">JiYgIW1ldGhvZF9leGlzdHMoJHZhbHVlLCAnX190b1N0cmluZycp</text>
       </register>
       <register name="/" type="4">
         <text>NULL</text>
@@ -7304,38 +7306,40 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
-        <text>/**
-	 * Loads HTTP data.
-	 * @return void
-	 */</text>
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldFZhbHVlKCkKCXsKCQkkdmFsdWUgPSAkdGhpcy0+dmFsdWUgPT09IFN0cmluZ3M6OnRyaW0oJHRoaXMtPnRyYW5zbGF0ZSgkdGhpcy0+ZW1wdHlWYWx1ZSkpID8gJycgOiAkdGhpcy0+dmFsdWU7CgkJcmV0dXJuICR0aGlzLT5udWxsYWJsZSAmJiAkdmFsdWUgPT09ICcnID8gbnVsbCA6ICR2YWx1ZTsKCX0=</text>
       </register>
       <register name="2" type="4">
-        <text>/**
-	 * Generates control's HTML element.
-	 * @return \Nette\Utils\Html
-	 */</text>
+        <text>if ($value === null) {
+			$value = '';
+		}</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">LyoqCgkgKiBHZW5lcmF0ZXMgY29udHJvbCdzIEhUTUwgZWxlbWVudC4KCSAqIEByZXR1cm4gXE5ldHRlXFV0aWxzXEh0bWwKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGdldENvbnRyb2woKQoJewoJCXJldHVybiBwYXJlbnQ6OmdldENvbnRyb2woKS0+YWRkQXR0cmlidXRlcyhbCgkJCSd2YWx1ZScgPT4gJHRoaXMtPmdldFJlbmRlcmVkVmFsdWUoKSwKCQkJJ3R5cGUnID0+ICd0ZXh0JwoJCV0pOwoJfQ==</text>
+        <text>if ($value === null) {
+			$value = '';
+		}</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">JHRoaXMtPnNldFJlcXVpcmVkKHRydWUpCgkJCS0+YWRkUnVsZShbJHRoaXMsICdpc1ZhbGlkJ10sICdTcHLDoXZuw70gesOhcGlzIGNlbnkgamUgKMSNLMSNxI0pLicpOw==</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQlwYXJlbnQ6OnNldFZhbHVlKCR2YWx1ZSk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbjsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldFZhbHVlKCkKCXsKCQkkdmFsdWUgPSAkdGhpcy0+dmFsdWUgPT09IFN0cmluZ3M6OnRyaW0oJHRoaXMtPnRyYW5zbGF0ZSgkdGhpcy0+ZW1wdHlWYWx1ZSkpID8gJycgOiAkdGhpcy0+dmFsdWU7CgkJCgkJcmV0dXJuICR2YWx1ZSAhPT0gbnVsbCA/IHN0cl9yZXBsYWNlKCcsJywgJy4nLCAkdmFsdWUpIDogJyc7Cgl9</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">aWYgKCR2YWx1ZSA9PT0gbnVsbCkgewoJCQkkdmFsdWUgPSAnJzsKCQl9IGVsc2VpZiAoIWlzX3NjYWxhcigkdmFsdWUpICYmICFtZXRob2RfZXhpc3RzKCR2YWx1ZSwgJ19fdG9TdHJpbmcnKSkgewoJCQl0aHJvdyBuZXcgSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uKHNwcmludGYoIlZhbHVlIG11c3QgYmUgc2NhbGFyIG9yIG51bGwsICVzIGdpdmVuIGluIGZpZWxkICclcycuIiwKCQkJCVxnZXR0eXBlKCR2YWx1ZSksICR0aGlzLT5uYW1lKSk7CgkJfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkkdGhpcy0+dmFsdWUgPSAkdmFsdWUgIT09ICcnID8gbnVtYmVyX2Zvcm1hdCgkdGhpcy0+dmFsdWUsICR0aGlzLT5zY2FsZSwgJy4nLCAnJykgOiAnJzsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">dXNlIEludm9pY2luZ1xGb3Jtc1xDb250cm9sc1xNb25leUlucHV0Owo=</text>
+      <register name="7" type="4">
+        <text>if (!empty($value)) {
+			dump($value);
+			dump((float) $value);
+			exit;
+		}</text>
       </register>
       <register name="8" type="4">
-        <text>$parts = explode(',', (string) $amount);
-		$parts[1] = isset($parts[1]) ? str_pad($parts[1], 2, '0') : '00';</text>
+        <text encoding="base64">LyoKCXB1YmxpYyBmdW5jdGlvbiBnZXRWYWx1ZSgpCgl7CgkJJHZhbHVlID0gJHRoaXMtPnZhbHVlID09PSBTdHJpbmdzOjp0cmltKCR0aGlzLT50cmFuc2xhdGUoJHRoaXMtPmVtcHR5VmFsdWUpKSA/ICcnIDogJHRoaXMtPnZhbHVlOwoJCQoJCWR1bXAoJHRoaXMtPnJhd1ZhbHVlKTsKCQlkdW1wKCR2YWx1ZSk7CgkJZXhpdDsKCQkKCQlyZXR1cm4gJHZhbHVlICE9PSBudWxsID8gc3RyX3JlcGxhY2UoJywnLCAnLicsICR2YWx1ZSkgOiAnJzsKCX0KCSov</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCQlkdW1wKCR2YWwpOwo=</text>
+      <register name="9" type="4">
+        <text>$rawValue = $value !== '' ?
+			Money::format((float) str_replace(',', '.', $value), false) : '';</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
