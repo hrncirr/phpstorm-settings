@@ -4948,10 +4948,10 @@
         <mark key="]" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" timestamp="1525688464683">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" timestamp="1526038330004">
+        <mark key="[" line="203" column="41" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/Model/File.php" timestamp="1523348235094">
         <mark key="[" line="4" column="31" />
@@ -6594,8 +6594,8 @@
         <mark key="]" line="11" column="61" />
         <mark key="." line="11" column="61" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Money/Forms/Controls/NumberInput.php" timestamp="1526035745440">
-        <mark key="[" line="51" column="8" />
+      <file name="/home/www/html/dv/adera/Modules/Money/Forms/Controls/NumberInput.php" timestamp="1526038122281">
+        <mark key="[" line="52" column="66" />
         <mark key="]" line="51" column="8" />
         <mark key="." line="51" column="8" />
       </file>
@@ -7299,8 +7299,8 @@
       <jump line="67" column="52" filename="/home/www/html/dv/adera/Modules/Money/Forms/Controls/DecimalInput.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.replace('.', ',')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIE1wZGZcRm9ybTsK</text>
       </register>
       <register name="-" type="4">
         <text>.replace('.', ',')</text>
@@ -7311,7 +7311,10 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">dXNlIE1wZGZcRm9ybTsK</text>
+      </register>
+      <register name="2" type="4">
         <text>/*
 		if ($value !== '') {
 			dump($value);
@@ -7319,33 +7322,30 @@
 		}
 		*/</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CQkJJHZhbHVlID0gbnVtYmVyX2Zvcm1hdCgoZmxvYXQpICR0aGlzLT52YWx1ZSwgJHRoaXMtPnNjYWxlLCAnLCcsICcnKTsK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkJZHVtcCgnYWFhYWEnKTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IT09ICcnID8gbnVtYmVyX2Zvcm1hdCgoZmxvYXQpICR0aGlzLT52YWx1ZSwKCQkJJHRoaXMtPnNjYWxlLCcsJywnJykgOiAnJw==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">LT5hZGRSdWxlKGZ1bmN0aW9uIChUZXh0SW5wdXQgJGlucHV0KSB7CgkJCQkJcmV0dXJuICRpbnB1dC0+Z2V0VmFsdWUoKSAhPT0gbnVsbCA/IFN0cmluZ3M6Om1hdGNoKCRpbnB1dC0+Z2V0VmFsdWUoKSwKCQkJCQkJJyNeXGQrKHwoXC58LClcZCspJCMnKSA6IHRydWU7CgkJCQl9LCAnU3Byw6F2bsO9IHrDoXBpcyBtbm/FvnN0dsOtIGplICjEjSzEjcSNKS4nKQoJCQkJLT5hZGRGaWx0ZXIoZnVuY3Rpb24gKCR2YWx1ZSkgewoJCQkJCXJldHVybiBzdHJfcmVwbGFjZSgnLCcsICcuJywgJHZhbHVlKTs=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldFZhbHVlKCkKCXsKCQkkdmFsdWUgPSAkdGhpcy0+dmFsdWUgPT09IFN0cmluZ3M6OnRyaW0oJHRoaXMtPnRyYW5zbGF0ZSgkdGhpcy0+ZW1wdHlWYWx1ZSkpID8gJycgOiAkdGhpcy0+dmFsdWU7CgkJcmV0dXJuICR0aGlzLT5udWxsYWJsZSAmJiAkdmFsdWUgPT09ICcnID8gbnVsbCA6ICR2YWx1ZTsKCX0=</text>
-      </register>
       <register name="7" type="4">
-        <text>if ($value === null) {
-			$value = '';
-		}</text>
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldFZhbHVlKCkKCXsKCQkkdmFsdWUgPSAkdGhpcy0+dmFsdWUgPT09IFN0cmluZ3M6OnRyaW0oJHRoaXMtPnRyYW5zbGF0ZSgkdGhpcy0+ZW1wdHlWYWx1ZSkpID8gJycgOiAkdGhpcy0+dmFsdWU7CgkJcmV0dXJuICR0aGlzLT5udWxsYWJsZSAmJiAkdmFsdWUgPT09ICcnID8gbnVsbCA6ICR2YWx1ZTsKCX0=</text>
       </register>
       <register name="8" type="4">
         <text>if ($value === null) {
 			$value = '';
 		}</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQlwYXJlbnQ6OnNldFZhbHVlKCR2YWx1ZSk7Cg==</text>
+      <register name="9" type="4">
+        <text>if ($value === null) {
+			$value = '';
+		}</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
