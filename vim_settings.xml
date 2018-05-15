@@ -18,8 +18,8 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Subject.php" timestamp="1524730131329">
-        <mark key="[" line="56" column="37" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Subject.php" timestamp="1526381276920">
+        <mark key="[" line="30" column="12" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Events/BusinessCaseFileImportSubscriber.php" timestamp="1521128659919">
         <mark key="[" line="53" column="95" />
@@ -1640,7 +1640,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseDocumentFormControl.php" timestamp="1522064452586">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseDocumentFormControl.php" timestamp="1526381545628">
         <mark key="[" line="65" column="46" />
         <mark key="]" line="48" column="8" />
         <mark key="." line="48" column="8" />
@@ -2979,10 +2979,11 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1525690193267">
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1526381774544">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="4" column="4" />
+        <mark key="." line="4" column="4" />
+        <mark key="^" line="4" column="4" />
       </file>
       <file name="/home/www/html/dv/cms/src/Admin/AdminModule/Presenters/BasePresenter.php" timestamp="1506507163228">
         <mark key="[" line="31" column="0" />
@@ -4917,7 +4918,6 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/templates/Invoice.latte" timestamp="1526305236276" />
       <file name="/home/www/html/dv/cms/Modules/Storage/Components/ItemGroupForm/IItemGroupFormFactory.php" timestamp="1497605102853">
         <mark key="[" line="11" column="18" />
         <mark key="]" line="11" column="18" />
@@ -5667,6 +5667,9 @@
         <mark key="[" line="12" column="10" />
         <mark key="]" line="12" column="10" />
         <mark key="." line="12" column="10" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectsGrid/TabsControlFactory.php" timestamp="1526381559220">
+        <mark key="[" line="170" column="68" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/fullcalendar/src/EventSource.php" timestamp="1522045795015">
         <mark key="[" line="68" column="39" />
