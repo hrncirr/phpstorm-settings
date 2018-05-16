@@ -4481,7 +4481,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526388020644">
+      <file name="/Dummy.txt" timestamp="1526467981932">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
@@ -5840,10 +5840,11 @@
         <mark key="]" line="49" column="30" />
         <mark key="." line="49" column="30" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Search/Presenters/DefaultPresenter.php" timestamp="1526466127701">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Search/Presenters/DefaultPresenter.php" timestamp="1526467767917">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="51" column="32" />
+        <mark key="." line="51" column="32" />
+        <mark key="^" line="51" column="32" />
       </file>
       <file name="/home/www/vendor/hrncirr/media/src/Routers/FileRouterFactory.php" timestamp="1513074313057">
         <mark key="[" line="25" column="5" />
@@ -6161,9 +6162,9 @@
         <mark key="]" line="23" column="12" />
         <mark key="." line="23" column="12" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Search/Query/SearchQuery.php" timestamp="1526462828170">
+      <file name="/home/www/html/nnb/dms/src/Search/Query/SearchQuery.php" timestamp="1526467860311">
         <mark key="'" line="173" column="40" />
-        <mark key="[" line="99" column="4" />
+        <mark key="[" line="118" column="22" />
         <mark key="]" line="99" column="46" />
         <mark key="." line="99" column="46" />
         <mark key="^" line="99" column="46" />
@@ -7323,52 +7324,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJZHVtcCgkc2VhcmNoRmlsZS0+Z2V0SWQoKSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ID0+IFsnb3JkZXInID0+ICdkZXNjJ10=</text>
       </register>
       <register name="/" type="4">
-        <text>createHydratingQuery</text>
+        <text>dump</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJZHVtcCgkc2VhcmNoRmlsZS0+Z2V0SWQoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkkc2VhcmNoLT4K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CQkkc2VhcmNoLT4K</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJLT5hZGRTb3J0KFsnbmFtZScgPT4gWydvcmRlcicgPT4gJ2FzYyddXSkK</text>
+        <text encoding="base64">CQkkc2VhcmNoLT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvL2VjaG8gJHFiLT5nZXRRdWVyeSgpLT5nZXRTUUwoKTsK</text>
+        <text encoding="base64">CQkJLT5hZGRTb3J0KFsnbmFtZScgPT4gWydvcmRlcicgPT4gJ2FzYyddXSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJLT5hZGRTb3J0KFsnX3Njb3JlJ10pCg==</text>
+        <text encoding="base64">CQkvL2VjaG8gJHFiLT5nZXRRdWVyeSgpLT5nZXRTUUwoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCS0+c2V0Cg==</text>
+        <text encoding="base64">CQkJLT5hZGRTb3J0KFsnX3Njb3JlJ10pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkkcXVlcnktPgo=</text>
+        <text encoding="base64">CQkJCS0+c2V0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
       </register>
     </registers>
     <search>
-      <last-search>createHydratingQuery</last-search>
+      <last-search>dump</last-search>
       <last-offset />
-      <last-pattern>createHydratingQuery</last-pattern>
+      <last-pattern>dump</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -7376,7 +7377,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dump</entry>
         <entry>function mount</entry>
         <entry>mount</entry>
         <entry>ARGS</entry>
@@ -7396,6 +7396,7 @@
         <entry>Query</entry>
         <entry>ids</entry>
         <entry>createHydratingQuery</entry>
+        <entry>dump</entry>
       </history-search>
       <history-cmd>
         <entry>216</entry>
