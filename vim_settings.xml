@@ -2452,9 +2452,9 @@
         <mark key="." line="51" column="12" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/TDiscount.php" timestamp="1526554861357">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Utils/Helpers.php" timestamp="1519894676416">
         <mark key="[" line="29" column="60" />
@@ -4498,7 +4498,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526556080268">
+      <file name="/Dummy.txt" timestamp="1526558853728">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
@@ -4943,10 +4943,10 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/templates/Invoice.latte" timestamp="1526387152717">
-        <mark key="[" line="276" column="22" />
-        <mark key="]" line="273" column="26" />
-        <mark key="." line="273" column="26" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/templates/Invoice.latte" timestamp="1526558554793">
+        <mark key="[" line="233" column="39" />
+        <mark key="]" line="233" column="39" />
+        <mark key="." line="233" column="39" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Storage/Components/ItemGroupForm/IItemGroupFormFactory.php" timestamp="1497605102853">
         <mark key="[" line="11" column="18" />
@@ -6503,10 +6503,10 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/FormParts/TItemsFormPart.php" timestamp="1526555343490">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/FormParts/TItemsFormPart.php" timestamp="1526558083220">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="/home/www/lib/vendor/symplify/symfony-event-dispatcher/src/Adapter/Symfony/DependencyInjection/Extension/ContainerExtension.php" timestamp="1491374344316">
         <mark key="[" line="17" column="76" />
@@ -7338,11 +7338,11 @@
       <jump line="173" column="40" filename="/home/www/html/nnb/dms/src/Search/Query/SearchQuery.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCSR0aGlzLT5kaXNjb3VudCAvIDEwMCAqICR0aGlzLT5wcmljZQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">TW9uZXlcVXRpbHNcTW9uZXk6OmZvcm1hdCgkaXRlbS0+Z2V0UHJpY2UoKSl9</text>
       </register>
       <register name="-" type="4">
-        <text>SubjectNameInput $subjectNameInput,</text>
+        <text encoding="base64">TW9uZXlcVXRpbHNcTW9uZXk6OmZvcm1hdCgkaXRlbS0+Z2V0UHJpY2UoKSl9</text>
       </register>
       <register name="/" type="4">
         <text>default</text>
@@ -7351,31 +7351,31 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCSR0aGlzLT5kaXNjb3VudCAvIDEwMCAqICR0aGlzLT5wcmljZQo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJJGl0ZW0tPmFkZEludGVnZXIoJ3ZhdCcsICR0cmFuc2xhdG9yRG9tYWluIC4gJ3ZhdC50aXRsZScpOwo=</text>
+        <text encoding="base64">CQkJZXhpdDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XFZhbGlkYXRvclxDb25zdHJhaW50cyBhcyBBc3NlcnQ7Cg==</text>
+        <text encoding="base64">CQkJZHVtcCgkaXRlbVsnZGlzY291bnQnXSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XFZhbGlkYXRvclxDb25zdHJhaW50cyBhcyBBc3NlcnQ7Cg==</text>
+        <text encoding="base64">CQkJCSR0aGlzLT5kaXNjb3VudCAvIDEwMCAqICR0aGlzLT5wcmljZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XFZhbGlkYXRvclxDb25zdHJhaW50cyBhcyBBc3NlcnQ7Cg==</text>
+        <text encoding="base64">CQkJJGl0ZW0tPmFkZEludGVnZXIoJ3ZhdCcsICR0cmFuc2xhdG9yRG9tYWluIC4gJ3ZhdC50aXRsZScpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIERvY3RyaW5lXE9STVxNYXBwaW5nIGFzIE9STTsK</text>
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XFZhbGlkYXRvclxDb25zdHJhaW50cyBhcyBBc3NlcnQ7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">LyoqCgkgKiBAT1JNXENvbHVtbih0eXBlPSJpbnRlZ2VyIiwgbnVsbGFibGU9dHJ1ZSkKCSAqIEBBc3NlcnRcVHlwZSgKCSAqICAgICAgdHlwZT0iaW50ZWdlciIKCSAqICkKCSAqIEBBc3NlcnRcUmFuZ2UoCgkgKiAgICAgIG1pbj0xLAoJICogICAgICBtYXg9MTAwCgkgKiApCgkgKiBAdmFyIGludAoJICovCglwcml2YXRlICRkaXNjb3VudDsKCQoJCgkvKioKCSAqIEByZXR1cm4gaW50fG51bGwKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGdldERpc2NvdW50KCk6ID9pbnQKCXsKCQlyZXR1cm4gJHRoaXMtPmRpc2NvdW50OwoJfQoJCgkKCS8qKgoJICogQHBhcmFtIGludHxudWxsICRkaXNjb3VudAoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0RGlzY291bnQoP2ludCAkZGlzY291bnQpOiB2b2lkCgl7CgkJJHRoaXMtPmRpc2NvdW50ID0gJGRpc2NvdW50OwoJfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XFZhbGlkYXRvclxDb25zdHJhaW50cyBhcyBBc3NlcnQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIE1vbmV5XFRQcmljZVZhdCBhcyBUTW9uZXlQcmljZVZhVDsK</text>
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XFZhbGlkYXRvclxDb25zdHJhaW50cyBhcyBBc3NlcnQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIE1vbmV5XFRQcmljZSBhcyBUTW9uZXlQcmljZTsK</text>
+        <text encoding="base64">dXNlIERvY3RyaW5lXE9STVxNYXBwaW5nIGFzIE9STTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
