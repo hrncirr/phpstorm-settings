@@ -5743,8 +5743,9 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Search/resources/file.type.neon" timestamp="1493374485410">
-        <mark key="[" line="14" column="19" />
+      <file name="/home/www/html/nnb/dms/src/Search/resources/file.type.neon" timestamp="1527692176947">
+        <mark key="'" line="9" column="17" />
+        <mark key="[" line="28" column="8" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
@@ -6512,8 +6513,11 @@
         <mark key="]" line="108" column="0" />
         <mark key="." line="108" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Search/resources/dms.index.neon" timestamp="1527690417240">
+      <file name="/home/www/html/nnb/dms/src/Search/resources/dms.index.neon" timestamp="1527692051737">
         <mark key="[" line="33" column="11" />
+        <mark key="]" line="33" column="11" />
+        <mark key="^" line="33" column="11" />
+        <mark key="." line="33" column="11" />
       </file>
       <file name="/home/www/lib/vendor/symplify/symfony-event-dispatcher/src/Adapter/Symfony/DependencyInjection/Extension/ContainerExtension.php" timestamp="1491374344316">
         <mark key="[" line="17" column="76" />
@@ -7242,8 +7246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4039" column="28" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="4143" column="92" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="802" column="22" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="1710" column="31" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="1711" column="55" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
@@ -7342,6 +7344,8 @@
       <jump line="187" column="42" filename="/home/www/html/nnb/dms/src/Search/Query/SearchQuery.php" />
       <jump line="173" column="40" filename="/home/www/html/nnb/dms/src/Search/Query/SearchQuery.php" />
       <jump line="36" column="24" filename="/home/www/html/nnb/dms/app/config/config.neon" />
+      <jump line="29" column="8" filename="/home/www/html/nnb/dms/src/Search/resources/file.type.neon" />
+      <jump line="9" column="17" filename="/home/www/html/nnb/dms/src/Search/resources/file.type.neon" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -7351,7 +7355,7 @@
         <text encoding="base64">TW9uZXlcVXRpbHNcTW9uZXk6OmZvcm1hdCgkaXRlbS0+Z2V0UHJpY2UoKSl9</text>
       </register>
       <register name="/" type="4">
-        <text>nettrine</text>
+        <text>string</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
@@ -7384,22 +7388,20 @@
         <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XFZhbGlkYXRvclxDb25zdHJhaW50cyBhcyBBc3NlcnQ7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/NULL/null/g</text>
+        <text>%s/string/text/g</text>
       </register>
     </registers>
     <search>
-      <last-search>nettrine</last-search>
+      <last-search>string</last-search>
       <last-offset />
-      <last-pattern>nettrine</last-pattern>
-      <last-replace>null</last-replace>
-      <last-substitute>NULL</last-substitute>
+      <last-pattern>string</last-pattern>
+      <last-replace>text</last-replace>
+      <last-substitute>string</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>createImportConfig</entry>
-        <entry>encode</entry>
         <entry>Date</entry>
         <entry>setLocale</entry>
         <entry>setParent</entry>
@@ -7418,10 +7420,10 @@
         <entry>default</entry>
         <entry>netterine</entry>
         <entry>nettrine</entry>
+        <entry>includeInAll</entry>
+        <entry>string</entry>
       </history-search>
       <history-cmd>
-        <entry>216</entry>
-        <entry>433</entry>
         <entry>253</entry>
         <entry>522</entry>
         <entry>193</entry>
@@ -7440,6 +7442,8 @@
         <entry>%s/DateTime/DateTimeImmutable/g</entry>
         <entry>w</entry>
         <entry>%s/NULL/null/g</entry>
+        <entry>%s/includeInAll/copyTo/g</entry>
+        <entry>%s/string/text/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
