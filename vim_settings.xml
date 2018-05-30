@@ -3963,6 +3963,12 @@
         <mark key="]" line="26" column="34" />
         <mark key="." line="26" column="34" />
       </file>
+      <file name="/home/www/html/nnb/dms/app/config/config.neon" timestamp="1527690806934">
+        <mark key="'" line="36" column="24" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InspectionsGrid/templates/InspectionForm.latte" timestamp="1522135612689">
         <mark key="[" line="1" column="15" />
       </file>
@@ -4519,6 +4525,9 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="4" />
         <mark key="." line="40" column="4" />
+      </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/DoctrineFilters/DocumentFilter.php" timestamp="1527690332287">
+        <mark key="[" line="47" column="30" />
       </file>
       <file name="/home/www/html/nnb/dms/app/components/GridFactory.php" timestamp="1485354131312">
         <mark key="[" line="43" column="8" />
@@ -6503,6 +6512,9 @@
         <mark key="]" line="108" column="0" />
         <mark key="." line="108" column="0" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Search/resources/dms.index.neon" timestamp="1527690417240">
+        <mark key="[" line="33" column="11" />
+      </file>
       <file name="/home/www/lib/vendor/symplify/symfony-event-dispatcher/src/Adapter/Symfony/DependencyInjection/Extension/ContainerExtension.php" timestamp="1491374344316">
         <mark key="[" line="17" column="76" />
         <mark key="]" line="17" column="76" />
@@ -6543,10 +6555,10 @@
         <mark key="]" line="110" column="0" />
         <mark key="." line="110" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/app/config/extensions.neon" timestamp="1515577919857">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="/home/www/html/nnb/dms/app/config/extensions.neon" timestamp="1527690938992">
+        <mark key="[" line="33" column="4" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Inspection.php" timestamp="1523618101293">
         <mark key="[" line="33" column="15" />
@@ -7230,7 +7242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4032" column="40" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="4039" column="28" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="4143" column="92" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="802" column="22" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
@@ -7330,37 +7341,38 @@
       <jump line="176" column="32" filename="/home/www/html/nnb/dms/src/Search/Query/SearchQuery.php" />
       <jump line="187" column="42" filename="/home/www/html/nnb/dms/src/Search/Query/SearchQuery.php" />
       <jump line="173" column="40" filename="/home/www/html/nnb/dms/src/Search/Query/SearchQuery.php" />
+      <jump line="36" column="24" filename="/home/www/html/nnb/dms/app/config/config.neon" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">TW9uZXlcVXRpbHNcTW9uZXk6OmZvcm1hdCgkaXRlbS0+Z2V0UHJpY2UoKSl9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWFubm90YXRpb25zOgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">TW9uZXlcVXRpbHNcTW9uZXk6OmZvcm1hdCgkaXRlbS0+Z2V0UHJpY2UoKSl9</text>
       </register>
       <register name="/" type="4">
-        <text>default</text>
+        <text>nettrine</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CWFubm90YXRpb25zOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJZXhpdDsK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJZHVtcCgkaXRlbVsnZGlzY291bnQnXSk7Cg==</text>
+        <text encoding="base64">CQkJZXhpdDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCSR0aGlzLT5kaXNjb3VudCAvIDEwMCAqICR0aGlzLT5wcmljZQo=</text>
+        <text encoding="base64">CQkJZHVtcCgkaXRlbVsnZGlzY291bnQnXSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJJGl0ZW0tPmFkZEludGVnZXIoJ3ZhdCcsICR0cmFuc2xhdG9yRG9tYWluIC4gJ3ZhdC50aXRsZScpOwo=</text>
+        <text encoding="base64">CQkJCSR0aGlzLT5kaXNjb3VudCAvIDEwMCAqICR0aGlzLT5wcmljZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XFZhbGlkYXRvclxDb25zdHJhaW50cyBhcyBBc3NlcnQ7Cg==</text>
+        <text encoding="base64">CQkJJGl0ZW0tPmFkZEludGVnZXIoJ3ZhdCcsICR0cmFuc2xhdG9yRG9tYWluIC4gJ3ZhdC50aXRsZScpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XFZhbGlkYXRvclxDb25zdHJhaW50cyBhcyBBc3NlcnQ7Cg==</text>
@@ -7369,16 +7381,16 @@
         <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XFZhbGlkYXRvclxDb25zdHJhaW50cyBhcyBBc3NlcnQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIERvY3RyaW5lXE9STVxNYXBwaW5nIGFzIE9STTsK</text>
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XFZhbGlkYXRvclxDb25zdHJhaW50cyBhcyBBc3NlcnQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
       </register>
     </registers>
     <search>
-      <last-search>default</last-search>
+      <last-search>nettrine</last-search>
       <last-offset />
-      <last-pattern>default</last-pattern>
+      <last-pattern>nettrine</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -7386,8 +7398,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mount</entry>
-        <entry>ARGS</entry>
         <entry>createImportConfig</entry>
         <entry>encode</entry>
         <entry>Date</entry>
@@ -7406,6 +7416,8 @@
         <entry>createHydratingQuery</entry>
         <entry>dump</entry>
         <entry>default</entry>
+        <entry>netterine</entry>
+        <entry>nettrine</entry>
       </history-search>
       <history-cmd>
         <entry>216</entry>
