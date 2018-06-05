@@ -7352,7 +7352,7 @@
         <text encoding="base64">JHRoaXMtPnNldFZpZXcoJ2Zvcm0nKTs=</text>
       </register>
       <register name="/" type="4">
-        <text>string</text>
+        <text>ajax</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
@@ -7389,9 +7389,9 @@
       </register>
     </registers>
     <search>
-      <last-search>string</last-search>
+      <last-search>ajax</last-search>
       <last-offset />
-      <last-pattern>string</last-pattern>
+      <last-pattern>ajax</last-pattern>
       <last-replace>text</last-replace>
       <last-substitute>string</last-substitute>
       <last-dir>1</last-dir>
@@ -7399,7 +7399,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Date</entry>
         <entry>setLocale</entry>
         <entry>setParent</entry>
         <entry>getName</entry>
@@ -7419,6 +7418,7 @@
         <entry>nettrine</entry>
         <entry>includeInAll</entry>
         <entry>string</entry>
+        <entry>ajax</entry>
       </history-search>
       <history-cmd>
         <entry>253</entry>
