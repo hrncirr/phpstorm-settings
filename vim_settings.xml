@@ -4048,6 +4048,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="/home/www/html/nnb/aktuality/app/Components/BaseControl.php" timestamp="1528356342705">
+        <mark key="[" line="23" column="10" />
+        <mark key="]" line="28" column="55" />
+        <mark key="." line="28" column="55" />
+      </file>
       <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/DI/TechnicalRequisitionsExtension.php" timestamp="1502889567777">
         <mark key="[" line="37" column="37" />
         <mark key="]" line="37" column="37" />
@@ -4509,7 +4514,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528189610950">
+      <file name="/Dummy.txt" timestamp="1528356357305">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
@@ -5786,7 +5791,7 @@
         <mark key="]" line="61" column="15" />
         <mark key="." line="61" column="15" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Model/News.php" timestamp="1523349003240">
+      <file name="/home/www/html/nnb/aktuality/app/Model/News.php" timestamp="1528356285948">
         <mark key="[" line="4" column="37" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Exceptions/DocumentAlreadyExistsException.php" timestamp="1488369264017">
@@ -6132,6 +6137,9 @@
         <mark key="[" line="58" column="4" />
         <mark key="]" line="110" column="4" />
         <mark key="." line="110" column="4" />
+      </file>
+      <file name="/home/www/html/nnb/aktuality/app/Model/User.php" timestamp="1528356289649">
+        <mark key="[" line="4" column="53" />
       </file>
       <file name="/home/www/vendor/hrncirr/modals/src/TModalControl.php" timestamp="1517586337416">
         <mark key="[" line="144" column="4" />
@@ -7345,11 +7353,11 @@
       <jump line="9" column="17" filename="/home/www/html/nnb/dms/src/Search/resources/file.type.neon" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkvLyR0aGlzLT5zZXRWaWV3KCdmb3JtJyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Nette\Http\I</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPnRlbXBsYXRlLT5zdWJqZWN0SW52b2ljZSA9ICRpbnZvaWNlOw==</text>
+        <text>Nette\Http\I</text>
       </register>
       <register name="/" type="4">
         <text>ajax</text>
