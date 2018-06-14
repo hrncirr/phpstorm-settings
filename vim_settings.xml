@@ -3281,8 +3281,8 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/home/www/html/bul/medical_examinations/app/FrontModule/templates/Registration/default.latte" timestamp="1528965569281">
-        <mark key="[" line="24" column="12" />
+      <file name="/home/www/html/bul/medical_examinations/app/FrontModule/templates/Registration/default.latte" timestamp="1528966214994">
+        <mark key="[" line="44" column="19" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/Components/TreeControlFactory.php" timestamp="1507905526315">
         <mark key="[" line="11" column="24" />
@@ -7331,7 +7331,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>contributte.eventDispatcher: Contributte\EventDispatcher\DI\EventDispatcherExtension</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0icHVsbC1sZWZ0IiBzdHlsZT0id2lkdGg6IDE1ZW07Ij4KCQkJCU9yZGluYcSNbsOtIGhvZGlueSBsw6lrYcWZxa86CgkJCQk8YnIvPgoJCQkJcG9uZMSbbMOtOiAxMi4zMCDigJMgMTUuMTUKCQkJCTxici8+CgkJCQlzdMWZZWRhOiAwNy4xNSDigJMgMTUuMTUKCQkJCTxici8+CgkJCQnEjXR2cnRlazogMTIuMzAg4oCTIDE1LjE1CgkJCTwvZGl2Pg==</text>
       </register>
       <register name="-" type="4">
         <text>contributte.eventDispatcher: Contributte\EventDispatcher\DI\EventDispatcherExtension</text>
@@ -7342,32 +7342,32 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dXNlIENvbnRyaWJ1dHRlXEV2ZW50c1xFeHRyYVxFdmVudERpc3BhdGNoZXJcRXZlbnRTdWJzY3JpYmVyOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0icHVsbC1sZWZ0IiBzdHlsZT0id2lkdGg6IDE1ZW07Ij4KCQkJCU9yZGluYcSNbsOtIGhvZGlueSBsw6lrYcWZxa86CgkJCQk8YnIvPgoJCQkJcG9uZMSbbMOtOiAxMi4zMCDigJMgMTUuMTUKCQkJCTxici8+CgkJCQlzdMWZZWRhOiAwNy4xNSDigJMgMTUuMTUKCQkJCTxici8+CgkJCQnEjXR2cnRlazogMTIuMzAg4oCTIDE1LjE1CgkJCTwvZGl2Pg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIENvbnRyaWJ1dHRlXEV2ZW50c1xCcmlkZ2VzXEFwcGxpY2F0aW9uXEV2ZW50XFN0YXJ0dXBFdmVudDsK</text>
+        <text encoding="base64">CQkJCcSNdHZydGVrOiAxMi4zMCDigJMgMTUuMTUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIENvbnRyaWJ1dHRlXEV2ZW50c1xFeHRyYVxFdmVudERpc3BhdGNoZXJcRXZlbnRTdWJzY3JpYmVyOwo=</text>
+        <text encoding="base64">CQkJCXN0xZllZGE6IDA3LjE1IOKAkyAxNS4xNQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29udHJpYnV0dGUuZXZlbnREaXNwYXRjaGVyLmV4dHJhLmFwcGxpY2F0aW9uOiBDb250cmlidXR0ZVxFdmVudHNcRXh0cmFcRElcRXZlbnRBcHBsaWNhdGlvbkJyaWRnZUV4dGVuc2lvbgo=</text>
+        <text encoding="base64">CQkJCTxici8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWNvbnRyaWJ1dHRlLmV2ZW50c0FwcGxpY2F0aW9uQnJpZGdlOiBDb250cmlidXR0ZVxFdmVudHNcQnJpZGdlc1xBcHBsaWNhdGlvblxESVxFdmVudEFwcGxpY2F0aW9uQnJpZGdlRXh0ZW5zaW9uCg==</text>
+        <text encoding="base64">CQkJCXBvbmTEm2zDrTogMTIuMzAg4oCTIDE1LjE1Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIENvbnRyaWJ1dHRlXEV2ZW50c1xCcmlkZ2VzXEFwcGxpY2F0aW9uXEV2ZW50XFJlcXVlc3RFdmVudDsK</text>
+        <text encoding="base64">CQkJCTxici8+Jm5ic3A7PGJyLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkiY29udHJpYnV0dGUvZXZlbnQtYXBwbGljYXRpb24tYnJpZGdlIjogIl4wLjEuMCIsCg==</text>
+        <text encoding="base64">CQkJCTxici8+Jm5ic3A7PGJyLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJcTWVkaWFcRG9jdHJpbmVcSUZpbGU7Cg==</text>
+        <text encoding="base64">CQk8L3A+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvLyR0aGlzLT5zZXRWaWV3KCdmb3JtJyk7Cg==</text>
+        <text encoding="base64">CQk8cD4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/string/text/g</text>
