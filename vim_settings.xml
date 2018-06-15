@@ -275,8 +275,8 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Parser.php" timestamp="1529059955637">
-        <mark key="[" line="8" column="23" />
+      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Parser.php" timestamp="1529061633259">
+        <mark key="[" line="51" column="41" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Storage/locale/storage-forms.cs_CZ.neon" timestamp="1499068257502">
         <mark key="[" line="24" column="9" />
@@ -314,8 +314,8 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Types/Image.php" timestamp="1529060091670">
-        <mark key="[" line="8" column="23" />
+      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Types/Image.php" timestamp="1529061020322">
+        <mark key="[" line="40" column="26" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Documents/components/DocumentForm/DocumentForm.latte" timestamp="1487949699779">
         <mark key="[" line="12" column="20" />
@@ -443,8 +443,8 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/BaseType.php" timestamp="1529059979212">
-        <mark key="[" line="8" column="23" />
+      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/BaseType.php" timestamp="1529061489689">
+        <mark key="[" line="37" column="50" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InterventionsGrid/templates/InterventionsGrid.latte" timestamp="1519390318189">
         <mark key="[" line="28" column="0" />
@@ -500,6 +500,13 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Types/Pdf.php" timestamp="1529063692722">
+        <mark key="'" line="68" column="22" />
+        <mark key="[" line="72" column="34" />
+        <mark key="]" line="72" column="34" />
+        <mark key="^" line="68" column="21" />
+        <mark key="." line="72" column="34" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/FileManagerControlFactory.php" timestamp="1521013151262">
         <mark key="[" line="67" column="0" />
@@ -755,8 +762,9 @@
         <mark key="]" line="13" column="1" />
         <mark key="." line="13" column="1" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Utils/Ocr.php" timestamp="1529060006156">
-        <mark key="[" line="57" column="13" />
+      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Utils/Ocr.php" timestamp="1529062086234">
+        <mark key="'" line="72" column="25" />
+        <mark key="[" line="36" column="50" />
       </file>
       <file name="/home/www/html/bul/mamo/app/FrontModule/presenters/RegistrationPresenter.php" timestamp="1495011419392">
         <mark key="[" line="4" column="0" />
@@ -906,8 +914,8 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/System/Helpers.php" timestamp="1529060642669">
-        <mark key="[" line="61" column="35" />
+      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/System/Helpers.php" timestamp="1529060776103">
+        <mark key="[" line="58" column="59" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Storage/Storage.php" timestamp="1497007444618">
         <mark key="[" line="85" column="37" />
@@ -1153,8 +1161,8 @@
         <mark key="]" line="17" column="27" />
         <mark key="." line="17" column="27" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Types/BaseOfficeOpenXML.php" timestamp="1529060111614">
-        <mark key="[" line="8" column="23" />
+      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Types/BaseOfficeOpenXML.php" timestamp="1529060866072">
+        <mark key="[" line="107" column="39" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/forms-typeahead/src/Exceptions/InvalidArgumentException.php" timestamp="1496228940246">
         <mark key="[" line="10" column="0" />
@@ -1333,6 +1341,11 @@
         <mark key="[" line="21" column="14" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="/home/www/lib/vendor/zenify/doctrine-filters/src/EventSubscriber/EnableFiltersSubscriber.php" timestamp="1528898982990">
+        <mark key="[" line="12" column="47" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/app/Components/BaseFormControl.php" timestamp="1497947034131">
         <mark key="[" line="1" column="0" />
@@ -1549,6 +1562,11 @@
         <mark key="[" line="29" column="3" />
         <mark key="]" line="29" column="3" />
         <mark key="." line="29" column="3" />
+      </file>
+      <file name="/home/www/lib/vendor/hrncirr/tabs/composer.json" timestamp="1529059892643">
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/AddressBook/SubjectCategory.php" timestamp="1498740874895">
         <mark key="[" line="23" column="17" />
@@ -2302,8 +2320,8 @@
         <mark key="]" line="15" column="4" />
         <mark key="." line="15" column="4" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Types/BaseOasisOpenDocument.php" timestamp="1529060116086">
-        <mark key="[" line="8" column="23" />
+      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Types/BaseOasisOpenDocument.php" timestamp="1529060907489">
+        <mark key="[" line="43" column="44" />
       </file>
       <file name="/home/www/html/bul/medical_examinations/app/components/DateSelectorForm/DateSelectorForm.php" timestamp="1481876019764">
         <mark key="[" line="55" column="8" />
@@ -2545,8 +2563,8 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Types/Pptx.php" timestamp="1529060066165">
-        <mark key="[" line="17" column="23" />
+      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Types/Pptx.php" timestamp="1529062593865">
+        <mark key="[" line="113" column="43" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Helpers.php" timestamp="1476856994117">
         <mark key="[" line="20" column="0" />
@@ -2614,8 +2632,8 @@
         <mark key="]" line="38" column="64" />
         <mark key="." line="38" column="64" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Types/Ods.php" timestamp="1529060086957">
-        <mark key="[" line="8" column="23" />
+      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Types/Ods.php" timestamp="1529061045019">
+        <mark key="[" line="36" column="39" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Exceptions/InvalidArgumentException.php" timestamp="1529060196447">
         <mark key="[" line="8" column="23" />
@@ -3283,8 +3301,8 @@
         <mark key="]" line="26" column="4" />
         <mark key="." line="26" column="4" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Types/Doc.php" timestamp="1529060102670">
-        <mark key="[" line="8" column="23" />
+      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Types/Doc.php" timestamp="1529060932617">
+        <mark key="[" line="39" column="50" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccountsLastAccessControl/templates/steinerPrograms.latte" timestamp="1509108057425">
         <mark key="[" line="34" column="57" />
@@ -3636,6 +3654,11 @@
         <mark key="]" line="42" column="8" />
         <mark key="." line="42" column="8" />
       </file>
+      <file name="/home/www/html/bul/medical_examinations/app/config/config.local.neon" timestamp="1528967840853">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="/home/www/html/dv/adera/src/User/Manager.php" timestamp="1515592770910">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -3711,8 +3734,8 @@
         <mark key="]" line="52" column="4" />
         <mark key="." line="52" column="4" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Types/Docx.php" timestamp="1529060097134">
-        <mark key="[" line="17" column="23" />
+      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Types/Docx.php" timestamp="1529062545328">
+        <mark key="[" line="81" column="32" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/tabs/src/Components/TabsControl/ITabsControlFactory.php" timestamp="1498043178173">
         <mark key="[" line="8" column="0" />
@@ -3734,8 +3757,8 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/System/Utils.php" timestamp="1529060120870">
-        <mark key="[" line="8" column="23" />
+      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/System/Utils.php" timestamp="1529062150818">
+        <mark key="[" line="58" column="55" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Supplier.php" timestamp="1516359007198">
         <mark key="[" line="16" column="4" />
@@ -4213,8 +4236,8 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Utils/LibExtractor.php" timestamp="1529060037133">
-        <mark key="[" line="8" column="23" />
+      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Utils/LibExtractor.php" timestamp="1529061962160">
+        <mark key="[" line="27" column="50" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Exceptions/FileNotFoundException.php" timestamp="1529060201207">
         <mark key="[" line="8" column="23" />
@@ -4587,7 +4610,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528972041485">
+      <file name="/Dummy.txt" timestamp="1529062993673">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
@@ -4630,8 +4653,8 @@
         <mark key="]" line="16" column="3" />
         <mark key="." line="16" column="3" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Types/BaseSpreadsheet.php" timestamp="1529060107046">
-        <mark key="[" line="17" column="23" />
+      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Types/BaseSpreadsheet.php" timestamp="1529061060123">
+        <mark key="[" line="89" column="48" />
       </file>
       <file name="/home/www/vendor/hrncirr/media/src/Helpers.php" timestamp="1473147936095">
         <mark key="[" line="19" column="16" />
@@ -4773,8 +4796,8 @@
         <mark key="]" line="18" column="4" />
         <mark key="." line="18" column="4" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Utils/OasisOpenDocumentExtractor.php" timestamp="1529059991260">
-        <mark key="[" line="8" column="23" />
+      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Utils/OasisOpenDocumentExtractor.php" timestamp="1529061425088">
+        <mark key="[" line="30" column="28" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/model/File.php" timestamp="1473934601310">
         <mark key="[" line="12" column="15" />
@@ -5551,8 +5574,8 @@
         <mark key="]" line="44" column="12" />
         <mark key="." line="44" column="12" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/System/IUtilsProvider.php" timestamp="1529060125366">
-        <mark key="[" line="8" column="23" />
+      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/System/IUtilsProvider.php" timestamp="1529061854494">
+        <mark key="[" line="16" column="51" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/TSubjectIds.php" timestamp="1501674939531">
         <mark key="[" line="51" column="4" />
@@ -5654,8 +5677,11 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/DI/DocumentParsersExtension.php" timestamp="1529060616237">
-        <mark key="[" line="157" column="50" />
+      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/DI/DocumentParsersExtension.php" timestamp="1529062983847">
+        <mark key="[" line="59" column="39" />
+        <mark key="]" line="59" column="40" />
+        <mark key="." line="59" column="40" />
+        <mark key="^" line="59" column="76" />
       </file>
       <file name="/home/www/html/nnb/dms/app/Components/BaseFormControl.php" timestamp="1517903736742">
         <mark key="[" line="6" column="0" />
@@ -6244,8 +6270,8 @@
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InspectionsGrid/IInterventionsGridFactory.php" timestamp="1522067485362">
         <mark key="[" line="4" column="33" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/MimeTypeDetector.php" timestamp="1529059960028">
-        <mark key="[" line="8" column="23" />
+      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/MimeTypeDetector.php" timestamp="1529061719205">
+        <mark key="[" line="47" column="15" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Calendar/Presenters/CalendarPresenter.php" timestamp="1522053664548">
         <mark key="[" line="83" column="52" />
@@ -6596,8 +6622,8 @@
         <mark key="]" line="33" column="4" />
         <mark key="." line="33" column="4" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Types/Xls.php" timestamp="1529060055053">
-        <mark key="[" line="9" column="23" />
+      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Types/Xls.php" timestamp="1529062625249">
+        <mark key="[" line="33" column="75" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Console/Commands/Import/PhpDocImport.php" timestamp="1494320116018">
         <mark key="[" line="39" column="0" />
@@ -6648,6 +6674,12 @@
         <mark key="[" line="157" column="86" />
         <mark key="]" line="110" column="0" />
         <mark key="." line="110" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/dms/app/config/extensions.neon" timestamp="1528959669624">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="4" column="4" />
+        <mark key="." line="4" column="4" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Inspection.php" timestamp="1523618101293">
         <mark key="[" line="33" column="15" />
@@ -6714,8 +6746,8 @@
         <mark key="]" line="9" column="32" />
         <mark key="." line="9" column="32" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Types/Ppt.php" timestamp="1529060071261">
-        <mark key="[" line="8" column="23" />
+      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Types/Ppt.php" timestamp="1529061173652">
+        <mark key="[" line="41" column="50" />
       </file>
       <file name="/home/www/vendor/hrncirr/history/src/Exceptions/InvalidStateException.php" timestamp="1523271518262">
         <mark key="[" line="8" column="23" />
@@ -6755,8 +6787,11 @@
         <mark key="]" line="121" column="0" />
         <mark key="." line="121" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Console/ParseCommand.php" timestamp="1529060218815">
-        <mark key="[" line="8" column="23" />
+      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Console/ParseCommand.php" timestamp="1529062470471">
+        <mark key="[" line="45" column="8" />
+        <mark key="]" line="45" column="8" />
+        <mark key="." line="45" column="8" />
+        <mark key="^" line="45" column="4" />
       </file>
       <file name="/home/www/vendor/nnb/staff/src/Model/Employee.php" timestamp="1523442074476">
         <mark key="[" line="4" column="0" />
@@ -7132,11 +7167,13 @@
         <mark key="]" line="26" column="4" />
         <mark key="." line="26" column="4" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Document.php" timestamp="1529059973220">
-        <mark key="[" line="8" column="23" />
+      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Document.php" timestamp="1529061542531">
+        <mark key="[" line="89" column="43" />
+        <mark key="]" line="89" column="43" />
+        <mark key="." line="89" column="43" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Types/Rtf.php" timestamp="1529060059925">
-        <mark key="[" line="8" column="23" />
+      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Types/Rtf.php" timestamp="1529061896390">
+        <mark key="[" line="27" column="50" />
       </file>
       <file name="/home/www/vendor/nnb/application/src/Bootstrap.php" timestamp="1478854155399">
         <mark key="[" line="37" column="4" />
@@ -7153,8 +7190,8 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Helpers.php" timestamp="1529059966908">
-        <mark key="[" line="8" column="0" />
+      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Helpers.php" timestamp="1529061549730">
+        <mark key="[" line="28" column="37" />
       </file>
       <file name="/home/www/html/bul/contracts/app/components/DocumentForm/DocumentForm.php" timestamp="1518614900470">
         <mark key="[" line="64" column="0" />
@@ -7249,8 +7286,8 @@
         <mark key="]" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Types/Xlsx.php" timestamp="1529060049173">
-        <mark key="[" line="17" column="0" />
+      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Types/Xlsx.php" timestamp="1529061291222">
+        <mark key="[" line="85" column="26" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
@@ -7339,11 +7376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1710" column="31" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1711" column="55" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1373" column="28" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1489" column="16" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1658" column="29" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="1713" column="29" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="1884" column="48" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="1919" column="34" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
@@ -7439,58 +7471,63 @@
       <jump line="29" column="8" filename="/home/www/html/nnb/dms/src/Search/resources/file.type.neon" />
       <jump line="9" column="17" filename="/home/www/html/nnb/dms/src/Search/resources/file.type.neon" />
       <jump line="65" column="22" filename="/home/www/lib/vendor/hrncirr/document-parsers/src/Types/Pdf.php" />
+      <jump line="36" column="35" filename="/home/www/lib/vendor/hrncirr/document-parsers/src/Utils/Ocr.php" />
+      <jump line="71" column="26" filename="/home/www/lib/vendor/hrncirr/document-parsers/src/Utils/Ocr.php" />
+      <jump line="118" column="31" filename="/home/www/lib/vendor/hrncirr/document-parsers/src/Utils/Ocr.php" />
+      <jump line="120" column="37" filename="/home/www/lib/vendor/hrncirr/document-parsers/src/Utils/Ocr.php" />
+      <jump line="72" column="25" filename="/home/www/lib/vendor/hrncirr/document-parsers/src/Utils/Ocr.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVjbGFyZShzdHJpY3RfdHlwZXM9MSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'Hrncirr\DocumentParsers\Types\Image'</text>
       </register>
       <register name="-" type="4">
-        <text>contributte.eventDispatcher: Contributte\EventDispatcher\DI\EventDispatcherExtension</text>
+        <text>'Hrncirr\DocumentParsers\Types\Image'</text>
       </register>
       <register name="/" type="4">
-        <text>NULL</text>
+        <text>getSystemCommandConfig</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">aWYgKCEkaW5wdXQtPmdldE9wdGlvbignZm9yY2UnKSAmJiBmaWxlX2V4aXN0cygkb3V0cHV0RmlsZSkpIHsKCQkJCSRvdXRwdXQtPndyaXRlbG4oJzxlcnJvcj5PdXRwdXQgZmlsZSBhbHJlYWR5IGV4aXN0cywgdXNlIGZvcmNlIG9wdGlvbiB0byByZXBsYWNlIGl0PC9lcnJvcj4nKTsKCQkJfQ==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ZGVjbGFyZShzdHJpY3RfdHlwZXM9MSk7Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>private function ocr($filename)
 	{
 		
 	}</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkJJGRvY3VtZW50Qm9keSA9ICR0aGlzLT5vY3ItPnNjYW4oJGZpbGVuYW1lKTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJCTxiciAvPgo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">QWt1dG7DrSBWU1RVUE7DjSBwcm9obMOtZGt5IHphamnFocWldWplIHYgdHl0byBkbnkgcHJhY292bsOtIGzDqWthxZlzdHbDrSBuYSBWaW5vaHJhZGVjaCAocGF2aWxvbiBJLCBwxZnDrXplbcOtKSBwbwoJCQkJcMWZZWRjaG96w60gZG9ob2TEmyBzIE1nci4gQmFydG/FoW92b3UsIHRlbC4gMjY3IDE2MyA2NTIKCQkJCTxiciAvPgoJCQkJT3N0YXRuw60gcHJldmVuY2UgYSB2w71zdHVwbsOtIHByb2hsw61ka3kgYmV6ZSB6bcSbbnkgZGxlIG9iamVkbmFjw61obyBzeXN0w6ltdSBwcmFjb3ZuxJstbMOpa2HFmXNrw71jaCBzbHXFvmViIE5OQgoJCQkJZGxlIHZvbG7DvWNoIHRlcm3DrW7FryB2IFVOSVN1Lg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkjJzIwMTgtMDgtMTQnOiAnKicsCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkjJzIwMTgtMDctMjQnOiAnKicsCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">PGRpdiBjbGFzcz0icHVsbC1sZWZ0IiBzdHlsZT0id2lkdGg6IDE1ZW07Ij4KCQkJCU9yZGluYcSNbsOtIGhvZGlueSBsw6lrYcWZxa86CgkJCQk8YnIvPgoJCQkJcG9uZMSbbMOtOiAxMi4zMCDigJMgMTUuMTUKCQkJCTxici8+CgkJCQlzdMWZZWRhOiAwNy4xNSDigJMgMTUuMTUKCQkJCTxici8+CgkJCQnEjXR2cnRlazogMTIuMzAg4oCTIDE1LjE1CgkJCTwvZGl2Pg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCcSNdHZydGVrOiAxMi4zMCDigJMgMTUuMTUK</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
       </register>
     </registers>
     <search>
-      <last-search>NULL</last-search>
+      <last-search>getSystemCommandConfig</last-search>
       <last-offset />
-      <last-pattern>NULL</last-pattern>
+      <last-pattern>getSystemCommandConfig</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -7498,8 +7535,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setParent</entry>
-        <entry>getName</entry>
         <entry>getNameSpace</entry>
         <entry>getNamespace</entry>
         <entry>Splatnost</entry>
@@ -7518,6 +7553,8 @@
         <entry>ajax</entry>
         <entry>console</entry>
         <entry>NULL</entry>
+        <entry>getSystem</entry>
+        <entry>getSystemCommandConfig</entry>
       </history-search>
       <history-cmd>
         <entry>253</entry>
