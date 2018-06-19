@@ -6876,6 +6876,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/app/src/UI/BaseControl.php" timestamp="1529419995338">
+        <mark key="[" line="75" column="14" />
+        <mark key="]" line="79" column="55" />
+        <mark key="." line="79" column="55" />
+      </file>
       <file name="/home/www/html/nnb/passportization/app/config/config.neon" timestamp="1505743914376">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -7486,11 +7491,11 @@
       <jump line="72" column="25" filename="/home/www/lib/vendor/hrncirr/document-parsers/src/Utils/Ocr.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWNvbnRyaWJ1dHRlLmV2ZW50c0FwcGxpY2F0aW9uQnJpZGdlOiBDb250cmlidXR0ZVxFdmVudHNcQnJpZGdlc1xBcHBsaWNhdGlvblxESVxFdmVudEFwcGxpY2F0aW9uQnJpZGdlRXh0ZW5zaW9uCg==</text>
+      <register name="&quot;" type="4">
+        <text>Nette\Http\</text>
       </register>
       <register name="-" type="4">
-        <text>'Hrncirr\DocumentParsers\Types\Image'</text>
+        <text>Nette\Http\</text>
       </register>
       <register name="/" type="4">
         <text>getSystemCommandConfig</text>
