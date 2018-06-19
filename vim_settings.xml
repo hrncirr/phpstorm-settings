@@ -3081,6 +3081,11 @@
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectsGrid/SubjectsGrid.php" timestamp="1527833634821">
         <mark key="[" line="180" column="17" />
       </file>
+      <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1529414772605">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="/home/www/html/dv/cms/src/Admin/AdminModule/Presenters/BasePresenter.php" timestamp="1506507163228">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="4" />
@@ -7481,8 +7486,8 @@
       <jump line="72" column="25" filename="/home/www/lib/vendor/hrncirr/document-parsers/src/Utils/Ocr.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'Hrncirr\DocumentParsers\Types\Image'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWNvbnRyaWJ1dHRlLmV2ZW50c0FwcGxpY2F0aW9uQnJpZGdlOiBDb250cmlidXR0ZVxFdmVudHNcQnJpZGdlc1xBcHBsaWNhdGlvblxESVxFdmVudEFwcGxpY2F0aW9uQnJpZGdlRXh0ZW5zaW9uCg==</text>
       </register>
       <register name="-" type="4">
         <text>'Hrncirr\DocumentParsers\Types\Image'</text>
@@ -7493,35 +7498,35 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CWNvbnRyaWJ1dHRlLmV2ZW50c0FwcGxpY2F0aW9uQnJpZGdlOiBDb250cmlidXR0ZVxFdmVudHNcQnJpZGdlc1xBcHBsaWNhdGlvblxESVxFdmVudEFwcGxpY2F0aW9uQnJpZGdlRXh0ZW5zaW9uCg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">aWYgKCEkaW5wdXQtPmdldE9wdGlvbignZm9yY2UnKSAmJiBmaWxlX2V4aXN0cygkb3V0cHV0RmlsZSkpIHsKCQkJCSRvdXRwdXQtPndyaXRlbG4oJzxlcnJvcj5PdXRwdXQgZmlsZSBhbHJlYWR5IGV4aXN0cywgdXNlIGZvcmNlIG9wdGlvbiB0byByZXBsYWNlIGl0PC9lcnJvcj4nKTsKCQkJfQ==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ZGVjbGFyZShzdHJpY3RfdHlwZXM9MSk7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>private function ocr($filename)
 	{
 		
 	}</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJJGRvY3VtZW50Qm9keSA9ICR0aGlzLT5vY3ItPnNjYW4oJGZpbGVuYW1lKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJCTxiciAvPgo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">QWt1dG7DrSBWU1RVUE7DjSBwcm9obMOtZGt5IHphamnFocWldWplIHYgdHl0byBkbnkgcHJhY292bsOtIGzDqWthxZlzdHbDrSBuYSBWaW5vaHJhZGVjaCAocGF2aWxvbiBJLCBwxZnDrXplbcOtKSBwbwoJCQkJcMWZZWRjaG96w60gZG9ob2TEmyBzIE1nci4gQmFydG/FoW92b3UsIHRlbC4gMjY3IDE2MyA2NTIKCQkJCTxiciAvPgoJCQkJT3N0YXRuw60gcHJldmVuY2UgYSB2w71zdHVwbsOtIHByb2hsw61ka3kgYmV6ZSB6bcSbbnkgZGxlIG9iamVkbmFjw61obyBzeXN0w6ltdSBwcmFjb3ZuxJstbMOpa2HFmXNrw71jaCBzbHXFvmViIE5OQgoJCQkJZGxlIHZvbG7DvWNoIHRlcm3DrW7FryB2IFVOSVN1Lg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkjJzIwMTgtMDgtMTQnOiAnKicsCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQkjJzIwMTgtMDctMjQnOiAnKicsCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0icHVsbC1sZWZ0IiBzdHlsZT0id2lkdGg6IDE1ZW07Ij4KCQkJCU9yZGluYcSNbsOtIGhvZGlueSBsw6lrYcWZxa86CgkJCQk8YnIvPgoJCQkJcG9uZMSbbMOtOiAxMi4zMCDigJMgMTUuMTUKCQkJCTxici8+CgkJCQlzdMWZZWRhOiAwNy4xNSDigJMgMTUuMTUKCQkJCTxici8+CgkJCQnEjXR2cnRlazogMTIuMzAg4oCTIDE1LjE1CgkJCTwvZGl2Pg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
