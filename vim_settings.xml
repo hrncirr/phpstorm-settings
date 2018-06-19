@@ -2507,10 +2507,10 @@
         <mark key="]" line="51" column="12" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/TDiscount.php" timestamp="1526554861357">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/TDiscount.php" timestamp="1529420877257">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Utils/Helpers.php" timestamp="1519894676416">
         <mark key="[" line="29" column="60" />
@@ -2601,8 +2601,8 @@
         <mark key="]" line="167" column="16" />
         <mark key="." line="167" column="16" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/TPrice.php" timestamp="1527851350423">
-        <mark key="[" line="7" column="10" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/TPrice.php" timestamp="1529421098887">
+        <mark key="[" line="6" column="0" />
       </file>
       <file name="/home/www/html/nnb/nezadouci-udalosti/app/Components/IncidentViewer.php" timestamp="1482400217288">
         <mark key="[" line="95" column="29" />
@@ -4360,7 +4360,7 @@
         <mark key="]" line="130" column="0" />
         <mark key="." line="130" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Money/TPrice.php" timestamp="1527769729983">
+      <file name="/home/www/html/dv/adera/Modules/Money/TPrice.php" timestamp="1529420858894">
         <mark key="[" line="38" column="29" />
         <mark key="]" line="25" column="4" />
         <mark key="." line="25" column="4" />
@@ -4615,7 +4615,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529414506688">
+      <file name="/Dummy.txt" timestamp="1529421089382">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
@@ -7491,11 +7491,11 @@
       <jump line="72" column="25" filename="/home/www/lib/vendor/hrncirr/document-parsers/src/Utils/Ocr.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Nette\Http\</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly91c2UgU3ltZm9ueVxDb21wb25lbnRcVmFsaWRhdG9yXENvbnN0cmFpbnRzIGFzIEFzc2VydDsK</text>
       </register>
       <register name="-" type="4">
-        <text>Nette\Http\</text>
+        <text>use TDiscount;</text>
       </register>
       <register name="/" type="4">
         <text>getSystemCommandConfig</text>
@@ -7504,34 +7504,34 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWNvbnRyaWJ1dHRlLmV2ZW50c0FwcGxpY2F0aW9uQnJpZGdlOiBDb250cmlidXR0ZVxFdmVudHNcQnJpZGdlc1xBcHBsaWNhdGlvblxESVxFdmVudEFwcGxpY2F0aW9uQnJpZGdlRXh0ZW5zaW9uCg==</text>
+        <text encoding="base64">Ly91c2UgU3ltZm9ueVxDb21wb25lbnRcVmFsaWRhdG9yXENvbnN0cmFpbnRzIGFzIEFzc2VydDsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">aWYgKCEkaW5wdXQtPmdldE9wdGlvbignZm9yY2UnKSAmJiBmaWxlX2V4aXN0cygkb3V0cHV0RmlsZSkpIHsKCQkJCSRvdXRwdXQtPndyaXRlbG4oJzxlcnJvcj5PdXRwdXQgZmlsZSBhbHJlYWR5IGV4aXN0cywgdXNlIGZvcmNlIG9wdGlvbiB0byByZXBsYWNlIGl0PC9lcnJvcj4nKTsKCQkJfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XFZhbGlkYXRvclxDb25zdHJhaW50cyBhcyBBc3NlcnQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVjbGFyZShzdHJpY3RfdHlwZXM9MSk7Cg==</text>
+        <text encoding="base64">CWNvbnRyaWJ1dHRlLmV2ZW50c0FwcGxpY2F0aW9uQnJpZGdlOiBDb250cmlidXR0ZVxFdmVudHNcQnJpZGdlc1xBcHBsaWNhdGlvblxESVxFdmVudEFwcGxpY2F0aW9uQnJpZGdlRXh0ZW5zaW9uCg==</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">aWYgKCEkaW5wdXQtPmdldE9wdGlvbignZm9yY2UnKSAmJiBmaWxlX2V4aXN0cygkb3V0cHV0RmlsZSkpIHsKCQkJCSRvdXRwdXQtPndyaXRlbG4oJzxlcnJvcj5PdXRwdXQgZmlsZSBhbHJlYWR5IGV4aXN0cywgdXNlIGZvcmNlIG9wdGlvbiB0byByZXBsYWNlIGl0PC9lcnJvcj4nKTsKCQkJfQ==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVjbGFyZShzdHJpY3RfdHlwZXM9MSk7Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>private function ocr($filename)
 	{
 		
 	}</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJJGRvY3VtZW50Qm9keSA9ICR0aGlzLT5vY3ItPnNjYW4oJGZpbGVuYW1lKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCTxiciAvPgo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">QWt1dG7DrSBWU1RVUE7DjSBwcm9obMOtZGt5IHphamnFocWldWplIHYgdHl0byBkbnkgcHJhY292bsOtIGzDqWthxZlzdHbDrSBuYSBWaW5vaHJhZGVjaCAocGF2aWxvbiBJLCBwxZnDrXplbcOtKSBwbwoJCQkJcMWZZWRjaG96w60gZG9ob2TEmyBzIE1nci4gQmFydG/FoW92b3UsIHRlbC4gMjY3IDE2MyA2NTIKCQkJCTxiciAvPgoJCQkJT3N0YXRuw60gcHJldmVuY2UgYSB2w71zdHVwbsOtIHByb2hsw61ka3kgYmV6ZSB6bcSbbnkgZGxlIG9iamVkbmFjw61obyBzeXN0w6ltdSBwcmFjb3ZuxJstbMOpa2HFmXNrw71jaCBzbHXFvmViIE5OQgoJCQkJZGxlIHZvbG7DvWNoIHRlcm3DrW7FryB2IFVOSVN1Lg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkjJzIwMTgtMDgtMTQnOiAnKicsCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkjJzIwMTgtMDctMjQnOiAnKicsCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
