@@ -182,8 +182,10 @@
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/app/Components/BaseControl.php" timestamp="1530010753199">
-        <mark key="[" line="36" column="41" />
+      <file name="/home/www/html/nnb/dms/app/Components/BaseControl.php" timestamp="1530011105052">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/Model/UnderscoredStorageReflection.php" timestamp="1490362448428">
         <mark key="[" line="67" column="0" />
@@ -699,6 +701,9 @@
         <mark key="]" line="29" column="22" />
         <mark key="." line="29" column="22" />
       </file>
+      <file name="/home/www/vendor/nette/application/src/Application/UI/Component.php" timestamp="1530011004690">
+        <mark key="'" line="308" column="40" />
+      </file>
       <file name="/home/www/html/nnb/socialni-pece/app/Components/Modals/DepartmentFormModal.php" timestamp="1484899531468">
         <mark key="[" line="31" column="66" />
         <mark key="]" line="62" column="12" />
@@ -761,10 +766,6 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="13" column="1" />
         <mark key="." line="13" column="1" />
-      </file>
-      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/Utils/Ocr.php" timestamp="1529062086234">
-        <mark key="'" line="72" column="25" />
-        <mark key="[" line="36" column="50" />
       </file>
       <file name="/home/www/html/bul/mamo/app/FrontModule/presenters/RegistrationPresenter.php" timestamp="1495011419392">
         <mark key="[" line="4" column="0" />
@@ -6876,10 +6877,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/app/src/UI/BaseControl.php" timestamp="1529419995338">
-        <mark key="[" line="75" column="14" />
-        <mark key="]" line="79" column="55" />
-        <mark key="." line="79" column="55" />
+      <file name="/home/www/html/dv/adera/app/src/UI/BaseControl.php" timestamp="1530011412623">
+        <mark key="[" line="57" column="56" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/config/config.neon" timestamp="1505743914376">
         <mark key="[" line="58" column="0" />
@@ -7389,11 +7390,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1713" column="29" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1884" column="48" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1919" column="34" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="2471" column="23" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="2472" column="23" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="2877" column="46" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="2924" column="92" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="3481" column="46" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
@@ -7489,58 +7485,60 @@
       <jump line="118" column="31" filename="/home/www/lib/vendor/hrncirr/document-parsers/src/Utils/Ocr.php" />
       <jump line="120" column="37" filename="/home/www/lib/vendor/hrncirr/document-parsers/src/Utils/Ocr.php" />
       <jump line="72" column="25" filename="/home/www/lib/vendor/hrncirr/document-parsers/src/Utils/Ocr.php" />
+      <jump line="112" column="33" filename="/home/www/vendor/nette/application/src/Application/UI/Component.php" />
+      <jump line="349" column="19" filename="/home/www/vendor/nette/application/src/Application/UI/Component.php" />
+      <jump line="62" column="42" filename="/home/www/vendor/nette/application/src/Application/UI/Component.php" />
+      <jump line="202" column="18" filename="/home/www/vendor/nette/application/src/Application/UI/Component.php" />
+      <jump line="308" column="40" filename="/home/www/vendor/nette/application/src/Application/UI/Component.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWNvbnRyaWJ1dHRlLmV2ZW50c0FwcGxpY2F0aW9uQnJpZGdlOiBDb250cmlidXR0ZVxFdmVudHNcQnJpZGdlc1xBcHBsaWNhdGlvblxESVxFdmVudEFwcGxpY2F0aW9uQnJpZGdlRXh0ZW5zaW9uCg==</text>
+        <text encoding="base64">dXNlIE5ldHRlXEh0dHBcSVJlc3BvbnNlOwo=</text>
       </register>
       <register name="-" type="4">
         <text>use TDiscount;</text>
       </register>
       <register name="/" type="4">
-        <text>getSystemCommandConfig</text>
+        <text>error</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWNvbnRyaWJ1dHRlLmV2ZW50c0FwcGxpY2F0aW9uQnJpZGdlOiBDb250cmlidXR0ZVxFdmVudHNcQnJpZGdlc1xBcHBsaWNhdGlvblxESVxFdmVudEFwcGxpY2F0aW9uQnJpZGdlRXh0ZW5zaW9uCg==</text>
+        <text encoding="base64">dXNlIE5ldHRlXEh0dHBcSVJlc3BvbnNlOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly91c2UgU3ltZm9ueVxDb21wb25lbnRcVmFsaWRhdG9yXENvbnN0cmFpbnRzIGFzIEFzc2VydDsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gc3RyaW5nICRtZXNzYWdlCgkgKiBAcGFyYW0gaW50ICAgICRodHRwQ29kZQoJICoKCSAqIEB0aHJvd3MgXE5ldHRlXEFwcGxpY2F0aW9uXEJhZFJlcXVlc3RFeGNlcHRpb24KCSAqLwoJcHVibGljIGZ1bmN0aW9uIGVycm9yKCRtZXNzYWdlID0gbnVsbCwgJGh0dHBDb2RlID0gSVJlc3BvbnNlOjpTNDA0X05PVF9GT1VORCkKCXsKCQkkdGhpcy0+Z2V0UHJlc2VudGVyKCktPmVycm9yKCRtZXNzYWdlKTsKCX0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XFZhbGlkYXRvclxDb25zdHJhaW50cyBhcyBBc3NlcnQ7Cg==</text>
+        <text encoding="base64">dXNlIE5ldHRlXEh0dHBcSVJlc3BvbnNlOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="4" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gc3RyaW5nICRtZXNzYWdlCgkgKiBAcGFyYW0gaW50ICAgICRodHRwQ29kZQoJICoKCSAqIEB0aHJvd3MgXE5ldHRlXEFwcGxpY2F0aW9uXEJhZFJlcXVlc3RFeGNlcHRpb24KCSAqLwoJcHVibGljIGZ1bmN0aW9uIGVycm9yKCRtZXNzYWdlID0gbnVsbCwgJGh0dHBDb2RlID0gSVJlc3BvbnNlOjpTNDA0X05PVF9GT1VORCkKCXsKCQkkdGhpcy0+Z2V0UHJlc2VudGVyKCktPmVycm9yKCRtZXNzYWdlLCAkaHR0cENvZGUpOwoJfQ==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CWNvbnRyaWJ1dHRlLmV2ZW50c0FwcGxpY2F0aW9uQnJpZGdlOiBDb250cmlidXR0ZVxFdmVudHNcQnJpZGdlc1xBcHBsaWNhdGlvblxESVxFdmVudEFwcGxpY2F0aW9uQnJpZGdlRXh0ZW5zaW9uCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">aWYgKCEkaW5wdXQtPmdldE9wdGlvbignZm9yY2UnKSAmJiBmaWxlX2V4aXN0cygkb3V0cHV0RmlsZSkpIHsKCQkJCSRvdXRwdXQtPndyaXRlbG4oJzxlcnJvcj5PdXRwdXQgZmlsZSBhbHJlYWR5IGV4aXN0cywgdXNlIGZvcmNlIG9wdGlvbiB0byByZXBsYWNlIGl0PC9lcnJvcj4nKTsKCQkJfQ==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVjbGFyZShzdHJpY3RfdHlwZXM9MSk7Cg==</text>
+        <text encoding="base64">Ly91c2UgU3ltZm9ueVxDb21wb25lbnRcVmFsaWRhdG9yXENvbnN0cmFpbnRzIGFzIEFzc2VydDsK</text>
       </register>
-      <register name="7" type="4">
-        <text>private function ocr($filename)
-	{
-		
-	}</text>
+      <register name="7" type="2">
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XFZhbGlkYXRvclxDb25zdHJhaW50cyBhcyBBc3NlcnQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJJGRvY3VtZW50Qm9keSA9ICR0aGlzLT5vY3ItPnNjYW4oJGZpbGVuYW1lKTsK</text>
+        <text encoding="base64">CWNvbnRyaWJ1dHRlLmV2ZW50c0FwcGxpY2F0aW9uQnJpZGdlOiBDb250cmlidXR0ZVxFdmVudHNcQnJpZGdlc1xBcHBsaWNhdGlvblxESVxFdmVudEFwcGxpY2F0aW9uQnJpZGdlRXh0ZW5zaW9uCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCTxiciAvPgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">aWYgKCEkaW5wdXQtPmdldE9wdGlvbignZm9yY2UnKSAmJiBmaWxlX2V4aXN0cygkb3V0cHV0RmlsZSkpIHsKCQkJCSRvdXRwdXQtPndyaXRlbG4oJzxlcnJvcj5PdXRwdXQgZmlsZSBhbHJlYWR5IGV4aXN0cywgdXNlIGZvcmNlIG9wdGlvbiB0byByZXBsYWNlIGl0PC9lcnJvcj4nKTsKCQkJfQ==</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
       </register>
     </registers>
     <search>
-      <last-search>getSystemCommandConfig</last-search>
+      <last-search>error</last-search>
       <last-offset />
-      <last-pattern>getSystemCommandConfig</last-pattern>
+      <last-pattern>error</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -7548,7 +7546,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getNameSpace</entry>
         <entry>getNamespace</entry>
         <entry>Splatnost</entry>
         <entry>splatnost</entry>
@@ -7568,6 +7565,7 @@
         <entry>NULL</entry>
         <entry>getSystem</entry>
         <entry>getSystemCommandConfig</entry>
+        <entry>error</entry>
       </history-search>
       <history-cmd>
         <entry>253</entry>
