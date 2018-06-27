@@ -3234,6 +3234,9 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="/home/www/vendor/o5/grido/src/Grid.php" timestamp="1530100678271">
+        <mark key="'" line="298" column="43" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Documents/DI/DocumentsExtension.php" timestamp="1486026735234">
         <mark key="[" line="21" column="9" />
         <mark key="]" line="23" column="0" />
@@ -5886,6 +5889,9 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="/home/www/html/nnb/nezadouci-udalosti/app/Model/Entities/IncidentEntity.php" timestamp="1530102059836">
+        <mark key="[" line="377" column="29" />
+      </file>
       <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Storage/ImageStorage.php" timestamp="1513770266716">
         <mark key="[" line="94" column="8" />
         <mark key="]" line="94" column="8" />
@@ -7400,9 +7406,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3481" column="46" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="3540" column="20" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="3939" column="30" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="3965" column="17" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="3986" column="13" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="3987" column="29" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
@@ -7500,6 +7503,9 @@
       <jump line="308" column="40" filename="/home/www/vendor/nette/application/src/Application/UI/Component.php" />
       <jump line="32" column="45" filename="/home/www/html/nnb/nezadouci-udalosti/app/Presenters/StatistikaPresenter.php" />
       <jump line="47" column="8" filename="/home/www/html/nnb/nezadouci-udalosti/app/Presenters/StatistikaPresenter.php" />
+      <jump line="290" column="22" filename="/home/www/vendor/o5/grido/src/Grid.php" />
+      <jump line="293" column="53" filename="/home/www/vendor/o5/grido/src/Grid.php" />
+      <jump line="298" column="43" filename="/home/www/vendor/o5/grido/src/Grid.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -7509,7 +7515,7 @@
         <text>return;</text>
       </register>
       <register name="/" type="4">
-        <text>stav</text>
+        <text>getQuery</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
@@ -7546,9 +7552,9 @@
       </register>
     </registers>
     <search>
-      <last-search>stav</last-search>
+      <last-search>getQuery</last-search>
       <last-offset />
-      <last-pattern>stav</last-pattern>
+      <last-pattern>getQuery</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -7556,8 +7562,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isValid</entry>
-        <entry>addRule</entry>
         <entry>Query</entry>
         <entry>ids</entry>
         <entry>createHydratingQuery</entry>
@@ -7576,6 +7580,8 @@
         <entry>exit</entry>
         <entry>status</entry>
         <entry>stav</entry>
+        <entry>sectionName</entry>
+        <entry>getQuery</entry>
       </history-search>
       <history-cmd>
         <entry>253</entry>
