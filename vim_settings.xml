@@ -7053,6 +7053,9 @@
         <mark key="]" line="23" column="4" />
         <mark key="." line="23" column="4" />
       </file>
+      <file name="/home/www/html/nnb/nezadouci-udalosti/app/Components/Grids/IncidentsGrid.php" timestamp="1530098906787">
+        <mark key="[" line="173" column="47" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/Dashboard/Event.php" timestamp="1517478298712">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -7506,7 +7509,7 @@
         <text>return;</text>
       </register>
       <register name="/" type="4">
-        <text>exit</text>
+        <text>stav</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
@@ -7543,9 +7546,9 @@
       </register>
     </registers>
     <search>
-      <last-search>exit</last-search>
+      <last-search>stav</last-search>
       <last-offset />
-      <last-pattern>exit</last-pattern>
+      <last-pattern>stav</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -7553,8 +7556,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Splatnost</entry>
-        <entry>splatnost</entry>
         <entry>isValid</entry>
         <entry>addRule</entry>
         <entry>Query</entry>
@@ -7573,6 +7574,8 @@
         <entry>getSystemCommandConfig</entry>
         <entry>error</entry>
         <entry>exit</entry>
+        <entry>status</entry>
+        <entry>stav</entry>
       </history-search>
       <history-cmd>
         <entry>253</entry>
