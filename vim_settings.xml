@@ -1609,10 +1609,10 @@
         <mark key="]" line="173" column="106" />
         <mark key="." line="173" column="106" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNoteForm/templates/CreditNoteForm.latte" timestamp="1530543782179">
-        <mark key="[" line="104" column="19" />
-        <mark key="]" line="104" column="19" />
-        <mark key="." line="104" column="19" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNoteForm/templates/CreditNoteForm.latte" timestamp="1530545399388">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Storage/DI/StorageExtension.php" timestamp="1497015144466">
         <mark key="[" line="1" column="0" />
@@ -7209,8 +7209,8 @@
       <jump line="147" column="61" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PC90aGVhZD4=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCTx0ZD48L3RkPgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PC90aGVhZD4=</text>
@@ -7221,37 +7221,34 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCTx0ZD48L3RkPgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCTx0aD5TbGV2YTwvdGg+Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text>{block itemsTabNavTitle}
 	Položky faktury
 {/block}</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CXtpbmNsdWRlIGl0ZW1zVGFiUGFuZX0K</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CXtpbmNsdWRlIGl0ZW1zVGFiTmF2fQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">e2ltcG9ydCAuLi8uLi90ZW1wbGF0ZXMvZm9ybUl0ZW1zLmxhdHRlfQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">aWYgKCFpc3NldCgkdGVtcGxhdGUtPml0ZW1zKSkgewoJCQkkdGhpcy0+dGVtcGxhdGUtPml0ZW1zID0gJHRoaXNbJ2Zvcm0taXRlbXMnXS0+Z2V0Q29udGFpbmVycygpOwoJCX0=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCS0+YWRkUGFyYW1ldGVycyhbJ2ludm9pY2UnID0+IG51bGxdKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">dXNlIEludm9pY2luZ1xJbnZvaWNlOwo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>/**
-	 * @var Invoice
-	 */
-	protected $invoice;</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkkdGhpcy0+aW50ZXJ2ZW50aW9uLT5hZGRJbnNwZWN0aW9uKCRpbnNwZWN0aW9uKTsK</text>
+        <text encoding="base64">dXNlIEludm9pY2luZ1xJbnZvaWNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
