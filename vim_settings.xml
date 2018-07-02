@@ -664,9 +664,6 @@
         <mark key="]" line="29" column="22" />
         <mark key="." line="29" column="22" />
       </file>
-      <file name="/home/www/vendor/nette/application/src/Application/UI/Component.php" timestamp="1530011004690">
-        <mark key="'" line="308" column="40" />
-      </file>
       <file name="/home/www/html/nnb/socialni-pece/app/Components/Modals/DepartmentFormModal.php" timestamp="1484899531468">
         <mark key="[" line="31" column="66" />
         <mark key="]" line="62" column="12" />
@@ -3104,9 +3101,6 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/home/www/vendor/o5/grido/src/Grid.php" timestamp="1530104311030">
-        <mark key="'" line="85" column="15" />
-      </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Documents/DI/DocumentsExtension.php" timestamp="1486026735234">
         <mark key="[" line="21" column="9" />
         <mark key="]" line="23" column="0" />
@@ -4113,10 +4107,10 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNoteForm/CreditNoteForm.php" timestamp="1530535791818">
-        <mark key="[" line="68" column="8" />
-        <mark key="]" line="68" column="8" />
-        <mark key="." line="68" column="8" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNoteForm/CreditNoteForm.php" timestamp="1530537646709">
+        <mark key="[" line="67" column="8" />
+        <mark key="]" line="69" column="8" />
+        <mark key="." line="69" column="8" />
         <mark key="^" line="59" column="14" />
       </file>
       <file name="/home/www/html/dv/cms/app/forms-tag-input/bower.json" timestamp="1496149915983">
@@ -7111,10 +7105,11 @@
         <mark key="]" line="82" column="34" />
         <mark key="." line="82" column="34" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" timestamp="1527835551739">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="188" column="55" />
-        <mark key="." line="188" column="55" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" timestamp="1530537790449">
+        <mark key="'" line="149" column="61" />
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Apotheke/ApothekeAccountsRepository.php" timestamp="1509453649535">
         <mark key="[" line="33" column="0" />
@@ -7148,11 +7143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1190" column="29" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1209" column="52" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="81" column="23" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeLocalFileSystem.class.php" />
-      <jump line="309" column="37" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
-      <jump line="193" column="36" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeLocalFileSystem.class.php" />
       <jump line="10" column="8" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeLocalFileSystem.class.php" />
       <jump line="906" column="34" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeLocalFileSystem.class.php" />
       <jump line="907" column="54" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeLocalFileSystem.class.php" />
@@ -7248,18 +7238,21 @@
       <jump line="184" column="30" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoicesGrid/InvoicesGrid.php" />
       <jump line="190" column="30" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoicesGrid/InvoicesGrid.php" />
       <jump line="221" column="9" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoicesGrid/InvoicesGrid.php" />
+      <jump line="59" column="53" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" />
+      <jump line="126" column="32" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" />
+      <jump line="133" column="85" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" />
+      <jump line="141" column="33" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" />
+      <jump line="147" column="61" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{block itemsTabNavTitle}
-	Položky faktury
-{/block}</text>
+        <text>!isset(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT5nZXREb2N1bWVudCgpID8/ICR0aGlzLT5pbnZvaWNl</text>
+        <text>!isset(</text>
       </register>
       <register name="/" type="4">
-        <text>form</text>
+        <text>newRecord</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
@@ -7301,9 +7294,9 @@
       </register>
     </registers>
     <search>
-      <last-search>form</last-search>
+      <last-search>newRecord</last-search>
       <last-offset />
-      <last-pattern>form</last-pattern>
+      <last-pattern>newRecord</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -7311,7 +7304,6 @@
     </search>
     <history>
       <history-search>
-        <entry>default</entry>
         <entry>netterine</entry>
         <entry>nettrine</entry>
         <entry>includeInAll</entry>
@@ -7331,6 +7323,7 @@
         <entry>remeberState</entry>
         <entry>rememberState</entry>
         <entry>form</entry>
+        <entry>newRecord</entry>
       </history-search>
       <history-cmd>
         <entry>253</entry>
