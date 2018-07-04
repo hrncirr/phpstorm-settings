@@ -4463,7 +4463,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530626825038">
+      <file name="/Dummy.txt" timestamp="1530688605180">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
@@ -5195,6 +5195,11 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="4" />
         <mark key="." line="24" column="4" />
+      </file>
+      <file name="/home/www/vendor/hrncirr/history/src/Components/HistoryControl/HistoryControl.php" timestamp="1530688439952">
+        <mark key="[" line="254" column="58" />
+        <mark key="]" line="254" column="58" />
+        <mark key="." line="254" column="58" />
       </file>
       <file name="/home/www/html/bul/medical_examinations/app/components/RegistrationForm/RegistrationForm.php" timestamp="1518788824944">
         <mark key="[" line="249" column="8" />
@@ -7242,11 +7247,11 @@
       <jump line="56" column="20" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNoteForm/templates/CreditNoteDocument.latte" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJJGZvcm0tPnJlZHJhd0NvbnRyb2woKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ID0gbnVsbCk=</text>
       </register>
       <register name="-" type="4">
-        <text>use ($form)</text>
+        <text encoding="base64">ID0gbnVsbCk=</text>
       </register>
       <register name="/" type="4">
         <text>item</text>
