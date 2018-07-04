@@ -2508,7 +2508,7 @@
         <mark key="]" line="167" column="16" />
         <mark key="." line="167" column="16" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/TPrice.php" timestamp="1530626836700">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/TPrice.php" timestamp="1530694787564">
         <mark key="[" line="8" column="53" />
       </file>
       <file name="/home/www/html/nnb/nezadouci-udalosti/app/Components/IncidentViewer.php" timestamp="1482400217288">
@@ -4001,11 +4001,11 @@
         <mark key="]" line="37" column="37" />
         <mark key="." line="37" column="37" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoicesGrid/InvoicesGrid.php" timestamp="1530691236658">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoicesGrid/InvoicesGrid.php" timestamp="1530694388475">
         <mark key="'" line="257" column="9" />
-        <mark key="[" line="236" column="10" />
-        <mark key="]" line="297" column="0" />
-        <mark key="." line="297" column="0" />
+        <mark key="[" line="239" column="21" />
+        <mark key="]" line="240" column="0" />
+        <mark key="." line="240" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Latte/CMPProvider.php" timestamp="1496048680217">
         <mark key="[" line="47" column="21" />
@@ -6041,6 +6041,7 @@
         <mark key="]" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
+      <file name="/home/www/html/dv/adera/libs/vendor/ublaboo/datagrid/src/DataGrid.php" timestamp="1530693841291" />
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/ContactFormPart/TContactFormPart.php" timestamp="1519203130012">
         <mark key="[" line="66" column="55" />
         <mark key="]" line="31" column="0" />
@@ -6626,6 +6627,7 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/TNumber.php" timestamp="1530600863662" />
       <file name="/home/www/html/nnb/passportization/app/Entities/Paths.php" timestamp="1503587632979">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
@@ -6921,6 +6923,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formItems.latte" timestamp="1530599463465" />
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Pilscom/IFakturaAccounts/IFakturaAccountsMapper.php" timestamp="1509357018110">
         <mark key="[" line="25" column="4" />
         <mark key="]" line="25" column="8" />
@@ -7247,8 +7250,8 @@
       <jump line="56" column="20" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNoteForm/templates/CreditNoteDocument.latte" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ID0gbnVsbCk=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJLT5maWx0ZXJlZAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ID0gbnVsbCk=</text>
@@ -7260,31 +7263,31 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJJGZvcm0tPnJlZHJhd0NvbnRyb2woKTsK</text>
+        <text encoding="base64">CQkJLT5maWx0ZXJlZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJJGZvcm0tPnJlZHJhd0NvbnRyb2woKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkkZm9ybSA9ICRmYWN0b3J5LT5jcmVhdGUoJGNyZWRpdE5vdGUpOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">CQkK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkkZm9ybSA9ICRmYWN0b3J5LT5jcmVhdGUoJGNyZWRpdE5vdGUpOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlkdW1wKCRjcmVkaXROb3RlLT5nZXRJZCgpKTsK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvKgo=</text>
+        <text encoding="base64">CQlkdW1wKCRjcmVkaXROb3RlLT5nZXRJZCgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkqLwo=</text>
+        <text encoding="base64">CQkvKgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPnNldFZpZXcoJ2NyZWRpdE5vdGVGb3JtJyk7Cg==</text>
+        <text encoding="base64">CQkqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlpZiAoJGNyZWRpdE5vdGUgIT09IG51bGwpIHsK</text>
+        <text encoding="base64">CQkJJHRoaXMtPnNldFZpZXcoJ2NyZWRpdE5vdGVGb3JtJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/invoice/creditNote/g</text>
