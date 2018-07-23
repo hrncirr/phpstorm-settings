@@ -2621,7 +2621,7 @@
         <mark key="]" line="22" column="4" />
         <mark key="." line="22" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Item.php" timestamp="1532348081827">
+      <file name="/home/www/html/dv/adera/Modules/Storage/Item.php" timestamp="1532350247044">
         <mark key="[" line="281" column="10" />
         <mark key="]" line="281" column="0" />
         <mark key="." line="281" column="0" />
@@ -5542,10 +5542,11 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/StorageItem.php" timestamp="1532349520889">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/StorageItem.php" timestamp="1532350303614">
+        <mark key="[" line="81" column="4" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="33" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/app/Components/BaseFormControl.php" timestamp="1517903736742">
         <mark key="[" line="6" column="0" />
@@ -7274,8 +7275,12 @@
       <jump line="29" column="11" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIE1vbmV5XFRQcmljZSBhcyBUTW9uZXlQcmljZTsK</text>
+      <register name="&quot;" type="4">
+        <text>/**
+	 * @ORM\Column(type=&quot;integer&quot;)
+	 * @var int
+	 */
+	private $quantity;</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ZmFkZSBpbiBhY3RpdmUg</text>
@@ -7286,52 +7291,40 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dXNlIE1vbmV5XFRQcmljZSBhcyBUTW9uZXlQcmljZTsK</text>
+      <register name="1" type="4">
+        <text>/**
+	 * @ORM\Column(type=&quot;integer&quot;)
+	 * @var int
+	 */
+	private $quantity;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CXVzZSBUTW9uZXlQcmljZTsK</text>
+      <register name="2" type="4">
+        <text>/**
+	 * @ORM\Column(type=&quot;integer&quot;)
+	 * @var int
+	 */
+	private $quantity;</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIFByaWNlVHlwZQoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0UHJpY2VUeXBlKCk6IFByaWNlVHlwZQoJewoJCXJldHVybiAkdGhpcy0+cHJpY2VUeXBlOwoJfQoJCgkKCS8qKgoJICogQHBhcmFtIFByaWNlVHlwZSAkcHJpY2VUeXBlCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRQcmljZVR5cGUoUHJpY2VUeXBlICRwcmljZVR5cGUpOiB2b2lkCgl7CgkJJHRoaXMtPnByaWNlVHlwZSA9ICRwcmljZVR5cGU7Cgl9</text>
+      <register name="3" type="2">
+        <text encoding="base64">CSAqICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvLyB1bmNvbW1lbnQgaWYgeW91IHdhbnQgdG8gdXBkYXRlIG90aGVyIHNpZGUK</text>
+        <text encoding="base64">CSAqICAgICBwYXR0ZXJuPSIvXjB8MTV8MjEkLyIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkvLyB1bmNvbW1lbnQgaWYgeW91IHdhbnQgdG8gdXBkYXRlIG90aGVyIHNpZGUK</text>
+        <text encoding="base64">CSAqICAgICBtZXNzYWdlPSJ2YXRSZWdleCIsCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>/**
-	 * @ORM\ManyToOne(targetEntity=&quot;Item&quot;, inversedBy=&quot;prices&quot;)
-	 * @ORM\JoinColumn(name=&quot;item_id&quot;, referencedColumnName=&quot;id&quot;)
-	 * @var Item
-	 */</text>
+      <register name="6" type="2">
+        <text encoding="base64">CSAqIEBBc3NlcnRcUmVnZXgoCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>/**
-	 * @ORM\ManyToMany(targetEntity=&quot;StorageItem&quot;, inversedBy=&quot;items&quot;, cascade={&quot;persist&quot;, &quot;remove&quot;})
-	 * @ORM\JoinTable(
-	 *        name=&quot;storage_item_group&quot;,
-	 *        joinColumns={@ORM\JoinColumn(name=&quot;item_id&quot;, referencedColumnName=&quot;id&quot;)},
-	 *        inverseJoinColumns={@ORM\JoinColumn(name=&quot;item_group_id&quot;, referencedColumnName=&quot;id&quot;)}
-	 *    )
-	 * @var ItemGroup[]|Collection
-	 */</text>
+      <register name="7" type="2">
+        <text encoding="base64">CSAqICkK</text>
       </register>
-      <register name="8" type="4">
-        <text>/**
-	 * @ORM\ManyToOne(targetEntity=&quot;StorageItem&quot;)
-	 * @ORM\JoinColumn(name=&quot;storage_item_id&quot;, referencedColumnName=&quot;id&quot;)
-	 * @var StorageItem
-	 */
-	private $items;</text>
+      <register name="8" type="2">
+        <text encoding="base64">CSAqICAgICAgdHlwZT0iaW50ZWdlciIK</text>
       </register>
-      <register name="9" type="4">
-        <text>/**
-	 * @ORM\ManyToMany(targetEntity=&quot;StorageItem&quot;, mappedBy=&quot;groups&quot;, cascade={&quot;persist&quot;})
-	 * @var Item[]|Collection
-	 */</text>
+      <register name="9" type="2">
+        <text encoding="base64">CSAqIEBBc3NlcnRcVHlwZSgK</text>
       </register>
       <register name=":" type="4">
         <text>%s/invoice/creditNote/g</text>
