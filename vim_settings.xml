@@ -148,7 +148,7 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/ItemGroup.php" timestamp="1516116275100">
+      <file name="/home/www/html/dv/adera/Modules/Storage/ItemGroup.php" timestamp="1532345173686">
         <mark key="[" line="41" column="19" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
@@ -1336,10 +1336,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.latte" timestamp="1532343722865">
-        <mark key="[" line="64" column="28" />
-        <mark key="]" line="64" column="28" />
-        <mark key="." line="64" column="28" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.latte" timestamp="1532344967574">
+        <mark key="[" line="91" column="45" />
+        <mark key="]" line="91" column="45" />
+        <mark key="." line="91" column="45" />
       </file>
       <file name="/home/www/lib/vendor/symplify/symfony-event-dispatcher/src/Adapter/Symfony/DependencyInjection/Compiler/CollectEventSubscribersPass.php" timestamp="1491379376183">
         <mark key="[" line="38" column="5" />
@@ -2621,7 +2621,7 @@
         <mark key="]" line="22" column="4" />
         <mark key="." line="22" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Item.php" timestamp="1532335726939">
+      <file name="/home/www/html/dv/adera/Modules/Storage/Item.php" timestamp="1532345744380">
         <mark key="[" line="281" column="10" />
         <mark key="]" line="281" column="0" />
         <mark key="." line="281" column="0" />
@@ -3838,8 +3838,8 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/ItemPrice.php" timestamp="1532335644154">
-        <mark key="[" line="41" column="17" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/ItemPrice.php" timestamp="1532345570445">
+        <mark key="[" line="34" column="7" />
         <mark key="]" line="41" column="4" />
         <mark key="." line="41" column="4" />
         <mark key="^" line="78" column="4" />
@@ -5064,6 +5064,11 @@
         <mark key="]" line="41" column="16" />
         <mark key="." line="41" column="16" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Storage/Storage.php" timestamp="1532345769953">
+        <mark key="[" line="44" column="4" />
+        <mark key="]" line="44" column="4" />
+        <mark key="." line="44" column="4" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseDocumentForm.php" timestamp="1508856935439">
         <mark key="[" line="20" column="31" />
         <mark key="]" line="38" column="0" />
@@ -5536,6 +5541,9 @@
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/Storage/StorageItem.php" timestamp="1532345749126">
+        <mark key="[" line="35" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/app/Components/BaseFormControl.php" timestamp="1517903736742">
         <mark key="[" line="6" column="0" />
@@ -6537,6 +6545,7 @@
         <mark key="]" line="8" column="34" />
         <mark key="." line="8" column="34" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Storage/PriceType.php" timestamp="1532345101780" />
       <file name="/home/www/html/nnb/dms/src/DMS/Files/Storage/FileConversionStorage.php" timestamp="1484656728459">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="4" />
@@ -7263,10 +7272,15 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>class=&quot;active&quot;</text>
+        <text>/**
+	 * @ORM\ManyToOne(targetEntity=&quot;StorageItem&quot;)
+	 * @ORM\JoinColumn(name=&quot;storage_item_id&quot;, referencedColumnName=&quot;id&quot;)
+	 * @var StorageItem
+	 */
+	private $items;</text>
       </register>
       <register name="-" type="4">
-        <text>class=&quot;active&quot;</text>
+        <text encoding="base64">ZmFkZSBpbiBhY3RpdmUg</text>
       </register>
       <register name="/" type="4">
         <text>onCancel</text>
@@ -7275,32 +7289,49 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">JGl0ZW1QcmljZXMgPSBhcnJheV9jb21iaW5lKCRpdGVtLT5nZXRQcmljZXMoKS0+bWFwKGZ1bmN0aW9uIChJdGVtUHJpY2UgJHByaWNlKSB7CgkJCXJldHVybiAkcHJpY2UtPmdldFByaWNlVHlwZSgpLT5nZXRJZCgpOwoJCX0pLT50b0FycmF5KCksCgkJCSRpdGVtLT5nZXRQcmljZXMoKS0+dG9BcnJheSgpKTs=</text>
+        <text>/**
+	 * @ORM\ManyToOne(targetEntity=&quot;StorageItem&quot;)
+	 * @ORM\JoinColumn(name=&quot;storage_item_id&quot;, referencedColumnName=&quot;id&quot;)
+	 * @var StorageItem
+	 */
+	private $items;</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IGFycmF5X2NvbWJpbmUoJHRoaXMtPml0ZW0tPmdldFByaWNlcygpLT5tYXAoZnVuY3Rpb24gKEl0ZW1QcmljZSAkcHJpY2UpIHsKCQkJCXJldHVybiAkcHJpY2UtPmdldFByaWNlVHlwZSgpLT5nZXRJZCgpOwoJCQl9KS0+dG9BcnJheSgpLAoJCQkJJHRoaXMtPml0ZW0tPmdldFByaWNlcygpLT50b0FycmF5KCkpOw==</text>
+        <text>/**
+	 * @ORM\ManyToMany(targetEntity=&quot;StorageItem&quot;, mappedBy=&quot;groups&quot;, cascade={&quot;persist&quot;})
+	 * @var Item[]|Collection
+	 */</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJ25lbmUnKTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIEl0ZW0KCSAqLwoJcHVibGljIGZ1bmN0aW9uIGdldEl0ZW0oKTogSXRlbQoJewoJCXJldHVybiAkdGhpcy0+aXRlbTsKCX0KCQoJCgkvKioKCSAqIEBwYXJhbSBJdGVtICRpdGVtCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRJdGVtKEl0ZW0gJGl0ZW0pOiB2b2lkCgl7CgkJJHRoaXMtPml0ZW0gPSAkaXRlbTsKCX0KCQoJCgkvKioKCSAqIEByZXR1cm4gUHJpY2VUeXBlCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRQcmljZVR5cGUoKTogUHJpY2VUeXBlCgl7CgkJcmV0dXJuICR0aGlzLT5wcmljZVR5cGU7Cgl9CgkKCQoJLyoqCgkgKiBAcGFyYW0gUHJpY2VUeXBlICRwcmljZVR5cGUKCSAqLwoJcHVibGljIGZ1bmN0aW9uIHNldFByaWNlVHlwZShQcmljZVR5cGUgJHByaWNlVHlwZSk6IHZvaWQKCXsKCQkkdGhpcy0+cHJpY2VUeXBlID0gJHByaWNlVHlwZTsKCX0=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+      <register name="4" type="4">
+        <text>/**
+	 * @ORM\ManyToOne(targetEntity=&quot;Item&quot;, inversedBy=&quot;prices&quot;)
+	 * @ORM\JoinColumn(name=&quot;item_id&quot;, referencedColumnName=&quot;id&quot;)
+	 * @var Item
+	 */
+	protected $item;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJHByaWNlLT5nZXRJdGVtKCktPmdldElkKCkpOwo=</text>
+        <text encoding="base64">dXNlIE1vbmV5XFRQcmljZSBhcyBUTW9uZXlQcmljZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
+        <text encoding="base64">CXVzZSBUTW9uZXlQcmljZTsK</text>
       </register>
       <register name="7" type="4">
-        <text>dump($itemPrices);
-		exit;</text>
+        <text>/**
+	 * @ORM\ManyToOne(targetEntity=&quot;PriceType&quot;)
+	 * @ORM\JoinColumn(name=&quot;price_type_id&quot;, referencedColumnName=&quot;id&quot;)
+	 * @var PriceType
+	 */
+	protected $priceType;</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ZWxzZSB7CgkJCQkJLyoqIEB2YXIgSXRlbVByaWNlICRwcmljZSAqLwoJCQkJCSRwcmljZSA9ICRpdGVtUHJpY2VzWyRwcmljZVR5cGUtPmdldElkKCldOwoJCQkJCSRwcmljZS0+c2V0UHJpY2Uocm91bmQoJHByaWNlc1skcHJpY2VUeXBlLT5nZXRJZCgpXVsncHJpY2UnXSwgMikpOwoJCQkJfQ==</text>
+        <text encoding="base64">JGl0ZW1QcmljZXMgPSBhcnJheV9jb21iaW5lKCRpdGVtLT5nZXRQcmljZXMoKS0+bWFwKGZ1bmN0aW9uIChJdGVtUHJpY2UgJHByaWNlKSB7CgkJCXJldHVybiAkcHJpY2UtPmdldFByaWNlVHlwZSgpLT5nZXRJZCgpOwoJCX0pLT50b0FycmF5KCksCgkJCSRpdGVtLT5nZXRQcmljZXMoKS0+dG9BcnJheSgpKTs=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">JHByaWNlID0gbmV3IEl0ZW1QcmljZSgpOwoJCQkJCSRwcmljZS0+c2V0UHJpY2VUeXBlKCRwcmljZVR5cGUpOwoJCQkJCSRwcmljZS0+c2V0UHJpY2Uocm91bmQoJHByaWNlc1skcHJpY2VUeXBlLT5nZXRJZCgpXVsncHJpY2UnXSwgMikpOwoJCQkJCQoJCQkJCSRpdGVtLT5hZGRQcmljZSgkcHJpY2UpOwoJCQkJCQoJCQkJCSR0aGlzLT5lbS0+cGVyc2lzdCgkcHJpY2UpOw==</text>
+        <text encoding="base64">IGFycmF5X2NvbWJpbmUoJHRoaXMtPml0ZW0tPmdldFByaWNlcygpLT5tYXAoZnVuY3Rpb24gKEl0ZW1QcmljZSAkcHJpY2UpIHsKCQkJCXJldHVybiAkcHJpY2UtPmdldFByaWNlVHlwZSgpLT5nZXRJZCgpOwoJCQl9KS0+dG9BcnJheSgpLAoJCQkJJHRoaXMtPml0ZW0tPmdldFByaWNlcygpLT50b0FycmF5KCkpOw==</text>
       </register>
       <register name=":" type="4">
         <text>%s/invoice/creditNote/g</text>
