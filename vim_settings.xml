@@ -1336,10 +1336,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.latte" timestamp="1532086597467">
-        <mark key="[" line="80" column="53" />
-        <mark key="]" line="80" column="53" />
-        <mark key="." line="80" column="53" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.latte" timestamp="1532343722865">
+        <mark key="[" line="64" column="28" />
+        <mark key="]" line="64" column="28" />
+        <mark key="." line="64" column="28" />
       </file>
       <file name="/home/www/lib/vendor/symplify/symfony-event-dispatcher/src/Adapter/Symfony/DependencyInjection/Compiler/CollectEventSubscribersPass.php" timestamp="1491379376183">
         <mark key="[" line="38" column="5" />
@@ -7263,10 +7263,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JGl0ZW1QcmljZXMgPSBhcnJheV9jb21iaW5lKCRpdGVtLT5nZXRQcmljZXMoKS0+bWFwKGZ1bmN0aW9uIChJdGVtUHJpY2UgJHByaWNlKSB7CgkJCXJldHVybiAkcHJpY2UtPmdldFByaWNlVHlwZSgpLT5nZXRJZCgpOwoJCX0pLT50b0FycmF5KCksCgkJCSRpdGVtLT5nZXRQcmljZXMoKS0+dG9BcnJheSgpKTs=</text>
+        <text>class=&quot;active&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>dump('ano');</text>
+        <text>class=&quot;active&quot;</text>
       </register>
       <register name="/" type="4">
         <text>onCancel</text>
