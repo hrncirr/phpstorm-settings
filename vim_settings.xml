@@ -103,10 +103,10 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/src/User/TBlameable.php" timestamp="1526387010963">
-        <mark key="[" line="39" column="37" />
-        <mark key="]" line="37" column="19" />
-        <mark key="." line="37" column="19" />
+      <file name="/home/www/html/dv/adera/src/User/TBlameable.php" timestamp="1532422797625">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/Model/TreeModel.php" timestamp="1502887978343">
         <mark key="[" line="19" column="40" />
@@ -163,10 +163,10 @@
         <mark key="]" line="52" column="4" />
         <mark key="." line="52" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/src/User/Resource.php" timestamp="1532422458288">
-        <mark key="[" line="133" column="28" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="/home/www/html/dv/adera/src/User/Resource.php" timestamp="1532424140980">
+        <mark key="[" line="39" column="61" />
+        <mark key="]" line="39" column="41" />
+        <mark key="." line="39" column="41" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/AddressBook/locale/addressbook-forms.cs_CZ.neon" timestamp="1499155887371">
         <mark key="[" line="77" column="4" />
@@ -6111,6 +6111,11 @@
         <mark key="]" line="23" column="12" />
         <mark key="." line="23" column="12" />
       </file>
+      <file name="/home/www/html/dv/adera/src/User/Role.php" timestamp="1532422819335">
+        <mark key="[" line="41" column="40" />
+        <mark key="]" line="41" column="41" />
+        <mark key="." line="41" column="41" />
+      </file>
       <file name="/home/www/html/bul/mamo/app/presenters/BasePresenter.php" timestamp="1481267871908">
         <mark key="[" line="21" column="14" />
         <mark key="]" line="4" column="0" />
@@ -7236,10 +7241,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>name=&quot;user_id&quot;,</text>
+        <text>referencedColumnName=&quot;id&quot;,</text>
       </register>
       <register name="-" type="4">
-        <text>name=&quot;user_id&quot;,</text>
+        <text>referencedColumnName=&quot;id&quot;,</text>
       </register>
       <register name="/" type="4">
         <text>onCancel</text>
@@ -7248,31 +7253,31 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAqIEBPUk1cSm9pbkNvbHVtbihuYW1lPSJwcml2aWxlZ2VfaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZT0iaWQiKQo=</text>
+        <text encoding="base64">CSAqIEBPUk1cSm9pbkNvbHVtbihyZWZlcmVuY2VkQ29sdW1uTmFtZT0iaWQiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAqIEBPUk1cSm9pbkNvbHVtbihuYW1lPSJyZXNvdXJjZV9pZCIsIHJlZmVyZW5jZWRDb2x1bW5OYW1lPSJpZCIpCg==</text>
+        <text encoding="base64">CSAqIEBPUk1cSm9pbkNvbHVtbihyZWZlcmVuY2VkQ29sdW1uTmFtZT0iaWQiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSAqIEBPUk1cSm9pbkNvbHVtbihuYW1lPSJyb2xlX2lkIiwgcmVmZXJlbmNlZENvbHVtbk5hbWU9ImlkIikK</text>
+        <text encoding="base64">CSAqIEBPUk1cSm9pbkNvbHVtbihuYW1lPSJwcml2aWxlZ2VfaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZT0iaWQiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAqIEBPUk1cSm9pbkNvbHVtbihuYW1lPSJ1cmxfaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZT0iaWQiKQo=</text>
+        <text encoding="base64">CSAqIEBPUk1cSm9pbkNvbHVtbihuYW1lPSJyZXNvdXJjZV9pZCIsIHJlZmVyZW5jZWRDb2x1bW5OYW1lPSJpZCIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAqICAgICAgICBqb2luQ29sdW1ucz17QE9STVxKb2luQ29sdW1uKG5hbWU9Iml0ZW1faWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZT0iaWQiKX0sCg==</text>
+        <text encoding="base64">CSAqIEBPUk1cSm9pbkNvbHVtbihuYW1lPSJyb2xlX2lkIiwgcmVmZXJlbmNlZENvbHVtbk5hbWU9ImlkIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAqIEBPUk1cSm9pbkNvbHVtbihuYW1lPSJmaWxlX2lkIiwgcmVmZXJlbmNlZENvbHVtbk5hbWU9ImlkIikK</text>
+        <text encoding="base64">CSAqIEBPUk1cSm9pbkNvbHVtbihuYW1lPSJ1cmxfaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZT0iaWQiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAqIEBPUk1cSm9pbkNvbHVtbihuYW1lPSJ1c2VyX2lkIiwgcmVmZXJlbmNlZENvbHVtbk5hbWU9ImlkIikK</text>
+        <text encoding="base64">CSAqICAgICAgICBqb2luQ29sdW1ucz17QE9STVxKb2luQ29sdW1uKG5hbWU9Iml0ZW1faWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZT0iaWQiKX0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAqIEBPUk1cSm9pbkNvbHVtbihuYW1lPSJzdWJqZWN0X2lkIiwgcmVmZXJlbmNlZENvbHVtbk5hbWU9ImlkIikK</text>
+        <text encoding="base64">CSAqIEBPUk1cSm9pbkNvbHVtbihuYW1lPSJmaWxlX2lkIiwgcmVmZXJlbmNlZENvbHVtbk5hbWU9ImlkIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAqIEBPUk1cSm9pbkNvbHVtbihuYW1lPSJvcmRlcl9pZCIsIHJlZmVyZW5jZWRDb2x1bW5OYW1lPSJpZCIpCg==</text>
+        <text encoding="base64">CSAqIEBPUk1cSm9pbkNvbHVtbihuYW1lPSJ1c2VyX2lkIiwgcmVmZXJlbmNlZENvbHVtbk5hbWU9ImlkIikK</text>
       </register>
       <register name=":" type="4">
         <text>%s/invoice/creditNote/g</text>
