@@ -625,10 +625,11 @@
         <mark key="]" line="68" column="8" />
         <mark key="." line="68" column="8" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.php" timestamp="1532515630063">
-        <mark key="[" line="159" column="26" />
-        <mark key="]" line="273" column="40" />
-        <mark key="." line="273" column="40" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.php" timestamp="1532519347545">
+        <mark key="[" line="242" column="40" />
+        <mark key="]" line="240" column="8" />
+        <mark key="." line="240" column="8" />
+        <mark key="^" line="240" column="8" />
       </file>
       <file name="/home/www/html/dv/cms/src/Pages/Query/PagesQuery.php" timestamp="1491828474090">
         <mark key="[" line="11" column="46" />
@@ -1349,11 +1350,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.latte" timestamp="1532515831563">
-        <mark key="[" line="31" column="56" />
-        <mark key="]" line="30" column="93" />
-        <mark key="." line="30" column="93" />
-        <mark key="^" line="30" column="93" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.latte" timestamp="1532520291950">
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="100" column="63" />
+        <mark key="." line="100" column="63" />
       </file>
       <file name="/home/www/lib/vendor/symplify/symfony-event-dispatcher/src/Adapter/Symfony/DependencyInjection/Compiler/CollectEventSubscribersPass.php" timestamp="1491379376183">
         <mark key="[" line="38" column="5" />
@@ -1630,7 +1630,7 @@
         <mark key="]" line="173" column="106" />
         <mark key="." line="173" column="106" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNoteForm/templates/CreditNoteForm.latte" timestamp="1530613066480">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNoteForm/templates/CreditNoteForm.latte" timestamp="1532517664297">
         <mark key="[" line="106" column="44" />
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
@@ -6137,10 +6137,10 @@
         <mark key="]" line="91" column="8" />
         <mark key="." line="91" column="8" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Components/FileManagerControlFactory.php" timestamp="1521013048027">
-        <mark key="[" line="58" column="4" />
-        <mark key="]" line="110" column="4" />
-        <mark key="." line="110" column="4" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/FileManagerControlFactory.php" timestamp="1532518559749">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="4" />
+        <mark key="." line="67" column="4" />
       </file>
       <file name="/home/www/vendor/hrncirr/modals/src/TModalControl.php" timestamp="1517586337416">
         <mark key="[" line="144" column="4" />
@@ -6408,6 +6408,7 @@
         <mark key="]" line="42" column="4" />
         <mark key="." line="42" column="4" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Folders/FolderGroup.php" timestamp="1532351978387" />
       <file name="/home/www/html/nnb/passportization/app/Model/CostCentersTreeModel.php" timestamp="1505135738092">
         <mark key="[" line="26" column="68" />
         <mark key="]" line="16" column="0" />
@@ -6603,6 +6604,7 @@
         <mark key="]" line="8" column="34" />
         <mark key="." line="8" column="34" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Storage/PriceType.php" timestamp="1532345101780" />
       <file name="/home/www/html/nnb/dms/src/DMS/Files/Storage/FileConversionStorage.php" timestamp="1484656728459">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="4" />
@@ -6818,8 +6820,8 @@
         <mark key="]" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/locale/storage.cs_CZ.neon" timestamp="1532515466253">
-        <mark key="[" line="46" column="17" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/locale/storage.cs_CZ.neon" timestamp="1532519010875">
+        <mark key="[" line="35" column="16" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
@@ -7194,6 +7196,7 @@
         <mark key="]" line="82" column="34" />
         <mark key="." line="82" column="34" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" timestamp="1532520223219" />
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Apotheke/ApothekeAccountsRepository.php" timestamp="1509453649535">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="4" />
@@ -7329,10 +7332,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>style=&quot;padding-bottom: 8px;&quot;</text>
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGNyZWF0ZVRpbnlNQ0Uoc3RyaW5nICRtZWRpYUltcG9ydElkID0gbnVsbCwgSUVsRmluZGVyRmlsZUNvbnN1bWVyICRlbEZpbmRlckZpbGVDb25zdW1lcikKCXsKCQkkY29udHJvbCA9ICR0aGlzLT5jb250cm9sRmFjdG9yeS0+Y3JlYXRlVGlueU1DRSgpOwoJCSR0aGlzLT5jb25maWd1cmUoJG1lZGlhSW1wb3J0SWQsICRjb250cm9sLCAkZWxGaW5kZXJGaWxlQ29uc3VtZXIpOwoKCQlyZXR1cm4gJGNvbnRyb2w7Cgl9</text>
       </register>
       <register name="-" type="4">
-        <text>style=&quot;padding-bottom: 8px;&quot;</text>
+        <text>Kč</text>
       </register>
       <register name="/" type="4">
         <text>onCancel</text>
@@ -7340,38 +7343,34 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CXBhY2thZ2VVbml0Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGNyZWF0ZVRpbnlNQ0Uoc3RyaW5nICRtZWRpYUltcG9ydElkID0gbnVsbCwgSUVsRmluZGVyRmlsZUNvbnN1bWVyICRlbEZpbmRlckZpbGVDb25zdW1lcikKCXsKCQkkY29udHJvbCA9ICR0aGlzLT5jb250cm9sRmFjdG9yeS0+Y3JlYXRlVGlueU1DRSgpOwoJCSR0aGlzLT5jb25maWd1cmUoJG1lZGlhSW1wb3J0SWQsICRjb250cm9sLCAkZWxGaW5kZXJGaWxlQ29uc3VtZXIpOwoKCQlyZXR1cm4gJGNvbnRyb2w7Cgl9</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">cHVyY2hhc2VQcmljZToKCQl0aXRsZTogIk7DoWt1cG7DrSBjZW5hIgoJCXBsYWNlaG9sZGVyOiAiWmFkZWp0ZSBuw6FrdXBuw60gY2VudSIJ</text>
+        <text encoding="base64">LyoKCQkkZm9ybS0+YWRkTW9uZXkoJ3ByaWNlJywgJHRyYW5zbGF0b3JEb21haW4gLiAnLnByaWNlLnRpdGxlJykKCQkJLT5zZXRBdHRyaWJ1dGUoJ3BsYWNlaG9sZGVyJywgJHRyYW5zbGF0b3JEb21haW4gLiAnLnByaWNlLnBsYWNlaG9sZGVyJyk7CgkJCgkJJGZvcm0tPmFkZE1vbmV5KCdwdXJjaGFzZVByaWNlJywgJHRyYW5zbGF0b3JEb21haW4gLiAnLnB1cmNoYXNlUHJpY2UudGl0bGUnKQoJCQktPnNldEF0dHJpYnV0ZSgncGxhY2Vob2xkZXInLCAkdHJhbnNsYXRvckRvbWFpbiAuICcucHVyY2hhc2VQcmljZS5wbGFjZWhvbGRlcicpOwoJCSov</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">YW1vdW50OgoJCXRpdGxlOiAiTW5vxb5zdHbDrSIKCQlwbGFjZWhvbGRlcjogIlphZGVqdGUgbW5vxb5zdHbDrSIJ</text>
+        <text encoding="base64">LyoKCQkkZm9ybS0+YWRkTW9uZXkoJ3ByaWNlJywgJHRyYW5zbGF0b3JEb21haW4gLiAnLnByaWNlLnRpdGxlJykKCQkJLT5zZXRBdHRyaWJ1dGUoJ3BsYWNlaG9sZGVyJywgJHRyYW5zbGF0b3JEb21haW4gLiAnLnByaWNlLnBsYWNlaG9sZGVyJyk7CgkJCgkJJGZvcm0tPmFkZE1vbmV5KCdwdXJjaGFzZVByaWNlJywgJHRyYW5zbGF0b3JEb21haW4gLiAnLnB1cmNoYXNlUHJpY2UudGl0bGUnKQoJCQktPnNldEF0dHJpYnV0ZSgncGxhY2Vob2xkZXInLCAkdHJhbnNsYXRvckRvbWFpbiAuICcucHVyY2hhc2VQcmljZS5wbGFjZWhvbGRlcicpOwoJCSov</text>
       </register>
       <register name="4" type="4">
-        <text>groups:
-		title: &quot;Skupiny&quot;
-		placeholder: &quot;Zadejte skupinu&quot;</text>
+        <text encoding="base64">eyoKCQkJCQkJCQkJPGRpdiBuOmNsYXNzPSJmb3JtLWdyb3VwLCAkZm9ybVsncGFja2FnZVVuaXQnXS0+aGFzRXJyb3JzKCkgPyAnaGFzLWVycm9yJyI+CgkJCQkJCQkJCQk8bGFiZWwgY2xhc3M9ImNvbnRyb2wtbGFiZWwgY29sLXNtLTIiPmFhYWFhPC9sYWJlbD4KCQkJCQkJCQkJCTxkaXYgY2xhc3M9ImNvbC1zbS0xMCI+CgkJCQkJCQkJCQkJe2lucHV0IHBhY2thZ2VVbml0fQoJCQkJCQkJCQkJCXtpbnB1dC5lcnJvcnMgcGFja2FnZVVuaXR9CgkJCQkJCQkJCQk8L2Rpdj4KCQkJCQkJCQkJPC9kaXY+CgkJCQkJCQkJCSp9</text>
       </register>
-      <register name="5" type="4">
-        <text>groups:
-		title: &quot;Skupiny&quot;
-		placeholder: &quot;Zadejte skupinu&quot;</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQkJCQkJe2lucHV0IHBhY2thZ2VVbml0fQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>price:
-		title: &quot;Cena&quot;
-		placeholder: &quot;Zadejte cenu&quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">CXBhY2thZ2VVbml0Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJJ2NlbmEnID0+ICdwcmljZScsCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">cHVyY2hhc2VQcmljZToKCQl0aXRsZTogIk7DoWt1cG7DrSBjZW5hIgoJCXBsYWNlaG9sZGVyOiAiWmFkZWp0ZSBuw6FrdXBuw60gY2VudSIJ</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIHN0cmluZ3xudWxsCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRQcm9kdWNlcigpOiA/c3RyaW5nCgl7CgkJcmV0dXJuICR0aGlzLT5wcm9kdWNlcjsKCX0KCQoJCgkvKioKCSAqIEBwYXJhbSBzdHJpbmcgJHByb2R1Y2VyCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRQcm9kdWNlcihzdHJpbmcgJHByb2R1Y2VyKQoJewoJCSR0aGlzLT5wcm9kdWNlciA9ICRwcm9kdWNlcjsKCX0=</text>
+        <text encoding="base64">YW1vdW50OgoJCXRpdGxlOiAiTW5vxb5zdHbDrSIKCQlwbGFjZWhvbGRlcjogIlphZGVqdGUgbW5vxb5zdHbDrSIJ</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldEdyb3VwcygpOiBDb2xsZWN0aW9uCgl7CgkJcmV0dXJuIG5ldyBSZWFkT25seUNvbGxlY3Rpb25XcmFwcGVyKCR0aGlzLT5ncm91cHMpOwoJfQoJCgkKCXB1YmxpYyBmdW5jdGlvbiBhZGRHcm91cChJdGVtR3JvdXAgJGdyb3VwKQoJewoJCWlmICghJHRoaXMtPmdyb3Vwcy0+Y29udGFpbnMoJGdyb3VwKSkgewoJCQkkZ3JvdXAtPmFkZEl0ZW0oJHRoaXMpOwoJCQkkdGhpcy0+Z3JvdXBzW10gPSAkZ3JvdXA7CgkJfQoJfQoJCgkKCXB1YmxpYyBmdW5jdGlvbiByZW1vdmVHcm91cChJdGVtR3JvdXAgJGdyb3VwKQoJewoJCSRncm91cC0+cmVtb3ZlSXRlbSgkdGhpcyk7CgkJJHRoaXMtPmdyb3Vwcy0+cmVtb3ZlRWxlbWVudCgkZ3JvdXApOwoJfQ==</text>
+        <text>groups:
+		title: &quot;Skupiny&quot;
+		placeholder: &quot;Zadejte skupinu&quot;</text>
       </register>
       <register name=":" type="4">
         <text>%s/invoice/creditNote/g</text>
