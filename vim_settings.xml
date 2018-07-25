@@ -490,8 +490,8 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/FileManagerControlFactory.php" timestamp="1521013151262">
-        <mark key="[" line="67" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/FileManagerControlFactory.php" timestamp="1532522342881">
+        <mark key="[" line="25" column="8" />
         <mark key="]" line="67" column="4" />
         <mark key="." line="67" column="4" />
       </file>
@@ -837,9 +837,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemNameSelectorForm/IItemFormFactory.php" timestamp="1532431020271">
-        <mark key="[" line="11" column="33" />
-      </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoicesGrid/InvoicesGrid.latte" timestamp="1501075636836">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="8" column="0" />
@@ -1039,11 +1036,6 @@
         <mark key="[" line="26" column="33" />
         <mark key="]" line="21" column="4" />
         <mark key="." line="21" column="4" />
-      </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/DI/config.neon" timestamp="1530613612202">
-        <mark key="[" line="29" column="37" />
-        <mark key="]" line="17" column="4" />
-        <mark key="." line="17" column="4" />
       </file>
       <file name="/home/www/html/bul/sender/index.php" timestamp="1519213127037">
         <mark key="[" line="1" column="0" />
@@ -1640,10 +1632,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseDocumentFormControl.php" timestamp="1532515618328">
-        <mark key="[" line="96" column="36" />
-        <mark key="]" line="48" column="8" />
-        <mark key="." line="48" column="8" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseDocumentFormControl.php" timestamp="1532522645306">
+        <mark key="'" line="12" column="51" />
+        <mark key="[" line="130" column="37" />
+        <mark key="]" line="11" column="26" />
+        <mark key="." line="11" column="26" />
+        <mark key="^" line="11" column="26" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/FormParts/TButtonsFormPart.php" timestamp="1532075873960">
         <mark key="[" line="65" column="37" />
@@ -2991,9 +2985,6 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectsGrid/SubjectsGrid.php" timestamp="1531999417864">
-        <mark key="[" line="73" column="47" />
-      </file>
       <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1532513768497">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="7" />
@@ -4122,6 +4113,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/DI/FileManagerControlFactory.php" timestamp="1532522600906">
+        <mark key="[" line="9" column="12" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/ClipboardControl/templates/ClipboardControl.latte" timestamp="1517835565140">
         <mark key="[" line="55" column="27" />
         <mark key="]" line="57" column="0" />
@@ -4748,9 +4742,6 @@
         <mark key="]" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemNameSelectorForm/ItemNameSelectorForm.latte" timestamp="1532431284122">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/home/www/html/bul/phonebook/app/templates/Error/@layout.latte" timestamp="1489996662376">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="4" />
@@ -4760,9 +4751,6 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="4" />
         <mark key="." line="23" column="4" />
-      </file>
-      <file name="/home/www/html/dv/adera/src/Url/Forms/Validator.php" timestamp="1532428402668">
-        <mark key="[" line="25" column="4" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Search/SearchFile.php" timestamp="1491832444891">
         <mark key="[" line="32" column="20" />
@@ -5319,9 +5307,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1532082769909">
-        <mark key="[" line="58" column="32" />
-      </file>
       <file name="/home/www/html/bul/mamo/app/config/client.side.neon" timestamp="1496827444246">
         <mark key="[" line="75" column="16" />
         <mark key="]" line="75" column="16" />
@@ -5402,10 +5387,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/File/Components/FileManagerControlFactory.php" timestamp="1521013271096">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/File/Components/FileManagerControlFactory.php" timestamp="1532522694731">
+        <mark key="[" line="111" column="8" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/validator/Exceptions/InvalidArgumentException.php" timestamp="1497511883189">
         <mark key="[" line="11" column="18" />
@@ -7230,8 +7215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="231" column="61" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="619" column="38" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="893" column="21" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="1479" column="22" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="1504" column="22" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
@@ -7330,57 +7313,57 @@
       <jump line="56" column="20" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNoteForm/templates/CreditNoteDocument.latte" />
       <jump line="193" column="4" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" />
       <jump line="29" column="11" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" />
+      <jump line="11" column="26" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseDocumentFormControl.php" />
+      <jump line="12" column="51" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseDocumentFormControl.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGNyZWF0ZVRpbnlNQ0Uoc3RyaW5nICRtZWRpYUltcG9ydElkID0gbnVsbCwgSUVsRmluZGVyRmlsZUNvbnN1bWVyICRlbEZpbmRlckZpbGVDb25zdW1lcikKCXsKCQkkY29udHJvbCA9ICR0aGlzLT5jb250cm9sRmFjdG9yeS0+Y3JlYXRlVGlueU1DRSgpOwoJCSR0aGlzLT5jb25maWd1cmUoJG1lZGlhSW1wb3J0SWQsICRjb250cm9sLCAkZWxGaW5kZXJGaWxlQ29uc3VtZXIpOwoKCQlyZXR1cm4gJGNvbnRyb2w7Cgl9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkkdGhpcy0+Y29uZmlndXJlKCRtZWRpYUltcG9ydElkLCAkY29udHJvbCwgJGVsRmluZGVyRmlsZUNvbnN1bWVyKTsK</text>
       </register>
       <register name="-" type="4">
         <text>Kč</text>
       </register>
       <register name="/" type="4">
-        <text>onCancel</text>
+        <text>FileManager</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGNyZWF0ZVRpbnlNQ0Uoc3RyaW5nICRtZWRpYUltcG9ydElkID0gbnVsbCwgSUVsRmluZGVyRmlsZUNvbnN1bWVyICRlbEZpbmRlckZpbGVDb25zdW1lcikKCXsKCQkkY29udHJvbCA9ICR0aGlzLT5jb250cm9sRmFjdG9yeS0+Y3JlYXRlVGlueU1DRSgpOwoJCSR0aGlzLT5jb25maWd1cmUoJG1lZGlhSW1wb3J0SWQsICRjb250cm9sLCAkZWxGaW5kZXJGaWxlQ29uc3VtZXIpOwoKCQlyZXR1cm4gJGNvbnRyb2w7Cgl9</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkkdGhpcy0+Y29uZmlndXJlKCRtZWRpYUltcG9ydElkLCAkY29udHJvbCwgJGVsRmluZGVyRmlsZUNvbnN1bWVyKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LyoKCQkkZm9ybS0+YWRkTW9uZXkoJ3ByaWNlJywgJHRyYW5zbGF0b3JEb21haW4gLiAnLnByaWNlLnRpdGxlJykKCQkJLT5zZXRBdHRyaWJ1dGUoJ3BsYWNlaG9sZGVyJywgJHRyYW5zbGF0b3JEb21haW4gLiAnLnByaWNlLnBsYWNlaG9sZGVyJyk7CgkJCgkJJGZvcm0tPmFkZE1vbmV5KCdwdXJjaGFzZVByaWNlJywgJHRyYW5zbGF0b3JEb21haW4gLiAnLnB1cmNoYXNlUHJpY2UudGl0bGUnKQoJCQktPnNldEF0dHJpYnV0ZSgncGxhY2Vob2xkZXInLCAkdHJhbnNsYXRvckRvbWFpbiAuICcucHVyY2hhc2VQcmljZS5wbGFjZWhvbGRlcicpOwoJCSov</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">LyoKCQkkZm9ybS0+YWRkTW9uZXkoJ3ByaWNlJywgJHRyYW5zbGF0b3JEb21haW4gLiAnLnByaWNlLnRpdGxlJykKCQkJLT5zZXRBdHRyaWJ1dGUoJ3BsYWNlaG9sZGVyJywgJHRyYW5zbGF0b3JEb21haW4gLiAnLnByaWNlLnBsYWNlaG9sZGVyJyk7CgkJCgkJJGZvcm0tPmFkZE1vbmV5KCdwdXJjaGFzZVByaWNlJywgJHRyYW5zbGF0b3JEb21haW4gLiAnLnB1cmNoYXNlUHJpY2UudGl0bGUnKQoJCQktPnNldEF0dHJpYnV0ZSgncGxhY2Vob2xkZXInLCAkdHJhbnNsYXRvckRvbWFpbiAuICcucHVyY2hhc2VQcmljZS5wbGFjZWhvbGRlcicpOwoJCSov</text>
+      <register name="3" type="2">
+        <text encoding="base64">CS0gSW52b2ljaW5nXENvbXBvbmVudHNcRmlsZU1hbmFnZXJDb250cm9sRmFjdG9yeSAoQGhybmNpcnIubWVkaWEuZmlsZS5zdG9yYWdlKQo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">eyoKCQkJCQkJCQkJPGRpdiBuOmNsYXNzPSJmb3JtLWdyb3VwLCAkZm9ybVsncGFja2FnZVVuaXQnXS0+aGFzRXJyb3JzKCkgPyAnaGFzLWVycm9yJyI+CgkJCQkJCQkJCQk8bGFiZWwgY2xhc3M9ImNvbnRyb2wtbGFiZWwgY29sLXNtLTIiPmFhYWFhPC9sYWJlbD4KCQkJCQkJCQkJCTxkaXYgY2xhc3M9ImNvbC1zbS0xMCI+CgkJCQkJCQkJCQkJe2lucHV0IHBhY2thZ2VVbml0fQoJCQkJCQkJCQkJCXtpbnB1dC5lcnJvcnMgcGFja2FnZVVuaXR9CgkJCQkJCQkJCQk8L2Rpdj4KCQkJCQkJCQkJPC9kaXY+CgkJCQkJCQkJCSp9</text>
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGNyZWF0ZVRpbnlNQ0Uoc3RyaW5nICRtZWRpYUltcG9ydElkID0gbnVsbCwgSUVsRmluZGVyRmlsZUNvbnN1bWVyICRlbEZpbmRlckZpbGVDb25zdW1lcikKCXsKCQkkY29udHJvbCA9ICR0aGlzLT5jb250cm9sRmFjdG9yeS0+Y3JlYXRlVGlueU1DRSgpOwoJCSR0aGlzLT5jb25maWd1cmUoJG1lZGlhSW1wb3J0SWQsICRjb250cm9sLCAkZWxGaW5kZXJGaWxlQ29uc3VtZXIpOwoKCQlyZXR1cm4gJGNvbnRyb2w7Cgl9</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCQkJe2lucHV0IHBhY2thZ2VVbml0fQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">LyoKCQkkZm9ybS0+YWRkTW9uZXkoJ3ByaWNlJywgJHRyYW5zbGF0b3JEb21haW4gLiAnLnByaWNlLnRpdGxlJykKCQkJLT5zZXRBdHRyaWJ1dGUoJ3BsYWNlaG9sZGVyJywgJHRyYW5zbGF0b3JEb21haW4gLiAnLnByaWNlLnBsYWNlaG9sZGVyJyk7CgkJCgkJJGZvcm0tPmFkZE1vbmV5KCdwdXJjaGFzZVByaWNlJywgJHRyYW5zbGF0b3JEb21haW4gLiAnLnB1cmNoYXNlUHJpY2UudGl0bGUnKQoJCQktPnNldEF0dHJpYnV0ZSgncGxhY2Vob2xkZXInLCAkdHJhbnNsYXRvckRvbWFpbiAuICcucHVyY2hhc2VQcmljZS5wbGFjZWhvbGRlcicpOwoJCSov</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CXBhY2thZ2VVbml0Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">LyoKCQkkZm9ybS0+YWRkTW9uZXkoJ3ByaWNlJywgJHRyYW5zbGF0b3JEb21haW4gLiAnLnByaWNlLnRpdGxlJykKCQkJLT5zZXRBdHRyaWJ1dGUoJ3BsYWNlaG9sZGVyJywgJHRyYW5zbGF0b3JEb21haW4gLiAnLnByaWNlLnBsYWNlaG9sZGVyJyk7CgkJCgkJJGZvcm0tPmFkZE1vbmV5KCdwdXJjaGFzZVByaWNlJywgJHRyYW5zbGF0b3JEb21haW4gLiAnLnB1cmNoYXNlUHJpY2UudGl0bGUnKQoJCQktPnNldEF0dHJpYnV0ZSgncGxhY2Vob2xkZXInLCAkdHJhbnNsYXRvckRvbWFpbiAuICcucHVyY2hhc2VQcmljZS5wbGFjZWhvbGRlcicpOwoJCSov</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">cHVyY2hhc2VQcmljZToKCQl0aXRsZTogIk7DoWt1cG7DrSBjZW5hIgoJCXBsYWNlaG9sZGVyOiAiWmFkZWp0ZSBuw6FrdXBuw60gY2VudSIJ</text>
+        <text encoding="base64">eyoKCQkJCQkJCQkJPGRpdiBuOmNsYXNzPSJmb3JtLWdyb3VwLCAkZm9ybVsncGFja2FnZVVuaXQnXS0+aGFzRXJyb3JzKCkgPyAnaGFzLWVycm9yJyI+CgkJCQkJCQkJCQk8bGFiZWwgY2xhc3M9ImNvbnRyb2wtbGFiZWwgY29sLXNtLTIiPmFhYWFhPC9sYWJlbD4KCQkJCQkJCQkJCTxkaXYgY2xhc3M9ImNvbC1zbS0xMCI+CgkJCQkJCQkJCQkJe2lucHV0IHBhY2thZ2VVbml0fQoJCQkJCQkJCQkJCXtpbnB1dC5lcnJvcnMgcGFja2FnZVVuaXR9CgkJCQkJCQkJCQk8L2Rpdj4KCQkJCQkJCQkJPC9kaXY+CgkJCQkJCQkJCSp9</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">YW1vdW50OgoJCXRpdGxlOiAiTW5vxb5zdHbDrSIKCQlwbGFjZWhvbGRlcjogIlphZGVqdGUgbW5vxb5zdHbDrSIJ</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCQkJCQkJe2lucHV0IHBhY2thZ2VVbml0fQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>groups:
-		title: &quot;Skupiny&quot;
-		placeholder: &quot;Zadejte skupinu&quot;</text>
+      <register name="9" type="2">
+        <text encoding="base64">CXBhY2thZ2VVbml0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/invoice/creditNote/g</text>
       </register>
     </registers>
     <search>
-      <last-search>onCancel</last-search>
+      <last-search>FileManager</last-search>
       <last-offset />
-      <last-pattern>onCancel</last-pattern>
+      <last-pattern>FileManager</last-pattern>
       <last-replace>creditNote</last-replace>
       <last-substitute>invoice</last-substitute>
       <last-dir>1</last-dir>
@@ -7388,7 +7371,6 @@
     </search>
     <history>
       <history-search>
-        <entry>console</entry>
         <entry>NULL</entry>
         <entry>getSystem</entry>
         <entry>getSystemCommandConfig</entry>
@@ -7408,6 +7390,7 @@
         <entry>invoice</entry>
         <entry>item</entry>
         <entry>onCancel</entry>
+        <entry>FileManager</entry>
       </history-search>
       <history-cmd>
         <entry>522</entry>
