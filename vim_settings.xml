@@ -653,6 +653,9 @@
         <mark key="]" line="113" column="4" />
         <mark key="." line="113" column="4" />
       </file>
+      <file name="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" timestamp="1532605529904">
+        <mark key="'" line="304" column="21" />
+      </file>
       <file name="/home/www/lib/vendor/hrncirr/fullcalendar/src/IO/Response.php" timestamp="1522045995987">
         <mark key="[" line="29" column="22" />
         <mark key="]" line="29" column="22" />
@@ -3311,10 +3314,11 @@
         <mark key="]" line="118" column="37" />
         <mark key="." line="118" column="37" />
       </file>
-      <file name="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/Controls/TextControl.php" timestamp="1505398162922">
-        <mark key="[" line="255" column="0" />
-        <mark key="]" line="255" column="0" />
-        <mark key="." line="255" column="0" />
+      <file name="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/Controls/TextControl.php" timestamp="1532606385868">
+        <mark key="'" line="227" column="32" />
+        <mark key="[" line="217" column="12" />
+        <mark key="]" line="217" column="12" />
+        <mark key="." line="217" column="12" />
       </file>
       <file name="/home/www/vendor/hrncirr/jstree/src/DataModel.php" timestamp="1479733967194">
         <mark key="[" line="40" column="15" />
@@ -7181,25 +7185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="39" filename="/home/www/html/nnb/dms/src/Search/Query/SearchQuery.php" />
-      <jump line="109" column="33" filename="/home/www/html/nnb/dms/src/Search/Query/SearchQuery.php" />
-      <jump line="111" column="32" filename="/home/www/html/nnb/dms/src/Search/Query/SearchQuery.php" />
-      <jump line="115" column="37" filename="/home/www/html/nnb/dms/src/Search/Query/SearchQuery.php" />
-      <jump line="124" column="33" filename="/home/www/html/nnb/dms/src/Search/Query/SearchQuery.php" />
-      <jump line="176" column="32" filename="/home/www/html/nnb/dms/src/Search/Query/SearchQuery.php" />
-      <jump line="187" column="42" filename="/home/www/html/nnb/dms/src/Search/Query/SearchQuery.php" />
-      <jump line="173" column="40" filename="/home/www/html/nnb/dms/src/Search/Query/SearchQuery.php" />
-      <jump line="36" column="24" filename="/home/www/html/nnb/dms/app/config/config.neon" />
-      <jump line="29" column="8" filename="/home/www/html/nnb/dms/src/Search/resources/file.type.neon" />
-      <jump line="9" column="17" filename="/home/www/html/nnb/dms/src/Search/resources/file.type.neon" />
-      <jump line="65" column="22" filename="/home/www/lib/vendor/hrncirr/document-parsers/src/Types/Pdf.php" />
-      <jump line="36" column="35" filename="/home/www/lib/vendor/hrncirr/document-parsers/src/Utils/Ocr.php" />
-      <jump line="71" column="26" filename="/home/www/lib/vendor/hrncirr/document-parsers/src/Utils/Ocr.php" />
-      <jump line="118" column="31" filename="/home/www/lib/vendor/hrncirr/document-parsers/src/Utils/Ocr.php" />
-      <jump line="120" column="37" filename="/home/www/lib/vendor/hrncirr/document-parsers/src/Utils/Ocr.php" />
-      <jump line="72" column="25" filename="/home/www/lib/vendor/hrncirr/document-parsers/src/Utils/Ocr.php" />
-      <jump line="112" column="33" filename="/home/www/vendor/nette/application/src/Application/UI/Component.php" />
-      <jump line="349" column="19" filename="/home/www/vendor/nette/application/src/Application/UI/Component.php" />
       <jump line="62" column="42" filename="/home/www/vendor/nette/application/src/Application/UI/Component.php" />
       <jump line="202" column="18" filename="/home/www/vendor/nette/application/src/Application/UI/Component.php" />
       <jump line="308" column="40" filename="/home/www/vendor/nette/application/src/Application/UI/Component.php" />
@@ -7281,55 +7266,82 @@
       <jump line="81" column="53" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
       <jump line="82" column="44" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
       <jump line="2" column="58" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/conversions.latte" />
+      <jump line="217" column="32" filename="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/Controls/TextControl.php" />
+      <jump line="231" column="54" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="253" column="15" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="257" column="88" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="270" column="95" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="309" column="17" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="83" column="94" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="99" column="117" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="141" column="29" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="151" column="35" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="184" column="35" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="195" column="19" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="96" column="42" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="118" column="13" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="120" column="18" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="298" column="63" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="263" column="60" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="289" column="58" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
+      <jump line="304" column="21" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJKi8K</text>
+      <register name="&quot;" type="4">
+        <text>if ($name === 'packageUnit') {
+					dump($value);
+					dump($type);
+					exit;
+				}</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JHJlbHBhdGggPSAkdGhpcy0+X2ZpbmQoJHJlbHBhdGgpLT5nZXROYW1lKCk7</text>
       </register>
       <register name="/" type="4">
-        <text>NULL</text>
+        <text>createInfo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJKi8K</text>
+      <register name="1" type="4">
+        <text>if ($name === 'packageUnit') {
+					dump($value);
+					dump($type);
+					exit;
+				}</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJLyoK</text>
+      <register name="2" type="4">
+        <text encoding="base64">aWYgKCRuYW1lID09PSAncGFja2FnZVVuaXQnKSB7CgkJCQkJZHVtcCgkY29tcG9uZW50LT5nZXRWYWx1ZSgpKTsKCQkJCQlkdW1wKCR0eXBlKTsKCQkJCQlleGl0OwoJCQkJfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJLy8nb25seU1pbWVzJyA9PiAnJwo=</text>
+        <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">aWYgKCRwYXRoID09PSAyMCAmJiAkbmFtZSA9PT0gJ2hpZGRlbicgJiYgJGF0dHJzWydwYXR0ZXJuJ10gIT09ICd+Xi8kficpIHsKCQkJCWR1bXAoJHJlbHBhdGgpOwoJCQkJZHVtcChwcmVnX21hdGNoKCRhdHRyc1sncGF0dGVybiddLCAkcmVscGF0aCkpOwoJCQkJLy9wcmludF9yKCR0aGlzLT5hdHRyaWJ1dGVzKTsKCQkJCWV4aXQ7CgkJCX0=</text>
+        <text encoding="base64">LyoKCQkJCWZvcmVhY2ggKCRtZXRob2QtPmdldFBhcmFtZXRlcnMoKSBhcyAkcGFyYW1ldGVyKSB7CgkJCQkJZHVtcCgkcGFyYW1ldGVyKTsKCQkJCX0KCQkJCWV4aXQ7CgkJCQkqLw==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">JHRoaXMtPl9jcmVhdGVRdWVyeUJ1aWxkZXIoKQoJCQktPmFuZFdoZXJlKCdmLmlkID0gOmlkJykKCQkJLT5zZXRQYXJhbWV0ZXIoJ2lkJywgJHBhdGgpCgkJCS0+Z2V0UXVlcnkoKQoJCQktPmdldE9uZU9yTnVsbFJlc3VsdCgpOw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCS8vZHVtcCgkbWV0aG9kKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">JHRoaXMtPl9jcmVhdGVRdWVyeUJ1aWxkZXIoKQoJCQktPmFuZFdoZXJlKCdmLmlkID0gOmlkJykKCQkJLT5ncm91cEJ5KCdmLmlkJykKCQkJLT5zZXRQYXJhbWV0ZXIoJ2lkJywgJHBhdGgpCgkJCS0+Z2V0UXVlcnkoKS0+Z2V0T25lT3JOdWxsUmVzdWx0KCk7</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCWR1bXAoJG1ldGhvZC0+Z2V0UGFyYW1ldGVycygpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCQk8ZGl2IGNsYXNzPSJjbGVhcmZpeCI+PC9kaXY+Cg==</text>
+        <text encoding="base64">CQkJCWR1bXAoJG1ldGhvZCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCQk8L2Rpdj4K</text>
+        <text encoding="base64">CQkJKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCQk8ZGl2IG46aWZjb250ZW50IGNsYXNzPSJwdWxsLXJpZ2h0IGNvbC1zbS0yIj4K</text>
+        <text encoding="base64">CQkJLyoK</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
       </register>
     </registers>
     <search>
-      <last-search>NULL</last-search>
+      <last-search>createInfo</last-search>
       <last-offset />
-      <last-pattern>NULL</last-pattern>
+      <last-pattern>createInfo</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -7337,11 +7349,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sectionName</entry>
-        <entry>getQuery</entry>
-        <entry>getRememberState</entry>
-        <entry>remeberState</entry>
-        <entry>rememberState</entry>
         <entry>form</entry>
         <entry>newRecord</entry>
         <entry>Number</entry>
@@ -7357,6 +7364,11 @@
         <entry>attr</entry>
         <entry>conversions</entry>
         <entry>NULL</entry>
+        <entry>hasField</entry>
+        <entry>Null</entry>
+        <entry>null</entry>
+        <entry>reflection</entry>
+        <entry>createInfo</entry>
       </history-search>
       <history-cmd>
         <entry>522</entry>
