@@ -2495,6 +2495,9 @@
         <mark key="]" line="41" column="37" />
         <mark key="." line="41" column="37" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" timestamp="1532597246692">
+        <mark key="'" line="25" column="15" />
+      </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/EmployeesGrid/EmployeesGrid.php" timestamp="1503311951639">
         <mark key="[" line="167" column="16" />
         <mark key="]" line="167" column="16" />
@@ -7193,7 +7196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="29" filename="/home/www/html/dv/adera/libs/vendor/nette/forms/src/Forms/Controls/BaseControl.php" />
       <jump line="67" column="52" filename="/home/www/html/dv/adera/Modules/Money/Forms/Controls/DecimalInput.php" />
       <jump line="35" column="6" filename="/home/www/html/nnb/dms/src/Search/Query/SearchQuery.php" />
       <jump line="84" column="26" filename="/home/www/html/nnb/dms/src/Search/Query/SearchQuery.php" />
@@ -7293,6 +7295,7 @@
       <jump line="1235" column="33" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="3958" column="23" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="407" column="17" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="25" column="15" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -7302,7 +7305,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>attr</text>
+        <text>conversions</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
@@ -7339,9 +7342,9 @@
       </register>
     </registers>
     <search>
-      <last-search>attr</last-search>
+      <last-search>conversions</last-search>
       <last-offset />
-      <last-pattern>attr</last-pattern>
+      <last-pattern>conversions</last-pattern>
       <last-replace>creditNote</last-replace>
       <last-substitute>invoice</last-substitute>
       <last-dir>1</last-dir>
@@ -7349,7 +7352,6 @@
     </search>
     <history>
       <history-search>
-        <entry>status</entry>
         <entry>stav</entry>
         <entry>sectionName</entry>
         <entry>getQuery</entry>
@@ -7369,6 +7371,7 @@
         <entry>ignoreFiles</entry>
         <entry>attributes</entry>
         <entry>attr</entry>
+        <entry>conversions</entry>
       </history-search>
       <history-cmd>
         <entry>522</entry>
