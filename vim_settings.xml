@@ -2440,10 +2440,12 @@
         <mark key="]" line="27" column="4" />
         <mark key="." line="27" column="4" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/conversions.latte" timestamp="1489589129082">
-        <mark key="[" line="6" column="9" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/conversions.latte" timestamp="1532600761596">
+        <mark key="'" line="2" column="58" />
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="2" column="58" />
+        <mark key="." line="2" column="58" />
+        <mark key="^" line="2" column="58" />
       </file>
       <file name="/home/www/html/nnb/access-rights/app/components/BaseControl.php" timestamp="1475659351099">
         <mark key="[" line="15" column="0" />
@@ -2495,8 +2497,11 @@
         <mark key="]" line="41" column="37" />
         <mark key="." line="41" column="37" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" timestamp="1532597246692">
-        <mark key="'" line="25" column="15" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" timestamp="1532601273683">
+        <mark key="'" line="83" column="44" />
+        <mark key="[" line="81" column="32" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/EmployeesGrid/EmployeesGrid.php" timestamp="1503311951639">
         <mark key="[" line="167" column="16" />
@@ -4489,7 +4494,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532528319154">
+      <file name="/Dummy.txt" timestamp="1532601532886">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
@@ -7196,13 +7201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="52" filename="/home/www/html/dv/adera/Modules/Money/Forms/Controls/DecimalInput.php" />
-      <jump line="35" column="6" filename="/home/www/html/nnb/dms/src/Search/Query/SearchQuery.php" />
-      <jump line="84" column="26" filename="/home/www/html/nnb/dms/src/Search/Query/SearchQuery.php" />
-      <jump line="86" column="34" filename="/home/www/html/nnb/dms/src/Search/Query/SearchQuery.php" />
-      <jump line="87" column="46" filename="/home/www/html/nnb/dms/src/Search/Query/SearchQuery.php" />
-      <jump line="90" column="27" filename="/home/www/html/nnb/dms/src/Search/Query/SearchQuery.php" />
-      <jump line="94" column="45" filename="/home/www/html/nnb/dms/src/Search/Query/SearchQuery.php" />
       <jump line="96" column="39" filename="/home/www/html/nnb/dms/src/Search/Query/SearchQuery.php" />
       <jump line="109" column="33" filename="/home/www/html/nnb/dms/src/Search/Query/SearchQuery.php" />
       <jump line="111" column="32" filename="/home/www/html/nnb/dms/src/Search/Query/SearchQuery.php" />
@@ -7296,63 +7294,69 @@
       <jump line="3958" column="23" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="407" column="17" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="25" column="15" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
+      <jump line="43" column="72" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
+      <jump line="44" column="46" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
+      <jump line="64" column="102" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
+      <jump line="78" column="44" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
+      <jump line="81" column="53" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
+      <jump line="82" column="44" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
+      <jump line="2" column="58" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/conversions.latte" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JGNvbnRyb2wtPnNldFNlcnZlck9wdGlvbnMoWwoJCQknYXR0cmlidXRlcycgPT4gWwoJCQkJWwoJCQkJCSdwYXR0ZXJuJyA9PiAnL1wuKD86anBnfGpwZWd8cGpwZWd8cG5nfGdpZikkLycsCgkJCQkJJ2hpZGRlbicgPT4gdHJ1ZQoJCQkJXQoJCQldCgkJXSk7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQkJCQk8ZGl2IGNsYXNzPSJjbGVhcmZpeCI+PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>conversions</text>
+        <text>NULL</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">JGNvbnRyb2wtPnNldFNlcnZlck9wdGlvbnMoWwoJCQknYXR0cmlidXRlcycgPT4gWwoJCQkJWwoJCQkJCSdwYXR0ZXJuJyA9PiAnL1wuKD86anBnfGpwZWd8cGpwZWd8cG5nfGdpZikkLycsCgkJCQkJJ2hpZGRlbicgPT4gdHJ1ZQoJCQkJXQoJCQldCgkJXSk7</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCQkJCQk8ZGl2IGNsYXNzPSJjbGVhcmZpeCI+PC9kaXY+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJJ3VwbG9hZE9yZGVyJyA9PiBbJ2FsbG93JywgJ2RlbnknXSwK</text>
+        <text encoding="base64">CQkJCQkJCQk8L2Rpdj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQk8ZGl2IG46aWZjb250ZW50IGNsYXNzPSJwdWxsLXJpZ2h0IGNvbC1zbS0yIj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS0gU3RvcmFnZVxDb21wb25lbnRzXEZpbGVNYW5hZ2VyQ29udHJvbEZhY3RvcnkgKEBocm5jaXJyLm1lZGlhLmZpbGUuc3RvcmFnZSkK</text>
+        <text encoding="base64">CQkJCQkJCQk8L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIFN0b3JhZ2VcQ29tcG9uZW50c1xGaWxlTWFuYWdlckNvbnRyb2xGYWN0b3J5Owo=</text>
+        <text encoding="base64">CQkJCQkJCQk8ZGl2IGNsYXNzPSJwdWxsLWxlZnQgY29sLXNtLTEwIj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlpZiAoJGFsaWFzICE9PSBudWxsKSB7Cg==</text>
+        <text encoding="base64">CQkJCQk8L2Rpdj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQkJCQk8ZGl2IGNsYXNzPSJwdWxsLWxlZnQgY29sLXNtLTEwIj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpZiAoJGFsaWFzICE9PSBudWxsKSB7Cg==</text>
+        <text encoding="base64">CQkJe2ZvcmVhY2h9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkkY29uZmlnWydhbGlhcyddID0gJGFsaWFzOwo=</text>
+        <text encoding="base64">CQkJe2ZvcmVhY2ggJGNvbnZlcnNpb25zIGFzICRtaW1lVHlwZSA9PiAkY29udmVyc2lvbn0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/NULL/null/g</text>
       </register>
     </registers>
     <search>
-      <last-search>conversions</last-search>
+      <last-search>NULL</last-search>
       <last-offset />
-      <last-pattern>conversions</last-pattern>
-      <last-replace>creditNote</last-replace>
-      <last-substitute>invoice</last-substitute>
+      <last-pattern>NULL</last-pattern>
+      <last-replace>null</last-replace>
+      <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>stav</entry>
         <entry>sectionName</entry>
         <entry>getQuery</entry>
         <entry>getRememberState</entry>
@@ -7372,6 +7376,7 @@
         <entry>attributes</entry>
         <entry>attr</entry>
         <entry>conversions</entry>
+        <entry>NULL</entry>
       </history-search>
       <history-cmd>
         <entry>522</entry>
@@ -7391,9 +7396,9 @@
         <entry>%s/DateTime/DateTimeImmutable/g</entry>
         <entry>%s/includeInAll/copyTo/g</entry>
         <entry>%s/string/text/g</entry>
-        <entry>%s/NULL/null/g</entry>
         <entry>%s/invoice/creditNote/g</entry>
         <entry>w</entry>
+        <entry>%s/NULL/null/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
