@@ -613,10 +613,10 @@
         <mark key="]" line="68" column="8" />
         <mark key="." line="68" column="8" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.php" timestamp="1532602696905">
-        <mark key="[" line="365" column="0" />
-        <mark key="]" line="365" column="0" />
-        <mark key="." line="365" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemForm/ItemForm.php" timestamp="1532602937735">
+        <mark key="[" line="375" column="0" />
+        <mark key="]" line="375" column="0" />
+        <mark key="." line="375" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/src/Pages/Query/PagesQuery.php" timestamp="1491828474090">
         <mark key="[" line="11" column="46" />
@@ -5017,6 +5017,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ItemsGrid/templates/ItemForm.latte" timestamp="1532510156428">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="/home/www/html/dv/adera/app/config/extensions/nette.neon" timestamp="1507018606696">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -7279,7 +7284,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJLy8nb25seU1pbWVzJyA9PiAnJwo=</text>
+        <text encoding="base64">CQkJKi8K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JHJlbHBhdGggPSAkdGhpcy0+X2ZpbmQoJHJlbHBhdGgpLT5nZXROYW1lKCk7</text>
@@ -7291,31 +7296,31 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CQkJKi8K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJLyoK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CQkJLy8nb25seU1pbWVzJyA9PiAnJwo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">aWYgKCRwYXRoID09PSAyMCAmJiAkbmFtZSA9PT0gJ2hpZGRlbicgJiYgJGF0dHJzWydwYXR0ZXJuJ10gIT09ICd+Xi8kficpIHsKCQkJCWR1bXAoJHJlbHBhdGgpOwoJCQkJZHVtcChwcmVnX21hdGNoKCRhdHRyc1sncGF0dGVybiddLCAkcmVscGF0aCkpOwoJCQkJLy9wcmludF9yKCR0aGlzLT5hdHRyaWJ1dGVzKTsKCQkJCWV4aXQ7CgkJCX0=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">JHRoaXMtPl9jcmVhdGVRdWVyeUJ1aWxkZXIoKQoJCQktPmFuZFdoZXJlKCdmLmlkID0gOmlkJykKCQkJLT5zZXRQYXJhbWV0ZXIoJ2lkJywgJHBhdGgpCgkJCS0+Z2V0UXVlcnkoKQoJCQktPmdldE9uZU9yTnVsbFJlc3VsdCgpOw==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">JHRoaXMtPl9jcmVhdGVRdWVyeUJ1aWxkZXIoKQoJCQktPmFuZFdoZXJlKCdmLmlkID0gOmlkJykKCQkJLT5ncm91cEJ5KCdmLmlkJykKCQkJLT5zZXRQYXJhbWV0ZXIoJ2lkJywgJHBhdGgpCgkJCS0+Z2V0UXVlcnkoKS0+Z2V0T25lT3JOdWxsUmVzdWx0KCk7</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCQk8ZGl2IGNsYXNzPSJjbGVhcmZpeCI+PC9kaXY+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCQk8L2Rpdj4K</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCQk8ZGl2IG46aWZjb250ZW50IGNsYXNzPSJwdWxsLXJpZ2h0IGNvbC1zbS0yIj4K</text>
+        <text encoding="base64">CQkJCQkJCQk8ZGl2IGNsYXNzPSJjbGVhcmZpeCI+PC9kaXY+Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">CQkJCQkJCQk8L2Rpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCQk8ZGl2IGNsYXNzPSJwdWxsLWxlZnQgY29sLXNtLTEwIj4K</text>
+        <text encoding="base64">CQkJCQkJCQk8ZGl2IG46aWZjb250ZW50IGNsYXNzPSJwdWxsLXJpZ2h0IGNvbC1zbS0yIj4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
