@@ -3777,7 +3777,7 @@
         <mark key="]" line="60" column="8" />
         <mark key="." line="60" column="8" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Invoice.php" timestamp="1532688802184">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Invoice.php" timestamp="1532690157208">
         <mark key="[" line="21" column="26" />
         <mark key="]" line="49" column="23" />
         <mark key="." line="49" column="23" />
@@ -3909,11 +3909,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Receipt.php" timestamp="1532687565571">
-        <mark key="[" line="239" column="25" />
-        <mark key="]" line="239" column="25" />
-        <mark key="." line="239" column="25" />
-        <mark key="^" line="239" column="25" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/Receipt.php" timestamp="1532690171030">
+        <mark key="[" line="20" column="65" />
+        <mark key="]" line="20" column="65" />
+        <mark key="." line="20" column="65" />
+        <mark key="^" line="240" column="25" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Money/DI/InvoicingExtension.php" timestamp="1521020801655">
         <mark key="[" line="18" column="47" />
@@ -7307,11 +7307,11 @@
       <jump line="304" column="21" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CS0gSW52b2ljaW5nXEV2ZW50c1xEb2N1bWVudE51bWJlckxpc3RlbmVyCg==</text>
+      <register name="&quot;" type="4">
+        <text>, &quot;Invoicing\Events\InvoiceListener&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>implements IEntityProvider, IEntityAuditProvider, ITranslationProvider</text>
+        <text>, &quot;Invoicing\Events\InvoiceListener&quot;</text>
       </register>
       <register name="/" type="4">
         <text>createInfo</text>
