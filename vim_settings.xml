@@ -3812,6 +3812,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/src/Navigation/Navigation.php" timestamp="1532422395283">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="73" column="14" />
+      </file>
       <file name="/home/www/html/bul/maternal-register/app/components/SignInForm/SignInForm.php" timestamp="1481278729611">
         <mark key="[" line="35" column="9" />
         <mark key="]" line="35" column="9" />
@@ -3821,6 +3827,12 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/Storage/ItemPrice.php" timestamp="1532421820625">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="76" column="4" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/Passportization/TechnicalRequisitions/Components/ProfessionsGrid/ProfessionsGrid.php" timestamp="1487666831131">
         <mark key="[" line="104" column="0" />
@@ -3882,10 +3894,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Receipt.php" timestamp="1532681906547">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/Receipt.php" timestamp="1532687565571">
+        <mark key="[" line="239" column="25" />
+        <mark key="]" line="239" column="25" />
+        <mark key="." line="239" column="25" />
+        <mark key="^" line="239" column="25" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Money/DI/InvoicingExtension.php" timestamp="1521020801655">
         <mark key="[" line="18" column="47" />
@@ -5531,6 +5544,12 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Storage/StorageItem.php" timestamp="1532421840089">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="32" column="0" />
+      </file>
       <file name="/home/www/html/nnb/dms/app/Components/BaseFormControl.php" timestamp="1517903736742">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -6126,6 +6145,12 @@
         <mark key="]" line="23" column="12" />
         <mark key="." line="23" column="12" />
       </file>
+      <file name="/home/www/html/dv/adera/src/User/Role.php" timestamp="1532428108824">
+        <mark key="[" line="41" column="23" />
+        <mark key="]" line="41" column="22" />
+        <mark key="." line="41" column="22" />
+        <mark key="^" line="41" column="22" />
+      </file>
       <file name="/home/www/html/bul/mamo/app/presenters/BasePresenter.php" timestamp="1481267871908">
         <mark key="[" line="21" column="14" />
         <mark key="]" line="4" column="0" />
@@ -6554,6 +6579,11 @@
       </file>
       <file name="/home/www/html/dv/adera/Modules/Storage/Components/FormParts/ItemsFormPart/ItemsFormPart/TItemsFormPart.php" timestamp="1532676016759">
         <mark key="[" line="30" column="29" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/Storage/ReceiptItem.php" timestamp="1532687494277">
+        <mark key="[" line="39" column="4" />
+        <mark key="]" line="39" column="4" />
+        <mark key="." line="39" column="4" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Steiner/EyeRoomAccounts/OrpheusAccountsRepository.php" timestamp="1509457221799">
         <mark key="[" line="11" column="61" />
@@ -7258,11 +7288,11 @@
       <jump line="304" column="21" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkkdGhpcy0+d29ya2VycyA9IG5ldyBBcnJheUNvbGxlY3Rpb24oKTsK</text>
+      <register name="&quot;" type="4">
+        <text>rnvoiceItem</text>
       </register>
       <register name="-" type="4">
-        <text>, nullable=tru</text>
+        <text>rnvoiceItem</text>
       </register>
       <register name="/" type="4">
         <text>createInfo</text>
@@ -7270,48 +7300,40 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIEludm9pY2UKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGdldEludm9pY2UoKTogSW52b2ljZQoJewoJCXJldHVybiAkdGhpcy0+aW52b2ljZTsKCX0KCQoJCgkvKioKCSAqIEBwYXJhbSBJbnZvaWNlfG51bGwgJGludm9pY2UKCSAqLwoJcHVibGljIGZ1bmN0aW9uIHNldEludm9pY2UoP0ludm9pY2UgJGludm9pY2UpCgl7CgkJJHRoaXMtPmludm9pY2UgPSAkaW52b2ljZTsKCX0=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">dXNlIFN0b3JhZ2VcQmFzZURvY3VtZW50SXRlbTsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CQkkdGhpcy0+d29ya2VycyA9IG5ldyBBcnJheUNvbGxlY3Rpb24oKTsK</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIHN0cmluZ3xudWxsCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRUZXh0KCk6ID9zdHJpbmcKCXsKCQlyZXR1cm4gJHRoaXMtPnRleHQ7Cgl9CgkKCQoJLyoqCgkgKiBAcGFyYW0gc3RyaW5nfG51bGwgJHRleHQKCSAqLwoJcHVibGljIGZ1bmN0aW9uIHNldFRleHQoP3N0cmluZyAkdGV4dCkKCXsKCQkkdGhpcy0+dGV4dCA9ICR0ZXh0OwoJfQ==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIHN0cmluZ3xudWxsCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRGaW5hbEJlbmVmaWNpYXJ5KCk6ID9zdHJpbmcKCXsKCQlyZXR1cm4gJHRoaXMtPmZpbmFsQmVuZWZpY2lhcnk7Cgl9CgkKCQoJLyoqCgkgKiBAcGFyYW0gc3RyaW5nfG51bGwgJGZpbmFsQmVuZWZpY2lhcnkKCSAqLwoJcHVibGljIGZ1bmN0aW9uIHNldEZpbmFsQmVuZWZpY2lhcnkoP3N0cmluZyAkZmluYWxCZW5lZmljaWFyeSkKCXsKCQkkdGhpcy0+ZmluYWxCZW5lZmljaWFyeSA9ICRmaW5hbEJlbmVmaWNpYXJ5OwoJfQ==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>/**
 	 * @ORM\OneToOne(targetEntity=&quot;BusinessCase&quot;, mappedBy=&quot;invoice&quot;, cascade={&quot;persist&quot;, &quot;remove&quot;}, fetch=&quot;EAGER&quot;)
 	 * @var BusinessCase|null
 	 */
 	protected $businessCase;</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">LyoqCgkgKiBAcGFyYW0gc3RyaW5nICRpbnRlcnZlbnRpb25QbGFjZQoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0SW50ZXJ2ZW50aW9uUGxhY2Uoc3RyaW5nICRpbnRlcnZlbnRpb25QbGFjZSk6IHZvaWQKCXsKCQkkdGhpcy0+aW50ZXJ2ZW50aW9uUGxhY2UgPSAkaW50ZXJ2ZW50aW9uUGxhY2U7Cgl9</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIHN0cmluZ3xudWxsCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRJbnRlcnZlbnRpb25QbGFjZSgpOiA/c3RyaW5nCgl7CgkJcmV0dXJuICR0aGlzLT5pbnRlcnZlbnRpb25QbGFjZTsKCX0=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>/**
 	 * @ORM\Column(type=&quot;text&quot;, nullable=true)
 	 * @var string
 	 */
 	private $finalBeneficiary;</text>
-      </register>
-      <register name="8" type="4">
-        <text>/**
-	 * @ORM\Column(type=&quot;text&quot;, name=&quot;invoiceText&quot;, nullable=true)
-	 * @var string
-	 */
-	private $text;</text>
-      </register>
-      <register name="9" type="4">
-        <text>/**
-	 * @ORM\Column(type=&quot;string&quot;)
-	 * @var string
-	 */
-	private $interventionPlace;</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
