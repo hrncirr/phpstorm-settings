@@ -530,6 +530,9 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Storage/Presenters/CatalogItemsPresenter.php" timestamp="1533112583845">
+        <mark key="[" line="29" column="36" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Files/IFileConversionStorage.php" timestamp="1484656775332">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="38" column="4" />
@@ -2376,6 +2379,11 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/CatalogItemGroupsGrid/CatalogItemGroupsGrid.php" timestamp="1533112948647">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="/home/www/html/dv/cms/src/Users/Resource.php" timestamp="1497013825055">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="96" column="31" />
@@ -3734,8 +3742,8 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Components/CatalogItemsGrid/CatalogItemsGrid.php" timestamp="1533110865223">
-        <mark key="[" line="50" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/CatalogItemsGrid/CatalogItemsGrid.php" timestamp="1533112874822">
+        <mark key="[" line="65" column="57" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
@@ -5035,8 +5043,8 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Presenters/CatalogItemGroupsPresenter.php" timestamp="1533111454435">
-        <mark key="[" line="26" column="34" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/Presenters/CatalogItemGroupsPresenter.php" timestamp="1533112793320">
+        <mark key="[" line="28" column="47" />
       </file>
       <file name="/home/www/html/dv/adera/src/Navigation/Install/NavigationInstall.php" timestamp="1506689801942">
         <mark key="[" line="94" column="10" />
@@ -5540,10 +5548,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Events/ItemFileImportSubscriber.php" timestamp="1521035117483">
-        <mark key="[" line="58" column="45" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/Events/ItemFileImportSubscriber.php" timestamp="1533112655734">
+        <mark key="[" line="39" column="46" />
+        <mark key="]" line="39" column="45" />
+        <mark key="." line="39" column="45" />
+        <mark key="^" line="39" column="45" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/IAccountsLastAccessRepository.php" timestamp="1509099269559">
         <mark key="[" line="17" column="0" />
@@ -7437,7 +7446,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkvLyR0aGlzLT5nZXRQcmVzZW50ZXIoKS0+c2V0Q29udGVudFRpdGxlKCdQb2xvxb5reScpOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="-" type="4">
         <text>Grid extends BaseControl</text>
@@ -7449,35 +7458,35 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvLyR0aGlzLT5nZXRQcmVzZW50ZXIoKS0+c2V0Q29udGVudFRpdGxlKCdQb2xvxb5reScpOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CQkkdGhpcy0+Z2V0UHJlc2VudGVyKCktPnNldENvbnRlbnRUaXRsZSgnRm9ybXVsw6HFmSBza3VwaW55IGthdGFsb2dvdsOpIHBvbG/Fvmt5Jyk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJSHRtbDo6ZWwoJ3NtYWxsJyktPnNldFRleHQoJ2AnIC4gJHRoaXMtPml0ZW0tPmdldE5hbWUoKSAuICdgJykpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkkdGhpcy0+Z2V0UHJlc2VudGVyKCktPnNldENvbnRlbnRUaXRsZSgnRm9ybXVsw6HFmSBza3VwaW55IGthdGFsb2dvdsOpIHBvbG/Fvmt5ICcgLgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkvLyR0aGlzLT5nZXRQcmVzZW50ZXIoKS0+c2V0Q29udGVudFRpdGxlKCdQb2xvxb5reScpOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CSAqICAgICAgICBuYW1lPSJzdG9yYWdlX2l0ZW1fZ3JvdXAiLAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text encoding="base64">LyoKCQkJZHVtcCgkc3RvcmFnZUl0ZW1zKTsKCQkJZXhpdDsKCQkJCgkJCSRzdG9yYWdlSWRzID0gYXJyYXlfbWFwKGZ1bmN0aW9uIChTdG9yYWdlSXRlbSAkc3RvcmFnZUl0ZW0pIHsKCQkJCXJldHVybiAkc3RvcmFnZUl0ZW0tPmdldElkKCk7CgkJCX0sICRzdG9yYWdlSXRlbXMpOwoJCQkKCQkJJHN0b3JhZ2VJdGVtcyA9IGFycmF5X2NvbWJpbmUoJHN0b3JhZ2VJZHMsICRzdG9yYWdlSXRlbXMpOwoJCQkqLw==</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text>foreach ($storageItems as $storageItem) {
 				dump($storageItem);
 			}
 			dump($storageItems);
 			exit;</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlkdW1wKCRzdG9yYWdlSXRlbSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJ29rJyk7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJZHVtcCgkaXRlbS0+Z2V0SXRlbSgpLT5nZXRJZCgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
