@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="59761349-cc7a-4645-b0cf-c530779afe07" name="intranetapp" url="http://intranetapp/">
+        <fileTransfer host="intranet" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/bulovka/www/intranetapp/www/apps" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

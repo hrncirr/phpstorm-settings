@@ -4109,10 +4109,10 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Components/BaseControl.php" timestamp="1528356342705">
-        <mark key="[" line="23" column="10" />
-        <mark key="]" line="28" column="55" />
-        <mark key="." line="28" column="55" />
+      <file name="/home/www/html/nnb/aktuality/app/Components/BaseControl.php" timestamp="1533717041620">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="4" />
+        <mark key="." line="19" column="4" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/DI/TechnicalRequisitionsExtension.php" timestamp="1502889567777">
         <mark key="[" line="37" column="37" />
@@ -6652,6 +6652,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="/home/www/html/nnb/aktuality/app/Components/FileManagerControlFactory.php" timestamp="1533717119173">
+        <mark key="[" line="89" column="45" />
+        <mark key="]" line="89" column="45" />
+        <mark key="." line="89" column="45" />
+      </file>
       <file name="/home/www/html/nnb/passportization/app/components/BaseControl.php" timestamp="1486721772954">
         <mark key="[" line="11" column="31" />
         <mark key="]" line="19" column="27" />
@@ -7415,11 +7420,11 @@
       <jump line="361" column="9" filename="/home/www/html/dv/adera/Modules/Storage/Components/CatalogItemForm/CatalogItemForm.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIFBhcnNpZGV2XERhdGVcRGF0ZTsK</text>
+      <register name="&quot;" type="4">
+        <text>, 'Ostatní aktuality',</text>
       </register>
       <register name="-" type="4">
-        <text>Receip</text>
+        <text>, 'Ostatní aktuality',</text>
       </register>
       <register name="/" type="4">
         <text>itemGroups</text>
@@ -7427,29 +7432,26 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gc3RyaW5nICAgICRtZXNzYWdlCgkgKiBAcGFyYW0gSVJlc3BvbnNlICRodHRwQ29kZQoJICoKCSAqIEB0aHJvd3MgXE5ldHRlXEFwcGxpY2F0aW9uXEJhZFJlcXVlc3RFeGNlcHRpb24KCSAqLwoJcHVibGljIGZ1bmN0aW9uIGVycm9yKCRtZXNzYWdlID0gbnVsbCwgJGh0dHBDb2RlID0gSVJlc3BvbnNlOjpTNDA0X05PVF9GT1VORCkKCXsKCQkkdGhpcy0+Z2V0UHJlc2VudGVyKCktPmVycm9yKCRtZXNzYWdlKTsKCX0=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">dXNlIFBhcnNpZGV2XERhdGVcRGF0ZTsK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">LyoqCgkgKiBAcGFyYW0gc3RyaW5nICRtZXNzYWdlCgkgKgoJICogQHRocm93cyBcTmV0dGVcQXBwbGljYXRpb25cQmFkUmVxdWVzdEV4Y2VwdGlvbgoJICovCglwdWJsaWMgZnVuY3Rpb24gZXJyb3IoJG1lc3NhZ2UgPSBudWxsKQoJewoJCSR0aGlzLT5nZXRQcmVzZW50ZXIoKS0+ZXJyb3IoJG1lc3NhZ2UpOwoJfQ==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CWNvbnRyaWJ1dHRlLmV2ZW50c0FwcGxpY2F0aW9uQnJpZGdlOiBDb250cmlidXR0ZVxFdmVudHNcQnJpZGdlc1xBcHBsaWNhdGlvblxESVxFdmVudEFwcGxpY2F0aW9uQnJpZGdlRXh0ZW5zaW9uCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">dXNlIFN0b3JhZ2VcUmVjZWlwdDsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">dXNlIFN0b3JhZ2VcQ29tcG9uZW50c1xSZWNlaXB0Rm9ybVxSZWNlaXB0Rm9ybTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">dXNlIFN0b3JhZ2VcQ29tcG9uZW50c1xSZWNlaXB0Rm9ybVxJUmVjZWlwdEZvcm1GYWN0b3J5Owo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>/**
-	 * @var PdfResponseFactory
-	 */
-	private $pdfResponseFactory;</text>
       </register>
       <register name="8" type="4">
         <text>/**
@@ -7457,8 +7459,11 @@
 	 */
 	private $pdfResponseFactory;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>/**
+	 * @var PdfResponseFactory
+	 */
+	private $pdfResponseFactory;</text>
       </register>
       <register name=":" type="4">
         <text>353</text>
