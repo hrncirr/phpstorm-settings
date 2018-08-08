@@ -4152,9 +4152,9 @@
         <mark key="." line="17" column="0" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/Components/BaseControl.php" timestamp="1533717041620">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="4" />
-        <mark key="." line="19" column="4" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="4" />
+        <mark key="." line="18" column="4" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/DI/TechnicalRequisitionsExtension.php" timestamp="1533725135957">
         <mark key="[" line="40" column="0" />
@@ -4629,7 +4629,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533652431090">
+      <file name="/Dummy.txt" timestamp="1533738274148">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -6709,10 +6709,10 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Components/FileManagerControlFactory.php" timestamp="1533717119173">
-        <mark key="[" line="89" column="45" />
-        <mark key="]" line="89" column="45" />
-        <mark key="." line="89" column="45" />
+      <file name="/home/www/html/nnb/aktuality/app/Components/FileManagerControlFactory.php" timestamp="1533738266314">
+        <mark key="[" line="100" column="11" />
+        <mark key="]" line="100" column="11" />
+        <mark key="." line="100" column="11" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/components/BaseControl.php" timestamp="1486721772954">
         <mark key="[" line="11" column="31" />
@@ -7483,11 +7483,11 @@
       <jump line="361" column="9" filename="/home/www/html/dv/adera/Modules/Storage/Components/CatalogItemForm/CatalogItemForm.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'Ostatní aktuality'</text>
       </register>
       <register name="-" type="4">
-        <text>router: @routerFactory::createRouter ()</text>
+        <text>'Ostatní aktuality'</text>
       </register>
       <register name="/" type="4">
         <text>itemGroups</text>
