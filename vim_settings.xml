@@ -5587,11 +5587,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Components/CatalogItemForm/templates/CatalogItemForm.latte" timestamp="1533193752435">
-        <mark key="[" line="143" column="53" />
-        <mark key="]" line="156" column="51" />
-        <mark key="." line="156" column="51" />
-        <mark key="^" line="134" column="79" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/CatalogItemForm/templates/CatalogItemForm.latte" timestamp="1534250791163">
+        <mark key="[" line="182" column="48" />
+        <mark key="]" line="181" column="0" />
+        <mark key="." line="181" column="0" />
+        <mark key="^" line="180" column="48" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/IAccountsLastAccessRepository.php" timestamp="1509099269559">
         <mark key="[" line="17" column="0" />
@@ -6851,6 +6851,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/CatalogItemForm/CatalogItemForm.php" timestamp="1534250891608">
+        <mark key="[" line="152" column="57" />
+      </file>
       <file name="/home/www/html/nnb/passportization/app/model/Path.php" timestamp="1487750415041">
         <mark key="[" line="50" column="16" />
         <mark key="]" line="38" column="0" />
@@ -7489,8 +7492,8 @@
       <jump line="361" column="9" filename="/home/www/html/dv/adera/Modules/Storage/Components/CatalogItemForm/CatalogItemForm.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JGdyaWQtPmFkZENvbHVtbkRhdGVUaW1lKCdkdWVEYXRlJywgJ1NwbGF0bm9zdCcpCgkJCS0+c2V0U29ydGFibGUoKTsKCQkKCQkkZ3JpZC0+YWRkQ29sdW1uVGV4dCgnbmFtZScsICdPZGLEm3JhdGVsJykKCQkJLT5zZXRTb3J0YWJsZSgpOw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQkJCQkJPHRoPk7DoWt1cG7DrSBjZW5hIE1KPC90aD4K</text>
       </register>
       <register name="-" type="4">
         <text>Receipts</text>
@@ -7501,32 +7504,32 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">JGdyaWQtPmFkZENvbHVtbkRhdGVUaW1lKCdkdWVEYXRlJywgJ1NwbGF0bm9zdCcpCgkJCS0+c2V0U29ydGFibGUoKTsKCQkKCQkkZ3JpZC0+YWRkQ29sdW1uVGV4dCgnbmFtZScsICdPZGLEm3JhdGVsJykKCQkJLT5zZXRTb3J0YWJsZSgpOw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCQkJCQkJPHRoPk7DoWt1cG7DrSBjZW5hIE1KPC90aD4K</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">JGdyaWQtPmFkZENvbHVtbkRhdGVUaW1lKCdkdWVEYXRlJywgJ1NwbGF0bm9zdCcpCgkJCS0+c2V0U29ydGFibGUoKTsKCQkKCQkkZ3JpZC0+YWRkQ29sdW1uVGV4dCgnbmFtZScsICdPZGLEm3JhdGVsJykKCQkJLT5zZXRTb3J0YWJsZSgpOw==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">JGdyaWQtPmFkZENvbHVtblRleHQoJ2NpbicsICdJxIxPJykKCQkJLT5zZXRTb3J0YWJsZSgpOwoJCQoJCSRncmlkLT5hZGRDb2x1bW5UZXh0KCd0aW4nLCAnREnEjCcpCgkJCS0+c2V0U29ydGFibGUoKQoJCQktPnNldERlZmF1bHRIaWRlKCk7</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkvLy0+c2V0RmlsdGVyU2VsZWN0KCRmb3Jtc09mUGF5bWVudCk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJLT5zZXREZWZhdWx0SGlkZSgpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJLT5zZXRTb3J0YWJsZSgpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkkZ3JpZC0+YWRkQ29sdW1uVGV4dCgnZm9ybU9mUGF5bWVudC5uYW1lJywgJ8OaaHJhZGEnKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dXNlIFN0b3JhZ2VcQ29tcG9uZW50c1xSZWNlaXB0c0dyaWRcUmVjZWlwdHNHcmlkOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIFN0b3JhZ2VcQ29tcG9uZW50c1xSZWNlaXB0c0dyaWRcSVJlY2VpcHRzR3JpZEZhY3Rvcnk7Cg==</text>
+        <text encoding="base64">dXNlIFN0b3JhZ2VcQ29tcG9uZW50c1xSZWNlaXB0c0dyaWRcUmVjZWlwdHNHcmlkOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
