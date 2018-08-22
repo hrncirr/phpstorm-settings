@@ -896,6 +896,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/System/Helpers.php" timestamp="1534922780291">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+      </file>
       <file name="/home/www/html/dv/cms/Modules/Storage/Storage.php" timestamp="1497007444618">
         <mark key="[" line="85" column="37" />
         <mark key="]" line="92" column="4" />
@@ -4636,7 +4641,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533738274148">
+      <file name="/Dummy.txt" timestamp="1534922972915">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -5712,6 +5717,10 @@
         <mark key="[" line="100" column="4" />
         <mark key="]" line="100" column="8" />
         <mark key="." line="100" column="8" />
+      </file>
+      <file name="/home/www/lib/vendor/hrncirr/document-parsers/src/DI/DocumentParsersExtension.php" timestamp="1534921893569">
+        <mark key="'" line="121" column="52" />
+        <mark key="[" line="162" column="4" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Storage/StorageItem.php" timestamp="1533124378703">
         <mark key="[" line="28" column="58" />
@@ -7390,7 +7399,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="15" filename="/home/www/vendor/o5/grido/src/Grid.php" />
       <jump line="297" column="15" filename="/home/www/vendor/o5/grido/src/Grid.php" />
       <jump line="298" column="15" filename="/home/www/vendor/o5/grido/src/Grid.php" />
       <jump line="415" column="22" filename="/home/www/vendor/o5/grido/src/Grid.php" />
@@ -7490,55 +7498,59 @@
       <jump line="46" column="62" filename="/home/www/html/dv/adera/Modules/Storage/DI/StorageExtension.php" />
       <jump line="36" column="20" filename="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" />
       <jump line="361" column="9" filename="/home/www/html/dv/adera/Modules/Storage/Components/CatalogItemForm/CatalogItemForm.php" />
+      <jump line="121" column="52" filename="/home/www/lib/vendor/hrncirr/document-parsers/src/DI/DocumentParsersExtension.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJCQkJPHRoPk7DoWt1cG7DrSBjZW5hIE1KPC90aD4K</text>
+        <text encoding="base64">CQkJCWNvbnRpbnVlOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Receipts</text>
+        <text>throw new UtilityNotFoundException($class, implode(' or ', $names));</text>
       </register>
       <register name="/" type="4">
-        <text>itemGroups</text>
+        <text>findUtils</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCQkJPHRoPk7DoWt1cG7DrSBjZW5hIE1KPC90aD4K</text>
+        <text encoding="base64">CQkJCWNvbnRpbnVlOwo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">JGdyaWQtPmFkZENvbHVtbkRhdGVUaW1lKCdkdWVEYXRlJywgJ1NwbGF0bm9zdCcpCgkJCS0+c2V0U29ydGFibGUoKTsKCQkKCQkkZ3JpZC0+YWRkQ29sdW1uVGV4dCgnbmFtZScsICdPZGLEm3JhdGVsJykKCQkJLT5zZXRTb3J0YWJsZSgpOw==</text>
+        <text>$finded = current($finded);
+				$classUtils[$finded] = $utils[$finded];</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">JGdyaWQtPmFkZENvbHVtblRleHQoJ2NpbicsICdJxIxPJykKCQkJLT5zZXRTb3J0YWJsZSgpOwoJCQoJCSRncmlkLT5hZGRDb2x1bW5UZXh0KCd0aW4nLCAnREnEjCcpCgkJCS0+c2V0U29ydGFibGUoKQoJCQktPnNldERlZmF1bHRIaWRlKCk7</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJaWYgKFxjb3VudCgkcmVxdWlyZWQpID09PSAwKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJJHJlcXVpcmVkID0gW107Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkvLy0+c2V0RmlsdGVyU2VsZWN0KCRmb3Jtc09mUGF5bWVudCk7Cg==</text>
+      <register name="5" type="4">
+        <text>else {
+					$required[$name] = true;
+				}</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJLT5zZXREZWZhdWx0SGlkZSgpOwo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJLT5zZXRTb3J0YWJsZSgpCg==</text>
+        <text encoding="base64">CQkJZHVtcCgkcmVxdWlyZWQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkkZ3JpZC0+YWRkQ29sdW1uVGV4dCgnZm9ybU9mUGF5bWVudC5uYW1lJywgJ8OaaHJhZGEnKQo=</text>
+        <text encoding="base64">CQkJZHVtcChhcnJheV9rZXlzKCR1dGlscykpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIFN0b3JhZ2VcQ29tcG9uZW50c1xSZWNlaXB0c0dyaWRcUmVjZWlwdHNHcmlkOwo=</text>
+        <text encoding="base64">CQkJZHVtcCgkbmFtZXMpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>itemGroups</last-search>
+      <last-search>findUtils</last-search>
       <last-offset />
-      <last-pattern>itemGroups</last-pattern>
+      <last-pattern>findUtils</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -7546,7 +7558,6 @@
     </search>
     <history>
       <history-search>
-        <entry>item</entry>
         <entry>onCancel</entry>
         <entry>FileManager</entry>
         <entry>addRoot</entry>
@@ -7566,6 +7577,7 @@
         <entry>Catalog</entry>
         <entry>doctrinePhone</entry>
         <entry>itemGroups</entry>
+        <entry>findUtils</entry>
       </history-search>
       <history-cmd>
         <entry>241</entry>
@@ -7584,10 +7596,10 @@
         <entry>%s/includeInAll/copyTo/g</entry>
         <entry>%s/string/text/g</entry>
         <entry>%s/invoice/creditNote/g</entry>
-        <entry>w</entry>
         <entry>%s/NULL/null/g</entry>
         <entry>353</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
