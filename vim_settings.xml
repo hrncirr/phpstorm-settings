@@ -506,6 +506,7 @@
         <mark key="]" line="40" column="4" />
         <mark key="." line="40" column="4" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Forms/Controls/WorkersInput.php" timestamp="1535020799847" />
       <file name="/home/www/html/dv/cms/app/extensions/CompilerExtension.php" timestamp="1491462703147">
         <mark key="[" line="9" column="31" />
         <mark key="]" line="9" column="32" />
@@ -1274,8 +1275,8 @@
         <mark key="]" line="45" column="12" />
         <mark key="." line="45" column="12" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Forms/Controls/SubjectNameInput.php" timestamp="1533032412408">
-        <mark key="[" line="57" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Forms/Controls/SubjectNameInput.php" timestamp="1535021068726">
+        <mark key="[" line="21" column="32" />
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
@@ -3298,7 +3299,8 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ExporterForm/ExporterForm.php" timestamp="1535014087036">
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ExporterForm/ExporterForm.php" timestamp="1535020259369">
+        <mark key="'" line="125" column="41" />
         <mark key="[" line="90" column="44" />
         <mark key="]" line="55" column="4" />
         <mark key="." line="55" column="4" />
@@ -3589,6 +3591,11 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Forms/Controls/WorkerInput.php" timestamp="1535021102661">
+        <mark key="[" line="49" column="8" />
+        <mark key="]" line="49" column="12" />
+        <mark key="." line="49" column="12" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/presenters/BasePresenter.php" timestamp="1487243702987">
         <mark key="[" line="36" column="23" />
@@ -5730,6 +5737,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Forms/Controls/ContactInput.php" timestamp="1535021061205">
+        <mark key="[" line="19" column="32" />
+      </file>
       <file name="/home/www/html/nnb/dms/app/Components/BaseFormControl.php" timestamp="1517903736742">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -7399,7 +7409,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="297" column="15" filename="/home/www/vendor/o5/grido/src/Grid.php" />
       <jump line="298" column="15" filename="/home/www/vendor/o5/grido/src/Grid.php" />
       <jump line="415" column="22" filename="/home/www/vendor/o5/grido/src/Grid.php" />
       <jump line="523" column="43" filename="/home/www/vendor/o5/grido/src/Grid.php" />
@@ -7499,60 +7508,56 @@
       <jump line="36" column="20" filename="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" />
       <jump line="361" column="9" filename="/home/www/html/dv/adera/Modules/Storage/Components/CatalogItemForm/CatalogItemForm.php" />
       <jump line="121" column="52" filename="/home/www/lib/vendor/hrncirr/document-parsers/src/DI/DocumentParsersExtension.php" />
+      <jump line="125" column="41" filename="/home/www/html/dv/adera/Modules/Storage/Components/ExporterForm/ExporterForm.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>|Collection</text>
+        <text encoding="base64">JGZvcm0gPSAkdGhpcy0+Z2V0Rm9ybSgpOwoKCQkJZm9yZWFjaCAoWydmaXJzdE5hbWUnLCAnbGFzdE5hbWUnLCAncGhvbmVOdW1iZXInLCAnY2VsbFBob25lTnVtYmVyJywgJ2RlZ3JlZScsICdlbWFpbCddIGFzICRuYW1lKSB7CgkJCQlpZiAoaXNzZXQoJGZvcm1bJG5hbWVdKSkgewoJCQkJCSRmb3JtWyRuYW1lXS0+c2V0VmFsdWUoJHVzZXItPnsnZ2V0JyAuIHVjZmlyc3QoJG5hbWUpfSgpKTsKCQkJCX0KCQkJfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>|Collection</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
-        <text>findUtils</text>
+        <text>Workers</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dXNlIEludm9pY2luZ1xUV29ya2VyczsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">JGZvcm0gPSAkdGhpcy0+Z2V0Rm9ybSgpOwoKCQkJZm9yZWFjaCAoWydmaXJzdE5hbWUnLCAnbGFzdE5hbWUnLCAncGhvbmVOdW1iZXInLCAnY2VsbFBob25lTnVtYmVyJywgJ2RlZ3JlZScsICdlbWFpbCddIGFzICRuYW1lKSB7CgkJCQlpZiAoaXNzZXQoJGZvcm1bJG5hbWVdKSkgewoJCQkJCSRmb3JtWyRuYW1lXS0+c2V0VmFsdWUoJHVzZXItPnsnZ2V0JyAuIHVjZmlyc3QoJG5hbWUpfSgpKTsKCQkJCX0KCQkJfQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEludm9pY2luZ1xJV29ya2VyczsK</text>
+        <text encoding="base64">CQkJJHJlc3VsdCA9IFtdOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>* @ORM\JoinTable(
-	 *        inverseJoinColumns={@ORM\JoinColumn(name=&quot;user_id&quot;, referencedColumnName=&quot;id&quot;)}
-	 *    )</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXVzZSBUV29ya2VyczsK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWNvbnRpbnVlOwo=</text>
+        <text encoding="base64">CQkJJG91dCA9IFtdOwo=</text>
       </register>
       <register name="6" type="4">
-        <text>$finded = current($finded);
-				$classUtils[$finded] = $utils[$finded];</text>
+        <text encoding="base64">aWYgKCR1c2VycykgewoJCQkJLyoqIEB2YXIgVXNlciAkdXNlciAqLwoJCQkJZm9yZWFjaCAoJHVzZXJzIGFzICR1c2VyKSB7CgkJCQkJJG91dFskdXNlci0+Z2V0SWQoKV0gPSAkdGhpcy0+Zm9ybWF0VXNlcigkdXNlcik7CgkJCQl9CgkJCX0=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJaWYgKFxjb3VudCgkcmVxdWlyZWQpID09PSAwKSB7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">JHBob25lTnVtYmVycyA9IGltcGxvZGUoJywnLAoJCQkJCQlhcnJheV9maWx0ZXIoWyRjb250YWN0LT5nZXRQaG9uZU51bWJlcigpLCAkY29udGFjdC0+Z2V0Q2VsbFBob25lTnVtYmVyKCldKSk7</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJJHJlcXVpcmVkID0gW107Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">cHJpbnRmKCclcyAlcyVzIC0gJXMnLCAkY29udGFjdC0+Z2V0Rmlyc3ROYW1lKCksICRjb250YWN0LT5nZXRMYXN0TmFtZSgpLAoJCQkJCQkJJHBob25lTnVtYmVycyA/ICcgKCcgLiAkcGhvbmVOdW1iZXJzIC4gJyknIDogJycsICRjb250YWN0LT5nZXRFbWFpbCgpKQ==</text>
       </register>
       <register name="9" type="4">
-        <text>else {
-					$required[$name] = true;
-				}</text>
+        <text encoding="base64">JGNvbnRhY3RzID0gJGVtLT5nZXRSZXBvc2l0b3J5KENvbnRhY3Q6OmNsYXNzKS0+Y3JlYXRlUXVlcnlCdWlsZGVyKCdjJykKCQkJCS0+d2hlcmUoJyhjLmZpcnN0TmFtZSBMSUtFIDpxIE9SIGMubGFzdE5hbWUgTElLRSA6cSBPUiBjLnBob25lTnVtYmVyIExJS0UgOnBob25lUSAnIC4KCQkJCQknT1IgYy5jZWxsUGhvbmVOdW1iZXIgTElLRSA6cGhvbmVRIE9SIGMuZW1haWwgTElLRSA6cSknKQoJCQkJLT5zZXRQYXJhbWV0ZXJzKFsncScgPT4gJHEgLiAnJScsICdwaG9uZVEnID0+ICclJyAuICRxIC4gJyUnXSkKCQkJCS0+Z2V0UXVlcnkoKS0+Z2V0UmVzdWx0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>findUtils</last-search>
+      <last-search>Workers</last-search>
       <last-offset />
-      <last-pattern>findUtils</last-pattern>
+      <last-pattern>Workers</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -7560,7 +7565,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onCancel</entry>
         <entry>FileManager</entry>
         <entry>addRoot</entry>
         <entry>mount</entry>
@@ -7580,6 +7584,7 @@
         <entry>doctrinePhone</entry>
         <entry>itemGroups</entry>
         <entry>findUtils</entry>
+        <entry>Workers</entry>
       </history-search>
       <history-cmd>
         <entry>241</entry>
