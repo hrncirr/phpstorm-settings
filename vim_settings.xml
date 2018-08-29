@@ -1369,12 +1369,6 @@
         <mark key="]" line="158" column="8" />
         <mark key="." line="158" column="8" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/DI/config.neon" timestamp="1535468498654">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="34" />
-        <mark key="." line="1" column="34" />
-        <mark key="^" line="1" column="34" />
-      </file>
       <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Components/ProfessionsStatesGrid/ProfessionsStatesGrid.latte" timestamp="1490705518114">
         <mark key="[" line="17" column="32" />
         <mark key="]" line="16" column="0" />
@@ -2636,10 +2630,10 @@
         <mark key="]" line="22" column="4" />
         <mark key="." line="22" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Document/Components/templates/formLayout.latte" timestamp="1535535036908">
-        <mark key="[" line="185" column="25" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Document/Components/templates/formLayout.latte" timestamp="1535544292675">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Storage/Item.php" timestamp="1533105779906">
         <mark key="[" line="24" column="23" />
@@ -2934,12 +2928,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ReceiptForm/ReceiptForm.php" timestamp="1535536751807">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="93" column="67" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Model/Orm/TechnicalRequisitions/TechnicalRequisitionsMapper.php" timestamp="1504872571849">
         <mark key="[" line="72" column="17" />
         <mark key="]" line="21" column="0" />
@@ -3229,6 +3217,11 @@
         <mark key="[" line="54" column="4" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/ExporterForm/ExporterForm.php" timestamp="1535543613929">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/Users/RolesProvider.php" timestamp="1490881854374">
         <mark key="[" line="36" column="61" />
@@ -3714,12 +3707,6 @@
         <mark key="[" line="1" column="2" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="/home/www/html/dv/adera/Modules/Document/Components/FormParts/TButtonsFormPart.php" timestamp="1535536418359">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="22" column="0" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/services/Acl.php" timestamp="1478593800467">
         <mark key="[" line="24" column="22" />
@@ -6811,11 +6798,10 @@
         <mark key="]" line="16" column="4" />
         <mark key="." line="16" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Document/Components/BaseDocumentFormControl.php" timestamp="1535539778920">
-        <mark key="[" line="253" column="15" />
-        <mark key="]" line="253" column="15" />
-        <mark key="." line="253" column="15" />
-        <mark key="^" line="253" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Document/Components/BaseDocumentFormControl.php" timestamp="1535544322067">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="259" column="4" />
+        <mark key="." line="259" column="4" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Invoicing/DI/InvoicingExtension.php" timestamp="1500548844352">
         <mark key="[" line="6" column="0" />
@@ -6947,12 +6933,6 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Components/FormParts/DocumentItemsFormPart/TDocumentItemsFormPart.php" timestamp="1535536853417">
-        <mark key="[" line="113" column="4" />
-        <mark key="]" line="110" column="12" />
-        <mark key="^" line="110" column="12" />
-        <mark key="." line="110" column="12" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InspectionsGrid/templates/InspectionsGrid.latte" timestamp="1522076825839">
         <mark key="[" line="1" column="8" />
@@ -7246,7 +7226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="415" column="22" filename="/home/www/vendor/o5/grido/src/Grid.php" />
       <jump line="523" column="43" filename="/home/www/vendor/o5/grido/src/Grid.php" />
       <jump line="749" column="26" filename="/home/www/vendor/o5/grido/src/Grid.php" />
       <jump line="882" column="19" filename="/home/www/vendor/o5/grido/src/Grid.php" />
@@ -7346,13 +7325,14 @@
       <jump line="121" column="52" filename="/home/www/lib/vendor/hrncirr/document-parsers/src/DI/DocumentParsersExtension.php" />
       <jump line="125" column="41" filename="/home/www/html/dv/adera/Modules/Storage/Components/ExporterForm/ExporterForm.php" />
       <jump line="199" column="44" filename="/home/www/html/dv/adera/Modules/Storage/Components/CatalogItemForm/templates/CatalogItemForm.latte" />
+      <jump line="3" column="111" filename="/home/www/html/dv/adera/Modules/Document/Components/templates/formLayout.latte" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>parent::createComponent($name);</text>
+        <text encoding="base64">CQoJCXJldHVybiAkY29tcG9uZW50OwoJfQoJ</text>
       </register>
       <register name="-" type="4">
-        <text>parent::createComponent($name);</text>
+        <text encoding="base64">e3BocCA=</text>
       </register>
       <register name="/" type="4">
         <text>Výdejky</text>
@@ -7361,31 +7341,31 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">JHVjbmFtZSA9IHVjZmlyc3QoJG5hbWUpOwoJCSRtZXRob2QgPSAnY3JlYXRlQ29tcG9uZW50JyAuICR1Y25hbWU7CgkJaWYgKCR1Y25hbWUgIT09ICRuYW1lICYmIG1ldGhvZF9leGlzdHMoJHRoaXMsICRtZXRob2QpICYmIChuZXcgXFJlZmxlY3Rpb25NZXRob2QoJHRoaXMsICRtZXRob2QpKS0+Z2V0TmFtZSgpID09PSAkbWV0aG9kKSB7CgkJCSRjb21wb25lbnQgPSAkdGhpcy0+JG1ldGhvZCgkbmFtZSk7CgkJCWlmICghJGNvbXBvbmVudCBpbnN0YW5jZW9mIElDb21wb25lbnQgJiYgIWlzc2V0KCR0aGlzLT5jb21wb25lbnRzWyRuYW1lXSkpIHsKCQkJCSRjbGFzcyA9IGdldF9jbGFzcygkdGhpcyk7CgkJCQl0aHJvdyBuZXcgTmV0dGVcVW5leHBlY3RlZFZhbHVlRXhjZXB0aW9uKCJNZXRob2QgJGNsYXNzOjokbWV0aG9kKCkgZGlkIG5vdCByZXR1cm4gb3IgY3JlYXRlIHRoZSBkZXNpcmVkIGNvbXBvbmVudC4iKTsKCQkJfQoJCQlyZXR1cm4gJGNvbXBvbmVudDsKCQl9</text>
+        <text encoding="base64">CQoJCXJldHVybiAkY29tcG9uZW50OwoJfQoJ</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dXNlIFN0b3JhZ2VcQmFzZURvY3VtZW50SXRlbTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">cHJvdGVjdGVkIGZ1bmN0aW9uIGNyZWF0ZUNvbXBvbmVudCgkbmFtZSkKCXsKCQkkY29tcG9uZW50ID0gcGFyZW50OjpjcmVhdGVDb21wb25lbnQoJG5hbWUpOwoJCWlmICgkbmFtZSA9PT0gJ2Zvcm0nICYmICRjb21wb25lbnQgaW5zdGFuY2VvZiBFbnRpdHlGb3JtICYmICEkdGhpcy0+aXNFZGl0YWJsZSgpKSB7CgkJCS8qKiBAdmFyIE5ldHRlQmFzZUZvcm1Db250cm9sICRjb250cm9sICovCgkJCWZvcmVhY2ggKCRjb21wb25lbnQtPmdldENvbXBvbmVudHModHJ1ZSwgTmV0dGVCYXNlRm9ybUNvbnRyb2w6OmNsYXNzKSBhcyAkY29udHJvbCkgewoJCQkJCgkJCQlkdW1wKCRjb250cm9sLT5nZXROYW1lKCkpOwoJCQkJCgkJCQlpZiAoJGNvbnRyb2wgaW5zdGFuY2VvZiBCdXR0b24pIHsKCQkJCQljb250aW51ZTsKCQkJCX0KCQkJCQoJCQkJJGNvbnRyb2wtPnNldERpc2FibGVkKHRydWUpOwoJCQl9CgkJfQ==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">dXNlIFN0b3JhZ2VcQmFzZURvY3VtZW50SXRlbTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">e2lmICEkY29udHJvbC0+aXNFZGl0YWJsZSgpfQoJe2ZvcmVhY2ggaXRlcmF0b3JfdG9fYXJyYXkoJHRoaXNbJ2Zvcm0nXS0+Z2V0Q29tcG9uZW50cyh0cnVlLCBOZXR0ZVxGb3Jtc1xDb250cm9sc1xCYXNlQ29udHJvbDo6Y2xhc3MpKSBhcyAkZm9ybUNvbnRyb2x9CgkJe2NvbnRpbnVlSWYgJGZvcm1Db250cm9sIGluc3RhbmNlb2YgQnV0dG9ufQoJCXtwaHAgJGZvcm1Db250cm9sLT5zZXRBdHRyaWJ1dGUoJ3JlYWRvbmx5Jyl9OwoJey9mb3JlYWNofQp7L2lmfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIFN0b3JhZ2VcQmFzZURvY3VtZW50SXRlbTsK</text>
+        <text encoding="base64">CQkJCWR1bXAoJGNvbnRyb2wtPmdldE5hbWUoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIFN0b3JhZ2VcQmFzZURvY3VtZW50SXRlbTsK</text>
+        <text encoding="base64">CXtwaHAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIFN0b3JhZ2VcQmFzZURvY3VtZW50SXRlbTsK</text>
+        <text encoding="base64">dXNlIE5ldHRlXEZvcm1zXENvbnRyb2xzXEJ1dHRvbjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIFN0b3JhZ2VcVFByaWNlOwo=</text>
+        <text encoding="base64">dXNlIE5ldHRlXEZvcm1zXENvbnRyb2xzXEJhc2VDb250cm9sOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dXNlIE1vbmV5XFRQcmljZTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">aWYgKCEkdGhpcy0+aXNFZGl0YWJsZSgpKSB7CgkJCS8qKiBAdmFyIEJhc2VDb250cm9sICRjb250cm9sICovCgkJCWZvcmVhY2ggKCR0aGlzWydmb3JtJ10tPmdldENvbXBvbmVudHModHJ1ZSwgQmFzZUNvbnRyb2w6OmNsYXNzKSBhcyAkY29udHJvbCkgewoJCQkJCgkJCQlkdW1wKCRjb250cm9sLT5nZXROYW1lKCkpOwoJCQkJCgkJCQlpZiAoJGNvbnRyb2wgaW5zdGFuY2VvZiBCdXR0b24pIHsKCQkJCQljb250aW51ZTsKCQkJCX0KCQkJCQoJCQkJJGNvbnRyb2wtPnNldEF0dHJpYnV0ZSgncmVhZG9ubHknKTsKCQkJfQoJCX0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIFN0b3JhZ2VcVFByaWNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
