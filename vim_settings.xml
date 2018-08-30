@@ -371,8 +371,8 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/src/User/DI/config.neon" timestamp="1523614484826">
-        <mark key="[" line="8" column="0" />
+      <file name="/home/www/html/dv/adera/src/User/DI/config.neon" timestamp="1535631773109">
+        <mark key="[" line="19" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
@@ -1541,7 +1541,8 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Search/Events/SearchableListener.php" timestamp="1488369368282">
+      <file name="/home/www/html/nnb/dms/src/Search/Events/SearchableListener.php" timestamp="1535631486331">
+        <mark key="'" line="102" column="46" />
         <mark key="[" line="84" column="46" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -2503,6 +2504,9 @@
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
+      </file>
+      <file name="/home/www/html/dv/adera/libs/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" timestamp="1535630769996">
+        <mark key="'" line="789" column="20" />
       </file>
       <file name="/home/www/html/dv/cms/src/Users/Presenters/DefaultPresenter.php" timestamp="1491826100125">
         <mark key="[" line="27" column="4" />
@@ -4132,6 +4136,11 @@
         <mark key="]" line="20" column="16" />
         <mark key="." line="20" column="16" />
       </file>
+      <file name="/home/www/html/dv/adera/src/User/Events/UserStorageSubscriber.php" timestamp="1535631654195">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
       <file name="/home/www/html/dv/cms/Modules/AddressBook/Validators/UniqueDefault.php" timestamp="1500460782321">
         <mark key="[" line="21" column="37" />
         <mark key="]" line="17" column="0" />
@@ -5568,6 +5577,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/CatalogItemForm/templates/CatalogItemForm.latte" timestamp="1535530028159">
+        <mark key="'" line="199" column="44" />
+        <mark key="[" line="192" column="72" />
+        <mark key="]" line="168" column="41" />
+        <mark key="." line="168" column="41" />
+      </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/IAccountsLastAccessRepository.php" timestamp="1509099269559">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -5693,6 +5708,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Files/DI/config.neon" timestamp="1535631865942" />
       <file name="/home/www/html/dv/adera/Modules/Storage/StorageItem.php" timestamp="1533124378703">
         <mark key="[" line="28" column="58" />
       </file>
@@ -6600,10 +6616,10 @@
         <mark key="]" line="25" column="4" />
         <mark key="." line="25" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/src/User/User.php" timestamp="1535374367987">
-        <mark key="[" line="114" column="36" />
-        <mark key="]" line="368" column="0" />
-        <mark key="." line="368" column="0" />
+      <file name="/home/www/html/dv/adera/src/User/User.php" timestamp="1535632513545">
+        <mark key="[" line="283" column="60" />
+        <mark key="]" line="369" column="0" />
+        <mark key="." line="369" column="0" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsForm/Accounts/OrdersContainerFactory.php" timestamp="1511859060048">
         <mark key="[" line="28" column="66" />
@@ -7048,6 +7064,9 @@
         <mark key="]" line="23" column="4" />
         <mark key="." line="23" column="4" />
       </file>
+      <file name="/home/www/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" timestamp="1535631559075">
+        <mark key="'" line="1014" column="55" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/Dashboard/Event.php" timestamp="1517478298712">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -7390,11 +7409,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="523" column="43" filename="/home/www/vendor/o5/grido/src/Grid.php" />
-      <jump line="749" column="26" filename="/home/www/vendor/o5/grido/src/Grid.php" />
-      <jump line="882" column="19" filename="/home/www/vendor/o5/grido/src/Grid.php" />
-      <jump line="34" column="19" filename="/home/www/vendor/o5/grido/src/Grid.php" />
-      <jump line="85" column="15" filename="/home/www/vendor/o5/grido/src/Grid.php" />
       <jump line="104" column="36" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoicesGrid/InvoicesGrid.php" />
       <jump line="159" column="30" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoicesGrid/InvoicesGrid.php" />
       <jump line="162" column="29" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoicesGrid/InvoicesGrid.php" />
@@ -7490,55 +7504,69 @@
       <jump line="125" column="41" filename="/home/www/html/dv/adera/Modules/Storage/Components/ExporterForm/ExporterForm.php" />
       <jump line="199" column="44" filename="/home/www/html/dv/adera/Modules/Storage/Components/CatalogItemForm/templates/CatalogItemForm.latte" />
       <jump line="3" column="111" filename="/home/www/html/dv/adera/Modules/Document/Components/templates/formLayout.latte" />
+      <jump line="789" column="20" filename="/home/www/html/dv/adera/libs/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" />
+      <jump line="102" column="46" filename="/home/www/html/nnb/dms/src/Search/Events/SearchableListener.php" />
+      <jump line="719" column="37" filename="/home/www/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" />
+      <jump line="986" column="22" filename="/home/www/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" />
+      <jump line="1014" column="55" filename="/home/www/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, Storage::class]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCQo=</text>
       </register>
       <register name="-" type="4">
-        <text>, Storage::class]</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>Výdejky</text>
+        <text>computeChangeSet</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CQoJCXJldHVybiAkY29tcG9uZW50OwoJfQoJ</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">cHJvdGVjdGVkIGZ1bmN0aW9uIGNyZWF0ZUNvbXBvbmVudCgkbmFtZSkKCXsKCQkkY29tcG9uZW50ID0gcGFyZW50OjpjcmVhdGVDb21wb25lbnQoJG5hbWUpOwoJCWlmICgkbmFtZSA9PT0gJ2Zvcm0nICYmICRjb21wb25lbnQgaW5zdGFuY2VvZiBFbnRpdHlGb3JtICYmICEkdGhpcy0+aXNFZGl0YWJsZSgpKSB7CgkJCS8qKiBAdmFyIE5ldHRlQmFzZUZvcm1Db250cm9sICRjb250cm9sICovCgkJCWZvcmVhY2ggKCRjb21wb25lbnQtPmdldENvbXBvbmVudHModHJ1ZSwgTmV0dGVCYXNlRm9ybUNvbnRyb2w6OmNsYXNzKSBhcyAkY29udHJvbCkgewoJCQkJCgkJCQlkdW1wKCRjb250cm9sLT5nZXROYW1lKCkpOwoJCQkJCgkJCQlpZiAoJGNvbnRyb2wgaW5zdGFuY2VvZiBCdXR0b24pIHsKCQkJCQljb250aW51ZTsKCQkJCX0KCQkJCQoJCQkJJGNvbnRyb2wtPnNldERpc2FibGVkKHRydWUpOwoJCQl9CgkJfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCWV4aXQ7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">e2lmICEkY29udHJvbC0+aXNFZGl0YWJsZSgpfQoJe2ZvcmVhY2ggaXRlcmF0b3JfdG9fYXJyYXkoJHRoaXNbJ2Zvcm0nXS0+Z2V0Q29tcG9uZW50cyh0cnVlLCBOZXR0ZVxGb3Jtc1xDb250cm9sc1xCYXNlQ29udHJvbDo6Y2xhc3MpKSBhcyAkZm9ybUNvbnRyb2x9CgkJe2NvbnRpbnVlSWYgJGZvcm1Db250cm9sIGluc3RhbmNlb2YgQnV0dG9ufQoJCXtwaHAgJGZvcm1Db250cm9sLT5zZXRBdHRyaWJ1dGUoJ3JlYWRvbmx5Jyl9OwoJey9mb3JlYWNofQp7L2lmfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCWR1bXAoJGNoYW5nZVNldCk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJGNvbnRyb2wtPmdldE5hbWUoKSk7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">JHN0b3JhZ2UgPSAkZW50aXR5LT5nZXRTdG9yYWdlKCk7CiAgICAgICAgICAgIAkkc3RvcmFnZS0+c2V0TmFtZSgkZW50aXR5LT5nZXRGdWxsTmFtZSgpKTs=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXtwaHAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRlbS0+cGVyc2lzdCgkc3RvcmFnZSk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXEZvcm1zXENvbnRyb2xzXEJ1dHRvbjsK</text>
+      <register name="6" type="4">
+        <text>/**
+	 * @param OnFlushEventArgs $args
+	 *
+	 * @throws \Doctrine\ORM\NoResultException
+	 * @throws \Doctrine\ORM\NonUniqueResultException
+	 */</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXEZvcm1zXENvbnRyb2xzXEJhc2VDb250cm9sOwo=</text>
+      <register name="7" type="4">
+        <text>use Hrncirr\ElFinder\Doctrine\Events\MediaConsumerSubscriber;
+use Hrncirr\ElFinder\Doctrine\IElFinderFileConsumer;
+use Hrncirr\ElFinder\Doctrine\MediaImportOptions;
+use Hrncirrcms\File\Helpers\DirectoryHelper;
+use Invoicing\Contract;</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">aWYgKCEkdGhpcy0+aXNFZGl0YWJsZSgpKSB7CgkJCS8qKiBAdmFyIEJhc2VDb250cm9sICRjb250cm9sICovCgkJCWZvcmVhY2ggKCR0aGlzWydmb3JtJ10tPmdldENvbXBvbmVudHModHJ1ZSwgQmFzZUNvbnRyb2w6OmNsYXNzKSBhcyAkY29udHJvbCkgewoJCQkJCgkJCQlkdW1wKCRjb250cm9sLT5nZXROYW1lKCkpOwoJCQkJCgkJCQlpZiAoJGNvbnRyb2wgaW5zdGFuY2VvZiBCdXR0b24pIHsKCQkJCQljb250aW51ZTsKCQkJCX0KCQkJCQoJCQkJJGNvbnRyb2wtPnNldEF0dHJpYnV0ZSgncmVhZG9ubHknKTsKCQkJfQoJCX0=</text>
+        <text encoding="base64">LyoqCgkgKiBAdmFyIHN0cmluZwoJICovCglwcml2YXRlICRyb290RGlyTmFtZTsKCQoJLyoqCgkgKiBAdmFyIERpcmVjdG9yeUhlbHBlcgoJICovCglwcml2YXRlICRkaXJlY3RvcnlIZWxwZXI7CgkKCQoJcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KHN0cmluZyAkcm9vdERpck5hbWUsIERpcmVjdG9yeUhlbHBlciAkZGlyZWN0b3J5SGVscGVyKQoJewoJCSR0aGlzLT5yb290RGlyTmFtZSA9ICRyb290RGlyTmFtZTsKCQkkdGhpcy0+ZGlyZWN0b3J5SGVscGVyID0gJGRpcmVjdG9yeUhlbHBlcjsKCX0=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">aWYgKCEkY29uc3VtZXIgaW5zdGFuY2VvZiBDb250cmFjdCkgewoJCQlyZXR1cm47CgkJfQoJCQoJCSRvcHRpb25zLT5wYXJlbnRSb290SWQgPSAkdGhpcy0+ZGlyZWN0b3J5SGVscGVyLT5nZXRCeU5hbWUoJHRoaXMtPnJvb3REaXJOYW1lKS0+Z2V0SWQoKTsKCQkKCQkkb3B0aW9ucy0+ZGlyZWN0b3J5TmFtZSA9ICRjb25zdW1lci0+Z2V0SWQoKTs=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Výdejky</last-search>
+      <last-search>computeChangeSet</last-search>
       <last-offset />
-      <last-pattern>Výdejky</last-pattern>
+      <last-pattern>computeChangeSet</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -7546,12 +7574,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addRoot</entry>
-        <entry>mount</entry>
-        <entry>ignoreFiles</entry>
-        <entry>attributes</entry>
-        <entry>attr</entry>
-        <entry>conversions</entry>
         <entry>NULL</entry>
         <entry>hasField</entry>
         <entry>Null</entry>
@@ -7566,6 +7588,12 @@
         <entry>findUtils</entry>
         <entry>Workers</entry>
         <entry>Výdejky</entry>
+        <entry>recompute</entry>
+        <entry>getEntityChangeSet</entry>
+        <entry>computeSingleEntity</entry>
+        <entry>compute</entry>
+        <entry>computeChangeset</entry>
+        <entry>computeChangeSet</entry>
       </history-search>
       <history-cmd>
         <entry>241</entry>
