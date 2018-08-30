@@ -4136,10 +4136,10 @@
         <mark key="]" line="20" column="16" />
         <mark key="." line="20" column="16" />
       </file>
-      <file name="/home/www/html/dv/adera/src/User/Events/UserStorageSubscriber.php" timestamp="1535631654195">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="/home/www/html/dv/adera/src/User/Events/UserStorageSubscriber.php" timestamp="1535635530554">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/AddressBook/Validators/UniqueDefault.php" timestamp="1500460782321">
         <mark key="[" line="21" column="37" />
@@ -6616,10 +6616,10 @@
         <mark key="]" line="25" column="4" />
         <mark key="." line="25" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/src/User/User.php" timestamp="1535632513545">
-        <mark key="[" line="283" column="60" />
-        <mark key="]" line="369" column="0" />
-        <mark key="." line="369" column="0" />
+      <file name="/home/www/html/dv/adera/src/User/User.php" timestamp="1535634929599">
+        <mark key="[" line="115" column="52" />
+        <mark key="]" line="115" column="52" />
+        <mark key="." line="115" column="52" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsForm/Accounts/OrdersContainerFactory.php" timestamp="1511859060048">
         <mark key="[" line="28" column="66" />
@@ -7512,10 +7512,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCQlleGl0Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>, cascade={&quot;persist&quot;}</text>
       </register>
       <register name="/" type="4">
         <text>computeChangeSet</text>
@@ -7524,40 +7524,31 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCQlleGl0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCWV4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCQlkdW1wKCdhYWEnKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCWR1bXAoJGNoYW5nZVNldCk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">LyoKICAgICAgICBpZiAoJHN0b3JhZ2UgIT09IG51bGwpIHsKICAgICAgICAgICAgICR1b3ctPmNvbXB1dGVDaGFuZ2VTZXRzKCk7CiAgICAgICAgfQogICAgICAgICov</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">JHN0b3JhZ2UgPSAkZW50aXR5LT5nZXRTdG9yYWdlKCk7CiAgICAgICAgICAgIAkkc3RvcmFnZS0+c2V0TmFtZSgkZW50aXR5LT5nZXRGdWxsTmFtZSgpKTs=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCS8vJGVtLT5wZXJzaXN0KCRzdG9yYWdlKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRlbS0+cGVyc2lzdCgkc3RvcmFnZSk7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">JGNsYXNzTWV0YWRhdGEgPSAkZW0tPmdldENsYXNzTWV0YWRhdGEoU3RvcmFnZTo6Y2xhc3MpOwogICAgICAgICAgICAgICAgJHVvdy0+Y29tcHV0ZUNoYW5nZVNldCgkY2xhc3NNZXRhZGF0YSwgJHN0b3JhZ2UpOw==</text>
       </register>
       <register name="6" type="4">
-        <text>/**
-	 * @param OnFlushEventArgs $args
-	 *
-	 * @throws \Doctrine\ORM\NoResultException
-	 * @throws \Doctrine\ORM\NonUniqueResultException
-	 */</text>
+        <text encoding="base64">JGNsYXNzTWV0YWRhdGEgPSAkZW0tPmdldENsYXNzTWV0YWRhdGEoVXNlcjo6Y2xhc3MpOwogICAgICAgICAgICAgICAgJHVvdy0+cmVjb21wdXRlU2luZ2xlRW50aXR5Q2hhbmdlU2V0KCRjbGFzc01ldGFkYXRhLCAkZW50aXR5KTs=</text>
       </register>
       <register name="7" type="4">
-        <text>use Hrncirr\ElFinder\Doctrine\Events\MediaConsumerSubscriber;
-use Hrncirr\ElFinder\Doctrine\IElFinderFileConsumer;
-use Hrncirr\ElFinder\Doctrine\MediaImportOptions;
-use Hrncirrcms\File\Helpers\DirectoryHelper;
-use Invoicing\Contract;</text>
+        <text encoding="base64">JGNsYXNzTWV0YWRhdGEgPSAkZW0tPmdldENsYXNzTWV0YWRhdGEoU3RvcmFnZTo6Y2xhc3MpOwogICAgICAgICAgICAgICAgJHVvdy0+Y29tcHV0ZUNoYW5nZVNldCgkY2xhc3NNZXRhZGF0YSwgJHN0b3JhZ2UpOw==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">LyoqCgkgKiBAdmFyIHN0cmluZwoJICovCglwcml2YXRlICRyb290RGlyTmFtZTsKCQoJLyoqCgkgKiBAdmFyIERpcmVjdG9yeUhlbHBlcgoJICovCglwcml2YXRlICRkaXJlY3RvcnlIZWxwZXI7CgkKCQoJcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KHN0cmluZyAkcm9vdERpck5hbWUsIERpcmVjdG9yeUhlbHBlciAkZGlyZWN0b3J5SGVscGVyKQoJewoJCSR0aGlzLT5yb290RGlyTmFtZSA9ICRyb290RGlyTmFtZTsKCQkkdGhpcy0+ZGlyZWN0b3J5SGVscGVyID0gJGRpcmVjdG9yeUhlbHBlcjsKCX0=</text>
+        <text encoding="base64">JGNsYXNzTWV0YWRhdGEgPSAkZW0tPmdldENsYXNzTWV0YWRhdGEoVXNlcjo6Y2xhc3MpOwogICAgICAgICAgICAgICAgJHVvdy0+cmVjb21wdXRlU2luZ2xlRW50aXR5Q2hhbmdlU2V0KCRjbGFzc01ldGFkYXRhLCAkZW50aXR5KTs=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">aWYgKCEkY29uc3VtZXIgaW5zdGFuY2VvZiBDb250cmFjdCkgewoJCQlyZXR1cm47CgkJfQoJCQoJCSRvcHRpb25zLT5wYXJlbnRSb290SWQgPSAkdGhpcy0+ZGlyZWN0b3J5SGVscGVyLT5nZXRCeU5hbWUoJHRoaXMtPnJvb3REaXJOYW1lKS0+Z2V0SWQoKTsKCQkKCQkkb3B0aW9ucy0+ZGlyZWN0b3J5TmFtZSA9ICRjb25zdW1lci0+Z2V0SWQoKTs=</text>
+        <text encoding="base64">ICRjbGFzc01ldGFkYXRhID0gJGVtLT5nZXRDbGFzc01ldGFkYXRhKFVzZXI6OmNsYXNzKTsKICAgICAgICAgICAgICAgICR1b3ctPnJlY29tcHV0ZVNpbmdsZUVudGl0eUNoYW5nZVNldCgkY2xhc3NNZXRhZGF0YSwgJGVudGl0eSk7</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
