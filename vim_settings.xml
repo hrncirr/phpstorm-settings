@@ -5577,11 +5577,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Components/CatalogItemForm/templates/CatalogItemForm.latte" timestamp="1535530028159">
-        <mark key="'" line="199" column="44" />
-        <mark key="[" line="192" column="72" />
-        <mark key="]" line="168" column="41" />
-        <mark key="." line="168" column="41" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/CatalogItemForm/templates/CatalogItemForm.latte" timestamp="1535711001003">
+        <mark key="'" line="230" column="44" />
+        <mark key="[" line="77" column="58" />
+        <mark key="]" line="77" column="28" />
+        <mark key="." line="77" column="28" />
+        <mark key="^" line="77" column="28" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/IAccountsLastAccessRepository.php" timestamp="1509099269559">
         <mark key="[" line="17" column="0" />
@@ -6863,10 +6864,10 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Components/CatalogItemForm/CatalogItemForm.php" timestamp="1535535283808">
-        <mark key="[" line="182" column="64" />
-        <mark key="]" line="470" column="0" />
-        <mark key="." line="470" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Storage/Components/CatalogItemForm/CatalogItemForm.php" timestamp="1535711224849">
+        <mark key="[" line="190" column="9" />
+        <mark key="]" line="190" column="9" />
+        <mark key="." line="190" column="9" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/model/Path.php" timestamp="1487750415041">
         <mark key="[" line="50" column="16" />
@@ -7511,11 +7512,11 @@
       <jump line="1014" column="55" filename="/home/www/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCQlleGl0Owo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JHRoaXMtPnRlbXBsYXRlLT5leHBvcnRlckl0ZW1zID0gJGV4cG9ydGVySXRlbXM7</text>
       </register>
       <register name="-" type="4">
-        <text>, cascade={&quot;persist&quot;}</text>
+        <text encoding="base64">JHRoaXMtPnRlbXBsYXRlLT5leHBvcnRlckl0ZW1zID0gJGV4cG9ydGVySXRlbXM7</text>
       </register>
       <register name="/" type="4">
         <text>computeChangeSet</text>
