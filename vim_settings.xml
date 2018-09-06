@@ -33,9 +33,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1535468032777">
+      <file name="/a.dummy" timestamp="1536223775230">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/Components/SearchForm/SearchForm.php" timestamp="1492093765967">
@@ -312,6 +312,11 @@
         <mark key="[" line="3" column="107" />
         <mark key="]" line="3" column="107" />
         <mark key="." line="3" column="107" />
+      </file>
+      <file name="/home/www/html/nnb/patient-studies/app/Presenters/templates/@layout.latte" timestamp="1536223281761">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="4" />
+        <mark key="." line="39" column="4" />
       </file>
       <file name="/home/www/html/dv/cms/app/config/factories.neon" timestamp="1505389058737">
         <mark key="[" line="2" column="0" />
@@ -1539,12 +1544,6 @@
         <mark key="[" line="2" column="9" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="/home/www/html/nnb/dms/src/Search/Events/SearchableListener.php" timestamp="1535631486331">
-        <mark key="'" line="102" column="46" />
-        <mark key="[" line="84" column="46" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/app/src/Presenters/BasePresenter.php" timestamp="1517574013427">
         <mark key="[" line="29" column="3" />
@@ -3166,6 +3165,12 @@
         <mark key="]" line="34" column="4" />
         <mark key="." line="34" column="4" />
       </file>
+      <file name="/home/www/html/nnb/patient-studies/src/Patient/Presenters/DefaultPresenter.php" timestamp="1536224133191">
+        <mark key="[" line="49" column="4" />
+        <mark key="]" line="49" column="4" />
+        <mark key="." line="49" column="4" />
+        <mark key="^" line="49" column="4" />
+      </file>
       <file name="/home/www/html/dv/adera/src/Url/Url.php" timestamp="1532428239920">
         <mark key="[" line="20" column="24" />
         <mark key="]" line="64" column="23" />
@@ -4187,6 +4192,9 @@
         <mark key="]" line="338" column="17" />
         <mark key="." line="338" column="17" />
       </file>
+      <file name="/home/www/html/nnb/patient-studies/src/Patient/Components/PatientsGrid/IPatientsGridFactory.php" timestamp="1536223816072">
+        <mark key="[" line="4" column="10" />
+      </file>
       <file name="/home/www/html/nnb/nezadouci-udalosti/app/Presenters/BasePresenter.php" timestamp="1485873203658">
         <mark key="[" line="17" column="27" />
         <mark key="]" line="17" column="28" />
@@ -4266,6 +4274,9 @@
         <mark key="[" line="48" column="33" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/patient-studies/src/Patient/Components/PatientsGrid/PatientsGrid.php" timestamp="1536223794249">
+        <mark key="[" line="8" column="10" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/Model/Orm/Rooms/RoomsMapper.php" timestamp="1503306611007">
         <mark key="[" line="13" column="0" />
@@ -6446,6 +6457,11 @@
         <mark key="]" line="162" column="0" />
         <mark key="." line="162" column="0" />
       </file>
+      <file name="/home/www/html/nnb/patient-studies/app/config/client-side.neon" timestamp="1536223221833">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/TagsGrid/TagsGrid.php" timestamp="1517905951647">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -7079,6 +7095,11 @@
         <mark key="]" line="18" column="75" />
         <mark key="." line="18" column="75" />
       </file>
+      <file name="/home/www/html/nnb/patient-studies/app/Presenters/BasePresenter.php" timestamp="1536223355308">
+        <mark key="[" line="166" column="4" />
+        <mark key="]" line="166" column="4" />
+        <mark key="." line="166" column="4" />
+      </file>
       <file name="/home/www/html/bul/medical_examinations/app/components/GridFactory.php" timestamp="1491302816865">
         <mark key="[" line="43" column="8" />
         <mark key="]" line="43" column="8" />
@@ -7329,6 +7350,11 @@
         <mark key="]" line="51" column="72" />
         <mark key="." line="51" column="72" />
       </file>
+      <file name="/home/www/html/nnb/patient-studies/src/Patient/DI/PatientExtension.php" timestamp="1536223870268">
+        <mark key="[" line="13" column="77" />
+        <mark key="]" line="13" column="77" />
+        <mark key="." line="13" column="77" />
+      </file>
       <file name="/home/www/html/bul/maternal-register/app/components/BaseControl.php" timestamp="1488446904265">
         <mark key="[" line="12" column="35" />
         <mark key="]" line="12" column="35" />
@@ -7519,14 +7545,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>- App\Install\DI\InstallExtension
-	- App\Users\DI\UsersExtension
-	- App\Groups\DI\GroupsExtension
-	- App\Folders\DI\FoldersExtension
-	- App\Documents\DI\DocumentsExtension</text>
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHJlbmRlckRlZmF1bHQoKQoJewoJCWlmICghJHRoaXMtPmlzQWpheCgpKSB7CgkJCSR0aGlzWyd0cmVlJ107CgkJfQoJCQoJCWlmIChpc3NldCgkdGhpcy0+Zm9sZGVyKSAmJiAkdGhpcy0+Zm9sZGVyLT5zcGVjaWFsID09PSAnaG9tZScpIHsKCQkJJGdyaWQgPSAkdGhpc1snZ3JpZCddOwoJCQkkZ3JpZC0+c2V0Q3NzQ2xhc3MoJ3N1Y2Nlc3MnKQoJCQkJLT5zZXRUaXRsZShzcHJpbnRmKCdOb3bDqSBhIHptxJtuxJtuw6kgZG9rdW1lbnR5IHphIHBvc2xlZG7DrWNoICVkIGRuw60nLCBzZWxmOjpISVNUT1JZKSkKCQkJCS0+c2V0RG9jdW1lbnRzKCR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShEb2N1bWVudDo6Y2xhc3MpLT5mZXRjaCgobmV3IERvY3VtZW50c1F1ZXJ5KCkpCgkJCQkJLy8tPmJ5RG9jdW1lbnRzKCkKCQkJCQktPmJ5VXNlcigkdGhpcy0+Z2V0VXNlcigpKQoJCQkJCS0+YnlVcGRhdGVkQXQoKG5ldyBEYXRlVGltZSgpKS0+bW9kaWZ5KCctICcgLiBzZWxmOjpISVNUT1JZIC4gJyBkYXlzJykpCgkJCQkJLT5zb3J0QnlVcGRhdGVkQXQoKSkKCQkJCQktPmFwcGx5UGFnaW5hdG9yKCRncmlkWyd2cCddLT5nZXRQYWdpbmF0b3IoKSwKCQkJCQkJJGdyaWRbJ2l0ZW1zUGVyUGFnZSddLT5nZXRWYWx1ZSgpKSk7CgkJfQoJfQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPnRlbXBsYXRlLT5leHBvcnRlckl0ZW1zID0gJGV4cG9ydGVySXRlbXM7</text>
+        <text>IEntityAuditProvider,</text>
       </register>
       <register name="/" type="4">
         <text>computeChangeSet</text>
@@ -7535,39 +7557,34 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
-        <text>- App\Install\DI\InstallExtension
-	- App\Users\DI\UsersExtension
-	- App\Groups\DI\GroupsExtension
-	- App\Folders\DI\FoldersExtension
-	- App\Documents\DI\DocumentsExtension</text>
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHJlbmRlckRlZmF1bHQoKQoJewoJCWlmICghJHRoaXMtPmlzQWpheCgpKSB7CgkJCSR0aGlzWyd0cmVlJ107CgkJfQoJCQoJCWlmIChpc3NldCgkdGhpcy0+Zm9sZGVyKSAmJiAkdGhpcy0+Zm9sZGVyLT5zcGVjaWFsID09PSAnaG9tZScpIHsKCQkJJGdyaWQgPSAkdGhpc1snZ3JpZCddOwoJCQkkZ3JpZC0+c2V0Q3NzQ2xhc3MoJ3N1Y2Nlc3MnKQoJCQkJLT5zZXRUaXRsZShzcHJpbnRmKCdOb3bDqSBhIHptxJtuxJtuw6kgZG9rdW1lbnR5IHphIHBvc2xlZG7DrWNoICVkIGRuw60nLCBzZWxmOjpISVNUT1JZKSkKCQkJCS0+c2V0RG9jdW1lbnRzKCR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShEb2N1bWVudDo6Y2xhc3MpLT5mZXRjaCgobmV3IERvY3VtZW50c1F1ZXJ5KCkpCgkJCQkJLy8tPmJ5RG9jdW1lbnRzKCkKCQkJCQktPmJ5VXNlcigkdGhpcy0+Z2V0VXNlcigpKQoJCQkJCS0+YnlVcGRhdGVkQXQoKG5ldyBEYXRlVGltZSgpKS0+bW9kaWZ5KCctICcgLiBzZWxmOjpISVNUT1JZIC4gJyBkYXlzJykpCgkJCQkJLT5zb3J0QnlVcGRhdGVkQXQoKSkKCQkJCQktPmFwcGx5UGFnaW5hdG9yKCRncmlkWyd2cCddLT5nZXRQYWdpbmF0b3IoKSwKCQkJCQkJJGdyaWRbJ2l0ZW1zUGVyUGFnZSddLT5nZXRWYWx1ZSgpKSk7CgkJfQoJfQ==</text>
       </register>
       <register name="2" type="4">
-        <text>softDeletableFilter:
-		class: App\Doctrine\Filters\SoftDeletableFilter
-		setup:
-			- setHttpRequest
-			- setPath ('/archiv/|/archive/')</text>
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGJlZm9yZVJlbmRlcigpCgl7CgkJcGFyZW50OjpiZWZvcmVSZW5kZXIoKTsKCQkkdGhpcy0+Z2V0VGVtcGxhdGUoKS0+Zm9sZGVyID0gJHRoaXMtPmZvbGRlcjsKCX0=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">LyoKCQkJJHN1cHBsaWVycyA9ICR0aGlzLT5lbS0+Y3JlYXRlUXVlcnkoIlNFTEVDVCByLCByaSBGUk9NIFN0b3JhZ2VcUmVjZWlwdEl0ZW0gcmkgSU5ERVggQlkgcmkuaWQKCQkJSk9JTiByaS5yZWNlaXB0IHIgSk9JTiBXSEVSRSByaS5jYXRhbG9nSXRlbSA9ICIgLiAkdGhpcy0+Y2F0YWxvZ0l0ZW0tPmdldElkKCkpCgkJCQktPmdldFJlc3VsdCgpOwoJCQkqLw==</text>
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHN0YXJ0dXAoKQoJewoJCXBhcmVudDo6c3RhcnR1cCgpOwoJCQoJCWlmIChpc3NldCgkdGhpcy0+Zm9sZGVyKSAmJiAhJHRoaXMtPmdldFVzZXIoKS0+aXNBbGxvd2VkVG9Gb2xkZXIoJHRoaXMtPmZvbGRlcikpIHsKCQkJaWYgKCEkdGhpcy0+Z2V0VXNlcigpLT5pc0xvZ2dlZEluKCkpIHsKCQkJCSR0aGlzLT5zaG93TG9nb3V0UmVhc29uKCk7CgkJCQkkdGhpcy0+cmVkaXJlY3QoJ3RoaXMnLCBbJ2ZvbGRlcicgPT4gbnVsbF0pOwoJCQl9CgkJCQoJCQl0aHJvdyBuZXcgRm9sZGVyUGVybWlzc2lvbkV4Y2VwdGlvbigkdGhpcy0+Zm9sZGVyKTsKCQl9IGVsc2VpZiAoISR0aGlzLT5nZXRVc2VyKCktPmlzTG9nZ2VkSW4oKSAmJiAkdGhpcy0+Z2V0VXNlcigpLT5nZXRMb2dvdXRSZWFzb24oKSA9PT0gSVVzZXJTdG9yYWdlOjpJTkFDVElWSVRZKSB7CgkJCSR0aGlzLT5zaG93TG9nb3V0UmVhc29uKCk7CgkJCSR0aGlzLT5nZXRVc2VyKCktPmxvZ291dCh0cnVlKTsKCQkJJHRoaXMtPnJlZGlyZWN0KCd0aGlzJywgWydmb2xkZXInID0+ICR0aGlzLT5mb2xkZXIgPz8gbnVsbF0pOwoJCX0KCX0=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCQlleGl0Owo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gSUNsaXBib2FyZENvbnRyb2xGYWN0b3J5ICRmYWN0b3J5CgkgKgoJICogQHJldHVybiBDbGlwYm9hcmRDb250cm9sCgkgKi8KCXByb3RlY3RlZCBmdW5jdGlvbiBjcmVhdGVDb21wb25lbnRDbGlwYm9hcmQoSUNsaXBib2FyZENvbnRyb2xGYWN0b3J5ICRmYWN0b3J5KTogQ2xpcGJvYXJkQ29udHJvbAoJewoJCWlmICghJHRoaXMtPmdldFVzZXIoKS0+aXNMb2dnZWRJbigpKSB7CgkJCSR0aGlzLT5zaG93TG9nb3V0UmVhc29uKCk7CgkJCSR0aGlzLT5yZWRpcmVjdCgndGhpcycpOwoJCX0KCQkKCQkkY29udHJvbCA9ICRmYWN0b3J5LT5jcmVhdGUoJHRoaXMtPmZvbGRlcik7CgkJJGNvbnRyb2wtPm9uTW92ZVtdID0gJGNvbnRyb2wtPm9uQ29weVtdID0gJGNvbnRyb2wtPm9uUmVtb3ZlW10gPSAkY29udHJvbC0+b25DbG9zZVtdID0gJGNvbnRyb2wtPm9uRXJyb3JbXSA9CgkJCWZ1bmN0aW9uICgkY29udHJvbCkgewoJCQkJJHRoaXMtPnJlZHJhd0NvbnRyb2woJ2RvY3VtZW50cycpOwoJCQl9OwoJCQoJCXJldHVybiAkY29udHJvbDsKCX0=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCQlkdW1wKCdhYWEnKTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gRm9sZGVyVHJlZUZhY3RvcnkgJGZhY3RvcnkKCSAqCgkgKiBAcmV0dXJuIFRyZWVDb250cm9sCgkgKi8KCXByb3RlY3RlZCBmdW5jdGlvbiBjcmVhdGVDb21wb25lbnRUcmVlKEZvbGRlclRyZWVGYWN0b3J5ICRmYWN0b3J5KTogVHJlZUNvbnRyb2wKCXsKCQkkY29udHJvbCA9ICRmYWN0b3J5LT5jcmVhdGUoKTsKCQkKCQlpZiAoISR0aGlzLT5pc0FqYXgoKSAmJiBpc3NldCgkdGhpcy0+Zm9sZGVyKSkgewoJCQkkY29udHJvbC0+c2V0SWQoJHRoaXMtPmZvbGRlci0+aWQpOwoJCX0KCQkKCQkkY29udHJvbC0+c2V0QWN0aW9ucygkY29udHJvbDo6QUNUSU9OX1NFTEVDVCk7CgkJCgkJJGNvbnRyb2wtPm9uU3RydWN0dXJlQ2hhbmdlW10gPSBmdW5jdGlvbiAoKSB7CgkJCSR0aGlzLT5mb2xkZXIgPSBudWxsOwoJCQkkdGhpcy0+ZG9jdW1lbnQgPSBudWxsOwoJCQkkdGhpcy0+cmVkcmF3Q29udHJvbCgpOwoJCX07CgkJCgkJJGNvbnRyb2wtPm9uU2VsZWN0W10gPSBmdW5jdGlvbiAoTm9kZSAkbm9kZSA9IG51bGwpIHVzZSAoJGNvbnRyb2wpIHsKCQkJaWYgKCEkbm9kZSkgewoJCQkJJHRoaXMtPmZvbGRlciA9IG51bGw7CgkJCQkkdGhpcy0+cmVkcmF3Q29udHJvbCgpOwoJCQl9IGVsc2VpZiAoJG5vZGUgJiYgIWlzc2V0KCR0aGlzLT5mb2xkZXIpKSB7CgkJCQkkdGhpcy0+Zm9sZGVyID0gJHRoaXMtPmVtLT5nZXRSZXBvc2l0b3J5KEZvbGRlcjo6Y2xhc3MpLT5maW5kKCRub2RlLT5pZCk7CgkJCQkkdGhpcy0+cmVkcmF3Q29udHJvbCgpOwoJCQl9IGVsc2VpZiAoJG5vZGUgJiYgaXNzZXQoJHRoaXMtPmZvbGRlcikgJiYgJHRoaXMtPmZvbGRlci0+aWQgIT0gJG5vZGUtPmlkKSB7CgkJCQkkdGhpcy0+Zm9sZGVyID0gJHRoaXMtPmVtLT5nZXRSZXBvc2l0b3J5KEZvbGRlcjo6Y2xhc3MpLT5maW5kKCRub2RlLT5pZCk7CgkJCQkkdGhpcy0+cmVkcmF3Q29udHJvbCgpOwoJCQl9IGVsc2UgewoJCQkJaWYgKCR0aGlzLT5pc0FqYXgoKSkgewoJCQkJCSR0aGlzLT50ZXJtaW5hdGUoKTsKCQkJCX0KCQkJfQoJCQkKCQkJJHRoaXMtPmNoZWNrRm9sZGVyKCR0aGlzLT5mb2xkZXIpOwoJCX07CgkJCgkJcmV0dXJuICRjb250cm9sOwoJfQoJCgkKCXByaXZhdGUgZnVuY3Rpb24gY2hlY2tGb2xkZXIoJGZvbGRlcikKCXsKCQlpZiAoIWlzc2V0KCRmb2xkZXIpICYmICEkdGhpcy0+Z2V0VXNlcigpLT5pc0xvZ2dlZEluKCkpIHsKCQkJJHRoaXMtPnJlZGlyZWN0KCd0aGlzJywgWydmb2xkZXInID0+IG51bGxdKTsKCQl9IGVsc2UgewoJCQlpZiAoIWlzc2V0KCRmb2xkZXIpIHx8ICEkdGhpcy0+Z2V0VXNlcigpLT5pc0FsbG93ZWRUb0ZvbGRlcigkZm9sZGVyKSkgewoJCQkJaWYgKGlzc2V0KCRmb2xkZXIpICYmICR0aGlzLT5nZXRVc2VyKCktPmlzTG9nZ2VkSW4oKSkgewoJCQkJCS8vJHRoaXMtPmZsYXNoTWVzc2FnZShzcHJpbnRmKCJEbyBzbG/Fvmt5ICclcycgbmVtw6F0ZSBwxZnDrXN0dXAuIiwgJGZvbGRlci0+c2x1ZyksICd3YXJuaW5nJyk7CgkJCQkJdGhyb3cgbmV3IEZvbGRlclBlcm1pc3Npb25FeGNlcHRpb24oJGZvbGRlcik7CgkJCQl9IGVsc2UgewoJCQkJCSR0aGlzLT5yZWRpcmVjdCgndGhpcycsIFsnZm9sZGVyJyA9PiBudWxsXSk7CgkJCQl9CgkJCX0KCQl9Cgl9CgkKCQoJLyoqCgkgKiBAcGFyYW0gSVBhdGhDb250cm9sRmFjdG9yeSAkZmFjdG9yeQoJICoKCSAqIEByZXR1cm4gUGF0aENvbnRyb2wKCSAqLwoJcHJvdGVjdGVkIGZ1bmN0aW9uIGNyZWF0ZUNvbXBvbmVudFBhdGgoSVBhdGhDb250cm9sRmFjdG9yeSAkZmFjdG9yeSk6IFBhdGhDb250cm9sCgl7CgkJJGNvbnRyb2wgPSAkZmFjdG9yeS0+Y3JlYXRlKCk7CgkJJGNvbnRyb2wtPnNldFBhdGgoJHRoaXMtPmZvbGRlciwgJHRoaXMtPmRvY3VtZW50KTsKCQkKCQkkY29udHJvbC0+b25DaGFuZ2VGb2xkZXJbXSA9IGZ1bmN0aW9uICgkY29udHJvbCwgJGZvbGRlcikgewoJCQkkdGhpcy0+Y2hlY2tGb2xkZXIoJGZvbGRlcik7CgkJCSR0aGlzLT5mb2xkZXIgPSAkZm9sZGVyOwoJCQkkdGhpc1sndHJlZSddLT5zZWxlY3QoJGZvbGRlci0+aWQsIGZhbHNlLCBmYWxzZSk7CgkJCSR0aGlzLT5yZWRyYXdDb250cm9sKCk7CgkJfTsKCQkKCQlyZXR1cm4gJGNvbnRyb2w7Cgl9CgkKCQoJLyoqCgkgKiBAcGFyYW0gSUZpbGVzVXBsb2FkRm9ybUZhY3RvcnkgJGZhY3RvcnkKCSAqCgkgKiBAcmV0dXJuIEZpbGVzVXBsb2FkRm9ybQoJICovCglwcm90ZWN0ZWQgZnVuY3Rpb24gY3JlYXRlQ29tcG9uZW50RmlsZXNVcGxvYWRGb3JtKElGaWxlc1VwbG9hZEZvcm1GYWN0b3J5ICRmYWN0b3J5KTogRmlsZXNVcGxvYWRGb3JtCgl7CgkJaWYgKCEkdGhpcy0+Z2V0VXNlcigpLT5pc0FsbG93ZWRUb0ZvbGRlcigkdGhpcy0+Zm9sZGVyLCBJRm9sZGVyUGVybWlzc2lvbnM6OkZPTERFUl9QRVJNSVNTSU9OX1dSSVRFKSkgewoJCQkkdGhpcy0+c2hvd0xvZ291dFJlYXNvbigpOwoJCQkkdGhpcy0+cmVkaXJlY3QoJ3RoaXMnKTsKCQl9CgkJCgkJJGZvcm0gPSAkZmFjdG9yeS0+Y3JlYXRlKCR0aGlzLT5mb2xkZXIpOwoJCQoJCSRmb3JtLT5vblNhdmVbXSA9IGZ1bmN0aW9uICgpIHsKCQkJaWYgKCR0aGlzLT5pc0FqYXgoKSkgewoJCQkJJHRoaXMtPnJlZHJhd0NvbnRyb2woJ2RvY3VtZW50cycpOwoJCQl9IGVsc2UgewoJCQkJJHRoaXMtPnJlZGlyZWN0KCd0aGlzJyk7CgkJCX0KCQl9OwoJCQoJCXJldHVybiAkZm9ybTsKCX0=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">LyoKICAgICAgICBpZiAoJHN0b3JhZ2UgIT09IG51bGwpIHsKICAgICAgICAgICAgICR1b3ctPmNvbXB1dGVDaGFuZ2VTZXRzKCk7CiAgICAgICAgfQogICAgICAgICov</text>
+        <text>public function getAuditedEntities()
+	{
+		return [Note::class];
+	}</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCS8vJGVtLT5wZXJzaXN0KCRzdG9yYWdlKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGJlZm9yZUNvbXBpbGUoKQoJewoJCS8vJHRoaXMtPnNldE1hcHBpbmcoWydOb3RlJyA9PiAnTm90ZVwqTW9kdWxlXFByZXNlbnRlcnNcKlByZXNlbnRlciddKTsKCX0=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">JGNsYXNzTWV0YWRhdGEgPSAkZW0tPmdldENsYXNzTWV0YWRhdGEoU3RvcmFnZTo6Y2xhc3MpOwogICAgICAgICAgICAgICAgJHVvdy0+Y29tcHV0ZUNoYW5nZVNldCgkY2xhc3NNZXRhZGF0YSwgJHN0b3JhZ2UpOw==</text>
+        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gSVNlYXJjaEZvcm1GYWN0b3J5ICRmYWN0b3J5CgkgKgoJICogQHJldHVybiBTZWFyY2hGb3JtCgkgKi8KCXByb3RlY3RlZCBmdW5jdGlvbiBjcmVhdGVDb21wb25lbnRTZWFyY2hGb3JtKElTZWFyY2hGb3JtRmFjdG9yeSAkZmFjdG9yeSk6IFNlYXJjaEZvcm0KCXsKCQkkZm9ybSA9ICRmYWN0b3J5LT5jcmVhdGUoKTsKCQkkZm9ybS0+c2V0VXJsKHNlbGY6OlNFQVJDSF9MSU5LX0RFU1RJTkFUSU9OKTsKCQkKCQkkZm9ybS0+b25SZXNldFtdID0gZnVuY3Rpb24gKCkgewoJCQkkdGhpcy0+cmVkaXJlY3QoJzpEb2N1bWVudHM6RGVmYXVsdDonKTsKCQl9OwoJCQoJCXJldHVybiAkZm9ybTsKCX0=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">JGNsYXNzTWV0YWRhdGEgPSAkZW0tPmdldENsYXNzTWV0YWRhdGEoVXNlcjo6Y2xhc3MpOwogICAgICAgICAgICAgICAgJHVvdy0+cmVjb21wdXRlU2luZ2xlRW50aXR5Q2hhbmdlU2V0KCRjbGFzc01ldGFkYXRhLCAkZW50aXR5KTs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">CWNvbnN0IFNFQVJDSF9MSU5LX0RFU1RJTkFUSU9OID0gJzpTZWFyY2g6RGVmYXVsdDonOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
