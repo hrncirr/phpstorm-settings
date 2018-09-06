@@ -1212,7 +1212,6 @@
         <mark key="]" line="61" column="22" />
         <mark key="." line="61" column="22" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Document/Components/FormParts/DocumentItemsFormPart/TDocumentItemsFormPart.php" timestamp="1535537073517" />
       <file name="/home/www/html/dv/cms/app/src/Extensions/CompilerExtension.php" timestamp="1505376879387">
         <mark key="[" line="16" column="32" />
         <mark key="]" line="16" column="32" />
@@ -1843,7 +1842,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/libs/vendor/nette/component-model/src/ComponentModel/Container.php" timestamp="1535539670797" />
       <file name="/home/www/html/bul/laboratory-methods/app/config/extensions.neon" timestamp="1496669592999">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -3202,6 +3200,11 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/patient-studies/app/config/extensions.neon" timestamp="1536221908349">
+        <mark key="[" line="43" column="4" />
+        <mark key="]" line="43" column="4" />
+        <mark key="." line="43" column="4" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/TIntervention.php" timestamp="1532092140611">
         <mark key="[" line="15" column="33" />
@@ -5709,7 +5712,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Files/DI/config.neon" timestamp="1535631865942" />
       <file name="/home/www/html/dv/adera/Modules/Storage/StorageItem.php" timestamp="1533124378703">
         <mark key="[" line="28" column="58" />
       </file>
@@ -7034,7 +7036,6 @@
         <mark key="]" line="7" column="4" />
         <mark key="." line="7" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/libs/vendor/nette/application/src/Application/UI/Control.php" timestamp="1535530812733" />
       <file name="/home/www/html/nnb/dms/src/DMS/Console/DI/ConsoleExtension.php" timestamp="1486026725384">
         <mark key="[" line="18" column="9" />
         <mark key="]" line="20" column="0" />
@@ -7242,6 +7243,11 @@
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/patient-studies/app/config/services.neon" timestamp="1536221873635">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="4" />
+        <mark key="." line="13" column="4" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Documents/components/TagsGrid/TagsGrid.php" timestamp="1484215509747">
         <mark key="[" line="38" column="19" />
@@ -7513,7 +7519,11 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LyoKCQkJJHN1cHBsaWVycyA9ICR0aGlzLT5lbS0+Y3JlYXRlUXVlcnkoIlNFTEVDVCByLCByaSBGUk9NIFN0b3JhZ2VcUmVjZWlwdEl0ZW0gcmkgSU5ERVggQlkgcmkuaWQKCQkJSk9JTiByaS5yZWNlaXB0IHIgSk9JTiBXSEVSRSByaS5jYXRhbG9nSXRlbSA9ICIgLiAkdGhpcy0+Y2F0YWxvZ0l0ZW0tPmdldElkKCkpCgkJCQktPmdldFJlc3VsdCgpOwoJCQkqLw==</text>
+        <text>- App\Install\DI\InstallExtension
+	- App\Users\DI\UsersExtension
+	- App\Groups\DI\GroupsExtension
+	- App\Folders\DI\FoldersExtension
+	- App\Documents\DI\DocumentsExtension</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JHRoaXMtPnRlbXBsYXRlLT5leHBvcnRlckl0ZW1zID0gJGV4cG9ydGVySXRlbXM7</text>
@@ -7525,25 +7535,33 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
+        <text>- App\Install\DI\InstallExtension
+	- App\Users\DI\UsersExtension
+	- App\Groups\DI\GroupsExtension
+	- App\Folders\DI\FoldersExtension
+	- App\Documents\DI\DocumentsExtension</text>
+      </register>
+      <register name="2" type="4">
+        <text>softDeletableFilter:
+		class: App\Doctrine\Filters\SoftDeletableFilter
+		setup:
+			- setHttpRequest
+			- setPath ('/archiv/|/archive/')</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">LyoKCQkJJHN1cHBsaWVycyA9ICR0aGlzLT5lbS0+Y3JlYXRlUXVlcnkoIlNFTEVDVCByLCByaSBGUk9NIFN0b3JhZ2VcUmVjZWlwdEl0ZW0gcmkgSU5ERVggQlkgcmkuaWQKCQkJSk9JTiByaS5yZWNlaXB0IHIgSk9JTiBXSEVSRSByaS5jYXRhbG9nSXRlbSA9ICIgLiAkdGhpcy0+Y2F0YWxvZ0l0ZW0tPmdldElkKCkpCgkJCQktPmdldFJlc3VsdCgpOwoJCQkqLw==</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCQlleGl0Owo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCQlkdW1wKCdhYWEnKTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">LyoKICAgICAgICBpZiAoJHN0b3JhZ2UgIT09IG51bGwpIHsKICAgICAgICAgICAgICR1b3ctPmNvbXB1dGVDaGFuZ2VTZXRzKCk7CiAgICAgICAgfQogICAgICAgICov</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCS8vJGVtLT5wZXJzaXN0KCRzdG9yYWdlKTsK</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">JGNsYXNzTWV0YWRhdGEgPSAkZW0tPmdldENsYXNzTWV0YWRhdGEoU3RvcmFnZTo6Y2xhc3MpOwogICAgICAgICAgICAgICAgJHVvdy0+Y29tcHV0ZUNoYW5nZVNldCgkY2xhc3NNZXRhZGF0YSwgJHN0b3JhZ2UpOw==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">JGNsYXNzTWV0YWRhdGEgPSAkZW0tPmdldENsYXNzTWV0YWRhdGEoVXNlcjo6Y2xhc3MpOwogICAgICAgICAgICAgICAgJHVvdy0+cmVjb21wdXRlU2luZ2xlRW50aXR5Q2hhbmdlU2V0KCRjbGFzc01ldGFkYXRhLCAkZW50aXR5KTs=</text>
       </register>
       <register name="8" type="4">
         <text encoding="base64">JGNsYXNzTWV0YWRhdGEgPSAkZW0tPmdldENsYXNzTWV0YWRhdGEoU3RvcmFnZTo6Y2xhc3MpOwogICAgICAgICAgICAgICAgJHVvdy0+Y29tcHV0ZUNoYW5nZVNldCgkY2xhc3NNZXRhZGF0YSwgJHN0b3JhZ2UpOw==</text>
