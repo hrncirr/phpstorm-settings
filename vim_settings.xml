@@ -3165,10 +3165,10 @@
         <mark key="]" line="34" column="4" />
         <mark key="." line="34" column="4" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/src/Patient/Presenters/DefaultPresenter.php" timestamp="1536228097762">
-        <mark key="[" line="45" column="8" />
-        <mark key="]" line="45" column="8" />
-        <mark key="." line="45" column="8" />
+      <file name="/home/www/html/nnb/patient-studies/src/Patient/Presenters/DefaultPresenter.php" timestamp="1536231497553">
+        <mark key="[" line="21" column="15" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/src/Url/Url.php" timestamp="1532428239920">
         <mark key="[" line="20" column="24" />
@@ -6012,8 +6012,8 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/app/Router/RouterFactory.php" timestamp="1536229448507">
-        <mark key="[" line="6" column="0" />
+      <file name="/home/www/html/nnb/patient-studies/app/Router/RouterFactory.php" timestamp="1536231129931">
+        <mark key="[" line="17" column="27" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
@@ -7358,10 +7358,10 @@
         <mark key="]" line="51" column="72" />
         <mark key="." line="51" column="72" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/src/Patient/DI/PatientExtension.php" timestamp="1536223870268">
-        <mark key="[" line="13" column="77" />
-        <mark key="]" line="13" column="77" />
-        <mark key="." line="13" column="77" />
+      <file name="/home/www/html/nnb/patient-studies/src/Patient/DI/PatientExtension.php" timestamp="1536231095064">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/home/www/html/bul/maternal-register/app/components/BaseControl.php" timestamp="1488446904265">
         <mark key="[" line="12" column="35" />
@@ -7552,12 +7552,8 @@
       <jump line="1014" column="55" filename="/home/www/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/**
-	 * @var CatalogItemGroup
-	 * @persistent
-	 */
-	public $itemGroup;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXFV0aWxzXERhdGVUaW1lOwo=</text>
       </register>
       <register name="-" type="4">
         <text>IEntityAuditProvider,</text>
@@ -7568,41 +7564,32 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
-        <text>/**
-	 * @var CatalogItemGroup
-	 * @persistent
-	 */
-	public $itemGroup;</text>
+      <register name="1" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXFV0aWxzXERhdGVUaW1lOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>/**
-	 * @var DocumentFacade
-	 */
-	public $documentFacade;
-	
-	protected $searchMode;</text>
+      <register name="2" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXFNlY3VyaXR5XElVc2VyU3RvcmFnZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEFwcFxVc2Vyc1xDb21wb25lbnRzXFBhc3N3b3JkRm9ybVxQYXNzd29yZEZvcm07Cg==</text>
+        <text encoding="base64">dXNlIEhybmNpcnJcSnNUcmVlXE1vZGVsXE5vZGU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEFwcFxVc2Vyc1xDb21wb25lbnRzXFBhc3N3b3JkRm9ybVxJUGFzc3dvcmRGb3JtRmFjdG9yeTsK</text>
+        <text encoding="base64">dXNlIEhybmNpcnJcSnNUcmVlXENvbXBvbmVudHNcVHJlZUNvbnRyb2xcVHJlZUNvbnRyb2w7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIEFwcFxTZWFyY2hcQ29tcG9uZW50c1xTZWFyY2hGb3JtXFNlYXJjaEZvcm07Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxGb2xkZXJzXElGb2xkZXJQZXJtaXNzaW9uczsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIEFwcFxTZWFyY2hcQ29tcG9uZW50c1xTZWFyY2hGb3JtXElTZWFyY2hGb3JtRmFjdG9yeTsK</text>
+        <text encoding="base64">dXNlIEFwcFxGb2xkZXJzXEZvbGRlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIEFwcFxEb2N1bWVudHNcRG9jdW1lbnRGYWNhZGU7Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxGb2xkZXJzXEV4Y2VwdGlvbnNcRm9sZGVyUGVybWlzc2lvbkV4Y2VwdGlvbjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIFRoaXMgZmlsZSBpcyBwYXJ0IG9mIHRoZSBkbXMKICoKICogQ29weXJpZ2h0IChjKSAyMDE1IFJvbWFuIEhybsSNw63FmQogKgogKiBGb3IgdGhlIGZ1bGwgY29weXJpZ2h0IGFuZCBsaWNlbnNlIGluZm9ybWF0aW9uLCBwbGVhc2UgdmlldyB0aGUgZmlsZSBsaWNlbnNlLnR4dCB0aGF0IHdhcyBkaXN0cmlidXRlZCB3aXRoIHRoaXMgc291cmNlIGNvZGUuCiAqLwo=</text>
+        <text encoding="base64">dXNlIEFwcFxGb2xkZXJzXENvbXBvbmVudHNcUGF0aENvbnRyb2xcUGF0aENvbnRyb2w7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXERJXENvbnRhaW5lcjsK</text>
+        <text encoding="base64">dXNlIEFwcFxGb2xkZXJzXENvbXBvbmVudHNcUGF0aENvbnRyb2xcSVBhdGhDb250cm9sRmFjdG9yeTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
