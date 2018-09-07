@@ -2874,6 +2874,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="/home/www/html/nnb/patient-studies/src/Patient/Patient.php" timestamp="1536309607734">
+        <mark key="[" line="26" column="3" />
+        <mark key="]" line="26" column="1" />
+        <mark key="." line="26" column="1" />
+        <mark key="^" line="26" column="1" />
+      </file>
       <file name="/home/www/vendor/hrncirr/media/src/Model/SimpleImageFormat.php" timestamp="1508221749830">
         <mark key="[" line="125" column="0" />
         <mark key="]" line="126" column="0" />
@@ -3082,6 +3088,11 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="4" />
         <mark key="." line="31" column="4" />
+      </file>
+      <file name="/home/www/html/nnb/patient-studies/src/Patient/Study.php" timestamp="1536309629273">
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="36" column="4" />
+        <mark key="." line="36" column="4" />
       </file>
       <file name="/home/www/html/bul/phonebook/app/Model/SearchModel.php" timestamp="1481093168939">
         <mark key="[" line="6" column="0" />
@@ -7570,10 +7581,15 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>7736224533</text>
+        <text>/**
+	 * @ORM\Column(type=&quot;int&quot;)
+	 * @Assert\NotBlank()
+	 * @var int
+	 */
+	private $pid;</text>
       </register>
       <register name="-" type="4">
-        <text>7736224533</text>
+        <text>Patient</text>
       </register>
       <register name="/" type="4">
         <text>computeChangeSet</text>
@@ -7581,32 +7597,88 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJZHVtcCgkaXRlbSk7Cg==</text>
+      <register name="1" type="4">
+        <text>/**
+	 * @ORM\Column(type=&quot;int&quot;)
+	 * @Assert\NotBlank()
+	 * @var int
+	 */
+	private $pid;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8JCSRncmlkLT5hZGRDb2x1bW5UZXh0KCduYW1lJywgJ07DoXpldicpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">LyoqCgkgKiBAT1JNXENvbHVtbih0eXBlPSJzdHJpbmciKQoJICogQEFzc2VydFxOb3RCbGFuaygpCgkgKiBAdmFyIHN0cmluZwoJICovCglwcml2YXRlICRsYXN0TmFtZTsKCQ==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">cHJvdGVjdGVkIGZ1bmN0aW9uIGNyZWF0ZUNvbXBvbmVudEl0ZW1Hcm91cEZvcm0oSUNhdGFsb2dJdGVtR3JvdXBGb3JtRmFjdG9yeSAkZmFjdG9yeSk6IENhdGFsb2dJdGVtR3JvdXBGb3JtCgl7CgkJJGZvcm0gPSAkZmFjdG9yeS0+Y3JlYXRlKCR0aGlzLT5pdGVtR3JvdXApOwoKCQkkZm9ybS0+b25TYXZlW10gPSBmdW5jdGlvbiAoKSB7CgkJCSR0aGlzLT5pdGVtR3JvdXAgPSBudWxsOwoJCQkkdGhpc1snZ3JpZCddLT5yZWxvYWQoKTsKCQl9OwoKCQlyZXR1cm4gJGZvcm07Cgl9</text>
+        <text>@UniqueEntity(
+ *      fields={&quot;username&quot;, &quot;color&quot;}
+ * )</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY29sLXNtLTQgY29sLW1kLTQiPgoJCQkJCXtzbmlwcGV0IHNlYXJjaEZvcm19CgkJCQkJCXtjb250cm9sIHNlYXJjaEZvcm19CgkJCQkJey9zbmlwcGV0fQoJCQkJPC9kaXY+</text>
+        <text encoding="base64">LyoqCgkgKiBAT1JNXE9uZVRvTWFueSh0YXJnZXRFbnRpdHk9IlN0dWRpZXMiLCBtYXBwZWRCeT0iIiwgY2FzY2FkZT17InBlcnNpc3QifSkKCSAqIEB2YXIgU3R1ZGllc1tdfFxEb2N0cmluZVxDb21tb25cQ29sbGVjdGlvbnNcQXJyYXlDb2xsZWN0aW9uCgkgKi8KCXByaXZhdGUgJHN0dWRpZXM7CQ==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gSVBhc3N3b3JkRm9ybUZhY3RvcnkgJGZhY3RvcnkKCSAqCgkgKiBAcmV0dXJuIFBhc3N3b3JkRm9ybQoJICovCgkvKgoJcHJvdGVjdGVkIGZ1bmN0aW9uIGNyZWF0ZUNvbXBvbmVudFBhc3N3b3JkRm9ybShJUGFzc3dvcmRGb3JtRmFjdG9yeSAkZmFjdG9yeSk6IFBhc3N3b3JkRm9ybQoJewoJCXJldHVybiAkZmFjdG9yeS0+Y3JlYXRlKCk7Cgl9</text>
+      <register name="5" type="2">
+        <text encoding="base64">CXByaXZhdGUgJHN0dWRpZXM7Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Um91dGU6OkZJTFRFUl9UQUJMRSA9PiBbCgkJCQkJJ3N0aXRreScgPT4gJ1RhZ3MnLAoJCQkJCSdhcmNoaXYnID0+ICdBcmNoaXZlJwoJCQkJXQ==</text>
+        <text>/**
+	 * @ORM\Column(type=&quot;string&quot;, nullable=true)
+	 * @var string
+	 */
+	private $;</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">J2Rva3VtZW50eScgPT4gJ0RvY3VtZW50cycsCgkJCQkJJ2hsZWRhdCcgPT4gJ1NlYXJjaCcsCgkJCQkJJ3NrdXBpbnknID0+ICdHcm91cHMnLAoJCQkJCSd1eml2YXRlbGUnID0+ICdVc2Vycyc=</text>
+        <text encoding="base64">cHVibGljIHN0YXRpYyAkd29ya2luZ1Bvc2l0aW9ucyA9IFsKCQkxID0+ICdUZWNobmlrJywKCQkyID0+ICdGYWt0dXJhbnQnLAoJCTMgPT4gJ01hbmFnZXInCgldOwoJCgkKCS8qKgoJICogQE9STVxNYW55VG9PbmUodGFyZ2V0RW50aXR5PSJIcm5jaXJyY21zXEZpbGVcRWxGaW5kZXJGaWxlIikKCSAqIEBPUk1cSm9pbkNvbHVtbihuYW1lPSJlbGZpbmRlcl9maWxlX2lkIikKCSAqIEB2YXIgRWxGaW5kZXJGaWxlCgkgKi8KCXByaXZhdGUgJHBob3RvOwoJCgkvKioKCSAqIEBPUk1cQ29sdW1uKHR5cGU9InN0cmluZyIsIHVuaXF1ZT10cnVlLCBvcHRpb25zPXsiY29tbWVudCI6IlVzZXIncyBuYW1lIn0pCgkgKiBAQXNzZXJ0XE5vdEJsYW5rKCkKCSAqIEBBc3NlcnRcTGVuZ3RoKAoJICogICAgICBtaW49NCwKCSAqICAgICAgbWF4PTUwCgkgKiApCgkgKiBAdmFyIHN0cmluZwoJICovCglwcml2YXRlICR1c2VybmFtZTs=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dXNlIElQdWJcUGVybWlzc2lvbnNcVFBlcm1pc3Npb247Cg==</text>
+      <register name="8" type="4">
+        <text>/**
+	 * @ORM\Column(type=&quot;string&quot;, nullable=true, options={&quot;comment&quot;:&quot;User's email&quot;})
+	 * @Assert\Email()
+	 * @var string
+	 */
+	private $email;
+	
+	/**
+	 * @ORM\Column(type=&quot;string&quot;, options={&quot;comment&quot;:&quot;User's password&quot;})
+	 * @var string
+	 */
+	private $password;
+	
+	/**
+	 * @ORM\Column(type=&quot;integer&quot;, nullable=true)
+	 * @var int
+	 */
+	private $workingPosition;
+	
+	/**
+	 * @ORM\Column(type=&quot;color&quot;, unique=true, nullable=true)
+	 * @var Color
+	 */
+	private $color;
+	
+	/**
+	 * @ORM\ManyToOne(targetEntity=&quot;Storage\Storage&quot;, cascade={&quot;persist&quot;})
+	 * @var Storage
+	 */
+	private $storage;
+	
+	/**
+	 * @ORM\ManyToMany(targetEntity=&quot;Role&quot;, cascade={&quot;persist&quot;}, fetch=&quot;EAGER&quot;)
+	 * @ORM\JoinTable(
+	 *      joinColumns={@ORM\JoinColumn(onDelete=&quot;cascade&quot;)},
+	 *      inverseJoinColumns={@ORM\JoinColumn(name=&quot;role_id&quot;)}
+	 * )
+	 * @var Role[]|ArrayCollection
+	 */
+	private $roles;
+	
+	/**
+	 * @ORM\Column(type=&quot;datetime&quot;, nullable=true, options={&quot;comment&quot;:&quot;Date of last user login&quot;})
+	 * @var \DateTime
+	 */
+	private $lastActivity;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIFN0b3JhZ2VcU3RvcmFnZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
