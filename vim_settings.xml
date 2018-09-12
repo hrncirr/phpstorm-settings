@@ -2285,12 +2285,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseBusinessCaseDocumentGrid.php" timestamp="1536750366190">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseBusinessCaseDocumentGrid.php" timestamp="1536757338703">
         <mark key="'" line="27" column="6" />
-        <mark key="[" line="64" column="44" />
-        <mark key="]" line="62" column="42" />
-        <mark key="." line="62" column="42" />
-        <mark key="^" line="62" column="42" />
+        <mark key="[" line="128" column="12" />
+        <mark key="]" line="128" column="12" />
+        <mark key="." line="128" column="12" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/Components/BuildingsBreadcrumbsControl/BuildingsBreadcrumbsControl.php" timestamp="1507905590156">
         <mark key="[" line="13" column="19" />
@@ -4866,8 +4865,8 @@
         <mark key="]" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/templates/InvoiceForm.latte" timestamp="1536753265198">
-        <mark key="[" line="90" column="92" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/templates/InvoiceForm.latte" timestamp="1536758058386">
+        <mark key="[" line="91" column="17" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Document/DI/DocumentExtension.php" timestamp="1535539102835">
         <mark key="[" line="16" column="4" />
@@ -7051,9 +7050,9 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNotesGrid/CreditNotesGrid.php" timestamp="1536755003058">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNotesGrid/CreditNotesGrid.php" timestamp="1536757876807">
         <mark key="'" line="165" column="44" />
-        <mark key="[" line="151" column="36" />
+        <mark key="[" line="135" column="20" />
         <mark key="]" line="188" column="8" />
         <mark key="." line="188" column="8" />
       </file>
@@ -7686,11 +7685,13 @@
       <jump line="165" column="44" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNotesGrid/CreditNotesGrid.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+      <register name="&quot;" type="4">
+        <text>dump($prop['property']);
+			dump($from['property']);
+			dump('----');</text>
       </register>
       <register name="-" type="4">
-        <text>class=&quot;clearfix&quot;</text>
+        <text encoding="base64">bmV3IFxSZWZsZWN0aW9uQ2xhc3MoJHRoaXMpKS0+Z2V0U2hvcnROYW1lKA==</text>
       </register>
       <register name="/" type="4">
         <text>Invoice</text>
@@ -7698,33 +7699,35 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+      <register name="1" type="4">
+        <text>dump($prop['property']);
+			dump($from['property']);
+			dump('----');</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCQk8L2Rpdj4K</text>
+      <register name="2" type="4">
+        <text>dump($conf);
+			dump($prop);</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQk8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4K</text>
+        <text encoding="base64">CQkkZnJvbSA9IHN0cnRvbG93ZXIoKG5ldyBcUmVmbGVjdGlvbkNsYXNzKCRjbGFzc05hbWUpKS0+Z2V0U2hvcnROYW1lKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJCTwvZGl2Pgo=</text>
+        <text encoding="base64">CQkJJ2NsYXNzJyA9PiAnb2ZmZXInCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCTx0ZD4gLSA8L3RkPgo=</text>
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQk8ZGl2IGNsYXNzPSJwdWxsLWxlZnQiPiAtIDwvZGl2Pgo=</text>
+        <text encoding="base64">CQkJCQk8L2Rpdj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkkZm9ybS0+YWRkTW9uZXkoJ21vbmV5Jyk7Cg==</text>
+        <text encoding="base64">CQkJCQk8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4K</text>
       </register>
-      <register name="8" type="4">
-        <text>dump($creditNote);
-		exit;</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCQkJCTwvZGl2Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvKgo=</text>
+        <text encoding="base64">CQkJCTx0ZD4gLSA8L3RkPgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/view/viewButton/g</text>
