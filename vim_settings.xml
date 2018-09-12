@@ -2285,7 +2285,8 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseBusinessCaseDocumentGrid.php" timestamp="1536743106161">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseBusinessCaseDocumentGrid.php" timestamp="1536750366190">
+        <mark key="'" line="27" column="6" />
         <mark key="[" line="64" column="44" />
         <mark key="]" line="62" column="42" />
         <mark key="." line="62" column="42" />
@@ -7576,7 +7577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="36" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoicesGrid/InvoicesGrid.php" />
       <jump line="159" column="30" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoicesGrid/InvoicesGrid.php" />
       <jump line="162" column="29" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoicesGrid/InvoicesGrid.php" />
       <jump line="184" column="30" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoicesGrid/InvoicesGrid.php" />
@@ -7676,6 +7676,7 @@
       <jump line="719" column="37" filename="/home/www/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" />
       <jump line="986" column="22" filename="/home/www/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" />
       <jump line="1014" column="55" filename="/home/www/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" />
+      <jump line="27" column="6" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseBusinessCaseDocumentGrid.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -7686,7 +7687,7 @@
         <text>- Invoicing\Components\CreditNoteForm\ICreditNoteFormFactory</text>
       </register>
       <register name="/" type="4">
-        <text>computeChangeSet</text>
+        <text>view</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
@@ -7720,21 +7721,20 @@
         <text encoding="base64">dXNlIEludm9pY2luZ1xDb21wb25lbnRzXE9yZGVyc0dyaWRcT3JkZXJzR3JpZDsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/view/viewButton/g</text>
       </register>
     </registers>
     <search>
-      <last-search>computeChangeSet</last-search>
+      <last-search>view</last-search>
       <last-offset />
-      <last-pattern>computeChangeSet</last-pattern>
-      <last-replace>null</last-replace>
-      <last-substitute>NULL</last-substitute>
+      <last-pattern>view</last-pattern>
+      <last-replace>viewButton</last-replace>
+      <last-substitute>view</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>NULL</entry>
         <entry>hasField</entry>
         <entry>Null</entry>
         <entry>null</entry>
@@ -7754,9 +7754,9 @@
         <entry>compute</entry>
         <entry>computeChangeset</entry>
         <entry>computeChangeSet</entry>
+        <entry>view</entry>
       </history-search>
       <history-cmd>
-        <entry>241</entry>
         <entry>600</entry>
         <entry>425</entry>
         <entry>260</entry>
@@ -7776,6 +7776,7 @@
         <entry>353</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>%s/view/viewButton/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
