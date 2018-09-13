@@ -1337,7 +1337,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Presenters/BaseBusinessCaseDocumentPresenter.php" timestamp="1536829573184">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Presenters/BaseBusinessCaseDocumentPresenter.php" timestamp="1536831828115">
         <mark key="[" line="86" column="70" />
         <mark key="]" line="86" column="70" />
         <mark key="." line="86" column="70" />
@@ -2287,7 +2287,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseBusinessCaseDocumentGrid.php" timestamp="1536828679555">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseBusinessCaseDocumentGrid.php" timestamp="1536831804090">
         <mark key="'" line="27" column="6" />
         <mark key="[" line="147" column="16" />
         <mark key="]" line="147" column="16" />
@@ -4008,6 +4008,11 @@
         <mark key="[" line="30" column="53" />
         <mark key="]" line="31" column="4" />
         <mark key="." line="31" column="4" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseBusinessCaseDocumentFormControl.php" timestamp="1536835644525">
+        <mark key="[" line="35" column="34" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Storage/ExporterItem.php" timestamp="1535538512025">
         <mark key="[" line="14" column="42" />
@@ -7518,6 +7523,9 @@
         <mark key="]" line="11" column="30" />
         <mark key="." line="11" column="30" />
       </file>
+      <file name="/home/www/html/dv/adera/libs/vendor/symfony/property-access/PropertyAccessor.php" timestamp="1536833990966">
+        <mark key="'" line="19" column="32" />
+      </file>
       <file name="/home/www/vendor/nnb/bootstrap/src/Presenters/TSignPresenter.php" timestamp="1478597790930">
         <mark key="[" line="62" column="4" />
         <mark key="]" line="62" column="8" />
@@ -7585,10 +7593,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="53" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" />
-      <jump line="126" column="32" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" />
-      <jump line="133" column="85" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" />
-      <jump line="141" column="33" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" />
       <jump line="147" column="61" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/templates/formLayout.latte" />
       <jump line="49" column="30" filename="/home/www/html/dv/adera/Modules/Invoicing/CreditNote.php" />
       <jump line="72" column="18" filename="/home/www/html/dv/adera/Modules/Invoicing/CreditNote.php" />
@@ -7685,61 +7689,59 @@
       <jump line="151" column="36" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNotesGrid/CreditNotesGrid.php" />
       <jump line="157" column="36" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNotesGrid/CreditNotesGrid.php" />
       <jump line="165" column="44" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNotesGrid/CreditNotesGrid.php" />
+      <jump line="364" column="55" filename="/home/www/html/dv/adera/libs/vendor/symfony/property-access/PropertyAccessor.php" />
+      <jump line="813" column="21" filename="/home/www/html/dv/adera/libs/vendor/symfony/property-access/PropertyAccessor.php" />
+      <jump line="717" column="29" filename="/home/www/html/dv/adera/libs/vendor/symfony/property-access/PropertyAccessor.php" />
+      <jump line="19" column="32" filename="/home/www/html/dv/adera/libs/vendor/symfony/property-access/PropertyAccessor.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Builder</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJJHByb3BlcnR5ID0gKGFycmF5KSBJbmZsZWN0b3I6OnNpbmd1bGFyaXplKCRwcm9wZXJ0eSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Builder</text>
+        <text>Inflector::singularize(</text>
       </register>
       <register name="/" type="4">
-        <text>Invoice</text>
+        <text>Inflec</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
-        <text>dump($baseDocument);
-				dump($businessCase);
-				exit;</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJJHByb3BlcnR5ID0gKGFycmF5KSBJbmZsZWN0b3I6OnNpbmd1bGFyaXplKCRwcm9wZXJ0eSk7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gQ3JlZGl0Tm90ZSAkY3JlZGl0Tm90ZQoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0Q3JlZGl0Tm90ZShDcmVkaXROb3RlICRjcmVkaXROb3RlKQoJewoJCSR0aGlzLT5jcmVkaXROb3RlID0gJGNyZWRpdE5vdGU7Cgl9</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGFkZEl0ZW0oSW50ZXJ2ZW50aW9uSXRlbSAkaW50ZXJ2ZW50aW9uSXRlbSk6IHZvaWQKCXsKCQlpZiAoJHRoaXMtPml0ZW1zLT5jb250YWlucygkaW50ZXJ2ZW50aW9uSXRlbSkpIHsKCQkJcmV0dXJuOwoJCX0KCQkKCQkkdGhpcy0+aXRlbXNbXSA9ICRpbnRlcnZlbnRpb25JdGVtOwoJCSRpbnRlcnZlbnRpb25JdGVtLT5zZXRJbnRlcnZlbnRpb24oJHRoaXMpOwoJfQoJCgkKCXB1YmxpYyBmdW5jdGlvbiByZW1vdmVJdGVtKEludGVydmVudGlvbkl0ZW0gJGludGVydmVudGlvbkl0ZW0pOiB2b2lkCgl7CgkJJHRoaXMtPml0ZW1zLT5yZW1vdmVFbGVtZW50KCRpbnRlcnZlbnRpb25JdGVtKTsKCQkkaW50ZXJ2ZW50aW9uSXRlbS0+c2V0SW50ZXJ2ZW50aW9uKG51bGwpOwoJfQoKCS8qKgoJICogQHJldHVybiBDcmVkaXROb3RlfG51bGwKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGdldENyZWRpdE5vdGUoKTogP0NyZWRpdE5vdGUKCXsKCQlyZXR1cm4gJHRoaXMtPmNyZWRpdE5vdGU7Cgl9</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvLyB1bmNvbW1lbnQgaWYgeW91IHdhbnQgdG8gdXBkYXRlIG90aGVyIHNpZGUK</text>
+        <text encoding="base64">CQkJZHVtcCgkcHJvcGVydHkpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIEludGVydmVudGlvbkl0ZW1bXXxDb2xsZWN0aW9uCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRJdGVtcygpOiBDb2xsZWN0aW9uCgl7CgkJcmV0dXJuIG5ldyBSZWFkT25seUNvbGxlY3Rpb25XcmFwcGVyKCR0aGlzLT5pdGVtcyk7Cgl9</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvLyRjcmVkaXROb3RlLT5zZXRCdXNpbmVzc0Nhc2UoJHRoaXMpOwo=</text>
+        <text encoding="base64">CQkJJHByb3BlcnR5QWNjZXNzb3IgPSBQcm9wZXJ0eUFjY2Vzczo6Y3JlYXRlUHJvcGVydHlBY2Nlc3NvcigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkvLyB1bmNvbW1lbnQgaWYgeW91IHdhbnQgdG8gdXBkYXRlIG90aGVyIHNpZGUK</text>
+        <text encoding="base64">CQkJZXhpdDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkkdGhpcy0+Y3JlZGl0Tm90ZXMtPmFkZCgkY3JlZGl0Tm90ZSk7Cg==</text>
+        <text encoding="base64">CQkJZHVtcCgkcHJvcGVydHlBY2Nlc3Nvci0+Z2V0VmFsdWUoJHRoaXMsICRwcm9wZXJ0eSkpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>/**
-	 * @ORM\OneToOne(targetEntity=&quot;CreditNote&quot;, inversedBy=&quot;businessCase&quot;)
-	 * @var CreditNote
-	 */
-	private $creditNote;</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkvLyRwcm9wZXJ0eUFjY2Vzc29yLT5zZXRWYWx1ZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/view/viewButton/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Invoice</last-search>
+      <last-search>Inflec</last-search>
       <last-offset />
-      <last-pattern>Invoice</last-pattern>
+      <last-pattern>Inflec</last-pattern>
       <last-replace>viewButton</last-replace>
       <last-substitute>view</last-substitute>
       <last-dir>1</last-dir>
@@ -7747,7 +7749,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Null</entry>
         <entry>null</entry>
         <entry>reflection</entry>
         <entry>createInfo</entry>
@@ -7767,6 +7768,7 @@
         <entry>computeChangeSet</entry>
         <entry>view</entry>
         <entry>Invoice</entry>
+        <entry>Inflec</entry>
       </history-search>
       <history-cmd>
         <entry>600</entry>
