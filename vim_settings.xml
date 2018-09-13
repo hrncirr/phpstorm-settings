@@ -1337,15 +1337,18 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Presenters/BaseBusinessCaseDocumentPresenter.php" timestamp="1536743270562">
-        <mark key="[" line="62" column="53" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Presenters/BaseBusinessCaseDocumentPresenter.php" timestamp="1536829573184">
+        <mark key="[" line="86" column="70" />
+        <mark key="]" line="86" column="70" />
+        <mark key="." line="86" column="70" />
+        <mark key="^" line="86" column="70" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Offer.php" timestamp="1535538874933">
         <mark key="[" line="32" column="13" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Intervention.php" timestamp="1535538918495">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Intervention.php" timestamp="1536827693376">
         <mark key="[" line="43" column="13" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
@@ -2124,10 +2127,10 @@
         <mark key="]" line="37" column="37" />
         <mark key="." line="37" column="37" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/BusinessCase.php" timestamp="1532694208081">
-        <mark key="[" line="33" column="69" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/BusinessCase.php" timestamp="1536827916993">
+        <mark key="[" line="181" column="15" />
+        <mark key="]" line="181" column="15" />
+        <mark key="." line="181" column="15" />
       </file>
       <file name="/home/www/vendor/hrncirr/forms/src/Application/UI/FormControl.php" timestamp="1497536025998">
         <mark key="[" line="72" column="48" />
@@ -2284,11 +2287,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseBusinessCaseDocumentGrid.php" timestamp="1536757338703">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseBusinessCaseDocumentGrid.php" timestamp="1536828679555">
         <mark key="'" line="27" column="6" />
-        <mark key="[" line="128" column="12" />
-        <mark key="]" line="128" column="12" />
-        <mark key="." line="128" column="12" />
+        <mark key="[" line="147" column="16" />
+        <mark key="]" line="147" column="16" />
+        <mark key="." line="147" column="16" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/Components/BuildingsBreadcrumbsControl/BuildingsBreadcrumbsControl.php" timestamp="1507905590156">
         <mark key="[" line="13" column="19" />
@@ -5085,10 +5088,10 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="111" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/CreditNote.php" timestamp="1536746641175">
-        <mark key="[" line="129" column="40" />
-        <mark key="]" line="55" column="23" />
-        <mark key="." line="55" column="23" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/CreditNote.php" timestamp="1536828058441">
+        <mark key="[" line="116" column="6" />
+        <mark key="]" line="113" column="95" />
+        <mark key="." line="113" column="95" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/pnotify/src/Adapters/DefaultPhraseAdapter.php" timestamp="1523001963179">
         <mark key="[" line="39" column="0" />
@@ -5196,8 +5199,8 @@
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectsGrid/SubjectsGrid.php" timestamp="1531999417864">
         <mark key="[" line="73" column="47" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1536671660036">
-        <mark key="[" line="3" column="4" />
+      <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1536828707364">
+        <mark key="[" line="4" column="5" />
       </file>
       <file name="/home/www/html/dv/cms/src/Admin/AdminModule/Presenters/BasePresenter.php" timestamp="1506507163228">
         <mark key="[" line="31" column="0" />
@@ -7685,12 +7688,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dump($prop['property']);
-			dump($from['property']);
-			dump('----');</text>
+        <text>Builder</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IFxSZWZsZWN0aW9uQ2xhc3MoJHRoaXMpKS0+Z2V0U2hvcnROYW1lKA==</text>
+        <text>Builder</text>
       </register>
       <register name="/" type="4">
         <text>Invoice</text>
@@ -7699,34 +7700,37 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
-        <text>dump($prop['property']);
-			dump($from['property']);
-			dump('----');</text>
+        <text>dump($baseDocument);
+				dump($businessCase);
+				exit;</text>
       </register>
       <register name="2" type="4">
-        <text>dump($conf);
-			dump($prop);</text>
+        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gQ3JlZGl0Tm90ZSAkY3JlZGl0Tm90ZQoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0Q3JlZGl0Tm90ZShDcmVkaXROb3RlICRjcmVkaXROb3RlKQoJewoJCSR0aGlzLT5jcmVkaXROb3RlID0gJGNyZWRpdE5vdGU7Cgl9</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkkZnJvbSA9IHN0cnRvbG93ZXIoKG5ldyBcUmVmbGVjdGlvbkNsYXNzKCRjbGFzc05hbWUpKS0+Z2V0U2hvcnROYW1lKCkpOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGFkZEl0ZW0oSW50ZXJ2ZW50aW9uSXRlbSAkaW50ZXJ2ZW50aW9uSXRlbSk6IHZvaWQKCXsKCQlpZiAoJHRoaXMtPml0ZW1zLT5jb250YWlucygkaW50ZXJ2ZW50aW9uSXRlbSkpIHsKCQkJcmV0dXJuOwoJCX0KCQkKCQkkdGhpcy0+aXRlbXNbXSA9ICRpbnRlcnZlbnRpb25JdGVtOwoJCSRpbnRlcnZlbnRpb25JdGVtLT5zZXRJbnRlcnZlbnRpb24oJHRoaXMpOwoJfQoJCgkKCXB1YmxpYyBmdW5jdGlvbiByZW1vdmVJdGVtKEludGVydmVudGlvbkl0ZW0gJGludGVydmVudGlvbkl0ZW0pOiB2b2lkCgl7CgkJJHRoaXMtPml0ZW1zLT5yZW1vdmVFbGVtZW50KCRpbnRlcnZlbnRpb25JdGVtKTsKCQkkaW50ZXJ2ZW50aW9uSXRlbS0+c2V0SW50ZXJ2ZW50aW9uKG51bGwpOwoJfQoKCS8qKgoJICogQHJldHVybiBDcmVkaXROb3RlfG51bGwKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGdldENyZWRpdE5vdGUoKTogP0NyZWRpdE5vdGUKCXsKCQlyZXR1cm4gJHRoaXMtPmNyZWRpdE5vdGU7Cgl9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJJ2NsYXNzJyA9PiAnb2ZmZXInCg==</text>
+        <text encoding="base64">CQkvLyB1bmNvbW1lbnQgaWYgeW91IHdhbnQgdG8gdXBkYXRlIG90aGVyIHNpZGUK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIEludGVydmVudGlvbkl0ZW1bXXxDb2xsZWN0aW9uCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRJdGVtcygpOiBDb2xsZWN0aW9uCgl7CgkJcmV0dXJuIG5ldyBSZWFkT25seUNvbGxlY3Rpb25XcmFwcGVyKCR0aGlzLT5pdGVtcyk7Cgl9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQk8L2Rpdj4K</text>
+        <text encoding="base64">CQkvLyRjcmVkaXROb3RlLT5zZXRCdXNpbmVzc0Nhc2UoJHRoaXMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQk8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4K</text>
+        <text encoding="base64">CQkvLyB1bmNvbW1lbnQgaWYgeW91IHdhbnQgdG8gdXBkYXRlIG90aGVyIHNpZGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCTwvZGl2Pgo=</text>
+        <text encoding="base64">CQkkdGhpcy0+Y3JlZGl0Tm90ZXMtPmFkZCgkY3JlZGl0Tm90ZSk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCTx0ZD4gLSA8L3RkPgo=</text>
+      <register name="9" type="4">
+        <text>/**
+	 * @ORM\OneToOne(targetEntity=&quot;CreditNote&quot;, inversedBy=&quot;businessCase&quot;)
+	 * @var CreditNote
+	 */
+	private $creditNote;</text>
       </register>
       <register name=":" type="4">
         <text>%s/view/viewButton/g</text>
