@@ -4489,10 +4489,10 @@
         <mark key="]" line="173" column="106" />
         <mark key="." line="173" column="106" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNoteForm/templates/CreditNoteForm.latte" timestamp="1536753963618">
-        <mark key="[" line="96" column="28" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNoteForm/templates/CreditNoteForm.latte" timestamp="1536839509386">
+        <mark key="[" line="111" column="20" />
+        <mark key="]" line="111" column="20" />
+        <mark key="." line="111" column="20" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/FormParts/TButtonsFormPart.php" timestamp="1532075873960">
         <mark key="[" line="65" column="37" />
@@ -7696,10 +7696,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, unique=true</text>
+        <text>{input priceVat} {*</text>
       </register>
       <register name="-" type="4">
-        <text>, unique=true</text>
+        <text>{input priceVat} {*</text>
       </register>
       <register name="/" type="4">
         <text>Inflec</text>
