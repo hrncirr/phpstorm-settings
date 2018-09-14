@@ -1338,6 +1338,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Presenters/BaseBusinessCaseDocumentPresenter.php" timestamp="1536831828115">
+        <mark key="[" line="86" column="70" />
+        <mark key="]" line="86" column="70" />
+        <mark key="." line="86" column="70" />
+        <mark key="^" line="86" column="70" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Offer.php" timestamp="1535538874933">
         <mark key="[" line="32" column="13" />
         <mark key="]" line="15" column="0" />
@@ -5913,10 +5919,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNoteForm/CreditNoteForm.php" timestamp="1536843386270">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNoteForm/CreditNoteForm.php" timestamp="1536911815128">
+        <mark key="[" line="60" column="61" />
+        <mark key="]" line="60" column="11" />
+        <mark key="." line="60" column="11" />
+        <mark key="^" line="60" column="11" />
       </file>
       <file name="/home/www/vendor/hrncirr/media/src/Storages/ImageFormat.php" timestamp="1493879298350">
         <mark key="[" line="23" column="4" />
@@ -7707,11 +7714,11 @@
       <jump line="66" column="12" filename="/home/www/html/dv/adera/www/js/invoicing.credit.note.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">NlNVUnRkN0UK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JHRoaXMtPmNyZWRpdE5vdGUtPmdldEJ1c2luZXNzQ2FzZSgpICE9PSBudWxsICYmIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">eyogJGNyZWRpdE5vdGUtPmdldEZ1bGxQcmljZVdpdGhvdXRWYXQoKXxtb25leSAqfQ==</text>
+        <text encoding="base64">JHRoaXMtPmNyZWRpdE5vdGUtPmdldEJ1c2luZXNzQ2FzZSgpICE9PSBudWxsICYmIA==</text>
       </register>
       <register name="/" type="4">
         <text>price</text>
@@ -7719,32 +7726,32 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">NlNVUnRkN0UK</text>
+      <register name="1" type="4">
+        <text encoding="base64">aWYgKCR0aGlzLT5jcmVkaXROb3RlLT5nZXRCdXNpbmVzc0Nhc2UoKSAhPT0gbnVsbCAmJiAkdGhpcy0+Y3JlZGl0Tm90ZS0+Z2V0SW52b2ljZU51bWJlcigpLT5nZXRJbnZvaWNlKCkgIT09IG51bGwpIHsKCQkJJHRoaXMtPmNyZWRpdE5vdGUtPnNldEludm9pY2VOdW1iZXIoJHRoaXMtPmNyZWRpdE5vdGUtPmdldEJ1c2luZXNzQ2FzZSgpLT5nZXRJbnZvaWNlKCktPmdldE51bWJlcigpKTsKCQl9</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">e2NvbnRyb2wgZ3JpZH0K</text>
+      <register name="2" type="4">
+        <text encoding="base64">aWYgKCR0aGlzLT5jcmVkaXROb3RlLT5nZXRJbnZvaWNlTnVtYmVyKCkgPT09IG51bGwpIHsKCQkJJHRoaXMtPmNyZWRpdE5vdGUtPnNldEludm9pY2VOdW1iZXIoJHRoaXMtPmNyZWRpdE5vdGUtPmdldEJ1c2luZXNzQ2FzZSgpLT5nZXRJbnZvaWNlKCktPmdldE51bWJlcigpKTsKCQl9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEludm9pY2luZ1xDb21wb25lbnRzXE9yZGVyc0dyaWRcT3JkZXJzR3JpZDsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXNlIEludm9pY2luZ1xDb21wb25lbnRzXE9yZGVyc0dyaWRcSU9yZGVyc0dyaWRGYWN0b3J5Owo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">cHJvdGVjdGVkIGZ1bmN0aW9uIGNyZWF0ZUNvbXBvbmVudEdyaWQoSU9yZGVyc0dyaWRGYWN0b3J5ICRmYWN0b3J5KTogT3JkZXJzR3JpZAoJewoJCXJldHVybiAkZmFjdG9yeS0+Y3JlYXRlKCk7Cgl9</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">CQkK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQlkdW1wKCR0aGlzLT5jcmVkaXROb3RlKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">NlNVUnRkN0UK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">e2NvbnRyb2wgZ3JpZH0K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkkY3JlZGl0Tm90ZS0+c2V0UHJpY2UoKTsK</text>
+        <text encoding="base64">dXNlIEludm9pY2luZ1xDb21wb25lbnRzXE9yZGVyc0dyaWRcT3JkZXJzR3JpZDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQk8L2Rpdj4K</text>
+        <text encoding="base64">dXNlIEludm9pY2luZ1xDb21wb25lbnRzXE9yZGVyc0dyaWRcSU9yZGVyc0dyaWRGYWN0b3J5Owo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJPGRpdiBjbGFzcz0iaW5wdXQtZ3JvdXAtYWRkb24iPiU8L2Rpdj4K</text>
+      <register name="9" type="4">
+        <text encoding="base64">cHJvdGVjdGVkIGZ1bmN0aW9uIGNyZWF0ZUNvbXBvbmVudEdyaWQoSU9yZGVyc0dyaWRGYWN0b3J5ICRmYWN0b3J5KTogT3JkZXJzR3JpZAoJewoJCXJldHVybiAkZmFjdG9yeS0+Y3JlYXRlKCk7Cgl9</text>
       </register>
       <register name=":" type="4">
         <text>%s/view/viewButton/g</text>
