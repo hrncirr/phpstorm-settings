@@ -1849,10 +1849,10 @@
       <file name="/home/www/html/dv/adera/Modules/Storage/Components/ExportForm/ReceiptForm.php" timestamp="1533293670641">
         <mark key="[" line="4" column="29" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/xml-serializer/src/Manager.php" timestamp="1536927783444">
-        <mark key="[" line="132" column="44" />
-        <mark key="]" line="132" column="45" />
-        <mark key="." line="132" column="45" />
+      <file name="/home/www/lib/vendor/hrncirr/xml-serializer/src/Manager.php" timestamp="1536929470238">
+        <mark key="[" line="110" column="30" />
+        <mark key="]" line="134" column="45" />
+        <mark key="." line="134" column="45" />
       </file>
       <file name="/home/www/html/dv/cms/src/Options/DI/OptionsExtension.php" timestamp="1497438818042">
         <mark key="[" line="1" column="0" />
@@ -6144,7 +6144,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536926078725">
+      <file name="/Dummy.txt" timestamp="1536929666925">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -7289,10 +7289,10 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/xml-serializer/src/Exceptions/ClassNotFoundException.php" timestamp="1536927773821">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="/home/www/lib/vendor/hrncirr/xml-serializer/src/Exceptions/ClassNotFoundException.php" timestamp="1536929627140">
+        <mark key="[" line="17" column="47" />
+        <mark key="]" line="17" column="47" />
+        <mark key="." line="17" column="47" />
       </file>
       <file name="/home/www/html/dv/cms/app/Extensions/Configurators/ExtensionConfig.php" timestamp="1505295912083">
         <mark key="[" line="15" column="0" />
@@ -7708,11 +7708,11 @@
       <jump line="33" column="22" filename="/home/www/lib/vendor/hrncirr/xml-serializer/src/Php/TObject.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkkbWVzc2FnZSA9IHNwcmludGYoJ0NsYXNzICVzIG5vdCBmb3VuZC4nLCAkY2xhc3NOYW1lKTsK</text>
+      <register name="&quot;" type="4">
+        <text>, $namespace = ''</text>
       </register>
       <register name="-" type="4">
-        <text>$class)</text>
+        <text>, $namespace = ''</text>
       </register>
       <register name="/" type="4">
         <text>uname</text>
