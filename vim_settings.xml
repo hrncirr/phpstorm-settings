@@ -1682,10 +1682,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/app/config/extensions.neon" timestamp="1536328414753">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="/home/www/html/nnb/patient-studies/app/config/extensions.neon" timestamp="1537274362252">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/history/src/Components/HistoryControl/templates/SideBySide.latte" timestamp="1476880380290">
         <mark key="[" line="0" column="0" />
@@ -3608,10 +3608,10 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/app/config/services.neon" timestamp="1536221873635">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="4" />
-        <mark key="." line="13" column="4" />
+      <file name="/home/www/html/nnb/patient-studies/app/config/services.neon" timestamp="1537274368642">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="16" column="4" />
+        <mark key="." line="16" column="4" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Documents/components/TagsGrid/TagsGrid.php" timestamp="1484215509747">
         <mark key="[" line="38" column="19" />
@@ -5215,7 +5215,7 @@
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectsGrid/SubjectsGrid.php" timestamp="1531999417864">
         <mark key="[" line="73" column="47" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1537196845252">
+      <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1537274288532">
         <mark key="[" line="72" column="8" />
       </file>
       <file name="/home/www/html/dv/cms/src/Admin/AdminModule/Presenters/BasePresenter.php" timestamp="1506507163228">
@@ -7709,8 +7709,8 @@
       <jump line="33" column="22" filename="/home/www/lib/vendor/hrncirr/xml-serializer/src/Php/TObject.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, $namespace = ''</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlhdXRvd2lyZWQ6IG9mZgo=</text>
       </register>
       <register name="-" type="4">
         <text>, $namespace = ''</text>
@@ -7722,9 +7722,18 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CQlhdXRvd2lyZWQ6IG9mZgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">a2R5YnkuZXZlbnRzLnN5bWZvbnlQcm94eToK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CQkkbWVzc2FnZSA9IHNwcmludGYoJ0NsYXNzICVzIG5vdCBmb3VuZC4nLCAkY2xhc3NOYW1lKTsK</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>/**
 	 * @param string      $xml
 	 * @param string|null $namespace
@@ -7734,26 +7743,17 @@
 	 * @return array|\JMS\Serializer\scalar|object
 	 */</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQlyZXR1cm4gbnVsbDsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXFNtYXJ0T2JqZWN0Owo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXFNtYXJ0T2JqZWN0Owo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlTbWFydE9iamVjdDo6Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlpZiAoIU9iamVjdEhlbHBlcnM6Omhhc1Byb3BlcnR5KCRjbGFzcywgJG5hbWUpKSB7Cg==</text>
+        <text encoding="base64">dXNlIE5ldHRlXFNtYXJ0T2JqZWN0Owo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">dXNlIE5ldHRlXFNtYXJ0T2JqZWN0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXVzZSBTbWFydE9iamVjdDsK</text>
+        <text encoding="base64">CQlTbWFydE9iamVjdDo6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/view/viewButton/g</text>
