@@ -1709,7 +1709,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/html/nnb/passportization/app/MongoDBConnection.php" timestamp="1537356140621">
+      <file name="/home/www/html/nnb/passportization/app/MongoDBConnection.php" timestamp="1537358236555">
         <mark key="[" line="31" column="8" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
@@ -4916,6 +4916,9 @@
         <mark key="]" line="51" column="12" />
         <mark key="." line="51" column="12" />
       </file>
+      <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Components/TechnicalRequisitionsGrid/TechnicalRequisitionsGrid.php" timestamp="1537358243422">
+        <mark key="[" line="538" column="37" />
+      </file>
       <file name="/home/www/html/dv/adera/www/js/form.default.submit.js" timestamp="1519319163088">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -7710,7 +7713,7 @@
         <text>{input send}</text>
       </register>
       <register name="/" type="4">
-        <text>uname</text>
+        <text>count</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
@@ -7747,9 +7750,9 @@
       </register>
     </registers>
     <search>
-      <last-search>uname</last-search>
+      <last-search>count</last-search>
       <last-offset />
-      <last-pattern>uname</last-pattern>
+      <last-pattern>count</last-pattern>
       <last-replace>viewButton</last-replace>
       <last-substitute>view</last-substitute>
       <last-dir>1</last-dir>
@@ -7757,7 +7760,6 @@
     </search>
     <history>
       <history-search>
-        <entry>createInfo</entry>
         <entry>DocumentCopy</entry>
         <entry>createNew</entry>
         <entry>Catalog</entry>
@@ -7777,6 +7779,7 @@
         <entry>Inflec</entry>
         <entry>price</entry>
         <entry>uname</entry>
+        <entry>count</entry>
       </history-search>
       <history-cmd>
         <entry>600</entry>
