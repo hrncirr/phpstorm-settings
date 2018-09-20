@@ -28,6 +28,9 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/app/config/extensions/events.neon" timestamp="1537433204283">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Folders/components/ConversionsForm/FolderSortTypeForm.php" timestamp="1483687571405">
         <mark key="[" line="31" column="4" />
         <mark key="]" line="31" column="4" />
@@ -421,6 +424,9 @@
         <mark key="[" line="44" column="59" />
         <mark key="]" line="44" column="59" />
         <mark key="." line="44" column="59" />
+      </file>
+      <file name="/home/www/html/dv/adera/app/config/extensions/entity-loader.neon" timestamp="1537433310997">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/Tabs/src/Components/TabsControl/TabsControl.latte" timestamp="1487256325138">
         <mark key="[" line="11" column="44" />
@@ -5216,8 +5222,10 @@
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectsGrid/SubjectsGrid.php" timestamp="1531999417864">
         <mark key="[" line="73" column="47" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1537274288532">
-        <mark key="[" line="72" column="8" />
+      <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1537433324461">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="/home/www/html/dv/cms/src/Admin/AdminModule/Presenters/BasePresenter.php" timestamp="1506507163228">
         <mark key="[" line="31" column="0" />
@@ -6156,8 +6164,8 @@
         <mark key="]" line="40" column="4" />
         <mark key="." line="40" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/config.neon" timestamp="1536327670259">
-        <mark key="[" line="16" column="5" />
+      <file name="/home/www/html/dv/adera/app/config/config.neon" timestamp="1537433116443">
+        <mark key="[" line="20" column="22" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
@@ -7714,8 +7722,12 @@
       <jump line="33" column="22" filename="/home/www/lib/vendor/hrncirr/xml-serializer/src/Php/TObject.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEluc3RhbnRlXEJvb3RzdHJhcDNSZW5kZXJlclxSZW5kZXJNb2RlRW51bTsK</text>
+      <register name="&quot;" type="4">
+        <text>contributte.cache: Contributte\Cache\DI\CacheFactoryExtension
+
+	arachne.doctrine: Arachne\Doctrine\DI\DoctrineExtension
+	arachne.serviceCollections: Arachne\ServiceCollections\DI\ServiceCollectionsExtension
+	arachne.entityLoader: Arachne\EntityLoader\DI\EntityLoaderExtension</text>
       </register>
       <register name="-" type="4">
         <text>!</text>
@@ -7726,32 +7738,36 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dXNlIEluc3RhbnRlXEJvb3RzdHJhcDNSZW5kZXJlclxSZW5kZXJNb2RlRW51bTsK</text>
+      <register name="1" type="4">
+        <text>contributte.cache: Contributte\Cache\DI\CacheFactoryExtension
+
+	arachne.doctrine: Arachne\Doctrine\DI\DoctrineExtension
+	arachne.serviceCollections: Arachne\ServiceCollections\DI\ServiceCollectionsExtension
+	arachne.entityLoader: Arachne\EntityLoader\DI\EntityLoaderExtension</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEluc3RhbnRlXEJvb3RzdHJhcDNSZW5kZXJlclxCb290c3RyYXBSZW5kZXJlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5zdHVkeS0+Z2V0SWQoKSkgewoJCQkkdGhpcy0+b25Nb2RhbEhpZGVbXSA9IGZ1bmN0aW9uICgpIHsKCQkJCSR0aGlzLT5kZWxldGVNZWRpYUltcG9ydCgkdGhpcy0+c3R1ZHkpOwoJCQkJJHRoaXMtPmdldFByZXNlbnRlcigpLT50ZXJtaW5hdGUoKTsKCQkJfTsKCQl9IGVsc2U=</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQlhdXRvd2lyZWQ6IG9mZgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCSR0aGlzLT5lbC0+cmVsZWFzZUxvY2soJHRoaXMtPnN0dWR5KTsK</text>
+        <text encoding="base64">CWtkeWJ5LmV2ZW50cy5zeW1mb255UHJveHk6Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">c2VydmljZXM6CglrZHlieS5ldmVudHMuc3ltZm9ueVByb3h5OgoJCWF1dG93aXJlZDogb2ZmCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CWtkeWJ5LmV2ZW50czogS2R5YnlcRXZlbnRzXERJXEV2ZW50c0V4dGVuc2lvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkvLyRmb3JtLT5nZXRSZW5kZXJlcigpLT5zZXRMYWJlbENvbHVtbnMoMyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkvLyRmb3JtLT5zZXRSZW5kZXJlcihuZXcgQm9vdHN0cmFwUmVuZGVyZXIoUmVuZGVyTW9kZUVudW06OkhPUklaT05UQUwpKTsK</text>
+        <text encoding="base64">CWNvbnRyaWJ1dHRlLmV2ZW50RGlzcGF0Y2hlci5leHRyYS5hcHBsaWNhdGlvbjogQ29udHJpYnV0dGVcRXZlbnRzXEV4dHJhXERJXEV2ZW50QXBwbGljYXRpb25CcmlkZ2VFeHRlbnNpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvL2R1bXAoJGZvcm0tPmdldFJlbmRlcmVyKCkpOwo=</text>
+        <text encoding="base64">CWNvbnRyaWJ1dHRlLmV2ZW50RGlzcGF0Y2hlcjogQ29udHJpYnV0dGVcRXZlbnREaXNwYXRjaGVyXERJXEV2ZW50RGlzcGF0Y2hlckV4dGVuc2lvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/view/viewButton/g</text>
