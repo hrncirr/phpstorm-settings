@@ -425,8 +425,10 @@
         <mark key="]" line="44" column="59" />
         <mark key="." line="44" column="59" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/extensions/entity-loader.neon" timestamp="1537433310997">
-        <mark key="[" line="0" column="0" />
+      <file name="/home/www/html/dv/adera/app/config/extensions/entity-loader.neon" timestamp="1537436363149">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="4" />
+        <mark key="." line="2" column="4" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/Tabs/src/Components/TabsControl/TabsControl.latte" timestamp="1487256325138">
         <mark key="[" line="11" column="44" />
@@ -5222,8 +5224,8 @@
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectsGrid/SubjectsGrid.php" timestamp="1531999417864">
         <mark key="[" line="73" column="47" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1537433324461">
-        <mark key="[" line="0" column="0" />
+      <file name="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" timestamp="1537436368582">
+        <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
@@ -6164,8 +6166,8 @@
         <mark key="]" line="40" column="4" />
         <mark key="." line="40" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/config.neon" timestamp="1537433116443">
-        <mark key="[" line="20" column="22" />
+      <file name="/home/www/html/dv/adera/app/config/config.neon" timestamp="1537435804363">
+        <mark key="[" line="20" column="27" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
@@ -7723,14 +7725,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>contributte.cache: Contributte\Cache\DI\CacheFactoryExtension
-
-	arachne.doctrine: Arachne\Doctrine\DI\DoctrineExtension
-	arachne.serviceCollections: Arachne\ServiceCollections\DI\ServiceCollectionsExtension
-	arachne.entityLoader: Arachne\EntityLoader\DI\EntityLoaderExtension</text>
+        <text>arachne.doctrine: Arachne\Doctrine\DI\DoctrineExtension</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>arachne.doctrine: Arachne\Doctrine\DI\DoctrineExtension</text>
       </register>
       <register name="/" type="4">
         <text>count</text>
