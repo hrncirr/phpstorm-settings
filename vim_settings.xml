@@ -2095,6 +2095,9 @@
       <file name="/home/www/html/nnb/patient-studies/src/File/File.php" timestamp="1536316950206">
         <mark key="[" line="14" column="20" />
       </file>
+      <file name="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/ITreeControlFactory.php" timestamp="1537446913375">
+        <mark key="[" line="8" column="23" />
+      </file>
       <file name="/home/www/lib/vendor/zenify/doctrine-filters/src/FilterManager.php" timestamp="1487144095142">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -2601,6 +2604,12 @@
         <mark key="]" line="203" column="0" />
         <mark key="." line="203" column="0" />
       </file>
+      <file name="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" timestamp="1537448323925">
+        <mark key="'" line="84" column="20" />
+        <mark key="[" line="54" column="23" />
+        <mark key="]" line="791" column="0" />
+        <mark key="." line="791" column="0" />
+      </file>
       <file name="/home/www/vendor/hrncirr/header/src/Components/JsControl/JsControl.php" timestamp="1496836099298">
         <mark key="[" line="148" column="64" />
         <mark key="]" line="148" column="64" />
@@ -2961,7 +2970,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/app/UI/BaseControl.php" timestamp="1537446336038">
+      <file name="/home/www/html/nnb/patient-studies/app/UI/BaseControl.php" timestamp="1537447997132">
         <mark key="[" line="2" column="14" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Exceptions/DocumentAlreadyExistsException.php" timestamp="1488369264017">
@@ -5357,8 +5366,8 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/jstree/src/Components/ToolbarControl/IToolbarControlFactory.php" timestamp="1537446678292">
-        <mark key="[" line="8" column="23" />
+      <file name="/home/www/vendor/hrncirr/jstree/src/Components/ToolbarControl/IToolbarControlFactory.php" timestamp="1537446941063">
+        <mark key="[" line="12" column="0" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/App/TechnicalRequestions/DI/config/services.neon" timestamp="1485346189586">
         <mark key="[" line="1" column="55" />
@@ -5907,6 +5916,11 @@
       </file>
       <file name="/home/www/html/nnb/patient-studies/src/Patient/Components/PatientsGrid/IPatientsGridFactory.php" timestamp="1536223816072">
         <mark key="[" line="4" column="10" />
+      </file>
+      <file name="/home/www/vendor/hrncirr/jstree/src/Components/ToolbarControl/ToolbarControl.php" timestamp="1537446900558">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="44" column="41" />
+        <mark key="." line="44" column="41" />
       </file>
       <file name="/home/www/html/dv/cms/src/Users/AdminModule/Presenters/DefaultPresenter.php" timestamp="1491991410389">
         <mark key="[" line="32" column="59" />
@@ -7672,10 +7686,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="28" filename="/home/www/html/dv/adera/Modules/Invoicing/CreditNote.php" />
-      <jump line="197" column="27" filename="/home/www/html/dv/adera/Modules/Invoicing/CreditNote.php" />
-      <jump line="202" column="27" filename="/home/www/html/dv/adera/Modules/Invoicing/CreditNote.php" />
-      <jump line="204" column="48" filename="/home/www/html/dv/adera/Modules/Invoicing/CreditNote.php" />
       <jump line="206" column="35" filename="/home/www/html/dv/adera/Modules/Invoicing/CreditNote.php" />
       <jump line="298" column="31" filename="/home/www/html/dv/adera/Modules/Invoicing/CreditNote.php" />
       <jump line="20" column="57" filename="/home/www/html/dv/adera/Modules/Invoicing/CreditNote.php" />
@@ -7772,16 +7782,20 @@
       <jump line="56" column="39" filename="/home/www/html/dv/adera/www/js/invoicing.credit.note.js" />
       <jump line="66" column="12" filename="/home/www/html/dv/adera/www/js/invoicing.credit.note.js" />
       <jump line="33" column="22" filename="/home/www/lib/vendor/hrncirr/xml-serializer/src/Php/TObject.php" />
+      <jump line="349" column="33" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
+      <jump line="44" column="36" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
+      <jump line="268" column="26" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
+      <jump line="84" column="20" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CQkK</text>
       </register>
       <register name="-" type="4">
-        <text>call_user_func</text>
+        <text>'Hrncirr\JsTree\Components\TreeControl\TreeControl'</text>
       </register>
       <register name="/" type="4">
-        <text>handleOnModalHide</text>
+        <text>onConfigure</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
@@ -7790,50 +7804,71 @@
         <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlkdW1wKCRvdXQpOwo=</text>
+        <text encoding="base64">CQkkdGVtcGxhdGUgPSAkdGhpcy0+Z2V0VGVtcGxhdGUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkvKiogQHZhciBUZW1wbGF0ZSAkdGVtcGxhdGUgKi8K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQlkdW1wKCdzc3NzcycpOwo=</text>
+      <register name="4" type="4">
+        <text>/**
+	 * @param mixed $id
+	 *
+	 * @throws ForbiddenActionException
+	 */</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>/**
+	 * @param mixed   $id
+	 * @param mixed   $parentId
+	 * @param integer $position
+	 *
+	 * @throws ForbiddenActionException
+	 */</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkkb3V0ID0gJHBhcnQoKTsK</text>
+      <register name="6" type="4">
+        <text>/**
+	 * @throws ForbiddenActionException
+	 */</text>
       </register>
       <register name="7" type="4">
-        <text>if (!\is_callable($part)) {
-			throw new InvalidStateException(sprintf('&quot;%s&quot; must be callable.', \gettype($part)));
-		}</text>
+        <text>/**
+	 * @param mixed $id
+	 * @param mixed $text
+	 *
+	 * @throws ForbiddenActionException
+	 */</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXEJyaWRnZXNcQXBwbGljYXRpb25MYXR0ZVxUZW1wbGF0ZTsK</text>
+      <register name="8" type="4">
+        <text>/**
+	 * @param     $parentId
+	 * @param int $position
+	 *
+	 * @throws ForbiddenActionException
+	 */</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">LyoqIEB2YXIgVGVtcGxhdGUgJHRlbXBsYXRlICovCgkJJHRlbXBsYXRlID0gJHRoaXMtPmdldFRlbXBsYXRlKCk7</text>
+        <text>/**
+	 * @param string $id
+	 *
+	 * @throws ForbiddenActionException
+	 * @throws InvalidArgumentException
+	 */</text>
       </register>
       <register name=":" type="4">
-        <text>%s/view/viewButton/g</text>
+        <text>%s/NULL/null/g</text>
       </register>
     </registers>
     <search>
-      <last-search>handleOnModalHide</last-search>
+      <last-search>onConfigure</last-search>
       <last-offset />
-      <last-pattern>handleOnModalHide</last-pattern>
-      <last-replace>viewButton</last-replace>
-      <last-substitute>view</last-substitute>
+      <last-pattern>onConfigure</last-pattern>
+      <last-replace>null</last-replace>
+      <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Catalog</entry>
-        <entry>doctrinePhone</entry>
-        <entry>itemGroups</entry>
-        <entry>findUtils</entry>
         <entry>Workers</entry>
         <entry>Výdejky</entry>
         <entry>recompute</entry>
@@ -7850,6 +7885,10 @@
         <entry>count</entry>
         <entry>onModalHide</entry>
         <entry>handleOnModalHide</entry>
+        <entry>NULL</entry>
+        <entry>validate</entry>
+        <entry>handleSelect</entry>
+        <entry>onConfigure</entry>
       </history-search>
       <history-cmd>
         <entry>600</entry>
@@ -7867,11 +7906,11 @@
         <entry>%s/includeInAll/copyTo/g</entry>
         <entry>%s/string/text/g</entry>
         <entry>%s/invoice/creditNote/g</entry>
-        <entry>%s/NULL/null/g</entry>
         <entry>353</entry>
         <entry>q</entry>
         <entry>w</entry>
         <entry>%s/view/viewButton/g</entry>
+        <entry>%s/NULL/null/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
