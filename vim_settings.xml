@@ -355,7 +355,7 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/DI/InvoicingExtension.php" timestamp="1537518570346">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/DI/InvoicingExtension.php" timestamp="1537522327659">
         <mark key="[" line="82" column="43" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -1678,12 +1678,6 @@
         <mark key="]" line="22" column="4" />
         <mark key="." line="22" column="4" />
       </file>
-      <file name="/home/www/vendor/hrncirr/jstree/src/DataSources/ArrayDataSource.php" timestamp="1537515392762">
-        <mark key="[" line="118" column="22" />
-        <mark key="]" line="118" column="22" />
-        <mark key="." line="118" column="22" />
-        <mark key="^" line="74" column="35" />
-      </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Forms/Controls/ContactLastNameInput.php" timestamp="1511355480075">
         <mark key="[" line="24" column="13" />
         <mark key="]" line="7" column="0" />
@@ -2090,6 +2084,11 @@
       </file>
       <file name="/home/www/vendor/hrncirr/jstree/src/Plugins/WholeRow/IWholeRowPluginFactory.php" timestamp="1537451165761">
         <mark key="[" line="20" column="28" />
+      </file>
+      <file name="/home/www/html/nnb/patient-studies/src/Study/DI/StudyExtension.php" timestamp="1537522345739">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Presenters/SubjectsImportPresenter.php" timestamp="1518014001230">
         <mark key="[" line="52" column="8" />
@@ -3927,8 +3926,8 @@
         <mark key="]" line="107" column="4" />
         <mark key="." line="107" column="4" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/src/Study/Events/StudyFileImportSubscriber.php" timestamp="1537518651801">
-        <mark key="[" line="4" column="10" />
+      <file name="/home/www/html/nnb/patient-studies/src/Study/Events/StudyFileImportSubscriber.php" timestamp="1537522150735">
+        <mark key="[" line="55" column="34" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/DI/Presenters/InquiriesPresenter.php" timestamp="1504095901554">
         <mark key="[" line="15" column="0" />
@@ -5013,8 +5012,8 @@
         <mark key="]" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/src/Study/Components/StudiesGrid/StudiesGrid.php" timestamp="1537518659891">
-        <mark key="[" line="13" column="0" />
+      <file name="/home/www/html/nnb/patient-studies/src/Study/Components/StudiesGrid/StudiesGrid.php" timestamp="1537521887195">
+        <mark key="[" line="134" column="64" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
@@ -5220,6 +5219,11 @@
         <mark key="[" line="95" column="4" />
         <mark key="]" line="95" column="4" />
         <mark key="." line="95" column="4" />
+      </file>
+      <file name="/home/www/html/nnb/patient-studies/src/Study/DI/config.neon" timestamp="1537521909795">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="6" />
+        <mark key="." line="1" column="6" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/Router/IconRouterFactory.php" timestamp="1502111174254">
         <mark key="[" line="30" column="41" />
@@ -7900,10 +7904,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJDTVNcVXNlclxBZG1pbk1vZHVsZVxDb21wb25lbnRzXFVzZXJGb3JtXFN0dWR5Rm9ybTsK</text>
+        <text encoding="base64">CQldCg==</text>
       </register>
       <register name="-" type="4">
-        <text>BusinessCase</text>
+        <text>HrncirrCMS\User\AdminModule\Components\UserForm\IStudyFormFactory</text>
       </register>
       <register name="/" type="4">
         <text>session</text>
@@ -7912,39 +7916,31 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJDTVNcVXNlclxBZG1pbk1vZHVsZVxDb21wb25lbnRzXFVzZXJGb3JtXFN0dWR5Rm9ybTsK</text>
+        <text encoding="base64">CQldCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJDTVNcVXNlclxBZG1pbk1vZHVsZVxDb21wb25lbnRzXFVzZXJGb3JtXElTdHVkeUZvcm1GYWN0b3J5Owo=</text>
+        <text encoding="base64">CQkJJ21lc3NhZ2UnID0+IG51bGwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlwYXJlbnQ6OmxvYWRDb25maWd1cmF0aW9uKCk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCg==</text>
+        <text encoding="base64">CQkJJ3N1YmplY3QnID0+IG51bGwsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEludm9pY2luZ1xCdXNpbmVzc0Nhc2U7Cg==</text>
+        <text encoding="base64">CQknaW52b2ljZUVtYWlsJyA9PiBbCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gbnVsbCAkbWVzc2FnZQoJICovCQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQknY29udHJhY3RzUm9vdERpck5hbWUnID0+ICdpbnZvaWNpbmctY29udHJhY3RzJywK</text>
       </register>
-      <register name="6" type="4">
-        <text>/**
-	 * @param string $message
-	 *
-	 * @throws \Nette\Application\ForbiddenRequestException
-	 */</text>
+      <register name="6" type="2">
+        <text encoding="base64">dXNlIEhybmNpcnJDTVNcVXNlclxBZG1pbk1vZHVsZVxDb21wb25lbnRzXFVzZXJGb3JtXFN0dWR5Rm9ybTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>/**
-	 * @param $id
-	 *
-	 * @return int|string
-	 */</text>
+      <register name="7" type="2">
+        <text encoding="base64">dXNlIEhybmNpcnJDTVNcVXNlclxBZG1pbk1vZHVsZVxDb21wb25lbnRzXFVzZXJGb3JtXElTdHVkeUZvcm1GYWN0b3J5Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlyZXR1cm4gJGlkOwo=</text>
+        <text encoding="base64">CQlwYXJlbnQ6OmxvYWRDb25maWd1cmF0aW9uKCk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkkdGhpcy0+dmFsaWRhdGVJZCgkcGFyZW50SWQpOwo=</text>
+        <text encoding="base64">dXNlIEludm9pY2luZ1xCdXNpbmVzc0Nhc2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>783</text>
