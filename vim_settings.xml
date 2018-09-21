@@ -1210,10 +1210,10 @@
         <mark key="]" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/DI/ElFinderMediaExtension.php" timestamp="1519892557466">
-        <mark key="[" line="72" column="17" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="/home/www/vendor/hrncirr/elfinder/src/DI/ElFinderMediaExtension.php" timestamp="1537537112774">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Base/DI/BaseExtension.php" timestamp="1505309061225">
         <mark key="[" line="17" column="44" />
@@ -1508,10 +1508,10 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/src/Study/Study.php" timestamp="1537535685056">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="/home/www/html/nnb/patient-studies/src/Study/Study.php" timestamp="1537536485903">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Document/DI/config.neon" timestamp="1532688728598">
         <mark key="[" line="1" column="0" />
@@ -2637,13 +2637,6 @@
         <mark key="]" line="203" column="0" />
         <mark key="." line="203" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" timestamp="1537516913265">
-        <mark key="'" line="215" column="6" />
-        <mark key="[" line="850" column="4" />
-        <mark key="]" line="850" column="4" />
-        <mark key="." line="850" column="4" />
-        <mark key="^" line="854" column="0" />
-      </file>
       <file name="/home/www/vendor/hrncirr/header/src/Components/JsControl/JsControl.php" timestamp="1496836099298">
         <mark key="[" line="148" column="64" />
         <mark key="]" line="148" column="64" />
@@ -2808,10 +2801,10 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/src/Study/Components/StudyForm/StudyForm.php" timestamp="1537536068713">
-        <mark key="[" line="74" column="16" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+      <file name="/home/www/html/nnb/patient-studies/src/Study/Components/StudyForm/StudyForm.php" timestamp="1537536971563">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/File/Components/FileManagerControlFactory.php" timestamp="1505305008535">
         <mark key="[" line="12" column="0" />
@@ -3973,6 +3966,12 @@
         <mark key="[" line="61" column="37" />
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
+      </file>
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" timestamp="1537537304262">
+        <mark key="[" line="200" column="8" />
+        <mark key="]" line="200" column="0" />
+        <mark key="^" line="200" column="0" />
+        <mark key="." line="200" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/document-parsers/src/Types/Doc.php" timestamp="1488899557143">
         <mark key="[" line="81" column="4" />
@@ -6508,7 +6507,7 @@
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Components/NewsForm/NewsForm.php" timestamp="1537536301701">
+      <file name="/home/www/html/nnb/aktuality/app/Components/NewsForm/NewsForm.php" timestamp="1537536792136">
         <mark key="[" line="112" column="30" />
         <mark key="]" line="160" column="0" />
         <mark key="." line="160" column="0" />
@@ -7717,13 +7716,6 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/jstree/src/Plugins/State/StatePlugin.php" timestamp="1537515837398">
-        <mark key="'" line="79" column="29" />
-        <mark key="[" line="80" column="29" />
-        <mark key="]" line="80" column="22" />
-        <mark key="^" line="80" column="22" />
-        <mark key="." line="80" column="22" />
-      </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Employees/EmployeesRepository.php" timestamp="1503396549347">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="4" />
@@ -7916,8 +7908,8 @@
       <jump line="214" column="6" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJ2FhYWEnKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZHVtcCgkdGhpcy0+Y29uc3VtZXJzKTsKCQlleGl0Ow==</text>
       </register>
       <register name="-" type="4">
         <text>, ElFinderFile $parent = nul</text>
@@ -7928,43 +7920,32 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJ2FhYWEnKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZHVtcCgkdGhpcy0+Y29uc3VtZXJzKTsKCQlleGl0Ow==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkkZm9ybS0+b25TdWNjZXNzW10gPSBbJHRoaXMsICdmb3JtU3VjY2VlZGVkJ107Cg==</text>
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQnJpZGdlXERvY3RyaW5lXFZhbGlkYXRvclxDb25zdHJhaW50c1xVbmlxdWVFbnRpdHk7Cg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
-      <register name="5" type="4">
-        <text>@UniqueEntity(
- *      fields={&quot;username&quot;, &quot;color&quot;}
- * )</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICogQHByb3BlcnR5LXJlYWQgXE5ldHRlXEJyaWRnZXNcQXBwbGljYXRpb25MYXR0ZVxUZW1wbGF0ZXxcc3RkQ2xhc3MgJHRlbXBsYXRlCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gc3RyaW5nICAgICAgICAgICAgJG5hbWUKCSAqCgkgKiBAcmV0dXJuIG1peGVkCgkgKgoJICogQHRocm93cyBcRG9jdHJpbmVcT1JNXE5vUmVzdWx0RXhjZXB0aW9uCgkgKiBAdGhyb3dzIFxEb2N0cmluZVxPUk1cTm9uVW5pcXVlUmVzdWx0RXhjZXB0aW9uCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRCeU5hbWUoc3RyaW5nICRuYW1lKQoJewoJCWlmICgkcGFyZW50ID09PSBudWxsKSB7CgkJCSRwYXJlbnQgPSAkdGhpcy0+ZW0tPmdldFJlcG9zaXRvcnkoRWxGaW5kZXJGaWxlOjpjbGFzcyktPmZpbmRPbmVCeShbCgkJCQkncGFyZW50JyA9PiBudWxsLAoJCQkJJ21pbWUnID0+IEVsRmluZGVyRmlsZTo6RElSRUNUT1JZX01JTUUsCgkJCQknbmFtZScgPT4gJHRoaXMtPnJvb3ROYW1lCgkJCV0pOwoJCX0KCQkKCQlyZXR1cm4gJHRoaXMtPmVtLT5jcmVhdGVRdWVyeSgKCQkJc3ByaW50ZignU0VMRUNUIGUgRlJPTSAlcyBlIFdIRVJFIGUucGFyZW50ID0gOnBhcmVudCBBTkQgZS5taW1lID0gOm1pbWUgQU5EIGUubmFtZSA9IDpuYW1lJywKCQkJCUVsRmluZGVyRmlsZTo6Y2xhc3MpKQoJCQktPnNldFBhcmFtZXRlcnMoWydwYXJlbnQnID0+ICRwYXJlbnQsICdtaW1lJyA9PiBFbEZpbmRlckZpbGU6OkRJUkVDVE9SWV9NSU1FLCAnbmFtZScgPT4gJG5hbWVdKQoJCQktPmdldFNpbmdsZVJlc3VsdCgpOwoJfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">dXNlIERvY3RyaW5lXENvbW1vblxDb2xsZWN0aW9uc1xBcnJheUNvbGxlY3Rpb247Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSBFbEZpbmRlckZpbGV8bnVsbCAkcGFyZW50Cg==</text>
+        <text encoding="base64">CQkJCWR1bXAoJ2FhYWEnKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>/**
-	 * @param string            $name
-	 * @param ElFinderFile|null $parent
-	 * @param bool              $read
-	 * @param bool              $write
-	 * @param bool              $locked
-	 * @param bool              $hidden
-	 *
-	 * @return ElFinderFile
-	 */</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">JGJ1aWxkZXItPmFkZERlZmluaXRpb24oJ2RpcmVjdG9yeUhlbHBlcicpCgkJCS0+c2V0RmFjdG9yeShEaXJlY3RvcnlIZWxwZXI6OmNsYXNzKQoJCQktPnNldEFyZ3VtZW50cyhbJHRoaXMtPmNvbmZpZ1sncm9vdE5hbWUnXV0pOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkkZm9ybS0+b25TdWNjZXNzW10gPSBbJHRoaXMsICdmb3JtU3VjY2VlZGVkJ107Cg==</text>
       </register>
       <register name=":" type="4">
         <text>783</text>
