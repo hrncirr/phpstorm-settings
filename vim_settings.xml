@@ -3967,11 +3967,11 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" timestamp="1537537304262">
-        <mark key="[" line="200" column="8" />
-        <mark key="]" line="200" column="0" />
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" timestamp="1537537448062">
+        <mark key="[" line="236" column="12" />
+        <mark key="]" line="236" column="12" />
         <mark key="^" line="200" column="0" />
-        <mark key="." line="200" column="0" />
+        <mark key="." line="236" column="12" />
       </file>
       <file name="/home/www/vendor/hrncirr/document-parsers/src/Types/Doc.php" timestamp="1488899557143">
         <mark key="[" line="81" column="4" />
@@ -7909,7 +7909,8 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZHVtcCgkdGhpcy0+Y29uc3VtZXJzKTsKCQlleGl0Ow==</text>
+        <text>dump($consumerConfig['mediaImportId']);
+			exit;</text>
       </register>
       <register name="-" type="4">
         <text>, ElFinderFile $parent = nul</text>
@@ -7921,31 +7922,32 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
+        <text>dump($consumerConfig['mediaImportId']);
+			exit;</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CgkJCWR1bXAoJGNvbnN1bWVyQ29uZmlnWydtZWRpYUltcG9ydElkJ10pOwoJCQlleGl0Ow==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ZHVtcCgkdGhpcy0+Y29uc3VtZXJzKTsKCQlleGl0Ow==</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQlleGl0Owo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICoK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICogQHByb3BlcnR5LXJlYWQgXE5ldHRlXEJyaWRnZXNcQXBwbGljYXRpb25MYXR0ZVxUZW1wbGF0ZXxcc3RkQ2xhc3MgJHRlbXBsYXRlCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">dXNlIERvY3RyaW5lXENvbW1vblxDb2xsZWN0aW9uc1xBcnJheUNvbGxlY3Rpb247Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJ2FhYWEnKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkkZm9ybS0+b25TdWNjZXNzW10gPSBbJHRoaXMsICdmb3JtU3VjY2VlZGVkJ107Cg==</text>
+        <text encoding="base64">CQkJCWR1bXAoJ2FhYWEnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>783</text>
