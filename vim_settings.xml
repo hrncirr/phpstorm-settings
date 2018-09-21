@@ -1211,9 +1211,9 @@
         <mark key="." line="2" column="12" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/DI/ElFinderMediaExtension.php" timestamp="1537537112774">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Base/DI/BaseExtension.php" timestamp="1505309061225">
         <mark key="[" line="17" column="44" />
@@ -3967,7 +3967,7 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" timestamp="1537537876322">
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" timestamp="1537538169407">
         <mark key="[" line="255" column="0" />
         <mark key="]" line="255" column="0" />
         <mark key="." line="255" column="0" />
@@ -7928,24 +7928,24 @@
       <register name="3" type="2">
         <text encoding="base64">CQkJZHVtcCgkY29uc3VtZXItPmdldEZpbGVSb290KCkpOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJZXhpdDsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJZHVtcCgkY29uc3VtZXItPmdldEZpbGVSb290KCkpOwo=</text>
+      </register>
+      <register name="7" type="4">
         <text>dump($consumerConfig['mediaImportId']);
 			exit;</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CgkJCWR1bXAoJGNvbnN1bWVyQ29uZmlnWydtZWRpYUltcG9ydElkJ10pOwoJCQlleGl0Ow==</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ZHVtcCgkdGhpcy0+Y29uc3VtZXJzKTsKCQlleGl0Ow==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICoK</text>
       </register>
       <register name=":" type="4">
         <text>783</text>
