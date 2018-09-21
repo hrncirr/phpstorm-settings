@@ -3013,8 +3013,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/app/UI/BaseControl.php" timestamp="1537450061495">
-        <mark key="[" line="2" column="14" />
+      <file name="/home/www/html/nnb/patient-studies/app/UI/BaseControl.php" timestamp="1537517981935">
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="24" column="4" />
+        <mark key="." line="24" column="4" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Exceptions/DocumentAlreadyExistsException.php" timestamp="1488369264017">
         <mark key="[" line="13" column="65" />
@@ -7892,11 +7894,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/**
-	 * @param $id
-	 *
-	 * @return int|string
-	 */</text>
+        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gbnVsbCAkbWVzc2FnZQoJICovCQ==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">CXByaXZhdGUgZnVuY3Rpb24gdmFsaWRhdGVJZCgkaWQsIHN0cmluZyAkbmFtZSA9ICdJZCc=</text>
@@ -7908,46 +7906,43 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gbnVsbCAkbWVzc2FnZQoJICovCQ==</text>
+      </register>
+      <register name="2" type="4">
+        <text>/**
+	 * @param string $message
+	 *
+	 * @throws \Nette\Application\ForbiddenRequestException
+	 */</text>
+      </register>
+      <register name="3" type="4">
         <text>/**
 	 * @param $id
 	 *
 	 * @return int|string
 	 */</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQlyZXR1cm4gJGlkOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkkdGhpcy0+dmFsaWRhdGVJZCgkcGFyZW50SWQpOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">aWYgKCFcaXNfaW50KCRpZCkgJiYgIVxpc19zdHJpbmcoJGlkKSkgewoJCQl0aHJvdyBuZXcgSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uKHNwcmludGYoJ0lkIG11c3QgYmUgaW50ZWdlciBvciBzdHJpbmcsICVzIGdpdmVuLicsCgkJCQlcZ2V0dHlwZSgkaWQpKSk7CgkJfQ==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQl1bnNldCgkbmFtZSk7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>/**
 	 * @var string|null
 	 */
 	private $events;</text>
       </register>
-      <register name="7" type="4">
-        <text>/**
-	 * @param mixed $id
-	 */</text>
-      </register>
-      <register name="8" type="4">
-        <text>/**
-	 * @param mixed $id
-	 * @param mixed $parentId
-	 * @param int   $position
-	 */</text>
-      </register>
       <register name="9" type="4">
         <text>/**
-	 * @param $id
-	 * @param $text
+	 * @param mixed $id
 	 */</text>
       </register>
       <register name=":" type="4">
