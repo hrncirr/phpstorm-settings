@@ -1262,6 +1262,11 @@
       <file name="/home/www/html/dv/adera/Modules/File/File.php" timestamp="1536320690056">
         <mark key="[" line="14" column="20" />
       </file>
+      <file name="/home/www/lib/vendor/hrncirr-cms/file/src/DI/FileExtension.php" timestamp="1537532608149">
+        <mark key="[" line="51" column="8" />
+        <mark key="]" line="51" column="8" />
+        <mark key="." line="51" column="8" />
+      </file>
       <file name="/home/www/html/dv/cms/Modules/Pages/FrontModule/Presenters/templates/Page/default.latte" timestamp="1495797273990">
         <mark key="[" line="6" column="8" />
         <mark key="]" line="7" column="0" />
@@ -3180,6 +3185,11 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="/home/www/lib/vendor/hrncirr-cms/file/src/Helpers/DirectoryHelper.php" timestamp="1537532214581">
+        <mark key="[" line="101" column="4" />
+        <mark key="]" line="101" column="4" />
+        <mark key="." line="101" column="4" />
+      </file>
       <file name="/home/www/html/nnb/passportization/js/technical.requisition.form.init.js" timestamp="1490865776988">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="20" />
@@ -4679,6 +4689,11 @@
         <mark key="[" line="139" column="10" />
         <mark key="]" line="139" column="10" />
         <mark key="." line="139" column="10" />
+      </file>
+      <file name="/home/www/lib/vendor/hrncirr-cms/file/src/Install/Helpers/FileInstallHelper.php" timestamp="1537532546933">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="4" />
+        <mark key="." line="25" column="4" />
       </file>
       <file name="/home/www/html/dv/adera/app/FrontModule/Presenters/BasePresenter.php" timestamp="1500892463024">
         <mark key="[" line="81" column="0" />
@@ -7903,11 +7918,11 @@
       <jump line="214" column="6" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQldCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JGJ1aWxkZXItPmFkZERlZmluaXRpb24oJ2RpcmVjdG9yeUhlbHBlcicpCgkJCS0+c2V0RmFjdG9yeShEaXJlY3RvcnlIZWxwZXI6OmNsYXNzKQoJCQktPnNldEFyZ3VtZW50cyhbJHRoaXMtPmNvbmZpZ1sncm9vdE5hbWUnXV0pOw==</text>
       </register>
       <register name="-" type="4">
-        <text>HrncirrCMS\User\AdminModule\Components\UserForm\IStudyFormFactory</text>
+        <text encoding="base64">WyR0aGlzLT5jb25maWdbJ3Jvb3ROYW1lJ10=</text>
       </register>
       <register name="/" type="4">
         <text>session</text>
@@ -7915,32 +7930,37 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQldCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">JGJ1aWxkZXItPmFkZERlZmluaXRpb24oJ2RpcmVjdG9yeUhlbHBlcicpCgkJCS0+c2V0RmFjdG9yeShEaXJlY3RvcnlIZWxwZXI6OmNsYXNzKQoJCQktPnNldEFyZ3VtZW50cyhbJHRoaXMtPmNvbmZpZ1sncm9vdE5hbWUnXV0pOw==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJJ21lc3NhZ2UnID0+IG51bGwK</text>
+      <register name="2" type="4">
+        <text>/**
+	 * @var string
+	 */
+	private $rootName;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJJ3N1YmplY3QnID0+IG51bGwsCg==</text>
+        <text encoding="base64">CQkkdGhpcy0+ZW0tPnBlcnNpc3QoJGVsRmluZGVyRmlsZSktPmZsdXNoKCRlbEZpbmRlckZpbGUpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQknaW52b2ljZUVtYWlsJyA9PiBbCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">JGVsRmluZGVyRmlsZSA9IG5ldyBFbEZpbmRlckZpbGUoKTsKCQkkZWxGaW5kZXJGaWxlLT5zZXROYW1lKCRuYW1lKTsKCQkkZWxGaW5kZXJGaWxlLT5zZXRTaXplKDApOwoJCSRlbEZpbmRlckZpbGUtPnNldE1pbWUoRWxGaW5kZXJGaWxlOjpESVJFQ1RPUllfTUlNRSk7CgkJJGVsRmluZGVyRmlsZS0+c2V0UmVhZCgkcmVhZCk7CgkJJGVsRmluZGVyRmlsZS0+c2V0V3JpdGUoJHdyaXRlKTsKCQkkZWxGaW5kZXJGaWxlLT5zZXRMb2NrZWQoJGxvY2tlZCk7CgkJJGVsRmluZGVyRmlsZS0+c2V0SGlkZGVuKCRoaWRkZW4pOwoJCQoJCSRlbEZpbmRlckZpbGUtPnNldFBhcmVudCgkcGFyZW50ID8/ICR0aGlzLT5yb290KTsKCQkKCQkkdGhpcy0+bG9nZ2VyLT5hZGRJbmZvKCdJbnN0YWxsaW5nIEVsRmluZGVyRmlsZSBkaXJlY3RvcnkgJyAuICRlbEZpbmRlckZpbGUtPmdldE5hbWUoKSk7CgkJ</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQknY29udHJhY3RzUm9vdERpck5hbWUnID0+ICdpbnZvaWNpbmctY29udHJhY3RzJywK</text>
+      <register name="5" type="4">
+        <text encoding="base64">JGVsRmluZGVyRmlsZSA9IG5ldyBFbEZpbmRlckZpbGUoKTsKCQkkZWxGaW5kZXJGaWxlLT5zZXROYW1lKCRuYW1lKTsKCQkkZWxGaW5kZXJGaWxlLT5zZXRTaXplKDApOwoJCSRlbEZpbmRlckZpbGUtPnNldE1pbWUoRWxGaW5kZXJGaWxlOjpESVJFQ1RPUllfTUlNRSk7CgkJJGVsRmluZGVyRmlsZS0+c2V0UmVhZCgkcmVhZCk7CgkJJGVsRmluZGVyRmlsZS0+c2V0V3JpdGUoJHdyaXRlKTsKCQkkZWxGaW5kZXJGaWxlLT5zZXRMb2NrZWQoJGxvY2tlZCk7CgkJJGVsRmluZGVyRmlsZS0+c2V0SGlkZGVuKCRoaWRkZW4pOwoJCQoJCSRlbEZpbmRlckZpbGUtPnNldFBhcmVudCgkcGFyZW50ID8/ICR0aGlzLT5yb290KTsKCQkKCQkkdGhpcy0+bG9nZ2VyLT5hZGRJbmZvKCdJbnN0YWxsaW5nIEVsRmluZGVyRmlsZSBkaXJlY3RvcnkgJyAuICRlbEZpbmRlckZpbGUtPmdldE5hbWUoKSk7CgkJCgkJJHRoaXMtPmVtLT5wZXJzaXN0KCRlbEZpbmRlckZpbGUpLT5mbHVzaCgkZWxGaW5kZXJGaWxlKTs=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJDTVNcVXNlclxBZG1pbk1vZHVsZVxDb21wb25lbnRzXFVzZXJGb3JtXFN0dWR5Rm9ybTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">cHJpdmF0ZSBmdW5jdGlvbiBjcmVhdGVSb290KCkKCXsKCQlpZiAoJHRoaXMtPnJvb3QgIT09IG51bGwpIHsKCQkJcmV0dXJuOwoJCX0KCQkKCQlpZiAoISRlbEZpbmRlckZpbGUgPSAkdGhpcy0+ZW0tPmdldFJlcG9zaXRvcnkoRWxGaW5kZXJGaWxlOjpjbGFzcykKCQkJLT5maW5kT25lQnkoWydwYXJlbnQnID0+IG51bGwsICduYW1lJyA9PiAkdGhpcy0+cm9vdE5hbWVdKSkgewoJCQkKCQkJJGVsRmluZGVyRmlsZSA9IG5ldyBFbEZpbmRlckZpbGUoKTsKCQkJJGVsRmluZGVyRmlsZS0+c2V0TmFtZSgkdGhpcy0+cm9vdE5hbWUpOwoJCQkkZWxGaW5kZXJGaWxlLT5zZXRTaXplKDApOwoJCQkkZWxGaW5kZXJGaWxlLT5zZXRNaW1lKEVsRmluZGVyRmlsZTo6RElSRUNUT1JZX01JTUUpOwoJCQkKCQkJJHRoaXMtPmxvZ2dlci0+YWRkSW5mbygnSW5zdGFsbGluZyBFbEZpbmRlckZpbGUgZGlyZWN0b3J5IHJvb3QgJyAuICRlbEZpbmRlckZpbGUtPmdldE5hbWUoKSk7CgkJCQoJCQkkdGhpcy0+ZW0tPnBlcnNpc3QoJGVsRmluZGVyRmlsZSktPmZsdXNoKCRlbEZpbmRlckZpbGUpOwoJCX0KCQkKCQkkdGhpcy0+cm9vdCA9ICRlbEZpbmRlckZpbGU7Cgl9</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJDTVNcVXNlclxBZG1pbk1vZHVsZVxDb21wb25lbnRzXFVzZXJGb3JtXElTdHVkeUZvcm1GYWN0b3J5Owo=</text>
+      <register name="7" type="4">
+        <text>/**
+	 * 
+	 */</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlwYXJlbnQ6OmxvYWRDb25maWd1cmF0aW9uKCk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCg==</text>
+        <text encoding="base64">CQkJJHRoaXMtPmxvZ2dlci0+YWRkSW5mbygnSW5zdGFsbGluZyBFbEZpbmRlckZpbGUgZGlyZWN0b3J5IHJvb3QgJyAuICRlbEZpbmRlckZpbGUtPmdldE5hbWUoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEludm9pY2luZ1xCdXNpbmVzc0Nhc2U7Cg==</text>
+        <text encoding="base64">CQkkdGhpcy0+bG9nZ2VyLT5hZGRJbmZvKCdJbnN0YWxsaW5nIEVsRmluZGVyRmlsZSBkaXJlY3RvcnkgJyAuICRlbEZpbmRlckZpbGUtPmdldE5hbWUoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>783</text>
