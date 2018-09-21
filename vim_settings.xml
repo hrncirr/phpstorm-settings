@@ -521,8 +521,8 @@
         <mark key="]" line="115" column="4" />
         <mark key="." line="115" column="4" />
       </file>
-      <file name="/home/www/vendor/hrncirr/jstree/src/Model/Node.php" timestamp="1537459534097">
-        <mark key="[" line="33" column="5" />
+      <file name="/home/www/vendor/hrncirr/jstree/src/Model/Node.php" timestamp="1537515296636">
+        <mark key="[" line="206" column="31" />
         <mark key="]" line="229" column="15" />
         <mark key="." line="229" column="15" />
       </file>
@@ -2635,12 +2635,11 @@
         <mark key="]" line="203" column="0" />
         <mark key="." line="203" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" timestamp="1537510977853">
-        <mark key="'" line="393" column="29" />
-        <mark key="[" line="729" column="0" />
-        <mark key="]" line="280" column="46" />
-        <mark key="." line="280" column="46" />
-        <mark key="^" line="280" column="46" />
+      <file name="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" timestamp="1537515146492">
+        <mark key="'" line="214" column="6" />
+        <mark key="[" line="457" column="34" />
+        <mark key="]" line="457" column="34" />
+        <mark key="." line="457" column="34" />
       </file>
       <file name="/home/www/vendor/hrncirr/header/src/Components/JsControl/JsControl.php" timestamp="1496836099298">
         <mark key="[" line="148" column="64" />
@@ -7771,8 +7770,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="26" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseDocumentFormControl.php" />
-      <jump line="12" column="51" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseDocumentFormControl.php" />
       <jump line="225" column="38" filename="/home/www/vendor/hrncirr/elfinder/src/Components/FileManagerControl/FileManagerControl.php" />
       <jump line="219" column="33" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="90" column="29" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
@@ -7871,59 +7868,74 @@
       <jump line="393" column="29" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
       <jump line="192" column="54" filename="/home/www/vendor/hrncirr/jstree/src/Plugins/PluginManager.php" />
       <jump line="146" column="19" filename="/home/www/vendor/hrncirr/jstree/src/Plugins/PluginManager.php" />
+      <jump line="229" column="39" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
+      <jump line="214" column="6" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/**
-	 */</text>
+        <text>? true : false</text>
       </register>
       <register name="-" type="4">
-        <text>: ITree</text>
+        <text>? true : false</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">JHRoaXMtPmZpbHRlcg==</text>
+        <text>session</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
         <text>/**
+	 * @param mixed $id
 	 */</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CSAqIEB0aHJvd3MgXE5ldHRlXFV0aWxzXEpzb25FeGNlcHRpb24K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CSAqIEB0aHJvd3MgVUlcSW52YWxpZExpbmtFeGNlcHRpb24K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CSAqCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CSAqIEB0aHJvd3MgSW52YWxpZExpbmtFeGNlcHRpb24K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CSAqCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CSAqIEB0aHJvd3MgSW52YWxpZExpbmtFeGNlcHRpb24K</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">LyoqCgkgKiAKCSAqLwk=</text>
-      </register>
-      <register name="9" type="4">
+      <register name="2" type="4">
         <text>/**
-	 * @throws InvalidLinkException
+	 * @param mixed $id
+	 * @param mixed $parentId
+	 * @param int   $position
 	 */</text>
+      </register>
+      <register name="3" type="4">
+        <text>/**
+	 * @param $id
+	 * @param $text
+	 */</text>
+      </register>
+      <register name="4" type="4">
+        <text>/**
+	 * @param array $data
+	 * @param bool  $status
+	 */</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IEBwcm9wZXJ0eS1yZWFkIFxOZXR0ZVxCcmlkZ2VzXEFwcGxpY2F0aW9uTGF0dGVcVGVtcGxhdGV8XHN0ZENsYXNzICR0ZW1wbGF0ZQogKiBAcHJvcGVydHktcmVhZCBcTmV0dGVcSHR0cFxTZXNzaW9uU2VjdGlvbnxcc3RkQ2xhc3MgJHNlc3Npb25TZWN0aW9uICAg</text>
+      </register>
+      <register name="6" type="4">
+        <text>/**
+	 * @param $id
+	 */</text>
+      </register>
+      <register name="7" type="4">
+        <text>/**
+	 * @param int      $type
+	 * @param \Closure $callback
+	 */</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXEh0dHBcU2Vzc2lvblNlY3Rpb247Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">U2Vzc2lvblNlY3Rpb246Ogo=</text>
       </register>
       <register name=":" type="4">
         <text>783</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">JHRoaXMtPmZpbHRlcg==</last-search>
+      <last-search>session</last-search>
       <last-offset />
-      <last-pattern encoding="base64">JHRoaXMtPmZpbHRlcg==</last-pattern>
+      <last-pattern>session</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -7931,8 +7943,6 @@
     </search>
     <history>
       <history-search>
-        <entry>computeChangeset</entry>
-        <entry>computeChangeSet</entry>
         <entry>view</entry>
         <entry>Invoice</entry>
         <entry>Inflec</entry>
@@ -7951,6 +7961,8 @@
         <entry>UI</entry>
         <entry encoding="base64">JHRoaXMtPmlk</entry>
         <entry encoding="base64">JHRoaXMtPmZpbHRlcg==</entry>
+        <entry>seesion</entry>
+        <entry>session</entry>
       </history-search>
       <history-cmd>
         <entry>425</entry>
