@@ -1210,8 +1210,8 @@
         <mark key="]" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/DI/ElFinderMediaExtension.php" timestamp="1537537112774">
-        <mark key="[" line="88" column="0" />
+      <file name="/home/www/vendor/hrncirr/elfinder/src/DI/ElFinderMediaExtension.php" timestamp="1537777477190">
+        <mark key="[" line="80" column="12" />
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
@@ -3967,10 +3967,12 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" timestamp="1537538169407">
-        <mark key="[" line="255" column="0" />
-        <mark key="]" line="255" column="0" />
-        <mark key="." line="255" column="0" />
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" timestamp="1537779400151">
+        <mark key="'" line="206" column="47" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="206" column="47" />
       </file>
       <file name="/home/www/vendor/hrncirr/document-parsers/src/Types/Doc.php" timestamp="1488899557143">
         <mark key="[" line="81" column="4" />
@@ -7805,7 +7807,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="225" column="38" filename="/home/www/vendor/hrncirr/elfinder/src/Components/FileManagerControl/FileManagerControl.php" />
       <jump line="219" column="33" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="90" column="29" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="185" column="21" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
@@ -7905,56 +7906,61 @@
       <jump line="146" column="19" filename="/home/www/vendor/hrncirr/jstree/src/Plugins/PluginManager.php" />
       <jump line="229" column="39" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
       <jump line="214" column="6" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
+      <jump line="207" column="47" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">dXNlIERvY3RyaW5lXENvbW1vblxFdmVudEFyZ3M7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>, ElFinderFile $parent = nul</text>
       </register>
       <register name="/" type="4">
-        <text>session</text>
+        <text>onBefore</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">dXNlIERvY3RyaW5lXENvbW1vblxFdmVudEFyZ3M7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJZXhpdDsK</text>
+        <text encoding="base64">dXNlIEtkeWJ5XEV2ZW50c1xTeW1mb255RGlzcGF0Y2hlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJZHVtcCgkY29uc3VtZXItPmdldEZpbGVSb290KCkpOwo=</text>
+        <text encoding="base64">CQkJCW5ldyBFdmVudEFyZ3MoKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCg==</text>
+      <register name="4" type="4">
+        <text>/**
+	 * @param MediaImporter              $mediaImporter
+	 * @param FileLinkGenerator          $fileLinkGenerator
+	 * @param ElFinderFileConsumerDriver $elFinderFileConsumerDriver
+	 * @param Request                    $httpRequest
+	 */</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZXhpdDsK</text>
+        <text encoding="base64">dXNlIEtkeWJ5XEV2ZW50c1xTdWJzY3JpYmVyOwo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">CQkJCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJZXhpdDsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CQkJZHVtcCgkY29uc3VtZXItPmdldEZpbGVSb290KCkpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>dump($consumerConfig['mediaImportId']);
-			exit;</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CgkJCWR1bXAoJGNvbnN1bWVyQ29uZmlnWydtZWRpYUltcG9ydElkJ10pOwoJCQlleGl0Ow==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZHVtcCgkdGhpcy0+Y29uc3VtZXJzKTsKCQlleGl0Ow==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>783</text>
       </register>
     </registers>
     <search>
-      <last-search>session</last-search>
+      <last-search>onBefore</last-search>
       <last-offset />
-      <last-pattern>session</last-pattern>
+      <last-pattern>onBefore</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -7962,7 +7968,6 @@
     </search>
     <history>
       <history-search>
-        <entry>view</entry>
         <entry>Invoice</entry>
         <entry>Inflec</entry>
         <entry>price</entry>
@@ -7982,6 +7987,7 @@
         <entry encoding="base64">JHRoaXMtPmZpbHRlcg==</entry>
         <entry>seesion</entry>
         <entry>session</entry>
+        <entry>onBefore</entry>
       </history-search>
       <history-cmd>
         <entry>425</entry>
