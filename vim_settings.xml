@@ -466,6 +466,9 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" timestamp="1537792036773">
+        <mark key="'" line="1410" column="20" />
+      </file>
       <file name="/home/www/lib/vendor/hrncirr/forms-typeahead/src/Controls/TypeaheadInput.php" timestamp="1506431915164">
         <mark key="[" line="237" column="12" />
         <mark key="]" line="237" column="12" />
@@ -3982,11 +3985,11 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" timestamp="1537790522341">
-        <mark key="'" line="232" column="85" />
-        <mark key="[" line="197" column="8" />
-        <mark key="]" line="197" column="0" />
-        <mark key="." line="197" column="0" />
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" timestamp="1537793458422">
+        <mark key="'" line="230" column="85" />
+        <mark key="[" line="282" column="18" />
+        <mark key="]" line="279" column="0" />
+        <mark key="." line="279" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/document-parsers/src/Types/Doc.php" timestamp="1488899557143">
         <mark key="[" line="81" column="4" />
@@ -7836,11 +7839,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="21" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
-      <jump line="114" column="41" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
-      <jump line="115" column="52" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
-      <jump line="116" column="40" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
-      <jump line="1193" column="35" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="1194" column="66" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="20" column="14" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="408" column="9" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
@@ -7936,55 +7934,60 @@
       <jump line="207" column="47" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" />
       <jump line="128" column="6" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" />
       <jump line="231" column="85" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" />
+      <jump line="2306" column="61" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" />
+      <jump line="1461" column="20" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" />
+      <jump line="1330" column="20" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" />
+      <jump line="1398" column="20" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" />
+      <jump line="1410" column="20" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkkdGhpcy0+Y2hlY2tDb25zdW1lcigpCg==</text>
+        <text encoding="base64">CQkvKgo=</text>
       </register>
       <register name="-" type="4">
         <text>public const NAME = 'elFinder.mediaConsumer.beforeImport';</text>
       </register>
       <register name="/" type="4">
-        <text>Events</text>
+        <text>setRoot</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkkdGhpcy0+Y2hlY2tDb25zdW1lcigpCg==</text>
+        <text encoding="base64">CQkvKgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlkdW1wKCdibGEgYjtsYScpOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XEV2ZW50RGlzcGF0Y2hlclxFdmVudDsK</text>
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RXZlbnQ6OmNsYXNzCg==</text>
+        <text encoding="base64">CQlkdW1wKCRhcmdzLT5nZXRFbnRpdHkoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlkdW1wKCdvaycpOwo=</text>
+        <text encoding="base64">CQlkdW1wKCdkc2ZzZnNkZmRzJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJcRWxGaW5kZXJcRG9jdHJpbmVcRG9jdHJpbmVFdmVudHM7Cg==</text>
+        <text encoding="base64">CQkkdGhpcy0+Y2hlY2tDb25zdW1lcigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlkdW1wKCdibGEgYjtsYScpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlkdW1wKCdvaycpOwo=</text>
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XEV2ZW50RGlzcGF0Y2hlclxFdmVudDsK</text>
       </register>
       <register name=":" type="4">
         <text>783</text>
       </register>
     </registers>
     <search>
-      <last-search>Events</last-search>
+      <last-search>setRoot</last-search>
       <last-offset />
-      <last-pattern>Events</last-pattern>
+      <last-pattern>setRoot</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -7992,8 +7995,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Inflec</entry>
-        <entry>price</entry>
         <entry>uname</entry>
         <entry>count</entry>
         <entry>onModalHide</entry>
@@ -8012,6 +8013,8 @@
         <entry>session</entry>
         <entry>onBefore</entry>
         <entry>Events</entry>
+        <entry>isScheduled</entry>
+        <entry>setRoot</entry>
       </history-search>
       <history-cmd>
         <entry>425</entry>
