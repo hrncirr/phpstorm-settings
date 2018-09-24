@@ -1508,6 +1508,9 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/Events.php" timestamp="1537784822502">
+        <mark key="[" line="9" column="26" />
+      </file>
       <file name="/home/www/html/nnb/patient-studies/src/Study/Study.php" timestamp="1537536485903">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -2616,6 +2619,11 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/BeforeImportArgs.php" timestamp="1537784330181">
+        <mark key="[" line="47" column="4" />
+        <mark key="]" line="47" column="4" />
+        <mark key="." line="47" column="4" />
       </file>
       <file name="/home/www/html/bul/contracts/app/bootstrap.php" timestamp="1518605244579">
         <mark key="[" line="25" column="0" />
@@ -3924,8 +3932,8 @@
         <mark key="]" line="107" column="4" />
         <mark key="." line="107" column="4" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/src/Study/Events/StudyFileImportSubscriber.php" timestamp="1537535607578">
-        <mark key="[" line="59" column="66" />
+      <file name="/home/www/html/nnb/patient-studies/src/Study/Events/StudyFileImportSubscriber.php" timestamp="1537785204654">
+        <mark key="[" line="42" column="12" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/DI/Presenters/InquiriesPresenter.php" timestamp="1504095901554">
         <mark key="[" line="15" column="0" />
@@ -3967,12 +3975,11 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" timestamp="1537779400151">
-        <mark key="'" line="206" column="47" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="206" column="47" />
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" timestamp="1537785273223">
+        <mark key="'" line="224" column="85" />
+        <mark key="[" line="279" column="23" />
+        <mark key="]" line="280" column="0" />
+        <mark key="." line="280" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/document-parsers/src/Types/Doc.php" timestamp="1488899557143">
         <mark key="[" line="81" column="4" />
@@ -5643,6 +5650,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events.php" timestamp="1537785021226">
+        <mark key="[" line="9" column="35" />
+      </file>
       <file name="/home/www/vendor/hrncirr/media/src/Model/Image.php" timestamp="1507127249592">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="23" column="0" />
@@ -6312,7 +6322,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537536214579">
+      <file name="/Dummy.txt" timestamp="1537784680403">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -7225,6 +7235,9 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Events.php" timestamp="1537784758934">
+        <mark key="[" line="14" column="23" />
+      </file>
       <file name="/home/www/vendor/hrncirr/modals/src/TModalControl.php" timestamp="1537439505338">
         <mark key="[" line="149" column="55" />
         <mark key="]" line="149" column="55" />
@@ -7807,8 +7820,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="33" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
-      <jump line="90" column="29" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="185" column="21" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="114" column="41" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="115" column="52" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
@@ -7907,60 +7918,65 @@
       <jump line="229" column="39" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
       <jump line="214" column="6" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
       <jump line="207" column="47" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" />
+      <jump line="128" column="6" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" />
+      <jump line="231" column="85" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIERvY3RyaW5lXENvbW1vblxFdmVudEFyZ3M7Cg==</text>
+        <text encoding="base64">CQkJRXZlbnRzOjpCRUZPUkVfSU1QT1JUID0+ICdwb2t1cycK</text>
       </register>
       <register name="-" type="4">
-        <text>, ElFinderFile $parent = nul</text>
+        <text>\Hrncirr\ElFinder\Doctrine\Events\</text>
       </register>
       <register name="/" type="4">
-        <text>onBefore</text>
+        <text>Events</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIERvY3RyaW5lXENvbW1vblxFdmVudEFyZ3M7Cg==</text>
+        <text encoding="base64">CQkJRXZlbnRzOjpCRUZPUkVfSU1QT1JUID0+ICdwb2t1cycK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5XEV2ZW50c1xTeW1mb255RGlzcGF0Y2hlcjsK</text>
+      <register name="2" type="4">
+        <text>public function pokus(BeforeImportArgs $args)
+	{
+		dump($args);
+	}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCW5ldyBFdmVudEFyZ3MoKTsK</text>
+        <text encoding="base64">CQkJCS8vJHRoaXMtPm9uQmVmb3JlSW1wb3J0KCRjb25zdW1lciwgJG9wdGlvbnMpOwo=</text>
       </register>
       <register name="4" type="4">
         <text>/**
-	 * @param MediaImporter              $mediaImporter
-	 * @param FileLinkGenerator          $fileLinkGenerator
-	 * @param ElFinderFileConsumerDriver $elFinderFileConsumerDriver
-	 * @param Request                    $httpRequest
-	 */</text>
+ * @method onBeforeImport(IElFinderFileConsumer $consumer, MediaImportOptions $options)
+ */</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5XEV2ZW50c1xTdWJzY3JpYmVyOwo=</text>
+      <register name="5" type="4">
+        <text>/**
+	 * @var \Callable[]
+	 */
+	public $onBeforeImport = [];</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gTWVkaWFJbXBvcnRPcHRpb25zICRvcHRpb25zCgkgKgoJICogQHJldHVybiBCZWZvcmVJbXBvcnRBcmdzCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRPcHRpb25zKE1lZGlhSW1wb3J0T3B0aW9ucyAkb3B0aW9ucyk6IEJlZm9yZUltcG9ydEFyZ3MKCXsKCQkkdGhpcy0+b3B0aW9ucyA9ICRvcHRpb25zOwoJCQoJCXJldHVybiAkdGhpczsKCX0=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJZXhpdDsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gSUVsRmluZGVyRmlsZUNvbnN1bWVyICRjb25zdW1lcgoJICoKCSAqIEByZXR1cm4gQmVmb3JlSW1wb3J0QXJncwoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0Q29uc3VtZXIoSUVsRmluZGVyRmlsZUNvbnN1bWVyICRjb25zdW1lcik6IEJlZm9yZUltcG9ydEFyZ3MKCXsKCQkkdGhpcy0+Y29uc3VtZXIgPSAkY29uc3VtZXI7CgkJCgkJcmV0dXJuICR0aGlzOwoJfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJZHVtcCgkY29uc3VtZXItPmdldEZpbGVSb290KCkpOwo=</text>
+        <text encoding="base64">CSAqIEB0aHJvd3MgXERvY3RyaW5lXE9STVxNYXBwaW5nXE1hcHBpbmdFeGNlcHRpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">dXNlIERvY3RyaW5lXENvbW1vblxFdmVudEFyZ3M7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>783</text>
       </register>
     </registers>
     <search>
-      <last-search>onBefore</last-search>
+      <last-search>Events</last-search>
       <last-offset />
-      <last-pattern>onBefore</last-pattern>
+      <last-pattern>Events</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -7968,7 +7984,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Invoice</entry>
         <entry>Inflec</entry>
         <entry>price</entry>
         <entry>uname</entry>
@@ -7988,6 +8003,7 @@
         <entry>seesion</entry>
         <entry>session</entry>
         <entry>onBefore</entry>
+        <entry>Events</entry>
       </history-search>
       <history-cmd>
         <entry>425</entry>
