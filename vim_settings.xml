@@ -18,7 +18,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1537277091070">
+      <file name="/a.dummy" timestamp="1537787431474">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -2620,7 +2620,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/BeforeImportArgs.php" timestamp="1537784330181">
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/BeforeImportArgs.php" timestamp="1537788098202">
         <mark key="[" line="47" column="4" />
         <mark key="]" line="47" column="4" />
         <mark key="." line="47" column="4" />
@@ -3932,8 +3932,10 @@
         <mark key="]" line="107" column="4" />
         <mark key="." line="107" column="4" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/src/Study/Events/StudyFileImportSubscriber.php" timestamp="1537785204654">
-        <mark key="[" line="42" column="12" />
+      <file name="/home/www/html/nnb/patient-studies/src/Study/Events/StudyFileImportSubscriber.php" timestamp="1537788474459">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/DI/Presenters/InquiriesPresenter.php" timestamp="1504095901554">
         <mark key="[" line="15" column="0" />
@@ -3975,9 +3977,9 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" timestamp="1537785273223">
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" timestamp="1537787733115">
         <mark key="'" line="224" column="85" />
-        <mark key="[" line="279" column="23" />
+        <mark key="[" line="15" column="41" />
         <mark key="]" line="280" column="0" />
         <mark key="." line="280" column="0" />
       </file>
@@ -5650,8 +5652,8 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events.php" timestamp="1537785021226">
-        <mark key="[" line="9" column="35" />
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events.php" timestamp="1537787427663">
+        <mark key="[" line="12" column="6" />
       </file>
       <file name="/home/www/vendor/hrncirr/media/src/Model/Image.php" timestamp="1507127249592">
         <mark key="[" line="10" column="0" />
@@ -7783,6 +7785,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/DoctrineEvents.php" timestamp="1537787931730">
+        <mark key="[" line="15" column="37" />
+      </file>
       <file name="/home/www/html/nnb/access-rights/app/components/SearchForm/SearchForm.latte" timestamp="1475567852886">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="4" column="0" />
@@ -7923,10 +7928,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJRXZlbnRzOjpCRUZPUkVfSU1QT1JUID0+ICdwb2t1cycK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="-" type="4">
-        <text>\Hrncirr\ElFinder\Doctrine\Events\</text>
+        <text>IElFinderFileConsumer $consumer, MediaImportOptions $options</text>
       </register>
       <register name="/" type="4">
         <text>Events</text>
@@ -7935,39 +7940,34 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQlkdW1wKCdvaycpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dXNlIEhybmNpcnJcRWxGaW5kZXJcRG9jdHJpbmVcTWVkaWFJbXBvcnRPcHRpb25zOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">dXNlIEhybmNpcnJcRWxGaW5kZXJcRG9jdHJpbmVcSUVsRmluZGVyRmlsZUNvbnN1bWVyOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CSAqIEBwYXJhbSBNZWRpYUltcG9ydE9wdGlvbnMgICAgJG9wdGlvbnMK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">dXNlIEhybmNpcnJcRWxGaW5kZXJcRG9jdHJpbmVcRXZlbnRzXE1lZGlhQ29uc3VtZXJTdWJzY3JpYmVyOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dXNlIEhybmNpcnJcRWxGaW5kZXJcRG9jdHJpbmVcRXZlbnRzOwo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CQkJRXZlbnRzOjpCRUZPUkVfSU1QT1JUID0+ICdwb2t1cycK</text>
       </register>
-      <register name="2" type="4">
+      <register name="9" type="4">
         <text>public function pokus(BeforeImportArgs $args)
 	{
 		dump($args);
 	}</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCS8vJHRoaXMtPm9uQmVmb3JlSW1wb3J0KCRjb25zdW1lciwgJG9wdGlvbnMpOwo=</text>
-      </register>
-      <register name="4" type="4">
-        <text>/**
- * @method onBeforeImport(IElFinderFileConsumer $consumer, MediaImportOptions $options)
- */</text>
-      </register>
-      <register name="5" type="4">
-        <text>/**
-	 * @var \Callable[]
-	 */
-	public $onBeforeImport = [];</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gTWVkaWFJbXBvcnRPcHRpb25zICRvcHRpb25zCgkgKgoJICogQHJldHVybiBCZWZvcmVJbXBvcnRBcmdzCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRPcHRpb25zKE1lZGlhSW1wb3J0T3B0aW9ucyAkb3B0aW9ucyk6IEJlZm9yZUltcG9ydEFyZ3MKCXsKCQkkdGhpcy0+b3B0aW9ucyA9ICRvcHRpb25zOwoJCQoJCXJldHVybiAkdGhpczsKCX0=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gSUVsRmluZGVyRmlsZUNvbnN1bWVyICRjb25zdW1lcgoJICoKCSAqIEByZXR1cm4gQmVmb3JlSW1wb3J0QXJncwoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0Q29uc3VtZXIoSUVsRmluZGVyRmlsZUNvbnN1bWVyICRjb25zdW1lcik6IEJlZm9yZUltcG9ydEFyZ3MKCXsKCQkkdGhpcy0+Y29uc3VtZXIgPSAkY29uc3VtZXI7CgkJCgkJcmV0dXJuICR0aGlzOwoJfQ==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CSAqIEB0aHJvd3MgXERvY3RyaW5lXE9STVxNYXBwaW5nXE1hcHBpbmdFeGNlcHRpb24K</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">dXNlIERvY3RyaW5lXENvbW1vblxFdmVudEFyZ3M7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>783</text>
