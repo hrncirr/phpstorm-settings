@@ -714,6 +714,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" timestamp="1537794987724">
+        <mark key="[" line="185" column="72" />
+        <mark key="]" line="185" column="72" />
+        <mark key="." line="185" column="72" />
+      </file>
       <file name="/home/www/html/nnb/passportization/app/router/TreeIconRouterFactory.php" timestamp="1480338116491">
         <mark key="[" line="45" column="12" />
         <mark key="]" line="45" column="12" />
@@ -3940,10 +3945,10 @@
         <mark key="]" line="107" column="4" />
         <mark key="." line="107" column="4" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/src/Study/Events/StudyFileImportSubscriber.php" timestamp="1537789866604">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="/home/www/html/nnb/patient-studies/src/Study/Events/StudyFileImportSubscriber.php" timestamp="1537795908530">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/DI/Presenters/InquiriesPresenter.php" timestamp="1504095901554">
         <mark key="[" line="15" column="0" />
@@ -3985,11 +3990,11 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" timestamp="1537793458422">
-        <mark key="'" line="230" column="85" />
-        <mark key="[" line="282" column="18" />
-        <mark key="]" line="279" column="0" />
-        <mark key="." line="279" column="0" />
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" timestamp="1537794164546">
+        <mark key="'" line="224" column="85" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/document-parsers/src/Types/Doc.php" timestamp="1488899557143">
         <mark key="[" line="81" column="4" />
@@ -4845,6 +4850,9 @@
         <mark key="]" line="22" column="12" />
         <mark key="." line="22" column="12" />
       </file>
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" timestamp="1537795558361">
+        <mark key="[" line="630" column="14" />
+      </file>
       <file name="/home/www/vendor/hrncirr/media/src/DI/FileExtension.php" timestamp="1513074729629">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="91" column="0" />
@@ -5079,6 +5087,9 @@
       </file>
       <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Components/TechnicalRequisitionsGrid/TechnicalRequisitionsGrid.php" timestamp="1537359749875">
         <mark key="[" line="508" column="4" />
+      </file>
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Utils/Helpers.php" timestamp="1537795191677">
+        <mark key="[" line="51" column="37" />
       </file>
       <file name="/home/www/html/dv/adera/www/js/form.default.submit.js" timestamp="1519319163088">
         <mark key="[" line="46" column="0" />
@@ -6106,8 +6117,8 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/src/Study/Presenters/DefaultPresenter.php" timestamp="1537535405863">
-        <mark key="[" line="31" column="40" />
+      <file name="/home/www/html/nnb/patient-studies/src/Study/Presenters/DefaultPresenter.php" timestamp="1537795847479">
+        <mark key="[" line="32" column="10" />
       </file>
       <file name="/home/www/vendor/hrncirr/media/src/Storages/ImageFormat.php" timestamp="1493879298350">
         <mark key="[" line="23" column="4" />
@@ -7171,8 +7182,8 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/TMediaImporterControl.php" timestamp="1520848833541">
-        <mark key="[" line="48" column="0" />
+      <file name="/home/www/vendor/hrncirr/elfinder/src/TMediaImporterControl.php" timestamp="1537794434241">
+        <mark key="[" line="182" column="46" />
         <mark key="]" line="48" column="4" />
         <mark key="." line="48" column="4" />
       </file>
@@ -7942,10 +7953,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkvKgo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="-" type="4">
-        <text>public const NAME = 'elFinder.mediaConsumer.beforeImport';</text>
+        <text>strlen($oldId) - 8</text>
       </register>
       <register name="/" type="4">
         <text>setRoot</text>
@@ -7954,31 +7965,32 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvKgo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlkdW1wKCR0aGlzLT5yb290RGlyTmFtZSk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlkdW1wKCRhcmdzLT5nZXRFbnRpdHkoKSk7Cg==</text>
+        <text encoding="base64">dXNlIEhybmNpcnJcRWxGaW5kZXJcRG9jdHJpbmVcRG9jdHJpbmVFdmVudHM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">dXNlIERvY3RyaW5lXE9STVxFdmVudFxQcmVVcGRhdGVFdmVudEFyZ3M7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlkdW1wKCdkc2ZzZnNkZmRzJyk7Cg==</text>
+        <text encoding="base64">dXNlIERvY3RyaW5lXE9STVxFdmVudFxPbkZsdXNoRXZlbnRBcmdzOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkkdGhpcy0+Y2hlY2tDb25zdW1lcigpCg==</text>
+        <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlkdW1wKCdibGEgYjtsYScpOwo=</text>
+      <register name="8" type="4">
+        <text>dump($args);
+		exit;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XEV2ZW50RGlzcGF0Y2hlclxFdmVudDsK</text>
+        <text encoding="base64">CQkJRXZlbnRzOjpvbkZsdXNoID0+ICdwb2t1cycsCg==</text>
       </register>
       <register name=":" type="4">
         <text>783</text>
