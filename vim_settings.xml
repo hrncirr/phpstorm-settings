@@ -1313,6 +1313,9 @@
         <mark key="]" line="12" column="15" />
         <mark key="." line="12" column="15" />
       </file>
+      <file name="/home/www/lib/vendor/hrncirr-cms/file/src/MediaFacade.php" timestamp="1537882271283">
+        <mark key="[" line="76" column="55" />
+      </file>
       <file name="/home/www/lib/vendor/hrncirr/forms-tags-input/src/Controls/TagsInput.php" timestamp="1519393790737">
         <mark key="[" line="383" column="21" />
         <mark key="]" line="382" column="55" />
@@ -2821,10 +2824,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/src/Study/Components/StudyForm/StudyForm.php" timestamp="1537880929622">
-        <mark key="[" line="112" column="4" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="/home/www/html/nnb/patient-studies/src/Study/Components/StudyForm/StudyForm.php" timestamp="1537881768243">
+        <mark key="'" line="61" column="53" />
+        <mark key="[" line="166" column="25" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/File/Components/FileManagerControlFactory.php" timestamp="1505305008535">
         <mark key="[" line="12" column="0" />
@@ -6364,7 +6368,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537796933144">
+      <file name="/Dummy.txt" timestamp="1537882351541">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -7869,10 +7873,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="6" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
-      <jump line="207" column="47" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" />
-      <jump line="128" column="6" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" />
-      <jump line="231" column="85" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" />
       <jump line="2306" column="61" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" />
       <jump line="1461" column="20" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" />
       <jump line="1330" column="20" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" />
@@ -7969,61 +7969,60 @@
       <jump line="371" column="0" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
       <jump line="422" column="12" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
       <jump line="630" column="12" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
+      <jump line="159" column="31" filename="/home/www/html/nnb/patient-studies/src/Study/Components/StudyForm/StudyForm.php" />
+      <jump line="21" column="28" filename="/home/www/html/nnb/patient-studies/src/Study/Components/StudyForm/StudyForm.php" />
+      <jump line="60" column="14" filename="/home/www/html/nnb/patient-studies/src/Study/Components/StudyForm/StudyForm.php" />
+      <jump line="63" column="53" filename="/home/www/html/nnb/patient-studies/src/Study/Components/StudyForm/StudyForm.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dump('ok');
-					exit;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkkdGhpcy0+ZGlyZWN0b3J5SGVscGVyID0gJGRpcmVjdG9yeUhlbHBlcjsK</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>DirectoryHelper $directoryHelper,</text>
       </register>
       <register name="/" type="4">
-        <text>sessionSection</text>
+        <text>Directo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
-        <text>dump('ok');
-					exit;</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkkdGhpcy0+ZGlyZWN0b3J5SGVscGVyID0gJGRpcmVjdG9yeUhlbHBlcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCS8vJHVvdy0+Y29tcHV0ZUNoYW5nZVNldCgkZW0tPmdldENsYXNzTWV0YWRhdGEoXGdldF9jbGFzcygkZWxGaW5kZXJGaWxlQ29uc3VtZXIpKSwgJGVsRmluZGVyRmlsZUNvbnN1bWVyKTsK</text>
+        <text encoding="base64">CSAqIEBwYXJhbSBEaXJlY3RvcnlIZWxwZXIgJGRpcmVjdG9yeUhlbHBlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCSRlbS0+Z2V0Q2xhc3NNZXRhZGF0YShcZ2V0X2NsYXNzKCRlbEZpbmRlckZpbGVDb25zdW1lcikpCg==</text>
+        <text encoding="base64">dXNlIEhybmNpcnJDTVNcRmlsZVxIZWxwZXJzXERpcmVjdG9yeUhlbHBlcjsK</text>
       </register>
       <register name="4" type="4">
-        <text>/**
-	 * @param EntityManager $em
-	 *
-	 * @throws \Exception
-	 */</text>
+        <text encoding="base64">LyoKCQkkdGhpcy0+ZW0tPnRyYW5zYWN0aW9uYWwoZnVuY3Rpb24gKCkgdXNlICgkZm9ybSwgJHN0dWR5KSB7CgkJCSR0aGlzLT5lbS0+cGVyc2lzdCgkc3R1ZHkpLT5mbHVzaCgpOwoJCX0pOwoJCSov</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">LyoqIEB2YXIgU3R1ZHkgJHN0dWR5ICovCgkJJHN0dWR5ID0gJGZvcm0tPmdldEVudGl0eSgpOw==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="6" type="4">
+        <text encoding="base64">LyoqIEB2YXIgU3R1ZHkgJHN0dWR5ICovCgkJJHN0dWR5ID0gJGZvcm0tPmdldEVudGl0eSgpOwoJCQoJCSR0aGlzLT5zYXZlRWxGaW5kZXJGaWxlQ29uc3VtZXIoJHRoaXMtPmVtKTsKCQkKCQkvKgoJCSR0aGlzLT5lbS0+dHJhbnNhY3Rpb25hbChmdW5jdGlvbiAoKSB1c2UgKCRmb3JtLCAkc3R1ZHkpIHsKCQkJJHRoaXMtPmVtLT5wZXJzaXN0KCRzdHVkeSktPmZsdXNoKCk7CgkJfSk7CgkJKi8=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlkdW1wKCdvYicpOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">LyoKCQkkdGhpcy0+ZW0tPnRyYW5zYWN0aW9uYWwoZnVuY3Rpb24gKCkgdXNlICgkZm9ybSwgJHN0dWR5KSB7CgkJCSR0aGlzLT5lbS0+cGVyc2lzdCgkc3R1ZHkpLT5mbHVzaCgpOwoJCX0pOwoJCSov</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="8" type="4">
+        <text encoding="base64">LyoqIEB2YXIgU3R1ZHkgJHN0dWR5ICovCgkJJHN0dWR5ID0gJGZvcm0tPmdldEVudGl0eSgpOw==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzLT5nZXRFbEZpbmRlckZpbGVDb25zdW1lcigpKTsK</text>
+      <register name="9" type="4">
+        <text>dump('ok');
+					exit;</text>
       </register>
       <register name=":" type="4">
         <text>4132</text>
       </register>
     </registers>
     <search>
-      <last-search>sessionSection</last-search>
+      <last-search>Directo</last-search>
       <last-offset />
-      <last-pattern>sessionSection</last-pattern>
+      <last-pattern>Directo</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -8031,7 +8030,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setRoot</entry>
         <entry>URL</entry>
         <entry>_createUrl</entry>
         <entry>stat</entry>
@@ -8051,6 +8049,7 @@
         <entry>mount</entry>
         <entry>getSession</entry>
         <entry>sessionSection</entry>
+        <entry>Directo</entry>
       </history-search>
       <history-cmd>
         <entry>%s/recipients/emails</entry>
