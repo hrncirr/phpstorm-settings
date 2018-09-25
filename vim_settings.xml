@@ -4850,8 +4850,11 @@
         <mark key="]" line="22" column="12" />
         <mark key="." line="22" column="12" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" timestamp="1537795558361">
-        <mark key="[" line="630" column="14" />
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" timestamp="1537866205694">
+        <mark key="'" line="135" column="21" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="507" column="0" />
+        <mark key="." line="507" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/media/src/DI/FileExtension.php" timestamp="1513074729629">
         <mark key="[" line="32" column="0" />
@@ -5581,6 +5584,9 @@
         <mark key="]" line="34" column="4" />
         <mark key="." line="34" column="4" />
       </file>
+      <file name="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" timestamp="1537866190238">
+        <mark key="'" line="4564" column="19" />
+      </file>
       <file name="/home/www/vendor/hrncirr/history/src/DI/HistoryExtension.php" timestamp="1523270669659">
         <mark key="[" line="37" column="17" />
         <mark key="]" line="39" column="0" />
@@ -5937,6 +5943,11 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="4" />
         <mark key="." line="14" column="4" />
+      </file>
+      <file name="/home/www/lib/vendor/hrncirr-cms/file/src/Components/FileManagerControlFactory.php" timestamp="1537864258184">
+        <mark key="[" line="111" column="15" />
+        <mark key="]" line="111" column="15" />
+        <mark key="." line="111" column="15" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Presenters/OrdersPresenter.php" timestamp="1536844198851">
         <mark key="[" line="25" column="34" />
@@ -7850,72 +7861,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1194" column="66" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
-      <jump line="20" column="14" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="408" column="9" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="473" column="15" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1086" column="16" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1091" column="21" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1092" column="77" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1094" column="37" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1095" column="19" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1097" column="27" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1235" column="33" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="3958" column="23" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="407" column="17" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="25" column="15" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
-      <jump line="43" column="72" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
-      <jump line="44" column="46" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
-      <jump line="64" column="102" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
-      <jump line="78" column="44" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
-      <jump line="81" column="53" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
-      <jump line="82" column="44" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
-      <jump line="2" column="58" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/conversions.latte" />
-      <jump line="217" column="32" filename="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/Controls/TextControl.php" />
-      <jump line="231" column="54" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
-      <jump line="253" column="15" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
-      <jump line="257" column="88" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
-      <jump line="270" column="95" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
-      <jump line="309" column="17" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
-      <jump line="83" column="94" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
-      <jump line="99" column="117" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
-      <jump line="141" column="29" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
-      <jump line="151" column="35" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
-      <jump line="184" column="35" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
-      <jump line="195" column="19" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
-      <jump line="96" column="42" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
-      <jump line="118" column="13" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
-      <jump line="120" column="18" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
-      <jump line="298" column="63" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
-      <jump line="263" column="60" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
-      <jump line="289" column="58" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
-      <jump line="304" column="21" filename="/home/www/lib/vendor/arachne/entity-loader/src/Application/ParameterFinder.php" />
-      <jump line="94" column="49" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoicesGrid/InvoicesGrid.php" />
-      <jump line="17" column="0" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InspectionsGrid/InspectionsGrid.php" />
-      <jump line="26" column="21" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InterventionsGrid/InterventionsGrid.php" />
-      <jump line="14" column="0" filename="/home/www/html/dv/adera/Modules/Invoicing/Presenters/BaseBusinessCaseDocumentPresenter.php" />
-      <jump line="103" column="50" filename="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/Controls/ToMany.php" />
-      <jump line="46" column="62" filename="/home/www/html/dv/adera/Modules/Storage/DI/StorageExtension.php" />
-      <jump line="36" column="20" filename="/home/www/html/dv/adera/app/config/extensions/doctrine.neon" />
-      <jump line="361" column="9" filename="/home/www/html/dv/adera/Modules/Storage/Components/CatalogItemForm/CatalogItemForm.php" />
-      <jump line="121" column="52" filename="/home/www/lib/vendor/hrncirr/document-parsers/src/DI/DocumentParsersExtension.php" />
-      <jump line="125" column="41" filename="/home/www/html/dv/adera/Modules/Storage/Components/ExporterForm/ExporterForm.php" />
-      <jump line="199" column="44" filename="/home/www/html/dv/adera/Modules/Storage/Components/CatalogItemForm/templates/CatalogItemForm.latte" />
-      <jump line="3" column="111" filename="/home/www/html/dv/adera/Modules/Document/Components/templates/formLayout.latte" />
-      <jump line="789" column="20" filename="/home/www/html/dv/adera/libs/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" />
-      <jump line="102" column="46" filename="/home/www/html/nnb/dms/src/Search/Events/SearchableListener.php" />
-      <jump line="719" column="37" filename="/home/www/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" />
-      <jump line="986" column="22" filename="/home/www/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" />
-      <jump line="1014" column="55" filename="/home/www/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" />
-      <jump line="27" column="6" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseBusinessCaseDocumentGrid.php" />
-      <jump line="126" column="4" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNotesGrid/CreditNotesGrid.php" />
-      <jump line="133" column="36" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNotesGrid/CreditNotesGrid.php" />
-      <jump line="151" column="36" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNotesGrid/CreditNotesGrid.php" />
-      <jump line="157" column="36" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNotesGrid/CreditNotesGrid.php" />
-      <jump line="165" column="44" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNotesGrid/CreditNotesGrid.php" />
-      <jump line="364" column="55" filename="/home/www/html/dv/adera/libs/vendor/symfony/property-access/PropertyAccessor.php" />
-      <jump line="813" column="21" filename="/home/www/html/dv/adera/libs/vendor/symfony/property-access/PropertyAccessor.php" />
-      <jump line="717" column="29" filename="/home/www/html/dv/adera/libs/vendor/symfony/property-access/PropertyAccessor.php" />
       <jump line="19" column="32" filename="/home/www/html/dv/adera/libs/vendor/symfony/property-access/PropertyAccessor.php" />
       <jump line="56" column="39" filename="/home/www/html/dv/adera/www/js/invoicing.credit.note.js" />
       <jump line="66" column="12" filename="/home/www/html/dv/adera/www/js/invoicing.credit.note.js" />
@@ -7950,16 +7895,82 @@
       <jump line="1330" column="20" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" />
       <jump line="1398" column="20" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" />
       <jump line="1410" column="20" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" />
+      <jump line="98" column="24" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
+      <jump line="194" column="36" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
+      <jump line="219" column="59" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
+      <jump line="666" column="37" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
+      <jump line="1207" column="28" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
+      <jump line="359" column="32" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
+      <jump line="481" column="43" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
+      <jump line="657" column="4" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
+      <jump line="849" column="44" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
+      <jump line="600" column="32" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
+      <jump line="656" column="23" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
+      <jump line="541" column="43" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
+      <jump line="606" column="29" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
+      <jump line="630" column="40" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
+      <jump line="36" column="6" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
+      <jump line="890" column="15" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="920" column="28" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="206" column="19" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="449" column="11" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="450" column="9" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="654" column="15" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="707" column="45" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="865" column="37" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="894" column="23" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="896" column="16" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="898" column="32" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="899" column="26" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="903" column="12" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="909" column="46" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="20" column="22" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="17" column="46" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
+      <jump line="543" column="43" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
+      <jump line="658" column="23" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
+      <jump line="133" column="21" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
+      <jump line="3327" column="35" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="3454" column="29" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="3455" column="30" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="3598" column="14" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="4043" column="23" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="4048" column="38" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="4066" column="23" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="4072" column="29" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="4256" column="25" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="4562" column="19" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="4565" column="25" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="6096" column="9" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="6097" column="99" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="6098" column="40" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="6187" column="29" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="241" column="28" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="664" column="30" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="672" column="19" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="676" column="15" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="208" column="14" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="683" column="15" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="1292" column="23" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="1296" column="19" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="1829" column="23" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="3453" column="19" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="4042" column="23" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="4047" column="27" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="4063" column="31" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="4207" column="56" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="4255" column="28" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="4561" column="19" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
+      <jump line="4564" column="19" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CQkK</text>
       </register>
       <register name="-" type="4">
-        <text>strlen($oldId) - 8</text>
+        <text>(string)rand(80000)</text>
       </register>
       <register name="/" type="4">
-        <text>setRoot</text>
+        <text>sessionCaching</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
@@ -7968,38 +7979,38 @@
         <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzLT5yb290RGlyTmFtZSk7Cg==</text>
+        <text encoding="base64">CQlkdW1wKCRwYXRoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+        <text encoding="base64">CQkkaSA9IDA7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJcRWxGaW5kZXJcRG9jdHJpbmVcRG9jdHJpbmVFdmVudHM7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXNlIERvY3RyaW5lXE9STVxFdmVudFxQcmVVcGRhdGVFdmVudEFyZ3M7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXNlIERvY3RyaW5lXE9STVxFdmVudFxPbkZsdXNoRXZlbnRBcmdzOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>dump($args);
+      <register name="4" type="4">
+        <text>dump('ok');
 		exit;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJRXZlbnRzOjpvbkZsdXNoID0+ICdwb2t1cycsCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCWR1bXAoJHBhdGgpOwo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">Ly9kdW1wKCRmaWxlKTsKCQkJCS8vZXhpdDsKCQkJCQoJCQkJZHVtcCgkdGhpcy0+cm9vdCk7CgkJCQlleGl0Ow==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQlkdW1wKCRwYXRoKTsK</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">aWYgKCRpID09PSAxKSB7CgkJCQlkdW1wKCR0aGlzLT5kZWNvZGUoJGZpbGVbJ3BoYXNoJ10pKTsKCQkJCWV4aXQ7CgkJCX0KCQkJCQoJCQkkaSsrOw==</text>
       </register>
       <register name=":" type="4">
-        <text>783</text>
+        <text>3328</text>
       </register>
     </registers>
     <search>
-      <last-search>setRoot</last-search>
+      <last-search>sessionCaching</last-search>
       <last-offset />
-      <last-pattern>setRoot</last-pattern>
+      <last-pattern>sessionCaching</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -8007,35 +8018,28 @@
     </search>
     <history>
       <history-search>
-        <entry>uname</entry>
-        <entry>count</entry>
-        <entry>onModalHide</entry>
-        <entry>handleOnModalHide</entry>
-        <entry>validate</entry>
-        <entry>handleSelect</entry>
-        <entry>onConfigure</entry>
-        <entry>remove</entry>
-        <entry>NULL</entry>
-        <entry>handleCreate</entry>
-        <entry>getTreeConfig</entry>
-        <entry>UI</entry>
-        <entry encoding="base64">JHRoaXMtPmlk</entry>
-        <entry encoding="base64">JHRoaXMtPmZpbHRlcg==</entry>
         <entry>seesion</entry>
-        <entry>session</entry>
         <entry>onBefore</entry>
         <entry>Events</entry>
         <entry>isScheduled</entry>
         <entry>setRoot</entry>
+        <entry>URL</entry>
+        <entry>_createUrl</entry>
+        <entry>stat</entry>
+        <entry>_getParents</entry>
+        <entry>get_parents</entry>
+        <entry>getParents</entry>
+        <entry>$this-id</entry>
+        <entry encoding="base64">JHRoaXMtPmlk</entry>
+        <entry>cache</entry>
+        <entry>sessionCache</entry>
+        <entry>_stat</entry>
+        <entry>_dirname</entry>
+        <entry>session</entry>
+        <entry>sessionCAching</entry>
+        <entry>sessionCaching</entry>
       </history-search>
       <history-cmd>
-        <entry>425</entry>
-        <entry>260</entry>
-        <entry>187</entry>
-        <entry>60</entry>
-        <entry>%s/DateTimeImmutable/DateTime/g</entry>
-        <entry>145</entry>
-        <entry>104</entry>
         <entry>%s/recipients/emails</entry>
         <entry>%s/recipient/email</entry>
         <entry>189</entry>
@@ -8049,6 +8053,13 @@
         <entry>%s/view/viewButton/g</entry>
         <entry>%s/NULL/null/g</entry>
         <entry>783</entry>
+        <entry>_getParents</entry>
+        <entry>4036</entry>
+        <entry>4123</entry>
+        <entry>1684</entry>
+        <entry>4063</entry>
+        <entry>4132</entry>
+        <entry>3328</entry>
       </history-cmd>
       <history-expr />
       <history-input />
