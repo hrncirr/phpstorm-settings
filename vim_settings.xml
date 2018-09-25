@@ -4850,11 +4850,11 @@
         <mark key="]" line="22" column="12" />
         <mark key="." line="22" column="12" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" timestamp="1537870845074">
-        <mark key="'" line="220" column="21" />
-        <mark key="[" line="113" column="8" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" timestamp="1537872616431">
+        <mark key="'" line="219" column="21" />
+        <mark key="[" line="129" column="8" />
+        <mark key="]" line="129" column="8" />
+        <mark key="." line="129" column="8" />
       </file>
       <file name="/home/www/vendor/hrncirr/media/src/DI/FileExtension.php" timestamp="1513074729629">
         <mark key="[" line="32" column="0" />
@@ -5944,8 +5944,8 @@
         <mark key="]" line="14" column="4" />
         <mark key="." line="14" column="4" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr-cms/file/src/Components/FileManagerControlFactory.php" timestamp="1537870720512">
-        <mark key="[" line="98" column="16" />
+      <file name="/home/www/lib/vendor/hrncirr-cms/file/src/Components/FileManagerControlFactory.php" timestamp="1537872638081">
+        <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
@@ -7964,10 +7964,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCS8vJ2lkJyA9PiAkZWxGaW5kZXJGaWxlQ29uc3VtZXItPmdldEZpbGVSb290KCktPmdldElkKCksCg==</text>
       </register>
       <register name="-" type="4">
-        <text>!array_key_exists('id',</text>
+        <text encoding="base64">Z2V0dHlwZSgkdGhpcy0+b3B0aW9uc1snaWdub3JlRmlsZXMnXSkp</text>
       </register>
       <register name="/" type="4">
         <text>mount</text>
@@ -7976,31 +7976,33 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCS8vJ2lkJyA9PiAkZWxGaW5kZXJGaWxlQ29uc3VtZXItPmdldEZpbGVSb290KCktPmdldElkKCksCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQlkdW1wKCdhYWFhYScpOwo=</text>
+      <register name="2" type="4">
+        <text>dump('aaaa');
+		exit;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="3" type="4">
+        <text>dump(str_replace('\\' , '', $opts['className']));
+		exit;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+        <text encoding="base64">CQlkdW1wKCRjb250cm9sKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzLT5vcHRpb25zWydpZCddKTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">aWYgKGVtcHR5KCRvcHRzWydpZCddKSkgewoJCQkkdGhpcy0+c2V0RXJyb3IoJ09wdGlvbiAiaWQiIG11c3QgYmUgc2V0LicpOwoJCX0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCSdpZCcgPT4gJGVsRmluZGVyRmlsZUNvbnN1bWVyLT5nZXRGaWxlUm9vdCgpLT5nZXRJZCgpLAo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">aWYgKGVtcHR5KCR0aGlzLT5vcHRpb25zWydpZCddKSkgewoJCQkkdGhpcy0+b3B0aW9uc1snaWQnXSA9ICR0aGlzLT5vcHRpb25zWydwYXRoJ107CgkJfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQlkdW1wKCdhYWFhJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCSdpZCcgPT4gJGVsRmluZGVyRmlsZUNvbnN1bWVyLT5nZXRGaWxlUm9vdCgpLT5nZXRJZCgpLAo=</text>
+        <text encoding="base64">CQkJJHRoaXMtPm9wdGlvbnNbJ2lkJ10gPSAkdGhpcy0+b3B0aW9uc1sncGF0aCddOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZHVtcCgkdGhpcy0+b3B0aW9uc1snaWQnXSk7CgkJZXhpdDs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>4132</text>
