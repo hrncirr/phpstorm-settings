@@ -4850,11 +4850,11 @@
         <mark key="]" line="22" column="12" />
         <mark key="." line="22" column="12" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" timestamp="1537866205694">
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" timestamp="1537867939468">
         <mark key="'" line="135" column="21" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="507" column="0" />
-        <mark key="." line="507" column="0" />
+        <mark key="[" line="342" column="14" />
+        <mark key="]" line="342" column="14" />
+        <mark key="." line="342" column="14" />
       </file>
       <file name="/home/www/vendor/hrncirr/media/src/DI/FileExtension.php" timestamp="1513074729629">
         <mark key="[" line="32" column="0" />
@@ -7963,8 +7963,10 @@
       <jump line="4564" column="19" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="&quot;" type="4">
+        <text>else {
+				$path = false;
+			}</text>
       </register>
       <register name="-" type="4">
         <text>(string)rand(80000)</text>
@@ -7975,33 +7977,35 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="1" type="4">
+        <text>else {
+				$path = false;
+			}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlkdW1wKCRwYXRoKTsK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CQlkdW1wKCRwYXRoKTsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CQkkaSA9IDA7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>dump('ok');
 		exit;</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJCWR1bXAoJHBhdGgpOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">Ly9kdW1wKCRmaWxlKTsKCQkJCS8vZXhpdDsKCQkJCQoJCQkJZHVtcCgkdGhpcy0+cm9vdCk7CgkJCQlleGl0Ow==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQlkdW1wKCRwYXRoKTsK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">aWYgKCRpID09PSAxKSB7CgkJCQlkdW1wKCR0aGlzLT5kZWNvZGUoJGZpbGVbJ3BoYXNoJ10pKTsKCQkJCWV4aXQ7CgkJCX0KCQkJCQoJCQkkaSsrOw==</text>
       </register>
       <register name=":" type="4">
         <text>3328</text>
