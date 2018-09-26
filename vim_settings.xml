@@ -3538,6 +3538,11 @@
         <mark key="]" line="51" column="8" />
         <mark key="." line="51" column="8" />
       </file>
+      <file name="/home/www/html/nnb/patient-studies/src/Study/StudyType.php" timestamp="1537950083893">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="/home/www/html/dv/cms/Modules/AddressBook/Components/ContactsGrid/ContactsGrid.php" timestamp="1500548463877">
         <mark key="[" line="128" column="49" />
         <mark key="]" line="128" column="0" />
@@ -7979,7 +7984,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEtucFxEb2N0cmluZUJlaGF2aW9yc1xNb2RlbFxUaW1lc3RhbXBhYmxlXFRpbWVzdGFtcGFibGU7Cg==</text>
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XFZhbGlkYXRvclxDb25zdHJhaW50cyBhcyBBc3NlcnQ7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>DirectoryHelper $directoryHelper,</text>
@@ -7991,28 +7996,32 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEtucFxEb2N0cmluZUJlaGF2aW9yc1xNb2RlbFxUaW1lc3RhbXBhYmxlXFRpbWVzdGFtcGFibGU7Cg==</text>
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XFZhbGlkYXRvclxDb25zdHJhaW50cyBhcyBBc3NlcnQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEtucFxEb2N0cmluZUJlaGF2aW9yc1xNb2RlbFxUaW1lc3RhbXBhYmxlXFRpbWVzdGFtcGFibGU7Cg==</text>
+        <text encoding="base64">ICogICAgICBtZXNzYWdlPSJmb3JtT2ZQYXltZW50QWxyZWFkeUV4aXN0cyIK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkkdGhpcy0+ZGlyZWN0b3J5SGVscGVyID0gJGRpcmVjdG9yeUhlbHBlcjsK</text>
+      <register name="3" type="4">
+        <text>@Assert\NotBlank(message=&quot;formOfPaymentNameNotBlank&quot;)
+	 * @Assert\Length(
+	 *      min=3,
+	 *      max=128
+	 * )</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSBEaXJlY3RvcnlIZWxwZXIgJGRpcmVjdG9yeUhlbHBlcgo=</text>
+        <text encoding="base64">dXNlIEtucFxEb2N0cmluZUJlaGF2aW9yc1xNb2RlbFxUaW1lc3RhbXBhYmxlXFRpbWVzdGFtcGFibGU7Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">dXNlIEtucFxEb2N0cmluZUJlaGF2aW9yc1xNb2RlbFxUaW1lc3RhbXBhYmxlXFRpbWVzdGFtcGFibGU7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkkdGhpcy0+ZGlyZWN0b3J5SGVscGVyID0gJGRpcmVjdG9yeUhlbHBlcjsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CSAqIEBwYXJhbSBEaXJlY3RvcnlIZWxwZXIgJGRpcmVjdG9yeUhlbHBlcgo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">dXNlIEhybmNpcnJDTVNcRmlsZVxIZWxwZXJzXERpcmVjdG9yeUhlbHBlcjsK</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">LyoKCQkkdGhpcy0+ZW0tPnRyYW5zYWN0aW9uYWwoZnVuY3Rpb24gKCkgdXNlICgkZm9ybSwgJHN0dWR5KSB7CgkJCSR0aGlzLT5lbS0+cGVyc2lzdCgkc3R1ZHkpLT5mbHVzaCgpOwoJCX0pOwoJCSov</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">LyoqIEB2YXIgU3R1ZHkgJHN0dWR5ICovCgkJJHN0dWR5ID0gJGZvcm0tPmdldEVudGl0eSgpOw==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">LyoqIEB2YXIgU3R1ZHkgJHN0dWR5ICovCgkJJHN0dWR5ID0gJGZvcm0tPmdldEVudGl0eSgpOwoJCQoJCSR0aGlzLT5zYXZlRWxGaW5kZXJGaWxlQ29uc3VtZXIoJHRoaXMtPmVtKTsKCQkKCQkvKgoJCSR0aGlzLT5lbS0+dHJhbnNhY3Rpb25hbChmdW5jdGlvbiAoKSB1c2UgKCRmb3JtLCAkc3R1ZHkpIHsKCQkJJHRoaXMtPmVtLT5wZXJzaXN0KCRzdHVkeSktPmZsdXNoKCk7CgkJfSk7CgkJKi8=</text>
       </register>
       <register name="9" type="4">
         <text encoding="base64">LyoKCQkkdGhpcy0+ZW0tPnRyYW5zYWN0aW9uYWwoZnVuY3Rpb24gKCkgdXNlICgkZm9ybSwgJHN0dWR5KSB7CgkJCSR0aGlzLT5lbS0+cGVyc2lzdCgkc3R1ZHkpLT5mbHVzaCgpOwoJCX0pOwoJCSov</text>
