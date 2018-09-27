@@ -566,7 +566,11 @@
         <mark key="]" line="181" column="16" />
         <mark key="." line="181" column="16" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Events/ContractFileImportSubscriber.php" timestamp="1538050714488" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Events/ContractFileImportSubscriber.php" timestamp="1538051733627">
+        <mark key="[" line="54" column="55" />
+        <mark key="]" line="54" column="35" />
+        <mark key="." line="54" column="35" />
+      </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/MediaLinkGenerator.php" timestamp="1476193112179">
         <mark key="[" line="27" column="29" />
         <mark key="]" line="20" column="0" />
@@ -3950,8 +3954,8 @@
         <mark key="]" line="107" column="4" />
         <mark key="." line="107" column="4" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/src/Study/Events/StudyFileImportSubscriber.php" timestamp="1538050698687">
-        <mark key="[" line="58" column="0" />
+      <file name="/home/www/html/nnb/patient-studies/src/Study/Events/StudyFileImportSubscriber.php" timestamp="1538051765348">
+        <mark key="[" line="51" column="61" />
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
@@ -4629,7 +4633,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Address.php" timestamp="1537947157993" />
       <file name="/home/www/vendor/hrncirr/document-parsers/src/Utils/Ocr.php" timestamp="1489399036061">
         <mark key="[" line="119" column="8" />
         <mark key="]" line="119" column="8" />
@@ -7989,11 +7992,11 @@
       <jump line="63" column="53" filename="/home/www/html/nnb/patient-studies/src/Study/Components/StudyForm/StudyForm.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>IElFinderFileConsumer $consumer, MediaImportOptions $options</text>
       </register>
       <register name="-" type="4">
-        <text>Dokumenty{* Dokumentační systém *</text>
+        <text>IElFinderFileConsumer $consumer, MediaImportOptions $options</text>
       </register>
       <register name="/" type="4">
         <text>Directo</text>
