@@ -2447,6 +2447,9 @@
         <mark key="]" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
+      <file name="/home/www/lib/vendor/hrncirr-cms/file/src/MediaFacade.php" timestamp="1538558455974">
+        <mark key="[" line="53" column="35" />
+      </file>
       <file name="/home/www/lib/vendor/hrncirr/forms-tags-input/src/Controls/TagsInput.php" timestamp="1519393790737">
         <mark key="[" line="383" column="21" />
         <mark key="]" line="382" column="55" />
@@ -2616,6 +2619,11 @@
         <mark key="[" line="103" column="29" />
         <mark key="]" line="104" column="0" />
         <mark key="." line="104" column="0" />
+      </file>
+      <file name="/home/www/lib/vendor/hrncirr-cms/file/src/FileFacade.php" timestamp="1538558418147">
+        <mark key="[" line="20" column="51" />
+        <mark key="]" line="20" column="51" />
+        <mark key="." line="20" column="51" />
       </file>
       <file name="/home/www/html/dv/cms/src/Admin/AdminModule/Presenters/ExtensionsPresenter.php" timestamp="1506522874483">
         <mark key="[" line="38" column="54" />
@@ -3144,6 +3152,9 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="4" />
         <mark key="." line="31" column="4" />
+      </file>
+      <file name="/home/www/lib/vendor/hrncirr-cms/file/src/ImageFacade.php" timestamp="1538558499302">
+        <mark key="[" line="18" column="49" />
       </file>
       <file name="/home/www/lib/vendor/arachne/entity-loader/src/DI/EntityLoaderExtension.php" timestamp="1514378523683">
         <mark key="[" line="101" column="8" />
@@ -4700,7 +4711,7 @@
         <mark key="]" line="13" column="15" />
         <mark key="." line="13" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538552290780">
+      <file name="/Dummy.txt" timestamp="1538558566286">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -7627,11 +7638,11 @@
       <jump line="63" column="53" filename="/home/www/html/nnb/patient-studies/src/Study/Components/StudyForm/StudyForm.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJcTWVkaWFcRG9jdHJpbmVcSW1hZ2VQcm9wZXJ0aWVzOwo=</text>
+      <register name="&quot;" type="4">
+        <text>: ?IFile</text>
       </register>
       <register name="-" type="4">
-        <text>IElFinderFileConsumer $consumer, MediaImportOptions $options</text>
+        <text>: ?IFile</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
