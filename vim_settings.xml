@@ -476,10 +476,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/app/Presenters/BasePresenter.php" timestamp="1517906553200">
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
+      <file name="/home/www/html/nnb/dms/app/Presenters/BasePresenter.php" timestamp="1538570743132">
+        <mark key="[" line="119" column="33" />
+        <mark key="]" line="69" column="4" />
+        <mark key="." line="69" column="4" />
       </file>
       <file name="/home/www/html/dv/cms/app/AdminModule/Presenters/templates/lte/breadcrumb.latte" timestamp="1491987064530">
         <mark key="[" line="13" column="52" />
@@ -3841,6 +3841,9 @@
         <mark key="]" line="16" column="4" />
         <mark key="." line="16" column="4" />
       </file>
+      <file name="/home/www/html/nnb/dms/app/Components/GridFactory.php" timestamp="1538570681163">
+        <mark key="[" line="11" column="27" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/OfferForm/OfferForm.latte" timestamp="1532948079565">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -4711,10 +4714,10 @@
         <mark key="]" line="13" column="15" />
         <mark key="." line="13" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538558566286">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1538570658879">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Folders/components/ConversionsForm/ConversionsForm.php" timestamp="1486042117499">
         <mark key="[" line="88" column="32" />
@@ -4895,6 +4898,9 @@
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/dms/app/Components/BaseGrid.php" timestamp="1538570697931">
+        <mark key="[" line="19" column="27" />
       </file>
       <file name="/home/www/html/bul/mamo/app/components/SignInForm/SignInForm.latte" timestamp="1481268293755">
         <mark key="[" line="18" column="4" />
@@ -6028,7 +6034,6 @@
         <mark key="]" line="61" column="15" />
         <mark key="." line="61" column="15" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Model/News.php" timestamp="1538552340123" />
       <file name="/home/www/html/nnb/dms/src/Documents/Exceptions/DocumentAlreadyExistsException.php" timestamp="1488369264017">
         <mark key="[" line="13" column="65" />
         <mark key="]" line="10" column="0" />
@@ -6082,7 +6087,7 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/app/Router/RouterFactory.php" timestamp="1537276324313">
+      <file name="/home/www/html/nnb/patient-studies/app/Router/RouterFactory.php" timestamp="1538570625634">
         <mark key="[" line="28" column="35" />
         <mark key="]" line="32" column="16" />
         <mark key="." line="32" column="16" />
@@ -6880,6 +6885,9 @@
         <mark key="]" line="40" column="4" />
         <mark key="." line="40" column="4" />
       </file>
+      <file name="/home/www/html/nnb/dms/app/Components/ItemsPerPageFactory.php" timestamp="1538570708876">
+        <mark key="[" line="24" column="27" />
+      </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Model/Orm/Accounts/Steiner/EyeRoomAccounts/OrpheusAccountsRepository.php" timestamp="1509457221799">
         <mark key="[" line="11" column="61" />
         <mark key="]" line="11" column="61" />
@@ -7073,7 +7081,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/home/www/vendor/nette/utils/src/Utils/Callback.php" timestamp="1538483219870" />
       <file name="/home/www/html/dv/adera/src/User/Privilege.php" timestamp="1532427663809">
         <mark key="[" line="20" column="25" />
         <mark key="]" line="21" column="0" />
@@ -7639,36 +7646,35 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>: ?IFile</text>
+        <text>Components</text>
       </register>
       <register name="-" type="4">
-        <text>: ?IFile</text>
+        <text>Components</text>
       </register>
       <register name="/" type="4">
-        <text>create</text>
+        <text>notAllowed</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJcTWVkaWFcRG9jdHJpbmVcSW1hZ2VQcm9wZXJ0aWVzOwo=</text>
+      <register name="1" type="4">
+        <text>/**
+	 * @param $element
+	 *
+	 * @throws ForbiddenRequestException
+	 */</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">dXNlIEhybmNpcnJcTWVkaWFcRG9jdHJpbmVcSW1hZ2VQcm9wZXJ0aWVzOwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CXVzZSBJbWFnZVByb3BlcnRpZXM7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">LQoJCWNsYXNzOiBJbnZvaWNpbmdcRXZlbnRzXFRlc3RMaXN0ZW5lcgoJCXRhZ3M6IFtrZHlieS5ldmVudF0K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gQmVmb3JlSW1wb3J0RXZlbnRBcmdzICRhcmdzCgkgKi8J</text>
-      </register>
       <register name="5" type="4">
-        <text>/**
-	 * @param BeforeImportEventArgs $args
-	 *
-	 * @throws \Doctrine\ORM\NoResultException
-	 * @throws \Doctrine\ORM\NonUniqueResultException
-	 */</text>
+        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gQmVmb3JlSW1wb3J0RXZlbnRBcmdzICRhcmdzCgkgKi8J</text>
       </register>
       <register name="6" type="4">
         <text>/**
@@ -7678,23 +7684,28 @@
 	 * @throws \Doctrine\ORM\NonUniqueResultException
 	 */</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSBNZWRpYUltcG9ydE9wdGlvbnMgICAgJG9wdGlvbnMK</text>
+      <register name="7" type="4">
+        <text>/**
+	 * @param BeforeImportEventArgs $args
+	 *
+	 * @throws \Doctrine\ORM\NoResultException
+	 * @throws \Doctrine\ORM\NonUniqueResultException
+	 */</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBNZWRpYUltcG9ydE9wdGlvbnMgICAgJG9wdGlvbnMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJcRWxGaW5kZXJcRG9jdHJpbmVcTWVkaWFJbXBvcnRPcHRpb25zOwo=</text>
+        <text encoding="base64">CSAqIEBwYXJhbSBNZWRpYUltcG9ydE9wdGlvbnMgICAgJG9wdGlvbnMK</text>
       </register>
       <register name=":" type="4">
         <text>117</text>
       </register>
     </registers>
     <search>
-      <last-search>create</last-search>
+      <last-search>notAllowed</last-search>
       <last-offset />
-      <last-pattern>create</last-pattern>
+      <last-pattern>notAllowed</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -7702,7 +7713,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_createUrl</entry>
         <entry>stat</entry>
         <entry>_getParents</entry>
         <entry>get_parents</entry>
@@ -7722,6 +7732,7 @@
         <entry>sessionSection</entry>
         <entry>Directo</entry>
         <entry>create</entry>
+        <entry>notAllowed</entry>
       </history-search>
       <history-cmd>
         <entry>%s/recipient/email</entry>
