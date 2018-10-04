@@ -1912,6 +1912,11 @@
         <mark key="]" line="33" column="45" />
         <mark key="." line="33" column="45" />
       </file>
+      <file name="/home/www/html/nnb/dms/app/config/extensions/components.neon" timestamp="1538640927137">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+      </file>
       <file name="/home/www/html/nnb/passportization/app/Dbal/PassportizationConnection.php" timestamp="1503388453609">
         <mark key="[" line="29" column="16" />
         <mark key="]" line="29" column="16" />
@@ -2167,6 +2172,9 @@
         <mark key="]" line="38" column="8" />
         <mark key="." line="38" column="8" />
       </file>
+      <file name="/home/www/html/nnb/dms/app/config/extensions/permissions.neon" timestamp="1538640645141">
+        <mark key="[" line="1" column="11" />
+      </file>
       <file name="/home/www/html/bul/medical_examinations/app/SummaryModule/presenters/SignPresenter.php" timestamp="1480672822111">
         <mark key="[" line="32" column="15" />
         <mark key="]" line="32" column="15" />
@@ -2246,6 +2254,11 @@
         <mark key="[" line="21" column="23" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/dms/app/config/extensions/search.neon" timestamp="1538640105052">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="/home/www/html/dv/cms/src/Users/Install/Helpers/PermissionInstallHelper.php" timestamp="1505205057813">
         <mark key="[" line="89" column="106" />
@@ -2347,7 +2360,7 @@
         <mark key="]" line="23" column="4" />
         <mark key="." line="23" column="4" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr-cms/file/src/DI/FileExtension.php" timestamp="1537532608149">
+      <file name="/home/www/lib/vendor/hrncirr-cms/file/src/DI/FileExtension.php" timestamp="1538641299639">
         <mark key="[" line="51" column="8" />
         <mark key="]" line="51" column="8" />
         <mark key="." line="51" column="8" />
@@ -3566,13 +3579,6 @@
         <mark key="]" line="114" column="8" />
         <mark key="." line="114" column="8" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Files/FileFacade.php" timestamp="1538570925453">
-        <mark key="'" line="46" column="5" />
-        <mark key="[" line="38" column="41" />
-        <mark key="]" line="46" column="5" />
-        <mark key="^" line="46" column="5" />
-        <mark key="." line="46" column="5" />
-      </file>
       <file name="/home/www/vendor/hrncirr/document-parsers/src/System/Helpers.php" timestamp="1483357782136">
         <mark key="[" line="27" column="51" />
         <mark key="]" line="11" column="0" />
@@ -4149,6 +4155,11 @@
         <mark key="]" line="26" column="34" />
         <mark key="." line="26" column="34" />
       </file>
+      <file name="/home/www/html/nnb/dms/app/config/config.neon" timestamp="1538641206342">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="/home/www/vendor/hrncirr/elfinder/client-side/js/hrncirr.elfinder.tinymce.js" timestamp="1507292617132">
         <mark key="[" line="30" column="4" />
         <mark key="]" line="30" column="4" />
@@ -4719,7 +4730,7 @@
         <mark key="]" line="13" column="15" />
         <mark key="." line="13" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538579974083">
+      <file name="/Dummy.txt" timestamp="1538641335913">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -4947,6 +4958,7 @@
         <mark key="]" line="61" column="31" />
         <mark key="." line="61" column="31" />
       </file>
+      <file name="/home/www/html/nnb/dms/app/config/components.neon" timestamp="1538639703574" />
       <file name="/home/www/vendor/hrncirr/jstree/src/Doctrine/ITree.php" timestamp="1537515673547">
         <mark key="[" line="36" column="25" />
         <mark key="]" line="25" column="0" />
@@ -4966,6 +4978,12 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/dms/app/config/extensions/entity-loader.neon" timestamp="1538640486332">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="76" />
+        <mark key="^" line="4" column="76" />
+        <mark key="." line="4" column="76" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/tabs/bower.json" timestamp="1487338651123">
         <mark key="[" line="8" column="45" />
@@ -5024,6 +5042,9 @@
         <mark key="[" line="37" column="25" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
+      </file>
+      <file name="/home/www/lib/vendor/hrncirr-cms/file/src/Callbacks/MediaBeforeImportCallable.php" timestamp="1538641321712">
+        <mark key="[" line="1" column="23" />
       </file>
       <file name="/home/www/vendor/hrncirr/history/src/Model/IHistoryItem.php" timestamp="1523271345188">
         <mark key="[" line="12" column="0" />
@@ -5134,6 +5155,9 @@
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="6" />
         <mark key="." line="4" column="6" />
+      </file>
+      <file name="/home/www/html/nnb/dms/app/config/extensions/forms.neon" timestamp="1538640410849">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/EntityLoaderFilters/PathFilterIn.php" timestamp="1487606233761">
         <mark key="[" line="21" column="8" />
@@ -5585,6 +5609,9 @@
         <mark key="[" line="36" column="4" />
         <mark key="]" line="36" column="4" />
         <mark key="." line="36" column="4" />
+      </file>
+      <file name="/home/www/html/nnb/dms/app/config/extensions/nette.neon" timestamp="1538641256222">
+        <mark key="[" line="2" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumersListener.php" timestamp="1474032674352">
         <mark key="[" line="28" column="19" />
@@ -6105,10 +6132,10 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/app/config/config.neon" timestamp="1537438494314">
-        <mark key="[" line="14" column="26" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="/home/www/html/nnb/patient-studies/app/config/config.neon" timestamp="1538641133356">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/js/items.per.page.init.js" timestamp="1488358366008">
         <mark key="[" line="10" column="21" />
@@ -6741,6 +6768,11 @@
         <mark key="]" line="25" column="4" />
         <mark key="." line="25" column="4" />
       </file>
+      <file name="/home/www/html/nnb/dms/app/config/extensions/doctrine.neon" timestamp="1538641004055">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="/home/www/html/nnb/passportization/src/AccessRights/Components/AccessRightsForm/Accounts/OrdersContainerFactory.php" timestamp="1511859060048">
         <mark key="[" line="28" column="66" />
         <mark key="]" line="28" column="66" />
@@ -6820,6 +6852,11 @@
         <mark key="[" line="157" column="86" />
         <mark key="]" line="110" column="0" />
         <mark key="." line="110" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/dms/app/config/extensions.neon" timestamp="1538640552283">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="4" />
+        <mark key="." line="1" column="4" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Inspection.php" timestamp="1535538932975">
         <mark key="[" line="43" column="13" />
@@ -6998,6 +7035,11 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="4" />
         <mark key="." line="18" column="4" />
+      </file>
+      <file name="/home/www/html/nnb/dms/app/config/extensions/app.neon" timestamp="1538640631446">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/app/presenters/DeletedDocumentsPresenter.php" timestamp="1487150124697">
         <mark key="[" line="42" column="8" />
@@ -7656,11 +7698,11 @@
       <jump line="46" column="5" filename="/home/www/html/nnb/dms/src/Files/FileFacade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Components</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LSBkc2Zkcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Components</text>
+        <text>- extensions/forms.neon</text>
       </register>
       <register name="/" type="4">
         <text>NULL</text>
@@ -7668,46 +7710,66 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
-        <text>/**
-	 * @param $element
-	 *
-	 * @throws ForbiddenRequestException
-	 */</text>
+      <register name="1" type="2">
+        <text encoding="base64">LSBkc2Zkcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJcTWVkaWFcRG9jdHJpbmVcSW1hZ2VQcm9wZXJ0aWVzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXVzZSBJbWFnZVByb3BlcnRpZXM7Cg==</text>
+        <text encoding="base64">CXNpemU6IG1vZGFsLWxnCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LQoJCWNsYXNzOiBJbnZvaWNpbmdcRXZlbnRzXFRlc3RMaXN0ZW5lcgoJCXRhZ3M6IFtrZHlieS5ldmVudF0K</text>
+      <register name="4" type="2">
+        <text encoding="base64">aHJuY2lyci5tb2RhbHM6Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gQmVmb3JlSW1wb3J0RXZlbnRBcmdzICRhcmdzCgkgKi8J</text>
+        <text>- extensions.neon
+	- components.neon
+	- services.neon
+	- config-local.neon
+	- client-side.neon</text>
       </register>
-      <register name="6" type="4">
-        <text>/**
-	 * @param BeforeImportEventArgs $args
-	 *
-	 * @throws \Doctrine\ORM\NoResultException
-	 * @throws \Doctrine\ORM\NonUniqueResultException
-	 */</text>
+      <register name="6" type="2">
+        <text encoding="base64">a2R5YnkuZG9jdHJpbmU6Cglkcml2ZXI6ICAlZGF0YWJhc2UuZHJpdmVyJQoJaG9zdDogJWRhdGFiYXNlLmhvc3QlCgl1c2VyOiAlZGF0YWJhc2UudXNlciUKCXBhc3N3b3JkOiAlZGF0YWJhc2UucGFzc3dvcmQlCglkYm5hbWU6ICVkYXRhYmFzZS5kYm5hbWUlCgoJc2Vjb25kTGV2ZWxDYWNoZToKCQllbmFibGVkOiB0cnVlCgkJI2RyaXZlcjogcmVkaXMoQHJlZGlzLmRlZmF1bHRfY2xpZW50OjpnZXREcml2ZXIoKSkKCgluYW1pbmdTdHJhdGVneTogRG9jdHJpbmVcT1JNXE1hcHBpbmdcVW5kZXJzY29yZU5hbWluZ1N0cmF0ZWd5CgoJI21ldGFkYXRhOgoJIwlBcHBcTW9kZWxcRW50aXRpZXM6ICVhcHBEaXIlL21vZGVsL2VudGl0aWVzCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>/**
-	 * @param BeforeImportEventArgs $args
-	 *
-	 * @throws \Doctrine\ORM\NoResultException
-	 * @throws \Doctrine\ORM\NonUniqueResultException
-	 */</text>
+      <register name="7" type="2">
+        <text encoding="base64">a2R5YnkuZG9jdHJpbmU6Cglkcml2ZXI6ICAlZGF0YWJhc2UuZHJpdmVyJQoJaG9zdDogJWRhdGFiYXNlLmhvc3QlCgl1c2VyOiAlZGF0YWJhc2UudXNlciUKCXBhc3N3b3JkOiAlZGF0YWJhc2UucGFzc3dvcmQlCglkYm5hbWU6ICVkYXRhYmFzZS5kYm5hbWUlCgoJc2Vjb25kTGV2ZWxDYWNoZToKCQllbmFibGVkOiB0cnVlCgkJI2RyaXZlcjogcmVkaXMoQHJlZGlzLmRlZmF1bHRfY2xpZW50OjpnZXREcml2ZXIoKSkKCgluYW1pbmdTdHJhdGVneTogRG9jdHJpbmVcT1JNXE1hcHBpbmdcVW5kZXJzY29yZU5hbWluZ1N0cmF0ZWd5CgoJI21ldGFkYXRhOgoJIwlBcHBcTW9kZWxcRW50aXRpZXM6ICVhcHBEaXIlL21vZGVsL2VudGl0aWVzCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSBNZWRpYUltcG9ydE9wdGlvbnMgICAgJG9wdGlvbnMK</text>
+      <register name="8" type="4">
+        <text>hrncirr.modals:
+	size: modal-lg
+
+hrncirr.jstree:
+	themes:
+		name: default
+
+	messages:
+		'New node': 'newFolder'
+		'Do you really want to delete node ?': 'removeFolder'
+
+	plugins:
+			contextmenu:
+				config:
+					menu:
+						items:
+							create: [ label: newFolder, icon : icon glyphicon glyphicon-asterisk ]
+							rename: [ icon : icon glyphicon glyphicon-pencil ]
+							remove: [ icon : icon glyphicon glyphicon-remove ]
+
+nasext.itemsPerPage:
+	perPageData: [5, 10, 20, 30, 50]
+	defaultValue: 5
+	ajaxRequest: on
+	useSubmit: off
+	inputLabel: 'Počet na stránce'</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSBNZWRpYUltcG9ydE9wdGlvbnMgICAgJG9wdGlvbnMK</text>
+      <register name="9" type="4">
+        <text>kdyby.doctrineSearch:
+	defaultSerializer: jms
+	serializers:
+		App\Search\SearchFile: App\Search\FileSerializer
+	metadata:
+		App\Search: %appDir%/../src/Search/resources</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
