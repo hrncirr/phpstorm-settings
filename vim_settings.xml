@@ -77,6 +77,9 @@
       <file name="/home/www/html/nnb/dms/src/Documents/Components/InfoControl/IInfoControlFactory.php" timestamp="1538647324857">
         <mark key="[" line="8" column="23" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Search/Components/SearchForm/SearchForm.php" timestamp="1538743195196">
+        <mark key="[" line="141" column="24" />
+      </file>
       <file name="/home/www/html/nnb/dms/app/config/extensions/search.neon" timestamp="1538640105052">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -126,6 +129,9 @@
       <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentFolderSelectorControl/IDocumentFolderSelectorControlFactory.php" timestamp="1538642229996">
         <mark key="[" line="8" column="23" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/HistoryControl/HistoryControl.latte" timestamp="1538742882287">
+        <mark key="[" line="30" column="48" />
+      </file>
       <file name="/home/www/html/bul/maternal-register/app/Model/UserManager.php" timestamp="1538727509549">
         <mark key="[" line="28" column="24" />
         <mark key="]" line="13" column="18" />
@@ -142,8 +148,8 @@
       <file name="/home/www/html/nnb/dms/src/Documents/Console/Commands/Import/DokImport.php" timestamp="1538648062607">
         <mark key="[" line="90" column="30" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" timestamp="1538653526326">
-        <mark key="[" line="130" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" timestamp="1538742843551">
+        <mark key="[" line="71" column="23" />
         <mark key="]" line="130" column="0" />
         <mark key="^" line="216" column="17" />
         <mark key="." line="130" column="0" />
@@ -177,11 +183,11 @@
         <mark key="]" line="51" column="8" />
         <mark key="." line="51" column="8" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1538741910920">
-        <mark key="[" line="486" column="42" />
-        <mark key="]" line="486" column="42" />
-        <mark key="." line="486" column="42" />
-        <mark key="^" line="526" column="24" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1538742946836">
+        <mark key="[" line="322" column="4" />
+        <mark key="]" line="552" column="4" />
+        <mark key="." line="552" column="4" />
+        <mark key="^" line="553" column="4" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Exceptions/FileNotFoundException.php" timestamp="1538652775727">
         <mark key="[" line="8" column="23" />
@@ -194,7 +200,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Order.php" timestamp="1538741960698" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Order.php" timestamp="1538743735249" />
       <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentFilesGrid/IDocumentFilesGridFactory.php" timestamp="1538642064651">
         <mark key="[" line="8" column="23" />
       </file>
@@ -215,6 +221,9 @@
       </file>
       <file name="/home/www/html/nnb/dms/app/config/extensions/forms.neon" timestamp="1538640410849">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/HistoryControl/HistoryControl.php" timestamp="1538742800214">
+        <mark key="[" line="87" column="92" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr-cms/file/src/MediaFacade.php" timestamp="1538558455974">
         <mark key="[" line="53" column="35" />
@@ -253,7 +262,7 @@
       <file name="/home/www/vendor/hrncirr/media/src/IImageFormat.php" timestamp="1538547751242">
         <mark key="[" line="45" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538729626208">
+      <file name="/Dummy.txt" timestamp="1538743746013">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -315,6 +324,11 @@
         <mark key="[" line="41" column="22" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Tag.php" timestamp="1538743157293">
+        <mark key="[" line="23" column="1" />
+        <mark key="]" line="23" column="1" />
+        <mark key="." line="23" column="1" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Exceptions/DuplicateFileNameException.php" timestamp="1538651561010">
         <mark key="[" line="1" column="0" />
@@ -444,7 +458,12 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>? true : false</text>
+        <text>* @property-read integer                    $id
+ * @property string                          $name
+ * @property-read Document[]|ArrayCollection $documents
+ *
+ * @method addDocument(Document $document)
+ * @method removeDocument(Document $document)</text>
       </register>
       <register name="-" type="4">
         <text>? true : false</text>
@@ -455,32 +474,52 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJLyoqICAqLwo=</text>
+      <register name="1" type="4">
+        <text>* @property-read integer                    $id
+ * @property string                          $name
+ * @property-read Document[]|ArrayCollection $documents
+ *
+ * @method addDocument(Document $document)
+ * @method removeDocument(Document $document)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvKiogQHZhciAgJGlkcyAqLwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">CXVzZSBNYWdpY0FjY2Vzc29yczsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXE9iamVjdDsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGlzSW5Gb2xkZXIoRm9sZGVyICRmb2xkZXIpOiBib29sCgl7CgkJJGNyaXRlcmlhID0gQ3JpdGVyaWE6OmNyZWF0ZSgpCgkJCS0+d2hlcmUoQ3JpdGVyaWE6OmV4cHIoKS0+ZXEoJ2ZvbGRlcicsICRmb2xkZXIpKQoJCQktPnNldEZpcnN0UmVzdWx0KDApCgkJCS0+c2V0TWF4UmVzdWx0cygxKTsKCQkKCQlyZXR1cm4gKGJvb2wpIFxjb3VudCgkdGhpcy0+ZG9jdW1lbnRGb2xkZXJzLT5tYXRjaGluZygkY3JpdGVyaWEpKTsKCX0=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXE9iamVjdDsK</text>
+      <register name="4" type="4">
+        <text>@property-read integer                  $id
+ * @property string                        $name
+ * @property \DateTime                     $expiredAt
+ * @property boolean                       $published
+ * @property User                          $owner
+ * @property-read File[]|ArrayCollection   $files
+ * @property-read Tag[]|ArrayCollection    $tags
+ * @property array                         $folderPaths
+ * @property array                         $folderSlugs
+ * @property array                         $parentNames
+ * @property array                         $attachmentNames
+ * @property-read Folder[]|ArrayCollection $folders
+ * @property Document[]|ArrayCollection    $parents
+ * @property Document[]|ArrayCollection    $attachments
+ * @property File                          $currentFile
+ * @property \DateTime                     $updatedAt</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXE9iamVjdDsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldExhc3RGaWxlKCkKCXsKCQkkY3JpdGVyaWEgPSBDcml0ZXJpYTo6Y3JlYXRlKCkKCQkJLT5vcmRlckJ5KFsndmVyc2lvbicgPT4gQ3JpdGVyaWE6OkRFU0NdKQoJCQktPnNldEZpcnN0UmVzdWx0KDApCgkJCS0+c2V0TWF4UmVzdWx0cygxKTsKCQkKCQlyZXR1cm4gJHRoaXMtPmZpbGVzLT5tYXRjaGluZygkY3JpdGVyaWEpWzBdOwoJfQ==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCQkkaW50ZXJ2YWwgPSBleHBsb2RlKCcvJywgQkxPQ0tFRF9SRUdJU1RSQVRJT04pOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldEZpbGVCeVZlcnNpb24oJHZlcnNpb24pCgl7CgkJJGNyaXRlcmlhID0gQ3JpdGVyaWE6OmNyZWF0ZSgpCgkJCS0+d2hlcmUoQ3JpdGVyaWE6OmV4cHIoKS0+ZXEoJ3ZlcnNpb24nLCAkdmVyc2lvbikpCgkJCS0+c2V0Rmlyc3RSZXN1bHQoMCkKCQkJLT5zZXRNYXhSZXN1bHRzKDEpOwoJCQoJCXJldHVybiAkdGhpcy0+ZmlsZXMtPm1hdGNoaW5nKCRjcml0ZXJpYSlbMF07Cgl9CgkKCQoJcHVibGljIGZ1bmN0aW9uIGdldEZpbGVCeUlkKCRpZCkKCXsKCQkkY3JpdGVyaWEgPSBDcml0ZXJpYTo6Y3JlYXRlKCkKCQkJLT53aGVyZShDcml0ZXJpYTo6ZXhwcigpLT5lcSgnaWQnLCAkaWQpKQoJCQktPnNldEZpcnN0UmVzdWx0KDApCgkJCS0+c2V0TWF4UmVzdWx0cygxKTsKCQkKCQlyZXR1cm4gJHRoaXMtPmZpbGVzLT5tYXRjaGluZygkY3JpdGVyaWEpWzBdOwoJfQoJCgkKCXB1YmxpYyBmdW5jdGlvbiBjb3VudEV4dGVybmFsVmVyc2lvbnMoKTogaW50Cgl7CgkJcmV0dXJuIFxjb3VudChhcnJheV91bmlxdWUoJHRoaXMtPmZpbGVzLT5tYXAoZnVuY3Rpb24gKEZpbGUgJGZpbGUpIHsKCQkJcmV0dXJuICRmaWxlLT5leHRlcm5hbFZlcnNpb247CgkJfSktPnRvQXJyYXkoKSkpOwoJfQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkkYmxvY2tlZEZyb21kdW1wKCRibG9ja2VkRnJvbSk7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGNvdW50RXh0ZXJuYWxWZXJzaW9ucygpOiBpbnQKCXsKCQlyZXR1cm4gXGNvdW50KGFycmF5X3VuaXF1ZSgkdGhpcy0+ZmlsZXMtPm1hcChmdW5jdGlvbiAoRmlsZSAkZmlsZSkgewoJCQlyZXR1cm4gJGZpbGUtPmV4dGVybmFsVmVyc2lvbjsKCQl9KS0+dG9BcnJheSgpKSk7Cgl9</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="8" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGFkZFBhcmVudChEb2N1bWVudCAkZG9jdW1lbnQpOiB2b2lkCgl7CgkJJGRvY3VtZW50LT5hdHRhY2htZW50c1tdID0gJHRoaXM7CgkJJHRoaXMtPnBhcmVudHNbXSA9ICRkb2N1bWVudDsKCX0=</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGlzVmFsaWQoKTogYm9vbAoJewoJCWlmICgkdGhpcy0+dmFsaWRGcm9tID09PSBudWxsKSB7CgkJCXJldHVybiB0cnVlOwoJCX0KCQkKCQlyZXR1cm4gJHRoaXMtPnZhbGlkRnJvbSA8PSBuZXcgXERhdGVUaW1lKCk7Cgl9</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
