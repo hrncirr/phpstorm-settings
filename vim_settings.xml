@@ -44,6 +44,9 @@
       <file name="/home/www/html/nnb/dms/src/Documents/Components/ClipboardControl/IClipboardControlFactory.php" timestamp="1538641980986">
         <mark key="[" line="26" column="62" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" timestamp="1538741656421">
+        <mark key="[" line="92" column="81" />
+      </file>
       <file name="/home/www/vendor/hrncirr/media/src/IImageCallback.php" timestamp="1538483357098">
         <mark key="[" line="17" column="14" />
       </file>
@@ -95,7 +98,7 @@
       <file name="/home/www/html/nnb/dms/src/Documents/Components/AttachmentsControl/IAttachmentsControlFactory.php" timestamp="1538642042234">
         <mark key="[" line="26" column="4" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/ClipboardService.php" timestamp="1538651719509">
+      <file name="/home/www/html/nnb/dms/src/Documents/ClipboardService.php" timestamp="1538741149200">
         <mark key="[" line="8" column="23" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Events/TagListener.php" timestamp="1538651539956">
@@ -154,6 +157,13 @@
       <file name="/home/www/html/nnb/dms/src/Exceptions/IException.php" timestamp="1538652781462">
         <mark key="[" line="8" column="23" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/file.latte" timestamp="1538741280926">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="/home/www/html/nnb/dms/app/config/extensions/components.neon" timestamp="1538640927137">
         <mark key="[" line="7" column="4" />
         <mark key="]" line="3" column="4" />
@@ -167,10 +177,11 @@
         <mark key="]" line="51" column="8" />
         <mark key="." line="51" column="8" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1538740066924">
-        <mark key="[" line="178" column="4" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1538741910920">
+        <mark key="[" line="486" column="42" />
+        <mark key="]" line="486" column="42" />
+        <mark key="." line="486" column="42" />
+        <mark key="^" line="526" column="24" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Exceptions/FileNotFoundException.php" timestamp="1538652775727">
         <mark key="[" line="8" column="23" />
@@ -183,6 +194,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Order.php" timestamp="1538741960698" />
       <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentFilesGrid/IDocumentFilesGridFactory.php" timestamp="1538642064651">
         <mark key="[" line="8" column="23" />
       </file>
@@ -226,6 +238,11 @@
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Presenters/ArchivePresenter.php" timestamp="1538651618035">
         <mark key="[" line="1" column="23" />
+      </file>
+      <file name="/home/www/html/nnb/dms/src/Files/FileConversionFacade.php" timestamp="1538740482788">
+        <mark key="[" line="46" column="35" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/TagsGrid/ITagsGridFactory.php" timestamp="1538647459091">
         <mark key="[" line="8" column="23" />
@@ -291,6 +308,9 @@
       <file name="/home/www/html/nnb/dms/src/Exceptions/UnexpectedValueException.php" timestamp="1538652851207">
         <mark key="[" line="8" column="23" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Document/BaseDocumentItem.php" timestamp="1538740287642">
+        <mark key="[" line="174" column="0" />
+      </file>
       <file name="/home/www/html/nnb/dms/app/Presenters/templates/@layout.latte" timestamp="1538579896650">
         <mark key="[" line="41" column="22" />
         <mark key="]" line="41" column="0" />
@@ -321,7 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1330" column="20" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" />
       <jump line="1398" column="20" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" />
       <jump line="1410" column="20" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" />
       <jump line="98" column="24" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
@@ -421,55 +440,56 @@
       <jump line="63" column="53" filename="/home/www/html/nnb/patient-studies/src/Study/Components/StudyForm/StudyForm.php" />
       <jump line="46" column="5" filename="/home/www/html/nnb/dms/src/Files/FileFacade.php" />
       <jump line="532" column="33" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="6" column="0" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/file.latte" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXVzZSBNYWdpY0FjY2Vzc29yczsK</text>
+      <register name="&quot;" type="4">
+        <text>? true : false</text>
       </register>
       <register name="-" type="4">
-        <text>return;</text>
+        <text>? true : false</text>
       </register>
       <register name="/" type="4">
-        <text>getDocuments</text>
+        <text>NULL</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXVzZSBNYWdpY0FjY2Vzc29yczsK</text>
+        <text encoding="base64">CQkJLyoqICAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXE9iamVjdDsK</text>
+        <text encoding="base64">CQkvKiogQHZhciAgJGlkcyAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXE9iamVjdDsK</text>
+        <text encoding="base64">CXVzZSBNYWdpY0FjY2Vzc29yczsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">dXNlIE5ldHRlXE9iamVjdDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkkaW50ZXJ2YWwgPSBleHBsb2RlKCcvJywgQkxPQ0tFRF9SRUdJU1RSQVRJT04pOwo=</text>
+        <text encoding="base64">dXNlIE5ldHRlXE9iamVjdDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkkYmxvY2tlZEZyb21kdW1wKCRibG9ja2VkRnJvbSk7Cg==</text>
+        <text encoding="base64">dXNlIE5ldHRlXE9iamVjdDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCQkkaW50ZXJ2YWwgPSBleHBsb2RlKCcvJywgQkxPQ0tFRF9SRUdJU1RSQVRJT04pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkkYmxvY2tlZEZyb20gPSBzdHJ0b3RpbWUoJGJsb2NrZWRJbnRlcnZhbFswXSk7Cg==</text>
+        <text encoding="base64">CQkkYmxvY2tlZEZyb21kdW1wKCRibG9ja2VkRnJvbSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
-        <text>174</text>
+        <text>%s/NULL/null/g</text>
       </register>
     </registers>
     <search>
-      <last-search>getDocuments</last-search>
+      <last-search>NULL</last-search>
       <last-offset />
-      <last-pattern>getDocuments</last-pattern>
+      <last-pattern>NULL</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -477,7 +497,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_parents</entry>
         <entry>getParents</entry>
         <entry>$this-id</entry>
         <entry>cache</entry>
@@ -495,8 +514,9 @@
         <entry>Directo</entry>
         <entry>create</entry>
         <entry>notAllowed</entry>
-        <entry>NULL</entry>
         <entry>getDocuments</entry>
+        <entry>CurrentFile</entry>
+        <entry>NULL</entry>
       </history-search>
       <history-cmd>
         <entry>189</entry>
@@ -517,8 +537,8 @@
         <entry>4063</entry>
         <entry>4132</entry>
         <entry>117</entry>
-        <entry>%s/NULL/null/g</entry>
         <entry>174</entry>
+        <entry>%s/NULL/null/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
