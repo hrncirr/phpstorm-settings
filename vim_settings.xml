@@ -77,10 +77,10 @@
       <file name="/home/www/html/nnb/dms/src/Documents/Presenters/TagsPresenter.php" timestamp="1538651706868">
         <mark key="[" line="1" column="23" />
       </file>
-      <file name="/home/www/html/bul/maternal-register/app/Model/RegisterModel.php" timestamp="1538727375931">
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="9" column="20" />
-        <mark key="." line="9" column="20" />
+      <file name="/home/www/html/bul/maternal-register/app/Model/RegisterModel.php" timestamp="1538729337940">
+        <mark key="[" line="43" column="12" />
+        <mark key="]" line="43" column="12" />
+        <mark key="." line="43" column="12" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/ClipboardService.php" timestamp="1538651719509">
         <mark key="[" line="8" column="23" />
@@ -253,7 +253,7 @@
       <file name="/home/www/html/nnb/dms/app/Forms/BaseFormControl.php" timestamp="1538641402225">
         <mark key="[" line="1" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538653920546">
+      <file name="/Dummy.txt" timestamp="1538729626208">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -419,10 +419,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>extends Object</text>
+        <text>return;</text>
       </register>
       <register name="-" type="4">
-        <text>extends Object</text>
+        <text>return;</text>
       </register>
       <register name="/" type="4">
         <text>getDocuments</text>
