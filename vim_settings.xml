@@ -95,6 +95,12 @@
       <file name="/home/www/html/nnb/dms/src/Exceptions/IException.php" timestamp="1538652781462">
         <mark key="[" line="8" column="23" />
       </file>
+      <file name="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" timestamp="1538997494678">
+        <mark key="'" line="199" column="45" />
+        <mark key="[" line="312" column="8" />
+        <mark key="]" line="199" column="0" />
+        <mark key="." line="199" column="0" />
+      </file>
       <file name="/home/www/html/nnb/dms/app/Components/ItemsPerPageFactory.php" timestamp="1538570708876">
         <mark key="[" line="24" column="27" />
       </file>
@@ -364,18 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1398" column="20" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" />
-      <jump line="1410" column="20" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php" />
-      <jump line="98" column="24" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
-      <jump line="219" column="59" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
-      <jump line="666" column="37" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
-      <jump line="1207" column="28" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
-      <jump line="359" column="32" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
-      <jump line="481" column="43" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
-      <jump line="657" column="4" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
-      <jump line="849" column="44" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
-      <jump line="600" column="32" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
-      <jump line="656" column="23" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="541" column="43" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="606" column="29" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="630" column="40" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
@@ -464,36 +458,54 @@
       <jump line="46" column="5" filename="/home/www/html/nnb/dms/src/Files/FileFacade.php" />
       <jump line="532" column="33" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="6" column="0" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/file.latte" />
+      <jump line="22" column="18" filename="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" />
+      <jump line="310" column="30" filename="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" />
+      <jump line="316" column="45" filename="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" />
+      <jump line="317" column="44" filename="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" />
+      <jump line="323" column="19" filename="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" />
+      <jump line="324" column="56" filename="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" />
+      <jump line="332" column="48" filename="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" />
+      <jump line="597" column="31" filename="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" />
+      <jump line="598" column="56" filename="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" />
+      <jump line="670" column="15" filename="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" />
+      <jump line="76" column="13" filename="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" />
+      <jump line="199" column="45" filename="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>defined('MAX_PER_WEEK') ?</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJZHVtcCgnYWFhYWEnKTsK</text>
       </register>
       <register name="-" type="4">
         <text>defined('MAX_PER_WEEK') ?</text>
       </register>
       <register name="/" type="4">
-        <text>NULL</text>
+        <text>exit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+        <text encoding="base64">CQkJZHVtcCgnYWFhYWEnKTsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQlkdW1wKCRlcnJvckNvZGUpOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ZHVtcCgkdGhpcy0+d2Vla0RhdGVUaW1lKTsKCQkvL2R1bXAoJHRlbXBsYXRlLT5kYXRhKTsKCQlleGl0Ow==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJZHVtcCgnb2snKTsK</text>
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQlkdW1wKCRlcnJvckNvZGUpOwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CQkJZHVtcCgnb2snKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CQkJZHVtcCgnb2InKTsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>* @property-read integer                    $id
  * @property string                          $name
  * @property-read Document[]|ArrayCollection $documents
@@ -501,38 +513,17 @@
  * @method addDocument(Document $document)
  * @method removeDocument(Document $document)</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CXVzZSBNYWdpY0FjY2Vzc29yczsK</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGlzSW5Gb2xkZXIoRm9sZGVyICRmb2xkZXIpOiBib29sCgl7CgkJJGNyaXRlcmlhID0gQ3JpdGVyaWE6OmNyZWF0ZSgpCgkJCS0+d2hlcmUoQ3JpdGVyaWE6OmV4cHIoKS0+ZXEoJ2ZvbGRlcicsICRmb2xkZXIpKQoJCQktPnNldEZpcnN0UmVzdWx0KDApCgkJCS0+c2V0TWF4UmVzdWx0cygxKTsKCQkKCQlyZXR1cm4gKGJvb2wpIFxjb3VudCgkdGhpcy0+ZG9jdW1lbnRGb2xkZXJzLT5tYXRjaGluZygkY3JpdGVyaWEpKTsKCX0=</text>
-      </register>
-      <register name="9" type="4">
-        <text>@property-read integer                  $id
- * @property string                        $name
- * @property \DateTime                     $expiredAt
- * @property boolean                       $published
- * @property User                          $owner
- * @property-read File[]|ArrayCollection   $files
- * @property-read Tag[]|ArrayCollection    $tags
- * @property array                         $folderPaths
- * @property array                         $folderSlugs
- * @property array                         $parentNames
- * @property array                         $attachmentNames
- * @property-read Folder[]|ArrayCollection $folders
- * @property Document[]|ArrayCollection    $parents
- * @property Document[]|ArrayCollection    $attachments
- * @property File                          $currentFile
- * @property \DateTime                     $updatedAt</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
       </register>
     </registers>
     <search>
-      <last-search>NULL</last-search>
+      <last-search>exit</last-search>
       <last-offset />
-      <last-pattern>NULL</last-pattern>
+      <last-pattern>exit</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -540,10 +531,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getParents</entry>
-        <entry>$this-id</entry>
-        <entry>cache</entry>
-        <entry>sessionCache</entry>
         <entry>_dirname</entry>
         <entry>session</entry>
         <entry>sessionCAching</entry>
@@ -560,6 +547,10 @@
         <entry>getDocuments</entry>
         <entry>CurrentFile</entry>
         <entry>NULL</entry>
+        <entry>changeWeek</entry>
+        <entry>ChangeWeek</entry>
+        <entry>weekDateTime</entry>
+        <entry>exit</entry>
       </history-search>
       <history-cmd>
         <entry>189</entry>
