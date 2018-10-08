@@ -95,11 +95,11 @@
       <file name="/home/www/html/nnb/dms/src/Exceptions/IException.php" timestamp="1538652781462">
         <mark key="[" line="8" column="23" />
       </file>
-      <file name="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" timestamp="1538997494678">
-        <mark key="'" line="199" column="45" />
-        <mark key="[" line="312" column="8" />
-        <mark key="]" line="199" column="0" />
-        <mark key="." line="199" column="0" />
+      <file name="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" timestamp="1538998821960">
+        <mark key="'" line="334" column="49" />
+        <mark key="[" line="313" column="0" />
+        <mark key="]" line="313" column="0" />
+        <mark key="." line="313" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/app/Components/ItemsPerPageFactory.php" timestamp="1538570708876">
         <mark key="[" line="24" column="27" />
@@ -184,6 +184,11 @@
       </file>
       <file name="/home/www/html/nnb/dms/src/Exceptions/InsufficientPermissionsException.php" timestamp="1538652786591">
         <mark key="[" line="8" column="23" />
+      </file>
+      <file name="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.latte" timestamp="1538999590961">
+        <mark key="[" line="16" column="63" />
+        <mark key="]" line="16" column="63" />
+        <mark key="." line="16" column="63" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Document/BaseDocumentItem.php" timestamp="1538740287642">
         <mark key="[" line="174" column="0" />
@@ -370,7 +375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="541" column="43" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="606" column="29" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="630" column="40" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="36" column="6" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
@@ -470,60 +474,56 @@
       <jump line="670" column="15" filename="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" />
       <jump line="76" column="13" filename="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" />
       <jump line="199" column="45" filename="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" />
+      <jump line="335" column="49" filename="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJZHVtcCgnYWFhYWEnKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JiYgKGludCkgJG5leHRXZWVrRGF0ZVRpbWUtPmZvcm1hdCgnVycpID09PSAz</text>
       </register>
       <register name="-" type="4">
-        <text>defined('MAX_PER_WEEK') ?</text>
+        <text encoding="base64">JiYgKGludCkgJG5leHRXZWVrRGF0ZVRpbWUtPmZvcm1hdCgnVycpID09PSAz</text>
       </register>
       <register name="/" type="4">
-        <text>exit</text>
+        <text>dump</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJZHVtcCgnYWFhYWEnKTsK</text>
+        <text encoding="base64">CQkJCU9LCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZHVtcCgkdGhpcy0+d2Vla0RhdGVUaW1lKTsKCQkvL2R1bXAoJHRlbXBsYXRlLT5kYXRhKTsKCQlleGl0Ow==</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCWR1bXAoVUNhbGVuZGFyOjpkYXlPZk5leHRXZWVrKCR0bywgVUNhbGVuZGFyOjpMQVNUX0RBWV9PRl9XRUVLKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlkdW1wKCRlcnJvckNvZGUpOwo=</text>
+        <text encoding="base64">CQkvL2V4aXQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZHVtcCgnb2snKTsK</text>
+        <text encoding="base64">CQkvL2R1bXAoJHRlbXBsYXRlLT5kYXRhKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkvL2R1bXAoJHRoaXMtPndlZWtEYXRlVGltZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJZHVtcCgnb2InKTsK</text>
+        <text encoding="base64">CQkvL2R1bXAoJHRoaXMtPndlZWspOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>* @property-read integer                    $id
- * @property string                          $name
- * @property-read Document[]|ArrayCollection $documents
- *
- * @method addDocument(Document $document)
- * @method removeDocument(Document $document)</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJe2Vsc2V9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXVzZSBNYWdpY0FjY2Vzc29yczsK</text>
+        <text encoding="base64">CQkJCSRjb250cm9sLT5wYXJzZVdlZWsoJG5leHRXZWVrRGF0ZVRpbWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
       </register>
     </registers>
     <search>
-      <last-search>exit</last-search>
+      <last-search>dump</last-search>
       <last-offset />
-      <last-pattern>exit</last-pattern>
+      <last-pattern>dump</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -531,7 +531,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_dirname</entry>
         <entry>session</entry>
         <entry>sessionCAching</entry>
         <entry>sessionCaching</entry>
@@ -551,6 +550,7 @@
         <entry>ChangeWeek</entry>
         <entry>weekDateTime</entry>
         <entry>exit</entry>
+        <entry>dump</entry>
       </history-search>
       <history-cmd>
         <entry>189</entry>
