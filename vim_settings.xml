@@ -11,8 +11,8 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractForm/ContractForm.php" timestamp="1539090419232">
-        <mark key="[" line="98" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractForm/ContractForm.php" timestamp="1539091838104">
+        <mark key="[" line="96" column="49" />
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
@@ -271,10 +271,10 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/TMediaImporterControl.php" timestamp="1539091672590">
-        <mark key="[" line="188" column="4" />
-        <mark key="]" line="188" column="4" />
-        <mark key="." line="188" column="4" />
+      <file name="/home/www/vendor/hrncirr/elfinder/src/TMediaImporterControl.php" timestamp="1539091995012">
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="0" />
+        <mark key="." line="191" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Exceptions/InvalidArgumentException.php" timestamp="1538652793039">
         <mark key="[" line="8" column="23" />
@@ -414,7 +414,7 @@
       <file name="/home/www/vendor/hrncirr/media/src/Routers/ImageRouterFactory.php" timestamp="1538548297931">
         <mark key="[" line="22" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539091694867">
+      <file name="/Dummy.txt" timestamp="1539091999300">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -568,16 +568,11 @@
       <jump line="47" column="4" filename="/home/www/html/nnb/dms/src/Files/FileConversionFacade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/**
-	 * @param EntityManager $em
-	 * @param callable|null $saveCallback
-	 *
-	 * @throws \Throwable
-	 */</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CSAqIEBwYXJhbSBib29sICAgICAgICAgICRyZXNldEltcG9ydE1lZGlhSWQK</text>
       </register>
       <register name="-" type="4">
-        <text>callable $saveCallback = nul</text>
+        <text>bool $resetImportMediaId = true</text>
       </register>
       <register name="/" type="4">
         <text>NULL</text>
@@ -585,7 +580,13 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CSAqIEBwYXJhbSBib29sICAgICAgICAgICRyZXNldEltcG9ydE1lZGlhSWQK</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">aWYgKCRyZXNldEltcG9ydE1lZGlhSWQpIHsKCQkJJHRoaXMtPnJlc2V0TWVkaWFJbXBvcnRJZCgpOwoJCX0=</text>
+      </register>
+      <register name="3" type="4">
         <text>/**
 	 * @param EntityManager $em
 	 * @param callable|null $saveCallback
@@ -593,29 +594,23 @@
 	 * @throws \Throwable
 	 */</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">JHRoaXMtPmVtLT50cmFuc2FjdGlvbmFsKGZ1bmN0aW9uICgpIHVzZSAoJGl0ZW0pIHsKCQkJJHRoaXMtPmVtLT5wZXJzaXN0KCRpdGVtKS0+Zmx1c2goKTsKCQl9KTs=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJJHRoaXMtPmVtLT5wZXJzaXN0KCRvcmRlciktPmZsdXNoKCk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJJHRoaXMtPmVtLT5wZXJzaXN0KCRvcmRlciktPmZsdXNoKCk7Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">JHRoaXMtPmVtLT50cmFuc2FjdGlvbmFsKGZ1bmN0aW9uICgpIHVzZSAoJG9mZmVyKSB7CgkJCSR0aGlzLT5lbS0+cGVyc2lzdCgkb2ZmZXIpLT5mbHVzaCgpOwoJCX0pOw==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">JHRoaXMtPmVtLT50cmFuc2FjdGlvbmFsKGZ1bmN0aW9uICgpIHVzZSAoJGluJHRoaXMtPnNhdmVFbEZpbmRlckZpbGVDb25zdW1lcigkdGhpcy0+ZW0pO3ZvaWNlKSB7CgkJCSR0aGlzLT5lbS0+cGVyc2lzdCgkaW52b2ljZSktPmZsdXNoKCk7CgkJfSk7</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">JHRoaXMtPmVtLT50cmFuc2FjdGlvbmFsKGZ1bmN0aW9uICgpIHVzZSAoJGludGVydmVudGlvbikgewoJCQkkdGhpcy0+ZW0tPnBlcnNpc3QoJGludGVydmVudGlvbiktPmZsdXNoKCk7CgkJfSk7</text>
+        <text encoding="base64">JHRoaXMtPmVtLT50cmFuc2FjdGlvbmFsKGZ1bmN0aW9uICgpIHVzZSAoJG9mZmVyKSB7CgkJCSR0aGlzLT5lbS0+cGVyc2lzdCgkb2ZmZXIpLT5mbHVzaCgpOwoJCX0pOw==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">JHRoaXMtPmVtLT50cmFuc2FjdGlvbmFsKGZ1bmN0aW9uICgpIHVzZSAoJGluc3BlY3Rpb24pIHsKCQkJJHRoaXMtPmVtLT5wZXJzaXN0KCRpbnNwZWN0aW9uKS0+Zmx1c2goKTsKCQl9KTs=</text>
+        <text encoding="base64">JHRoaXMtPmVtLT50cmFuc2FjdGlvbmFsKGZ1bmN0aW9uICgpIHVzZSAoJGluJHRoaXMtPnNhdmVFbEZpbmRlckZpbGVDb25zdW1lcigkdGhpcy0+ZW0pO3ZvaWNlKSB7CgkJCSR0aGlzLT5lbS0+cGVyc2lzdCgkaW52b2ljZSktPmZsdXNoKCk7CgkJfSk7</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQl9KTsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">JHRoaXMtPmVtLT50cmFuc2FjdGlvbmFsKGZ1bmN0aW9uICgpIHVzZSAoJGludGVydmVudGlvbikgewoJCQkkdGhpcy0+ZW0tPnBlcnNpc3QoJGludGVydmVudGlvbiktPmZsdXNoKCk7CgkJfSk7</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
