@@ -15,12 +15,6 @@
       <file name="/home/www/html/nnb/dms/app/Components/BaseGrid.php" timestamp="1538571385870">
         <mark key="[" line="19" column="23" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/IDocumentFormFactory.php" timestamp="1538642294702">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="22" />
-        <mark key="." line="8" column="22" />
-        <mark key="^" line="8" column="22" />
-      </file>
       <file name="/home/www/vendor/hrncirr/media/src/Utils/FileHelpers.php" timestamp="1538547217218">
         <mark key="[" line="42" column="42" />
       </file>
@@ -35,18 +29,6 @@
       </file>
       <file name="/home/www/html/nnb/dms/src/Exceptions/StaticClassException.php" timestamp="1538652845168">
         <mark key="[" line="8" column="23" />
-      </file>
-      <file name="/home/www/html/nnb/dms/app/config/extensions/entity-loader.neon" timestamp="1538640486332">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="76" />
-        <mark key="^" line="4" column="76" />
-        <mark key="." line="4" column="76" />
-      </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Console/Commands/Import/PhpDocImport.php" timestamp="1538650243352">
-        <mark key="[" line="137" column="45" />
-        <mark key="]" line="137" column="15" />
-        <mark key="." line="137" column="15" />
-        <mark key="^" line="137" column="15" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Doctrine/Filters/SoftDeletableFilter.php" timestamp="1538647945172">
         <mark key="[" line="48" column="19" />
@@ -161,14 +143,11 @@
       <file name="/home/www/vendor/hrncirr/media/src/IImageFormat.php" timestamp="1538547751242">
         <mark key="[" line="45" column="52" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Events/DocumentFolderSortableListener.php" timestamp="1538651259542">
-        <mark key="[" line="141" column="32" />
-        <mark key="]" line="194" column="37" />
-        <mark key="^" line="194" column="37" />
-        <mark key="." line="194" column="37" />
-      </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaEvents.php" timestamp="1537879912336">
         <mark key="[" line="17" column="58" />
+      </file>
+      <file name="/home/www/html/nnb/dms/src/Files/Events/FileUploadListener.php" timestamp="1539081103361">
+        <mark key="[" line="87" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Presenters/TagsPresenter.php" timestamp="1538651706868">
         <mark key="[" line="1" column="23" />
@@ -181,6 +160,9 @@
         <mark key="]" line="156" column="0" />
         <mark key="^" line="84" column="62" />
         <mark key="." line="156" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/dms/src/Files/Events/FileListener.php" timestamp="1539081063307">
+        <mark key="[" line="62" column="50" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Exceptions/InsufficientPermissionsException.php" timestamp="1538652786591">
         <mark key="[" line="8" column="23" />
@@ -204,8 +186,18 @@
       <file name="/home/www/html/nnb/dms/src/Exceptions/DeprecatedException.php" timestamp="1538652763470">
         <mark key="[" line="8" column="23" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Files/Components/FileForm/FileForm.php" timestamp="1539080781160">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Console/Commands/ImportCommand.php" timestamp="1539080766644" />
       <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/IDocumentsGridFactory.php" timestamp="1538642601923">
         <mark key="[" line="8" column="23" />
+      </file>
+      <file name="/home/www/html/nnb/dms/src/Files/Exceptions/FileUploadException.php" timestamp="1539081119947">
+        <mark key="[" line="12" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/dms/src/Files/Exceptions/MimeTypeNotFoundException.php" timestamp="1539081113691">
+        <mark key="[" line="5" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Exceptions/NotSupportedException.php" timestamp="1538652834434">
         <mark key="[" line="8" column="23" />
@@ -254,23 +246,37 @@
       <file name="/home/www/html/nnb/dms/src/Documents/Exceptions/DocumentIsAttachmentException.php" timestamp="1538651548034">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Files/Presenters/FileConversionPresenterCallback.php" timestamp="1539081333651">
+        <mark key="[" line="56" column="4" />
+        <mark key="]" line="56" column="4" />
+        <mark key="." line="56" column="4" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentFolderSelectorControl/IDocumentFolderSelectorControlFactory.php" timestamp="1538642229996">
         <mark key="[" line="8" column="23" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/HistoryControl/HistoryControl.latte" timestamp="1538742882287">
         <mark key="[" line="30" column="48" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Files/Presenters/FilePreviewPresenterCallback.php" timestamp="1539081569583">
+        <mark key="[" line="77" column="4" />
+        <mark key="]" line="77" column="4" />
+        <mark key="." line="77" column="4" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Exceptions/ArgumentOutOfRangeException.php" timestamp="1538652758158">
         <mark key="[" line="8" column="23" />
+      </file>
+      <file name="/home/www/html/nnb/dms/src/Files/Presenters/FilePresenterCallback.php" timestamp="1539081408287">
+        <mark key="[" line="121" column="19" />
+        <mark key="]" line="48" column="4" />
+        <mark key="." line="48" column="4" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Console/Commands/Import/DokImport.php" timestamp="1538648062607">
         <mark key="[" line="90" column="30" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" timestamp="1538742843551">
-        <mark key="[" line="71" column="23" />
-        <mark key="]" line="130" column="0" />
-        <mark key="^" line="216" column="17" />
-        <mark key="." line="130" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Files/Events/FileConversionListener.php" timestamp="1539081077196">
+        <mark key="[" line="68" column="69" />
+        <mark key="]" line="95" column="4" />
+        <mark key="." line="95" column="4" />
       </file>
       <file name="/home/www/html/bul/maternal-register/app/SummaryModule/presenters/RegisterPresenter.php" timestamp="1538988562348">
         <mark key="[" line="29" column="36" />
@@ -280,23 +286,13 @@
       <file name="/home/www/html/nnb/patient-studies/src/Study/Components/StudyForm/StudyForm.latte" timestamp="1537965922581">
         <mark key="[" line="4" column="14" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/file.latte" timestamp="1538741280926">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="/home/www/html/nnb/dms/app/config/extensions/components.neon" timestamp="1538640927137">
         <mark key="[" line="7" column="4" />
         <mark key="]" line="3" column="4" />
         <mark key="." line="3" column="4" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1538745900680">
-        <mark key="[" line="6" column="37" />
-        <mark key="]" line="554" column="4" />
-        <mark key="." line="554" column="4" />
-        <mark key="^" line="555" column="4" />
+      <file name="/home/www/html/nnb/dms/src/Files/Components/FileForm/IFileFormFactory.php" timestamp="1539080875553">
+        <mark key="[" line="22" column="4" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Exceptions/FileNotFoundException.php" timestamp="1538652775727">
         <mark key="[" line="8" column="23" />
@@ -304,8 +300,8 @@
       <file name="/home/www/html/nnb/dms/app/config/extensions/nette.neon" timestamp="1538641256222">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Files/DI/FilesExtension.php" timestamp="1538571017672">
-        <mark key="[" line="210" column="17" />
+      <file name="/home/www/html/nnb/dms/src/Files/DI/FilesExtension.php" timestamp="1539080930337">
+        <mark key="[" line="8" column="23" />
       </file>
       <file name="/home/www/html/bul/maternal-register/app/SummaryModule/templates/Register/default.latte" timestamp="1538988534568">
         <mark key="[" line="17" column="22" />
@@ -327,6 +323,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
+      </file>
+      <file name="/home/www/html/nnb/dms/src/Files/Console/Commands/FilesConversionsCommand.php" timestamp="1539080892920">
+        <mark key="[" line="1" column="23" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Exceptions/NotImplementedException.php" timestamp="1538652828295">
         <mark key="[" line="8" column="23" />
@@ -363,12 +362,6 @@
         <mark key="[" line="6" column="31" />
         <mark key="]" line="25" column="1" />
         <mark key="." line="25" column="1" />
-      </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentFolderSelectorControl/DocumentFolderSelectorControl.php" timestamp="1538642227179">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-        <mark key="^" line="95" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Exceptions/ModificationsNotAllowedException.php" timestamp="1538651567243">
         <mark key="[" line="1" column="0" />
@@ -478,7 +471,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JiYgKGludCkgJG5leHRXZWVrRGF0ZVRpbWUtPmZvcm1hdCgnVycpID09PSAz</text>
+        <text>/**
+	 * @param $id
+	 *
+	 * @return FileResponse
+	 * @throws BadRequestException
+	 * @throws ForbiddenRequestException
+	 */</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JiYgKGludCkgJG5leHRXZWVrRGF0ZVRpbWUtPmZvcm1hdCgnVycpID09PSAz</text>
@@ -489,32 +488,55 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCU9LCg==</text>
+      <register name="1" type="4">
+        <text>/**
+	 * @param $id
+	 *
+	 * @return FileResponse
+	 * @throws BadRequestException
+	 * @throws ForbiddenRequestException
+	 */</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCWR1bXAoVUNhbGVuZGFyOjpkYXlPZk5leHRXZWVrKCR0bywgVUNhbGVuZGFyOjpMQVNUX0RBWV9PRl9XRUVLKSk7Cg==</text>
+      <register name="2" type="4">
+        <text>/**
+	 * @param $version
+	 * @param $path
+	 *
+	 * @return FileResponse
+	 * @throws BadRequestException
+	 * @throws ForbiddenRequestException
+	 */</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="3" type="4">
+        <text>/**
+	 * @param $id
+	 * @param $version
+	 * @param $conversionPath
+	 *
+	 * @return FileResponse
+	 * @throws BadRequestException
+	 * @throws ForbiddenRequestException
+	 */</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkvL2V4aXQ7Cg==</text>
+      <register name="4" type="4">
+        <text>/**
+	 * @param PostFlushEventArgs $args
+	 */</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkvL2R1bXAoJHRlbXBsYXRlLT5kYXRhKTsK</text>
+        <text encoding="base64">CQkJCU9LCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvL2R1bXAoJHRoaXMtPndlZWtEYXRlVGltZSk7Cg==</text>
+        <text encoding="base64">CQkJCWR1bXAoVUNhbGVuZGFyOjpkYXlPZk5leHRXZWVrKCR0bywgVUNhbGVuZGFyOjpMQVNUX0RBWV9PRl9XRUVLKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkvL2R1bXAoJHRoaXMtPndlZWspOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJe2Vsc2V9Cg==</text>
+        <text encoding="base64">CQkvL2V4aXQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCSRjb250cm9sLT5wYXJzZVdlZWsoJG5leHRXZWVrRGF0ZVRpbWUpCg==</text>
+        <text encoding="base64">CQkvL2R1bXAoJHRlbXBsYXRlLT5kYXRhKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
