@@ -3,8 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/home/www/html/nnb/dms/src/Documents/Events/AuditListener.php" timestamp="1538650460378">
-        <mark key="[" line="1" column="23" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Events/AuditListener.php" timestamp="1539156604332">
+        <mark key="[" line="162" column="23" />
+        <mark key="]" line="157" column="27" />
+        <mark key="^" line="157" column="27" />
+        <mark key="." line="157" column="27" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Invoice.php" timestamp="1539089168227">
         <mark key="[" line="36" column="0" />
@@ -24,6 +27,12 @@
       </file>
       <file name="/home/www/html/nnb/dms/app/Components/BaseGrid.php" timestamp="1538571385870">
         <mark key="[" line="19" column="23" />
+      </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/IDocumentFormFactory.php" timestamp="1538642294702">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="22" />
+        <mark key="." line="8" column="22" />
+        <mark key="^" line="8" column="22" />
       </file>
       <file name="/home/www/vendor/hrncirr/media/src/Utils/FileHelpers.php" timestamp="1538547217218">
         <mark key="[" line="42" column="42" />
@@ -50,6 +59,18 @@
         <mark key="[" line="86" column="8" />
         <mark key="]" line="86" column="8" />
         <mark key="." line="86" column="8" />
+      </file>
+      <file name="/home/www/html/nnb/dms/app/config/extensions/entity-loader.neon" timestamp="1538640486332">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="76" />
+        <mark key="^" line="4" column="76" />
+        <mark key="." line="4" column="76" />
+      </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Console/Commands/Import/PhpDocImport.php" timestamp="1538650243352">
+        <mark key="[" line="137" column="45" />
+        <mark key="]" line="137" column="15" />
+        <mark key="." line="137" column="15" />
+        <mark key="^" line="137" column="15" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Doctrine/Filters/SoftDeletableFilter.php" timestamp="1538647945172">
         <mark key="[" line="48" column="19" />
@@ -95,8 +116,8 @@
         <mark key="]" line="13" column="18" />
         <mark key="." line="13" column="18" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/DocumentFacade.php" timestamp="1539154638876">
-        <mark key="[" line="59" column="19" />
+      <file name="/home/www/html/nnb/dms/src/Documents/DocumentFacade.php" timestamp="1539156128046">
+        <mark key="[" line="164" column="36" />
         <mark key="]" line="397" column="4" />
         <mark key="." line="397" column="4" />
       </file>
@@ -195,6 +216,12 @@
       <file name="/home/www/html/nnb/dms/src/Files/Storage/FileStorage.php" timestamp="1539082587135">
         <mark key="[" line="89" column="27" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Events/DocumentFolderSortableListener.php" timestamp="1539156372097">
+        <mark key="[" line="103" column="42" />
+        <mark key="]" line="194" column="37" />
+        <mark key="^" line="194" column="37" />
+        <mark key="." line="194" column="37" />
+      </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaEvents.php" timestamp="1537879912336">
         <mark key="[" line="17" column="58" />
       </file>
@@ -213,6 +240,9 @@
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Presenters/TagsPresenter.php" timestamp="1538651706868">
         <mark key="[" line="1" column="23" />
+      </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Events/DocumentFolderListener.php" timestamp="1539156425817">
+        <mark key="[" line="27" column="37" />
       </file>
       <file name="/home/www/vendor/hrncirr/media/src/Utils/FileIcon.php" timestamp="1538488369406">
         <mark key="[" line="51" column="16" />
@@ -325,8 +355,8 @@
       <file name="/home/www/html/nnb/dms/src/Documents/Components/AttachmentsControl/IAttachmentsControlFactory.php" timestamp="1538642042234">
         <mark key="[" line="26" column="4" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Events/TagListener.php" timestamp="1538651539956">
-        <mark key="[" line="66" column="12" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Events/TagListener.php" timestamp="1539156319873">
+        <mark key="[" line="86" column="47" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
@@ -367,6 +397,12 @@
       <file name="/home/www/html/nnb/dms/src/Documents/Console/Commands/Import/DokImport.php" timestamp="1538648062607">
         <mark key="[" line="90" column="30" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" timestamp="1538742843551">
+        <mark key="[" line="71" column="23" />
+        <mark key="]" line="130" column="0" />
+        <mark key="^" line="216" column="17" />
+        <mark key="." line="130" column="0" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Files/Events/FileConversionListener.php" timestamp="1539153909986">
         <mark key="[" line="85" column="52" />
         <mark key="]" line="96" column="4" />
@@ -388,10 +424,10 @@
       <file name="/home/www/html/nnb/dms/src/Files/Components/FileForm/IFileFormFactory.php" timestamp="1539080875553">
         <mark key="[" line="22" column="4" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1539154875509">
-        <mark key="[" line="278" column="15" />
-        <mark key="]" line="278" column="15" />
-        <mark key="." line="278" column="15" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1539156123698">
+        <mark key="[" line="544" column="4" />
+        <mark key="]" line="544" column="4" />
+        <mark key="." line="544" column="4" />
         <mark key="^" line="573" column="4" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Exceptions/FileNotFoundException.php" timestamp="1538652775727">
@@ -467,6 +503,12 @@
         <mark key="[" line="76" column="33" />
         <mark key="]" line="25" column="1" />
         <mark key="." line="25" column="1" />
+      </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentFolderSelectorControl/DocumentFolderSelectorControl.php" timestamp="1538642227179">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+        <mark key="^" line="95" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Exceptions/ModificationsNotAllowedException.php" timestamp="1538651567243">
         <mark key="[" line="1" column="0" />
@@ -576,7 +618,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>T</text>
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIEZvbGRlcltdfENvbGxlY3Rpb24KCSAqLwoJcHVibGljIGZ1bmN0aW9uIGdldEZvbGRlcnMoKTogQ29sbGVjdGlvbgoJewoJCXJldHVybiBuZXcgUmVhZE9ubHlDb2xsZWN0aW9uV3JhcHBlcigkdGhpcy0+YXR0YWNobWVudHMpOwoJfQ==</text>
       </register>
       <register name="-" type="4">
         <text>T</text>
@@ -587,13 +629,16 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXE1hZ2ljQWNjZXNzb3JzXE1hZ2ljQWNjZXNzb3JzOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIEZvbGRlcltdfENvbGxlY3Rpb24KCSAqLwoJcHVibGljIGZ1bmN0aW9uIGdldEZvbGRlcnMoKTogQ29sbGVjdGlvbgoJewoJCXJldHVybiBuZXcgUmVhZE9ubHlDb2xsZWN0aW9uV3JhcHBlcigkdGhpcy0+YXR0YWNobWVudHMpOwoJfQ==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXE1hZ2ljQWNjZXNzb3JzXE1hZ2ljQWNjZXNzb3JzOwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CXVzZSBNYWdpY0FjY2Vzc29yczsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>* @property integer  $id
  * @property integer  $position
  * @property Folder   $folder
@@ -601,28 +646,25 @@
  * @property bool     $preferPDFDocument
  * @property bool     $showConvertedDocuments</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJJHRoaXMtPnNhdmVFbEZpbmRlckZpbGVDb25zdW1lcigkdGhpcy0+ZW0pOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBib29sICAgICAgICAgICRyZXNldEltcG9ydE1lZGlhSWQK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">aWYgKCRyZXNldEltcG9ydE1lZGlhSWQpIHsKCQkJJHRoaXMtPnJlc2V0TWVkaWFJbXBvcnRJZCgpOwoJCX0=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>/**
 	 * @param EntityManager $em
 	 * @param callable|null $saveCallback
 	 *
 	 * @throws \Throwable
 	 */</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">JHRoaXMtPmVtLT50cmFuc2FjdGlvbmFsKGZ1bmN0aW9uICgpIHVzZSAoJGl0ZW0pIHsKCQkJJHRoaXMtPmVtLT5wZXJzaXN0KCRpdGVtKS0+Zmx1c2goKTsKCQl9KTs=</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
