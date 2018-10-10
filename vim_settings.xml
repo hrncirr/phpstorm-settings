@@ -487,8 +487,10 @@
       <file name="/home/www/html/nnb/patient-studies/src/Study/Components/StudyForm/StudyForm.latte" timestamp="1537965922581">
         <mark key="[" line="4" column="14" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Document/Components/templates/formLayout.latte" timestamp="1539179113107">
-        <mark key="[" line="25" column="43" />
+      <file name="/home/www/html/dv/adera/Modules/Document/Components/templates/formLayout.latte" timestamp="1539179788812">
+        <mark key="[" line="24" column="28" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/file.latte" timestamp="1539163211008">
         <mark key="'" line="6" column="0" />
@@ -741,11 +743,11 @@
       <jump line="182" column="23" filename="/home/www/html/dv/adera/Modules/Document/Components/BaseDocumentFormControl.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQkJey9mb3JtQ29udGFpbmVyfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">JGZvcm0gPT4gJ2RhZmRzZmRzZnM=</text>
       </register>
       <register name="/" type="4">
         <text>subject</text>
@@ -753,14 +755,20 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCQkJey9mb3JtQ29udGFpbmVyfQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCQkJe2Zvcm1Db250YWluZXIgc3ViamVjdH0K</text>
+      </register>
+      <register name="3" type="4">
         <text>{pair name}
 
 	{pair cin}
 
 	{pair tin}</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>{formContainer subject}
 
 		{pair name}
@@ -771,33 +779,22 @@
 
 	{/formContainer}</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>{if !isset($form)}
 	aaaaaaa
 {/if}</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkvLyRmb3JtLT5hZGRIaWRkZW4oJ3N1YmplY3QnKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">dXNlIEFkZHJlc3NCb29rXFRTdWJqZWN0Owo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">dXNlIEFkZHJlc3NCb29rXFRBZGRyZXNzOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">dXNlIEFkZHJlc3NCb29rXFN1YmplY3Q7Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>/**
-	 * @ORM\ManyToOne(targetEntity=&quot;AddressBook\Subject&quot;)
-	 * @Assert\NotBlank()
-	 * @var Subject
-	 */
-	private $subject;</text>
       </register>
       <register name=":" type="4">
         <text>77</text>
