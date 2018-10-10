@@ -83,8 +83,8 @@
       <file name="/home/www/html/bul/maternal-register/app/config/config.neon" timestamp="1538728561694">
         <mark key="[" line="15" column="4" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Folders/Components/FolderSortTypeForm/FolderSortTypeForm.php" timestamp="1539156851815">
-        <mark key="[" line="61" column="22" />
+      <file name="/home/www/html/nnb/dms/src/Folders/Components/FolderSortTypeForm/FolderSortTypeForm.php" timestamp="1539161821121">
+        <mark key="[" line="103" column="24" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr-cms/file/src/Callbacks/MediaBeforeImportCallable.php" timestamp="1538641321712">
         <mark key="[" line="1" column="23" />
@@ -109,8 +109,8 @@
       <file name="/home/www/html/nnb/dms/src/Exceptions/OutOfRangeException.php" timestamp="1538652839240">
         <mark key="[" line="8" column="23" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Folders/FolderFacade.php" timestamp="1539161040050">
-        <mark key="[" line="1" column="23" />
+      <file name="/home/www/html/nnb/dms/src/Folders/FolderFacade.php" timestamp="1539161757512">
+        <mark key="[" line="198" column="17" />
         <mark key="]" line="190" column="4" />
         <mark key="." line="190" column="4" />
       </file>
@@ -238,6 +238,11 @@
       <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/conversions.latte" timestamp="1539084143234">
         <mark key="[" line="3" column="23" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Folders/SortType.php" timestamp="1539161604085">
+        <mark key="[" line="116" column="19" />
+        <mark key="]" line="118" column="4" />
+        <mark key="." line="118" column="4" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/IDocumentsGridFactory.php" timestamp="1538642601923">
         <mark key="[" line="8" column="23" />
       </file>
@@ -250,7 +255,7 @@
       <file name="/home/www/html/nnb/dms/src/Exceptions/NotSupportedException.php" timestamp="1538652834434">
         <mark key="[" line="8" column="23" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Folders/FolderRepository.php" timestamp="1539161207134">
+      <file name="/home/www/html/nnb/dms/src/Folders/FolderRepository.php" timestamp="1539161366216">
         <mark key="[" line="8" column="23" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InspectionForm/InspectionForm.php" timestamp="1539090636924">
@@ -280,6 +285,9 @@
         <mark key="]" line="60" column="4" />
         <mark key="." line="60" column="4" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Folders/IFolderPermissions.php" timestamp="1539161400321">
+        <mark key="[" line="5" column="0" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Exceptions/MemberAccessException.php" timestamp="1538652822192">
         <mark key="[" line="8" column="23" />
       </file>
@@ -300,8 +308,8 @@
       <file name="/home/www/html/nnb/dms/src/Documents/Components/AttachmentsControl/IAttachmentsControlFactory.php" timestamp="1538642042234">
         <mark key="[" line="26" column="4" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Folders/Components/ConversionsForm/ConversionsForm.php" timestamp="1539157011926">
-        <mark key="[" line="1" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Folders/Components/ConversionsForm/ConversionsForm.php" timestamp="1539161715759">
+        <mark key="[" line="70" column="72" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/TagForm/ITagFormFactory.php" timestamp="1538647400962">
         <mark key="[" line="24" column="4" />
@@ -389,8 +397,8 @@
         <mark key="]" line="17" column="49" />
         <mark key="." line="17" column="49" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Folders/Folder.php" timestamp="1539161035112">
-        <mark key="[" line="249" column="61" />
+      <file name="/home/www/html/nnb/dms/src/Folders/Folder.php" timestamp="1539161583233">
+        <mark key="[" line="204" column="28" />
         <mark key="]" line="339" column="0" />
         <mark key="." line="339" column="0" />
       </file>
@@ -432,8 +440,8 @@
       <file name="/home/www/html/nnb/dms/src/Exceptions/UnexpectedValueException.php" timestamp="1538652851207">
         <mark key="[" line="8" column="23" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Folders/Components/PathControl/PathControl.php" timestamp="1539157134029">
-        <mark key="[" line="98" column="27" />
+      <file name="/home/www/html/nnb/dms/src/Folders/Components/PathControl/PathControl.php" timestamp="1539161732015">
+        <mark key="[" line="101" column="56" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Exceptions/ModificationsNotAllowedException.php" timestamp="1538651567243">
         <mark key="[" line="1" column="0" />
@@ -547,8 +555,11 @@
       <jump line="47" column="4" filename="/home/www/html/nnb/dms/src/Files/FileConversionFacade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXE1hZ2ljQWNjZXNzb3JzXE1hZ2ljQWNjZXNzb3JzOwo=</text>
+      <register name="&quot;" type="4">
+        <text>/**
+	 * @param Folder[]|Collection $documentFolders
+	 */
+	public function setDocumentFolders(Folder</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -559,10 +570,23 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXE1hZ2ljQWNjZXNzb3JzXE1hZ2ljQWNjZXNzb3JzOwo=</text>
+      <register name="1" type="4">
+        <text>/**
+	 * @param Folder[]|Collection $documentFolders
+	 */
+	public function setDocumentFolders(Folder</text>
       </register>
       <register name="2" type="4">
+        <text>* @property-read integer                  $id
+ * @property string                        $name
+ * @property string                        $sortFunction
+ * @property boolean                       $useDirection
+ * @property-read Folder[]|ArrayCollection $documentFolders</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXE1hZ2ljQWNjZXNzb3JzXE1hZ2ljQWNjZXNzb3JzOwo=</text>
+      </register>
+      <register name="4" type="4">
         <text>/**
 	 * @return array
 	 */
@@ -571,46 +595,25 @@
 		return self::$permissionsMap;
 	}</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>* @property-read integer $id
  * @property Folder       $folder
  * @property Group        $group
  * @property integer      $permissions</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CXVzZSBNYWdpY0FjY2Vzc29yczsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>/**
 	 * @param Node $node
 	 */</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CSoK</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CS8qCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>*
- * @property-read integer                          $id
- * @property Folder                                $parent
- * @property-read Folder[]|ArrayCollection         $children
- * @property string                                $title
- * @property string                                $path
- * @property string                                $slug
- * @property integer                               $documentSortType
- * @property integer                               $documentSortDirection
- * @property integer                               $attachmentSortType
- * @property integer                               $attachmentSortDirection
- * @property-read FolderGroup[]|ArrayCollection    $folderGroups
- * @property-read DocumentFolder[]|ArrayCollection $folderDocuments
- * @property string                                $special
- * @property bool                                  $preferPDFDocument
- * @property bool                                  $showConvertedDocuments</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGFkZEZvbGRlckdyb3VwKEdyb3VwICRncm91cCwgJHBlcm1pc3Npb25zID0gSUZvbGRlclBlcm1pc3Npb25zOjpGT0xERVJfUEVSTUlTU0lPTl9SRUFEKTogdm9pZAoJewoJCSRmb2xkZXJHcm91cCA9IG5ldyBGb2xkZXJHcm91cCgkdGhpcywgJGdyb3VwLCAkcGVybWlzc2lvbnMpOwoJCSR0aGlzLT5mb2xkZXJHcm91cHMtPmFkZCgkZm9sZGVyR3JvdXApOwoJfQoJCgkKCXB1YmxpYyBmdW5jdGlvbiByZW1vdmVGb2xkZXJHcm91cChGb2xkZXJHcm91cCAkZm9sZGVyR3JvdXApCgl7CgkJJHRoaXMtPmZvbGRlckdyb3Vwcy0+cmVtb3ZlRWxlbWVudCgkZm9sZGVyR3JvdXApOwoJfQ==</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
