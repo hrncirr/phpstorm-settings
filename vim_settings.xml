@@ -9,10 +9,10 @@
         <mark key="^" line="157" column="27" />
         <mark key="." line="157" column="27" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Invoice.php" timestamp="1539089168227">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Invoice.php" timestamp="1539177891493">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractForm/ContractForm.php" timestamp="1539092024731">
         <mark key="[" line="96" column="51" />
@@ -143,6 +143,12 @@
       <file name="/home/www/html/nnb/dms/src/Exceptions/IException.php" timestamp="1538652781462">
         <mark key="[" line="8" column="23" />
       </file>
+      <file name="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" timestamp="1538998821960">
+        <mark key="'" line="334" column="49" />
+        <mark key="[" line="313" column="0" />
+        <mark key="]" line="313" column="0" />
+        <mark key="." line="313" column="0" />
+      </file>
       <file name="/home/www/html/nnb/aktuality/app/Components/NewsForm/NewsForm.php" timestamp="1539091537615">
         <mark key="[" line="169" column="8" />
         <mark key="]" line="169" column="8" />
@@ -221,6 +227,9 @@
       <file name="/home/www/vendor/hrncirr/media/src/Model/ImageFormatProvider.php" timestamp="1538551695792">
         <mark key="[" line="31" column="49" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Document/TPrice.php" timestamp="1539177894808">
+        <mark key="[" line="8" column="53" />
+      </file>
       <file name="/home/www/html/nnb/patient-studies/app/Router/RouterFactory.php" timestamp="1538570625634">
         <mark key="[" line="28" column="35" />
         <mark key="]" line="32" column="16" />
@@ -238,6 +247,9 @@
       <file name="/home/www/vendor/hrncirr/media/src/IImageFormat.php" timestamp="1538547751242">
         <mark key="[" line="45" column="52" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoicesGrid/InvoicesGrid.php" timestamp="1539178330624">
+        <mark key="[" line="161" column="20" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Files/Storage/FileStorage.php" timestamp="1539082587135">
         <mark key="[" line="89" column="27" />
       </file>
@@ -253,8 +265,8 @@
       <file name="/home/www/html/nnb/dms/src/Files/Events/FileUploadListener.php" timestamp="1539156748908">
         <mark key="[" line="71" column="27" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" timestamp="1539090679197">
-        <mark key="[" line="107" column="8" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" timestamp="1539178346432">
+        <mark key="[" line="140" column="42" />
         <mark key="]" line="107" column="8" />
         <mark key="." line="107" column="8" />
       </file>
@@ -286,11 +298,20 @@
         <mark key="]" line="16" column="63" />
         <mark key="." line="16" column="63" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" timestamp="1539178243247">
+        <mark key="[" line="36" column="45" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/Document/BaseDocumentItem.php" timestamp="1538740287642">
         <mark key="[" line="174" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Exceptions/DuplicateFileNameException.php" timestamp="1538651561010">
         <mark key="[" line="1" column="0" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/Document/Components/BaseDocumentFormControl.php" timestamp="1539179100679">
+        <mark key="'" line="182" column="23" />
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="193" column="0" />
+        <mark key="." line="193" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/app/Presenters/BasePresenter.php" timestamp="1538641648140">
         <mark key="[" line="1" column="23" />
@@ -466,6 +487,9 @@
       <file name="/home/www/html/nnb/patient-studies/src/Study/Components/StudyForm/StudyForm.latte" timestamp="1537965922581">
         <mark key="[" line="4" column="14" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Document/Components/templates/formLayout.latte" timestamp="1539179113107">
+        <mark key="[" line="25" column="43" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/file.latte" timestamp="1539163211008">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="3" column="74" />
@@ -512,6 +536,11 @@
       </file>
       <file name="/home/www/html/nnb/patient-studies/src/Study/Components/StudyForm/StudyForm.php" timestamp="1539173857130">
         <mark key="[" line="176" column="10" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/SubjectFormPart.latte" timestamp="1539179246141">
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="4" />
+        <mark key="." line="18" column="4" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Folders/Presenters/DefaultPresenter.php" timestamp="1539160585109">
         <mark key="[" line="137" column="89" />
@@ -610,7 +639,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="903" column="12" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="20" column="22" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="17" column="46" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="658" column="23" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
@@ -710,73 +738,75 @@
       <jump line="80" column="71" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
       <jump line="83" column="78" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
       <jump line="90" column="53" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
+      <jump line="182" column="23" filename="/home/www/html/dv/adera/Modules/Document/Components/BaseDocumentFormControl.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlkdW1wKCRpZCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>documentSortDirection</text>
+        <text>subject</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlkdW1wKCRpZCk7Cg==</text>
+      <register name="1" type="4">
+        <text>{pair name}
+
+	{pair cin}
+
+	{pair tin}</text>
       </register>
       <register name="2" type="4">
-        <text>/**
-	 * @param Folder[]|Collection $documentFolders
-	 */
-	public function setDocumentFolders(Folder</text>
+        <text>{formContainer subject}
+
+		{pair name}
+
+		{pair cin}
+
+		{pair tin}
+
+	{/formContainer}</text>
       </register>
       <register name="3" type="4">
-        <text>* @property-read integer                  $id
- * @property string                        $name
- * @property string                        $sortFunction
- * @property boolean                       $useDirection
- * @property-read Folder[]|ArrayCollection $documentFolders</text>
+        <text>{if !isset($form)}
+	aaaaaaa
+{/if}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXE1hZ2ljQWNjZXNzb3JzXE1hZ2ljQWNjZXNzb3JzOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="5" type="4">
-        <text>/**
-	 * @return array
-	 */
-	public static function getPermissionsMap(): array
-	{
-		return self::$permissionsMap;
-	}</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkvLyRmb3JtLT5hZGRIaWRkZW4oJ3N1YmplY3QnKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text>* @property-read integer $id
- * @property Folder       $folder
- * @property Group        $group
- * @property integer      $permissions</text>
+      <register name="6" type="2">
+        <text encoding="base64">dXNlIEFkZHJlc3NCb29rXFRTdWJqZWN0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXVzZSBNYWdpY0FjY2Vzc29yczsK</text>
+        <text encoding="base64">dXNlIEFkZHJlc3NCb29rXFRBZGRyZXNzOwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">dXNlIEFkZHJlc3NCb29rXFN1YmplY3Q7Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>/**
-	 * @param Node $node
-	 */</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CSoK</text>
+	 * @ORM\ManyToOne(targetEntity=&quot;AddressBook\Subject&quot;)
+	 * @Assert\NotBlank()
+	 * @var Subject
+	 */
+	private $subject;</text>
       </register>
       <register name=":" type="4">
         <text>77</text>
       </register>
     </registers>
     <search>
-      <last-search>documentSortDirection</last-search>
+      <last-search>subject</last-search>
       <last-offset />
-      <last-pattern>documentSortDirection</last-pattern>
+      <last-pattern>subject</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -784,7 +814,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_stat</entry>
         <entry>configure</entry>
         <entry encoding="base64">JHRoaXMtPmlk</entry>
         <entry>mount</entry>
@@ -804,6 +833,7 @@
         <entry>NULL</entry>
         <entry>selectedFolder</entry>
         <entry>documentSortDirection</entry>
+        <entry>subject</entry>
       </history-search>
       <history-cmd>
         <entry>%s/string/text/g</entry>
