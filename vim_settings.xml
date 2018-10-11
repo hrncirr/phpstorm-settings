@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Subject.php" timestamp="1539251434118" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Subject.php" timestamp="1539255028610" />
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Invoice.php" timestamp="1539177891493">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -178,6 +178,9 @@
       <file name="/home/www/html/nnb/dms/src/Users/Components/PasswordForm/IPasswordFormFactory.php" timestamp="1539246663051">
         <mark key="[" line="8" column="23" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Users/DI/config.neon" timestamp="1539255403487">
+        <mark key="[" line="4" column="23" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Exceptions/NotSupportedException.php" timestamp="1538652834434">
         <mark key="[" line="8" column="23" />
       </file>
@@ -281,8 +284,10 @@
         <mark key="]" line="192" column="16" />
         <mark key="." line="192" column="16" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Users/UserRepository.php" timestamp="1539251934853">
-        <mark key="[" line="1" column="23" />
+      <file name="/home/www/html/nnb/dms/src/Users/UserRepository.php" timestamp="1539255308936">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="4" />
+        <mark key="." line="14" column="4" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Groups/Components/GroupsGrid/IGroupsGridFactory.php" timestamp="1539238044661">
         <mark key="[" line="17" column="8" />
@@ -336,10 +341,10 @@
       <file name="/home/www/html/nnb/dms/src/Folders/Components/PathControl/PathControl.php" timestamp="1539161732015">
         <mark key="[" line="101" column="56" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Tag.php" timestamp="1539154440377">
-        <mark key="[" line="76" column="33" />
-        <mark key="]" line="25" column="1" />
-        <mark key="." line="25" column="1" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Tag.php" timestamp="1539255039619">
+        <mark key="[" line="6" column="53" />
+        <mark key="]" line="26" column="1" />
+        <mark key="." line="26" column="1" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Folders/FolderGroup.php" timestamp="1539161203740">
         <mark key="[" line="10" column="0" />
@@ -431,8 +436,8 @@
       <file name="/home/www/html/nnb/dms/src/Search/Components/SearchForm/templates/SearchFormHelp.latte" timestamp="1539244998900">
         <mark key="[" line="14" column="8" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/DocumentFacade.php" timestamp="1539156128046">
-        <mark key="[" line="164" column="36" />
+      <file name="/home/www/html/nnb/dms/src/Documents/DocumentFacade.php" timestamp="1539255072043">
+        <mark key="[" line="165" column="51" />
         <mark key="]" line="397" column="4" />
         <mark key="." line="397" column="4" />
       </file>
@@ -640,9 +645,9 @@
       <file name="/home/www/html/nnb/dms/src/Files/Components/FileForm/IFileFormFactory.php" timestamp="1539080875553">
         <mark key="[" line="22" column="4" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1539251301845">
-        <mark key="'" line="52" column="13" />
-        <mark key="[" line="195" column="36" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1539255058564">
+        <mark key="'" line="53" column="13" />
+        <mark key="[" line="6" column="53" />
       </file>
       <file name="/home/www/html/nnb/dms/app/config/extensions/nette.neon" timestamp="1538641256222">
         <mark key="[" line="2" column="0" />
@@ -817,8 +822,8 @@
       <jump line="51" column="42" filename="/home/www/html/nnb/dms/src/Users/UserContext.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkvKiogQHJldHVybiBVc2VyICovCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LyoqCgkgKiBAdmFyIEVudGl0eU1hbmFnZXIKCSAqLwoJcHJpdmF0ZSAkZW07CgkKCQoJcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KEVudGl0eU1hbmFnZXIgJGVtKQoJewoJCSR0aGlzLT5lbSA9ICRlbTsKCX0=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">dGhpcy0+ZW0tPmdldFJlcG9zaXRvcnkoVXNlcjo6Y2xhc3MpLT5maW5kKCRpZCk7</text>
@@ -829,46 +834,38 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkvKiogQHJldHVybiBVc2VyICovCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">LyoqCgkgKiBAdmFyIEVudGl0eU1hbmFnZXIKCSAqLwoJcHJpdmF0ZSAkZW07CgkKCQoJcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KEVudGl0eU1hbmFnZXIgJGVtKQoJewoJCSR0aGlzLT5lbSA9ICRlbTsKCX0=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CQkvKiogQHJldHVybiBVc2VyICovCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CQlyZXR1cm4gJHVzZXI7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>if (!$id || !is_numeric($id)) {
 			return null;
 		}</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>/**
 	 * @param int $id
 	 *
 	 * @return null|object
 	 */</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">Ly8gdW5jb21tZW50IGlmIHlvdSB3YW50IHRvIHVwZGF0ZSBvdGhlciBzaWRlCgkJLy8kYWRkcmVzcy0+c2V0U3ViamVjdChudWxsKTs=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">Ly8gdW5jb21tZW50IGlmIHlvdSB3YW50IHRvIHVwZGF0ZSBvdGhlciBzaWRlCgkJLy8kYWRkcmVzcy0+c2V0U3ViamVjdCgkdGhpcyk7</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXE1hZ2ljQWNjZXNzb3JzXE1hZ2ljQWNjZXNzb3JzOwo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CXVzZSBNYWdpY0FjY2Vzc29yczsK</text>
-      </register>
-      <register name="9" type="4">
-        <text>* @property-read integer $id
- * @property string       $documentName
- * @property File         $file
- * @property string       $name
- * @property resource     $content
- * @property string       $packedContent
- * @property array        $tags
- * @property string       $comment
- * @property boolean      $enable</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
