@@ -51,7 +51,7 @@
         <mark key="]" line="86" column="8" />
         <mark key="." line="86" column="8" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Groups/IGroupPermissions.php" timestamp="1539238258201">
+      <file name="/home/www/html/nnb/dms/src/Groups/IGroupPermissions.php" timestamp="1539238881397">
         <mark key="[" line="1" column="23" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Doctrine/Filters/SoftDeletableFilter.php" timestamp="1538647945172">
@@ -98,6 +98,9 @@
       </file>
       <file name="/home/www/html/bul/maternal-register/app/config/config.neon" timestamp="1538728561694">
         <mark key="[" line="15" column="4" />
+      </file>
+      <file name="/home/www/html/nnb/dms/src/Install/Console/Commands/InstallCommand.php" timestamp="1539239242995">
+        <mark key="[" line="1" column="23" />
       </file>
       <file name="/home/www/html/bul/maternal-register/app/Model/UserManager.php" timestamp="1538727509549">
         <mark key="[" line="28" column="24" />
@@ -241,6 +244,9 @@
       <file name="/home/www/html/nnb/dms/src/Files/Storage/FileStorage.php" timestamp="1539082587135">
         <mark key="[" line="89" column="27" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Helpers/ComponentHelpers.php" timestamp="1539239240134">
+        <mark key="[" line="5" column="0" />
+      </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaEvents.php" timestamp="1537879912336">
         <mark key="[" line="17" column="58" />
       </file>
@@ -355,6 +361,9 @@
       </file>
       <file name="/home/www/html/nnb/dms/src/Exceptions/InvalidArgumentException.php" timestamp="1538652793039">
         <mark key="[" line="8" column="23" />
+      </file>
+      <file name="/home/www/html/nnb/dms/src/Helpers/SortHelpers.php" timestamp="1539239210072">
+        <mark key="[" line="61" column="107" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentTagsForm/DocumentTagsForm.php" timestamp="1538647198133">
         <mark key="[" line="8" column="23" />
@@ -511,10 +520,10 @@
         <mark key="]" line="18" column="4" />
         <mark key="." line="18" column="4" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Groups/Group.php" timestamp="1539238160007">
-        <mark key="[" line="42" column="6" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Groups/Group.php" timestamp="1539239388157">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Folders/Presenters/DefaultPresenter.php" timestamp="1539160585109">
         <mark key="[" line="137" column="89" />
@@ -692,8 +701,8 @@
       <jump line="182" column="23" filename="/home/www/html/dv/adera/Modules/Document/Components/BaseDocumentFormControl.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXE1hZ2ljQWNjZXNzb3JzXE1hZ2ljQWNjZXNzb3JzOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICogQHByb3BlcnR5LXJlYWQgaW50ZWdlciAkaWQKICogQHByb3BlcnR5IHN0cmluZyAgICAgICAkbmFtZTsKICogQHByb3BlcnR5IGludGVnZXIgICAgICAkZm9sZGVyUGVybWlzc2lvbnMKICogQHByb3BlcnR5IGludGVnZXIgICAgICAkc3BlY2lhbAogKiBAcHJvcGVydHkgYm9vbGVhbiAgICAgICR1bmVkaXRhYmxl</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JGZvcm0gPT4gJ2RhZmRzZmRzZnM=</text>
@@ -704,26 +713,29 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXE1hZ2ljQWNjZXNzb3JzXE1hZ2ljQWNjZXNzb3JzOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICogQHByb3BlcnR5LXJlYWQgaW50ZWdlciAkaWQKICogQHByb3BlcnR5IHN0cmluZyAgICAgICAkbmFtZTsKICogQHByb3BlcnR5IGludGVnZXIgICAgICAkZm9sZGVyUGVybWlzc2lvbnMKICogQHByb3BlcnR5IGludGVnZXIgICAgICAkc3BlY2lhbAogKiBAcHJvcGVydHkgYm9vbGVhbiAgICAgICR1bmVkaXRhYmxl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXVzZSBNYWdpY0FjY2Vzc29yczsK</text>
+        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXE1hZ2ljQWNjZXNzb3JzXE1hZ2ljQWNjZXNzb3JzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJey9mb3JtQ29udGFpbmVyfQo=</text>
+        <text encoding="base64">CXVzZSBNYWdpY0FjY2Vzc29yczsK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CQkJCQkJey9mb3JtQ29udGFpbmVyfQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CQkJCQkJe2Zvcm1Db250YWluZXIgc3ViamVjdH0K</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>{pair name}
 
 	{pair cin}
 
 	{pair tin}</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>{formContainer subject}
 
 		{pair name}
@@ -734,16 +746,13 @@
 
 	{/formContainer}</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>{if !isset($form)}
 	aaaaaaa
 {/if}</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvLyRmb3JtLT5hZGRIaWRkZW4oJ3N1YmplY3QnKTsK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>77</text>
