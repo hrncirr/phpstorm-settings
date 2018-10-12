@@ -225,13 +225,6 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Users/UserContext.php" timestamp="1539257021771">
-        <mark key="'" line="55" column="42" />
-        <mark key="[" line="31" column="8" />
-        <mark key="]" line="55" column="42" />
-        <mark key="^" line="55" column="42" />
-        <mark key="." line="55" column="42" />
-      </file>
       <file name="/home/www/html/nnb/dms/src/Users/Components/UserForm/UserForm.php" timestamp="1539246693828">
         <mark key="[" line="1" column="23" />
       </file>
@@ -340,13 +333,6 @@
       </file>
       <file name="/home/www/html/nnb/dms/src/Groups/Components/GroupForm/IGroupFormFactory.php" timestamp="1539237823721">
         <mark key="[" line="25" column="4" />
-      </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentFilesGrid/DocumentFilesGrid.latte" timestamp="1539246475449">
-        <mark key="'" line="56" column="72" />
-        <mark key="[" line="74" column="94" />
-        <mark key="]" line="56" column="72" />
-        <mark key="^" line="56" column="72" />
-        <mark key="." line="56" column="72" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Users/DI/UsersExtension.php" timestamp="1539246767605">
         <mark key="[" line="8" column="23" />
@@ -612,6 +598,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Document/Components/BaseDocumentFormControl.php" timestamp="1539345437817">
+        <mark key="[" line="208" column="0" />
+        <mark key="]" line="208" column="0" />
+        <mark key="." line="208" column="0" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Exceptions/DeprecatedException.php" timestamp="1538652763470">
         <mark key="[" line="8" column="23" />
       </file>
@@ -682,13 +673,6 @@
         <mark key="]" line="96" column="4" />
         <mark key="." line="96" column="4" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" timestamp="1539250896191">
-        <mark key="'" line="94" column="36" />
-        <mark key="[" line="92" column="18" />
-        <mark key="]" line="85" column="8" />
-        <mark key="^" line="85" column="8" />
-        <mark key="." line="85" column="8" />
-      </file>
       <file name="/home/www/html/nnb/dms/src/Folders/Components/FolderTreeFactory.php" timestamp="1539157205884">
         <mark key="[" line="43" column="27" />
       </file>
@@ -750,10 +734,10 @@
       <file name="/home/www/html/nnb/dms/src/Files/Console/Commands/FilesConversionsCommand.php" timestamp="1539080892920">
         <mark key="[" line="1" column="23" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/TDocumentSubject.php" timestamp="1539343725916">
-        <mark key="[" line="21" column="23" />
-        <mark key="]" line="21" column="23" />
-        <mark key="." line="21" column="23" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/TDocumentSubject.php" timestamp="1539345296227">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Exceptions/NotImplementedException.php" timestamp="1538652828295">
         <mark key="[" line="8" column="23" />
@@ -771,13 +755,6 @@
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Exceptions/ModificationsNotAllowedException.php" timestamp="1538651567243">
         <mark key="[" line="1" column="0" />
-      </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/InfoControl/InfoControl.latte" timestamp="1539245383457">
-        <mark key="'" line="96" column="20" />
-        <mark key="[" line="9" column="61" />
-        <mark key="]" line="96" column="20" />
-        <mark key="^" line="96" column="20" />
-        <mark key="." line="96" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -883,11 +860,11 @@
       <jump line="35" column="43" filename="/home/www/html/nnb/dms/src/Folders/Presenters/templates/Default/default.latte" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bmFtZT0icGFja2FnZV9pZCIsIHJlZmVyZW5jZWRDb2x1bW5OYW1lPSJpZCIsIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJZHVtcCgkZW50aXR5LT5nZXRTdWJqZWN0KCkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmFtZT0icGFja2FnZV9pZCIsIHJlZmVyZW5jZWRDb2x1bW5OYW1lPSJpZCIsIA==</text>
+        <text>dump('aaaaa');</text>
       </register>
       <register name="/" type="4">
         <text>NULL</text>
@@ -895,44 +872,41 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQkJZHVtcCgkZW50aXR5LT5nZXRTdWJqZWN0KCkpOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CSAqIEBPUk1cSm9pbkNvbHVtbihudWxsYWJsZT1mYWxzZSkK</text>
+      </register>
+      <register name="3" type="4">
         <text>callable $cinCallback,
 	                                                    callable $subjectNameCallback = null</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">dXNlIE5ldHRlXEFwcGxpY2F0aW9uXFVJXEZvcm07Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">dXNlIE5ldHRlXEFwcGxpY2F0aW9uXFVJXEZvcm07Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>{pair name}
 
 		{pair cin}
 
 		{pair tin}</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>{pair name}
 
 	{pair cin}
 
 	{pair tin}</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">e3BhaXIgc3RyZWV0fQoKe3BhaXIgY2l0eX0KCntwYWlyIHppcENvZGV9Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">dXNlIEFkZHJlc3NCb29rXENvbnRhY3Q7Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>public function getSubjectFormPartContainerName(): ?string
-	{
-		return 'subject';
-	}</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">cHJvdGVjdGVkIGZ1bmN0aW9uIGNyZWF0ZVN1YmplY3RGb3JtUGFydEluQ29udGFpbmVyKCRuYW1lLCBGb3JtICRmb3JtLCBjYWxsYWJsZSAkY2luQ2FsbGJhY2ssCgkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhbGxhYmxlICRzdWJqZWN0TmFtZUNhbGxiYWNrID0gbnVsbCk6IHZvaWQKCXsKCQkkY29udGFpbmVyID0gJGZvcm0tPmFkZENvbnRhaW5lcigkbmFtZSk7CgkJLy8kdGhpcy0+Y3JlYXRlU3ViamVjdEZvcm1QYXJ0KCRjb250YWluZXIpOwoJfQ==</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
