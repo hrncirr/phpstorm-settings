@@ -750,6 +750,11 @@
       <file name="/home/www/html/nnb/dms/src/Files/Console/Commands/FilesConversionsCommand.php" timestamp="1539080892920">
         <mark key="[" line="1" column="23" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/TDocumentSubject.php" timestamp="1539343725916">
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="21" column="23" />
+        <mark key="." line="21" column="23" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Exceptions/NotImplementedException.php" timestamp="1538652828295">
         <mark key="[" line="8" column="23" />
       </file>
@@ -879,10 +884,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, $cinCallback, $subjectNameCallback</text>
+        <text encoding="base64">bmFtZT0icGFja2FnZV9pZCIsIHJlZmVyZW5jZWRDb2x1bW5OYW1lPSJpZCIsIA==</text>
       </register>
       <register name="-" type="4">
-        <text>, $cinCallback, $subjectNameCallback</text>
+        <text encoding="base64">bmFtZT0icGFja2FnZV9pZCIsIHJlZmVyZW5jZWRDb2x1bW5OYW1lPSJpZCIsIA==</text>
       </register>
       <register name="/" type="4">
         <text>NULL</text>
