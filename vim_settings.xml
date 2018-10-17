@@ -18,7 +18,7 @@
         <mark key="]" line="96" column="51" />
         <mark key="." line="96" column="51" />
       </file>
-      <file name="/a.dummy" timestamp="1539262964617">
+      <file name="/a.dummy" timestamp="1539779802059">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/app/config/extensions/permissions.neon" timestamp="1538640645141">
@@ -125,6 +125,9 @@
         <mark key="]" line="32" column="16" />
         <mark key="." line="32" column="16" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressSelectorControl/IDocumentFolderSelectorControlFactory.php" timestamp="1539779749141">
+        <mark key="[" line="11" column="30" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/FilesUploadForm/IFilesUploadFormFactory.php" timestamp="1538647268352">
         <mark key="[" line="8" column="23" />
       </file>
@@ -144,6 +147,11 @@
       </file>
       <file name="/home/www/html/nnb/dms/src/Search/Presenters/DefaultPresenter.php" timestamp="1539243997361">
         <mark key="[" line="1" column="23" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressSelectorControl/AddressSelectorControl.latte" timestamp="1539780979408">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Users/Security/RolesProvider.php" timestamp="1539251028071">
         <mark key="[" line="5" column="23" />
@@ -240,11 +248,15 @@
       <file name="/home/www/html/nnb/dms/src/Files/Router/FileConversionRouterFactory.php" timestamp="1539082053289">
         <mark key="[" line="27" column="39" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/InfoControl/InfoControl.php" timestamp="1539779534450">
+        <mark key="[" line="107" column="61" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseBusinessCaseDocumentFormControl.php" timestamp="1539697049957">
         <mark key="[" line="121" column="12" />
         <mark key="]" line="124" column="77" />
         <mark key="." line="124" column="77" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressForm/AddressForm.php" timestamp="1539779744853" />
       <file name="/home/www/html/bul/maternal-register/app/Services/Email/EmailService.php" timestamp="1538727442964">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="11" column="19" />
@@ -267,8 +279,8 @@
       <file name="/home/www/html/nnb/dms/src/Exceptions/ArgumentOutOfRangeException.php" timestamp="1539153896581">
         <mark key="[" line="8" column="23" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/AddressFormPart/AddressFormPart.latte" timestamp="1539767187064">
-        <mark key="[" line="44" column="8" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/AddressFormPart/AddressFormPart.latte" timestamp="1539781012944">
+        <mark key="[" line="20" column="63" />
         <mark key="]" line="44" column="8" />
         <mark key="." line="44" column="8" />
       </file>
@@ -291,6 +303,11 @@
       <file name="/home/www/html/dv/adera/Modules/Invoicing/TDocumentContact.php" timestamp="1539262873286">
         <mark key="[" line="30" column="35" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressSelectorControl/AddressSelectorControl.php" timestamp="1539780115442">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Search/FileSerializer.php" timestamp="1539244455569">
         <mark key="[" line="8" column="23" />
       </file>
@@ -309,10 +326,13 @@
         <mark key="^" line="60" column="37" />
         <mark key="." line="60" column="37" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/AddressFormPart/TAddressFormPart.php" timestamp="1539766238541">
-        <mark key="[" line="41" column="4" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/AddressFormPart/TAddressFormPart.php" timestamp="1539781253540">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/DI/config.neon" timestamp="1539780375214">
+        <mark key="[" line="21" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1539256550021">
         <mark key="[" line="182" column="33" />
@@ -383,6 +403,11 @@
         <mark key="[" line="6" column="53" />
         <mark key="]" line="26" column="1" />
         <mark key="." line="26" column="1" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressSelectorControl/IAddressSelectorControlFactory.php" timestamp="1539779865057">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/BaseBusinessCaseDocument.php" timestamp="1539263195541">
         <mark key="[" line="35" column="18" />
@@ -477,9 +502,6 @@
         <mark key="[" line="51" column="12" />
         <mark key="]" line="17" column="1" />
         <mark key="." line="17" column="1" />
-      </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Forms/Controls/SubjectNameInput.php" timestamp="1539695886205">
-        <mark key="[" line="86" column="12" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Folders/Components/FolderSortTypeForm/FolderSortTypeForm.php" timestamp="1539163653036">
         <mark key="[" line="104" column="0" />
@@ -611,7 +633,8 @@
         <mark key="]" line="16" column="63" />
         <mark key="." line="16" column="63" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" timestamp="1539766729104">
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" timestamp="1539780862529">
+        <mark key="'" line="130" column="26" />
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
@@ -744,7 +767,7 @@
       <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1539247104572">
         <mark key="[" line="135" column="82" />
       </file>
-      <file name="/PHP Console" timestamp="1539777566398">
+      <file name="/PHP Console" timestamp="1539781249639">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/app/Components/GridFactory.php" timestamp="1538570681163">
@@ -784,26 +807,11 @@
       <file name="/home/www/html/nnb/dms/src/Documents/Exceptions/ModificationsNotAllowedException.php" timestamp="1538651567243">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentFolderSelectorControl/DocumentFolderSelectorControl.php" timestamp="1539779610986">
+        <mark key="[" line="83" column="75" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="6096" column="9" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="6097" column="99" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="6098" column="40" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="6187" column="29" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="241" column="28" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="664" column="30" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="672" column="19" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="676" column="15" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="208" column="14" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="683" column="15" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1292" column="23" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1296" column="19" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="1829" column="23" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="3453" column="19" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="4042" column="23" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="4047" column="27" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="4063" column="31" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="4207" column="56" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="4255" column="28" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="4561" column="19" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="4564" column="19" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
@@ -886,83 +894,73 @@
       <jump line="92" column="36" filename="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" />
       <jump line="51" column="42" filename="/home/www/html/nnb/dms/src/Users/UserContext.php" />
       <jump line="35" column="43" filename="/home/www/html/nnb/dms/src/Folders/Presenters/templates/Default/default.latte" />
+      <jump line="45" column="39" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
+      <jump line="47" column="50" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
+      <jump line="48" column="39" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
+      <jump line="52" column="41" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
+      <jump line="54" column="13" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
+      <jump line="61" column="32" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
+      <jump line="78" column="13" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
+      <jump line="89" column="21" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
+      <jump line="90" column="40" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
+      <jump line="97" column="37" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
+      <jump line="98" column="31" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
+      <jump line="106" column="97" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
+      <jump line="111" column="25" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
+      <jump line="112" column="42" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
+      <jump line="123" column="26" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
+      <jump line="124" column="15" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
+      <jump line="126" column="19" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
+      <jump line="130" column="26" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{if !isset($subjectId)}
-		{pair street}
-	{else}
-		{include streetControl}
-	{/if}
-
-	{pair city}
-
-	{pair zipCode}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJZHVtcCgnYm/FvmUnKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JF9mb3JtID0+ICRmb3JtfQ==</text>
+        <text encoding="base64">JHN1YmplY3QgPSAkdGhpcy0+ZW0tPmZpbmQoU3ViamVjdDo6Y2xhc3MsICRpZCk7</text>
       </register>
       <register name="/" type="4">
-        <text>IČO</text>
+        <text>subject</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
-        <text>{if !isset($subjectId)}
-		{pair street}
-	{else}
-		{include streetControl}
-	{/if}
-
-	{pair city}
-
-	{pair zipCode}</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJZHVtcCgnYm/FvmUnKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl7aW5jbHVkZSBhZGRyZXNzfQo=</text>
+        <text encoding="base64">CQlpZiAoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlhYWFhYQo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJ2FhYWFhJyk7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJycpCg==</text>
+        <text encoding="base64">CXsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXEZvcm1zXENvbnRhaW5lcjsK</text>
+        <text encoding="base64">CXByb3RlY3RlZCBmdW5jdGlvbiAoKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>{pair name}
-
-		{pair cin}
-
-		{pair tin}</text>
+      <register name="7" type="2">
+        <text encoding="base64">e3NuaXBwZXR9Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>{pair name}
-
-	{pair cin}
-
-	{pair tin}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ey9zbmlwcGV0fQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>{pair street}
-
-		{pair city}
-
-		{pair zipCode}</text>
+      <register name="9" type="2">
+        <text encoding="base64">CXtjb250cm9sIHRyZWV9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>323</text>
       </register>
     </registers>
     <search>
-      <last-search>IČO</last-search>
+      <last-search>subject</last-search>
       <last-offset />
-      <last-pattern>IČO</last-pattern>
+      <last-pattern>subject</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -980,7 +978,6 @@
         <entry>storagePath</entry>
         <entry>selectedFolder</entry>
         <entry>documentSortDirection</entry>
-        <entry>subject</entry>
         <entry>published</entry>
         <entry>getExternal</entry>
         <entry encoding="base64">LT5maWxlcw==</entry>
@@ -990,6 +987,7 @@
         <entry>file</entry>
         <entry>NULL</entry>
         <entry>IČO</entry>
+        <entry>subject</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
