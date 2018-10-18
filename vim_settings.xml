@@ -18,7 +18,7 @@
         <mark key="]" line="96" column="51" />
         <mark key="." line="96" column="51" />
       </file>
-      <file name="/a.dummy" timestamp="1539779802059">
+      <file name="/a.dummy" timestamp="1539859940123">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/app/config/extensions/permissions.neon" timestamp="1538640645141">
@@ -72,6 +72,11 @@
       <file name="/home/www/html/nnb/dms/src/MimeTypes/MimeTypes.php" timestamp="1539242886469">
         <mark key="[" line="5" column="23" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/ISubject.php" timestamp="1539859045382">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="/home/www/lib/vendor/hrncirr-cms/file/src/DI/FileExtension.php" timestamp="1538641299639">
         <mark key="[" line="51" column="8" />
         <mark key="]" line="51" column="8" />
@@ -104,6 +109,9 @@
       </file>
       <file name="/home/www/html/nnb/dms/src/Files/Router/FilePreviewRouterFactory.php" timestamp="1539082044097">
         <mark key="[" line="27" column="39" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/AddressFormPart/IAddressProvider.php" timestamp="1539859645233">
+        <mark key="[" line="22" column="34" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr-cms/file/src/MediaFacade.php" timestamp="1538558455974">
         <mark key="[" line="53" column="35" />
@@ -239,12 +247,14 @@
       <file name="/home/www/html/nnb/dms/src/Documents/Components/InfoControl/InfoControl.php" timestamp="1539779534450">
         <mark key="[" line="107" column="61" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseBusinessCaseDocumentFormControl.php" timestamp="1539853152059">
-        <mark key="[" line="75" column="16" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseBusinessCaseDocumentFormControl.php" timestamp="1539862775474">
+        <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressForm/AddressForm.php" timestamp="1539779744853" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressForm/AddressForm.php" timestamp="1539859172169">
+        <mark key="[" line="110" column="42" />
+      </file>
       <file name="/home/www/html/bul/maternal-register/app/Services/Email/EmailService.php" timestamp="1538727442964">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="11" column="19" />
@@ -285,8 +295,8 @@
       <file name="/home/www/html/dv/adera/Modules/Invoicing/TDocumentContact.php" timestamp="1539262873286">
         <mark key="[" line="30" column="35" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressSelectorControl/AddressSelectorControl.php" timestamp="1539785755723">
-        <mark key="[" line="69" column="4" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressSelectorControl/AddressSelectorControl.php" timestamp="1539861493772">
+        <mark key="[" line="56" column="32" />
         <mark key="]" line="47" column="4" />
         <mark key="." line="47" column="4" />
       </file>
@@ -302,10 +312,11 @@
       <file name="/home/www/html/nnb/dms/src/Groups/Presenters/DefaultPresenter.php" timestamp="1539238074822">
         <mark key="[" line="1" column="23" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/AddressFormPart/TAddressFormPart.php" timestamp="1539857284548">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="98" column="75" />
-        <mark key="." line="98" column="75" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/AddressFormPart/TAddressFormPart.php" timestamp="1539861464396">
+        <mark key="[" line="82" column="37" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="59" column="89" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/DI/config.neon" timestamp="1539780375214">
         <mark key="[" line="21" column="0" />
@@ -314,6 +325,9 @@
         <mark key="[" line="192" column="16" />
         <mark key="]" line="192" column="16" />
         <mark key="." line="192" column="16" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/ISubjectProvider.php" timestamp="1539860670247">
+        <mark key="[" line="23" column="34" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Users/UserRepository.php" timestamp="1539255308936">
         <mark key="[" line="14" column="0" />
@@ -337,10 +351,10 @@
       <file name="/home/www/html/nnb/dms/src/Users/Components/PasswordForm/PasswordForm.php" timestamp="1539246669748">
         <mark key="[" line="1" column="23" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" timestamp="1539351552511">
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" timestamp="1539860751217">
         <mark key="[" line="119" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539785810246">
+      <file name="/Dummy.txt" timestamp="1539858986274">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -368,7 +382,6 @@
       <file name="/home/www/html/nnb/dms/src/Folders/Components/PathControl/PathControl.php" timestamp="1539161732015">
         <mark key="[" line="101" column="56" />
       </file>
-      <file name="/home/www/html/dv/adera/libs/vendor/nette/application/src/Application/UI/Presenter.php" timestamp="1539604014888" />
       <file name="/home/www/html/nnb/dms/src/Documents/Tag.php" timestamp="1539255039619">
         <mark key="[" line="6" column="53" />
         <mark key="]" line="26" column="1" />
@@ -379,8 +392,8 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/BaseBusinessCaseDocument.php" timestamp="1539263195541">
-        <mark key="[" line="35" column="18" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/BaseBusinessCaseDocument.php" timestamp="1539860656415">
+        <mark key="[" line="29" column="79" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Folders/FolderGroup.php" timestamp="1539161203740">
         <mark key="[" line="10" column="0" />
@@ -568,7 +581,6 @@
       <file name="/home/www/html/nnb/dms/src/Folders/Exceptions/FolderPermissionException.php" timestamp="1539160606301">
         <mark key="[" line="22" column="67" />
       </file>
-      <file name="/home/www/html/dv/adera/app/bootstrap.php" timestamp="1539603779414" />
       <file name="/home/www/html/nnb/dms/src/Documents/Presenters/TagsPresenter.php" timestamp="1538651706868">
         <mark key="[" line="1" column="23" />
       </file>
@@ -597,11 +609,11 @@
         <mark key="]" line="16" column="63" />
         <mark key="." line="16" column="63" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" timestamp="1539852770480">
-        <mark key="'" line="130" column="26" />
-        <mark key="[" line="97" column="40" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" timestamp="1539862944157">
+        <mark key="'" line="147" column="26" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Document/Components/BaseDocumentFormControl.php" timestamp="1539346515250">
         <mark key="[" line="204" column="4" />
@@ -614,8 +626,6 @@
       <file name="/home/www/html/nnb/dms/src/Files/Components/FileForm/FileForm.php" timestamp="1539080781160">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Address.php" timestamp="1539592886601" />
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/DI/AddressBookExtension.php" timestamp="1539687623949" />
       <file name="/home/www/html/nnb/dms/src/Folders/Console/Command/RegenerateFolderSlugCommand.php" timestamp="1539157210550">
         <mark key="[" line="1" column="23" />
       </file>
@@ -657,6 +667,9 @@
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Exceptions/DocumentIsAttachmentException.php" timestamp="1538651548034">
         <mark key="[" line="1" column="0" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/AddressFormPart/IAddress.php" timestamp="1539859248867">
+        <mark key="[" line="17" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentFolderSelectorControl/IDocumentFolderSelectorControlFactory.php" timestamp="1538642229996">
         <mark key="[" line="8" column="23" />
@@ -731,7 +744,7 @@
       <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1539247104572">
         <mark key="[" line="135" column="82" />
       </file>
-      <file name="/PHP Console" timestamp="1539857278562">
+      <file name="/PHP Console" timestamp="1539863574551">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/app/Components/GridFactory.php" timestamp="1538570681163">
@@ -762,7 +775,6 @@
       <file name="/home/www/html/nnb/dms/src/Exceptions/UnexpectedValueException.php" timestamp="1538652851207">
         <mark key="[" line="8" column="23" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Components/CatalogItemForm/templates/CatalogItemForm.latte" timestamp="1539762739830" />
       <file name="/home/www/html/nnb/dms/app/Presenters/templates/@layout.latte" timestamp="1539352042210">
         <mark key="[" line="125" column="36" />
         <mark key="]" line="41" column="0" />
@@ -879,10 +891,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCSRmb3JtID0gJHRoaXNbJ2Zvcm0nXTsK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYgISRmb3JtWydhZGRyZXNzLWFkZHJlc3NJZCddLT5nZXRWYWx1ZSgpKQ==</text>
+        <text encoding="base64">KCRuYW1lID09PSAnbmFtZScgJiYgJHN1YmplY3RQcm92aWRlci0+Z2V0SWQoKSAhPT0gbnVsbCk=</text>
       </register>
       <register name="/" type="4">
         <text>defaultAddress</text>
@@ -891,31 +903,31 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCSRmb3JtID0gJHRoaXNbJ2Zvcm0nXTsK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJZHVtcCgnb2snKTsK</text>
+        <text encoding="base64">CQkJZHVtcCgkc3ViamVjdFByb3ZpZGVyLT5nZXRJZCgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJ29rJyk7Cg==</text>
+        <text encoding="base64">CQkJCWR1bXAoJHRoaXNbJ2Zvcm0tbmFtZSddLT5nZXRWYWx1ZSgpKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJ29rJyk7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">aWYgKCRuYW1lID09PSAnbmFtZScgJiYgISRjb250cm9sLT5pc0Rpc2FibGVkKCkgJiYgJHN1YmplY3RQcm92aWRlci0+Z2V0SWQoKSAhPT0gbnVsbCkgewoJCQkJCgkJCX0=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkkcHJvcGVyc3lBY2Nlc3Nvci0+c2V0VmFsdWUoJHRoaXMtPmJ1c2luZXNzQ2FzZURvY3VtZW50LCAnYWRkcmVzcycsICRmb3VuZEFkZHJlc3MpOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">JGNvbnRyb2xOYW1lcyA9IFsnY2luJywgJ3RpbiddOwoJCQoJCWlmICgkc3ViamVjdFByb3ZpZGVyLT5nZXRJZCgpICE9PSBudWxsKSB7CgkJCWFycmF5X3Vuc2hpZnQoJGNvbnRyb2xOYW1lcywgJ25hbWUnKTsKCQl9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJJGRpc2FibGVkID0gdHJ1ZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkkc3ViamVjdCA9ICR0aGlzLT5idXNpbmVzc0Nhc2VEb2N1bWVudC0+Z2V0U3ViamVjdCgpOwo=</text>
+        <text encoding="base64">CQkkZGlzYWJsZWQgPSBmYWxzZTsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LyoKCQkkc3ViamVjdCA9ICR0aGlzLT5idXNpbmVzc0Nhc2VEb2N1bWVudC0+Z2V0U3ViamVjdCgpOwoJCQoJCSRmb3VuZEFkZHJlc3MgPSBudWxsOwoJCS8vIEB2YXIgQWRkcmVzcyAkYWRkcmVzcwoJCWZvcmVhY2ggKCRzdWJqZWN0LT5nZXRBZGRyZXNzZXMoKSBhcyAkYWRkcmVzcykgewoJCQlpZiAoJGFkZHJlc3MtPmdldEFkZHJlc3NUeXBlKCktPmdldElkKCkgPT09IDEpIHsKCQkJCSRmb3VuZEFkZHJlc3MgPSAkYWRkcmVzczsKCQkJfQoJCX0KCQkKCQkkcHJvcGVydHlBY2Nlc3Nvci0+c2V0VmFsdWUoJHRoaXMtPmJ1c2luZXNzQ2FzZURvY3VtZW50LCAnYWRkcmVzcycsICRmb3VuZEFkZHJlc3MpOwoJCSov</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCSRmb3JtID0gJHRoaXNbJ2Zvcm0nXTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJZGVmYXVsdEFkZHJlc3MK</text>
+        <text encoding="base64">CQkJCS8vJHRoaXMtPmNyZWF0ZUFkZHJlc3NGb3JtUGFydCgkZm9ybSwgJHRoaXMtPmJ1c2luZXNzQ2FzZURvY3VtZW50KTsK</text>
       </register>
       <register name=":" type="4">
         <text>323</text>
