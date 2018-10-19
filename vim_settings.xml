@@ -172,6 +172,11 @@
       <file name="/home/www/html/nnb/dms/src/Install/DI/InstallExtension.php" timestamp="1539242628916">
         <mark key="[" line="5" column="23" />
       </file>
+      <file name="/home/www/html/nnb/patient-studies/src/User/UserRepository.php" timestamp="1539944472240">
+        <mark key="[" line="23" column="40" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Exceptions/DuplicateFileNameException.php" timestamp="1538651561010">
         <mark key="[" line="1" column="0" />
       </file>
@@ -234,6 +239,11 @@
         <mark key="[" line="74" column="82" />
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/patient-studies/src/User/DI/config.neon" timestamp="1539944539136">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Users/Components/UserForm/UserForm.php" timestamp="1539246693828">
         <mark key="[" line="1" column="23" />
@@ -347,6 +357,12 @@
       </file>
       <file name="/home/www/html/nnb/dms/src/Users/DI/UsersExtension.php" timestamp="1539246767605">
         <mark key="[" line="8" column="23" />
+      </file>
+      <file name="/home/www/html/nnb/patient-studies/src/User/EAUserCallable.php" timestamp="1539944069450">
+        <mark key="[" line="11" column="10" />
+      </file>
+      <file name="/home/www/html/nnb/patient-studies/src/User/UserFacade.php" timestamp="1539944421894">
+        <mark key="[" line="4" column="10" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Users/Components/PasswordForm/PasswordForm.php" timestamp="1539246669748">
         <mark key="[" line="1" column="23" />
@@ -626,6 +642,11 @@
       <file name="/home/www/html/nnb/dms/src/Files/Components/FileForm/FileForm.php" timestamp="1539080781160">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="/home/www/html/nnb/patient-studies/src/User/UserContext.php" timestamp="1539944381567">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Folders/Console/Command/RegenerateFolderSlugCommand.php" timestamp="1539157210550">
         <mark key="[" line="1" column="23" />
       </file>
@@ -645,6 +666,17 @@
       </file>
       <file name="/home/www/html/nnb/dms/src/Groups/Components/GroupsPermissionsForm/IGroupsPermissionsFormFactory.php" timestamp="1539238022661">
         <mark key="[" line="8" column="23" />
+      </file>
+      <file name="/home/www/html/nnb/patient-studies/src/User/User.php" timestamp="1539944101582">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/patient-studies/app/Presenters/BasePresenter.php" timestamp="1539944753925">
+        <mark key="[" line="35" column="4" />
+      </file>
+      <file name="/home/www/html/nnb/patient-studies/src/User/DI/UserExtension.php" timestamp="1539943422417">
+        <mark key="[" line="53" column="75" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Search/Components/SearchForm/SearchForm.php" timestamp="1539245055757">
         <mark key="[" line="113" column="44" />
@@ -698,6 +730,11 @@
       </file>
       <file name="/home/www/html/nnb/patient-studies/src/Study/Components/StudyForm/StudyForm.latte" timestamp="1537965922581">
         <mark key="[" line="4" column="14" />
+      </file>
+      <file name="/home/www/html/nnb/patient-studies/src/User/Events/UserListener.php" timestamp="1539944646204">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/app/config/extensions/components.neon" timestamp="1538640927137">
         <mark key="[" line="7" column="4" />
@@ -769,6 +806,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="/home/www/html/nnb/patient-studies/src/Patient/DI/PatientExtension.php" timestamp="1539943416432" />
       <file name="/home/www/html/nnb/dms/src/Exceptions/NotImplementedException.php" timestamp="1538652828295">
         <mark key="[" line="8" column="23" />
       </file>
@@ -782,6 +820,9 @@
         <mark key="[" line="125" column="36" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/patient-studies/app/config/extensions/app.neon" timestamp="1539944723019">
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Exceptions/ModificationsNotAllowedException.php" timestamp="1538651567243">
         <mark key="[" line="1" column="0" />
@@ -894,10 +935,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">dXNlIE5ldHRlXENhY2hpbmdcQ2FjaGU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KCRuYW1lID09PSAnbmFtZScgJiYgJHN1YmplY3RQcm92aWRlci0+Z2V0SWQoKSAhPT0gbnVsbCk=</text>
+        <text>\Nette\Security\</text>
       </register>
       <register name="/" type="4">
         <text>defaultAddress</text>
@@ -906,31 +947,31 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">dXNlIE5ldHRlXENhY2hpbmdcQ2FjaGU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJZHVtcCgkc3ViamVjdFByb3ZpZGVyLT5nZXRJZCgpKTsK</text>
+        <text encoding="base64">dXNlIERvY3RyaW5lXE9STVxFdmVudFxPbkZsdXNoRXZlbnRBcmdzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJHRoaXNbJ2Zvcm0tbmFtZSddLT5nZXRWYWx1ZSgpKTsK</text>
+        <text encoding="base64">dXNlIERvY3RyaW5lXE9STVxFdmVudFxMaWZlY3ljbGVFdmVudEFyZ3M7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">aWYgKCRuYW1lID09PSAnbmFtZScgJiYgISRjb250cm9sLT5pc0Rpc2FibGVkKCkgJiYgJHN1YmplY3RQcm92aWRlci0+Z2V0SWQoKSAhPT0gbnVsbCkgewoJCQkJCgkJCX0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">dXNlIERvY3RyaW5lXE9STVxBYnN0cmFjdFF1ZXJ5Owo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">JGNvbnRyb2xOYW1lcyA9IFsnY2luJywgJ3RpbiddOwoJCQoJCWlmICgkc3ViamVjdFByb3ZpZGVyLT5nZXRJZCgpICE9PSBudWxsKSB7CgkJCWFycmF5X3Vuc2hpZnQoJGNvbnRyb2xOYW1lcywgJ25hbWUnKTsKCQl9</text>
+      <register name="5" type="2">
+        <text encoding="base64">dXNlIFVzZXJcVXNlckNvbnRleHQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJJGRpc2FibGVkID0gdHJ1ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkkZGlzYWJsZWQgPSBmYWxzZTsK</text>
+        <text encoding="base64">CS0gQXBwXFVzZXJzXENvbXBvbmVudHNcVXNlcnNHcmlkXElVc2Vyc0dyaWRGYWN0b3J5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCSRmb3JtID0gJHRoaXNbJ2Zvcm0nXTsK</text>
+        <text encoding="base64">CS0gQXBwXFVzZXJzXENvbXBvbmVudHNcUGFzc3dvcmRGb3JtXElQYXNzd29yZEZvcm1GYWN0b3J5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCS8vJHRoaXMtPmNyZWF0ZUFkZHJlc3NGb3JtUGFydCgkZm9ybSwgJHRoaXMtPmJ1c2luZXNzQ2FzZURvY3VtZW50KTsK</text>
+        <text encoding="base64">CS0gQXBwXFVzZXJzXENvbXBvbmVudHNcVXNlckZvcm1cSVVzZXJGb3JtRmFjdG9yeQo=</text>
       </register>
       <register name=":" type="4">
         <text>323</text>
