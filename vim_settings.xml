@@ -118,6 +118,11 @@
       <file name="/home/www/lib/vendor/hrncirr-cms/file/src/MediaFacade.php" timestamp="1538558455974">
         <mark key="[" line="53" column="35" />
       </file>
+      <file name="/home/www/html/nnb/patient-studies/src/Study/Components/StudiesGrid/StudiesGrid.php" timestamp="1539947820298">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
       <file name="/home/www/html/nnb/patient-studies/app/Router/RouterFactory.php" timestamp="1538570625634">
         <mark key="[" line="28" column="35" />
         <mark key="]" line="32" column="16" />
@@ -937,7 +942,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICogQFNlY3VyZWRcUHJpdmlsZWdlKGVkaXRpbmcpCg==</text>
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name="-" type="4">
         <text>\Nette\Security\</text>
@@ -949,31 +954,31 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQFNlY3VyZWRcUHJpdmlsZWdlKGVkaXRpbmcpCg==</text>
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CQlkdW1wKCRzdHVkeSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICogQFNlY3VyZWRcUHJpdmlsZWdlKGVkaXRpbmcpCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICogQFNlY3VyZWRcUmVzb3VyY2UodXNlcnMpCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">PGEgbjpocmVmPSJzaG93UGFzc3dvcmRGb3JtISIgY2xhc3M9ImJ0biBidG4taW5mbyBhamF4IiB0aXRsZT0iem3Em25hIGhlc2xhIj4KCQkJCQkJCQkJCQk8c3BhbiBjbGFzcz0iZmEgZmEtc2hvcHBpbmctYmFnIj48L3NwYW4+CgkJCQkJCQkJCQk8L2E+</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">eyoKCQkJCQkJCTxsaSByb2xlPSJwcmVzZW50YXRpb24iIGNsYXNzPSJkaXZpZGVyIj48L2xpPgoJCQkJCQkJPGxpPgoJCQkJCQkJCTxhIG46aHJlZj0ibG9nb3V0ISI+CgkJCQkJCQkJCTxzcGFuIGNsYXNzPSJnbHlwaGljb24gZ2x5cGhpY29uLWxvZy1vdXQiPjwvc3Bhbj4KCQkJCQkJCQkJT2RobMOhc2l0CgkJCQkJCQkJPC9hPgoJCQkJCQkJPC9saT4KCQkJCQkJCSp9</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJRXZlbnRzOjpvbkZsdXNoCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJRXZlbnRzOjpwcmVQZXJzaXN0LAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXENhY2hpbmdcQ2FjaGU7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">dXNlIERvY3RyaW5lXE9STVxFdmVudFxPbkZsdXNoRXZlbnRBcmdzOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIERvY3RyaW5lXE9STVxFdmVudFxMaWZlY3ljbGVFdmVudEFyZ3M7Cg==</text>
+        <text encoding="base64">dXNlIE5ldHRlXENhY2hpbmdcQ2FjaGU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>323</text>
