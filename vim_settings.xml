@@ -639,6 +639,9 @@
       <file name="/home/www/html/nnb/dms/src/Files/Storage/FileStorage.php" timestamp="1539082587135">
         <mark key="[" line="89" column="27" />
       </file>
+      <file name="/home/www/vendor/hrncirr/media/src/IImageAccessManager.php" timestamp="1540216587560">
+        <mark key="[" line="15" column="38" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Helpers/ComponentHelpers.php" timestamp="1539785806043">
         <mark key="[" line="5" column="0" />
       </file>
@@ -886,6 +889,11 @@
       <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentTagsForm/IDocumentTagsFormFactory.php" timestamp="1538642651724">
         <mark key="[" line="24" column="4" />
       </file>
+      <file name="/home/www/vendor/hrncirr/media/src/IFileAccessManager.php" timestamp="1540216617976">
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="14" column="4" />
+        <mark key="." line="14" column="4" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Exceptions/UnexpectedValueException.php" timestamp="1538652851207">
         <mark key="[" line="8" column="23" />
       </file>
@@ -1019,14 +1027,8 @@
     <registers>
       <register name="&quot;" type="4">
         <text>/**
-	 * Get the configuration for specific object class
-	 * if cache driver is present it scans it also
-	 *
-	 * @param string $class
-	 *
-	 * @return array|mixed
-	 *
-	 * @throws MappingException
+	 * @param string $fileName
+	 * @param bool   $forceDownload
 	 */</text>
       </register>
       <register name="-" type="4">
@@ -1040,6 +1042,12 @@
       </register>
       <register name="1" type="4">
         <text>/**
+	 * @param string $fileName
+	 * @param bool   $forceDownload
+	 */</text>
+      </register>
+      <register name="2" type="4">
+        <text>/**
 	 * Get the configuration for specific object class
 	 * if cache driver is present it scans it also
 	 *
@@ -1050,14 +1058,14 @@
 	 * @throws MappingException
 	 */</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>/**
 	 * @param ClassMetadata $classMetadata
 	 *
 	 * @throws MappingException
 	 */</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>/**
 	 * @param ClassMetadata $metadata
 	 * @param array         $config
@@ -1067,27 +1075,24 @@
 	 * @throws MappingException
 	 */</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>/**
 	 * Create default annotation reader for extensions
 	 *
 	 * @return Reader
 	 */</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CSAqIEB0aHJvd3MgXERvY3RyaW5lXE9STVxOb1Jlc3VsdEV4Y2VwdGlvbgo=</text>
-      </register>
       <register name="6" type="2">
         <text encoding="base64">CSAqIEB0aHJvd3MgXERvY3RyaW5lXE9STVxOb1Jlc3VsdEV4Y2VwdGlvbgo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">CSAqIEB0aHJvd3MgXERvY3RyaW5lXE9STVxOb1Jlc3VsdEV4Y2VwdGlvbgo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CQlleGl0Owo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ZHVtcCgkcmVjb3JkKTsKCQkJZHVtcCgkdGhpcy0+dXNlci0+Z2V0SWRlbnRpdHkoKS0+Z2V0T3NjKCkpOw==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzLT51c2VyLT5nZXRJZGVudGl0eSgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/elfinderFile/elFinderFile/g</text>
