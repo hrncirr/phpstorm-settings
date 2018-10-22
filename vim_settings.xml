@@ -18,7 +18,7 @@
         <mark key="]" line="96" column="51" />
         <mark key="." line="96" column="51" />
       </file>
-      <file name="/a.dummy" timestamp="1539956323126">
+      <file name="/a.dummy" timestamp="1540200995530">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/app/config/extensions/permissions.neon" timestamp="1538640645141">
@@ -74,12 +74,6 @@
       <file name="/home/www/html/nnb/dms/src/Folders/Events/GroupListener.php" timestamp="1539157495832">
         <mark key="[" line="73" column="56" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/src/Log/Log.php" timestamp="1539956470833">
-        <mark key="[" line="20" column="19" />
-        <mark key="]" line="20" column="19" />
-        <mark key="." line="20" column="19" />
-        <mark key="^" line="26" column="33" />
-      </file>
       <file name="/home/www/html/nnb/dms/src/MimeTypes/MimeTypes.php" timestamp="1539242886469">
         <mark key="[" line="5" column="23" />
       </file>
@@ -112,6 +106,11 @@
         <mark key="]" line="78" column="40" />
         <mark key="." line="78" column="40" />
       </file>
+      <file name="/home/www/html/nnb/patient-studies/app/config/extensions/monolog.neon" timestamp="1540201678629">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/HistoryControl/HistoryControl.php" timestamp="1539257402593">
         <mark key="[" line="73" column="34" />
       </file>
@@ -142,13 +141,18 @@
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressSelectorControl/IDocumentFolderSelectorControlFactory.php" timestamp="1539779749141">
         <mark key="[" line="11" column="30" />
       </file>
+      <file name="/home/www/html/nnb/patient-studies/src/Log/Monolog/MonologDBHandler.php" timestamp="1540201865295">
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="38" column="4" />
+        <mark key="." line="38" column="4" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/FilesUploadForm/IFilesUploadFormFactory.php" timestamp="1538647268352">
         <mark key="[" line="8" column="23" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/app/config/config.neon" timestamp="1539956616513">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="/home/www/html/nnb/patient-studies/app/config/config.neon" timestamp="1540201714159">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Presenters/ArchivePresenter.php" timestamp="1538651618035">
         <mark key="[" line="1" column="23" />
@@ -247,11 +251,11 @@
         <mark key="]" line="94" column="8" />
         <mark key="." line="94" column="8" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/src/Study/Presenters/DefaultPresenter.php" timestamp="1540197626214">
-        <mark key="[" line="12" column="2" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
+      <file name="/home/www/html/nnb/patient-studies/src/Study/Presenters/DefaultPresenter.php" timestamp="1540201887263">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNoteForm/CreditNoteForm.php" timestamp="1539090585049">
         <mark key="[" line="109" column="0" />
@@ -353,12 +357,6 @@
       <file name="/home/www/html/nnb/dms/src/Groups/Presenters/DefaultPresenter.php" timestamp="1539238074822">
         <mark key="[" line="1" column="23" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/AddressFormPart/TAddressFormPart.php" timestamp="1539861464396">
-        <mark key="[" line="82" column="37" />
-        <mark key="]" line="63" column="0" />
-        <mark key="^" line="59" column="89" />
-        <mark key="." line="63" column="0" />
-      </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/DI/config.neon" timestamp="1539780375214">
         <mark key="[" line="21" column="0" />
       </file>
@@ -401,7 +399,7 @@
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" timestamp="1539860751217">
         <mark key="[" line="119" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539956995036">
+      <file name="/Dummy.txt" timestamp="1540201200304">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -491,16 +489,10 @@
       <file name="/home/www/html/nnb/dms/src/Search/DI/SearchExtension.php" timestamp="1539243015226">
         <mark key="[" line="8" column="23" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/src/Auth/DI/UserExtension.php" timestamp="1540200522201">
-        <mark key="[" line="26" column="4" />
-        <mark key="]" line="26" column="4" />
-        <mark key="." line="26" column="4" />
-      </file>
-      <file name="/home/www/html/nnb/dms/src/Users/User.php" timestamp="1539946066033">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="13" />
-        <mark key="." line="4" column="13" />
-        <mark key="^" line="4" column="13" />
+      <file name="/home/www/html/nnb/patient-studies/src/Auth/DI/UserExtension.php" timestamp="1540200991788">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Doctrine/Filters/SoftDeletableFilter.php" timestamp="1538647945172">
         <mark key="[" line="48" column="19" />
@@ -518,6 +510,11 @@
       </file>
       <file name="/home/www/html/nnb/dms/src/Files/IFileConversionStorage.php" timestamp="1539082440431">
         <mark key="[" line="8" column="19" />
+      </file>
+      <file name="/home/www/html/nnb/patient-studies/src/Auth/DI/AuthExtension.php" timestamp="1540201012685">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="4" />
+        <mark key="." line="18" column="4" />
       </file>
       <file name="/home/www/html/nnb/dms/app/config/extensions.neon" timestamp="1538640552283">
         <mark key="[" line="1" column="0" />
@@ -608,12 +605,6 @@
       </file>
       <file name="/home/www/vendor/hrncirr/media/src/Model/ImageFormatProvider.php" timestamp="1538551695792">
         <mark key="[" line="31" column="49" />
-      </file>
-      <file name="/home/www/html/dv/adera/Modules/Document/TPrice.php" timestamp="1539877825292">
-        <mark key="[" line="6" column="53" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/media/src/IImageFormat.php" timestamp="1538547751242">
         <mark key="[" line="45" column="52" />
@@ -708,27 +699,15 @@
       <file name="/home/www/html/nnb/dms/src/Groups/Components/GroupsPermissionsForm/IGroupsPermissionsFormFactory.php" timestamp="1539238022661">
         <mark key="[" line="8" column="23" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/src/User/User.php" timestamp="1539956273003">
-        <mark key="[" line="26" column="12" />
-        <mark key="]" line="26" column="11" />
-        <mark key="." line="26" column="11" />
-        <mark key="^" line="26" column="11" />
-      </file>
-      <file name="/home/www/html/nnb/patient-studies/app/Presenters/BasePresenter.php" timestamp="1540198122334">
-        <mark key="[" line="70" column="8" />
+      <file name="/home/www/html/nnb/patient-studies/app/Presenters/BasePresenter.php" timestamp="1540201032572">
+        <mark key="[" line="67" column="34" />
         <mark key="]" line="67" column="49" />
         <mark key="." line="67" column="49" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/src/User/Security/RolesProvider.php" timestamp="1539956730898">
-        <mark key="[" line="21" column="4" />
-        <mark key="]" line="21" column="88" />
-        <mark key="." line="21" column="88" />
-        <mark key="^" line="21" column="88" />
-      </file>
-      <file name="/home/www/html/nnb/patient-studies/src/User/DI/UserExtension.php" timestamp="1540197479909">
-        <mark key="[" line="25" column="4" />
-        <mark key="]" line="25" column="4" />
-        <mark key="." line="25" column="4" />
+      <file name="/home/www/html/nnb/patient-studies/src/User/DI/UserExtension.php" timestamp="1540201078499">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="4" />
+        <mark key="." line="44" column="4" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Search/Components/SearchForm/SearchForm.php" timestamp="1539245055757">
         <mark key="[" line="113" column="44" />
@@ -873,8 +852,8 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/app/config/extensions/app.neon" timestamp="1539956620671">
-        <mark key="[" line="5" column="27" />
+      <file name="/home/www/html/nnb/patient-studies/app/config/extensions/app.neon" timestamp="1540201063395">
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Exceptions/ModificationsNotAllowedException.php" timestamp="1538651567243">
         <mark key="[" line="1" column="0" />
@@ -987,10 +966,14 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldFBlcm1pc3Npb25zKCk6IGFycmF5Cgl7CgkJcmV0dXJuIFsKCQkJJ3VzZXJzOmVkaXRpbmcnID0+IFsnYWRtaW5pc3RyYWNlIHXFvml2YXRlbMWvJ10sCgkJXTsKCX0=</text>
+        <text>/**
+	 * Called when writing to our database
+	 *
+	 * @param array $record
+	 */</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCBbJ2RvY3VtZW50JyA9PiBudWxsLCAnZm9sZGVyJyA9PiBudWxsXSk=</text>
+        <text>mplements IEntityProvider, IPermissionsProvider</text>
       </register>
       <register name="/" type="4">
         <text>dump</text>
@@ -999,36 +982,38 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldFBlcm1pc3Npb25zKCk6IGFycmF5Cgl7CgkJcmV0dXJuIFsKCQkJJ3VzZXJzOmVkaXRpbmcnID0+IFsnYWRtaW5pc3RyYWNlIHXFvml2YXRlbMWvJ10sCgkJXTsKCX0=</text>
+        <text>/**
+	 * Called when writing to our database
+	 *
+	 * @param array $record
+	 */</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LyoqCgkgKiBSZXR1cm5zIGFzc29jaWF0aXZlIGFycmF5IG9mIE5hbWVzcGFjZSA9PiBtYXBwaW5nIGRlZmluaXRpb24KCSAqCgkgKiBAcmV0dXJuIGFycmF5CgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRFbnRpdHlNYXBwaW5ncygpCgl7CgkJcmV0dXJuIFsnVXNlcicgPT4gX19ESVJfXyAuICcvLi4nXTsKCX0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CWNoYW5uZWxzOiBbZGJdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQHBhY2thZ2UK</text>
+        <text encoding="base64">CQkkdGhpcy0+ZW0tPmZsdXNoKCk7Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">LyoKCQlpZiAoJHVzZXItPmlzQWxsb3dlZCgncmVnaXN0ZXInLCAnaW5jaWRlbnRRdWFsaXR5JykpIHsKCQkJJHRoaXMtPnJlZGlyZWN0KCdJbmRpa2F0b3J5S3ZhbGl0eTpkZWZhdWx0Jyk7CgkJfSBlbHNlIHsKCQkJJHRoaXMtPnJlZGlyZWN0KCdJbmNpZGVudDpkZWZhdWx0Jyk7CgkJfQoJCSov</text>
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGJlZm9yZUNvbXBpbGUoKQoJewoJCSR0aGlzLT5zZXRNYXBwaW5nKFsnVXNlcicgPT4gJ1VzZXJcKk1vZHVsZVxQcmVzZW50ZXJzXCpQcmVzZW50ZXInXSk7Cgl9</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">LmF0dGFjaG1lbnQtbGlzdCB7CiAgICBtYXJnaW4tdG9wOiA1cHg7Cn0KCi5hdHRhY2htZW50LWxpc3QgbGkuYXR0YWNobWVudCB7CiAgICBwYWRkaW5nOiAzcHg7Cn0KCi5hdHRhY2htZW50LWxpc3QgbGkuYXR0YWNobWVudDpob3ZlciB7CiAgICBjb2xvcjogIzAwMDsKICAgIGJhY2tncm91bmQtY29sb3I6ICNEREQ7CiAgICBib3JkZXItY29sb3I6ICNEREQ7Cn0KCi5jbGlwYm9hcmQgewogICAgcG9zaXRpb246IGZpeGVkOwogICAgei1pbmRleDogMTAwMDsKICAgIHJpZ2h0OiAxNXB4OwogICAgYm90dG9tOiAyMHB4OwogICAgd2lkdGg6IGF1dG87CiAgICBoZWlnaHQ6IGF1dG87Cn0KCi5jbGlwYm9hcmQgLmNsaXBib2FyZC1yZXNpemUtYnV0dG9uIHsKICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgIHRvcDogLTEwcHg7CiAgICBsZWZ0OiAtMTBweDsKfQoKLmRvY3VtZW50LWNvbnZlcnNpb25zIHsKfQoKI2RvY3VtZW50LXNlYXJjaC1wcmV2aWV3LW5hdiB1bCB7CiAgICBtYXJnaW46IDFleDsKfQoKI2RvY3VtZW50LXNlYXJjaC1wcmV2aWV3LW5hdiAudGV4dCB7CiAgICBmb250LXNpemU6IDE2cHggIWltcG9ydGFudDsKICAgIGZvbnQtd2VpZ2h0OiBib2xkOwp9CgojZG9jdW1lbnQtc2VhcmNoLXByZXZpZXcgewp9CgojZG9jdW1lbnQtc2VhcmNoLXByZXZpZXcgLmhpZ2hsaWdodCB7CiAgICBmb250LXdlaWdodDogYm9sZDsKICAgIGZvbnQtc2l6ZTogMTZweDsKfQoKI2RvY3VtZW50LXNlYXJjaC1wcmV2aWV3IC5oaWdobGlnaHQtc2VsZWN0ZWQgewogICAgYmFja2dyb3VuZC1jb2xvcjogeWVsbG93Owp9CgojZG9jdW1lbnQtcHJldmlldyB7CiAgICB0b3A6IDYwcHg7CiAgICBsZWZ0OiA0MCU7CiAgICBwb3NpdGlvbjogZml4ZWQ7CiAgICBkaXNwbGF5OiBub25lOwogICAgei1pbmRleDogMTAwMDsKfQoKLyoKLm5hdi10YWJzLWN1c3RvbSA+IC50YWItY29udGVudCB7CiAgICBwYWRkaW5nLXRvcDogMTBweDsKfQoqLw==</text>
+        <text>public function provideConfig()
+	{
+		return __DIR__ . '/config.neon';
+	}</text>
       </register>
-      <register name="6" type="4">
-        <text>.structure {
-    background: #fff;
-    padding: 5px;
-    border-radius: 4px !important;
-    box-shadow: 0 0 5px #ccc
-}</text>
+      <register name="6" type="2">
+        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXERJXElFbnRpdHlQcm92aWRlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">dXNlIElQdWJcUGVybWlzc2lvbnNcRElcSVBlcm1pc3Npb25zUHJvdmlkZXI7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldFBlcm1pc3Npb25zKCk6IGFycmF5Cgl7CgkJcmV0dXJuIFsKCQkJJ3VzZXJzOmVkaXRpbmcnID0+IFsnYWRtaW5pc3RyYWNlIHXFvml2YXRlbMWvJ10sCgkJXTsKCX0=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDFleDsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">LyoqCgkgKiBSZXR1cm5zIGFzc29jaWF0aXZlIGFycmF5IG9mIE5hbWVzcGFjZSA9PiBtYXBwaW5nIGRlZmluaXRpb24KCSAqCgkgKiBAcmV0dXJuIGFycmF5CgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRFbnRpdHlNYXBwaW5ncygpCgl7CgkJcmV0dXJuIFsnVXNlcicgPT4gX19ESVJfXyAuICcvLi4nXTsKCX0=</text>
       </register>
       <register name=":" type="4">
         <text>323</text>
