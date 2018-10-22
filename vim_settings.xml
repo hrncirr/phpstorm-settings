@@ -259,8 +259,8 @@
         <mark key="]" line="94" column="8" />
         <mark key="." line="94" column="8" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/src/Study/Presenters/DefaultPresenter.php" timestamp="1540208849401">
-        <mark key="[" line="37" column="12" />
+      <file name="/home/www/html/nnb/patient-studies/src/Study/Presenters/DefaultPresenter.php" timestamp="1540211253101">
+        <mark key="[" line="44" column="8" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="47" column="45" />
@@ -413,7 +413,7 @@
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" timestamp="1539860751217">
         <mark key="[" line="119" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540206639608">
+      <file name="/Dummy.txt" timestamp="1540210362515">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -801,8 +801,8 @@
       <file name="/home/www/html/nnb/dms/app/config/extensions/nette.neon" timestamp="1538641256222">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/src/Logger/DI/config.neon" timestamp="1540208739847">
-        <mark key="[" line="8" column="25" />
+      <file name="/home/www/html/nnb/patient-studies/src/Logger/DI/config.neon" timestamp="1540211017313">
+        <mark key="[" line="2" column="52" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/DocumentFolder.php" timestamp="1539163263168">
         <mark key="[" line="158" column="18" />
@@ -838,6 +838,9 @@
       </file>
       <file name="/PHP Console" timestamp="1539869062089">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/patient-studies/src/Logger/Log.php" timestamp="1540210116460">
+        <mark key="[" line="26" column="31" />
       </file>
       <file name="/home/www/html/nnb/dms/app/Components/GridFactory.php" timestamp="1538570681163">
         <mark key="[" line="11" column="27" />
@@ -889,6 +892,11 @@
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentFolderSelectorControl/DocumentFolderSelectorControl.php" timestamp="1539779610986">
         <mark key="[" line="83" column="75" />
+      </file>
+      <file name="/home/www/html/nnb/patient-studies/src/Logger/Monolog/Processors/UserProcessor.php" timestamp="1540211989072">
+        <mark key="[" line="35" column="8" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -994,11 +1002,11 @@
       <jump line="89" column="44" filename="/home/www/html/dv/adera/Modules/AddressBook/Forms/Controls/SubjectNameInput.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Log\DI\LogExtension</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>Log\DI\LogExtension</text>
+        <text encoding="base64">ZHVtcCgkdGhpcy0+dXNlci0+Z2V0SWRlbnRpdHkoKS0+Z2V0T3NjKCkpOw==</text>
       </register>
       <register name="/" type="4">
         <text>dump</text>
@@ -1006,45 +1014,33 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQlleGl0Owo=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ZHVtcCgkcmVjb3JkKTsKCQkJZHVtcCgkdGhpcy0+dXNlci0+Z2V0SWRlbnRpdHkoKS0+Z2V0T3NjKCkpOw==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQlkdW1wKCR0aGlzLT51c2VyLT5nZXRJZGVudGl0eSgpKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXFNlY3VyaXR5XElJZGVudGl0eTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgX19pbnZva2UoKSBtZXRob2QuCg==</text>
+      </register>
+      <register name="7" type="4">
         <text>dump($record);
 		exit;</text>
       </register>
-      <register name="2" type="2">
+      <register name="8" type="2">
         <text encoding="base64">dXNlIEtkeWJ5XE1vbm9sb2dcTG9nZ2VyOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQlleGl0Owo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CS0gZXh0ZW5zaW9ucy9tb25vbG9nLm5lb24K</text>
-      </register>
-      <register name="5" type="4">
-        <text>adeira.monolog:
-	handlers:
-		db:
-			class: Log\Monolog\Handlers\MonologDBHandler
-
-	loggers:
-		-
-			class: Log\Monolog\AccessLogger
-			handlers: [db]</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">c2VydmljZXM6Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>/**
-	 * @ORM\Column(type=&quot;array&quot;)
-	 * @var array
-	 */
-	private $context;</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIGFycmF5CgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRDb250ZXh0KCk6IGFycmF5Cgl7CgkJcmV0dXJuICR0aGlzLT5jb250ZXh0OwoJfQoJCgkKCS8qKgoJICogQHBhcmFtIGFycmF5ICRjb250ZXh0CgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRDb250ZXh0KGFycmF5ICRjb250ZXh0KTogdm9pZAoJewoJCSR0aGlzLT5jb250ZXh0ID0gJGNvbnRleHQ7Cgl9</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">LyoqCgkgKiBAT1JNXFByZVBlcnNpc3QKCSAqLwoJcHVibGljIGZ1bmN0aW9uIG9uUHJlUGVyc2lzdCgpOiB2b2lkCgl7CgkJJHRoaXMtPmNyZWF0ZWRBdCA9IG5ldyBcRGF0ZVRpbWUoKTsKCX0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
