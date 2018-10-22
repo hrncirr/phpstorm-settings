@@ -119,6 +119,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" timestamp="1540213793166">
+        <mark key="[" line="52" column="0" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/HistoryControl/HistoryControl.php" timestamp="1539257402593">
         <mark key="[" line="73" column="34" />
       </file>
@@ -173,7 +176,7 @@
         <mark key="]" line="218" column="0" />
         <mark key="." line="218" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaEvents.php" timestamp="1537879912336">
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaEvents.php" timestamp="1540213718301">
         <mark key="[" line="17" column="58" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Search/Presenters/DefaultPresenter.php" timestamp="1539243997361">
@@ -208,6 +211,12 @@
       </file>
       <file name="/home/www/html/nnb/dms/src/Install/DI/InstallExtension.php" timestamp="1539242628916">
         <mark key="[" line="5" column="23" />
+      </file>
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Mapping/Drivers/ElFinderFileConsumerDriver.php" timestamp="1540214305197">
+        <mark key="[" line="185" column="4" />
+        <mark key="]" line="185" column="4" />
+        <mark key="." line="185" column="4" />
+        <mark key="^" line="225" column="30" />
       </file>
       <file name="/home/www/html/nnb/patient-studies/src/User/UserRepository.php" timestamp="1539944472240">
         <mark key="[" line="23" column="40" />
@@ -413,7 +422,7 @@
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" timestamp="1539860751217">
         <mark key="[" line="119" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540210362515">
+      <file name="/Dummy.txt" timestamp="1540214414834">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -467,7 +476,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/home/www/lib/vendor/nnb/application/src/config/extensions.neon" timestamp="1540204270055" />
       <file name="/home/www/html/nnb/dms/src/Exceptions/IOException.php" timestamp="1538652804671">
         <mark key="[" line="8" column="23" />
       </file>
@@ -535,6 +543,10 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="4" />
         <mark key="." line="1" column="4" />
+      </file>
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" timestamp="1540213658455">
+        <mark key="'" line="549" column="42" />
+        <mark key="[" line="583" column="99" />
       </file>
       <file name="/home/www/html/bul/maternal-register/app/config/config.neon" timestamp="1538728561694">
         <mark key="[" line="15" column="4" />
@@ -696,7 +708,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/home/www/html/nnb/nezadouci-udalosti/css/screen.css" timestamp="1540197920998" />
       <file name="/home/www/html/nnb/dms/src/Folders/Console/Command/RegenerateFolderSlugCommand.php" timestamp="1539157210550">
         <mark key="[" line="1" column="23" />
       </file>
@@ -839,6 +850,11 @@
       <file name="/PHP Console" timestamp="1539869062089">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaSubscriber.php" timestamp="1540214006433">
+        <mark key="[" line="157" column="54" />
+        <mark key="]" line="153" column="0" />
+        <mark key="." line="153" column="0" />
+      </file>
       <file name="/home/www/html/nnb/patient-studies/src/Logger/Log.php" timestamp="1540210116460">
         <mark key="[" line="26" column="31" />
       </file>
@@ -864,7 +880,6 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/src/Patient/DI/PatientExtension.php" timestamp="1540204892981" />
       <file name="/home/www/html/nnb/dms/src/Exceptions/NotImplementedException.php" timestamp="1538652828295">
         <mark key="[" line="8" column="23" />
       </file>
@@ -900,7 +915,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="543" column="43" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="968" column="32" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="135" column="58" filename="/home/www/vendor/hrncirr/elfinder/src/Volumes/elFinderVolumeMedia.php" />
       <jump line="51" column="30" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
@@ -1000,64 +1014,96 @@
       <jump line="80" column="59" filename="/home/www/html/dv/adera/Modules/AddressBook/Forms/Controls/SubjectNameInput.php" />
       <jump line="81" column="62" filename="/home/www/html/dv/adera/Modules/AddressBook/Forms/Controls/SubjectNameInput.php" />
       <jump line="89" column="44" filename="/home/www/html/dv/adera/Modules/AddressBook/Forms/Controls/SubjectNameInput.php" />
+      <jump line="549" column="42" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+      <register name="&quot;" type="4">
+        <text>/**
+	 * Get the configuration for specific object class
+	 * if cache driver is present it scans it also
+	 *
+	 * @param string $class
+	 *
+	 * @return array|mixed
+	 *
+	 * @throws MappingException
+	 */</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ZHVtcCgkdGhpcy0+dXNlci0+Z2V0SWRlbnRpdHkoKS0+Z2V0T3NjKCkpOw==</text>
       </register>
       <register name="/" type="4">
-        <text>dump</text>
+        <text>elfinderFile</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+      <register name="1" type="4">
+        <text>/**
+	 * Get the configuration for specific object class
+	 * if cache driver is present it scans it also
+	 *
+	 * @param string $class
+	 *
+	 * @return array|mixed
+	 *
+	 * @throws MappingException
+	 */</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ZHVtcCgkcmVjb3JkKTsKCQkJZHVtcCgkdGhpcy0+dXNlci0+Z2V0SWRlbnRpdHkoKS0+Z2V0T3NjKCkpOw==</text>
+        <text>/**
+	 * @param ClassMetadata $classMetadata
+	 *
+	 * @throws MappingException
+	 */</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzLT51c2VyLT5nZXRJZGVudGl0eSgpKTsK</text>
+      <register name="3" type="4">
+        <text>/**
+	 * @param ClassMetadata $metadata
+	 * @param array         $config
+	 *
+	 * @return array
+	 *              
+	 * @throws MappingException
+	 */</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>/**
+	 * Create default annotation reader for extensions
+	 *
+	 * @return Reader
+	 */</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXFNlY3VyaXR5XElJZGVudGl0eTsK</text>
+        <text encoding="base64">CSAqIEB0aHJvd3MgXERvY3RyaW5lXE9STVxOb1Jlc3VsdEV4Y2VwdGlvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvLyBUT0RPOiBJbXBsZW1lbnQgX19pbnZva2UoKSBtZXRob2QuCg==</text>
+        <text encoding="base64">CSAqIEB0aHJvd3MgXERvY3RyaW5lXE9STVxOb1Jlc3VsdEV4Y2VwdGlvbgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>dump($record);
-		exit;</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5XE1vbm9sb2dcTG9nZ2VyOwo=</text>
-      </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQlleGl0Owo=</text>
       </register>
+      <register name="8" type="4">
+        <text encoding="base64">ZHVtcCgkcmVjb3JkKTsKCQkJZHVtcCgkdGhpcy0+dXNlci0+Z2V0SWRlbnRpdHkoKS0+Z2V0T3NjKCkpOw==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQlkdW1wKCR0aGlzLT51c2VyLT5nZXRJZGVudGl0eSgpKTsK</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/elfinderFile/elFinderFile/g</text>
       </register>
     </registers>
     <search>
-      <last-search>dump</last-search>
+      <last-search>elfinderFile</last-search>
       <last-offset />
-      <last-pattern>dump</last-pattern>
-      <last-replace>null</last-replace>
-      <last-substitute>NULL</last-substitute>
+      <last-pattern>elfinderFile</last-pattern>
+      <last-replace>elFinderFile</last-replace>
+      <last-substitute>elfinderFile</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>CurrentFile</entry>
         <entry>changeWeek</entry>
         <entry>ChangeWeek</entry>
         <entry>weekDateTime</entry>
@@ -1077,9 +1123,9 @@
         <entry>subject</entry>
         <entry>defaultAddress</entry>
         <entry>dump</entry>
+        <entry>elfinderFile</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>%s/view/viewButton/g</entry>
         <entry>783</entry>
         <entry>_getParents</entry>
@@ -1099,6 +1145,7 @@
         <entry>%s/NULL/null/g</entry>
         <entry>323</entry>
         <entry>w</entry>
+        <entry>%s/elfinderFile/elFinderFile/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
