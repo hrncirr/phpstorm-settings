@@ -614,10 +614,13 @@
       <file name="/home/www/html/nnb/dms/src/Groups/DI/GroupsExtension.php" timestamp="1539242486958">
         <mark key="[" line="8" column="23" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/app/config/extensions/media.neon" timestamp="1540280972220">
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="/home/www/html/nnb/patient-studies/src/User/Security/ImageAccessManager.php" timestamp="1540284125590">
+        <mark key="[" line="40" column="39" />
+      </file>
+      <file name="/home/www/html/nnb/patient-studies/app/config/extensions/media.neon" timestamp="1540284092263">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="19" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Folders/FolderFacade.php" timestamp="1539161757512">
         <mark key="[" line="198" column="17" />
@@ -886,8 +889,8 @@
         <mark key="]" line="153" column="0" />
         <mark key="." line="153" column="0" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/src/Logger/Log.php" timestamp="1540210116460">
-        <mark key="[" line="26" column="31" />
+      <file name="/home/www/html/nnb/patient-studies/src/Logger/Log.php" timestamp="1540283462036">
+        <mark key="[" line="12" column="20" />
       </file>
       <file name="/home/www/html/nnb/dms/app/Components/GridFactory.php" timestamp="1538570681163">
         <mark key="[" line="11" column="27" />
@@ -1059,10 +1062,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ly9kdW1wKCR0aGlzLT5sb2dnZXItPmdldFByb2Nlc3NvcnMoKSk7CgkJLy9leGl0OwoJCQoJCSR0aGlzLT5sb2dnZXItPmFkZEluZm8oJ2hlbGxvJyk7CgkJLy8kdGhpcy0+ZGlyZWN0b3J5SGVscGVyLT5jcmVhdGUoJ3N0dWRpZXMnKTs=</text>
+        <text>User\Security\FileAccessManager</text>
       </register>
       <register name="-" type="4">
-        <text>$config['accessManager']</text>
+        <text>User\Security\FileAccessManager</text>
       </register>
       <register name="/" type="4">
         <text>elfinderFile</text>
