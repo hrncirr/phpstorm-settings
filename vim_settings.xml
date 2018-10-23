@@ -254,6 +254,11 @@
       <file name="/home/www/html/nnb/dms/src/Users/Components/PasswordForm/IPasswordFormFactory.php" timestamp="1539246663051">
         <mark key="[" line="8" column="23" />
       </file>
+      <file name="/home/www/vendor/hrncirr/media/src/Callbacks/FilePresenterCallback.php" timestamp="1540276159824">
+        <mark key="[" line="74" column="48" />
+        <mark key="]" line="75" column="8" />
+        <mark key="." line="75" column="8" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Users/DI/config.neon" timestamp="1539255665430">
         <mark key="[" line="6" column="14" />
       </file>
@@ -305,6 +310,12 @@
       </file>
       <file name="/home/www/html/nnb/dms/src/Files/Router/FileConversionRouterFactory.php" timestamp="1539082053289">
         <mark key="[" line="27" column="39" />
+      </file>
+      <file name="/home/www/vendor/hrncirr/media/src/Callbacks/ImagePresenterCallback.php" timestamp="1540276120159">
+        <mark key="[" line="114" column="8" />
+        <mark key="]" line="114" column="8" />
+        <mark key="^" line="101" column="62" />
+        <mark key="." line="114" column="8" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/InfoControl/InfoControl.php" timestamp="1539779534450">
         <mark key="[" line="107" column="61" />
@@ -720,6 +731,9 @@
       <file name="/home/www/html/nnb/dms/src/Exceptions/InvalidArgumentException.php" timestamp="1538652793039">
         <mark key="[" line="8" column="23" />
       </file>
+      <file name="/home/www/vendor/hrncirr/media/src/DI/ImageExtension.php" timestamp="1540275885059">
+        <mark key="[" line="86" column="35" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Files/FileFacade.php" timestamp="1539083816065">
         <mark key="[" line="60" column="4" />
         <mark key="]" line="60" column="4" />
@@ -897,6 +911,11 @@
       <file name="/home/www/html/nnb/dms/src/Exceptions/UnexpectedValueException.php" timestamp="1538652851207">
         <mark key="[" line="8" column="23" />
       </file>
+      <file name="/home/www/vendor/hrncirr/media/src/DI/FileExtension.php" timestamp="1540276034253">
+        <mark key="[" line="63" column="16" />
+        <mark key="]" line="63" column="20" />
+        <mark key="." line="63" column="20" />
+      </file>
       <file name="/home/www/html/nnb/dms/app/Presenters/templates/@layout.latte" timestamp="1539352042210">
         <mark key="[" line="125" column="36" />
         <mark key="]" line="41" column="0" />
@@ -1026,13 +1045,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/**
-	 * @param string $fileName
-	 * @param bool   $forceDownload
-	 */</text>
+        <text encoding="base64">aWYgKCR0aGlzLT5pbWFnZUFjY2Vzc01hbmFnZXIgIT09IG51bGwgJiYgISR0aGlzLT5pbWFnZUFjY2Vzc01hbmFnZXItPmNoZWNrKCRpbWFnZSwgJGltYWdlRm9ybWF0KSkgewoJCQl0aHJvdyBuZXcgRm9yYmlkZGVuUmVxdWVzdEV4Y2VwdGlvbignQWNjZXNzIGRlbmllZC4nKTsKCQl9</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZHVtcCgkdGhpcy0+dXNlci0+Z2V0SWRlbnRpdHkoKS0+Z2V0T3NjKCkpOw==</text>
+        <text>$config['accessManager']</text>
       </register>
       <register name="/" type="4">
         <text>elfinderFile</text>
@@ -1041,58 +1057,43 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
-        <text>/**
-	 * @param string $fileName
-	 * @param bool   $forceDownload
-	 */</text>
+        <text encoding="base64">aWYgKCR0aGlzLT5pbWFnZUFjY2Vzc01hbmFnZXIgIT09IG51bGwgJiYgISR0aGlzLT5pbWFnZUFjY2Vzc01hbmFnZXItPmNoZWNrKCRpbWFnZSwgJGltYWdlRm9ybWF0KSkgewoJCQl0aHJvdyBuZXcgRm9yYmlkZGVuUmVxdWVzdEV4Y2VwdGlvbignQWNjZXNzIGRlbmllZC4nKTsKCQl9</text>
       </register>
       <register name="2" type="4">
-        <text>/**
-	 * Get the configuration for specific object class
-	 * if cache driver is present it scans it also
-	 *
-	 * @param string $class
-	 *
-	 * @return array|mixed
-	 *
-	 * @throws MappingException
-	 */</text>
+        <text encoding="base64">aWYgKCR0aGlzLT5maWxlQWNjZXNzTWFuYWdlciAhPT0gbnVsbCAmJiAhJHRoaXMtPmZpbGVBY2Nlc3NNYW5hZ2VyLT5jaGVjaygkZmlsZSkpIHsKCQkJdGhyb3cgbmV3IEZvcmJpZGRlblJlcXVlc3RFeGNlcHRpb24oJ0FjY2VzcyBkZW5pZWQuJyk7CgkJfQ==</text>
       </register>
       <register name="3" type="4">
         <text>/**
-	 * @param ClassMetadata $classMetadata
-	 *
-	 * @throws MappingException
-	 */</text>
+	 * @var IFileAccessManager|null
+	 */
+	private $fileAccessManager;</text>
       </register>
-      <register name="4" type="4">
-        <text>/**
-	 * @param ClassMetadata $metadata
-	 * @param array         $config
-	 *
-	 * @return array
-	 *              
-	 * @throws MappingException
-	 */</text>
+      <register name="4" type="2">
+        <text encoding="base64">CSAqCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>/**
-	 * Create default annotation reader for extensions
-	 *
-	 * @return Reader
-	 */</text>
+      <register name="5" type="2">
+        <text encoding="base64">CSAqIEltYWdlUHJlc2VudGVyQ2FsbGJhY2sgY29uc3RydWN0b3IuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAqIEB0aHJvd3MgXERvY3RyaW5lXE9STVxOb1Jlc3VsdEV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">CSAqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAqIEB0aHJvd3MgXERvY3RyaW5lXE9STVxOb1Jlc3VsdEV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">CSAqIEZpbGVQcmVzZW50ZXJDYWxsYmFjayBjb25zdHJ1Y3Rvci4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+      <register name="8" type="4">
+        <text>/**
+	 * @param IFileProvider           $fileProvider
+	 * @param IFileStorage            $storage
+	 * @param IFileAccessManager|null $fileAccessManager
+	 */</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ZHVtcCgkcmVjb3JkKTsKCQkJZHVtcCgkdGhpcy0+dXNlci0+Z2V0SWRlbnRpdHkoKS0+Z2V0T3NjKCkpOw==</text>
+        <text>/**
+	 * @param IImageProvider       $imageProvider
+	 * @param IImageFormatProvider $imageFormatProvider
+	 * @param IImageStorage        $storage
+	 * @param IResponse            $httpResponse
+	 */</text>
       </register>
       <register name=":" type="4">
         <text>%s/elfinderFile/elFinderFile/g</text>
