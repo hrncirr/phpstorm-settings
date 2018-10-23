@@ -274,11 +274,10 @@
         <mark key="]" line="94" column="8" />
         <mark key="." line="94" column="8" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/src/Study/Presenters/DefaultPresenter.php" timestamp="1540211253101">
-        <mark key="[" line="44" column="8" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="47" column="45" />
+      <file name="/home/www/html/nnb/patient-studies/src/Study/Presenters/DefaultPresenter.php" timestamp="1540281792273">
+        <mark key="[" line="42" column="4" />
+        <mark key="]" line="42" column="8" />
+        <mark key="." line="42" column="8" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNoteForm/CreditNoteForm.php" timestamp="1539090585049">
         <mark key="[" line="109" column="0" />
@@ -298,10 +297,9 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/src/User/DI/config.neon" timestamp="1539945898541">
-        <mark key="[" line="8" column="10" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="/home/www/html/nnb/patient-studies/src/User/DI/config.neon" timestamp="1540281188384">
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Users/Components/UserForm/UserForm.php" timestamp="1539246693828">
         <mark key="[" line="1" column="23" />
@@ -434,7 +432,7 @@
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" timestamp="1539860751217">
         <mark key="[" line="119" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540223479688">
+      <file name="/Dummy.txt" timestamp="1540282393252">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -517,6 +515,11 @@
       </file>
       <file name="/home/www/html/nnb/dms/src/Groups/Components/GroupsGrid/GroupsGrid.php" timestamp="1539252607199">
         <mark key="[" line="107" column="42" />
+      </file>
+      <file name="/home/www/html/nnb/patient-studies/src/User/Security/FileAccessManager.php" timestamp="1540281736841">
+        <mark key="[" line="47" column="13" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Groups/IGroupPermissions.php" timestamp="1539238881397">
         <mark key="[" line="1" column="23" />
@@ -611,8 +614,8 @@
       <file name="/home/www/html/nnb/dms/src/Groups/DI/GroupsExtension.php" timestamp="1539242486958">
         <mark key="[" line="8" column="23" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/app/config/extensions/media.neon" timestamp="1540280121679">
-        <mark key="[" line="3" column="0" />
+      <file name="/home/www/html/nnb/patient-studies/app/config/extensions/media.neon" timestamp="1540280972220">
+        <mark key="[" line="6" column="19" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
@@ -742,8 +745,8 @@
       <file name="/home/www/html/nnb/dms/src/Exceptions/InvalidArgumentException.php" timestamp="1538652793039">
         <mark key="[" line="8" column="23" />
       </file>
-      <file name="/home/www/vendor/hrncirr/media/src/DI/ImageExtension.php" timestamp="1540275885059">
-        <mark key="[" line="86" column="35" />
+      <file name="/home/www/vendor/hrncirr/media/src/DI/ImageExtension.php" timestamp="1540282382275">
+        <mark key="[" line="51" column="55" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Files/FileFacade.php" timestamp="1539083816065">
         <mark key="[" line="60" column="4" />
@@ -914,7 +917,7 @@
       <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentTagsForm/IDocumentTagsFormFactory.php" timestamp="1538642651724">
         <mark key="[" line="24" column="4" />
       </file>
-      <file name="/home/www/vendor/hrncirr/media/src/IFileAccessManager.php" timestamp="1540216617976">
+      <file name="/home/www/vendor/hrncirr/media/src/IFileAccessManager.php" timestamp="1540280305100">
         <mark key="[" line="15" column="38" />
         <mark key="]" line="14" column="4" />
         <mark key="." line="14" column="4" />
@@ -922,10 +925,10 @@
       <file name="/home/www/html/nnb/dms/src/Exceptions/UnexpectedValueException.php" timestamp="1538652851207">
         <mark key="[" line="8" column="23" />
       </file>
-      <file name="/home/www/vendor/hrncirr/media/src/DI/FileExtension.php" timestamp="1540276034253">
-        <mark key="[" line="63" column="16" />
-        <mark key="]" line="63" column="20" />
-        <mark key="." line="63" column="20" />
+      <file name="/home/www/vendor/hrncirr/media/src/DI/FileExtension.php" timestamp="1540282373116">
+        <mark key="[" line="64" column="8" />
+        <mark key="]" line="64" column="12" />
+        <mark key="." line="64" column="12" />
       </file>
       <file name="/home/www/html/nnb/dms/app/Presenters/templates/@layout.latte" timestamp="1539352042210">
         <mark key="[" line="125" column="36" />
@@ -1055,8 +1058,8 @@
       <jump line="549" column="42" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWhybmNpcnIubWVkaWEuZmlsZTogSHJuY2lyclxNZWRpYVxESVxJbWFnZUV4dGVuc2lvbgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Ly9kdW1wKCR0aGlzLT5sb2dnZXItPmdldFByb2Nlc3NvcnMoKSk7CgkJLy9leGl0OwoJCQoJCSR0aGlzLT5sb2dnZXItPmFkZEluZm8oJ2hlbGxvJyk7CgkJLy8kdGhpcy0+ZGlyZWN0b3J5SGVscGVyLT5jcmVhdGUoJ3N0dWRpZXMnKTs=</text>
       </register>
       <register name="-" type="4">
         <text>$config['accessManager']</text>
@@ -1067,35 +1070,36 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CWhybmNpcnIubWVkaWEuZmlsZTogSHJuY2lyclxNZWRpYVxESVxJbWFnZUV4dGVuc2lvbgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">Ly9kdW1wKCR0aGlzLT5sb2dnZXItPmdldFByb2Nlc3NvcnMoKSk7CgkJLy9leGl0OwoJCQoJCSR0aGlzLT5sb2dnZXItPmFkZEluZm8oJ2hlbGxvJyk7CgkJLy8kdGhpcy0+ZGlyZWN0b3J5SGVscGVyLT5jcmVhdGUoJ3N0dWRpZXMnKTs=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlkdW1wKCRmaWxlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS0gYmxhYmxhCg==</text>
+        <text encoding="base64">CS0gVXNlclxTZWN1cml0eVxGaWxlQWNjZXNzTWFuYWdlcgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZXh0ZW5zaW9uczoK</text>
+      <register name="4" type="4">
+        <text>dump('aaa');
+			exit;</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5pbWFnZUFjY2Vzc01hbmFnZXIgIT09IG51bGwgJiYgISR0aGlzLT5pbWFnZUFjY2Vzc01hbmFnZXItPmNoZWNrKCRpbWFnZSwgJGltYWdlRm9ybWF0KSkgewoJCQl0aHJvdyBuZXcgRm9yYmlkZGVuUmVxdWVzdEV4Y2VwdGlvbignQWNjZXNzIGRlbmllZC4nKTsKCQl9</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCWR1bXAoJ2JiYmInKTsK</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5maWxlQWNjZXNzTWFuYWdlciAhPT0gbnVsbCAmJiAhJHRoaXMtPmZpbGVBY2Nlc3NNYW5hZ2VyLT5jaGVjaygkZmlsZSkpIHsKCQkJdGhyb3cgbmV3IEZvcmJpZGRlblJlcXVlc3RFeGNlcHRpb24oJ0FjY2VzcyBkZW5pZWQuJyk7CgkJfQ==</text>
+        <text>dump('aaa');
+				exit;</text>
       </register>
       <register name="7" type="4">
-        <text>/**
-	 * @var IFileAccessManager|null
-	 */
-	private $fileAccessManager;</text>
+        <text>else {
+				//$accessManager =
+			}</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAqCg==</text>
+        <text encoding="base64">CQkJCQktPnNldEF1dG93aXJlZChmYWxzZSk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CSAqIEltYWdlUHJlc2VudGVyQ2FsbGJhY2sgY29uc3RydWN0b3IuCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">LT5zZXRBcmd1bWVudHMoWwoJCQkJCQkkY29uZmlnWydwcm92aWRlciddLAoJCQkJCQkkY29uZmlnWydhY2Nlc3NNYW5hZ2VyJ10sCgkJCQkJJHN0b3JhZ2UKCQkJCQldKQ==</text>
       </register>
       <register name=":" type="4">
         <text>%s/elfinderFile/elFinderFile/g</text>
