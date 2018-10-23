@@ -103,6 +103,12 @@
       <file name="/home/www/html/nnb/patient-studies/src/Log/Monolog/Handlers/MonologDBHandler.php" timestamp="1540207337250">
         <mark key="[" line="51" column="53" />
       </file>
+      <file name="/home/www/html/dv/adera/app/config/modules.neon" timestamp="1540280028070">
+        <mark key="[" line="31" column="10" />
+        <mark key="]" line="20" column="4" />
+        <mark key="^" line="20" column="4" />
+        <mark key="." line="20" column="4" />
+      </file>
       <file name="/home/www/html/nnb/dms/app/Forms/BaseFormControl.php" timestamp="1538641402225">
         <mark key="[" line="1" column="23" />
       </file>
@@ -113,11 +119,6 @@
         <mark key="[" line="56" column="17" />
         <mark key="]" line="78" column="40" />
         <mark key="." line="78" column="40" />
-      </file>
-      <file name="/home/www/html/nnb/patient-studies/app/config/extensions/monolog.neon" timestamp="1540207605166">
-        <mark key="[" line="1" column="46" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/Events/MediaConsumerSubscriber.php" timestamp="1540213793166">
         <mark key="[" line="52" column="0" />
@@ -610,6 +611,11 @@
       <file name="/home/www/html/nnb/dms/src/Groups/DI/GroupsExtension.php" timestamp="1539242486958">
         <mark key="[" line="8" column="23" />
       </file>
+      <file name="/home/www/html/nnb/patient-studies/app/config/extensions/media.neon" timestamp="1540280121679">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Folders/FolderFacade.php" timestamp="1539161757512">
         <mark key="[" line="198" column="17" />
         <mark key="]" line="190" column="4" />
@@ -708,6 +714,11 @@
       </file>
       <file name="/home/www/html/nnb/dms/src/Files/Components/FileForm/FileForm.php" timestamp="1539080781160">
         <mark key="[" line="1" column="0" />
+      </file>
+      <file name="/home/www/lib/vendor/hrncirr-cms/file/src/DI/config.neon" timestamp="1540279744683">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/home/www/html/nnb/patient-studies/src/Log/DI/config.neon" timestamp="1540207590870">
         <mark key="[" line="0" column="0" />
@@ -1044,8 +1055,8 @@
       <jump line="549" column="42" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5pbWFnZUFjY2Vzc01hbmFnZXIgIT09IG51bGwgJiYgISR0aGlzLT5pbWFnZUFjY2Vzc01hbmFnZXItPmNoZWNrKCRpbWFnZSwgJGltYWdlRm9ybWF0KSkgewoJCQl0aHJvdyBuZXcgRm9yYmlkZGVuUmVxdWVzdEV4Y2VwdGlvbignQWNjZXNzIGRlbmllZC4nKTsKCQl9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWhybmNpcnIubWVkaWEuZmlsZTogSHJuY2lyclxNZWRpYVxESVxJbWFnZUV4dGVuc2lvbgo=</text>
       </register>
       <register name="-" type="4">
         <text>$config['accessManager']</text>
@@ -1056,44 +1067,35 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CWhybmNpcnIubWVkaWEuZmlsZTogSHJuY2lyclxNZWRpYVxESVxJbWFnZUV4dGVuc2lvbgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CS0gYmxhYmxhCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZXh0ZW5zaW9uczoK</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">aWYgKCR0aGlzLT5pbWFnZUFjY2Vzc01hbmFnZXIgIT09IG51bGwgJiYgISR0aGlzLT5pbWFnZUFjY2Vzc01hbmFnZXItPmNoZWNrKCRpbWFnZSwgJGltYWdlRm9ybWF0KSkgewoJCQl0aHJvdyBuZXcgRm9yYmlkZGVuUmVxdWVzdEV4Y2VwdGlvbignQWNjZXNzIGRlbmllZC4nKTsKCQl9</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text encoding="base64">aWYgKCR0aGlzLT5maWxlQWNjZXNzTWFuYWdlciAhPT0gbnVsbCAmJiAhJHRoaXMtPmZpbGVBY2Nlc3NNYW5hZ2VyLT5jaGVjaygkZmlsZSkpIHsKCQkJdGhyb3cgbmV3IEZvcmJpZGRlblJlcXVlc3RFeGNlcHRpb24oJ0FjY2VzcyBkZW5pZWQuJyk7CgkJfQ==</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>/**
 	 * @var IFileAccessManager|null
 	 */
 	private $fileAccessManager;</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CSAqCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CSAqIEltYWdlUHJlc2VudGVyQ2FsbGJhY2sgY29uc3RydWN0b3IuCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CSAqCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CSAqIEZpbGVQcmVzZW50ZXJDYWxsYmFjayBjb25zdHJ1Y3Rvci4K</text>
-      </register>
-      <register name="8" type="4">
-        <text>/**
-	 * @param IFileProvider           $fileProvider
-	 * @param IFileStorage            $storage
-	 * @param IFileAccessManager|null $fileAccessManager
-	 */</text>
-      </register>
-      <register name="9" type="4">
-        <text>/**
-	 * @param IImageProvider       $imageProvider
-	 * @param IImageFormatProvider $imageFormatProvider
-	 * @param IImageStorage        $storage
-	 * @param IResponse            $httpResponse
-	 */</text>
       </register>
       <register name=":" type="4">
         <text>%s/elfinderFile/elFinderFile/g</text>
