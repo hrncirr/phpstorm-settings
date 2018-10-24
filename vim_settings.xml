@@ -267,10 +267,10 @@
       <file name="/home/www/html/nnb/dms/src/Folders/FolderRepository.php" timestamp="1539161366216">
         <mark key="[" line="8" column="23" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Document/Subject.php" timestamp="1540365423169">
-        <mark key="[" line="29" column="7" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Document/Subject.php" timestamp="1540367375471">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="4" />
+        <mark key="." line="23" column="4" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InspectionForm/InspectionForm.php" timestamp="1539090636924">
         <mark key="[" line="94" column="8" />
@@ -511,8 +511,10 @@
       <file name="/home/www/html/nnb/dms/app/config/extensions/doctrine.neon" timestamp="1539256129782">
         <mark key="[" line="15" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/TDocumentAddress.php" timestamp="1540366309814">
-        <mark key="[" line="14" column="31" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/TDocumentAddress.php" timestamp="1540367730063">
+        <mark key="[" line="68" column="4" />
+        <mark key="]" line="68" column="4" />
+        <mark key="." line="68" column="4" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Groups/Components/GroupsGrid/GroupsGrid.php" timestamp="1539252607199">
         <mark key="[" line="107" column="42" />
@@ -793,8 +795,10 @@
         <mark key="]" line="67" column="49" />
         <mark key="." line="67" column="49" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Document/Address.php" timestamp="1540365427576">
-        <mark key="[" line="14" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Document/Address.php" timestamp="1540367639075">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="4" />
+        <mark key="." line="23" column="4" />
       </file>
       <file name="/home/www/html/nnb/patient-studies/src/User/DI/UserExtension.php" timestamp="1540201078499">
         <mark key="[" line="44" column="0" />
@@ -938,8 +942,10 @@
       <file name="/home/www/html/nnb/dms/src/Files/Console/Commands/FilesConversionsCommand.php" timestamp="1539080892920">
         <mark key="[" line="1" column="23" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/TDocumentSubject.php" timestamp="1540366314006">
-        <mark key="[" line="14" column="31" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/TDocumentSubject.php" timestamp="1540367814290">
+        <mark key="[" line="68" column="4" />
+        <mark key="]" line="68" column="4" />
+        <mark key="." line="68" column="4" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Exceptions/NotImplementedException.php" timestamp="1538652828295">
         <mark key="[" line="8" column="23" />
@@ -1089,10 +1095,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/**
-	 * @ORM\Embedded(class = &quot;Address&quot;)
-	 */
-    private $address;</text>
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIFN1YmplY3QKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGdldEFkZHJlc3NCb29rU3ViamVjdCgpOiBTdWJqZWN0Cgl7CgkJcmV0dXJuICR0aGlzLT5hZGRyZXNzQm9va1N1YmplY3Q7Cgl9CgkKCQoJLyoqCgkgKiBAcGFyYW0gU3ViamVjdCAkYWRkcmVzc0Jvb2tTdWJqZWN0CgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRBZGRyZXNzQm9va1N1YmplY3QoU3ViamVjdCAkYWRkcmVzc0Jvb2tTdWJqZWN0KQoJewoJCSR0aGlzLT5hZGRyZXNzQm9va1N1YmplY3QgPSAkYWRkcmVzc0Jvb2tTdWJqZWN0OwoJfQ==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">J0pvaG4nID0+ICdEb2Un</text>
@@ -1104,37 +1107,39 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
-        <text>/**
-	 * @ORM\Embedded(class = &quot;Address&quot;)
-	 */
-    private $address;</text>
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIFN1YmplY3QKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGdldEFkZHJlc3NCb29rU3ViamVjdCgpOiBTdWJqZWN0Cgl7CgkJcmV0dXJuICR0aGlzLT5hZGRyZXNzQm9va1N1YmplY3Q7Cgl9CgkKCQoJLyoqCgkgKiBAcGFyYW0gU3ViamVjdCAkYWRkcmVzc0Jvb2tTdWJqZWN0CgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRBZGRyZXNzQm9va1N1YmplY3QoU3ViamVjdCAkYWRkcmVzc0Jvb2tTdWJqZWN0KQoJewoJCSR0aGlzLT5hZGRyZXNzQm9va1N1YmplY3QgPSAkYWRkcmVzc0Jvb2tTdWJqZWN0OwoJfQ==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dXNlIEFkZHJlc3NCb29rXFN1YmplY3Q7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIFN1YmplY3R8bnVsbAoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0QWRkcmVzc0Jvb2tTdWJqZWN0KCk6ID9TdWJqZWN0Cgl7CgkJcmV0dXJuICR0aGlzLT5hZGRyZXNzQm9va1N1YmplY3Q7Cgl9CgkKCQoJLyoqCgkgKiBAcGFyYW0gU3ViamVjdHxudWxsICRhZGRyZXNzQm9va1N1YmplY3QKCSAqLwoJcHVibGljIGZ1bmN0aW9uIHNldEFkZHJlc3NCb29rU3ViamVjdCg/U3ViamVjdCAkYWRkcmVzc0Jvb2tTdWJqZWN0KTogdm9pZAoJewoJCSR0aGlzLT5hZGRyZXNzQm9va1N1YmplY3QgPSAkYWRkcmVzc0Jvb2tTdWJqZWN0OwoJfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEFkZHJlc3NCb29rXEFkZHJlc3M7Cg==</text>
+        <text encoding="base64">dXNlIERvY3VtZW50XFN1YmplY3Q7Cg==</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIEFkZHJlc3MKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGdldEFkZHJlc3NCb29rQWRkcmVzcygpOiA/QWRkcmVzcwoJewoJCXJldHVybiAkdGhpcy0+YWRkcmVzc0Jvb2tBZGRyZXNzOwoJfQoJCgkKCS8qKgoJICogQHBhcmFtIEFCQWRkcmVzcyAkYWRkcmVzc0Jvb2tBZGRyZXNzCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRBZGRyZXNzQm9va0FkZHJlc3MoQUJBZGRyZXNzICRhZGRyZXNzQm9va0FkZHJlc3MpCgl7CgkJJHRoaXMtPmFkZHJlc3NCb29rQWRkcmVzcyA9ICRhZGRyZXNzQm9va0FkZHJlc3M7Cgl9</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIEFkZHJlc3N8bnVsbAoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0QWRkcmVzcygpOiA/QWRkcmVzcwoJewoJCXJldHVybiAkdGhpcy0+YWRkcmVzczsKCX0KCQoJCgkvKioKCSAqIEBwYXJhbSBBZGRyZXNzICRhZGRyZXNzCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRBZGRyZXNzKEFkZHJlc3MgJGFkZHJlc3MpOiB2b2lkCgl7CgkJJHRoaXMtPmFkZHJlc3MgPSAkYWRkcmVzczsKCX0=</text>
+      </register>
+      <register name="6" type="4">
         <text>/**
 	 * @ORM\ManyToOne(targetEntity=&quot;AddressBook\Address&quot;)
 	 * @var Address
-	 */</text>
+	 */
+	private $address;</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXNlIERvY3RyaW5lXE9STVxNYXBwaW5nXEVtYmVkZGFibGU7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIFN1YmplY3QKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGdldFN1YmplY3QoKTogP1N1YmplY3QKCXsKCQlyZXR1cm4gJHRoaXMtPnN1YmplY3Q7Cgl9CgkKCQoJLyoqCgkgKiBAcGFyYW0gU3ViamVjdCAkc3ViamVjdAoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0U3ViamVjdChTdWJqZWN0ICRzdWJqZWN0KTogdm9pZAoJewoJCSR0aGlzLT5zdWJqZWN0ID0gJHN1YmplY3Q7Cgl9</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+      <register name="8" type="4">
+        <text>/**
+	 * @ORM\ManyToOne(targetEntity=&quot;AddressBook\Subject&quot;)
+	 * @var Subject
+	 */
+	private $subject;</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXFV0aWxzXEFycmF5TGlzdDsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJZHVtcCgkaXRlcmF0b3ItPmdldENvdW50ZXIoKSk7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">LyoqCgkgKiBAT1JNXE1hbnlUb09uZSh0YXJnZXRFbnRpdHk9IkFkZHJlc3NCb29rXFN1YmplY3QiKQoJICogQHZhciBTdWJqZWN0CgkgKi8KCXByaXZhdGUgJHN1YmplY3Q7CgkKCQoJLyoqCgkgKiBAcmV0dXJuIFN1YmplY3QKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGdldFN1YmplY3QoKTogP1N1YmplY3QKCXsKCQlyZXR1cm4gJHRoaXMtPnN1YmplY3Q7Cgl9CgkKCQoJLyoqCgkgKiBAcGFyYW0gU3ViamVjdCAkc3ViamVjdAoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0U3ViamVjdChTdWJqZWN0ICRzdWJqZWN0KTogdm9pZAoJewoJCSR0aGlzLT5zdWJqZWN0ID0gJHN1YmplY3Q7Cgl9</text>
       </register>
       <register name=":" type="4">
         <text>%s/elfinderFile/elFinderFile/g</text>
