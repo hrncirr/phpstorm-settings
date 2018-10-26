@@ -8,10 +8,10 @@
         <mark key="]" line="237" column="4" />
         <mark key="." line="237" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Invoice.php" timestamp="1539937398361">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Invoice.php" timestamp="1540568165310">
+        <mark key="[" line="139" column="54" />
+        <mark key="]" line="143" column="4" />
+        <mark key="." line="143" column="4" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractForm/ContractForm.php" timestamp="1540473968622">
         <mark key="[" line="119" column="61" />
@@ -522,8 +522,8 @@
         <mark key="]" line="49" column="4" />
         <mark key="." line="49" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Contract.php" timestamp="1540560143602">
-        <mark key="[" line="130" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Contract.php" timestamp="1540568147190">
+        <mark key="[" line="70" column="25" />
         <mark key="]" line="130" column="4" />
         <mark key="." line="130" column="4" />
         <mark key="^" line="130" column="0" />
@@ -824,10 +824,10 @@
         <mark key="]" line="235" column="8" />
         <mark key="." line="235" column="8" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Inquiry.php" timestamp="1540549038575">
-        <mark key="[" line="21" column="45" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Inquiry.php" timestamp="1540568042524">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Exceptions/DeprecatedException.php" timestamp="1538652763470">
         <mark key="[" line="8" column="23" />
@@ -1220,7 +1220,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIGludHxudWxsCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRNb250aCgpOiA/aW50Cgl7CgkJcmV0dXJuICR0aGlzLT5tb250aDsKCX0KCQoJCgkvKioKCSAqIEBwYXJhbSBpbnQgJG1vbnRoCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRNb250aChpbnQgJG1vbnRoKQoJewoJCSR0aGlzLT5tb250aCA9ICRtb250aDsKCX0=</text>
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIHN0cmluZ3xudWxsCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRJbnRlcnZlbnRpb25QbGFjZSgpOiA/c3RyaW5nCgl7CgkJcmV0dXJuICR0aGlzLT5pbnRlcnZlbnRpb25QbGFjZTsKCX0KCQoJCgkvKioKCSAqIEBwYXJhbSBzdHJpbmcgJGludGVydmVudGlvblBsYWNlCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRJbnRlcnZlbnRpb25QbGFjZShzdHJpbmcgJGludGVydmVudGlvblBsYWNlKQoJewoJCSR0aGlzLT5pbnRlcnZlbnRpb25QbGFjZSA9ICRpbnRlcnZlbnRpb25QbGFjZTsKCX0=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">LT5nZXRNb250aCgp</text>
@@ -1232,35 +1232,38 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIGludHxudWxsCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRNb250aCgpOiA/aW50Cgl7CgkJcmV0dXJuICR0aGlzLT5tb250aDsKCX0KCQoJCgkvKioKCSAqIEBwYXJhbSBpbnQgJG1vbnRoCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRNb250aChpbnQgJG1vbnRoKQoJewoJCSR0aGlzLT5tb250aCA9ICRtb250aDsKCX0=</text>
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIHN0cmluZ3xudWxsCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRJbnRlcnZlbnRpb25QbGFjZSgpOiA/c3RyaW5nCgl7CgkJcmV0dXJuICR0aGlzLT5pbnRlcnZlbnRpb25QbGFjZTsKCX0KCQoJCgkvKioKCSAqIEBwYXJhbSBzdHJpbmcgJGludGVydmVudGlvblBsYWNlCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRJbnRlcnZlbnRpb25QbGFjZShzdHJpbmcgJGludGVydmVudGlvblBsYWNlKQoJewoJCSR0aGlzLT5pbnRlcnZlbnRpb25QbGFjZSA9ICRpbnRlcnZlbnRpb25QbGFjZTsKCX0=</text>
       </register>
       <register name="2" type="4">
+        <text>/**
+	 * @ORM\Column(type=&quot;string&quot;)
+	 * @var string
+	 */</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIGludHxudWxsCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRNb250aCgpOiA/aW50Cgl7CgkJcmV0dXJuICR0aGlzLT5tb250aDsKCX0KCQoJCgkvKioKCSAqIEBwYXJhbSBpbnQgJG1vbnRoCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRNb250aChpbnQgJG1vbnRoKQoJewoJCSR0aGlzLT5tb250aCA9ICRtb250aDsKCX0=</text>
+      </register>
+      <register name="4" type="4">
         <text>/**
 	 * @ORM\Column(type=&quot;integer&quot;, nullable=true)
 	 * @var int
 	 */
 	private $month;</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJCQl7aWYgJGludGVydmVudGlvbi0+Z2V0SWQoKX0K</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">e2Vsc2V9CgkJCQkJCTxhIG46aHJlZj0ibmV3ISAkaW50ZXJ2ZW50aW9uLT5nZXRNb250aCgpIiBjbGFzcz0iYWpheCI+CgkJCQkJCQl7JGludGVydmVudGlvbi0+Z2V0TW9udGgoKX0KCQkJCQkJPC9hPgoJCQkJCXsvaWZ9</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">LyoqIEB2YXIgSW50ZXJ2ZW50aW9uICRhdmFpbGFibGVJbnRlcnZlbnRpb24gKi8KCQlmb3JlYWNoICgkYXZhaWxhYmxlSW50ZXJ2ZW50aW9ucyBhcyAkYXZhaWxhYmxlSW50ZXJ2ZW50aW9uKSB7CgkJCSRpbnRlcnZlbnRpb25zWyRhdmFpbGFibGVJbnRlcnZlbnRpb24tPmdldE1vbnRoKCldID0gJGF2YWlsYWJsZUludGVydmVudGlvbjsKCQl9</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkkaW50ZXJ2ZW50aW9ucyA9IFtdOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQkkZG9jdW1lbnRDb3B5ID0gbmV3IERvY3VtZW50Q29weSgkdGhpcy0+ZW0pOwo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">LyoKCQlmb3JlYWNoICgkdGhpcy0+Y29udHJhY3QtPmdldFNjaGVkdWxlKCkgYXMgJG1vbnRoKSB7CgkJCWlmICghYXJyYXlfa2V5X2V4aXN0cygkbW9udGgsICRpbnRlcnZlbnRpb25zKSkgewoJCQkJJGludGVydmVudGlvbiA9IG5ldyBJbnRlcnZlbnRpb24oKTsKCQkJCSRpbnRlcnZlbnRpb24tPnNldE1vbnRoKChpbnQpICRtb250aCk7CgkJCQkkZG9jdW1lbnRDb3B5LT5jb3B5KCR0aGlzLT5jb250cmFjdCwgJGludGVydmVudGlvbik7CgkJCQkkaW50ZXJ2ZW50aW9uc1skbW9udGhdID0gJGludGVydmVudGlvbjsKCQkJfQoJCX0KCQkqLw==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">LyoKCQlmb3JlYWNoICgkdGhpcy0+Y29udHJhY3QtPmdldFNjaGVkdWxlKCkgYXMgJG1vbnRoKSB7CgkJCWlmICghYXJyYXlfa2V5X2V4aXN0cygkbW9udGgsICRpbnRlcnZlbnRpb25zKSkgewoJCQkJJGludGVydmVudGlvbiA9IG5ldyBJbnRlcnZlbnRpb24oKTsKCQkJCSRpbnRlcnZlbnRpb24tPnNldE1vbnRoKChpbnQpICRtb250aCk7CgkJCQkkZG9jdW1lbnRDb3B5LT5jb3B5KCR0aGlzLT5jb250cmFjdCwgJGludGVydmVudGlvbik7CgkJCQkkaW50ZXJ2ZW50aW9uc1skbW9udGhdID0gJGludGVydmVudGlvbjsKCQkJfQoJCX0KCQkqLw==</text>
       </register>
       <register name=":" type="4">
         <text>%s/elfinderFile/elFinderFile/g</text>
