@@ -509,10 +509,10 @@
         <mark key="]" line="49" column="4" />
         <mark key="." line="49" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Contract.php" timestamp="1540456309337">
-        <mark key="[" line="42" column="66" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Contract.php" timestamp="1540558147932">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="21" />
+        <mark key="." line="12" column="21" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/CreditNote.php" timestamp="1540379719222">
         <mark key="[" line="34" column="0" />
@@ -690,7 +690,7 @@
         <mark key="]" line="9" column="19" />
         <mark key="." line="9" column="19" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/TIntervention.php" timestamp="1540556184755">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/TIntervention.php" timestamp="1540558057798">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
@@ -1209,10 +1209,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LyoqIEB2YXIgRm9ybSAkZm9ybSAqLwoJCSRmb3JtID0gJHN1Ym1pdEJ1dHRvbi0+Z2V0Rm9ybSgpOw==</text>
+        <text>as ABAddress;</text>
       </register>
       <register name="-" type="4">
-        <text>{input interventionPlace}</text>
+        <text>as ABAddress;</text>
       </register>
       <register name="/" type="4">
         <text>Attribute</text>
@@ -1221,31 +1221,35 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">LyoqIEB2YXIgRm9ybSAkZm9ybSAqLwoJCSRmb3JtID0gJHN1Ym1pdEJ1dHRvbi0+Z2V0Rm9ybSgpOw==</text>
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIHN0cmluZ3xudWxsCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRJbnRlcnZlbnRpb25QbGFjZSgpOiA/c3RyaW5nCgl7CgkJcmV0dXJuICR0aGlzLT5pbnRlcnZlbnRpb25QbGFjZTsKCX0KCQoJCgkvKioKCSAqIEBwYXJhbSBzdHJpbmcgJGludGVydmVudGlvblBsYWNlCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRJbnRlcnZlbnRpb25QbGFjZShzdHJpbmcgJGludGVydmVudGlvblBsYWNlKTogdm9pZAoJewoJCSR0aGlzLT5pbnRlcnZlbnRpb25QbGFjZSA9ICRpbnRlcnZlbnRpb25QbGFjZTsKCX0=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">aWYgKGlzc2V0KCRmb3JtWydhZGRyZXNzQm9va0NvbnRhY3QnXSkgJiYgZW1wdHkoJGZvcm1bJ2FkZHJlc3NCb29rQ29udGFjdCddLT5nZXRWYWx1ZSgpKSkgewoJCQkJJGZvcm0tPmFkZEVycm9yKCdOZW7DrSB6dm9sZW4gxb7DoWRuw70ga29udGFrdC4nKTsKCQkJCXJldHVybjsKCQl9</text>
+        <text>/**
+	 * @ORM\Column(type=&quot;string&quot;)
+	 * @Assert\NotBlank()
+	 * @var string
+	 */</text>
       </register>
       <register name="3" type="4">
         <text encoding="base64">LyoqIEB2YXIgRm9ybSAkZm9ybSAqLwoJCSRmb3JtID0gJHN1Ym1pdEJ1dHRvbi0+Z2V0Rm9ybSgpOw==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="4" type="4">
+        <text encoding="base64">aWYgKGlzc2V0KCRmb3JtWydhZGRyZXNzQm9va0NvbnRhY3QnXSkgJiYgZW1wdHkoJGZvcm1bJ2FkZHJlc3NCb29rQ29udGFjdCddLT5nZXRWYWx1ZSgpKSkgewoJCQkJJGZvcm0tPmFkZEVycm9yKCdOZW7DrSB6dm9sZW4gxb7DoWRuw70ga29udGFrdC4nKTsKCQkJCXJldHVybjsKCQl9</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQl9Owo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">LyoqIEB2YXIgRm9ybSAkZm9ybSAqLwoJCSRmb3JtID0gJHN1Ym1pdEJ1dHRvbi0+Z2V0Rm9ybSgpOw==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkkZm9ybS0+b25WYWxpZGF0ZVtdID0gZnVuY3Rpb24gKEVudGl0eUZvcm0gJGZvcm0pIHsK</text>
+        <text encoding="base64">CQl9Owo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">aWYgKGlzc2V0KCRmb3JtWydhZGRyZXNzQm9va0NvbnRhY3QnXSkgJiYgZW1wdHkoJGZvcm1bJ2FkZHJlc3NCb29rQ29udGFjdCddLT5nZXRWYWx1ZSgpKSkgewoJCQkJJGZvcm0tPmFkZEVycm9yKCdOZW7DrSB6dm9sZW4gxb7DoWRuw70ga29udGFrdC4nKTsKCQkJfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWlmICgkZm9ybVsnYWRkcmVzc0Jvb2tDb250YWN0J10tPmdldFZhbHVlKCkgPT09IG51bGwpIHsK</text>
+        <text encoding="base64">CQkkZm9ybS0+b25WYWxpZGF0ZVtdID0gZnVuY3Rpb24gKEVudGl0eUZvcm0gJGZvcm0pIHsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/elfinderFile/elFinderFile/g</text>
