@@ -298,6 +298,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Presenters/BaseBusinessCaseDocumentPresenter.php" timestamp="1540796790986">
+        <mark key="[" line="87" column="12" />
+        <mark key="]" line="87" column="12" />
+        <mark key="^" line="35" column="21" />
+        <mark key="." line="87" column="12" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNoteForm/CreditNoteForm.php" timestamp="1540380694492">
         <mark key="[" line="107" column="49" />
         <mark key="]" line="111" column="0" />
@@ -495,7 +501,7 @@
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" timestamp="1539860751217">
         <mark key="[" line="119" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540571766886">
+      <file name="/Dummy.txt" timestamp="1540572788895">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -784,7 +790,7 @@
       <file name="/home/www/vendor/hrncirr/media/src/Model/ImageFormatProvider.php" timestamp="1538551695792">
         <mark key="[" line="31" column="49" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Document/TPrice.php" timestamp="1540572786767">
+      <file name="/home/www/html/dv/adera/Modules/Document/TPrice.php" timestamp="1540572800156">
         <mark key="[" line="8" column="53" />
       </file>
       <file name="/home/www/html/nnb/patient-studies/src/Rest/DI/StudyExtension.php" timestamp="1540289160518">
@@ -1275,8 +1281,10 @@
       <jump line="51" column="12" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlwZGZSZXNwb25zZUZhY3RvcnkK</text>
+      <register name="&quot;" type="4">
+        <text>if (!isset($to['property'])) {
+				dump($to);
+			}</text>
       </register>
       <register name="-" type="4">
         <text>, int $month = nul</text>
@@ -1287,32 +1295,34 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlwZGZSZXNwb25zZUZhY3RvcnkK</text>
+      <register name="1" type="4">
+        <text>if (!isset($to['property'])) {
+				dump($to);
+			}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+        <text encoding="base64">CQlwZGZSZXNwb25zZUZhY3RvcnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlkdW1wKCRwZGZSZXNwb25zZUZhY3RvcnkpOwo=</text>
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlkdW1wKCkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">CQlkdW1wKCRwZGZSZXNwb25zZUZhY3RvcnkpOwo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQlkdW1wKCkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJJGludGVydmVudGlvbi0+c2V0TW9udGgoKGludCkgJHRoaXMtPm1vbnRoKTsK</text>
+        <text encoding="base64">CQlkdW1wKCRwZGZSZXNwb25zZUZhY3RvcnkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSBpbnR8bnVsbCAgICAgICAgICAkbW9udGgK</text>
+        <text encoding="base64">CQkJJGludGVydmVudGlvbi0+c2V0TW9udGgoKGludCkgJHRoaXMtPm1vbnRoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSBpbnR8bnVsbCAgICAgICAgICAkbW9udGggOwo=</text>
+        <text encoding="base64">CSAqIEBwYXJhbSBpbnR8bnVsbCAgICAgICAgICAkbW9udGgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCXsvaWZ9Cg==</text>
+        <text encoding="base64">CSAqIEBwYXJhbSBpbnR8bnVsbCAgICAgICAgICAkbW9udGggOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/elfinderFile/elFinderFile/g</text>
