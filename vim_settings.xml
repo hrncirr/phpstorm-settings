@@ -585,10 +585,10 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/CreditNote.php" timestamp="1540906445472">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="44" column="4" />
-        <mark key="." line="44" column="4" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/CreditNote.php" timestamp="1540907263252">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Folders/FolderGroup.php" timestamp="1539161203740">
         <mark key="[" line="10" column="0" />
@@ -1321,8 +1321,8 @@
       <jump line="89" column="21" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNoteForm/templates/CreditNoteForm.latte" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIEFkZHJlc3MKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGdldEludGVydmVudGlvblBsYWNlKCk6ID9BZGRyZXNzCgl7CgkJcmV0dXJuICR0aGlzLT5pbnRlcnZlbnRpb25QbGFjZTsKCX0KCQoJCgkvKioKCSAqIEBwYXJhbSBBZGRyZXNzICRpbnRlcnZlbnRpb25QbGFjZQoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0SW50ZXJ2ZW50aW9uUGxhY2UoQWRkcmVzcyAkaW50ZXJ2ZW50aW9uUGxhY2UpCgl7CgkJJHRoaXMtPmludGVydmVudGlvblBsYWNlID0gJGludGVydmVudGlvblBsYWNlOwoJfQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIEFkZHJlc3NCb29rXEFkZHJlc3MgYXMgQUJBZGRyZXNzOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGxlbmd0aD0xNSwgdW5pcXVlPXRydWU=</text>
@@ -1333,10 +1333,13 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIEFkZHJlc3MKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGdldEludGVydmVudGlvblBsYWNlKCk6ID9BZGRyZXNzCgl7CgkJcmV0dXJuICR0aGlzLT5pbnRlcnZlbnRpb25QbGFjZTsKCX0KCQoJCgkvKioKCSAqIEBwYXJhbSBBZGRyZXNzICRpbnRlcnZlbnRpb25QbGFjZQoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0SW50ZXJ2ZW50aW9uUGxhY2UoQWRkcmVzcyAkaW50ZXJ2ZW50aW9uUGxhY2UpCgl7CgkJJHRoaXMtPmludGVydmVudGlvblBsYWNlID0gJGludGVydmVudGlvblBsYWNlOwoJfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">dXNlIEFkZHJlc3NCb29rXEFkZHJlc3MgYXMgQUJBZGRyZXNzOwo=</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIEFkZHJlc3MKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGdldEludGVydmVudGlvblBsYWNlKCk6ID9BZGRyZXNzCgl7CgkJcmV0dXJuICR0aGlzLT5pbnRlcnZlbnRpb25QbGFjZTsKCX0KCQoJCgkvKioKCSAqIEBwYXJhbSBBZGRyZXNzICRpbnRlcnZlbnRpb25QbGFjZQoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0SW50ZXJ2ZW50aW9uUGxhY2UoQWRkcmVzcyAkaW50ZXJ2ZW50aW9uUGxhY2UpCgl7CgkJJHRoaXMtPmludGVydmVudGlvblBsYWNlID0gJGludGVydmVudGlvblBsYWNlOwoJfQ==</text>
+      </register>
+      <register name="3" type="4">
         <text>/**
 	 * @ORM\ManyToOne(targetEntity=&quot;AddressBook\Address&quot;)
 	 * @Assert\Valid
@@ -1344,19 +1347,19 @@
 	 */
 	private $interventionPlace;</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XFZhbGlkYXRvclxDb25zdHJhaW50cyBhcyBBc3NlcnQ7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">dXNlIEFkZHJlc3NCb29rXEFkZHJlc3MgYXMgQUJBZGRyZXNzOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">dXNlIEludm9pY2luZ1xDb21wb25lbnRzXEZvcm1QYXJ0c1xJbnRlcnZlbnRpb25Gb3JtUGFydFxJSW50ZXJ2ZW50aW9uUHJvdmlkZXI7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIEFCQWRkcmVzc3xudWxsCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRJbnRlcnZlbnRpb25QbGFjZSgpOiA/QUJBZGRyZXNzCgl7CgkJcmV0dXJuICR0aGlzLT5pbnRlcnZlbnRpb25QbGFjZTsKCX0KCQoJCgkvKioKCSAqIEBwYXJhbSBBQkFkZHJlc3MgJGludGVydmVudGlvblBsYWNlCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRJbnRlcnZlbnRpb25QbGFjZShBQkFkZHJlc3MgJGludGVydmVudGlvblBsYWNlKTogdm9pZAoJewoJCSR0aGlzLT5pbnRlcnZlbnRpb25QbGFjZSA9ICRpbnRlcnZlbnRpb25QbGFjZTsKCX0=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>/**
 	 * @ORM\ManyToOne(targetEntity=&quot;AddressBook\Address&quot;)
 	 * @Assert\Valid
@@ -1364,16 +1367,8 @@
 	 */
 	private $interventionPlace;</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIEFkZHJlc3N8bnVsbAoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0SW50ZXJ2ZW50aW9uUGxhY2UoKTogP0FkZHJlc3MKCXsKCQlyZXR1cm4gJHRoaXMtPmludGVydmVudGlvblBsYWNlOwoJfQoJCgkKCS8qKgoJICogQHBhcmFtIEFkZHJlc3MgJGludGVydmVudGlvblBsYWNlCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRJbnRlcnZlbnRpb25QbGFjZShBZGRyZXNzICRpbnRlcnZlbnRpb25QbGFjZSk6IHZvaWQKCXsKCQkkdGhpcy0+aW50ZXJ2ZW50aW9uUGxhY2UgPSAkaW50ZXJ2ZW50aW9uUGxhY2U7Cgl9</text>
-      </register>
       <register name="9" type="4">
-        <text>/**
-	 * @ORM\ManyToOne(targetEntity=&quot;AddressBook\Address&quot;)
-	 * @Assert\Valid
-	 * @var Address
-	 */
-	private $interventionPlace;</text>
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIEFkZHJlc3N8bnVsbAoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0SW50ZXJ2ZW50aW9uUGxhY2UoKTogP0FkZHJlc3MKCXsKCQlyZXR1cm4gJHRoaXMtPmludGVydmVudGlvblBsYWNlOwoJfQoJCgkKCS8qKgoJICogQHBhcmFtIEFkZHJlc3MgJGludGVydmVudGlvblBsYWNlCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRJbnRlcnZlbnRpb25QbGFjZShBZGRyZXNzICRpbnRlcnZlbnRpb25QbGFjZSk6IHZvaWQKCXsKCQkkdGhpcy0+aW50ZXJ2ZW50aW9uUGxhY2UgPSAkaW50ZXJ2ZW50aW9uUGxhY2U7Cgl9</text>
       </register>
       <register name=":" type="4">
         <text>%s/elfinderFile/elFinderFile/g</text>
