@@ -52,6 +52,12 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Groups/Components/GroupsPermissionsForm/GroupsPermissionsForm.php" timestamp="1540994503278">
+        <mark key="[" line="113" column="76" />
+        <mark key="]" line="138" column="12" />
+        <mark key="^" line="138" column="12" />
+        <mark key="." line="138" column="12" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Documents/ClipboardService.php" timestamp="1539156676180">
         <mark key="[" line="128" column="45" />
       </file>
@@ -328,6 +334,12 @@
         <mark key="]" line="191" column="0" />
         <mark key="." line="191" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Offer.php" timestamp="1540569483194">
+        <mark key="[" line="26" column="87" />
+        <mark key="]" line="56" column="37" />
+        <mark key="." line="56" column="37" />
+        <mark key="^" line="56" column="37" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Intervention.php" timestamp="1540571066875">
         <mark key="[" line="74" column="24" />
         <mark key="]" line="93" column="4" />
@@ -430,6 +442,12 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Document/Components/templates/formLayout.latte" timestamp="1540912514561">
+        <mark key="[" line="103" column="28" />
+        <mark key="]" line="106" column="0" />
+        <mark key="^" line="204" column="40" />
+        <mark key="." line="106" column="0" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/TDocumentContact.php" timestamp="1539262873286">
         <mark key="[" line="30" column="35" />
       </file>
@@ -504,6 +522,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Groups/Group.php" timestamp="1540994408132">
+        <mark key="[" line="63" column="31" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/FormParts/InterventionFormPart/InterventionFormPart.latte" timestamp="1540918320734">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -537,6 +558,9 @@
       <file name="/home/www/html/nnb/dms/src/Users/Components/PasswordForm/PasswordForm.php" timestamp="1539246669748">
         <mark key="[" line="1" column="23" />
       </file>
+      <file name="/home/www/html/nnb/dms/app/config/extensions/translation.neon" timestamp="1540994315323">
+        <mark key="[" line="7" column="1" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" timestamp="1540809537408">
         <mark key="[" line="119" column="44" />
       </file>
@@ -545,8 +569,8 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/TagsGrid/TagsGrid.php" timestamp="1538647564951">
-        <mark key="[" line="82" column="4" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/TagsGrid/TagsGrid.php" timestamp="1540994583368">
+        <mark key="[" line="114" column="55" />
         <mark key="]" line="82" column="4" />
         <mark key="." line="82" column="4" />
       </file>
@@ -1408,7 +1432,7 @@
         <text encoding="base64">JGlkRWwgPSBIdG1sOjplbCgnaW5wdXQnKQoJCQktPnR5cGUoJ2hpZGRlbicpCgkJCS0+bmFtZSgkbmFtZSAuIHNlbGY6OklEX1BST1BFUlRZKTsKCQkKCQlpZiAoJHRoaXMtPmlkICE9PSBudWxsKSB7CgkJCSRpZEVsLT52YWx1ZSgkdGhpcy0+aWQpOwoJCX0KCQkKCQkkd3JhcHBlci0+YWRkSHRtbCgkaWRFbCk7</text>
       </register>
       <register name=":" type="4">
-        <text>%s/intervention/inspection/g</text>
+        <text>114</text>
       </register>
     </registers>
     <search>
@@ -1444,7 +1468,6 @@
         <entry>onCancel</entry>
       </history-search>
       <history-cmd>
-        <entry>783</entry>
         <entry>_getParents</entry>
         <entry>4036</entry>
         <entry>4123</entry>
@@ -1464,6 +1487,7 @@
         <entry>w</entry>
         <entry>%s/elfinderFile/elFinderFile/g</entry>
         <entry>%s/intervention/inspection/g</entry>
+        <entry>114</entry>
       </history-cmd>
       <history-expr />
       <history-input />
