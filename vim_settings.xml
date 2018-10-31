@@ -52,11 +52,10 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Groups/Components/GroupsPermissionsForm/GroupsPermissionsForm.php" timestamp="1540994503278">
-        <mark key="[" line="113" column="76" />
-        <mark key="]" line="138" column="12" />
-        <mark key="^" line="138" column="12" />
-        <mark key="." line="138" column="12" />
+      <file name="/home/www/html/nnb/dms/src/Groups/Components/GroupsPermissionsForm/GroupsPermissionsForm.php" timestamp="1540996049246">
+        <mark key="[" line="84" column="31" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/ClipboardService.php" timestamp="1539156676180">
         <mark key="[" line="128" column="45" />
@@ -334,12 +333,6 @@
         <mark key="]" line="191" column="0" />
         <mark key="." line="191" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Offer.php" timestamp="1540569483194">
-        <mark key="[" line="26" column="87" />
-        <mark key="]" line="56" column="37" />
-        <mark key="." line="56" column="37" />
-        <mark key="^" line="56" column="37" />
-      </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Intervention.php" timestamp="1540571066875">
         <mark key="[" line="74" column="24" />
         <mark key="]" line="93" column="4" />
@@ -441,12 +434,6 @@
         <mark key="[" line="90" column="9" />
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
-      </file>
-      <file name="/home/www/html/dv/adera/Modules/Document/Components/templates/formLayout.latte" timestamp="1540912514561">
-        <mark key="[" line="103" column="28" />
-        <mark key="]" line="106" column="0" />
-        <mark key="^" line="204" column="40" />
-        <mark key="." line="106" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/TDocumentContact.php" timestamp="1539262873286">
         <mark key="[" line="30" column="35" />
@@ -564,7 +551,7 @@
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" timestamp="1540809537408">
         <mark key="[" line="119" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540986060907">
+      <file name="/Dummy.txt" timestamp="1540996578603">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -968,6 +955,9 @@
         <mark key="]" line="141" column="4" />
         <mark key="." line="141" column="4" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Groups/Components/GroupsPermissionsForm/GroupsPermissionsForm.latte" timestamp="1540995319362">
+        <mark key="[" line="61" column="74" />
+      </file>
       <file name="/home/www/lib/vendor/hrncirr-cms/file/src/DI/config.neon" timestamp="1540279744683">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1133,6 +1123,13 @@
       <file name="/home/www/html/nnb/dms/src/Files/Components/FileForm/IFileFormFactory.php" timestamp="1539080875553">
         <mark key="[" line="22" column="4" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1540996509587">
+        <mark key="'" line="121" column="60" />
+        <mark key="[" line="161" column="4" />
+        <mark key="]" line="161" column="4" />
+        <mark key="." line="161" column="4" />
+        <mark key="^" line="110" column="37" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Validator/Constraints/UniqueDefaultValidator.php" timestamp="1539349672194">
         <mark key="[" line="51" column="44" />
         <mark key="]" line="56" column="0" />
@@ -1290,8 +1287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="750" column="35" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
-      <jump line="904" column="35" filename="/home/www/vendor/studio-42/elfinder/php/elFinderVolumeDriver.class.php" />
       <jump line="161" column="32" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
       <jump line="165" column="41" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
       <jump line="189" column="9" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
@@ -1390,55 +1385,65 @@
       <jump line="89" column="21" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNoteForm/templates/CreditNoteForm.latte" />
       <jump line="28" column="47" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InspectionsGrid/templates/InspectionsGrid.latte" />
       <jump line="251" column="40" filename="/home/www/html/dv/adera/Modules/Document/Components/BaseDocumentFormControl.php" />
+      <jump line="110" column="37" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
+      <jump line="121" column="60" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="&quot;" type="4">
+        <text>/**
+	 * @ORM\ManyToMany(targetEntity=&quot;Document&quot;, mappedBy=&quot;attachments&quot;)
+	 * @var Document[]|Collection
+	 */
+	private $parents;</text>
       </register>
       <register name="-" type="4">
-        <text>console.log($idEl);</text>
+        <text>, inversedBy=&quot;parents&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>onCancel</text>
+        <text>parents</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="1" type="4">
+        <text>/**
+	 * @ORM\ManyToMany(targetEntity=&quot;Document&quot;, mappedBy=&quot;attachments&quot;)
+	 * @var Document[]|Collection
+	 */
+	private $parents;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzLT50cmFuc2xhdG9yKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIERvY3VtZW50W118Q29sbGVjdGlvbgoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0UGFyZW50cygpOiBDb2xsZWN0aW9uCgl7CgkJcmV0dXJuIG5ldyBSZWFkT25seUNvbGxlY3Rpb25XcmFwcGVyKCR0aGlzLT5wYXJlbnRzKTsKCX0KCQoJCglwdWJsaWMgZnVuY3Rpb24gZ2V0UGFyZW50KCkKCXsKCQlyZXR1cm4gJHRoaXMtPnBhcmVudHMtPmZpcnN0KCk7Cgl9CgkKCQoJcHVibGljIGZ1bmN0aW9uIGFkZFBhcmVudChEb2N1bWVudCAkZG9jdW1lbnQpOiB2b2lkCgl7CgkJJGRvY3VtZW50LT5hdHRhY2htZW50c1tdID0gJHRoaXM7CgkJJHRoaXMtPnBhcmVudHNbXSA9ICRkb2N1bWVudDsKCX0=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZHVtcCgkZm9ybS0+Z2V0VmFsdWVzKCkpOwoJCWV4aXQ7</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCQlkdW1wKCR0aGlzLT5ncm91cHNbJGlkXS0+eydnZXQnIC4gdWNmaXJzdCgkdGhpcy0+cHJlZml4KSAuICdQZXJtaXNzaW9ucyd9KCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coJGlkRWwudmFsKCkpOwo=</text>
+        <text encoding="base64">CQkJCQlkdW1wKCRwZXJtaXNzaW9uLT5nZXROYW1lKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCSd0eXBlYWhlYWRQcm9wZXJ0eScgPT4gJycsCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCXZhciBmb3JtID0gJCh0aGlzKS5jbG9zZXN0KCdmb3JtJyk7Cg==</text>
+        <text encoding="base64">CQlkdW1wKCR0aGlzLT50cmFuc2xhdG9yKTsK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ZHVtcCgkdGhpcy0+Z2V0Rm9ybSgpLT5nZXRIdHRwRGF0YSgpKTsKCQlleGl0Ow==</text>
+        <text encoding="base64">ZHVtcCgkZm9ybS0+Z2V0VmFsdWVzKCkpOwoJCWV4aXQ7</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkkZWwtPm5hbWUoJG5hbWUgLiBzZWxmOjpUWVBFQUhFQURfUFJPUEVSVFkpOwo=</text>
+        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coJGlkRWwudmFsKCkpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">JGlkRWwgPSBIdG1sOjplbCgnaW5wdXQnKQoJCQktPnR5cGUoJ2hpZGRlbicpCgkJCS0+bmFtZSgkbmFtZSAuIHNlbGY6OklEX1BST1BFUlRZKTsKCQkKCQlpZiAoJHRoaXMtPmlkICE9PSBudWxsKSB7CgkJCSRpZEVsLT52YWx1ZSgkdGhpcy0+aWQpOwoJCX0KCQkKCQkkd3JhcHBlci0+YWRkSHRtbCgkaWRFbCk7</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCSd0eXBlYWhlYWRQcm9wZXJ0eScgPT4gJycsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>114</text>
+        <text>255</text>
       </register>
     </registers>
     <search>
-      <last-search>onCancel</last-search>
+      <last-search>parents</last-search>
       <last-offset />
-      <last-pattern>onCancel</last-pattern>
+      <last-pattern>parents</last-pattern>
       <last-replace>inspection</last-replace>
       <last-substitute>intervention</last-substitute>
       <last-dir>1</last-dir>
@@ -1446,9 +1451,6 @@
     </search>
     <history>
       <history-search>
-        <entry>defaultAddress</entry>
-        <entry>dump</entry>
-        <entry>elfinderFile</entry>
         <entry>subject</entry>
         <entry>catalogItem</entry>
         <entry>Contact</entry>
@@ -1466,9 +1468,11 @@
         <entry>intervention</entry>
         <entry>onCancle</entry>
         <entry>onCancel</entry>
+        <entry>disab</entry>
+        <entry>disabl</entry>
+        <entry>parents</entry>
       </history-search>
       <history-cmd>
-        <entry>_getParents</entry>
         <entry>4036</entry>
         <entry>4123</entry>
         <entry>1684</entry>
@@ -1488,6 +1492,7 @@
         <entry>%s/elfinderFile/elFinderFile/g</entry>
         <entry>%s/intervention/inspection/g</entry>
         <entry>114</entry>
+        <entry>255</entry>
       </history-cmd>
       <history-expr />
       <history-input />
