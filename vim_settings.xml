@@ -212,6 +212,12 @@
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InspectionsGrid/IInspectionsGridFactory.php" timestamp="1540569424632">
         <mark key="[" line="18" column="39" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/templates/InvoiceForm.latte" timestamp="1540999017991">
+        <mark key="'" line="18" column="22" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Presenters/ArchivePresenter.php" timestamp="1538651618035">
         <mark key="[" line="1" column="23" />
       </file>
@@ -617,7 +623,7 @@
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" timestamp="1541072608358">
         <mark key="[" line="70" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541065250173">
+      <file name="/Dummy.txt" timestamp="1541074513766">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -641,6 +647,9 @@
       </file>
       <file name="/home/www/html/nnb/dms/src/Files/IconManager.php" timestamp="1539084070274">
         <mark key="[" line="59" column="90" />
+      </file>
+      <file name="/home/www/html/dv/adera/app/locale/components.cs_CZ.neon" timestamp="1541073920232">
+        <mark key="[" line="13" column="17" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Folders/Components/PathControl/PathControl.php" timestamp="1539161732015">
         <mark key="[" line="101" column="56" />
@@ -746,6 +755,12 @@
         <mark key="[" line="47" column="13" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
+      </file>
+      <file name="/home/www/html/dv/adera/app/src/Components/SignInForm/SignInForm.php" timestamp="1541074105377">
+        <mark key="'" line="120" column="19" />
+        <mark key="[" line="28" column="1" />
+        <mark key="]" line="28" column="1" />
+        <mark key="." line="28" column="1" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Groups/IGroupPermissions.php" timestamp="1539238881397">
         <mark key="[" line="1" column="23" />
@@ -918,8 +933,11 @@
       <file name="/home/www/vendor/hrncirr/media/src/Model/ImageFormatProvider.php" timestamp="1538551695792">
         <mark key="[" line="31" column="49" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Document/TPrice.php" timestamp="1541065305779">
-        <mark key="[" line="8" column="53" />
+      <file name="/home/www/html/dv/adera/Modules/Document/TPrice.php" timestamp="1541074522828">
+        <mark key="[" line="6" column="53" />
+      </file>
+      <file name="/home/www/html/dv/adera/src/Admin/AuthModule/Presenters/SignPresenter.php" timestamp="1541073541578">
+        <mark key="[" line="40" column="73" />
       </file>
       <file name="/home/www/html/nnb/patient-studies/src/Rest/DI/StudyExtension.php" timestamp="1540289160518">
         <mark key="[" line="4" column="10" />
@@ -948,6 +966,12 @@
         <mark key="[" line="90" column="38" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" timestamp="1540986146211">
+        <mark key="'" line="51" column="12" />
+        <mark key="[" line="102" column="8" />
+        <mark key="]" line="102" column="8" />
+        <mark key="." line="102" column="8" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Groups/Components/GroupForm/GroupForm.php" timestamp="1539237777337">
         <mark key="[" line="1" column="23" />
@@ -993,6 +1017,12 @@
       </file>
       <file name="/home/www/html/dv/adera/src/User/Privilege.php" timestamp="1541003322447">
         <mark key="[" line="20" column="20" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/Document/Components/BaseDocumentFormControl.php" timestamp="1540977606006">
+        <mark key="'" line="251" column="40" />
+        <mark key="[" line="301" column="12" />
+        <mark key="]" line="301" column="0" />
+        <mark key="." line="301" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Inquiry.php" timestamp="1540569569346">
         <mark key="[" line="22" column="89" />
@@ -1118,6 +1148,12 @@
         <mark key="]" line="5" column="4" />
         <mark key="." line="5" column="4" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InspectionsGrid/templates/InspectionsGrid.latte" timestamp="1540977099038">
+        <mark key="'" line="27" column="47" />
+        <mark key="[" line="51" column="29" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentFolderSelectorControl/IDocumentFolderSelectorControlFactory.php" timestamp="1538642229996">
         <mark key="[" line="8" column="23" />
       </file>
@@ -1174,20 +1210,6 @@
       </file>
       <file name="/home/www/html/nnb/dms/src/Files/Components/FileForm/IFileFormFactory.php" timestamp="1539080875553">
         <mark key="[" line="22" column="4" />
-      </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1541004597182">
-        <mark key="'" line="121" column="60" />
-        <mark key="[" line="161" column="4" />
-        <mark key="]" line="161" column="4" />
-        <mark key="." line="161" column="4" />
-        <mark key="^" line="110" column="37" />
-      </file>
-      <file name="/home/www/html/dv/adera/src/User/Manager.php" timestamp="1541063779732">
-        <mark key="'" line="67" column="62" />
-        <mark key="[" line="74" column="30" />
-        <mark key="]" line="74" column="30" />
-        <mark key="." line="74" column="30" />
-        <mark key="^" line="64" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Validator/Constraints/UniqueDefaultValidator.php" timestamp="1539349672194">
         <mark key="[" line="51" column="44" />
@@ -1349,8 +1371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="9" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
-      <jump line="238" column="48" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
       <jump line="265" column="4" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
       <jump line="270" column="39" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
       <jump line="272" column="20" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
@@ -1449,35 +1469,48 @@
       <jump line="121" column="60" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
       <jump line="164" column="32" filename="/home/www/html/dv/adera/src/User/User.php" />
       <jump line="69" column="62" filename="/home/www/html/dv/adera/src/User/Manager.php" />
+      <jump line="36" column="0" filename="/home/www/html/dv/adera/app/src/Components/SignInForm/SignInForm.php" />
+      <jump line="114" column="19" filename="/home/www/html/dv/adera/app/src/Components/SignInForm/SignInForm.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlpZiAoJHRoaXMtPnVzZXItPmdldFJvbGVzKCkgKQo=</text>
+      <register name="&quot;" type="4">
+        <text>* @method onSuccess()
+ * @method onError(Form $form)</text>
       </register>
       <register name="-" type="4">
-        <text>UserContext $userContext</text>
+        <text>Zadali jste špatné uživatelské jméno nebo heslo</text>
       </register>
       <register name="/" type="4">
-        <text>setPassword</text>
+        <text>onError</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlpZiAoJHRoaXMtPnVzZXItPmdldFJvbGVzKCkgKQo=</text>
+      <register name="1" type="4">
+        <text>* @method onSuccess()
+ * @method onError(Form $form)</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">JGZvcm0tPm9uQW5jaG9yW10gPSBmdW5jdGlvbiAoRW50aXR5Rm9ybSAkZm9ybSkgewoJCQlpZiAKCQl9Ow==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICogQG1ldGhvZCBvbkVycm9yKEZvcm0gJGZvcm0pCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXEFwcGxpY2F0aW9uXFVJOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQlpZiAoJHRoaXMtPnVzZXItPmdldFJvbGVzKCkgKQo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">JGZvcm0tPm9uQW5jaG9yW10gPSBmdW5jdGlvbiAoRW50aXR5Rm9ybSAkZm9ybSkgewoJCQlpZiAKCQl9Ow==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">dXNlIE5ldHRlXFNlY3VyaXR5XFVzZXIgYXMgVXNlckNvbnRleHQ7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>/**
 	 * @var
 	 */</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>extensions:
 	error: HrncirrCMS\Error\DI\ErrorExtension
 	url: HrncirrCMS\Url\DI\UrlExtension
@@ -1503,32 +1536,17 @@
 	storage: Storage\DI\StorageExtension
 	invoicing: Invoicing\DI\InvoicingExtension</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">dXNlIExvZ2dlclxNb25vbG9nXEFjY2Vzc0xvZ2dlcjsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkkdGhpcy0+YWNjZXNzTG9nZ2VyID0gJGFjY2Vzc0xvZ2dlcjsK</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">LyoqCgkgKiBAdmFyIEFjY2Vzc0xvZ2dlcgoJICovCglwcml2YXRlICRhY2Nlc3NMb2dnZXI7Cgk=</text>
-      </register>
-      <register name="9" type="4">
-        <text>/**
- * This file is part of the patient-studies
- *
- * Copyright (c) 2015 Roman Hrnčíř
- *
- * For the full copyright and license information, please view the file license.txt that was distributed with this source code.
- */</text>
       </register>
       <register name=":" type="4">
         <text>255</text>
       </register>
     </registers>
     <search>
-      <last-search>setPassword</last-search>
+      <last-search>onError</last-search>
       <last-offset />
-      <last-pattern>setPassword</last-pattern>
+      <last-pattern>onError</last-pattern>
       <last-replace>inspection</last-replace>
       <last-substitute>intervention</last-substitute>
       <last-dir>1</last-dir>
@@ -1536,7 +1554,6 @@
     </search>
     <history>
       <history-search>
-        <entry>catalogItem</entry>
         <entry>Contact</entry>
         <entry>getValue</entry>
         <entry>Attribute</entry>
@@ -1556,6 +1573,7 @@
         <entry>disabl</entry>
         <entry>parents</entry>
         <entry>setPassword</entry>
+        <entry>onError</entry>
       </history-search>
       <history-cmd>
         <entry>4036</entry>
