@@ -44,6 +44,11 @@
       <file name="/home/www/html/nnb/dms/src/Exceptions/StaticClassException.php" timestamp="1538652845168">
         <mark key="[" line="8" column="23" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/File/AccessManagers/ImageAccessManager.php" timestamp="1541064518017">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/FormParts/InterventionPlaceFormPart/IInterventionPlaceProvider.php" timestamp="1540568780839">
         <mark key="[" line="11" column="53" />
       </file>
@@ -126,6 +131,9 @@
       </file>
       <file name="/home/www/html/nnb/patient-studies/src/Log/Monolog/Handlers/MonologDBHandler.php" timestamp="1540207337250">
         <mark key="[" line="51" column="53" />
+      </file>
+      <file name="/home/www/html/dv/adera/app/config/modules.neon" timestamp="1541064701274">
+        <mark key="[" line="32" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/app/Forms/BaseFormControl.php" timestamp="1538641402225">
         <mark key="[" line="1" column="23" />
@@ -877,7 +885,7 @@
       <file name="/home/www/html/nnb/patient-studies/src/User/Security/ImageAccessManager.php" timestamp="1540284125590">
         <mark key="[" line="40" column="39" />
       </file>
-      <file name="/home/www/html/nnb/patient-studies/app/config/extensions/media.neon" timestamp="1540299502041">
+      <file name="/home/www/html/nnb/patient-studies/app/config/extensions/media.neon" timestamp="1541064728917">
         <mark key="[" line="9" column="19" />
         <mark key="]" line="9" column="19" />
         <mark key="." line="9" column="19" />
@@ -923,6 +931,11 @@
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/HistoryControl/IHistoryControlFactory.php" timestamp="1538647306593">
         <mark key="[" line="8" column="23" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/File/AccessManagers/FileAccessManager.php" timestamp="1541064540195">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/media/src/Model/ImageFormatProvider.php" timestamp="1538551695792">
         <mark key="[" line="31" column="49" />
@@ -1456,10 +1469,33 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Passwords::hash(</text>
+        <text>extensions:
+	error: HrncirrCMS\Error\DI\ErrorExtension
+	url: HrncirrCMS\Url\DI\UrlExtension
+
+	localization: HrncirrCMS\Localization\DI\LocalizationExtension
+	navigation: HrncirrCMS\Navigation\DI\NavigationExtension
+	admin: HrncirrCMS\Admin\DI\AdminExtension
+	user: HrncirrCMS\User\DI\UserExtension
+	dashboard: HrncirrCMS\Dashboard\DI\DashboardExtension
+
+	hrncirr.elFinder: Hrncirr\ElFinder\DI\ElFinderExtension
+	hrncirr.elFinder.media: Hrncirr\ElFinder\DI\ElFinderMediaExtension
+	hrncirr.media.file: Hrncirr\Media\DI\FileExtension
+	hrncirr.media.image: Hrncirr\Media\DI\ImageExtension
+
+	file: HrncirrCMS\File\DI\FileExtension
+
+	money: Money\DI\MoneyExtension
+	note: Note\DI\NoteExtension
+	document: Document\DI\DocumentExtension
+	address.book: AddressBook\DI\AddressBookExtension
+	calendar: Calendar\DI\CalendarExtension
+	storage: Storage\DI\StorageExtension
+	invoicing: Invoicing\DI\InvoicingExtension</text>
       </register>
       <register name="-" type="4">
-        <text>Passwords::hash(</text>
+        <text>, AccessLogger $accessLogger</text>
       </register>
       <register name="/" type="4">
         <text>setPassword</text>
@@ -1468,61 +1504,63 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
-        <text>dump($user);
-		exit;</text>
+        <text>extensions:
+	error: HrncirrCMS\Error\DI\ErrorExtension
+	url: HrncirrCMS\Url\DI\UrlExtension
+
+	localization: HrncirrCMS\Localization\DI\LocalizationExtension
+	navigation: HrncirrCMS\Navigation\DI\NavigationExtension
+	admin: HrncirrCMS\Admin\DI\AdminExtension
+	user: HrncirrCMS\User\DI\UserExtension
+	dashboard: HrncirrCMS\Dashboard\DI\DashboardExtension
+
+	hrncirr.elFinder: Hrncirr\ElFinder\DI\ElFinderExtension
+	hrncirr.elFinder.media: Hrncirr\ElFinder\DI\ElFinderMediaExtension
+	hrncirr.media.file: Hrncirr\Media\DI\FileExtension
+	hrncirr.media.image: Hrncirr\Media\DI\ImageExtension
+
+	file: HrncirrCMS\File\DI\FileExtension
+
+	money: Money\DI\MoneyExtension
+	note: Note\DI\NoteExtension
+	document: Document\DI\DocumentExtension
+	address.book: AddressBook\DI\AddressBookExtension
+	calendar: Calendar\DI\CalendarExtension
+	storage: Storage\DI\StorageExtension
+	invoicing: Invoicing\DI\InvoicingExtension</text>
       </register>
-      <register name="2" type="4">
-        <text>dump($user);
-		exit;</text>
+      <register name="2" type="2">
+        <text encoding="base64">dXNlIExvZ2dlclxNb25vbG9nXEFjY2Vzc0xvZ2dlcjsK</text>
       </register>
-      <register name="3" type="4">
-        <text>@ORM\AssociationOverrides({
- *      @ORM\AssociationOverride(name=&quot;notes&quot;,
- *          joinTable=@ORM\JoinTable(
- *              name=&quot;address_book_subject_notes&quot;
- *          )
- *      )
- * })</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkkdGhpcy0+YWNjZXNzTG9nZ2VyID0gJGFjY2Vzc0xvZ2dlcjsK</text>
       </register>
       <register name="4" type="4">
-        <text>joinColumns=@ORM\JoinColumn(
- *              name=&quot;credit_note_id&quot;, referencedColumnName=&quot;id&quot;
- *          )</text>
+        <text encoding="base64">LyoqCgkgKiBAdmFyIEFjY2Vzc0xvZ2dlcgoJICovCglwcml2YXRlICRhY2Nlc3NMb2dnZXI7Cgk=</text>
       </register>
       <register name="5" type="4">
-        <text>,
- *          joinColumns=@ORM\JoinColumn(
- *              name=&quot;order_id&quot;, referencedColumnName=&quot;id&quot;
- *          )</text>
+        <text>/**
+ * This file is part of the patient-studies
+ *
+ * Copyright (c) 2015 Roman Hrnčíř
+ *
+ * For the full copyright and license information, please view the file license.txt that was distributed with this source code.
+ */</text>
       </register>
-      <register name="6" type="4">
-        <text>joinColumns=@ORM\JoinColumn(
- *              name=&quot;invoice_id&quot;, referencedColumnName=&quot;id&quot;
- *          )</text>
+      <register name="6" type="2">
+        <text encoding="base64">dXNlIExvZ2dlclxNb25vbG9nXEFjY2Vzc0xvZ2dlcjsK</text>
       </register>
-      <register name="7" type="4">
-        <text>,
- *          joinColumns=@ORM\JoinColumn(
- *              name=&quot;order_id&quot;, referencedColumnName=&quot;id&quot;
- *          )</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkkdGhpcy0+YWNjZXNzTG9nZ2VyID0gJGFjY2Vzc0xvZ2dlcjsK</text>
       </register>
       <register name="8" type="4">
-        <text>@ORM\AssociationOverrides({
- *      @ORM\AssociationOverride(name=&quot;notes&quot;,
- *          joinTable=@ORM\JoinTable(
- *              name=&quot;invoicing_business_case_notes&quot;
- *          )
- *      )
- * })</text>
+        <text>/**
+	 * @var AccessLogger
+	 */
+	private $accessLogger;</text>
       </register>
       <register name="9" type="4">
-        <text>@ORM\AssociationOverrides({
- *      @ORM\AssociationOverride(name=&quot;notes&quot;,
- *          joinTable=@ORM\JoinTable(
- *              name=&quot;invoicing_inspection_notes&quot;
- *          )
- *      )
- * })</text>
+        <text encoding="base64">JHRoaXMtPmFjY2Vzc0xvZ2dlci0+YWRkSW5mbygnaW1hZ2UgYWNjZXNzJywgWwoJCQknbGFiZWwnID0+ICRpbWFnZS0+Z2V0TGFiZWwoKSwKCQkJJ25hbWUnID0+ICRpbWFnZS0+Z2V0TmFtZSgpLAoJCQkncGF0aCcgPT4gJGltYWdlLT5nZXRQYXRoKCksCgkJCSdjb250ZW50VHlwZScgPT4gJGltYWdlLT5nZXRDb250ZW50VHlwZSgpCgkJXSk7</text>
       </register>
       <register name=":" type="4">
         <text>255</text>
