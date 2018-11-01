@@ -24,6 +24,9 @@
       <file name="/home/www/html/nnb/dms/app/config/extensions/permissions.neon" timestamp="1538640645141">
         <mark key="[" line="1" column="11" />
       </file>
+      <file name="/home/www/html/dv/adera/src/User/Install/Helpers/PermissionInstallHelper.php" timestamp="1541063621002">
+        <mark key="[" line="131" column="48" />
+      </file>
       <file name="/home/www/html/nnb/patient-studies/src/Log/DI/UserExtension.php" timestamp="1539956133436">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -289,6 +292,9 @@
         <mark key="]" line="118" column="4" />
         <mark key="." line="118" column="4" />
       </file>
+      <file name="/home/www/html/dv/adera/src/User/Events/UserListener.php" timestamp="1541063700282">
+        <mark key="[" line="42" column="42" />
+      </file>
       <file name="/home/www/html/nnb/patient-studies/app/config/extensions/entity-loader.neon" timestamp="1540295230133">
         <mark key="[" line="3" column="5" />
       </file>
@@ -301,8 +307,10 @@
       <file name="/home/www/html/nnb/dms/src/Files/Exceptions/FileUploadException.php" timestamp="1539081119947">
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/src/User/AdminModule/Components/UserForm/UserForm.php" timestamp="1541056501166">
-        <mark key="[" line="118" column="74" />
+      <file name="/home/www/html/dv/adera/src/User/AdminModule/Components/UserForm/UserForm.php" timestamp="1541063193500">
+        <mark key="[" line="105" column="51" />
+        <mark key="]" line="105" column="31" />
+        <mark key="." line="105" column="31" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Files/Exceptions/MimeTypeNotFoundException.php" timestamp="1539081113691">
         <mark key="[" line="5" column="0" />
@@ -345,8 +353,8 @@
         <mark key="^" line="35" column="21" />
         <mark key="." line="87" column="12" />
       </file>
-      <file name="/home/www/html/dv/adera/src/User/Install/UserInstall.php" timestamp="1541002552326">
-        <mark key="[" line="100" column="0" />
+      <file name="/home/www/html/dv/adera/src/User/Install/UserInstall.php" timestamp="1541063341374">
+        <mark key="[" line="83" column="28" />
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
       </file>
@@ -364,6 +372,9 @@
         <mark key="[" line="41" column="45" />
         <mark key="]" line="35" column="3" />
         <mark key="." line="35" column="3" />
+      </file>
+      <file name="/home/www/html/dv/adera/src/User/Install/Helpers/UserInstallHelper.php" timestamp="1541063087778">
+        <mark key="[" line="65" column="36" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Helpers/SortHelpers.php" timestamp="1539239210072">
         <mark key="[" line="61" column="107" />
@@ -723,7 +734,8 @@
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/FormParts/InterventionFormPart/IInterventionProvider.php" timestamp="1540568953961">
         <mark key="[" line="13" column="30" />
       </file>
-      <file name="/home/www/html/dv/adera/src/User/User.php" timestamp="1541003307224">
+      <file name="/home/www/html/dv/adera/src/User/User.php" timestamp="1541062552478">
+        <mark key="'" line="164" column="32" />
         <mark key="[" line="31" column="20" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Groups/Components/GroupsGrid/GroupsGrid.php" timestamp="1539252607199">
@@ -1174,6 +1186,13 @@
         <mark key="." line="161" column="4" />
         <mark key="^" line="110" column="37" />
       </file>
+      <file name="/home/www/html/dv/adera/src/User/Manager.php" timestamp="1541063779732">
+        <mark key="'" line="67" column="62" />
+        <mark key="[" line="74" column="30" />
+        <mark key="]" line="74" column="30" />
+        <mark key="." line="74" column="30" />
+        <mark key="^" line="64" column="0" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Validator/Constraints/UniqueDefaultValidator.php" timestamp="1539349672194">
         <mark key="[" line="51" column="44" />
         <mark key="]" line="56" column="0" />
@@ -1334,8 +1353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="32" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
-      <jump line="165" column="41" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
       <jump line="189" column="9" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
       <jump line="238" column="48" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
       <jump line="265" column="4" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
@@ -1434,27 +1451,31 @@
       <jump line="251" column="40" filename="/home/www/html/dv/adera/Modules/Document/Components/BaseDocumentFormControl.php" />
       <jump line="110" column="37" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
       <jump line="121" column="60" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
+      <jump line="164" column="32" filename="/home/www/html/dv/adera/src/User/User.php" />
+      <jump line="69" column="62" filename="/home/www/html/dv/adera/src/User/Manager.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>@ORM\AssociationOverrides({
- *      @ORM\AssociationOverride(name=&quot;notes&quot;,
- *          joinTable=@ORM\JoinTable(
- *              name=&quot;address_book_subject_notes&quot;
- *          )
- *      )
- * })</text>
+        <text>Passwords::hash(</text>
       </register>
       <register name="-" type="4">
-        <text>, referencedColumnName=&quot;id&quot;</text>
+        <text>Passwords::hash(</text>
       </register>
       <register name="/" type="4">
-        <text>parents</text>
+        <text>setPassword</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
+        <text>dump($user);
+		exit;</text>
+      </register>
+      <register name="2" type="4">
+        <text>dump($user);
+		exit;</text>
+      </register>
+      <register name="3" type="4">
         <text>@ORM\AssociationOverrides({
  *      @ORM\AssociationOverride(name=&quot;notes&quot;,
  *          joinTable=@ORM\JoinTable(
@@ -1463,20 +1484,9 @@
  *      )
  * })</text>
       </register>
-      <register name="2" type="4">
-        <text>joinColumns=@ORM\JoinColumn(
- *              name=&quot;credit_note_id&quot;, referencedColumnName=&quot;id&quot;
- *          )</text>
-      </register>
-      <register name="3" type="4">
-        <text>,
- *          joinColumns=@ORM\JoinColumn(
- *              name=&quot;order_id&quot;, referencedColumnName=&quot;id&quot;
- *          )</text>
-      </register>
       <register name="4" type="4">
         <text>joinColumns=@ORM\JoinColumn(
- *              name=&quot;invoice_id&quot;, referencedColumnName=&quot;id&quot;
+ *              name=&quot;credit_note_id&quot;, referencedColumnName=&quot;id&quot;
  *          )</text>
       </register>
       <register name="5" type="4">
@@ -1486,6 +1496,17 @@
  *          )</text>
       </register>
       <register name="6" type="4">
+        <text>joinColumns=@ORM\JoinColumn(
+ *              name=&quot;invoice_id&quot;, referencedColumnName=&quot;id&quot;
+ *          )</text>
+      </register>
+      <register name="7" type="4">
+        <text>,
+ *          joinColumns=@ORM\JoinColumn(
+ *              name=&quot;order_id&quot;, referencedColumnName=&quot;id&quot;
+ *          )</text>
+      </register>
+      <register name="8" type="4">
         <text>@ORM\AssociationOverrides({
  *      @ORM\AssociationOverride(name=&quot;notes&quot;,
  *          joinTable=@ORM\JoinTable(
@@ -1494,29 +1515,11 @@
  *      )
  * })</text>
       </register>
-      <register name="7" type="4">
-        <text>@ORM\AssociationOverrides({
- *      @ORM\AssociationOverride(name=&quot;notes&quot;,
- *          joinTable=@ORM\JoinTable(
- *              name=&quot;invoicing_inspection_notes&quot;
- *          )
- *      )
- * })</text>
-      </register>
-      <register name="8" type="4">
-        <text>@ORM\AssociationOverrides({
- *      @ORM\AssociationOverride(name=&quot;notes&quot;,
- *          joinTable=@ORM\JoinTable(
- *              name=&quot;invoicing_intervention_notes&quot;
- *          )
- *      )
- * })</text>
-      </register>
       <register name="9" type="4">
         <text>@ORM\AssociationOverrides({
  *      @ORM\AssociationOverride(name=&quot;notes&quot;,
  *          joinTable=@ORM\JoinTable(
- *              name=&quot;address_book_subject_notes&quot;
+ *              name=&quot;invoicing_inspection_notes&quot;
  *          )
  *      )
  * })</text>
@@ -1526,9 +1529,9 @@
       </register>
     </registers>
     <search>
-      <last-search>parents</last-search>
+      <last-search>setPassword</last-search>
       <last-offset />
-      <last-pattern>parents</last-pattern>
+      <last-pattern>setPassword</last-pattern>
       <last-replace>inspection</last-replace>
       <last-substitute>intervention</last-substitute>
       <last-dir>1</last-dir>
@@ -1536,7 +1539,6 @@
     </search>
     <history>
       <history-search>
-        <entry>subject</entry>
         <entry>catalogItem</entry>
         <entry>Contact</entry>
         <entry>getValue</entry>
@@ -1556,6 +1558,7 @@
         <entry>disab</entry>
         <entry>disabl</entry>
         <entry>parents</entry>
+        <entry>setPassword</entry>
       </history-search>
       <history-cmd>
         <entry>4036</entry>
