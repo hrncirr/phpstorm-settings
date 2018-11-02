@@ -832,10 +832,10 @@
         <mark key="]" line="17" column="1" />
         <mark key="." line="17" column="1" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Forms/Controls/SubjectNameInput.php" timestamp="1540977780305">
-        <mark key="[" line="147" column="40" />
-        <mark key="]" line="160" column="27" />
-        <mark key="." line="160" column="27" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Forms/Controls/SubjectNameInput.php" timestamp="1541158257161">
+        <mark key="[" line="105" column="12" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Folders/Components/FolderSortTypeForm/FolderSortTypeForm.php" timestamp="1539163653036">
         <mark key="[" line="104" column="0" />
@@ -1503,11 +1503,11 @@
       <jump line="320" column="29" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>con</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJaWYgKCRjb250YWN0ICE9PSBudWxsKSB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>con</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>getAttachments</text>
@@ -1515,32 +1515,34 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LyoqIEB2YXIgQWRkcmVzcyAkYWRkcmVzcyAqLwoJCSRhZGRyZXNzID0gJHN1YmplY3QtPmdldERlZmF1bHRBZGRyZXNzKCk7</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJaWYgKCRjb250YWN0ICE9PSBudWxsKSB7Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">LyoqIEB2YXIgQWRkcmVzcyAkYWRkcmVzcyAqLwoJCSRhZGRyZXNzID0gJHN1YmplY3QtPmdldERlZmF1bHRBZGRyZXNzKCk7</text>
+        <text encoding="base64">LyoqIEB2YXIgQWRkcmVzcyAkYWRkcmVzcyAqLwoJCQkkYWRkcmVzcyA9ICRzdWJqZWN0LT5nZXREZWZhdWx0QWRkcmVzcygpOw==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">JGNvbnRyYWN0ID0gbmV3IENvbnRyYWN0KCk7CgkJCQkKCQkJCSRzdWJqZWN0ID0gJGRvY3VtZW50LT5nZXRTdWJqZWN0KCk7CgkJCQkkc3ViamVjdC0+c2V0TmFtZSgkYWRkcmVzc0Jvb2tTdWJqZWN0LT5nZXROYW1lKCkpOwoJCQkJJHN1YmplY3QtPnNldENpbigkYWRkcmVzc0Jvb2tTdWJqZWN0LT5nZXRDaW4oKSk7CgkJCQkkc3ViamVjdC0+c2V0VGluKCRhZGRyZXNzQm9va1N1YmplY3QtPmdldFRpbigpKTsKCQkJCQoJCQkJCgkJCQkkZG9jdW1lbnRTdWJqZWN0CgkJCQkKCQkJCSRjb250cmFjdC0+c2V0U3UKCQkJCSRjb250cmFjdC0+c2V0QWRkcmVzcygpOw==</text>
+        <text encoding="base64">LyoqIEB2YXIgQ29udGFjdCAkY29udGFjdCAqLwoJCQlpZiAoJGFkZHJlc3MgIT09IG51bGwgJiYgISRjb250YWN0ID0gJGFkZHJlc3MtPmdldERlZmF1bHRDb250YWN0KCkpIHsKCQkJCSRjb250YWN0cyA9ICRhZGRyZXNzLT5nZXRDb250YWN0cygpOwoJCQkJCgkJCQlpZiAoXGNvdW50KCRjb250YWN0cykgPiAwKSB7CgkJCQkJJGNvbnRhY3QgPSAkY29udGFjdHNbMF07CgkJCQl9CgkJCX0=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkkc3ViamVjdCA9ICRkb2N1bWVudC0+Z2V0U3ViamVjdCgpOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">LyoKCQkJJGZvdW5kQWRkcmVzcyA9IG51bGw7CgkJCS8vIEB2YXIgQWRkcmVzcyAkYWRkcmVzcwoJCQlmb3JlYWNoICgkc3ViamVjdC0+Z2V0QWRkcmVzc2VzKCkgYXMgJF9hZGRyZXNzKSB7CgkJCQlpZiAoJGFkZHJlc3MtPmdldEFkZHJlc3NUeXBlKCktPmdldElkKCkgPT09IDEpIHsKCQkJCQkkYWRkcmVzcyA9ICRfYWRkcmVzczsKCQkJCQlicmVhazsKCQkJCX0KCQkJfQoJCQkqLw==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIERvY3VtZW50XFN1YmplY3Q7Cg==</text>
+        <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIERvY3RyaW5lXERCQUxcUGxhdGZvcm1zXE15U1FMNTdQbGF0Zm9ybTsK</text>
+        <text encoding="base64">CQkJCWR1bXAoJGNvbnRhY3QpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXE1pc3NpbmdDbGFzc0V4Y2VwdGlvbjsK</text>
+      <register name="8" type="4">
+        <text>if ($contact === null) {
+				
+			}</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">dXNlIElQdWJcUGVybWlzc2lvbnNcRW50aXRpZXNcSVJvbGU7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">cHJpdmF0ZSBmdW5jdGlvbiBmaW5kT2JqZWN0KENvbGxlY3Rpb24gJGNvbGxlY3Rpb24pCgl7CgkJJGZvdW5kID0gbnVsbDsKCQkKCQlmb3JlYWNoICgkY29sbGVjdGlvbiBhcyAkZW50aXR5KSB7CgkJCWlmICgkYWRkcmVzcy0+Z2V0QWRkcmVzc1R5cGUoKS0+Z2V0SWQoKSA9PT0gMSkgewoJCQkJJGFkZHJlc3MgPSAkX2FkZHJlc3M7CgkJCQlicmVhazsKCQkJfQoJCX0KCX0=</text>
       </register>
       <register name=":" type="4">
         <text>255</text>
