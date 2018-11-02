@@ -442,10 +442,10 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Console/Commands/ContractImportCommand.php" timestamp="1541166040608">
-        <mark key="[" line="62" column="16" />
-        <mark key="]" line="62" column="16" />
-        <mark key="." line="62" column="16" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Console/Commands/ContractImportCommand.php" timestamp="1541169201915">
+        <mark key="[" line="58" column="40" />
+        <mark key="]" line="51" column="12" />
+        <mark key="." line="51" column="12" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/TagForm/ITagFormFactory.php" timestamp="1538647400962">
         <mark key="[" line="24" column="4" />
@@ -1293,8 +1293,8 @@
       <file name="/home/www/html/nnb/patient-studies/src/Logger/Log.php" timestamp="1540283462036">
         <mark key="[" line="12" column="20" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/TContact.php" timestamp="1541165272456">
-        <mark key="[" line="22" column="44" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/TContact.php" timestamp="1541169357468">
+        <mark key="[" line="10" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/app/Components/GridFactory.php" timestamp="1538570681163">
         <mark key="[" line="11" column="27" />
@@ -1494,8 +1494,9 @@
       <jump line="320" column="29" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkkdGhpcy0+bm90ZXMgPSBuZXcgQXJyYXlDb2xsZWN0aW9uKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>print_r($data);
+			exit;</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -1506,13 +1507,17 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkkdGhpcy0+bm90ZXMgPSBuZXcgQXJyYXlDb2xsZWN0aW9uKCk7Cg==</text>
+      <register name="1" type="4">
+        <text>print_r($data);
+			exit;</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CQkkdGhpcy0+bm90ZXMgPSBuZXcgQXJyYXlDb2xsZWN0aW9uKCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CXVzZSBUTm90ZXM7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>,
  *      @ORM\AssociationOverride(name=&quot;notes&quot;,
  *          joinTable=@ORM\JoinTable(
@@ -1520,23 +1525,20 @@
  *          )
  *      )</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IEBPUk1cQXNzb2NpYXRpb25PdmVycmlkZShuYW1lPSJub3RlcyIsCiAqICAgICAgICAgIGpvaW5UYWJsZT1AT1JNXEpvaW5UYWJsZSgKICogICAgICAgICAgICAgIG5hbWU9Imludm9pY2luZ19pbnNwZWN0aW9uX25vdGVzIgogKiAgICAgICAgICApCiAqICAgICAgKQ==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">aWYgKCEkdGhpcy0+ZG9jdW1lbnQgaW5zdGFuY2VvZiBJTm90ZXMpIHsKCQkJdGhyb3cgbmV3IEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbihzcHJpbnRmKCdEb2N1bWVudCBtdXN0IGJlIGluc3RhbmNlIG9mICVzLCAlcyBnaXZlbi4nLAoJCQkJSU5vdGVzOjpjbGFzcywgXGdldHR5cGUoJHRoaXMtPmRvY3VtZW50KSkpOwoJCX0=</text>
-      </register>
       <register name="6" type="4">
-        <text encoding="base64">cHJvdGVjdGVkIGZ1bmN0aW9uIGdldE5vdGVzKCkKCXsKCQlpZiAoISR0aGlzLT5kb2N1bWVudCBpbnN0YW5jZW9mIElOb3RlcykgewoJCQl0aHJvdyBuZXcgSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uKHNwcmludGYoJ0RvY3VtZW50IG11c3QgYmUgaW5zdGFuY2Ugb2YgJXMsICVzIGdpdmVuLicsCgkJCQlJTm90ZXM6OmNsYXNzLCBcZ2V0dHlwZSgkdGhpcy0+ZG9jdW1lbnQpKSk7CgkJfQoJCQoJCXJldHVybiAkdGhpcy0+ZG9jdW1lbnQtPmdldE5vdGVzKCk7Cgl9</text>
+        <text encoding="base64">aWYgKCEkdGhpcy0+ZG9jdW1lbnQgaW5zdGFuY2VvZiBJTm90ZXMpIHsKCQkJdGhyb3cgbmV3IEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbihzcHJpbnRmKCdEb2N1bWVudCBtdXN0IGJlIGluc3RhbmNlIG9mICVzLCAlcyBnaXZlbi4nLAoJCQkJSU5vdGVzOjpjbGFzcywgXGdldHR5cGUoJHRoaXMtPmRvY3VtZW50KSkpOwoJCX0=</text>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">cHJvdGVjdGVkIGZ1bmN0aW9uIGdldE5vdGVzKCkKCXsKCQlpZiAoISR0aGlzLT5kb2N1bWVudCBpbnN0YW5jZW9mIElOb3RlcykgewoJCQl0aHJvdyBuZXcgSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uKHNwcmludGYoJ0RvY3VtZW50IG11c3QgYmUgaW5zdGFuY2Ugb2YgJXMsICVzIGdpdmVuLicsCgkJCQlJTm90ZXM6OmNsYXNzLCBcZ2V0dHlwZSgkdGhpcy0+ZG9jdW1lbnQpKSk7CgkJfQoJCQoJCXJldHVybiAkdGhpcy0+ZG9jdW1lbnQtPmdldE5vdGVzKCk7Cgl9</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">aWYgKCEkdGhpcy0+ZG9jdW1lbnQgaW5zdGFuY2VvZiBJTm90ZXMpIHsKCQkJdGhyb3cgbmV3IEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbihzcHJpbnRmKCdEb2N1bWVudCBtdXN0IGJlIGluc3RhbmNlIG9mICVzLCAlcyBnaXZlbi4nLAoJCQkJSU5vdGVzOjpjbGFzcywgXGdldHR5cGUoJHRoaXMtPmRvY3VtZW50KSkpOwoJCX0=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQlyZXR1cm4gJG5vdGVzOwo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IEBPUk1cQXNzb2NpYXRpb25PdmVycmlkZShuYW1lPSJub3RlcyIsCiAqICAgICAgICAgIGpvaW5UYWJsZT1AT1JNXEpvaW5UYWJsZSgKICogICAgICAgICAgICAgIG5hbWU9Imludm9pY2luZ19pbnRlcnZlbnRpb25fbm90ZXMiCiAqICAgICAgICAgICkKICogICAgICAp</text>
       </register>
       <register name=":" type="4">
         <text>255</text>
