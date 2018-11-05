@@ -94,6 +94,7 @@
       <file name="/home/www/html/dv/adera/src/User/Permission.php" timestamp="1541003329096">
         <mark key="[" line="22" column="20" />
       </file>
+      <file name="/home/www/html/dv/adera/app/config/extensions/components.neon" timestamp="1541419198898" />
       <file name="/home/www/html/bul/maternal-register/app/Model/UserManager.php" timestamp="1538727509549">
         <mark key="[" line="28" column="24" />
         <mark key="]" line="13" column="18" />
@@ -534,6 +535,9 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/app/src/Extensions/AppInstaller.php" timestamp="1541418326806">
+        <mark key="[" line="55" column="46" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Exceptions/FileNotFoundException.php" timestamp="1538652775727">
         <mark key="[" line="8" column="23" />
       </file>
@@ -915,6 +919,9 @@
         <mark key="]" line="66" column="4" />
         <mark key="." line="66" column="4" />
       </file>
+      <file name="/home/www/html/dv/adera/app/src/Events/EnumSubscriber.php" timestamp="1541417797733">
+        <mark key="[" line="56" column="33" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Folders/FolderFacade.php" timestamp="1539161757512">
         <mark key="[" line="198" column="17" />
         <mark key="]" line="190" column="4" />
@@ -1044,13 +1051,6 @@
       <file name="/home/www/html/dv/adera/src/User/Privilege.php" timestamp="1541003322447">
         <mark key="[" line="20" column="20" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Document/Components/BaseDocumentFormControl.php" timestamp="1541167424151">
-        <mark key="'" line="250" column="40" />
-        <mark key="[" line="226" column="8" />
-        <mark key="]" line="226" column="4" />
-        <mark key="." line="226" column="4" />
-        <mark key="^" line="226" column="4" />
-      </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Inquiry.php" timestamp="1540569569346">
         <mark key="[" line="22" column="89" />
         <mark key="]" line="33" column="0" />
@@ -1098,6 +1098,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="/home/www/html/nnb/reservations/app/config/config.neon" timestamp="1541419411450">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="/home/www/html/nnb/patient-studies/src/Log/Monolog/AccessLogger.php" timestamp="1540206724473">
         <mark key="[" line="15" column="17" />
       </file>
@@ -1137,6 +1142,9 @@
       </file>
       <file name="/home/www/html/nnb/patient-studies/src/File/AccessManagers/FileAccessManager.php" timestamp="1540299483677">
         <mark key="[" line="10" column="10" />
+      </file>
+      <file name="/home/www/html/dv/adera/app/src/Extensions/Registrar.php" timestamp="1541418822222">
+        <mark key="[" line="100" column="42" />
       </file>
       <file name="/home/www/html/nnb/patient-studies/app/Presenters/BasePresenter.php" timestamp="1540201032572">
         <mark key="[" line="67" column="34" />
@@ -1219,6 +1227,11 @@
       <file name="/home/www/html/nnb/patient-studies/src/Study/Components/StudyForm/StudyForm.latte" timestamp="1537965922581">
         <mark key="[" line="4" column="14" />
       </file>
+      <file name="/home/www/html/nnb/reservations/app/config/extensions/media.neon" timestamp="1541419134155">
+        <mark key="[" line="3" column="56" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Contact.php" timestamp="1540807869575">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -1240,19 +1253,10 @@
       <file name="/home/www/html/nnb/dms/src/Files/Components/FileForm/IFileFormFactory.php" timestamp="1539080875553">
         <mark key="[" line="22" column="4" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1541080781985">
-        <mark key="'" line="320" column="29" />
-        <mark key="[" line="498" column="15" />
-        <mark key="]" line="498" column="0" />
-        <mark key="." line="498" column="0" />
-        <mark key="^" line="497" column="4" />
-      </file>
-      <file name="/home/www/html/dv/adera/src/User/Manager.php" timestamp="1541063779732">
-        <mark key="'" line="67" column="62" />
-        <mark key="[" line="74" column="30" />
-        <mark key="]" line="74" column="30" />
-        <mark key="." line="74" column="30" />
-        <mark key="^" line="64" column="0" />
+      <file name="/home/www/html/nnb/reservations/app/config/extensions/components.neon" timestamp="1541419206407">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Validator/Constraints/UniqueDefaultValidator.php" timestamp="1539349672194">
         <mark key="[" line="51" column="44" />
@@ -1520,7 +1524,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXFV0aWxzXENhbGxiYWNrOwo=</text>
+        <text encoding="base64">CS0gZXh0ZW5zaW9ucy9tZWRpYS5uZW9uCg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -1532,39 +1536,38 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXFV0aWxzXENhbGxiYWNrOwo=</text>
+        <text encoding="base64">CS0gZXh0ZW5zaW9ucy9tZWRpYS5uZW9uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXFV0aWxzXENhbGxiYWNrOwo=</text>
+        <text encoding="base64">CWhybmNpcnIuZWxGaW5kZXI6IEhybmNpcnJcRWxGaW5kZXJcRElcRWxGaW5kZXJFeHRlbnNpb24K</text>
       </register>
       <register name="3" type="4">
+        <text>hrncirr.media.file:
+	accessManager: File\AccessManagers\FileAccessManager
+
+hrncirr.media.image:
+	accessManager: File\AccessManagers\ImageAccessManager</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXFV0aWxzXENhbGxiYWNrOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXFV0aWxzXENhbGxiYWNrOwo=</text>
+      </register>
+      <register name="6" type="4">
         <text>/**
 	 * @param string $date
 	 */</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">LyoKCQlWYWxpZGF0b3JzOjphc3NlcnRGaWVsZCgkY29uZmlnLCAndHJhbnNsYXRvckRvbWFpbicsICdzdHJpbmcnKTsKCQkqLwoJCQ==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>print_r($data);
 			exit;</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQkkdGhpcy0+bm90ZXMgPSBuZXcgQXJyYXlDb2xsZWN0aW9uKCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CXVzZSBUTm90ZXM7Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>,
- *      @ORM\AssociationOverride(name=&quot;notes&quot;,
- *          joinTable=@ORM\JoinTable(
- *              name=&quot;invoicing_inspection_notes&quot;
- *          )
- *      )</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IEBPUk1cQXNzb2NpYXRpb25PdmVycmlkZShuYW1lPSJub3RlcyIsCiAqICAgICAgICAgIGpvaW5UYWJsZT1AT1JNXEpvaW5UYWJsZSgKICogICAgICAgICAgICAgIG5hbWU9Imludm9pY2luZ19pbnNwZWN0aW9uX25vdGVzIgogKiAgICAgICAgICApCiAqICAgICAgKQ==</text>
       </register>
       <register name=":" type="4">
         <text>255</text>
