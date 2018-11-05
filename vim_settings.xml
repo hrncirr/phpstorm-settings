@@ -24,10 +24,10 @@
       <file name="/home/www/html/dv/adera/src/Navigation/Navigation.php" timestamp="1541003956131">
         <mark key="[" line="26" column="14" />
       </file>
-      <file name="/home/www/html/nnb/reservations/src/Reservation/Components/ReservationForm/ReservationForm.php" timestamp="1541424037161">
-        <mark key="[" line="37" column="22" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="/home/www/html/nnb/reservations/src/Reservation/Components/ReservationForm/ReservationForm.php" timestamp="1541428477930">
+        <mark key="[" line="63" column="4" />
+        <mark key="]" line="63" column="8" />
+        <mark key="." line="63" column="8" />
         <mark key="^" line="55" column="43" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Exceptions/StaticClassException.php" timestamp="1538652845168">
@@ -379,7 +379,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541416981237">
+      <file name="/Dummy.txt" timestamp="1541429342107">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -796,10 +796,12 @@
       <file name="/home/www/html/nnb/dms/src/Exceptions/IException.php" timestamp="1538652781462">
         <mark key="[" line="8" column="23" />
       </file>
-      <file name="/home/www/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" timestamp="1541416958226">
-        <mark key="[" line="347" column="35" />
-        <mark key="]" line="342" column="4" />
-        <mark key="." line="342" column="4" />
+      <file name="/home/www/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" timestamp="1541429336671">
+        <mark key="'" line="386" column="15" />
+        <mark key="[" line="248" column="14" />
+        <mark key="]" line="467" column="30" />
+        <mark key="." line="467" column="30" />
+        <mark key="^" line="467" column="30" />
       </file>
       <file name="/home/www/html/nnb/dms/src/MimeTypes/MimeTypes.php" timestamp="1539242886469">
         <mark key="[" line="5" column="23" />
@@ -1212,8 +1214,8 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="/home/www/html/nnb/reservations/src/Reservation/Presenters/DefaultPresenter.php" timestamp="1541424597649">
-        <mark key="[" line="57" column="25" />
+      <file name="/home/www/html/nnb/reservations/src/Reservation/Presenters/DefaultPresenter.php" timestamp="1541427251385">
+        <mark key="[" line="89" column="58" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
@@ -1522,27 +1524,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="53" filename="/home/www/html/nnb/patient-studies/src/Study/Components/StudyForm/StudyForm.php" />
-      <jump line="46" column="5" filename="/home/www/html/nnb/dms/src/Files/FileFacade.php" />
-      <jump line="532" column="33" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
-      <jump line="6" column="0" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/file.latte" />
-      <jump line="22" column="18" filename="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" />
-      <jump line="310" column="30" filename="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" />
-      <jump line="316" column="45" filename="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" />
-      <jump line="317" column="44" filename="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" />
-      <jump line="323" column="19" filename="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" />
-      <jump line="324" column="56" filename="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" />
-      <jump line="332" column="48" filename="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" />
-      <jump line="597" column="31" filename="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" />
-      <jump line="598" column="56" filename="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" />
-      <jump line="670" column="15" filename="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" />
-      <jump line="76" column="13" filename="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" />
-      <jump line="199" column="45" filename="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" />
-      <jump line="335" column="49" filename="/home/www/html/bul/medical-examinations/app/components/Calendar/Calendar.php" />
-      <jump line="110" column="13" filename="/home/www/html/nnb/dms/src/Files/File.php" />
-      <jump line="47" column="4" filename="/home/www/html/nnb/dms/src/Files/FileConversionFacade.php" />
-      <jump line="38" column="40" filename="/home/www/html/nnb/dms/src/Documents/Presenters/templates/Default/default.latte" />
-      <jump line="38" column="81" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
       <jump line="54" column="54" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
       <jump line="58" column="43" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
       <jump line="64" column="55" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
@@ -1622,55 +1603,95 @@
       <jump line="116" column="33" filename="/home/www/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
       <jump line="129" column="25" filename="/home/www/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
       <jump line="253" column="47" filename="/home/www/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
+      <jump line="292" column="21" filename="/home/www/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
+      <jump line="354" column="15" filename="/home/www/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
+      <jump line="375" column="15" filename="/home/www/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
+      <jump line="441" column="15" filename="/home/www/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
+      <jump line="574" column="44" filename="/home/www/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
+      <jump line="290" column="21" filename="/home/www/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
+      <jump line="352" column="15" filename="/home/www/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
+      <jump line="373" column="35" filename="/home/www/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
+      <jump line="439" column="15" filename="/home/www/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
+      <jump line="517" column="40" filename="/home/www/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
+      <jump line="295" column="21" filename="/home/www/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
+      <jump line="358" column="15" filename="/home/www/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
+      <jump line="379" column="15" filename="/home/www/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
+      <jump line="445" column="15" filename="/home/www/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
+      <jump line="270" column="15" filename="/home/www/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
+      <jump line="467" column="30" filename="/home/www/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
+      <jump line="452" column="15" filename="/home/www/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
+      <jump line="271" column="15" filename="/home/www/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
+      <jump line="297" column="21" filename="/home/www/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
+      <jump line="363" column="15" filename="/home/www/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
+      <jump line="386" column="15" filename="/home/www/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKHBheWxvYWQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>/**
+	 * @param        $eventSourceId
+	 * @param string $start
+	 * @param string $end
+	 *
+	 * @throws \Nette\Application\UI\InvalidLinkException
+	 */</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PGRpdiBzdHlsZT0icGFkZGluZzogMjBweCI+</text>
+        <text encoding="base64">JHRoaXMtPmdldFByZXNlbnRlcigpLT5zZW5kUGF5bG9hZCgpOw==</text>
       </register>
       <register name="/" type="4">
-        <text>processResponse</text>
+        <text>sendResponse</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKHBheWxvYWQpOwo=</text>
+      <register name="1" type="4">
+        <text>/**
+	 * @param        $eventSourceId
+	 * @param string $start
+	 * @param string $end
+	 *
+	 * @throws \Nette\Application\UI\InvalidLinkException
+	 */</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCTwvZGl2Pgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">aWYgKCRldmVudC0+Z2V0SWQoKSA9PT0gbnVsbCkgewoJCQkkZXZlbnQtPnNldFVzZXIoJHRoaXMtPmdldFByZXNlbnRlcigpLT5nZXRVc2VyKCktPmdldElkZW50aXR5KCkpOwoJCX0=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0icGFuZWwgcGFuZWwtZGVmYXVsdCI+CgkJCTxkaXYgY2xhc3M9InBhbmVsLWJvZHkiPgoJCQkJPGRpdiBzdHlsZT0icGFkZGluZzogMjBweCI+</text>
+        <text>/**
+	 * @param string $eventSourceId
+	 * @param mixed  $id
+	 */</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>/**
+	 * @param Response $response
+	 *
+	 * @throws \Nette\Application\AbortException
+	 */</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJLSAmaHJuY2lyci5lbEZpbmRlcgo=</text>
+        <text encoding="base64">CQlkdW1wKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJLSAmanF1ZXJ5LnVpCg==</text>
+        <text encoding="base64">CQkkdGhpcy0+Z2V0UHJlc2VudGVyKCktPnRlcm1pbmF0ZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJLSAmaHJuY2lyci5lbEZpbmRlcgo=</text>
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJLSAmanF1ZXJ5LnVpCg==</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKHBheWxvYWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>255</text>
       </register>
     </registers>
     <search>
-      <last-search>processResponse</last-search>
+      <last-search>sendResponse</last-search>
       <last-offset />
-      <last-pattern>processResponse</last-pattern>
+      <last-pattern>sendResponse</last-pattern>
       <last-replace>inspection</last-replace>
       <last-substitute>intervention</last-substitute>
       <last-dir>1</last-dir>
@@ -1678,7 +1699,6 @@
     </search>
     <history>
       <history-search>
-        <entry>inter</entry>
         <entry>Pdf</entry>
         <entry>setIn</entry>
         <entry>setInterventionPlace</entry>
@@ -1698,6 +1718,7 @@
         <entry>getColor</entry>
         <entry>fullCalendar</entry>
         <entry>processResponse</entry>
+        <entry>sendResponse</entry>
       </history-search>
       <history-cmd>
         <entry>4036</entry>
