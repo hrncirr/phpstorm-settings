@@ -8,15 +8,15 @@
         <mark key="]" line="23" column="3" />
         <mark key="." line="23" column="3" />
       </file>
-      <file name="/home/www/html/nnb/reservations/src/Reservation/Components/ReservationForm/IReservationFormFactory.php" timestamp="1541424389672">
-        <mark key="[" line="20" column="0" />
+      <file name="/home/www/html/nnb/reservations/src/Reservation/Components/ReservationForm/IReservationFormFactory.php" timestamp="1541512200034">
+        <mark key="[" line="11" column="33" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Invoice.php" timestamp="1541164159818">
         <mark key="[" line="27" column="11" />
         <mark key="]" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
-      <file name="/a.dummy" timestamp="1541421934173">
+      <file name="/a.dummy" timestamp="1541512338580">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -24,10 +24,10 @@
       <file name="/home/www/html/dv/adera/src/Navigation/Navigation.php" timestamp="1541003956131">
         <mark key="[" line="26" column="14" />
       </file>
-      <file name="/home/www/html/nnb/reservations/src/Reservation/Components/ReservationForm/ReservationForm.php" timestamp="1541510812980">
-        <mark key="[" line="98" column="14" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
+      <file name="/home/www/html/nnb/reservations/src/Reservation/Components/ReservationForm/ReservationForm.php" timestamp="1541515489059">
+        <mark key="[" line="131" column="12" />
+        <mark key="]" line="131" column="12" />
+        <mark key="." line="131" column="12" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Exceptions/StaticClassException.php" timestamp="1538652845168">
         <mark key="[" line="8" column="23" />
@@ -178,10 +178,10 @@
       <file name="/home/www/html/nnb/dms/src/Documents/Exceptions/DuplicateFileNameException.php" timestamp="1538651561010">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="/home/www/html/nnb/reservations/src/Reservation/DI/config.neon" timestamp="1541421499163">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="/home/www/html/nnb/reservations/src/Reservation/DI/config.neon" timestamp="1541512691200">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/app/Presenters/BasePresenter.php" timestamp="1539956824357">
         <mark key="[" line="1" column="23" />
@@ -242,7 +242,7 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Users/Components/UserForm/UserForm.php" timestamp="1539246693828">
+      <file name="/home/www/html/nnb/dms/src/Users/Components/UserForm/UserForm.php" timestamp="1541515831881">
         <mark key="[" line="1" column="23" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Folders/IFolderPermissions.php" timestamp="1539161400321">
@@ -374,12 +374,6 @@
         <mark key="[" line="149" column="0" />
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
-      </file>
-      <file name="/home/www/html/nnb/reservations/src/Reservation/Presenters/templates/Default/default.latte" timestamp="1541501602984">
-        <mark key="'" line="51" column="32" />
-        <mark key="[" line="22" column="37" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1541498126495">
         <mark key="[" line="0" column="0" />
@@ -614,8 +608,14 @@
       <file name="/home/www/html/nnb/dms/src/Exceptions/InvalidArgumentException.php" timestamp="1538652793039">
         <mark key="[" line="8" column="23" />
       </file>
+      <file name="/home/www/html/nnb/reservations/src/Reservation/Components/BedForm/ReservationForm.php" timestamp="1541512306932">
+        <mark key="[" line="11" column="33" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InquiriesGrid/InquiriesGrid.php" timestamp="1540975598415">
         <mark key="[" line="71" column="49" />
+      </file>
+      <file name="/home/www/html/nnb/reservations/app/Presenters/BasePresenter.php" timestamp="1541511816044">
+        <mark key="[" line="44" column="22" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Document/Address.php" timestamp="1540367639075">
         <mark key="[" line="23" column="0" />
@@ -851,6 +851,11 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
+      <file name="/home/www/html/nnb/reservations/src/Reservation/Components/BedForm/IBedFormFactory.php" timestamp="1541512430689">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="/home/www/html/nnb/patient-studies/app/Router/RouterFactory.php" timestamp="1540297583131">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -895,12 +900,6 @@
       </file>
       <file name="/home/www/html/nnb/dms/src/Install/DI/InstallExtension.php" timestamp="1539242628916">
         <mark key="[" line="5" column="23" />
-      </file>
-      <file name="/home/www/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" timestamp="1541498010186">
-        <mark key="'" line="138" column="15" />
-        <mark key="[" line="352" column="20" />
-        <mark key="]" line="352" column="20" />
-        <mark key="." line="352" column="20" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/conversions.latte" timestamp="1539163301656">
         <mark key="[" line="3" column="23" />
@@ -999,10 +998,10 @@
       <file name="/home/www/html/dv/adera/Modules/Invoicing/TDocumentContact.php" timestamp="1539262873286">
         <mark key="[" line="30" column="35" />
       </file>
-      <file name="/home/www/html/nnb/reservations/src/Reservation/Reservation.php" timestamp="1541510665011">
-        <mark key="[" line="56" column="30" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="/home/www/html/nnb/reservations/src/Reservation/Reservation.php" timestamp="1541516016933">
+        <mark key="[" line="23" column="25" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Folders/Components/FolderSortTypeForm/IFolderSortTypeFormFactory.php" timestamp="1539157020363">
         <mark key="[" line="8" column="23" />
@@ -1075,6 +1074,12 @@
       <file name="/home/www/html/dv/adera/app/locale/components.cs_CZ.neon" timestamp="1541073920232">
         <mark key="[" line="13" column="17" />
       </file>
+      <file name="/home/www/html/nnb/reservations/src/Reservation/Components/BedForm/BedForm.php" timestamp="1541512632991">
+        <mark key="[" line="91" column="41" />
+        <mark key="]" line="88" column="26" />
+        <mark key="." line="88" column="26" />
+        <mark key="^" line="88" column="26" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Tag.php" timestamp="1539255039619">
         <mark key="[" line="6" column="53" />
         <mark key="]" line="26" column="1" />
@@ -1139,8 +1144,10 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/html/nnb/reservations/src/Reservation/locale/reservation.cs_CZ.neon" timestamp="1541510843822">
-        <mark key="[" line="10" column="20" />
+      <file name="/home/www/html/nnb/reservations/src/Reservation/locale/reservation.cs_CZ.neon" timestamp="1541512972694">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/FormParts/InterventionFormPart/IInterventionProvider.php" timestamp="1540568953961">
         <mark key="[" line="13" column="30" />
@@ -1217,8 +1224,8 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="/home/www/html/nnb/reservations/src/Reservation/Presenters/DefaultPresenter.php" timestamp="1541501113399">
-        <mark key="[" line="104" column="58" />
+      <file name="/home/www/html/nnb/reservations/src/Reservation/Presenters/DefaultPresenter.php" timestamp="1541512721465">
+        <mark key="[" line="22" column="27" />
         <mark key="]" line="104" column="58" />
         <mark key="." line="104" column="58" />
       </file>
@@ -1403,6 +1410,9 @@
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/OffersGrid/OffersGrid.php" timestamp="1540380254317">
         <mark key="[" line="153" column="57" />
+      </file>
+      <file name="/home/www/html/nnb/reservations/src/Reservation/Components/BedForm/IReservationFormFactory.php" timestamp="1541512298074">
+        <mark key="[" line="11" column="33" />
       </file>
       <file name="/home/www/html/nnb/reservations/app/config/extensions/components.neon" timestamp="1541419206407">
         <mark key="[" line="1" column="0" />
@@ -1630,10 +1640,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJLy8tPnNldFByb21wdCgkdHJhbnNsYXRvci0+dHJhbnNsYXRlKCR0cmFuc2xhdG9yRG9tYWluIC4gJy5mb3JtT2ZQYXltZW50LnByb21wdCcpKQo=</text>
+        <text encoding="base64">CSAqIEFzc2VydFxOb3RCbGFuaygpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>daném termínu</text>
+        <text encoding="base64">ci5zdGFydERhdGUgPj0gOnN0YXJ0RGF0ZSBBTkQgci5lbmREYXRlID08IDplbmREYXRlKSA=</text>
       </register>
       <register name="/" type="4">
         <text>array</text>
@@ -1642,31 +1652,32 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJLy8tPnNldFByb21wdCgkdHJhbnNsYXRvci0+dHJhbnNsYXRlKCR0cmFuc2xhdG9yRG9tYWluIC4gJy5mb3JtT2ZQYXltZW50LnByb21wdCcpKQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">CSAqIEFzc2VydFxOb3RCbGFuaygpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CSAqIEBBc3NlcnRcTm90QmxhbmsoKQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">LyoqIEB2YXIgQmVkICRiZWQgKi8KCQkJJGJlZCA9ICR0aGlzLT5lbS0+ZmluZChCZWQ6OmNsYXNzLCAkZm9ybVsnYmVkJ10tPmdldFZhbHVlKCkpOwoJCQkvKiogQHZhciBcRGF0ZVRpbWVJbW11dGFibGUgJHN0YXJ0RGF0ZSAqLwoJCQkkc3RhcnREYXRlID0gJGZvcm1bJ3N0YXJ0RGF0ZSddLT5nZXRWYWx1ZSgpOwoJCQkvKiogQHZhciBcRGF0ZVRpbWVJbW11dGFibGUgJGVuZERhdGUgKi8KCQkJJGVuZERhdGUgPSAkZm9ybVsnZW5kRGF0ZSddLT5nZXRWYWx1ZSgpOw==</text>
+      </register>
+      <register name="3" type="4">
+        <text>dump($reservation);
+			exit;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAqIEBBc3NlcnRcTm90QmxhbmsoKQo=</text>
+        <text encoding="base64">CQkJCWR1bXAoJ2FhYWEnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAqIEBBc3NlcnRcTm90QmxhbmsoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAqIEBBc3NlcnRcTm90QmxhbmsoKQo=</text>
+        <text encoding="base64">YmVkCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJJGJlZCA9ICR0aGlzLT5lbS0+ZmluZChCZWQ6OmNsYXNzLCAkZm9ybVsnYmVkJ10tPmdldFZhbHVlKCkpOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">JHRyYW5zbGF0b3IgPSAkdGhpcy0+Z2V0VHJhbnNsYXRvcigpOwoJCSR0cmFuc2xhdG9yRG9tYWluID0gJ3Jlc2VydmF0aW9uLnJlc2VydmF0aW9uRm9ybSc7</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">JGZvcm0tPmFkZFNlbGVjdCgnYmVkJywgJHRyYW5zbGF0b3ItPnRyYW5zbGF0ZSgkdHJhbnNsYXRvckRvbWFpbiAuICcuYmVkLmxhYmVsJykpCgkJCS0+c2V0UHJvbXB0KCR0cmFuc2xhdG9yLT50cmFuc2xhdGUoJHRyYW5zbGF0b3JEb21haW4gLiAnLmJlZC5wcm9tcHQnKSkKCQkJLT5zZXRSZXF1aXJlZCh0cnVlKQoJCQktPnNldE9wdGlvbihJQ29tcG9uZW50TWFwcGVyOjpJVEVNU19USVRMRSwgJ3RpdGxlJykKCQkJLT5zZXRUcmFuc2xhdG9yKG51bGwpOwoJCQoJCSRmb3JtLT5hZGREYXRlVGltZVBpY2tlcignc3RhcnREYXRlJywgJHRyYW5zbGF0b3JEb21haW4gLiAnLnN0YXJ0RGF0ZS5sYWJlbCcpCgkJCS0+c2V0QXR0cmlidXRlKCdwbGFjZWhvbGRlcicsICR0cmFuc2xhdG9yRG9tYWluIC4gJy5zdGFydERhdGUucGxhY2Vob2xkZXInKQoJCQktPnNldFJlcXVpcmVkKHRydWUpOwoJCQoJCSRmb3JtLT5hZGREYXRlVGltZVBpY2tlcignZW5kRGF0ZScsICR0cmFuc2xhdG9yRG9tYWluIC4gJy5lbmREYXRlLmxhYmVsJykKCQkJLT5zZXRBdHRyaWJ1dGUoJ3BsYWNlaG9sZGVyJywgJHRyYW5zbGF0b3JEb21haW4gLiAnLmVuZERhdGUucGxhY2Vob2xkZXInKQoJCQktPnNldFJlcXVpcmVkKHRydWUpCgkJCS0+YWRkUnVsZShmdW5jdGlvbiAoJGNvbnRyb2wpIHsKCQkJCWlmICgkY29udHJvbC0+Z2V0Rm9ybSgpWydzdGFydERhdGUnXS0+Z2V0VmFsdWUoKSA8ICRjb250cm9sLT5nZXRWYWx1ZSgpKSB7CgkJCQkJcmV0dXJuIHRydWU7CgkJCQl9CgkJCX0sICdEYXR1bSBkbyBtdXPDrSBiw710IHbEm3TFocOtLCBuZcW+IGRhdHVtIG9kLicpOw==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJJGVuZERhdGUgPSAkZm9ybVsnZW5kRGF0ZSddLT5nZXRWYWx1ZSgpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ISR0aGlzLT5yZXNlcnZhdGlvbi0+Z2V0SWQoKSA/CgkJCSdyZXNlcnZhdGlvbi5uZXdSZXNlcnZhdGlvblRpdGxlJyA6ICdyZXNlcnZhdGlvbi5lZGl0UmVzZXJ2YXRpb25UaXRsZScpOw==</text>
       </register>
       <register name=":" type="4">
         <text>255</text>
