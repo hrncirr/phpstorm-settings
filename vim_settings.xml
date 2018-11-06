@@ -24,11 +24,11 @@
       <file name="/home/www/html/dv/adera/src/Navigation/Navigation.php" timestamp="1541003956131">
         <mark key="[" line="26" column="14" />
       </file>
-      <file name="/home/www/html/nnb/reservations/src/Reservation/Components/ReservationForm/ReservationForm.php" timestamp="1541493614928">
-        <mark key="[" line="23" column="0" />
+      <file name="/home/www/html/nnb/reservations/src/Reservation/Components/ReservationForm/ReservationForm.php" timestamp="1541501409862">
+        <mark key="[" line="95" column="92" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
-        <mark key="^" line="55" column="43" />
+        <mark key="^" line="56" column="43" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Exceptions/StaticClassException.php" timestamp="1538652845168">
         <mark key="[" line="8" column="23" />
@@ -229,7 +229,7 @@
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNoteForm/CreditNoteForm.php" timestamp="1540892505603">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNoteForm/CreditNoteForm.php" timestamp="1541501723610">
         <mark key="[" line="108" column="8" />
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
@@ -375,11 +375,11 @@
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
       </file>
-      <file name="/home/www/html/nnb/reservations/src/Reservation/Presenters/templates/Default/default.latte" timestamp="1541499722675">
+      <file name="/home/www/html/nnb/reservations/src/Reservation/Presenters/templates/Default/default.latte" timestamp="1541501602984">
         <mark key="'" line="51" column="32" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+        <mark key="[" line="22" column="37" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1541498126495">
         <mark key="[" line="0" column="0" />
@@ -1000,11 +1000,11 @@
       <file name="/home/www/html/dv/adera/Modules/Invoicing/TDocumentContact.php" timestamp="1539262873286">
         <mark key="[" line="30" column="35" />
       </file>
-      <file name="/home/www/html/nnb/reservations/src/Reservation/Reservation.php" timestamp="1541429473248">
-        <mark key="[" line="42" column="13" />
-        <mark key="]" line="42" column="14" />
-        <mark key="." line="42" column="14" />
-        <mark key="^" line="42" column="14" />
+      <file name="/home/www/html/nnb/reservations/src/Reservation/Reservation.php" timestamp="1541501533333">
+        <mark key="[" line="49" column="4" />
+        <mark key="]" line="49" column="4" />
+        <mark key="." line="49" column="4" />
+        <mark key="^" line="49" column="14" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Folders/Components/FolderSortTypeForm/IFolderSortTypeFormFactory.php" timestamp="1539157020363">
         <mark key="[" line="8" column="23" />
@@ -1141,8 +1141,8 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/html/nnb/reservations/src/Reservation/locale/reservation.cs_CZ.neon" timestamp="1541429770994">
-        <mark key="[" line="3" column="0" />
+      <file name="/home/www/html/nnb/reservations/src/Reservation/locale/reservation.cs_CZ.neon" timestamp="1541501385749">
+        <mark key="[" line="8" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/FormParts/InterventionFormPart/IInterventionProvider.php" timestamp="1540568953961">
         <mark key="[" line="13" column="30" />
@@ -1219,10 +1219,10 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="/home/www/html/nnb/reservations/src/Reservation/Presenters/DefaultPresenter.php" timestamp="1541499693779">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
+      <file name="/home/www/html/nnb/reservations/src/Reservation/Presenters/DefaultPresenter.php" timestamp="1541501113399">
+        <mark key="[" line="104" column="58" />
+        <mark key="]" line="104" column="58" />
+        <mark key="." line="104" column="58" />
       </file>
       <file name="/home/www/html/nnb/dms/src/MimeTypes/DI/MimeTypesExtension.php" timestamp="1539242779139">
         <mark key="[" line="5" column="23" />
@@ -1631,11 +1631,16 @@
       <jump line="100" column="44" filename="/home/www/lib/vendor/nette/application/src/Application/UI/ComponentReflection.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="&quot;" type="4">
+        <text>/**
+	 * @ORM\Column(type=&quot;string&quot;)
+	 * @Assert\NotBlank()
+	 * @var string
+	 */
+	private $title;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXJyYXlfY29tYmluZSgg</text>
+        <text>\Hrncirr\FullCalendar\Model\</text>
       </register>
       <register name="/" type="4">
         <text>array</text>
@@ -1643,32 +1648,42 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="1" type="4">
+        <text>/**
+	 * @ORM\Column(type=&quot;string&quot;)
+	 * @Assert\NotBlank()
+	 * @var string
+	 */
+	private $title;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzLT52aXNpYmxlQmVkcyk7Cg==</text>
+      <register name="2" type="4">
+        <text>/**
+	 * @ORM\ManyToOne(targetEntity=&quot;Bed&quot;, inversedBy=&quot;&quot;, cascade={&quot;persist&quot;})
+	 * @ORM\JoinColumn(name=&quot;bed_id&quot;, referencedColumnName=&quot;id&quot;)
+	 * @var Bed
+	 */
+	private $bed;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzLT52aXNpYmxlQmVkcyk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIHN0cmluZ3xudWxsCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRUaXRsZSgpOiA/c3RyaW5nCgl7CgkJcmV0dXJuICR0aGlzLT50aXRsZTsKCX0KCQoJCgkvKioKCSAqIEBwYXJhbSBzdHJpbmcgJHRpdGxlCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRUaXRsZShzdHJpbmcgJHRpdGxlKTogdm9pZAoJewoJCSR0aGlzLT50aXRsZSA9ICR0aXRsZTsKCX0=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coY2hlY2tlZERhdGEpOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIEJlZAoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0QmVkKCk6IEJlZAoJewoJCXJldHVybiAkdGhpcy0+YmVkOwoJfQoJCgkKCS8qKgoJICogQHBhcmFtIEJlZCAkYmVkCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRCZWQoQmVkICRiZWQpOiB2b2lkCgl7CgkJJHRoaXMtPmJlZCA9ICRiZWQ7Cgl9</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+        <text encoding="base64">CQkvL2R1bXAoJHRoaXMtPnZpc2libGVCZWRzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzLT52aXNpYmxlQmVkcyk7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJJGJlZHMgPSAkdGhpcy0+Z2V0QmVkcygpOwo=</text>
+        <text encoding="base64">CQlkdW1wKCR0aGlzLT52aXNpYmxlQmVkcyk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Zm9yZWFjaCAoJGJlZHMgYXMgJGJlZCkgewoJCQkJJGlkc1tdID0gJGJlZC0+Z2V0SWQoKTsKCQkJfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJdmFyIGRhdGEgPSB1bmRlZmluZWQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>255</text>
