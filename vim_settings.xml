@@ -998,10 +998,10 @@
       <file name="/home/www/html/dv/adera/Modules/Invoicing/TDocumentContact.php" timestamp="1539262873286">
         <mark key="[" line="30" column="35" />
       </file>
-      <file name="/home/www/html/nnb/reservations/src/Reservation/Reservation.php" timestamp="1541516016933">
-        <mark key="[" line="23" column="25" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="/home/www/html/nnb/reservations/src/Reservation/Reservation.php" timestamp="1541516187612">
+        <mark key="[" line="84" column="4" />
+        <mark key="]" line="84" column="4" />
+        <mark key="." line="84" column="4" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Folders/Components/FolderSortTypeForm/IFolderSortTypeFormFactory.php" timestamp="1539157020363">
         <mark key="[" line="8" column="23" />
@@ -1639,8 +1639,8 @@
       <jump line="100" column="44" filename="/home/www/lib/vendor/nette/application/src/Application/UI/ComponentReflection.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSAqIEFzc2VydFxOb3RCbGFuaygpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIHN0cmluZ3xudWxsCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRUaXRsZSgpOiA/c3RyaW5nCgl7CgkJcmV0dXJuICR0aGlzLT50aXRsZTsKCX0=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ci5zdGFydERhdGUgPj0gOnN0YXJ0RGF0ZSBBTkQgci5lbmREYXRlID08IDplbmREYXRlKSA=</text>
@@ -1651,33 +1651,37 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CSAqIEFzc2VydFxOb3RCbGFuaygpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIHN0cmluZ3xudWxsCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRUaXRsZSgpOiA/c3RyaW5nCgl7CgkJcmV0dXJuICR0aGlzLT50aXRsZTsKCX0=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">LyoqIEB2YXIgQmVkICRiZWQgKi8KCQkJJGJlZCA9ICR0aGlzLT5lbS0+ZmluZChCZWQ6OmNsYXNzLCAkZm9ybVsnYmVkJ10tPmdldFZhbHVlKCkpOwoJCQkvKiogQHZhciBcRGF0ZVRpbWVJbW11dGFibGUgJHN0YXJ0RGF0ZSAqLwoJCQkkc3RhcnREYXRlID0gJGZvcm1bJ3N0YXJ0RGF0ZSddLT5nZXRWYWx1ZSgpOwoJCQkvKiogQHZhciBcRGF0ZVRpbWVJbW11dGFibGUgJGVuZERhdGUgKi8KCQkJJGVuZERhdGUgPSAkZm9ybVsnZW5kRGF0ZSddLT5nZXRWYWx1ZSgpOw==</text>
+        <text encoding="base64">CS8qKgoJICogQHBhcmFtIHN0cmluZyAkdGl0bGUKCSAqLwoJcHVibGljIGZ1bmN0aW9uIHNldFRpdGxlKHN0cmluZyAkdGl0bGUpOiB2b2lkCgl7CgkJJHRoaXMtPnRpdGxlID0gJHRpdGxlOwoJfQ==</text>
       </register>
       <register name="3" type="4">
+        <text>/**
+	 * @ORM\Column(type=&quot;string&quot;)
+	 * @var string
+	 */
+	private $title;</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CSAqIEFzc2VydFxOb3RCbGFuaygpCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">LyoqIEB2YXIgQmVkICRiZWQgKi8KCQkJJGJlZCA9ICR0aGlzLT5lbS0+ZmluZChCZWQ6OmNsYXNzLCAkZm9ybVsnYmVkJ10tPmdldFZhbHVlKCkpOwoJCQkvKiogQHZhciBcRGF0ZVRpbWVJbW11dGFibGUgJHN0YXJ0RGF0ZSAqLwoJCQkkc3RhcnREYXRlID0gJGZvcm1bJ3N0YXJ0RGF0ZSddLT5nZXRWYWx1ZSgpOwoJCQkvKiogQHZhciBcRGF0ZVRpbWVJbW11dGFibGUgJGVuZERhdGUgKi8KCQkJJGVuZERhdGUgPSAkZm9ybVsnZW5kRGF0ZSddLT5nZXRWYWx1ZSgpOw==</text>
+      </register>
+      <register name="6" type="4">
         <text>dump($reservation);
 			exit;</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCWR1bXAoJ2FhYWEnKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">YmVkCg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">JHRyYW5zbGF0b3IgPSAkdGhpcy0+Z2V0VHJhbnNsYXRvcigpOwoJCSR0cmFuc2xhdG9yRG9tYWluID0gJ3Jlc2VydmF0aW9uLnJlc2VydmF0aW9uRm9ybSc7</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">JGZvcm0tPmFkZFNlbGVjdCgnYmVkJywgJHRyYW5zbGF0b3ItPnRyYW5zbGF0ZSgkdHJhbnNsYXRvckRvbWFpbiAuICcuYmVkLmxhYmVsJykpCgkJCS0+c2V0UHJvbXB0KCR0cmFuc2xhdG9yLT50cmFuc2xhdGUoJHRyYW5zbGF0b3JEb21haW4gLiAnLmJlZC5wcm9tcHQnKSkKCQkJLT5zZXRSZXF1aXJlZCh0cnVlKQoJCQktPnNldE9wdGlvbihJQ29tcG9uZW50TWFwcGVyOjpJVEVNU19USVRMRSwgJ3RpdGxlJykKCQkJLT5zZXRUcmFuc2xhdG9yKG51bGwpOwoJCQoJCSRmb3JtLT5hZGREYXRlVGltZVBpY2tlcignc3RhcnREYXRlJywgJHRyYW5zbGF0b3JEb21haW4gLiAnLnN0YXJ0RGF0ZS5sYWJlbCcpCgkJCS0+c2V0QXR0cmlidXRlKCdwbGFjZWhvbGRlcicsICR0cmFuc2xhdG9yRG9tYWluIC4gJy5zdGFydERhdGUucGxhY2Vob2xkZXInKQoJCQktPnNldFJlcXVpcmVkKHRydWUpOwoJCQoJCSRmb3JtLT5hZGREYXRlVGltZVBpY2tlcignZW5kRGF0ZScsICR0cmFuc2xhdG9yRG9tYWluIC4gJy5lbmREYXRlLmxhYmVsJykKCQkJLT5zZXRBdHRyaWJ1dGUoJ3BsYWNlaG9sZGVyJywgJHRyYW5zbGF0b3JEb21haW4gLiAnLmVuZERhdGUucGxhY2Vob2xkZXInKQoJCQktPnNldFJlcXVpcmVkKHRydWUpCgkJCS0+YWRkUnVsZShmdW5jdGlvbiAoJGNvbnRyb2wpIHsKCQkJCWlmICgkY29udHJvbC0+Z2V0Rm9ybSgpWydzdGFydERhdGUnXS0+Z2V0VmFsdWUoKSA8ICRjb250cm9sLT5nZXRWYWx1ZSgpKSB7CgkJCQkJcmV0dXJuIHRydWU7CgkJCQl9CgkJCX0sICdEYXR1bSBkbyBtdXPDrSBiw710IHbEm3TFocOtLCBuZcW+IGRhdHVtIG9kLicpOw==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ISR0aGlzLT5yZXNlcnZhdGlvbi0+Z2V0SWQoKSA/CgkJCSdyZXNlcnZhdGlvbi5uZXdSZXNlcnZhdGlvblRpdGxlJyA6ICdyZXNlcnZhdGlvbi5lZGl0UmVzZXJ2YXRpb25UaXRsZScpOw==</text>
       </register>
       <register name=":" type="4">
         <text>255</text>
