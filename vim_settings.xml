@@ -186,7 +186,6 @@
         <mark key="]" line="71" column="4" />
         <mark key="." line="71" column="4" />
       </file>
-      <file name="/home/www/html/nnb/reservations/src/User/DI/UserExtension.php" timestamp="1541419511189" />
       <file name="/home/www/html/dv/adera/src/User/Events/UserListener.php" timestamp="1541063700282">
         <mark key="[" line="42" column="42" />
       </file>
@@ -327,7 +326,7 @@
       <file name="/home/www/html/dv/adera/src/User/AdminModule/Presenters/UserPresenter.php" timestamp="1541070565818">
         <mark key="[" line="13" column="47" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/extensions/header.neon" timestamp="1541426245168" />
+      <file name="/home/www/html/dv/adera/app/config/extensions/header.neon" timestamp="1541492532739" />
       <file name="/home/www/lib/vendor/hrncirr/forms-typeahead/src/Controls/TypeaheadInput.php" timestamp="1540985937105">
         <mark key="[" line="315" column="0" />
         <mark key="]" line="315" column="0" />
@@ -373,11 +372,12 @@
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
       </file>
-      <file name="/home/www/html/nnb/reservations/src/Reservation/Presenters/templates/Default/default.latte" timestamp="1541426611199">
-        <mark key="'" line="52" column="32" />
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="/home/www/html/nnb/reservations/src/Reservation/Presenters/templates/Default/default.latte" timestamp="1541492368844">
+        <mark key="'" line="51" column="32" />
+        <mark key="[" line="71" column="27" />
+        <mark key="]" line="27" column="96" />
+        <mark key="." line="27" column="96" />
+        <mark key="^" line="27" column="96" />
       </file>
       <file name="/Dummy.txt" timestamp="1541429342107">
         <mark key="[" line="0" column="0" />
@@ -725,10 +725,10 @@
       <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentFolderSelectorControl/DocumentFolderSelectorControl.php" timestamp="1539779610986">
         <mark key="[" line="83" column="75" />
       </file>
-      <file name="/home/www/html/nnb/reservations/app/config/client-side.neon" timestamp="1541426302261">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="/home/www/html/nnb/reservations/app/config/client-side.neon" timestamp="1541492638192">
+        <mark key="[" line="54" column="27" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractForm/ContractForm.php" timestamp="1541167032708">
         <mark key="[" line="58" column="0" />
@@ -787,7 +787,6 @@
       <file name="/home/www/html/dv/adera/src/User/Permission.php" timestamp="1541003329096">
         <mark key="[" line="22" column="20" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/extensions/components.neon" timestamp="1541421359675" />
       <file name="/home/www/html/bul/maternal-register/app/Model/UserManager.php" timestamp="1538727509549">
         <mark key="[" line="28" column="24" />
         <mark key="]" line="13" column="18" />
@@ -1218,8 +1217,8 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="/home/www/html/nnb/reservations/src/Reservation/Presenters/DefaultPresenter.php" timestamp="1541430131932">
-        <mark key="[" line="95" column="12" />
+      <file name="/home/www/html/nnb/reservations/src/Reservation/Presenters/DefaultPresenter.php" timestamp="1541492232184">
+        <mark key="[" line="61" column="26" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
@@ -1630,8 +1629,8 @@
       <jump line="386" column="15" filename="/home/www/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>calendar</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJLSAmaWNoZWNrCg==</text>
       </register>
       <register name="-" type="4">
         <text>calendar</text>
@@ -1642,7 +1641,16 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQkJLSAmaWNoZWNrCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Kn0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">eyoK</text>
+      </register>
+      <register name="4" type="4">
         <text>/**
 	 * @param        $eventSourceId
 	 * @param string $start
@@ -1651,36 +1659,27 @@
 	 * @throws \Nette\Application\UI\InvalidLinkException
 	 */</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text encoding="base64">aWYgKCRldmVudC0+Z2V0SWQoKSA9PT0gbnVsbCkgewoJCQkkZXZlbnQtPnNldFVzZXIoJHRoaXMtPmdldFByZXNlbnRlcigpLT5nZXRVc2VyKCktPmdldElkZW50aXR5KCkpOwoJCX0=</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>/**
 	 * @param string $eventSourceId
 	 * @param mixed  $id
 	 */</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>/**
 	 * @param Response $response
 	 *
 	 * @throws \Nette\Application\AbortException
 	 */</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQlkdW1wKCk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkkdGhpcy0+Z2V0UHJlc2VudGVyKCktPnRlcm1pbmF0ZSgpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKHBheWxvYWQpOwo=</text>
+        <text encoding="base64">CQkkdGhpcy0+Z2V0UHJlc2VudGVyKCktPnRlcm1pbmF0ZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>255</text>
