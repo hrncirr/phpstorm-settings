@@ -24,10 +24,11 @@
       <file name="/home/www/html/dv/adera/src/Navigation/Navigation.php" timestamp="1541003956131">
         <mark key="[" line="26" column="14" />
       </file>
-      <file name="/home/www/html/nnb/reservations/src/Reservation/Components/ReservationForm/ReservationForm.php" timestamp="1541515489059">
-        <mark key="[" line="131" column="12" />
-        <mark key="]" line="131" column="12" />
-        <mark key="." line="131" column="12" />
+      <file name="/home/www/html/nnb/reservations/src/Reservation/Components/ReservationForm/ReservationForm.php" timestamp="1541517582113">
+        <mark key="[" line="169" column="30" />
+        <mark key="]" line="169" column="28" />
+        <mark key="." line="169" column="28" />
+        <mark key="^" line="169" column="28" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Exceptions/StaticClassException.php" timestamp="1538652845168">
         <mark key="[" line="8" column="23" />
@@ -120,6 +121,9 @@
         <mark key="]" line="218" column="0" />
         <mark key="." line="218" column="0" />
       </file>
+      <file name="/home/www/lib/vendor/nette/application/src/Application/UI/ComponentReflection.php" timestamp="1541498283974">
+        <mark key="'" line="100" column="44" />
+      </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaEvents.php" timestamp="1540213718301">
         <mark key="[" line="17" column="58" />
       </file>
@@ -157,7 +161,7 @@
         <mark key="]" line="96" column="4" />
         <mark key="." line="96" column="4" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Users/Components/UsersGrid/UsersGrid.php" timestamp="1540993973407">
+      <file name="/home/www/html/nnb/dms/src/Users/Components/UsersGrid/UsersGrid.php" timestamp="1541516906622">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
@@ -305,6 +309,9 @@
         <mark key="[" line="56" column="32" />
         <mark key="]" line="47" column="4" />
         <mark key="." line="47" column="4" />
+      </file>
+      <file name="/home/www/html/nnb/reservations/app/config/extensions/doctrine.neon" timestamp="1541517830516">
+        <mark key="[" line="22" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Search/FileSerializer.php" timestamp="1539244455569">
         <mark key="[" line="8" column="23" />
@@ -614,8 +621,8 @@
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InquiriesGrid/InquiriesGrid.php" timestamp="1540975598415">
         <mark key="[" line="71" column="49" />
       </file>
-      <file name="/home/www/html/nnb/reservations/app/Presenters/BasePresenter.php" timestamp="1541511816044">
-        <mark key="[" line="44" column="22" />
+      <file name="/home/www/html/nnb/reservations/app/Presenters/BasePresenter.php" timestamp="1541517626568">
+        <mark key="[" line="37" column="4" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Document/Address.php" timestamp="1540367639075">
         <mark key="[" line="23" column="0" />
@@ -998,7 +1005,7 @@
       <file name="/home/www/html/dv/adera/Modules/Invoicing/TDocumentContact.php" timestamp="1539262873286">
         <mark key="[" line="30" column="35" />
       </file>
-      <file name="/home/www/html/nnb/reservations/src/Reservation/Reservation.php" timestamp="1541516187612">
+      <file name="/home/www/html/nnb/reservations/src/Reservation/Reservation.php" timestamp="1541516259680">
         <mark key="[" line="84" column="4" />
         <mark key="]" line="84" column="4" />
         <mark key="." line="84" column="4" />
@@ -1144,8 +1151,8 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/html/nnb/reservations/src/Reservation/locale/reservation.cs_CZ.neon" timestamp="1541512972694">
-        <mark key="[" line="5" column="15" />
+      <file name="/home/www/html/nnb/reservations/src/Reservation/locale/reservation.cs_CZ.neon" timestamp="1541517911150">
+        <mark key="[" line="5" column="38" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
@@ -1224,10 +1231,10 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="/home/www/html/nnb/reservations/src/Reservation/Presenters/DefaultPresenter.php" timestamp="1541512721465">
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="104" column="58" />
-        <mark key="." line="104" column="58" />
+      <file name="/home/www/html/nnb/reservations/src/Reservation/Presenters/DefaultPresenter.php" timestamp="1541517422649">
+        <mark key="[" line="117" column="66" />
+        <mark key="]" line="117" column="66" />
+        <mark key="." line="117" column="66" />
       </file>
       <file name="/home/www/html/nnb/dms/src/MimeTypes/DI/MimeTypesExtension.php" timestamp="1539242779139">
         <mark key="[" line="5" column="23" />
@@ -1463,6 +1470,9 @@
         <mark key="]" line="153" column="0" />
         <mark key="." line="153" column="0" />
       </file>
+      <file name="/home/www/lib/vendor/hrncirr/fullcalendar/src/DataSources/DoctrineDataSource.php" timestamp="1541516652378">
+        <mark key="'" line="210" column="57" />
+      </file>
       <file name="/home/www/html/nnb/dms/app/Components/GridFactory.php" timestamp="1538570681163">
         <mark key="[" line="11" column="27" />
       </file>
@@ -1537,8 +1547,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="34" filename="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" />
-      <jump line="2" column="8" filename="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" />
       <jump line="6" column="67" filename="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" />
       <jump line="89" column="59" filename="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" />
       <jump line="90" column="34" filename="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" />
@@ -1637,60 +1645,76 @@
       <jump line="26" column="38" filename="/home/www/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
       <jump line="138" column="15" filename="/home/www/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
       <jump line="100" column="44" filename="/home/www/lib/vendor/nette/application/src/Application/UI/ComponentReflection.php" />
+      <jump line="114" column="60" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/DataSources/DoctrineDataSource.php" />
+      <jump line="210" column="57" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/DataSources/DoctrineDataSource.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIHN0cmluZ3xudWxsCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRUaXRsZSgpOiA/c3RyaW5nCgl7CgkJcmV0dXJuICR0aGlzLT50aXRsZTsKCX0=</text>
+        <text>hrncirr.doctrineEntityAudit:
+	globalIgnoreProperties:
+		- createdAt
+		- updatedAt
+		- deletedAt</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ci5zdGFydERhdGUgPj0gOnN0YXJ0RGF0ZSBBTkQgci5lbmREYXRlID08IDplbmREYXRlKSA=</text>
+        <text>?? '?'</text>
       </register>
       <register name="/" type="4">
-        <text>array</text>
+        <text>title</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIHN0cmluZ3xudWxsCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRUaXRsZSgpOiA/c3RyaW5nCgl7CgkJcmV0dXJuICR0aGlzLT50aXRsZTsKCX0=</text>
+        <text>hrncirr.doctrineEntityAudit:
+	globalIgnoreProperties:
+		- createdAt
+		- updatedAt
+		- deletedAt</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CS8qKgoJICogQHBhcmFtIHN0cmluZyAkdGl0bGUKCSAqLwoJcHVibGljIGZ1bmN0aW9uIHNldFRpdGxlKHN0cmluZyAkdGl0bGUpOiB2b2lkCgl7CgkJJHRoaXMtPnRpdGxlID0gJHRpdGxlOwoJfQ==</text>
-      </register>
-      <register name="3" type="4">
-        <text>/**
-	 * @ORM\Column(type=&quot;string&quot;)
-	 * @var string
-	 */
-	private $title;</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CSAqIEFzc2VydFxOb3RCbGFuaygpCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">LyoqIEB2YXIgQmVkICRiZWQgKi8KCQkJJGJlZCA9ICR0aGlzLT5lbS0+ZmluZChCZWQ6OmNsYXNzLCAkZm9ybVsnYmVkJ10tPmdldFZhbHVlKCkpOwoJCQkvKiogQHZhciBcRGF0ZVRpbWVJbW11dGFibGUgJHN0YXJ0RGF0ZSAqLwoJCQkkc3RhcnREYXRlID0gJGZvcm1bJ3N0YXJ0RGF0ZSddLT5nZXRWYWx1ZSgpOwoJCQkvKiogQHZhciBcRGF0ZVRpbWVJbW11dGFibGUgJGVuZERhdGUgKi8KCQkJJGVuZERhdGUgPSAkZm9ybVsnZW5kRGF0ZSddLT5nZXRWYWx1ZSgpOw==</text>
-      </register>
-      <register name="6" type="4">
-        <text>dump($reservation);
-			exit;</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJ2FhYWEnKTsK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">YmVkCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">CWhybmNpcnIuZG9jdHJpbmVFbnRpdHlBdWRpdDogSHJuY2lyclxEb2N0cmluZUVudGl0eUF1ZGl0XERJXERvY3RyaW5lRW50aXR5QXVkaXRFeHRlbnNpb24K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CW5ldHRyaW5lLmV4dGVuc2lvbnM6IE5ldHRyaW5lXEV4dGVuc2lvbnNcRElcRG9jdHJpbmVFeHRlbnNpb25zRXh0ZW5zaW9uCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>nettrine.extensions:
+	annotations:
+		blameable: off
+		ipTraceable: off
+		loggable: off
+		sluggable: off
+		softDeleteable: on
+		sortable: on
+		timestampable: on
+		translatable: off
+		treeable: on
+		uploadable: off</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCXJldHVybiAkZW1wbG95ZWUtPmdldEZ1bGxOYW1lKCkgLiAnPGJyIC8+JyAuICRlbXBsb3llZS0+Z2V0RGVwYXJ0bWVudE5hbWUoKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCSRyZXNlcnZhdGlvbi0+Z2V0UGVyc29uYWxOdW1iZXIoKTsK</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">LyoqCgkJJGZvcm0tPmFkZFRleHQoJ3RpdGxlJywgJHRyYW5zbGF0b3JEb21haW4gLiAnLnRpdGxlLmxhYmVsJykKCQkJLT5zZXRSZXF1aXJlZCh0cnVlKTsKCQkqKi8=</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIGludAoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0T3NjKCk6IGludAoJewoJCXJldHVybiAkdGhpcy0+b3NjOwoJfQoJCgkKCS8qKgoJICogQHBhcmFtIGludCAkb3NjCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRPc2MoaW50ICRvc2MpOiB2b2lkCgl7CgkJJHRoaXMtPm9zYyA9ICRvc2M7Cgl9</text>
       </register>
       <register name=":" type="4">
         <text>255</text>
       </register>
     </registers>
     <search>
-      <last-search>array</last-search>
+      <last-search>title</last-search>
       <last-offset />
-      <last-pattern>array</last-pattern>
+      <last-pattern>title</last-pattern>
       <last-replace>inspection</last-replace>
       <last-substitute>intervention</last-substitute>
       <last-dir>1</last-dir>
@@ -1698,7 +1722,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onCancle</entry>
         <entry>onCancel</entry>
         <entry>disab</entry>
         <entry>disabl</entry>
@@ -1718,6 +1741,7 @@
         <entry>updateEventSources</entry>
         <entry>prepareEventSource</entry>
         <entry>array</entry>
+        <entry>title</entry>
       </history-search>
       <history-cmd>
         <entry>4036</entry>
