@@ -118,6 +118,9 @@
         <mark key="]" line="218" column="0" />
         <mark key="." line="218" column="0" />
       </file>
+      <file name="/home/www/lib/vendor/nette/application/src/Application/UI/ComponentReflection.php" timestamp="1541498283974">
+        <mark key="'" line="100" column="44" />
+      </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaEvents.php" timestamp="1540213718301">
         <mark key="[" line="17" column="58" />
       </file>
@@ -372,12 +375,11 @@
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
       </file>
-      <file name="/home/www/html/nnb/reservations/src/Reservation/Presenters/templates/Default/default.latte" timestamp="1541492368844">
+      <file name="/home/www/html/nnb/reservations/src/Reservation/Presenters/templates/Default/default.latte" timestamp="1541499722675">
         <mark key="'" line="51" column="32" />
-        <mark key="[" line="71" column="27" />
-        <mark key="]" line="27" column="96" />
-        <mark key="." line="27" column="96" />
-        <mark key="^" line="27" column="96" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1541498126495">
         <mark key="[" line="0" column="0" />
@@ -1217,10 +1219,10 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="/home/www/html/nnb/reservations/src/Reservation/Presenters/DefaultPresenter.php" timestamp="1541496200629">
-        <mark key="[" line="66" column="26" />
-        <mark key="]" line="66" column="26" />
-        <mark key="." line="66" column="26" />
+      <file name="/home/www/html/nnb/reservations/src/Reservation/Presenters/DefaultPresenter.php" timestamp="1541499693779">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/MimeTypes/DI/MimeTypesExtension.php" timestamp="1539242779139">
         <mark key="[" line="5" column="23" />
@@ -1527,7 +1529,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="8" filename="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" />
       <jump line="110" column="34" filename="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" />
       <jump line="2" column="8" filename="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" />
       <jump line="6" column="67" filename="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" />
@@ -1627,63 +1628,56 @@
       <jump line="123" column="30" filename="/home/www/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
       <jump line="26" column="38" filename="/home/www/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
       <jump line="138" column="15" filename="/home/www/vendor/hrncirr/fullcalendar/js/fullcalendar.init.js" />
+      <jump line="100" column="44" filename="/home/www/lib/vendor/nette/application/src/Application/UI/ComponentReflection.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>var factory = $('#' + elementId).fullCalendarFactory();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="-" type="4">
-        <text>var factory = $('#' + elementId).fullCalendarFactory();</text>
+        <text encoding="base64">YXJyYXlfY29tYmluZSgg</text>
       </register>
       <register name="/" type="4">
-        <text>prepareEventSource</text>
+        <text>array</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCQljb25zb2xlLmxvZyhleGlzdGluZ0V2ZW50U291cmNlcyk7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="2" type="4">
-        <text>case 'updateLinks':
-								factory.updateLinks(action.options);
-								break;</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQlkdW1wKCR0aGlzLT52aXNpYmxlQmVkcyk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>console.log(actions);
-
-					actions.sort(function (a, b) {
-						return a === 'updateLinks' ? -1 : 1;
-					});
-
-					console.log(actions);</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQlkdW1wKCR0aGlzLT52aXNpYmxlQmVkcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coYWN0aW9uKTsK</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coY2hlY2tlZERhdGEpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCQkJY29uc29sZS5sb2coZXZlbnRTb3VyY2VzW2lkXSk7Cg==</text>
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlkdW1wKCR0aGlzLT52aXNpYmxlQmVkcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKHRoaXMubGlua3NbJ2V2ZW50U291cmNlcyddKTsK</text>
+        <text encoding="base64">CQkJJGJlZHMgPSAkdGhpcy0+Z2V0QmVkcygpOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">Zm9yZWFjaCAoJGJlZHMgYXMgJGJlZCkgewoJCQkJJGlkc1tdID0gJGJlZC0+Z2V0SWQoKTsKCQkJfQ==</text>
       </register>
       <register name=":" type="4">
         <text>255</text>
       </register>
     </registers>
     <search>
-      <last-search>prepareEventSource</last-search>
+      <last-search>array</last-search>
       <last-offset />
-      <last-pattern>prepareEventSource</last-pattern>
+      <last-pattern>array</last-pattern>
       <last-replace>inspection</last-replace>
       <last-substitute>intervention</last-substitute>
       <last-dir>1</last-dir>
@@ -1691,7 +1685,6 @@
     </search>
     <history>
       <history-search>
-        <entry>intervention</entry>
         <entry>onCancle</entry>
         <entry>onCancel</entry>
         <entry>disab</entry>
@@ -1711,6 +1704,7 @@
         <entry>processResponse</entry>
         <entry>updateEventSources</entry>
         <entry>prepareEventSource</entry>
+        <entry>array</entry>
       </history-search>
       <history-cmd>
         <entry>4036</entry>
