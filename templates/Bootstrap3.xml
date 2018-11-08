@@ -1,0 +1,25 @@
+<templateSet group="Bootstrap3">
+  <template name="bs3-alert" value="&lt;div class=&quot;alert&quot;&gt;&#10;&#9;&lt;button type=&quot;button&quot; class=&quot;close&quot; data-dismiss=&quot;alert&quot; aria-hidden=&quot;true&quot;&gt;&amp;times;&lt;/button&gt;&#10;&#9;&lt;strong&gt;$var1$&lt;/strong&gt; $var2$&#10;&lt;/div&gt;$END$" description="Alert" toReformat="true" toShortenFQNames="false">
+    <variable name="var1" expression="&quot;Title!&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="var2" expression="&quot;Alert body ...&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="ECMAScript6" value="false" />
+      <option name="GSP" value="true" />
+      <option name="HAML" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="JSP" value="true" />
+      <option name="OTHER" value="true" />
+      <option name="PL/SQL" value="false" />
+      <option name="REQUEST" value="false" />
+      <option name="SQL" value="false" />
+      <option name="Twig" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="Vue" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+</templateSet>
