@@ -480,6 +480,11 @@
         <mark key="]" line="169" column="8" />
         <mark key="." line="169" column="8" />
       </file>
+      <file name="/home/www/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" timestamp="1541696693966">
+        <mark key="[" line="100" column="10" />
+        <mark key="]" line="100" column="10" />
+        <mark key="." line="100" column="10" />
+      </file>
       <file name="/home/www/html/dv/adera/src/Url/Domain.php" timestamp="1541003978520">
         <mark key="[" line="20" column="14" />
       </file>
@@ -679,6 +684,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="/home/www/adera/Modules/AddressBook/Components/FormParts/AddressFormPart/TAddressFormPart.php" timestamp="1541696855629">
+        <mark key="[" line="95" column="10" />
+        <mark key="]" line="95" column="10" />
+        <mark key="." line="95" column="10" />
+      </file>
       <file name="/home/www/html/nnb/patient-studies/src/Study/Components/StudyForm/StudyForm.php" timestamp="1539173857130">
         <mark key="[" line="176" column="10" />
       </file>
@@ -704,6 +714,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="/home/www/lib/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/Controls/ToOne.php" timestamp="1541695071346" />
       <file name="/home/www/vendor/hrncirr/media/src/Routers/ImageRouterFactory.php" timestamp="1538548297931">
         <mark key="[" line="22" column="4" />
       </file>
@@ -757,6 +768,11 @@
       </file>
       <file name="/home/www/html/nnb/reservations/app/config/config-local.neon" timestamp="1541423757236">
         <mark key="[" line="5" column="16" />
+      </file>
+      <file name="/home/www/lib/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/Controls/Embedded.php" timestamp="1541695634109">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/media/src/IImageCallback.php" timestamp="1538483357098">
         <mark key="[" line="17" column="14" />
@@ -1075,6 +1091,9 @@
         <mark key="]" line="82" column="4" />
         <mark key="." line="82" column="4" />
       </file>
+      <file name="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" timestamp="1541695264292">
+        <mark key="'" line="3341" column="25" />
+      </file>
       <file name="/home/www/vendor/hrncirr/media/src/IImageFormatProvider.php" timestamp="1538547759426">
         <mark key="[" line="15" column="4" />
       </file>
@@ -1341,6 +1360,12 @@
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InspectionForm/InspectionForm.latte" timestamp="1540974875060">
         <mark key="[" line="2" column="0" />
       </file>
+      <file name="/home/www/lib/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/EntityFormMapper.php" timestamp="1541692308402">
+        <mark key="[" line="54" column="15" />
+        <mark key="]" line="54" column="17" />
+        <mark key="." line="54" column="17" />
+        <mark key="^" line="54" column="17" />
+      </file>
       <file name="/home/www/vendor/hrncirr/media/src/DI/ImageExtension.php" timestamp="1540282382275">
         <mark key="[" line="51" column="55" />
       </file>
@@ -1370,6 +1395,9 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
+      </file>
+      <file name="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataFactory.php" timestamp="1541694754130">
+        <mark key="'" line="193" column="53" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Events/TagListener.php" timestamp="1539156319873">
         <mark key="[" line="86" column="47" />
@@ -1534,68 +1562,13 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="/home/www/adera/Modules/AddressBook/Components/FormParts/ContactFormPart/TContactFormPart.php" timestamp="1541696744417">
+        <mark key="[" line="102" column="10" />
+        <mark key="]" line="102" column="10" />
+        <mark key="." line="102" column="10" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="54" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
-      <jump line="58" column="43" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
-      <jump line="64" column="55" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
-      <jump line="66" column="62" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
-      <jump line="70" column="102" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
-      <jump line="80" column="71" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
-      <jump line="83" column="78" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
-      <jump line="90" column="53" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
-      <jump line="182" column="23" filename="/home/www/html/dv/adera/Modules/Document/Components/BaseDocumentFormControl.php" />
-      <jump line="96" column="20" filename="/home/www/html/nnb/dms/src/Documents/Components/InfoControl/InfoControl.latte" />
-      <jump line="320" column="4" filename="/home/www/html/nnb/dms/src/Files/File.php" />
-      <jump line="56" column="72" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentFilesGrid/DocumentFilesGrid.latte" />
-      <jump line="199" column="0" filename="/home/www/html/nnb/dms/src/Files/File.php" />
-      <jump line="213" column="24" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
-      <jump line="52" column="13" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
-      <jump line="84" column="8" filename="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" />
-      <jump line="110" column="34" filename="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" />
-      <jump line="2" column="8" filename="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" />
-      <jump line="6" column="67" filename="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" />
-      <jump line="89" column="59" filename="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" />
-      <jump line="90" column="34" filename="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" />
-      <jump line="92" column="36" filename="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" />
-      <jump line="51" column="42" filename="/home/www/html/nnb/dms/src/Users/UserContext.php" />
-      <jump line="35" column="43" filename="/home/www/html/nnb/dms/src/Folders/Presenters/templates/Default/default.latte" />
-      <jump line="45" column="39" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
-      <jump line="47" column="50" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
-      <jump line="48" column="39" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
-      <jump line="52" column="41" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
-      <jump line="54" column="13" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
-      <jump line="61" column="32" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
-      <jump line="78" column="13" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
-      <jump line="89" column="21" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
-      <jump line="90" column="40" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
-      <jump line="97" column="37" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
-      <jump line="98" column="31" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
-      <jump line="106" column="97" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
-      <jump line="111" column="25" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
-      <jump line="112" column="42" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
-      <jump line="123" column="26" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
-      <jump line="124" column="15" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
-      <jump line="126" column="19" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
-      <jump line="130" column="26" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" />
-      <jump line="64" column="46" filename="/home/www/html/dv/adera/Modules/AddressBook/Forms/Controls/SubjectNameInput.php" />
-      <jump line="79" column="61" filename="/home/www/html/dv/adera/Modules/AddressBook/Forms/Controls/SubjectNameInput.php" />
-      <jump line="80" column="59" filename="/home/www/html/dv/adera/Modules/AddressBook/Forms/Controls/SubjectNameInput.php" />
-      <jump line="81" column="62" filename="/home/www/html/dv/adera/Modules/AddressBook/Forms/Controls/SubjectNameInput.php" />
-      <jump line="89" column="44" filename="/home/www/html/dv/adera/Modules/AddressBook/Forms/Controls/SubjectNameInput.php" />
-      <jump line="549" column="42" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/MediaImporter.php" />
-      <jump line="121" column="36" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseBusinessCaseDocumentFormControl.php" />
-      <jump line="124" column="32" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseBusinessCaseDocumentFormControl.php" />
-      <jump line="126" column="23" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseBusinessCaseDocumentFormControl.php" />
-      <jump line="13" column="33" filename="/home/www/html/dv/adera/Modules/AddressBook/Forms/Controls/AddressInput.php" />
-      <jump line="299" column="51" filename="/home/www/html/dv/adera/libs/vendor/hrncirr/forms-typeahead/src/Controls/TypeaheadInput.php" />
-      <jump line="42" column="0" filename="/home/www/html/dv/adera/libs/vendor/nette/forms/src/Forms/Controls/BaseControl.php" />
-      <jump line="255" column="23" filename="/home/www/html/dv/adera/libs/vendor/nette/forms/src/Forms/Controls/BaseControl.php" />
-      <jump line="19" column="22" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/templates/InvoiceForm.latte" />
-      <jump line="31" column="45" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" />
-      <jump line="51" column="12" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" />
-      <jump line="326" column="30" filename="/home/www/html/dv/adera/Modules/Document/Components/BaseDocumentFormControl.php" />
-      <jump line="97" column="49" filename="/home/www/html/dv/adera/Modules/Document/Components/BaseDocumentFormControl.php" />
       <jump line="281" column="26" filename="/home/www/html/dv/adera/Modules/Document/Components/BaseDocumentFormControl.php" />
       <jump line="89" column="21" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNoteForm/templates/CreditNoteForm.latte" />
       <jump line="28" column="47" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InspectionsGrid/templates/InspectionsGrid.latte" />
@@ -1636,68 +1609,115 @@
       <jump line="297" column="21" filename="/home/www/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="363" column="15" filename="/home/www/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
       <jump line="386" column="15" filename="/home/www/vendor/hrncirr/fullcalendar/src/Components/FullCalendarControl/FullCalendarControl.php" />
+      <jump line="246" column="45" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="1301" column="4" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="1003" column="48" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="270" column="12" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="856" column="19" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="857" column="29" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="2258" column="20" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="632" column="6" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="224" column="6" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="3302" column="18" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="3305" column="33" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="3307" column="67" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="3309" column="18" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="3310" column="80" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="3325" column="25" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="266" column="65" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="449" column="31" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataFactory.php" />
+      <jump line="195" column="29" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataFactory.php" />
+      <jump line="470" column="61" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataFactory.php" />
+      <jump line="471" column="23" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataFactory.php" />
+      <jump line="475" column="57" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataFactory.php" />
+      <jump line="480" column="32" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataFactory.php" />
+      <jump line="481" column="39" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataFactory.php" />
+      <jump line="482" column="40" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataFactory.php" />
+      <jump line="483" column="47" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataFactory.php" />
+      <jump line="485" column="40" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataFactory.php" />
+      <jump line="70" column="13" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataFactory.php" />
+      <jump line="165" column="62" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataFactory.php" />
+      <jump line="167" column="27" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataFactory.php" />
+      <jump line="171" column="61" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataFactory.php" />
+      <jump line="175" column="59" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataFactory.php" />
+      <jump line="179" column="23" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataFactory.php" />
+      <jump line="181" column="61" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataFactory.php" />
+      <jump line="183" column="21" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataFactory.php" />
+      <jump line="184" column="53" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataFactory.php" />
+      <jump line="187" column="31" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataFactory.php" />
+      <jump line="190" column="62" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataFactory.php" />
+      <jump line="193" column="53" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataFactory.php" />
+      <jump line="1251" column="42" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="1590" column="70" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="1922" column="20" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="1933" column="20" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="1944" column="20" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="1955" column="20" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="2116" column="23" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="2231" column="20" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="2253" column="20" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="3312" column="54" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="291" column="12" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="817" column="13" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="929" column="24" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="934" column="31" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="937" column="27" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="1852" column="85" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="2260" column="28" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="3293" column="15" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="3317" column="31" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="3318" column="53" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="3319" column="29" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
+      <jump line="3341" column="25" filename="/home/www/lib/vendor/doctrine/orm/lib/Doctrine/ORM/Mapping/ClassMetadataInfo.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZWxzZSB7CgkJCSRhZGRyZXNzID0gJGFkZHJlc3NQcm92aWRlci0+Z2V0QWRkcmVzcygpOwoJCX0=</text>
       </register>
       <register name="-" type="4">
-        <text>calendar</text>
+        <text encoding="base64">JG1ldGEtPmhhc0Fzc29jaWF0aW9uKCRmaWVsZCkgfHwgJG1ldGEtPmlzU2luZ2xlVmFsdWVkQXNzb2NpYXRpb24oJGZpZWxkKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>sendResponse</text>
+        <text>embeddedClasses</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZWxzZSB7CgkJCSRhZGRyZXNzID0gJGFkZHJlc3NQcm92aWRlci0+Z2V0QWRkcmVzcygpOwoJCX0=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gVE9ETzogVnnFmWXFoWl0IHZhbGlkYWNpICRpbnRlcnZlbnRpb25QbGFjZQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ZWxzZSB7CgkJCSRjb250YWN0ID0gJGNvbnRhY3RQcm92aWRlci0+Z2V0Q29udGFjdCgpOwoJCX0=</text>
       </register>
       <register name="3" type="4">
-        <text>/**
-	 * @param        $eventSourceId
-	 * @param string $start
-	 * @param string $end
-	 *
-	 * @throws \Nette\Application\UI\InvalidLinkException
-	 */</text>
+        <text encoding="base64">ZWxzZSB7CgkJCSRzdWJqZWN0ID0gbnVsbDsgLy8kc3ViamVjdFByb3ZpZGVyLT5nZXRTdWJqZWN0KCk7CgkJfQ==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">aWYgKCRldmVudC0+Z2V0SWQoKSA9PT0gbnVsbCkgewoJCQkkZXZlbnQtPnNldFVzZXIoJHRoaXMtPmdldFByZXNlbnRlcigpLT5nZXRVc2VyKCktPmdldElkZW50aXR5KCkpOwoJCX0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJZHVtcCgnb2snKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>/**
-	 * @param string $eventSourceId
-	 * @param mixed  $id
-	 */</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCWR1bXAoJ29rJyk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>/**
-	 * @param Response $response
-	 *
-	 * @throws \Nette\Application\AbortException
-	 */</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlkdW1wKCk7Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gJHJlbGF0aW9uOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkkdGhpcy0+Z2V0UHJlc2VudGVyKCktPnRlcm1pbmF0ZSgpOwo=</text>
+        <text encoding="base64">CQkvLyB0b2RvOiBhbGxvdyBhY2Nlc3MgdXNpbmcgcHJvcGVydHkgb3IgbWV0aG9kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+        <text encoding="base64">CQlkdW1wKCRyZWxhdGlvbik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>255</text>
       </register>
     </registers>
     <search>
-      <last-search>sendResponse</last-search>
+      <last-search>embeddedClasses</last-search>
       <last-offset />
-      <last-pattern>sendResponse</last-pattern>
+      <last-pattern>embeddedClasses</last-pattern>
       <last-replace>inspection</last-replace>
       <last-substitute>intervention</last-substitute>
       <last-dir>1</last-dir>
@@ -1705,15 +1725,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Pdf</entry>
-        <entry>setIn</entry>
-        <entry>setInterventionPlace</entry>
-        <entry>InterventionPlace</entry>
-        <entry>creditNote</entry>
-        <entry>place</entry>
-        <entry>intervention</entry>
-        <entry>onCancle</entry>
-        <entry>onCancel</entry>
         <entry>disab</entry>
         <entry>disabl</entry>
         <entry>parents</entry>
@@ -1725,6 +1736,15 @@
         <entry>fullCalendar</entry>
         <entry>processResponse</entry>
         <entry>sendResponse</entry>
+        <entry>isEmde</entry>
+        <entry>isEmbe</entry>
+        <entry>isEmbedded</entry>
+        <entry>isField</entry>
+        <entry>hasField</entry>
+        <entry>embedable</entry>
+        <entry>embeddable</entry>
+        <entry>isInherit</entry>
+        <entry>embeddedClasses</entry>
       </history-search>
       <history-cmd>
         <entry>4036</entry>
