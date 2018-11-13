@@ -24,10 +24,10 @@
       <file name="/home/www/html/dv/adera/src/Navigation/Navigation.php" timestamp="1541003956131">
         <mark key="[" line="26" column="14" />
       </file>
-      <file name="/home/www/html/nnb/reservations/src/Reservation/Components/ReservationForm/ReservationForm.php" timestamp="1542115549358">
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
+      <file name="/home/www/html/nnb/reservations/src/Reservation/Components/ReservationForm/ReservationForm.php" timestamp="1542117472924">
+        <mark key="[" line="88" column="44" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Exceptions/StaticClassException.php" timestamp="1538652845168">
         <mark key="[" line="8" column="23" />
@@ -551,8 +551,8 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/home/www/html/nnb/reservations/app/Presenters/templates/@layout.latte" timestamp="1542108322189">
-        <mark key="[" line="56" column="17" />
+      <file name="/home/www/html/nnb/reservations/app/Presenters/templates/@layout.latte" timestamp="1542116546877">
+        <mark key="[" line="51" column="76" />
         <mark key="]" line="70" column="36" />
         <mark key="." line="70" column="36" />
       </file>
@@ -840,6 +840,11 @@
       <file name="/home/www/html/nnb/patient-studies/src/Log/Monolog/Handlers/MonologDBHandler.php" timestamp="1540207337250">
         <mark key="[" line="51" column="53" />
       </file>
+      <file name="/home/www/html/nnb/reservations/src/Reservation/Components/ReservationForm/ReservationForm.latte" timestamp="1542118318205">
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+      </file>
       <file name="/home/www/html/dv/adera/app/config/modules.neon" timestamp="1541064701274">
         <mark key="[" line="32" column="0" />
       </file>
@@ -935,8 +940,8 @@
       <file name="/home/www/html/nnb/dms/src/Files/Exceptions/FileUploadException.php" timestamp="1539081119947">
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/src/User/AdminModule/Components/UserForm/UserForm.php" timestamp="1541071768281">
-        <mark key="[" line="100" column="59" />
+      <file name="/home/www/html/dv/adera/src/User/AdminModule/Components/UserForm/UserForm.php" timestamp="1542117379430">
+        <mark key="[" line="88" column="36" />
         <mark key="]" line="183" column="0" />
         <mark key="." line="183" column="0" />
       </file>
@@ -999,6 +1004,7 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Search/Components/SearchForm/templates/SearchForm.latte" timestamp="1542118332882" />
       <file name="/home/www/html/nnb/dms/src/Latte/Filters/DateTimeFilters.php" timestamp="1539242648748">
         <mark key="[" line="5" column="23" />
       </file>
@@ -1158,8 +1164,8 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/html/nnb/reservations/src/Reservation/locale/reservation.cs_CZ.neon" timestamp="1542115150691">
-        <mark key="[" line="14" column="21" />
+      <file name="/home/www/html/nnb/reservations/src/Reservation/locale/reservation.cs_CZ.neon" timestamp="1542117060025">
+        <mark key="[" line="11" column="19" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
@@ -1236,10 +1242,10 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="/home/www/html/nnb/reservations/src/Reservation/Presenters/DefaultPresenter.php" timestamp="1542114323263">
-        <mark key="[" line="59" column="4" />
-        <mark key="]" line="54" column="4" />
-        <mark key="." line="54" column="4" />
+      <file name="/home/www/html/nnb/reservations/src/Reservation/Presenters/DefaultPresenter.php" timestamp="1542116987952">
+        <mark key="[" line="47" column="4" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/MimeTypes/DI/MimeTypesExtension.php" timestamp="1539242779139">
         <mark key="[" line="5" column="23" />
@@ -1652,11 +1658,11 @@
       <jump line="210" column="57" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/DataSources/DoctrineDataSource.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCWR1bXAoKG5ldyBcRGF0ZVRpbWVJbW11dGFibGUoKSktPnNldFRpbWUoMCwwLDApKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">eyoKCTxkaXYgY2xhc3M9ImNvbnRhaW5lci1mbHVpZCI+CgkJPGRpdiBjbGFzcz0icm93Ij4KCQkJPGRpdiBjbGFzcz0iY29sLXNtLTcgY29sLXNtLW9mZnNldC0yIHRleHQtY2VudGVyIj4KCQkJCTxkaXYgY2xhc3M9ImZpbGVpbnB1dCBmaWxlaW5wdXQtbmV3IiBkYXRhLXByb3ZpZGVzPSJmaWxlaW5wdXQiPgoJCQkJCTxkaXYgY2xhc3M9ImZpbGVpbnB1dC1uZXcgdGh1bWJuYWlsIiBzdHlsZT0id2lkdGg6IDIwMHB4OyBoZWlnaHQ6IDE1MHB4OyI+CgkJCQkJCXtpZiAkcGhvdG8gPT09IG51bGx9CgkJCQkJCQk8aW1nIHNyYz0ieyRiYXNlUGF0aH0vaW1hZ2VzL2F2YXRhci5qcGciIGFsdD0iYXZhdGFyIj4KCQkJCQkJe2Vsc2V9CgkJCQkJCQk8aW1nIG46c3JjPSIkcGhvdG8tPmdldElkKCksICdkZWZhdWx0JywgJzIwMHgxNTAnIj4KCQkJCQkJey9pZn0KCQkJCQk8L2Rpdj4KCQkJCQk8ZGl2IGNsYXNzPSJmaWxlaW5wdXQtcHJldmlldyBmaWxlaW5wdXQtZXhpc3RzIHRodW1ibmFpbCIgZGF0YS10cmlnZ2VyPSJmaWxlaW5wdXQiCgkJCQkJICAgICBzdHlsZT0id2lkdGg6IDIwMHB4OyBoZWlnaHQ6IDE1MHB4OyI+PC9kaXY+CgkJCQkJPGRpdj4KCQkJCQkJPHNwYW4gY2xhc3M9ImJ0biBidG4tc20gYnRuLWRlZmF1bHQgYnRuLWZpbGUiPgoJCQkJCQkJPHNwYW4gY2xhc3M9ImZpbGVpbnB1dC1uZXciPlZ5YmVydGUgZm90bzwvc3Bhbj4KCQkJCQkJCTxzcGFuIGNsYXNzPSJmaWxlaW5wdXQtZXhpc3RzIj5abcSbbml0PC9zcGFuPgoJCQkJCQkJe2lucHV0IHBob3RvVXBsb2FkfQoJCQkJCQk8L3NwYW4+CgkJCQkJCSZuYnNwOyZuYnNwOyZuYnNwOwoJCQkJCQk8YSBocmVmPSIjIiBjbGFzcz0iYnRuIGJ0bi1zbSBidG4tZGVmYXVsdCBmaWxlaW5wdXQtZXhpc3RzIgoJCQkJCQkgICBkYXRhLWRpc21pc3M9ImZpbGVpbnB1dCI+T2RzdHJhbml0PC9hPgoJCQkJCTwvZGl2PgoJCQkJPC9kaXY+CgkJCTwvZGl2PgoJCTwvZGl2PgoJPC9kaXY+CgkqfQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGNvbnRyb2wtPmdldEZvcm0oKVsnc3RhcnREYXRlJ10tPmdldFZhbHVlKCkgPA==</text>
+        <text>User</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
@@ -1664,36 +1670,32 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCWR1bXAoKG5ldyBcRGF0ZVRpbWVJbW11dGFibGUoKSktPnNldFRpbWUoMCwwLDApKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">eyoKCTxkaXYgY2xhc3M9ImNvbnRhaW5lci1mbHVpZCI+CgkJPGRpdiBjbGFzcz0icm93Ij4KCQkJPGRpdiBjbGFzcz0iY29sLXNtLTcgY29sLXNtLW9mZnNldC0yIHRleHQtY2VudGVyIj4KCQkJCTxkaXYgY2xhc3M9ImZpbGVpbnB1dCBmaWxlaW5wdXQtbmV3IiBkYXRhLXByb3ZpZGVzPSJmaWxlaW5wdXQiPgoJCQkJCTxkaXYgY2xhc3M9ImZpbGVpbnB1dC1uZXcgdGh1bWJuYWlsIiBzdHlsZT0id2lkdGg6IDIwMHB4OyBoZWlnaHQ6IDE1MHB4OyI+CgkJCQkJCXtpZiAkcGhvdG8gPT09IG51bGx9CgkJCQkJCQk8aW1nIHNyYz0ieyRiYXNlUGF0aH0vaW1hZ2VzL2F2YXRhci5qcGciIGFsdD0iYXZhdGFyIj4KCQkJCQkJe2Vsc2V9CgkJCQkJCQk8aW1nIG46c3JjPSIkcGhvdG8tPmdldElkKCksICdkZWZhdWx0JywgJzIwMHgxNTAnIj4KCQkJCQkJey9pZn0KCQkJCQk8L2Rpdj4KCQkJCQk8ZGl2IGNsYXNzPSJmaWxlaW5wdXQtcHJldmlldyBmaWxlaW5wdXQtZXhpc3RzIHRodW1ibmFpbCIgZGF0YS10cmlnZ2VyPSJmaWxlaW5wdXQiCgkJCQkJICAgICBzdHlsZT0id2lkdGg6IDIwMHB4OyBoZWlnaHQ6IDE1MHB4OyI+PC9kaXY+CgkJCQkJPGRpdj4KCQkJCQkJPHNwYW4gY2xhc3M9ImJ0biBidG4tc20gYnRuLWRlZmF1bHQgYnRuLWZpbGUiPgoJCQkJCQkJPHNwYW4gY2xhc3M9ImZpbGVpbnB1dC1uZXciPlZ5YmVydGUgZm90bzwvc3Bhbj4KCQkJCQkJCTxzcGFuIGNsYXNzPSJmaWxlaW5wdXQtZXhpc3RzIj5abcSbbml0PC9zcGFuPgoJCQkJCQkJe2lucHV0IHBob3RvVXBsb2FkfQoJCQkJCQk8L3NwYW4+CgkJCQkJCSZuYnNwOyZuYnNwOyZuYnNwOwoJCQkJCQk8YSBocmVmPSIjIiBjbGFzcz0iYnRuIGJ0bi1zbSBidG4tZGVmYXVsdCBmaWxlaW5wdXQtZXhpc3RzIgoJCQkJCQkgICBkYXRhLWRpc21pc3M9ImZpbGVpbnB1dCI+T2RzdHJhbml0PC9hPgoJCQkJCTwvZGl2PgoJCQkJPC9kaXY+CgkJCTwvZGl2PgoJCTwvZGl2PgoJPC9kaXY+CgkqfQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJGNvbnRyb2wtPmdldFZhbHVlKCkpOwo=</text>
+        <text encoding="base64">CQk8c3BhbiBpZD0iZnJtLWZvcm0tZm9ybS1iZWRfbWVzc2FnZSI+PC9zcGFuPgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkqfQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">PC9kaXY+CgkJPGRpdiBjbGFzcz0icmFkaW8iPjxsYWJlbCBmb3I9ImZybS1mb3JtLWZvcm0tYmVkLTIiPjxpbnB1dCB0eXBlPSJyYWRpbyIgbmFtZT0iYmVkIiBpZD0iZnJtLWZvcm0tZm9ybS1iZWQtMiIKCQkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmVkPSIiCgkJICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhLW5ldHRlLXJ1bGVzPSJbeyZxdW90O29wJnF1b3Q7OiZxdW90OzpmaWxsZWQmcXVvdDssJnF1b3Q7bXNnJnF1b3Q7OiZxdW90O1Z5YmVydGUgcHJvc8OtbSBsxa/FvmtvLiZxdW90O31dIgoJCSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9IjIiIGRhdGEtbGZ2LWluaXRpYWxpemVkPSJ0cnVlIgoJCSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF0YS1sZnYtbWVzc2FnZS1pZD0iZnJtLWZvcm0tZm9ybS1iZWRfbWVzc2FnZSI+MjwvbGFiZWw+CgkJPC9kaXY+CgkJPGRpdiBjbGFzcz0icmFkaW8iPjxsYWJlbCBmb3I9ImZybS1mb3JtLWZvcm0tYmVkLTMiPjxpbnB1dCB0eXBlPSJyYWRpbyIgbmFtZT0iYmVkIiBpZD0iZnJtLWZvcm0tZm9ybS1iZWQtMyIKCQkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmVkPSIiCgkJICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhLW5ldHRlLXJ1bGVzPSJbeyZxdW90O29wJnF1b3Q7OiZxdW90OzpmaWxsZWQmcXVvdDssJnF1b3Q7bXNnJnF1b3Q7OiZxdW90O1Z5YmVydGUgcHJvc8OtbSBsxa/FvmtvLiZxdW90O31dIgoJCSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9IjMiIGRhdGEtbGZ2LWluaXRpYWxpemVkPSJ0cnVlIgoJCSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF0YS1sZnYtbWVzc2FnZS1pZD0iZnJtLWZvcm0tZm9ybS1iZWRfbWVzc2FnZSI+MzwvbGFiZWw+CgkJPC9kaXY+CgkJPGRpdiBjbGFzcz0icmFkaW8iPjxsYWJlbCBmb3I9ImZybS1mb3JtLWZvcm0tYmVkLTQiPjxpbnB1dCB0eXBlPSJyYWRpbyIgbmFtZT0iYmVkIiBpZD0iZnJtLWZvcm0tZm9ybS1iZWQtNCIKCQkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmVkPSIiCgkJICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhLW5ldHRlLXJ1bGVzPSJbeyZxdW90O29wJnF1b3Q7OiZxdW90OzpmaWxsZWQmcXVvdDssJnF1b3Q7bXNnJnF1b3Q7OiZxdW90O1Z5YmVydGUgcHJvc8OtbSBsxa/FvmtvLiZxdW90O31dIgoJCSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9IjQiIGRhdGEtbGZ2LWluaXRpYWxpemVkPSJ0cnVlIgoJCSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF0YS1sZnYtbWVzc2FnZS1pZD0iZnJtLWZvcm0tZm9ybS1iZWRfbWVzc2FnZSI+NDwvbGFiZWw+CgkJPC9kaXY+</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQl7Kgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ZT0iYmVkIiBpZD0iZnJtLWZvcm0tZm9ybS1iZWQtMSIKCQkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmVkPSIiCgkJICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhLW5ldHRlLXJ1bGVzPSJbeyZxdW90O29wJnF1b3Q7OiZxdW90OzpmaWxsZWQmcXVvdDssJnF1b3Q7bXNnJnF1b3Q7OiZxdW90O1Z5YmVydGUgcHJvc8OtbSBsxa/FvmtvLiZxdW90O31dIgoJCSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9IjEiIGRhdGEtbGZ2LWluaXRpYWxpemVkPSJ0cnVlIg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">e2ZvcmVhY2ggJGJlZHMgYXMgJGJlZH0KCQkJCQk8ZGl2IGNsYXNzPSJjaGVja2JveCIKCQkJCQkgICAgIHtpZiAkYmVkLT5nZXRDb2xvcigpfXN0eWxlPSJiYWNrZ3JvdW5kLWNvbG9yOiB7JGJlZC0+Z2V0Q29sb3IoKXxub2VzY2FwZX0iey9pZn0+CgkJCQkJCTxsYWJlbCBmb3I9ImRyb3AtcmVtb3ZlIj4KCQkJCQkJCTxpbnB1dCB0eXBlPSJjaGVja2JveCIgZGF0YS1iZWQtaWQ9InskYmVkLT5nZXRJZCgpfSIgY2xhc3M9ImJlZC1jaGVjayBpY2siIGNoZWNrZWQ+CgkJCQkJCQl7JGJlZC0+Z2V0VGl0bGUoKX0KCQkJCQkJPC9sYWJlbD4KCQkJCQk8L2Rpdj4KCQkJCXsvZm9yZWFjaH0=</text>
+        <text encoding="base64">e3BhaXIgbGFzdE5hbWV9CgoJe3BhaXIgZW1haWx9CgoJe3BhaXIgd29ya2luZ1Bvc2l0aW9ufQoKCXtwYWlyIG5ld1Bhc3N3b3JkfQoKCXtpZnNldCAkZm9ybVsncm9sZXMnXX0KCQl7cGFpciByb2xlc30KCXsvaWZzZXR9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0icGFuZWwtaGVhZGluZyI+CgkJCQlMxa/FvmthCgkJCTwvZGl2Pg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkkdGhpcy0+dGVtcGxhdGUtPnBob3RvID0gJHRoaXMtPnVzZXItPmdldFBob3RvKCk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>/**
-	 * @var EntityManager
-	 * @inject
-	 */
-	public $em;</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCSRtb2RlbEV2ZW50LT5zZXQK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LT5nZXRDb250cm9sUHJvdG90eXBlKCkKCQkJLT5hZGRDbGFzcygnYnRuLWRhbmdlcicpCgkJCS0+c2V0QXR0cmlidXRlKCdkYXRhLWNvbmZpcm0nLCAnT3ByYXZkdSBjaGNldGUgb2RzdHJhbml0IHJlemVydmFjaSA/Jyk7</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCWR1bXAoKG5ldyBcRGF0ZVRpbWVJbW11dGFibGUoKSktPnNldFRpbWUoMCwwLDApKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">LyoqIEB2YXIgUmVzZXJ2YXRpb24gJHJlc2VydmF0aW9uICovCgkJJHJlc2VydmF0aW9uID0gJGZvcm0tPmdldEVudGl0eSgpOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCWR1bXAoJGNvbnRyb2wtPmdldFZhbHVlKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>255</text>
