@@ -24,11 +24,10 @@
       <file name="/home/www/html/dv/adera/src/Navigation/Navigation.php" timestamp="1541003956131">
         <mark key="[" line="26" column="14" />
       </file>
-      <file name="/home/www/html/nnb/reservations/src/Reservation/Components/ReservationForm/ReservationForm.php" timestamp="1541517582113">
-        <mark key="[" line="169" column="30" />
-        <mark key="]" line="169" column="28" />
-        <mark key="." line="169" column="28" />
-        <mark key="^" line="169" column="28" />
+      <file name="/home/www/html/nnb/reservations/src/Reservation/Components/ReservationForm/ReservationForm.php" timestamp="1542109715753">
+        <mark key="[" line="71" column="34" />
+        <mark key="]" line="203" column="0" />
+        <mark key="." line="203" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Exceptions/StaticClassException.php" timestamp="1538652845168">
         <mark key="[" line="8" column="23" />
@@ -176,6 +175,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="/home/www/html/nnb/reservations/src/User/Security/RolesProvider.php" timestamp="1542108949821" />
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InterventionsGrid/templates/InterventionsGrid.latte" timestamp="1541521814529">
         <mark key="[" line="61" column="55" />
         <mark key="]" line="64" column="28" />
@@ -270,16 +270,19 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseBusinessCaseDocumentFormControl.php" timestamp="1540554295483">
-        <mark key="[" line="91" column="4" />
-        <mark key="]" line="91" column="8" />
-        <mark key="." line="91" column="8" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/BaseBusinessCaseDocumentFormControl.php" timestamp="1542109490707">
+        <mark key="[" line="115" column="106" />
+        <mark key="]" line="115" column="106" />
+        <mark key="." line="115" column="106" />
       </file>
       <file name="/home/www/html/dv/adera/src/User/AdminModule/Components/UserForm/UserForm.latte" timestamp="1541071194289">
         <mark key="[" line="47" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressForm/AddressForm.php" timestamp="1539859172169">
         <mark key="[" line="110" column="42" />
+      </file>
+      <file name="/home/www/html/nnb/reservations/src/User/Events/UserListener.php" timestamp="1542108935374">
+        <mark key="[" line="79" column="50" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InterventionForm/InterventionForm.latte" timestamp="1540974859232">
         <mark key="[" line="42" column="0" />
@@ -625,8 +628,8 @@
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InquiriesGrid/InquiriesGrid.php" timestamp="1540975598415">
         <mark key="[" line="71" column="49" />
       </file>
-      <file name="/home/www/html/nnb/reservations/app/Presenters/BasePresenter.php" timestamp="1542108348133">
-        <mark key="[" line="159" column="0" />
+      <file name="/home/www/html/nnb/reservations/app/Presenters/BasePresenter.php" timestamp="1542109044037">
+        <mark key="[" line="123" column="26" />
         <mark key="]" line="159" column="0" />
         <mark key="." line="159" column="0" />
       </file>
@@ -1237,10 +1240,10 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="/home/www/html/nnb/reservations/src/Reservation/Presenters/DefaultPresenter.php" timestamp="1541517422649">
-        <mark key="[" line="117" column="66" />
-        <mark key="]" line="117" column="66" />
-        <mark key="." line="117" column="66" />
+      <file name="/home/www/html/nnb/reservations/src/Reservation/Presenters/DefaultPresenter.php" timestamp="1542108991253">
+        <mark key="[" line="144" column="43" />
+        <mark key="]" line="119" column="66" />
+        <mark key="." line="119" column="66" />
       </file>
       <file name="/home/www/html/nnb/dms/src/MimeTypes/DI/MimeTypesExtension.php" timestamp="1539242779139">
         <mark key="[" line="5" column="23" />
@@ -1321,6 +1324,7 @@
       <file name="/home/www/html/dv/adera/src/User/Privilege.php" timestamp="1541003322447">
         <mark key="[" line="20" column="20" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Document/Components/BaseDocumentFormControl.php" timestamp="1542109739615" />
       <file name="/home/www/html/nnb/dms/src/Groups/Components/GroupsPermissionsForm/GroupsPermissionsForm.latte" timestamp="1540995319362">
         <mark key="[" line="61" column="74" />
       </file>
@@ -1653,10 +1657,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CSovCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">JiYgISRmb3JtLT5pc1N1Ym1pdHRlZCg=</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
@@ -1665,31 +1669,31 @@
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSovCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8qCg==</text>
+        <text encoding="base64">CQkkZm9ybS0+b25TdWNjZXNzW10gPSBbJHRoaXMsICdmb3JtU3VjY2VlZGVkJ107Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkvL2V4aXQ7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJLy9kdW1wKGFycmF5X21hcChmdW5jdGlvbigkZG9jdW1lbnQpIHsgcmV0dXJuICRkb2N1bWVudC0+aWQ7IH0sICRkb2N1bWVudHMpKTsK</text>
+        <text encoding="base64">CQkkZm9ybS0+YWRkU3VibWl0KCdzZW5kJywgJ1Vsb8W+aXQnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkkdGhpcy0+b25WaWV3Q2hhbmdlZCgkdGhpcy0+dmlldyk7Cg==</text>
+        <text encoding="base64">CQkJCS0+c2V0VHJhbnNsYXRvcihudWxsKQo=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">JHRoaXMtPmdldFByZXNlbnRlcigpLT5zZXRDb250ZW50VGl0bGUoJ0Zvcm11bMOhxZkgesOhc2FodSAnIC4KCQkJSHRtbDo6ZWwoJ3NtYWxsJyktPnNldFRleHQoJyMnIC4gJGludGVydmVudGlvbi0+Z2V0SWQoKSkpOwoJCQoJCSR0aGlzLT5zZXRWaWV3KCdmb3JtJyk7CgkJCgkJJHRoaXMtPmdldENvbXBvbmVudCgnaW50ZXJ2ZW50aW9uRm9ybScpOw==</text>
+        <text encoding="base64">JGZvcm0tPmFkZFN1Ym1pdCgnZGVsZXRlJywgJ1pydcWhaXQnKQoJCQktPnNldFZhbGlkYXRpb25TY29wZShmYWxzZSk7</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XFZhbGlkYXRvclxDb25zdHJhaW50cyBhcyBBc3NlcnQ7Cg==</text>
+        <text encoding="base64">CSovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAqIEBBc3NlcnRcTm90QmxhbmsoKQo=</text>
+        <text encoding="base64">CS8qCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XFZhbGlkYXRvclxDb25zdHJhaW50cyBhcyBBc3NlcnQ7Cg==</text>
+        <text encoding="base64">CQkvL2V4aXQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>255</text>
