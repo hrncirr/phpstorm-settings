@@ -24,8 +24,8 @@
       <file name="/home/www/html/dv/adera/src/Navigation/Navigation.php" timestamp="1541003956131">
         <mark key="[" line="26" column="14" />
       </file>
-      <file name="/home/www/html/nnb/reservations/src/Reservation/Components/ReservationForm/ReservationForm.php" timestamp="1542205077067">
-        <mark key="[" line="88" column="0" />
+      <file name="/home/www/html/nnb/reservations/src/Reservation/Components/ReservationForm/ReservationForm.php" timestamp="1542206692793">
+        <mark key="[" line="88" column="70" />
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
@@ -380,11 +380,11 @@
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
       </file>
-      <file name="/home/www/html/nnb/reservations/src/Reservation/Presenters/templates/Default/default.latte" timestamp="1542114654692">
-        <mark key="[" line="27" column="28" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="/home/www/html/nnb/reservations/src/Reservation/Presenters/templates/Default/default.latte" timestamp="1542206790476">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
         <mark key="^" line="37" column="25" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1541522412208">
         <mark key="[" line="0" column="0" />
@@ -756,7 +756,7 @@
       <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentFolderSelectorControl/DocumentFolderSelectorControl.php" timestamp="1539779610986">
         <mark key="[" line="83" column="75" />
       </file>
-      <file name="/home/www/html/nnb/reservations/app/config/client-side.neon" timestamp="1541492638192">
+      <file name="/home/www/html/nnb/reservations/app/config/client-side.neon" timestamp="1542206502415">
         <mark key="[" line="54" column="27" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
@@ -848,10 +848,10 @@
       <file name="/home/www/html/nnb/patient-studies/src/Log/Monolog/Handlers/MonologDBHandler.php" timestamp="1540207337250">
         <mark key="[" line="51" column="53" />
       </file>
-      <file name="/home/www/html/nnb/reservations/src/Reservation/Components/ReservationForm/ReservationForm.latte" timestamp="1542205331113">
-        <mark key="[" line="10" column="38" />
-        <mark key="]" line="10" column="38" />
-        <mark key="." line="10" column="38" />
+      <file name="/home/www/html/nnb/reservations/src/Reservation/Components/ReservationForm/ReservationForm.latte" timestamp="1542206958510">
+        <mark key="[" line="35" column="12" />
+        <mark key="]" line="35" column="12" />
+        <mark key="." line="35" column="12" />
       </file>
       <file name="/home/www/html/dv/adera/app/config/modules.neon" timestamp="1541064701274">
         <mark key="[" line="32" column="0" />
@@ -1667,7 +1667,20 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Jm5ic3A7Jm5ic3A=</text>
+        <text>$('.bed-check').each(function (i, el) {
+				if ($(el).iCheck('update')[0].checked) {
+					checkedEl.push($(el));
+					checkedData[$(el).data('bed-id')] = 1;
+				} else {
+					checkedData[$(el).data('bed-id')] = 0;
+				}
+			});
+
+			if (checkedEl.length === 1) {
+				checkedEl[0].iCheck('disable');
+			} else {
+				$('.bed-check').iCheck('enable');
+			}</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Jm5ic3A7Jm5ic3A=</text>
@@ -1678,32 +1691,47 @@
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="1" type="4">
+        <text>$('.bed-check').each(function (i, el) {
+				if ($(el).iCheck('update')[0].checked) {
+					checkedEl.push($(el));
+					checkedData[$(el).data('bed-id')] = 1;
+				} else {
+					checkedData[$(el).data('bed-id')] = 0;
+				}
+			});
+
+			if (checkedEl.length === 1) {
+				checkedEl[0].iCheck('disable');
+			} else {
+				$('.bed-check').iCheck('enable');
+			}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShCZWQ6OmNsYXNzKS0+ZmluZFBhaXJzKCdjb2xvcicsICd0aXRsZScpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJ29rJyk7Cg==</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coY2hlY2tlZERhdGEpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlyZXR1cm47Cg==</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coY2hlY2tlZERhdGEpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CSAqIEBBc3NlcnRcTm90QmxhbmsoKQo=</text>
+      <register name="6" type="4">
+        <text>on('ifToggled', function (e) {
+			var checkedEl = [];
+			var checkedData = {};</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAqIEBBc3NlcnRcTm90QmxhbmsoKQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPmFkZHJlc3MtPnNldFN1YmplY3QoJHRoaXMtPnN1YmplY3QpOwo=</text>
+        <text encoding="base64">CQlkdW1wKCR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShCZWQ6OmNsYXNzKS0+ZmluZFBhaXJzKCdjb2xvcicsICd0aXRsZScpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJZXhpdDsK</text>
+        <text encoding="base64">CQkJCWR1bXAoJ29rJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>255</text>
