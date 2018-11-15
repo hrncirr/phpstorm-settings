@@ -385,7 +385,10 @@
         <mark key="^" line="37" column="25" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541522412208">
+      <file name="/home/www/html/dv/adera/libs/vendor/nette/bootstrap/src/Bootstrap/Configurator.php" timestamp="1542281532014">
+        <mark key="'" line="141" column="38" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1542281141234">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -533,8 +536,8 @@
       <file name="/home/www/vendor/hrncirr/media/src/Model/ImageFormatProvider.php" timestamp="1538551695792">
         <mark key="[" line="31" column="49" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Document/TPrice.php" timestamp="1541522429472">
-        <mark key="[" line="8" column="53" />
+      <file name="/home/www/html/dv/adera/Modules/Document/TPrice.php" timestamp="1542281169153">
+        <mark key="[" line="9" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/src/Admin/AuthModule/Presenters/SignPresenter.php" timestamp="1541073541578">
         <mark key="[" line="40" column="73" />
@@ -855,9 +858,6 @@
       </file>
       <file name="/home/www/vendor/hrncirr/media/src/IImageStorage.php" timestamp="1538548092672">
         <mark key="[" line="40" column="90" />
-      </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractsGrid/ContractsGrid.php" timestamp="1540560722437">
-        <mark key="[" line="49" column="31" />
       </file>
       <file name="/home/www/html/nnb/reservations/src/Reservation/Event.php" timestamp="1541420028809">
         <mark key="[" line="14" column="13" />
@@ -1313,6 +1313,9 @@
       <file name="/home/www/html/nnb/dms/src/Folders/Exceptions/FolderPermissionException.php" timestamp="1539160606301">
         <mark key="[" line="22" column="67" />
       </file>
+      <file name="/home/www/html/dv/adera/app/bootstrap.php" timestamp="1542281625151">
+        <mark key="[" line="12" column="53" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Presenters/TagsPresenter.php" timestamp="1538651706868">
         <mark key="[" line="1" column="23" />
       </file>
@@ -1559,7 +1562,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="67" filename="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" />
       <jump line="89" column="59" filename="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" />
       <jump line="90" column="34" filename="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" />
       <jump line="92" column="36" filename="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" />
@@ -1659,6 +1661,7 @@
       <jump line="100" column="44" filename="/home/www/lib/vendor/nette/application/src/Application/UI/ComponentReflection.php" />
       <jump line="114" column="60" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/DataSources/DoctrineDataSource.php" />
       <jump line="210" column="57" filename="/home/www/lib/vendor/hrncirr/fullcalendar/src/DataSources/DoctrineDataSource.php" />
+      <jump line="141" column="38" filename="/home/www/html/dv/adera/libs/vendor/nette/bootstrap/src/Bootstrap/Configurator.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1681,7 +1684,7 @@
         <text encoding="base64">Jm5ic3A7Jm5ic3A=</text>
       </register>
       <register name="/" type="4">
-        <text>title</text>
+        <text>enable</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSAqIEBwYXJhbSBpbnQgJHBudGVjaG5pY2FsUmVxdWlzaXRpb24K</text>
@@ -1733,9 +1736,9 @@
       </register>
     </registers>
     <search>
-      <last-search>title</last-search>
+      <last-search>enable</last-search>
       <last-offset />
-      <last-pattern>title</last-pattern>
+      <last-pattern>enable</last-pattern>
       <last-replace>inspection</last-replace>
       <last-substitute>intervention</last-substitute>
       <last-dir>1</last-dir>
@@ -1743,7 +1746,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onCancel</entry>
         <entry>disab</entry>
         <entry>disabl</entry>
         <entry>parents</entry>
@@ -1763,6 +1765,7 @@
         <entry>prepareEventSource</entry>
         <entry>array</entry>
         <entry>title</entry>
+        <entry>enable</entry>
       </history-search>
       <history-cmd>
         <entry>4036</entry>
