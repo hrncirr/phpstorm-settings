@@ -13,7 +13,9 @@
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="services" type="Latte file" />
+      <removed_mapping ext="neon" approved="true" type="Neon" />
       <mapping pattern="aaa" type="PLAIN_TEXT" />
+      <mapping ext="neon" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
