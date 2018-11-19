@@ -1267,6 +1267,9 @@
         <mark key="]" line="15" column="41" />
         <mark key="." line="15" column="41" />
       </file>
+      <file name="/home/www/vendor/nnb/staff/composer.json" timestamp="1542627252284">
+        <mark key="[" line="16" column="8" />
+      </file>
       <file name="/home/www/html/nnb/aktuality/app/config/services.neon" timestamp="1493901640363">
         <mark key="[" line="22" column="84" />
         <mark key="]" line="9" column="0" />
@@ -2301,6 +2304,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="/home/www/vendor/nnb/staff/src/Model/Employees.php" timestamp="1542626821629">
+        <mark key="[" line="65" column="12" />
+      </file>
       <file name="/home/www/html/bul/mamo/app/components/MascForm/MascForm.php" timestamp="1481277205704">
         <mark key="[" line="53" column="29" />
         <mark key="]" line="6" column="0" />
@@ -2572,12 +2578,6 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="4" />
         <mark key="." line="14" column="4" />
-      </file>
-      <file name="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" timestamp="1502467119130">
-        <mark key="'" line="154" column="33" />
-        <mark key="[" line="661" column="26" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/app/FrontModule/presenters/BasePresenter.php" timestamp="1491308433354">
         <mark key="[" line="28" column="0" />
@@ -3161,6 +3161,9 @@
         <mark key="]" line="12" column="4" />
         <mark key="." line="12" column="4" />
       </file>
+      <file name="/home/www/vendor/nnb/staff/src/Authentication/LdapAuthenticator.php" timestamp="1542627283918">
+        <mark key="[" line="82" column="35" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Search/SearchFile.php" timestamp="1491832444891">
         <mark key="[" line="32" column="20" />
         <mark key="]" line="10" column="0" />
@@ -3363,6 +3366,9 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="/home/www/vendor/nnb/staff/src/DI/StaffExtension.php" timestamp="1542627217157">
+        <mark key="[" line="102" column="12" />
+      </file>
       <file name="/home/www/html/dv/cms/src/Users/AdminModule/Presenters/UsersPresenter.php" timestamp="1497012530645">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -3465,6 +3471,11 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="/home/www/vendor/nnb/staff/src/Authentication/DBAuthenticator.php" timestamp="1542627514519">
+        <mark key="[" line="180" column="12" />
+        <mark key="]" line="180" column="12" />
+        <mark key="." line="180" column="12" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/App/TechnicalRequisitions/components/TechnicalRequisitionForm/TechnicalRequisitionForm.php" timestamp="1485524623150">
         <mark key="[" line="173" column="11" />
@@ -3933,6 +3944,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="/home/www/vendor/nnb/staff/src/Forms/Controls/Employee/EmployeeInput.php" timestamp="1542626653653">
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="0" />
+        <mark key="." line="196" column="0" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Groups/DI/GroupsExtension.php" timestamp="1486026815625">
         <mark key="[" line="22" column="45" />
         <mark key="]" line="23" column="0" />
@@ -4209,6 +4225,9 @@
       <file name="/home/www/html/dv/adera/Modules/AddressBook/locale/validators.cs_CZ.neon" timestamp="1502179569829">
         <mark key="[" line="43" column="29" />
       </file>
+      <file name="/home/www/vendor/nnb/staff/src/Staff.php" timestamp="1542627637538">
+        <mark key="[" line="64" column="12" />
+      </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/FilesStructure.php" timestamp="1473313652989">
         <mark key="[" line="446" column="4" />
         <mark key="]" line="164" column="0" />
@@ -4394,6 +4413,9 @@
         <mark key="[" line="181" column="0" />
         <mark key="]" line="181" column="0" />
         <mark key="." line="181" column="0" />
+      </file>
+      <file name="/home/www/vendor/nnb/staff/src/Model/Employee.php" timestamp="1542627004170">
+        <mark key="[" line="38" column="61" />
       </file>
       <file name="/home/www/html/nnb/nezadouci-udalosti/app/Components/Modals/ViewModal.php" timestamp="1482399971117">
         <mark key="[" line="36" column="0" />
@@ -4860,10 +4882,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ly8kZm9ybVsnYmVkJ10tPnNldE9wdGlvbihJQ29tcG9uZW50TWFwcGVyOjpJVEVNU19GSUxURVIsIFsnaWQgTk9UIElOJyA9PiAkdXNlZEJlZHNdKTs=</text>
+        <text encoding="base64">JHVzZXIgIT09IG51bGwgJiY=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ly8kZm9ybVsnYmVkJ10tPnNldE9wdGlvbihJQ29tcG9uZW50TWFwcGVyOjpJVEVNU19GSUxURVIsIFsnaWQgTk9UIElOJyA9PiAkdXNlZEJlZHNdKTs=</text>
+        <text encoding="base64">JHVzZXIgIT09IG51bGwgJiY=</text>
       </register>
       <register name="/" type="4">
         <text>Callback</text>
@@ -4871,7 +4893,10 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CSAgICBkdW1wKGludHZhbCgkY29udHJvbC0+Z2V0VmFsdWUoKSkpOwo=</text>
+      </register>
+      <register name="2" type="4">
         <text>/*
 					foreach ($usedBeds as $id) {
 						if (isset($items[$id])) {
@@ -4880,29 +4905,26 @@
 					}
 					*/</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkJCSRmb3JtLT5hZGRFcnJvcignTmVieWxvIHZ5YnLDoW5vIMW+w6FkbsOpIGzFr8W+a28uJyk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJaWYgKCFlbXB0eSgkdXNlZEJlZHMpKSB7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJLy9kdW1wKCRmb3JtWydiZWQnXS0+Z2V0SXRlbXMoKSk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJLy9kdW1wKCR1c2VkQmVkcyk7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQkJZHVtcCgkZm9ybS0+Z2V0VmFsdWVzKCkpOwo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">aWYgKFxpc19vYmplY3QoJHRoaXMtPmVudGl0eSkgJiYgJHByZXNlbnRlciBpbnN0YW5jZW9mIFByZXNlbnRlcikgewoJCSAgICAkdGhpcy0+b25CZWZvcmVFbnRpdHlNYXBwZXJMb2FkKCR0aGlzLT5nZXRFbnRpdHkoKSwgJHRoaXMpOwoJCQkkdGhpcy0+Z2V0RW50aXR5TWFwcGVyKCktPmxvYWQoJHRoaXMtPmdldEVudGl0eSgpLCAkdGhpcyk7CgkJfQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
