@@ -13,8 +13,8 @@
         <mark key="]" line="111" column="4" />
         <mark key="." line="111" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Subject.php" timestamp="1502097660947">
-        <mark key="[" line="20" column="17" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Subject.php" timestamp="1542703713976">
+        <mark key="[" line="101" column="25" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
@@ -2273,7 +2273,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/modals/composer.json" timestamp="1542627840943" />
       <file name="/home/www/html/bul/mamo/app/model/RegisterModel.php" timestamp="1481267845402">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -3644,6 +3643,9 @@
         <mark key="]" line="14" column="65" />
         <mark key="." line="14" column="65" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.latte" timestamp="1542702691876">
+        <mark key="[" line="10" column="36" />
+      </file>
       <file name="/home/www/html/nnb/dms/css/file.preview.spinner.css" timestamp="1489570367983">
         <mark key="[" line="64" column="1" />
         <mark key="]" line="64" column="1" />
@@ -3749,6 +3751,11 @@
         <mark key="[" line="453" column="0" />
         <mark key="]" line="453" column="0" />
         <mark key="." line="453" column="0" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/SubjectType.php" timestamp="1542703527334">
+        <mark key="[" line="25" column="22" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/typeahead/DI/TypeaheadExtension.php" timestamp="1477374891565">
         <mark key="[" line="14" column="0" />
@@ -4184,10 +4191,10 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" timestamp="1501742495249">
-        <mark key="[" line="141" column="4" />
-        <mark key="]" line="141" column="8" />
-        <mark key="." line="141" column="8" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" timestamp="1542703373592">
+        <mark key="[" line="120" column="49" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/TagsGrid/TagsGrid.php" timestamp="1497598493187">
         <mark key="[" line="16" column="0" />
@@ -4901,23 +4908,8 @@
       <jump line="2" column="0" filename="/home/www/vendor/nnb/staff/src/Forms/Controls/Employee/EmployeeInput.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$('[data-provide=&quot;reservation-form-date-input&quot;]', $context || document).on('focusout', function (ev) {
-
-                var componentId = $(this).data('component-id');
-                var link = $(this).data('link');
-
-                var data = {};
-                data[componentId + '-date'] = $(this).data('daterangepicker').startDate.format('X');
-
-                $.nette.ajax({
-                    type: 'get',
-                    url: link,
-                    data: data
-                }).success($.proxy(function (data) {
-
-                }, this));
-            });</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJMSA9PiAnRnl6aWNrw6Egb3NvYmEnCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">WmFkYW7DoSBob2Rub3RhIA==</text>
@@ -4928,7 +4920,13 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQkJMSA9PiAnRnl6aWNrw6Egb3NvYmEnCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkzID0+ICdQcmFnb2NsZWFuIHMuci5vLicK</text>
+      </register>
+      <register name="3" type="4">
         <text>$('[data-provide=&quot;reservation-form-date-input&quot;]', $context || document).on('focusout', function (ev) {
 
                 var componentId = $(this).data('component-id');
@@ -4946,29 +4944,23 @@
                 }, this));
             });</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CX0pOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CSQoZnVuY3Rpb24gKCkgewo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">PHNjcmlwdD4K</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">JCgnLmJlZC1jaGVjaycpLm9uKCdpZlRvZ2dsZWQnLCBmdW5jdGlvbiAoZSkgewoJCQl2YXIgY2hlY2tlZEVsID0gW107CgkJCXZhciBjaGVja2VkRGF0YSA9IHt9OwoJCQkkKCcuYmVkLWNoZWNrJykuZWFjaChmdW5jdGlvbiAoaSwgZWwpIHsKCQkJCWlmICgkKGVsKS5pQ2hlY2soJ3VwZGF0ZScpWzBdLmNoZWNrZWQpIHsKCQkJCQljaGVja2VkRWwucHVzaCgkKGVsKSk7CgkJCQkJY2hlY2tlZERhdGFbJChlbCkuZGF0YSgnYmVkLWlkJyldID0gMTsKCQkJCX0gZWxzZSB7CgkJCQkJY2hlY2tlZERhdGFbJChlbCkuZGF0YSgnYmVkLWlkJyldID0gMDsKCQkJCX0KCQkJfSk7CgoJCQlpZiAoY2hlY2tlZEVsLmxlbmd0aCA9PT0gMSkgewoJCQkJY2hlY2tlZEVsWzBdLmlDaGVjaygnZGlzYWJsZScpOwoJCQl9IGVsc2UgewoJCQkJJCgnLmJlZC1jaGVjaycpLmlDaGVjaygnZW5hYmxlJyk7CgkJCX0KCgkJCWRhdGEgPSB7J3Zpc2libGVCZWRzJzogY2hlY2tlZERhdGF9OwoKCQkJJC5uZXR0ZS5hamF4KHsKCQkJCXR5cGU6ICdnZXQnLAoJCQkJdXJsOiB7bGluayB1cGRhdGVWaXNpYmxlQmVkcyEgdmlzaWJsZUJlZHMgPT4gbnVsbH0sCgkJCQlkYXRhOiBkYXRhCgkJCX0pLnN1Y2Nlc3MoJC5wcm94eShmdW5jdGlvbiAoZGF0YSkgewoKCQkJfSwgdGhpcykpOwoJCX0pOw==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWR1bXAoXGlzX2ludCgkY29udHJvbC0+Z2V0VmFsdWUoKSkpOwo=</text>
+        <text encoding="base64">PHNjcmlwdD4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
