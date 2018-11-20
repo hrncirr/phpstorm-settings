@@ -88,8 +88,11 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/home/www/html/nnb/bed-reservations-hostel/src/Reservation/Components/ReservationForm/ReservationForm.php" timestamp="1542707687370">
-        <mark key="[" line="238" column="93" />
+      <file name="/home/www/html/nnb/bed-reservations-hostel/src/Reservation/Components/ReservationForm/ReservationForm.php" timestamp="1542711576301">
+        <mark key="[" line="223" column="12" />
+        <mark key="]" line="205" column="33" />
+        <mark key="." line="205" column="33" />
+        <mark key="^" line="205" column="33" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Files/Router/FileConversionRouterFactory.php" timestamp="1484301905227">
         <mark key="[" line="39" column="30" />
@@ -3012,7 +3015,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542631442293">
+      <file name="/Dummy.txt" timestamp="1542712845635">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -4498,8 +4501,10 @@
         <mark key="]" line="18" column="4" />
         <mark key="." line="18" column="4" />
       </file>
-      <file name="/home/www/html/nnb/bed-reservations-hostel/src/Reservation/Presenters/DefaultPresenter.php" timestamp="1542707374645">
-        <mark key="[" line="130" column="39" />
+      <file name="/home/www/html/nnb/bed-reservations-hostel/src/Reservation/Presenters/DefaultPresenter.php" timestamp="1542712794683">
+        <mark key="[" line="150" column="79" />
+        <mark key="]" line="150" column="79" />
+        <mark key="." line="150" column="79" />
       </file>
       <file name="/home/www/html/nnb/dms/app/presenters/DeletedDocumentsPresenter.php" timestamp="1487150124697">
         <mark key="[" line="42" column="8" />
@@ -4568,6 +4573,9 @@
         <mark key="[" line="22" column="33" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/bed-reservations-hostel/src/Reservation/Components/ReservationForm/ReservationForm.latte" timestamp="1542711323432">
+        <mark key="[" line="38" column="18" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/IElFinderFileConsumer.php" timestamp="1493040597826">
         <mark key="[" line="11" column="0" />
@@ -4929,27 +4937,33 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LT5nZXRRdWVyeSgpLT5nZXRSZXN1bHQoKQ==</text>
+        <text>%s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT5nZXRRdWVyeSgpLT5nZXRSZXN1bHQoKQ==</text>
+        <text>%s</text>
       </register>
       <register name="/" type="4">
-        <text>Všechna</text>
+        <text>isUserLogged</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvKiogQHZhciBhcnJheSAkcmVzdWx0ICovCg==</text>
+        <text encoding="base64">CQkgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJMSA9PiAnRnl6aWNrw6Egb3NvYmEnCg==</text>
+        <text encoding="base64">CQkgICAgZHVtcCgkc3RhcnREYXRlKTsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CQkvKiogQHZhciBhcnJheSAkcmVzdWx0ICovCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJMSA9PiAnRnl6aWNrw6Egb3NvYmEnCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CQkzID0+ICdQcmFnb2NsZWFuIHMuci5vLicK</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>$('[data-provide=&quot;reservation-form-date-input&quot;]', $context || document).on('focusout', function (ev) {
 
                 var componentId = $(this).data('component-id');
@@ -4967,29 +4981,23 @@
                 }, this));
             });</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">PC9zY3JpcHQ+Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CX0pOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CSQoZnVuY3Rpb24gKCkgewo=</text>
+        <text encoding="base64">CX0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Všechna</last-search>
+      <last-search>isUserLogged</last-search>
       <last-offset />
-      <last-pattern>Všechna</last-pattern>
+      <last-pattern>isUserLogged</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -4997,7 +5005,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onAnchor</entry>
         <entry>findPairs</entry>
         <entry>inverseJoinColumns</entry>
         <entry>inversedBy</entry>
@@ -5017,6 +5024,7 @@
         <entry>Callback</entry>
         <entry>NULL</entry>
         <entry>Všechna</entry>
+        <entry>isUserLogged</entry>
       </history-search>
       <history-cmd>
         <entry>%s/incidentsDao/incidentsRepository/g</entry>
