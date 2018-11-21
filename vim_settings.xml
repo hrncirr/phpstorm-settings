@@ -1042,8 +1042,8 @@
         <mark key="]" line="25" column="4" />
         <mark key="." line="25" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Address.php" timestamp="1542801308615">
-        <mark key="[" line="59" column="4" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Address.php" timestamp="1542805419828">
+        <mark key="[" line="67" column="44" />
         <mark key="]" line="59" column="4" />
         <mark key="." line="59" column="4" />
       </file>
@@ -4215,10 +4215,10 @@
         <mark key="]" line="55" column="8" />
         <mark key="." line="55" column="8" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/ContactForm/ContactForm.php" timestamp="1542804374712">
-        <mark key="[" line="83" column="19" />
-        <mark key="]" line="83" column="19" />
-        <mark key="." line="83" column="19" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/ContactForm/ContactForm.php" timestamp="1542805849124">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/app/Utils/AppCacheHelpers.php" timestamp="1500965471928">
         <mark key="[" line="53" column="31" />
@@ -4720,7 +4720,7 @@
         <mark key="]" line="12" column="4" />
         <mark key="." line="12" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Contact.php" timestamp="1502097634962">
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Contact.php" timestamp="1542805384295">
         <mark key="[" line="23" column="4" />
         <mark key="]" line="23" column="3" />
         <mark key="." line="23" column="3" />
@@ -4965,8 +4965,8 @@
       <jump line="129" column="26" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>persist($contact)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="-" type="4">
         <text>persist($contact)</text>
@@ -4978,38 +4978,31 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkkdmFsdWVzID0gJGZvcm0tPmdldFZhbHVlcygpOwo=</text>
+        <text encoding="base64">CQkJZHVtcCgkY29udGFjdC0+Z2V0QWRkcmVzcygpLT5nZXRJZCgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkvKiogQHZhciAgJHZhbHVlcyAqLwo=</text>
+        <text encoding="base64">CQkJJHRoaXMtPmVtLT5wZXJzaXN0KCRjb250YWN0LT5nZXRBZGRyZXNzKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvKiogQHZhciBDb250YWN0ICRjb250YWN0ICovCg==</text>
+        <text encoding="base64">CQkJZHVtcCgnb2snKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkkYmFua0Nvbm5lY3Rpb24tPnNldFN1YmplY3QoJHRoaXMtPnN1YmplY3QpOwo=</text>
+        <text encoding="base64">CQkJJGNvbnRhY3QtPmdldEFkZHJlc3MoKS0+c2V0RGVmYXVsdENvbnRhY3QoJGNvbnRhY3QpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkkYWRkcmVzcy0+c2V0U3ViamVjdCgkdGhpcy0+c3ViamVjdCk7Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCSR0aGlzLT5lbS0+cGVyc2lzdCgkdGhpcy0+Y29udGFjdCk7Cg==</text>
+        <text encoding="base64">CQkkdmFsdWVzID0gJGZvcm0tPmdldFZhbHVlcygpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>public function getDefaultBankConnection(): ?BankConnection
-	{
-		
-	}</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkvKiogQHZhciAgJHZhbHVlcyAqLwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>/**
-	 * @ORM\OneToMany(targetEntity=&quot;&quot;, mappedBy=&quot;&quot;, cascade={&quot;persist&quot;})
-	 * @var []|\Doctrine\Common\Collections\ArrayCollection
-	 */
-	protected $;</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkvKiogQHZhciBDb250YWN0ICRjb250YWN0ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
