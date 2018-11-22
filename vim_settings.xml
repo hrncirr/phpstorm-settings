@@ -578,6 +578,11 @@
         <mark key="]" line="305" column="8" />
         <mark key="." line="305" column="8" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Events/SubjectListener.php" timestamp="1542878079232">
+        <mark key="[" line="25" column="33" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="/home/www/lib/vendor/nnb/staff/src/Model/Employee.php" timestamp="1475656031837">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -4240,11 +4245,11 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" timestamp="1542877050999">
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" timestamp="1542877900094">
         <mark key="'" line="234" column="26" />
-        <mark key="[" line="325" column="10" />
-        <mark key="]" line="325" column="10" />
-        <mark key="." line="325" column="10" />
+        <mark key="[" line="342" column="0" />
+        <mark key="]" line="342" column="8" />
+        <mark key="." line="342" column="8" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/TagsGrid/TagsGrid.php" timestamp="1497598493187">
         <mark key="[" line="16" column="0" />
@@ -4985,8 +4990,8 @@
       <jump line="129" column="26" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Document\Events\DocumentNumberListener&quot;,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkkaW52b2ljZS0+c2V0VmFyaWFibGVTeW1ib2woc3Vic3RyKCRpbnZvaWNlLT5nZXROdW1iZXIoKSwgMikpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>Document\Events\DocumentNumberListener&quot;,</text>
@@ -4997,7 +5002,22 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQkkaW52b2ljZS0+c2V0VmFyaWFibGVTeW1ib2woc3Vic3RyKCRpbnZvaWNlLT5nZXROdW1iZXIoKSwgMikpOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkkZm9ybS0+b25BZnRlckVudGl0eU1hcHBlclNhdmVbXSA9IGZ1bmN0aW9uIChTdWJqZWN0ICRzdWJqZWN0KSB7Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">aWYgKChpbnQpICR0aGlzLT5sZWdhbFN1YmplY3Rpdml0eSA9PT0gTGVnYWxTdWJqZWN0aXZpdHk6Ok5BVFVSQUxfUEVSU09OKSB7CgkJCSRmb3JtLT5vbkFmdGVyRW50aXR5TWFwcGVyU2F2ZVtdID0gZnVuY3Rpb24gKFN1YmplY3QgJHN1YmplY3QpIHsKCQkJCS8qKiBAdmFyIFBob25lICRwaG9uZU51bWJlciAqLwoJCQkJJHBob25lTnVtYmVyID0gJHRoaXMtPmNvbnRhY3QtPmdldFBob25lTnVtYmVyKCkgPz8gJHRoaXMtPmNvbnRhY3QtPmdldENlbGxQaG9uZU51bWJlcigpOwoKCQkJCSRzdWJqZWN0LT5zZXRTaWQoKGludCkgc3RyX3JlcGxhY2UoJyAnLCAnJywgJHBob25lTnVtYmVyLT5nZXROYXRpb25hbE51bWJlcigpKSk7CgkJCQkkc3ViamVjdC0+c2V0TmFtZSgkdGhpcy0+Y29udGFjdC0+Z2V0Rmlyc3ROYW1lKCkgLiAnICcgLiAkdGhpcy0+Y29udGFjdC0+Z2V0TGFzdE5hbWUoKSk7CgkJCX07CgkJfQ==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJfTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJJGZvcm0tPm9uQWZ0ZXJFbnRpdHlNYXBwZXJTYXZlW10gPSBmdW5jdGlvbiAoU3ViamVjdCAkc3ViamVjdCkgewo=</text>
+      </register>
+      <register name="6" type="4">
         <text>- Invoicing\Events\InvoiceListener
 	- Invoicing\Events\CreditNoteListener
 
@@ -5005,31 +5025,16 @@
 		class: Invoicing\Console\Commands\ContractImportCommand
 		tags: [kdyby.console.command]</text>
       </register>
-      <register name="2" type="4">
+      <register name="7" type="4">
         <text>-
 		class: Invoicing\Console\Commands\ContractImportCommand
 		tags: [kdyby.console.command]</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ZWxzZSB7CgkJCSR0aGlzLT5jcmVhdGVOYXR1cmFsUGVyc29uRm9ybVBhcnQoJGZvcm0pOwoJCX0=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQlpZiAoJHRoaXMtPmJyaWVmTW9kZSkgewo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXNlIEFkZHJlc3NCb29rXENvbXBvbmVudHNcU3ViamVjdEZvcm1cSVN1YmplY3RGb3JtRmFjdG9yeTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXNlIEFkZHJlc3NCb29rXENvbXBvbmVudHNcU3ViamVjdFxTdWJqZWN0Rm9ybVxTdWJqZWN0Rm9ybTsK</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gSVN1YmplY3RGb3JtRmFjdG9yeSAkZmFjdG9yeQoJICoKCSAqIEByZXR1cm4gU3ViamVjdEZvcm0KCSAqLwoJcHJvdGVjdGVkIGZ1bmN0aW9uIGNyZWF0ZUNvbXBvbmVudFN1YmplY3RGb3JtKElTdWJqZWN0Rm9ybUZhY3RvcnkgJGZhY3RvcnkpOiBTdWJqZWN0Rm9ybQoJewoJCSRjb250cm9sID0gJGZhY3RvcnktPmNyZWF0ZSgpOwoKCQlyZXR1cm4gJGNvbnRyb2w7Cgl9</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">dXNlIEFkZHJlc3NCb29rXENvbXBvbmVudHNcU3ViamVjdEFkZHJlc3NDb250YWN0Rm9ybVxTdWJqZWN0QWRkcmVzc0NvbnRhY3RGb3JtOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEFkZHJlc3NCb29rXENvbXBvbmVudHNcU3ViamVjdEFkZHJlc3NDb250YWN0Rm9ybVxJU3ViamVjdEFkZHJlc3NDb250YWN0Rm9ybUZhY3Rvcnk7Cg==</text>
+        <text encoding="base64">CQlpZiAoJHRoaXMtPmJyaWVmTW9kZSkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
