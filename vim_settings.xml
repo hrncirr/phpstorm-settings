@@ -1028,10 +1028,10 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" timestamp="1542985482073">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/TSubjectFormPart.php" timestamp="1543328974430">
+        <mark key="[" line="125" column="12" />
+        <mark key="]" line="125" column="12" />
+        <mark key="." line="125" column="12" />
       </file>
       <file name="/home/www/html/nnb/dms/app/Presenters/GroupsPresenter.php" timestamp="1490273967586">
         <mark key="[" line="17" column="4" />
@@ -4870,10 +4870,10 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/SubjectFormPart.latte" timestamp="1542984190945">
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/SubjectFormPart.latte" timestamp="1543326939050">
+        <mark key="[" line="5" column="46" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/src/Pages/Tag.php" timestamp="1491827634265">
         <mark key="[" line="22" column="21" />
@@ -5069,11 +5069,13 @@
       <jump line="99" column="33" filename="/home/www/html/dv/adera/libs/vendor/hrncirr/forms-typeahead/src/Controls/TypeaheadInput.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQl1bnNldCgkY29udGFpbmVyWyd0aW4nXSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>if (!isset($container[$name])) {
+				continue;
+			}</text>
       </register>
       <register name="-" type="4">
-        <text>['legalSubjectivity']</text>
+        <text encoding="base64">J25hbWUnLCA=</text>
       </register>
       <register name="/" type="4">
         <text>onSelect</text>
@@ -5081,32 +5083,36 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCQl1bnNldCgkY29udGFpbmVyWyd0aW4nXSk7Cg==</text>
+      <register name="1" type="4">
+        <text>if (!isset($container[$name])) {
+				continue;
+			}</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">JGZvcm0tPm9uQW5jaG9yW10gPSBmdW5jdGlvbiAoJGZvcm0pIHVzZSAoJGNvbnRhaW5lcikgewoJCQkvL2R1bXAoJGZvcm0tPmdldFZhbHVlcygpKTsKCQl9Ow==</text>
+        <text encoding="base64">ZWxzZSB7CgkJCSRsZWdhbFN1YmplY3Rpdml0eSA9ICRjb250YWluZXJbJ2xlZ2FsU3ViamVjdGl2aXR5J10tPmdldFZhbHVlKCk7CgkJfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlkdW1wKCRzdWJqZWN0KTsK</text>
+        <text encoding="base64">CQlpZiAoJGxlZ2FsU3ViamVjdGl2aXR5ID09PSApCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJZHVtcCgkc3ViamVjdFByb3ZpZGVyKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">JGxlZ2FsU3ViamVjdGl2aXR5ID0gIWVtcHR5KCRjb250YWluZXJbJ2xlZ2FsU3ViamVjdGl2aXR5J10tPmdldFZhbHVlKCkpID8KCQlpZiAoJHN1YmplY3QtPnsnZ2V0JyAuIHVjZmlyc3QoJ2xlZ2FsU3ViamVjdGl2aXR5Jyl9KCkgPT09IExlZ2FsU3ViamVjdGl2aXR5OjpOQVRVUkFMX1BFUlNPTikgewoJCQl1bnNldCgkY29udGFpbmVyWydjaW4nXSwgJGNvbnRhaW5lclsndGluJ10pOwoJCX0KCgkJJGxlZ2FsU3ViamVjdGl2aXR5ID0gbnVsbDs=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJGVudGl0eS0+eydnZXQnIC4gdWNmaXJzdCgkY29udHJvbE5hbWUpfSgpKTsK</text>
+        <text encoding="base64">CQlpZiAoCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJGNvbnRyb2xOYW1lKTsK</text>
+      <register name="6" type="4">
+        <text>if ($name === 'legalSubjectivity') {
+				
+			}</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJGNvbnRyb2xOYW1lKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">aWYgKChpbnQpICRjb250YWluZXJbJ2xlZ2FsU3ViamVjdGl2aXR5J10tPmdldFZhbHVlKCkgPT09IExlZ2FsU3ViamVjdGl2aXR5OjpOQVRVUkFMX1BFUlNPTikgewoJCQl1bnNldCgkY29udGFpbmVyWydjaW4nXSwgJGNvbnRhaW5lclsndGluJ10pOwoJCX0=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">LyoqCgkgKiBAQXNzZXJ0XENhbGxiYWNrCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiB2YWxpZGF0ZVN1YmplY3ROYW1lKEV4ZWN1dGlvbkNvbnRleHRJbnRlcmZhY2UgJGNvbnRleHQsICRwYXlsb2FkKTogdm9pZAoJewoJCWlmICgkdGhpcy0+bGVnYWxTdWJqZWN0aXZpdHkgPT09IExlZ2FsU3ViamVjdGl2aXR5OjpMRUdBTF9FTlRJVFkpIHsKCQkJJGNvbnN0cmFpbnROb3RCbGFuayA9IG5ldyBBc3NlcnRcTm90QmxhbmsoKTsKCgkJCSRjb250ZXh0LT5nZXRWYWxpZGF0b3IoKQoJCQkJLT5pbkNvbnRleHQoJGNvbnRleHQpCgkJCQktPmF0UGF0aCgnbmFtZScpCgkJCQktPnZhbGlkYXRlKCR0aGlzLT5uYW1lLCAkY29uc3RyYWludE5vdEJsYW5rKTsKCQl9Cgl9CgoKCS8qKgoJICogQEFzc2VydFxDYWxsYmFjawoJICovCglwdWJsaWMgZnVuY3Rpb24gdmFsaWRhdGVTdWJqZWN0Q2luKEV4ZWN1dGlvbkNvbnRleHRJbnRlcmZhY2UgJGNvbnRleHQsICRwYXlsb2FkKTogdm9pZAoJewoJCWlmICgkdGhpcy0+bGVnYWxTdWJqZWN0aXZpdHkgPT09IExlZ2FsU3ViamVjdGl2aXR5OjpMRUdBTF9FTlRJVFkpIHsKCQkJJGNvbnN0cmFpbnROb3RCbGFuayA9IG5ldyBBc3NlcnRcTm90QmxhbmsoKTsKCgkJCSRjb250ZXh0LT5nZXRWYWxpZGF0b3IoKQoJCQkJLT5pbkNvbnRleHQoJGNvbnRleHQpCgkJCQktPmF0UGF0aCgnY2luJykKCQkJCS0+dmFsaWRhdGUoJHRoaXMtPmNpbiwgJGNvbnN0cmFpbnROb3RCbGFuayk7CgkJfQoJfQ==</text>
+        <text encoding="base64">JGZvcm0tPm9uQW5jaG9yW10gPSBmdW5jdGlvbiAoRm9ybSAkZm9ybSkgdXNlICgkY29udGFpbmVyKSB7CgkJCQlpZiAoKGludCkgJGNvbnRhaW5lclsnbGVnYWxTdWJqZWN0aXZpdHknXS0+Z2V0VmFsdWUoKSA9PT0gTGVnYWxTdWJqZWN0aXZpdHk6Ok5BVFVSQUxfUEVSU09OKSB7CgkJCQkJdW5zZXQoJGNvbnRhaW5lclsnY2luJ10sICRjb250YWluZXJbJ3RpbiddKTsKCQkJCX0KCQkJfTs=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJZHVtcCgkc3ViamVjdFByb3ZpZGVyKQo=</text>
+        <text encoding="base64">CQkJCQkvL2R1bXAoJGNvbnRhaW5lci0+Z2V0VmFsdWVzKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
