@@ -957,8 +957,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Document/TPrice.php" timestamp="1542992611738">
+      <file name="/home/www/html/dv/adera/Modules/Document/TPrice.php" timestamp="1543330757957">
         <mark key="[" line="8" column="53" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/src/Localization/Doctrine/Translatable.php" timestamp="1497015078633">
         <mark key="[" line="1" column="0" />
@@ -2538,6 +2540,7 @@
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/ContactsGrid/ContactsGrid.php" timestamp="1542803092226">
         <mark key="[" line="107" column="12" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Document/TDocumentSubject.php" timestamp="1543330754474" />
       <file name="/home/www/html/dv/cms/Modules/Pages/AdminModule/Presenters/templates/Page/default.latte" timestamp="1492067162988">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="4" />
@@ -3069,7 +3072,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542992598104">
+      <file name="/Dummy.txt" timestamp="1543330700356">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -5069,10 +5072,8 @@
       <jump line="99" column="33" filename="/home/www/html/dv/adera/libs/vendor/hrncirr/forms-typeahead/src/Controls/TypeaheadInput.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>if (!isset($container[$name])) {
-				continue;
-			}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">SW5nLiBMdWNpZSBEdm/FmcOha292w6EsIGFzaXN0ZW50a2EgcHJvdm96bsSbLXRlY2huaWNrw6lobyBuw6FtxJtzdGthCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">J25hbWUnLCA=</text>
@@ -5083,36 +5084,36 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">SW5nLiBMdWNpZSBEdm/FmcOha292w6EsIGFzaXN0ZW50a2EgcHJvdm96bsSbLXRlY2huaWNrw6lobyBuw6FtxJtzdGthCg==</text>
+      </register>
+      <register name="2" type="4">
         <text>if (!isset($container[$name])) {
 				continue;
 			}</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ZWxzZSB7CgkJCSRsZWdhbFN1YmplY3Rpdml0eSA9ICRjb250YWluZXJbJ2xlZ2FsU3ViamVjdGl2aXR5J10tPmdldFZhbHVlKCk7CgkJfQ==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQlpZiAoJGxlZ2FsU3ViamVjdGl2aXR5ID09PSApCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">JGxlZ2FsU3ViamVjdGl2aXR5ID0gIWVtcHR5KCRjb250YWluZXJbJ2xlZ2FsU3ViamVjdGl2aXR5J10tPmdldFZhbHVlKCkpID8KCQlpZiAoJHN1YmplY3QtPnsnZ2V0JyAuIHVjZmlyc3QoJ2xlZ2FsU3ViamVjdGl2aXR5Jyl9KCkgPT09IExlZ2FsU3ViamVjdGl2aXR5OjpOQVRVUkFMX1BFUlNPTikgewoJCQl1bnNldCgkY29udGFpbmVyWydjaW4nXSwgJGNvbnRhaW5lclsndGluJ10pOwoJCX0KCgkJJGxlZ2FsU3ViamVjdGl2aXR5ID0gbnVsbDs=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQlpZiAoCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>if ($name === 'legalSubjectivity') {
 				
 			}</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">aWYgKChpbnQpICRjb250YWluZXJbJ2xlZ2FsU3ViamVjdGl2aXR5J10tPmdldFZhbHVlKCkgPT09IExlZ2FsU3ViamVjdGl2aXR5OjpOQVRVUkFMX1BFUlNPTikgewoJCQl1bnNldCgkY29udGFpbmVyWydjaW4nXSwgJGNvbnRhaW5lclsndGluJ10pOwoJCX0=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">JGZvcm0tPm9uQW5jaG9yW10gPSBmdW5jdGlvbiAoRm9ybSAkZm9ybSkgdXNlICgkY29udGFpbmVyKSB7CgkJCQlpZiAoKGludCkgJGNvbnRhaW5lclsnbGVnYWxTdWJqZWN0aXZpdHknXS0+Z2V0VmFsdWUoKSA9PT0gTGVnYWxTdWJqZWN0aXZpdHk6Ok5BVFVSQUxfUEVSU09OKSB7CgkJCQkJdW5zZXQoJGNvbnRhaW5lclsnY2luJ10sICRjb250YWluZXJbJ3RpbiddKTsKCQkJCX0KCQkJfTs=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCQkvL2R1bXAoJGNvbnRhaW5lci0+Z2V0VmFsdWVzKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
