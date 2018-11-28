@@ -4176,11 +4176,11 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" timestamp="1542984081805">
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" timestamp="1543402399023">
         <mark key="'" line="243" column="26" />
-        <mark key="[" line="369" column="12" />
-        <mark key="]" line="369" column="12" />
-        <mark key="." line="369" column="12" />
+        <mark key="[" line="254" column="63" />
+        <mark key="]" line="304" column="0" />
+        <mark key="." line="304" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/TagsGrid/TagsGrid.php" timestamp="1497598493187">
         <mark key="[" line="16" column="0" />
@@ -4908,8 +4908,8 @@
       <jump line="145" column="9" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5zdWJqZWN0ID09PSBudWxsKSB7CgkJCXJldHVybjsKCQl9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Subject $subjec</text>
@@ -4920,36 +4920,36 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJaWYgKCkK</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">aWYgKCR0aGlzLT5zdWJqZWN0ID09PSBudWxsKSB7CgkJCXJldHVybjsKCQl9</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">LyoqIEB2YXIgU3ViamVjdCAkc3ViamVjdCAqLwoJCSR0aGlzLT5zdWJqZWN0ID0gJHRoaXMtPmVtLT5nZXRSZXBvc2l0b3J5KFN1YmplY3Q6OmNsYXNzKS0+ZmluZCgkdmFsdWVzWydpZCddKTs=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJJHN1YmplY3QgPSAkdGhpcy0+ZW0tPmZpbmQoU3ViamVjdDo6Y2xhc3MsICR0aGlzLT5zdWJqZWN0SWQpOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">aWYgKCFpc3NldCgkdGhpcy0+c3ViamVjdElkKSkgewoJCQl0aHJvdyBuZXcgXExvZ2ljRXhjZXB0aW9uKCdTdWJqZWN0IGlkIG11c3QgYmUgc2V0LicpOwoJCX0K</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>/**
 	 * @var int
 	 * @persistent
 	 */
 	public $subjectId;</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">JGZvcm0tPm9uQWZ0ZXJFbnRpdHlNYXBwZXJTYXZlW10gPSBmdW5jdGlvbigpIHVzZSAoJGZvcm0pIHsKCQkJZHVtcCgkZm9ybVsnYWRkcmVzc0Jvb2tTdWJqZWN0J10tPmdldFZhbHVlKCkpOwoJCX07</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQl7ZHVtcCAkZm9ybS0+Z2V0RXJyb3JzKCl9Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCSR0aGlzLT5zdWJqZWN0SWQgPSAkZGF0dW1bJ2lkJ107Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
