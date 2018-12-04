@@ -411,8 +411,8 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/AttachmentsControl/AttachmentsControl.php" timestamp="1543845747481">
-        <mark key="[" line="37" column="27" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/AttachmentsControl/AttachmentsControl.php" timestamp="1543921082966">
+        <mark key="[" line="72" column="26" />
         <mark key="]" line="65" column="4" />
         <mark key="." line="65" column="4" />
       </file>
@@ -3051,7 +3051,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentFilesGrid/DocumentFilesGrid.latte" timestamp="1543844958175" />
       <file name="/home/www/html/dv/cms/www/index.php" timestamp="1497612974319">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -3147,10 +3146,10 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Presenters/DefaultPresenter.php" timestamp="1493991136396">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Presenters/DefaultPresenter.php" timestamp="1543920988652">
+        <mark key="[" line="250" column="4" />
+        <mark key="]" line="250" column="4" />
+        <mark key="." line="250" column="4" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Model/CountryModel.php" timestamp="1502180241526">
         <mark key="[" line="19" column="6" />
@@ -4308,8 +4307,10 @@
       <file name="/home/www/html/nnb/bed-reservations-hostel/src/Reservation/MailSender/MailSender.php" timestamp="1542978026007">
         <mark key="[" line="74" column="40" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1543846370972">
-        <mark key="[" line="80" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1543921606830">
+        <mark key="[" line="253" column="39" />
+        <mark key="]" line="563" column="0" />
+        <mark key="." line="563" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/FilesUploadForm/FilesUploadForm.php" timestamp="1495783367578">
         <mark key="[" line="28" column="36" />
@@ -4605,10 +4606,10 @@
         <mark key="]" line="61" column="8" />
         <mark key="." line="61" column="8" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" timestamp="1493293611618">
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="181" column="0" />
-        <mark key="." line="181" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" timestamp="1543921694112">
+        <mark key="[" line="84" column="4" />
+        <mark key="]" line="200" column="0" />
+        <mark key="." line="200" column="0" />
       </file>
       <file name="/home/www/vendor/nnb/staff/src/Model/Employee.php" timestamp="1542627873567">
         <mark key="[" line="1" column="23" />
@@ -5125,11 +5126,11 @@
       <jump line="145" column="9" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JGNvbnRyb2wtPm9uU2VsZWN0W10gPSAkY29udHJvbC0+b25EZXNlbGVjdFtdID0gZnVuY3Rpb24gKCkgewoJCQkkdGhpcy0+Z2V0UHJlc2VudGVyKClbJ2NsaXBib2FyZCddLT5yZWxvYWQoKTsKCQl9Ow==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCS8vJHRlbXBsYXRlLT5wYXJlbnREb2N1bWVudCA9ICR0aGlzLT5wYXRoWydkb2N1bWVudCddOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">e2lmICEkZG9jdW1lbnQtPmlzQXR0YWNobWVudCgpfQ==</text>
+        <text>= self::VIEW_DOCUMENTS</text>
       </register>
       <register name="/" type="4">
         <text>subject</text>
@@ -5137,32 +5138,36 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">JGNvbnRyb2wtPm9uU2VsZWN0W10gPSAkY29udHJvbC0+b25EZXNlbGVjdFtdID0gZnVuY3Rpb24gKCkgewoJCQkkdGhpcy0+Z2V0UHJlc2VudGVyKClbJ2NsaXBib2FyZCddLT5yZWxvYWQoKTsKCQl9Ow==</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCS8vJHRlbXBsYXRlLT5wYXJlbnREb2N1bWVudCA9ICR0aGlzLT5wYXRoWydkb2N1bWVudCddOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gSURvY3VtZW50RmlsZXNHcmlkRmFjdG9yeSAkZmFjdG9yeQoJICoKCSAqIEByZXR1cm4gRG9jdW1lbnRGaWxlc0dyaWQKCSAqLwoJcHJvdGVjdGVkIGZ1bmN0aW9uIGNyZWF0ZUNvbXBvbmVudEdyaWQoSURvY3VtZW50RmlsZXNHcmlkRmFjdG9yeSAkZmFjdG9yeSk6IERvY3VtZW50RmlsZXNHcmlkCgl7CgkJJGNvbnRyb2wgPSAkZmFjdG9yeS0+Y3JlYXRlKCR0aGlzLT5mb2xkZXIsICR0aGlzLT5kb2N1bWVudCk7CgoJCSRjb250cm9sLT5vbkNoYW5nZVtdID0gZnVuY3Rpb24gKCkgewoJCQkkdGhpcy0+b25DaGFuZ2UoKTsKCQl9OwoKCQlyZXR1cm4gJGNvbnRyb2w7Cgl9</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkoISR0aGlzLT5wYXRoWydkb2N1bWVudCddKXsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ey9zbmlwcGV0fQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">aWYgKCEkdGhpcy0+cGF0aFsnZm9sZGVyJ10gJiYgISR0aGlzLT5wYXRoWydkb2N1bWVudCddKSB7CgkJJHRoaXMtPnRlbXBsYXRlLT50aXRsZSA9ICR0aGlzLT50aXRsZSA/OiAnRG9rdW1lbnR5JzsKCQl9CgllbHNlaWY=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CXtjb250cm9sIGdyaWR9Cg==</text>
+      <register name="4" type="4">
+        <text>/**
+	 * @param IClipboardControlFactory $factory
+	 *
+	 * @return ClipboardControl
+	 */</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkkdGVtcGxhdGUgPSAkdGhpcy0+Z2V0VGVtcGxhdGUoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXtjb250cm9sIHVwbG9hZEZvcm19Cg==</text>
+        <text encoding="base64">CQkvKiogQHZhciBUZW1wbGF0ZXxcc3RkQ2xhc3MgJHRlbXBsYXRlICovCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">e3NuaXBwZXR9Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">JGNvbnRyb2wtPm9uU2VsZWN0W10gPSAkY29udHJvbC0+b25EZXNlbGVjdFtdID0gZnVuY3Rpb24gKCkgewoJCQkkdGhpcy0+Z2V0UHJlc2VudGVyKClbJ2NsaXBib2FyZCddLT5yZWxvYWQoKTsKCQl9Ow==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gSURvY3VtZW50RmlsZXNHcmlkRmFjdG9yeSAkZmFjdG9yeQoJICoKCSAqIEByZXR1cm4gRG9jdW1lbnRGaWxlc0dyaWQKCSAqLwoJcHJvdGVjdGVkIGZ1bmN0aW9uIGNyZWF0ZUNvbXBvbmVudEdyaWQoSURvY3VtZW50RmlsZXNHcmlkRmFjdG9yeSAkZmFjdG9yeSk6IERvY3VtZW50RmlsZXNHcmlkCgl7CgkJJGNvbnRyb2wgPSAkZmFjdG9yeS0+Y3JlYXRlKCR0aGlzLT5mb2xkZXIsICR0aGlzLT5kb2N1bWVudCk7CgoJCSRjb250cm9sLT5vbkNoYW5nZVtdID0gZnVuY3Rpb24gKCkgewoJCQkkdGhpcy0+b25DaGFuZ2UoKTsKCQl9OwoKCQlyZXR1cm4gJGNvbnRyb2w7Cgl9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJaWYgKCkK</text>
+        <text encoding="base64">ey9zbmlwcGV0fQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
