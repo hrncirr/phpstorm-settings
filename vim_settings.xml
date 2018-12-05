@@ -511,6 +511,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="/home/www/lib/vendor/hrncirr/forms-typeahead/src/Controls/TypeaheadInput.php" timestamp="1544003147143">
+        <mark key="'" line="154" column="24" />
+        <mark key="[" line="37" column="26" />
+        <mark key="]" line="37" column="26" />
+        <mark key="^" line="37" column="26" />
+        <mark key="." line="37" column="26" />
+      </file>
       <file name="/home/www/html/dv/cms/src/Url/RedirectFacade.php" timestamp="1500639816941">
         <mark key="[" line="3" column="1" />
         <mark key="]" line="9" column="0" />
@@ -2220,6 +2227,11 @@
         <mark key="]" line="120" column="47" />
         <mark key="." line="120" column="47" />
       </file>
+      <file name="/home/www/lib/vendor/hrncirr/forms-typeahead/client-side/js/hrncirr.forms.typeahead.init.js" timestamp="1544003051174">
+        <mark key="[" line="41" column="20" />
+        <mark key="]" line="42" column="32" />
+        <mark key="." line="42" column="32" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Files/Storage/FileStorage.php" timestamp="1488369168656">
         <mark key="[" line="61" column="32" />
         <mark key="]" line="11" column="0" />
@@ -3530,8 +3542,8 @@
       <file name="/home/www/html/nnb/passportization/app/Components/BreadcrumbsControl/BreadcrumbsControl.php" timestamp="1502106042064">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/RelatedDocumentsControl/RelatedDocumentsControl.php" timestamp="1543932260015">
-        <mark key="[" line="97" column="63" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/RelatedDocumentsControl/RelatedDocumentsControl.php" timestamp="1544002025277">
+        <mark key="[" line="87" column="96" />
         <mark key="]" line="97" column="63" />
         <mark key="." line="97" column="63" />
       </file>
@@ -4612,7 +4624,7 @@
         <mark key="]" line="61" column="8" />
         <mark key="." line="61" column="8" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" timestamp="1543931654678">
+      <file name="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" timestamp="1544001988308">
         <mark key="[" line="249" column="47" />
         <mark key="]" line="248" column="58" />
         <mark key="." line="248" column="58" />
@@ -5031,12 +5043,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="12" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="105" column="24" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="110" column="43" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="125" column="38" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="173" column="19" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="369" column="39" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
       <jump line="670" column="20" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
       <jump line="672" column="53" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
       <jump line="323" column="4" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
@@ -5131,16 +5137,22 @@
       <jump line="166" column="38" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" />
       <jump line="125" column="16" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" />
       <jump line="145" column="9" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" />
+      <jump line="65" column="6" filename="/home/www/lib/vendor/hrncirr/forms-typeahead/src/Controls/TypeaheadInput.php" />
+      <jump line="37" column="18" filename="/home/www/lib/vendor/hrncirr/forms-typeahead/src/Controls/TypeaheadInput.php" />
+      <jump line="63" column="15" filename="/home/www/lib/vendor/hrncirr/forms-typeahead/src/Controls/TypeaheadInput.php" />
+      <jump line="148" column="19" filename="/home/www/lib/vendor/hrncirr/forms-typeahead/src/Controls/TypeaheadInput.php" />
+      <jump line="152" column="34" filename="/home/www/lib/vendor/hrncirr/forms-typeahead/src/Controls/TypeaheadInput.php" />
+      <jump line="154" column="24" filename="/home/www/lib/vendor/hrncirr/forms-typeahead/src/Controls/TypeaheadInput.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JHRhZy0+YWRkRG9jdW1lbnQoJHRoaXMpOwoJCQkkdGhpcy0+dGFnc1tdID0gJHRhZzs=</text>
+        <text>config.typeahead.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aWYgKCEkdGhpcy0+ZG9jdW1lbnRzLT5jb250YWlucygkZG9jdW1lbnQpKSB7</text>
+        <text>config.typeahead.</text>
       </register>
       <register name="/" type="4">
-        <text>subject</text>
+        <text>limit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
@@ -5177,9 +5189,9 @@
       </register>
     </registers>
     <search>
-      <last-search>subject</last-search>
+      <last-search>limit</last-search>
       <last-offset />
-      <last-pattern>subject</last-pattern>
+      <last-pattern>limit</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -5187,8 +5199,6 @@
     </search>
     <history>
       <history-search>
-        <entry>createNewContainer</entry>
-        <entry>bbb</entry>
         <entry>creteComponent</entry>
         <entry>createComponent</entry>
         <entry>createContainer</entry>
@@ -5207,6 +5217,8 @@
         <entry>onSelect</entry>
         <entry>subjectId</entry>
         <entry>subject</entry>
+        <entry>LIMIT</entry>
+        <entry>limit</entry>
       </history-search>
       <history-cmd>
         <entry>%s/incidentsDao/incidentsRepository/g</entry>
