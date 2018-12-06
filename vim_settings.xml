@@ -4134,10 +4134,12 @@
         <mark key="]" line="91" column="8" />
         <mark key="." line="91" column="8" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1544093934121">
-        <mark key="[" line="236" column="20" />
-        <mark key="]" line="236" column="20" />
-        <mark key="." line="236" column="20" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1544094665822">
+        <mark key="'" line="159" column="22" />
+        <mark key="[" line="163" column="29" />
+        <mark key="]" line="616" column="37" />
+        <mark key="." line="616" column="37" />
+        <mark key="^" line="616" column="37" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/FilesUploadForm/FilesUploadForm.php" timestamp="1495783367578">
         <mark key="[" line="28" column="36" />
@@ -4804,10 +4806,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="347" column="21" filename="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/Controls/TextControl.php" />
-      <jump line="375" column="34" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="324" column="34" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
-      <jump line="363" column="27" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
       <jump line="401" column="23" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
       <jump line="419" column="23" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
       <jump line="423" column="23" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
@@ -4888,7 +4886,6 @@
       <jump line="222" column="15" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="233" column="8" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="246" column="12" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
-      <jump line="252" column="12" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="258" column="16" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="273" column="16" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="285" column="16" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
@@ -4904,6 +4901,11 @@
       <jump line="672" column="81" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="723" column="50" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="295" column="8" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="616" column="37" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="252" column="31" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="278" column="48" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="20" column="19" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="159" column="22" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4913,7 +4915,7 @@
         <text encoding="base64">JHRoaXMtPmRvY3VtZW50c1F1ZXJ5ID8/IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">JHRoaXMtPnBhdGg=</text>
+        <text>InvalidArgument</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
@@ -4956,9 +4958,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">JHRoaXMtPnBhdGg=</last-search>
+      <last-search>InvalidArgument</last-search>
       <last-offset />
-      <last-pattern encoding="base64">JHRoaXMtPnBhdGg=</last-pattern>
+      <last-pattern>InvalidArgument</last-pattern>
       <last-replace>selectedDocument</last-replace>
       <last-substitute>editDocument</last-substitute>
       <last-dir>1</last-dir>
@@ -4966,8 +4968,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setDefault</entry>
-        <entry>SubjectCOntect</entry>
         <entry>SubjectContact</entry>
         <entry>Enum</entry>
         <entry>dump</entry>
@@ -4986,6 +4986,8 @@
         <entry encoding="base64">JHRoaXMtPmRvY3VtZW50</entry>
         <entry>editDocument</entry>
         <entry encoding="base64">JHRoaXMtPnBhdGg=</entry>
+        <entry>\Logi</entry>
+        <entry>InvalidArgument</entry>
       </history-search>
       <history-cmd>
         <entry>160</entry>
