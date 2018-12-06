@@ -3529,10 +3529,10 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1544013037647">
-        <mark key="[" line="613" column="36" />
-        <mark key="]" line="577" column="12" />
-        <mark key="." line="577" column="12" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1544097880508">
+        <mark key="[" line="502" column="0" />
+        <mark key="]" line="502" column="4" />
+        <mark key="." line="502" column="4" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Exceptions/SubjectAlreadyExistsException.php" timestamp="1542886169784">
         <mark key="[" line="11" column="0" />
@@ -4423,11 +4423,11 @@
         <mark key="]" line="61" column="8" />
         <mark key="." line="61" column="8" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" timestamp="1544006799654">
-        <mark key="[" line="99" column="61" />
-        <mark key="]" line="248" column="58" />
-        <mark key="." line="248" column="58" />
-        <mark key="^" line="248" column="58" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" timestamp="1544098577120">
+        <mark key="'" line="111" column="0" />
+        <mark key="[" line="186" column="54" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="/home/www/html/nnb/nezadouci-udalosti/app/Components/Modals/ViewModal.php" timestamp="1482399971117">
         <mark key="[" line="36" column="0" />
@@ -4806,7 +4806,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="401" column="23" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
       <jump line="419" column="23" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
       <jump line="423" column="23" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
       <jump line="704" column="53" filename="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/Container.php" />
@@ -4906,27 +4905,34 @@
       <jump line="278" column="48" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="20" column="19" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="159" column="22" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="111" column="0" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5kb2N1bWVudCA9PT0gbnVsbCkgewoJCQkJCQl0aHJvdyBuZXcgSW52YWxpZFN0YXRlRXhjZXB0aW9uKCdEb2N1bWVudCBtdXN0IGJlIHNldCBpbiBjb25zdHJ1Y3Rvci4nKTsKCQkJCQl9Cg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQktPnNldFBhcmFtZXRlcignZG9jdW1lbnQnLCAkcmVsYXRlZFBhcmVudERvY3VtZW50KTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JHRoaXMtPmRvY3VtZW50c1F1ZXJ5ID8/IA==</text>
       </register>
       <register name="/" type="4">
-        <text>InvalidArgument</text>
+        <text>IS NOT NULL</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5kb2N1bWVudCA9PT0gbnVsbCkgewoJCQkJCQl0aHJvdyBuZXcgSW52YWxpZFN0YXRlRXhjZXB0aW9uKCdEb2N1bWVudCBtdXN0IGJlIHNldCBpbiBjb25zdHJ1Y3Rvci4nKTsKCQkJCQl9Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCQktPnNldFBhcmFtZXRlcignZG9jdW1lbnQnLCAkcmVsYXRlZFBhcmVudERvY3VtZW50KTsK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5kb2N1bWVudCA9PT0gbnVsbCkgewoJCQkJCQl0aHJvdyBuZXcgSW52YWxpZFN0YXRlRXhjZXB0aW9uKCdEb2N1bWVudCBtdXN0IGJlIHNldCBpbiBjb25zdHJ1Y3Rvci4nKTsKCQkJCQl9</text>
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldFJlbGF0ZWRQYXJlbnREb2N1bWVudCgpCgl7CgkJcmV0dXJuICR0aGlzLT5yZWxhdGVkUGFyZW50RG9jdW1lbnRzLT5maXJzdCgpOwoJfQoKCglwdWJsaWMgZnVuY3Rpb24gYWRkUmVsYXRlZFBhcmVudERvY3VtZW50KERvY3VtZW50ICRkb2N1bWVudCk6IHZvaWQKCXsKCQlpZiAoJHRoaXMtPnJlbGF0ZWRQYXJlbnREb2N1bWVudHMtPmNvbnRhaW5zKCRkb2N1bWVudCkpIHsKCQkJcmV0dXJuOwoJCX0KCgkJJGRvY3VtZW50LT5yZWxhdGVkRG9jdW1lbnRzW10gPSAkdGhpczsKCQkkdGhpcy0+cmVsYXRlZFBhcmVudERvY3VtZW50c1tdID0gJGRvY3VtZW50OwoJfQ==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">aWYgKCR0aGlzLT5kb2N1bWVudCA9PT0gbnVsbCkgewoJCQkJCQl0aHJvdyBuZXcgSW52YWxpZFN0YXRlRXhjZXB0aW9uKCdEb2N1bWVudCBtdXN0IGJlIHNldCBpbiBjb25zdHJ1Y3Rvci4nKTsKCQkJCQl9Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">aWYgKCR0aGlzLT5kb2N1bWVudCA9PT0gbnVsbCkgewoJCQkJCQl0aHJvdyBuZXcgSW52YWxpZFN0YXRlRXhjZXB0aW9uKCdEb2N1bWVudCBtdXN0IGJlIHNldCBpbiBjb25zdHJ1Y3Rvci4nKTsKCQkJCQl9</text>
+      </register>
+      <register name="5" type="4">
         <text>/**
 	 * @param IFolderSortTypeFormFactory $factory
 	 *
@@ -4935,32 +4941,26 @@
 	 * @throws \Nette\Application\AbortException
 	 */</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">aWYgKCRzcGVjaWFsID09PSAnaG9tZScpIHsKCQkJJGNvbnRyb2wtPnNldENzc0NsYXNzKCdzdWNjZXNzJykKCQkJCS0+c2V0VGl0bGUoc3ByaW50ZignTm92w6kgYSB6bcSbbsSbbsOpIGRva3VtZW50eSB6YSBwb3NsZWRuw61jaCAlZCBkbsOtJywgc2VsZjo6SElTVE9SWSkpOwoJCX0=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ZWxzZWlmICgkc3BlY2lhbCA9PT0gJ2hvbWUnKSB7CgkJCSRjb250cm9sLT5zZXRDc3NDbGFzcygnc3VjY2VzcycpCgkJCQktPnNldFRpdGxlKHNwcmludGYoJ05vdsOpIGEgem3Em27Em27DqSBkb2t1bWVudHkgemEgcG9zbGVkbsOtY2ggJWQgZG7DrScsIHNlbGY6OkhJU1RPUlkpKTsKCQl9</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">aWYgKCR0aGlzLT5mb2xkZXIgIT09IG51bGwgJiYgJHRoaXMtPmZvbGRlci0+Z2V0U3BlY2lhbCgpID09PSAnaG9tZScpIHsKCQkJJGdyaWQgPSAkdGhpc1snZ3JpZCddOwoJCQkkZ3JpZC0+c2V0Q3NzQ2xhc3MoJ3N1Y2Nlc3MnKQoJCQkJLT5zZXRUaXRsZShzcHJpbnRmKCdOb3bDqSBhIHptxJtuxJtuw6kgZG9rdW1lbnR5IHphIHBvc2xlZG7DrWNoICVkIGRuw60nLCBzZWxmOjpISVNUT1JZKSkKCQkJCS0+c2V0RG9jdW1lbnRzKCR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShEb2N1bWVudDo6Y2xhc3MpLT5mZXRjaCgobmV3IERvY3VtZW50c1F1ZXJ5KCkpCgkJCQkJLy8tPmJ5RG9jdW1lbnRzKCkKCQkJCQktPmJ5VXNlcigkdGhpcy0+Z2V0VXNlcigpKQoJCQkJCS0+YnlVcGRhdGVkQXQoKG5ldyBEYXRlVGltZSgpKS0+bW9kaWZ5KCctICcgLiBzZWxmOjpISVNUT1JZIC4gJyBkYXlzJykpCgkJCQkJLT5zb3J0QnlVcGRhdGVkQXQoKSkKCQkJCQktPmFwcGx5UGFnaW5hdG9yKCRncmlkWyd2cCddLT5nZXRQYWdpbmF0b3IoKSwKCQkJCQkJJGdyaWRbJ2l0ZW1zUGVyUGFnZSddLT5nZXRWYWx1ZSgpKSk7CgkJfQ==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCQktPnNvcnRCeVVwZGF0ZWRBdCgpKQoJCX0K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJJGdyaWRbJ2l0ZW1zUGVyUGFnZSddLT5nZXRWYWx1ZSgpKSk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQktPmFwcGx5UGFnaW5hdG9yKCRncmlkWyd2cCddLT5nZXRQYWdpbmF0b3IoKSwK</text>
+        <text encoding="base64">CQkJCQktPnNvcnRCeVVwZGF0ZWRBdCgpKQoJCX0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/editDocument/selectedDocument/g</text>
       </register>
     </registers>
     <search>
-      <last-search>InvalidArgument</last-search>
+      <last-search>IS NOT NULL</last-search>
       <last-offset />
-      <last-pattern>InvalidArgument</last-pattern>
+      <last-pattern>IS NOT NULL</last-pattern>
       <last-replace>selectedDocument</last-replace>
       <last-substitute>editDocument</last-substitute>
       <last-dir>1</last-dir>
@@ -4968,7 +4968,6 @@
     </search>
     <history>
       <history-search>
-        <entry>SubjectContact</entry>
         <entry>Enum</entry>
         <entry>dump</entry>
         <entry>onSelect</entry>
@@ -4988,6 +4987,7 @@
         <entry encoding="base64">JHRoaXMtPnBhdGg=</entry>
         <entry>\Logi</entry>
         <entry>InvalidArgument</entry>
+        <entry>IS NOT NULL</entry>
       </history-search>
       <history-cmd>
         <entry>160</entry>
