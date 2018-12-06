@@ -23,7 +23,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1544017613794">
+      <file name="/a.dummy" timestamp="1544107415116">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -403,11 +403,11 @@
         <mark key="]" line="158" column="8" />
         <mark key="." line="158" column="8" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/DI/InvoicingExtension.php" timestamp="1544022459805">
-        <mark key="[" line="109" column="71" />
-        <mark key="]" line="109" column="71" />
-        <mark key="." line="109" column="71" />
-        <mark key="^" line="105" column="24" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/DI/InvoicingExtension.php" timestamp="1544107116740">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="35" column="20" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/src/Pages/Query/PagesQuery.php" timestamp="1491828474090">
         <mark key="[" line="11" column="46" />
@@ -3606,6 +3606,9 @@
         <mark key="]" line="14" column="65" />
         <mark key="." line="14" column="65" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/attachments.latte" timestamp="1544009032114">
+        <mark key="[" line="18" column="109" />
+      </file>
       <file name="/home/www/html/nnb/dms/css/file.preview.spinner.css" timestamp="1489570367983">
         <mark key="[" line="64" column="1" />
         <mark key="]" line="64" column="1" />
@@ -3701,10 +3704,10 @@
         <mark key="]" line="26" column="15" />
         <mark key="." line="26" column="15" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Presenters/TrapLogPresenterCallback.php" timestamp="1544021940932">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Presenters/TrapLogPresenterCallback.php" timestamp="1544107606045">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="4" />
+        <mark key="." line="30" column="4" />
       </file>
       <file name="/home/www/vendor/hrncirr/jstree/js/hrncirr.jstree.init.js" timestamp="1479827618855">
         <mark key="[" line="453" column="0" />
@@ -4147,7 +4150,7 @@
         <mark key="]" line="118" column="22" />
         <mark key="." line="118" column="22" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Files/DI/FilesExtension.php" timestamp="1544021131380">
+      <file name="/home/www/html/nnb/dms/src/Files/DI/FilesExtension.php" timestamp="1544107338143">
         <mark key="[" line="177" column="4" />
         <mark key="]" line="177" column="0" />
         <mark key="." line="177" column="0" />
@@ -4318,12 +4321,6 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/TrapLog.php" timestamp="1544018049029">
-        <mark key="[" line="31" column="13" />
-        <mark key="]" line="31" column="14" />
-        <mark key="." line="31" column="14" />
-        <mark key="^" line="29" column="17" />
-      </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Console/Commands/Import/PhpDocImport.php" timestamp="1494320116018">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -4373,6 +4370,9 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Presenters/TrapLogsPresenter.php" timestamp="1544107599147">
+        <mark key="[" line="21" column="0" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/components/BaseControl.php" timestamp="1486721772954">
         <mark key="[" line="11" column="31" />
@@ -4571,6 +4571,11 @@
         <mark key="]" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Routers/TrapLogRouterFactory.php" timestamp="1544107449831">
+        <mark key="[" line="31" column="12" />
+        <mark key="]" line="31" column="12" />
+        <mark key="." line="31" column="12" />
+      </file>
       <file name="/home/www/vendor/hrncirr/cmp/client-side/js/hrncirr.cmp.lightbox.init.js" timestamp="1477049204187">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -4725,6 +4730,9 @@
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Router/TrapLogRouterFactory.php" timestamp="1544106740942">
+        <mark key="[" line="4" column="20" />
       </file>
       <file name="/home/www/vendor/nnb/bootstrap/src/Presenters/TSignPresenter.php" timestamp="1478597790930">
         <mark key="[" line="62" column="4" />
@@ -4911,10 +4919,15 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JHRoaXMtPm1vZGlmeURvY3VtZW50KGZ1bmN0aW9uICgpIHVzZSAoJGRvY3VtZW50KSB7CgkJCQkkdGhpcy0+ZG9jdW1lbnQtPnJlbW92ZVJlbGF0ZWREb2N1bWVudCgkZG9jdW1lbnQpOwoJCQl9KTsKCQl9IGVsc2Ugew==</text>
+        <text>/**
+	 * @param string $logId
+	 * @param string $test
+	 * @param string $sensor
+	 * @param string $voltage
+	 */</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPnZpZXcgIT09IHNlbGY6OlZJRVdfUkVMQVRFRF9ET0NVTUVOVFMgJiY=</text>
+        <text>FileConversion</text>
       </register>
       <register name="/" type="4">
         <text>remove</text>
@@ -4923,31 +4936,57 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">JHRoaXMtPm1vZGlmeURvY3VtZW50KGZ1bmN0aW9uICgpIHVzZSAoJGRvY3VtZW50KSB7CgkJCQkkdGhpcy0+ZG9jdW1lbnQtPnJlbW92ZVJlbGF0ZWREb2N1bWVudCgkZG9jdW1lbnQpOwoJCQl9KTsKCQl9IGVsc2Ugew==</text>
+        <text>/**
+	 * @param string $logId
+	 * @param string $test
+	 * @param string $sensor
+	 * @param string $voltage
+	 */</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">JHRoaXMtPmZsYXNoTWVzc2FnZShzcHJpbnRmKCdEb2t1bWVudCBgJXNgIGJ5bCDDunNwxJvFoW7EmyBvZHN0cmFuxJtuLicsICRkb2N1bWVudC0+Z2V0TmFtZSgpKSwgJ3N1Y2Nlc3MnKTsKCgkJCXJldHVybjs=</text>
+        <text encoding="base64">CglwdWJsaWMgZnVuY3Rpb24gYWN0aW9uTG9nKCk6IHZvaWQKCXsKCgl9</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJJGRvY3VtZW50LT5yZW1vdmVSZWxhdGVkRG9jdW1lbnQoJHRoaXMpOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">LyoKCQkJbnVsbCA9PiBbCgkJCQlSb3V0ZTo6RklMVEVSX0lOID0+ICRmaWx0ZXJJbiwKCQkJCVJvdXRlOjpGSUxURVJfT1VUID0+ICRmaWx0ZXJPdXQKCQkJXQoJCQkqLw==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJZHVtcCgnb2snKTsK</text>
+      <register name="4" type="4">
+        <text>/*
+		$filterIn = function ($params) {
+			if ($params['presenter'] !== 'Nette:Micro' || !isset($params['conversionPath'])) {
+				return null;
+			}
+
+			return $params;
+		};
+
+		$filterOut = function ($params) use ($mask) {
+			if ($params['presenter'] !== 'Nette:Micro' || !isset($params['conversionPath'])) {
+				return null;
+			}
+
+			return $params;
+		};
+		*/</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZHVtcCgnb2InKTsK</text>
+        <text encoding="base64">CQlkdW1wKCRsb2dJZCk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ZHVtcCgkdGhpcy0+ZG9jdW1lbnQtPmdldE5hbWUoKSk7CgkJCQlkdW1wKCRkb2N1bWVudC0+Z2V0TmFtZSgpKTsKCQkJCWV4aXQ7</text>
+      <register name="6" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXEFwcGxpY2F0aW9uXFJlc3BvbnNlc1xGaWxlUmVzcG9uc2U7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCSR0aGlzLT5kb2N1bWVudEZhY2FkZS0+cmVtb3ZlRG9jdW1lbnQoJHRoaXMtPmZvbGRlciwgJGRvY3VtZW50KTsK</text>
+      <register name="7" type="4">
+        <text>/**
+	 * @param string|null $version
+	 * @param string      $path
+	 *
+	 * @return FileResponse
+	 */</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJZXhpdDsK</text>
+        <text encoding="base64">dXNlIE5ldHRlXFBocEdlbmVyYXRvclxQaHBMaXRlcmFsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIE5ldHRlXEFwcGxpY2F0aW9uXFJvdXRlcnNcUm91dGU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/editDocument/selectedDocument/g</text>
