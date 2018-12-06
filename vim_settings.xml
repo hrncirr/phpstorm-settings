@@ -3965,10 +3965,10 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/IDocumentsGridFactory.php" timestamp="1544088483597">
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="20" column="4" />
-        <mark key="." line="20" column="4" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/IDocumentsGridFactory.php" timestamp="1544089673871">
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="21" column="4" />
+        <mark key="." line="21" column="4" />
       </file>
       <file name="/home/www/html/nnb/nezadouci-udalosti/app/Presenters/SignPresenter.php" timestamp="1478600969553">
         <mark key="[" line="15" column="27" />
@@ -4135,11 +4135,11 @@
         <mark key="]" line="91" column="8" />
         <mark key="." line="91" column="8" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1544089610254">
-        <mark key="[" line="260" column="20" />
-        <mark key="]" line="260" column="20" />
-        <mark key="." line="260" column="20" />
-        <mark key="^" line="317" column="80" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1544089945798">
+        <mark key="[" line="139" column="4" />
+        <mark key="]" line="139" column="4" />
+        <mark key="." line="139" column="4" />
+        <mark key="^" line="322" column="80" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/FilesUploadForm/FilesUploadForm.php" timestamp="1495783367578">
         <mark key="[" line="28" column="36" />
@@ -4909,8 +4909,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>throw new \LogicException('Missing call ' . static::class .
-						'::setPath(Folder $entity, Document $entity)');</text>
+        <text encoding="base64">LyoqCgkgKiBAdmFyIGFycmF5CgkgKi8KCXByaXZhdGUgJHBhdGggPSBbCgkJJ2ZvbGRlcicgPT4gbnVsbCwKCQknZG9jdW1lbnQnID0+IG51bGwKCV07</text>
       </register>
       <register name="-" type="4">
         <text>dump($test); /*</text>
@@ -4922,33 +4921,39 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>throw new \LogicException('Missing call ' . static::class .
-						'::setPath(Folder $entity, Document $entity)');</text>
+        <text encoding="base64">LyoqCgkgKiBAdmFyIGFycmF5CgkgKi8KCXByaXZhdGUgJHBhdGggPSBbCgkJJ2ZvbGRlcicgPT4gbnVsbCwKCQknZG9jdW1lbnQnID0+IG51bGwKCV07</text>
       </register>
       <register name="2" type="4">
+        <text>/**
+	 * @param int           $view
+	 * @param Folder|null   $folder
+	 * @param Document|null $document
+	 *
+	 * @return DocumentsGrid
+	 */</text>
+      </register>
+      <register name="3" type="4">
         <text>throw new \LogicException('Missing call ' . static::class .
 						'::setPath(Folder $entity, Document $entity)');</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
+        <text>throw new \LogicException('Missing call ' . static::class .
+						'::setPath(Folder $entity, Document $entity)');</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">IC4gc3RhdGljOjpjbGFzcyAuCgkJCQknOjpzZXRQYXRoKEZvbGRlciAkZW50aXR5LCBEb2N1bWVudCAkZW50aXR5fG51bGwpJw==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkkY29udHJvbC0+c2V0UGF0aCgkdGhpcy0+Zm9sZGVyLCAkdGhpcy0+ZG9jdW1lbnQpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkkY29udHJvbC0+c2V0VmlldyhEb2N1bWVudHNHcmlkOjpWSUVXX1JFTEFURURfRE9DVU1FTlRTKTsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">JGNvbnRyb2wtPnNldFZpZXcoRG9jdW1lbnRzR3JpZDo6VklFV19BVFRBQ0hNRU5UUyk7CgkJJGNvbnRyb2wtPnNldFBhdGgoJHRoaXMtPmZvbGRlciwgJHRoaXMtPmRvY3VtZW50KTs=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">aWYgKCR0aGlzLT5mb2xkZXItPmdldFNwZWNpYWwoKSA9PT0gbnVsbCkgewoJCQkkY29udHJvbC0+c2V0UGF0aCgkdGhpcy0+Zm9sZGVyKTs=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJJGNvbnRyb2wtPnNldFBhdGgoJHRoaXMtPmZvbGRlcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/editDocument/selectedDocument/g</text>
