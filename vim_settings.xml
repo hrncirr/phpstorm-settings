@@ -118,8 +118,8 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Groups/Components/GroupsPermissionsForm/GroupsPermissionsForm.php" timestamp="1490277019277">
-        <mark key="[" line="96" column="52" />
+      <file name="/home/www/html/nnb/dms/src/Groups/Components/GroupsPermissionsForm/GroupsPermissionsForm.php" timestamp="1544181609673">
+        <mark key="[" line="166" column="38" />
         <mark key="]" line="96" column="52" />
         <mark key="." line="96" column="52" />
       </file>
@@ -222,6 +222,9 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Events/DocumentFolderSortableListener.php" timestamp="1544183592009">
+        <mark key="[" line="60" column="79" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Users/Security/RolesProvider.php" timestamp="1490955241911">
         <mark key="[" line="22" column="12" />
@@ -1004,10 +1007,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Search/Events/SearchableListener.php" timestamp="1488369368282">
-        <mark key="[" line="84" column="46" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Search/Events/SearchableListener.php" timestamp="1544181888478">
+        <mark key="[" line="144" column="20" />
+        <mark key="]" line="144" column="20" />
+        <mark key="." line="144" column="20" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/tabs/composer.json" timestamp="1498042413954">
         <mark key="[" line="10" column="15" />
@@ -1594,8 +1597,8 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Events/DocumentFolderListener.php" timestamp="1488369645359">
-        <mark key="[" line="42" column="51" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Events/DocumentFolderListener.php" timestamp="1544181188955">
+        <mark key="[" line="38" column="58" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
@@ -2039,10 +2042,11 @@
         <mark key="]" line="22" column="4" />
         <mark key="." line="22" column="4" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/DocumentFacade.php" timestamp="1495784456413">
-        <mark key="[" line="303" column="45" />
-        <mark key="]" line="305" column="0" />
-        <mark key="." line="305" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Documents/DocumentFacade.php" timestamp="1544183205563">
+        <mark key="[" line="205" column="33" />
+        <mark key="]" line="433" column="21" />
+        <mark key="." line="433" column="21" />
+        <mark key="^" line="433" column="21" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/Passportization/TechnicalRequisitions/model/StateModel.php" timestamp="1486460517522">
         <mark key="[" line="13" column="0" />
@@ -2374,10 +2378,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Folders/Folder.php" timestamp="1502191830820">
-        <mark key="[" line="234" column="48" />
-        <mark key="]" line="234" column="48" />
-        <mark key="." line="234" column="48" />
+      <file name="/home/www/html/nnb/dms/src/Folders/Folder.php" timestamp="1544181530967">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="42" />
+        <mark key="." line="32" column="42" />
+        <mark key="^" line="32" column="42" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Doctrine/Mapping/Annotation/MediaHtml.php" timestamp="1476272677359">
         <mark key="[" line="18" column="6" />
@@ -2540,8 +2545,8 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/ClipboardService.php" timestamp="1488369743482">
-        <mark key="[" line="62" column="45" />
+      <file name="/home/www/html/nnb/dms/src/Documents/ClipboardService.php" timestamp="1544182795357">
+        <mark key="[" line="128" column="15" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
@@ -2704,6 +2709,9 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/ClipboardControl/templates/ClipboardControl.latte" timestamp="1544182986071">
+        <mark key="[" line="42" column="107" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/client-side.neon" timestamp="1478256988232">
         <mark key="[" line="7" column="0" />
@@ -3095,10 +3103,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Events/AuditListener.php" timestamp="1544180891373">
-        <mark key="[" line="185" column="0" />
-        <mark key="]" line="185" column="0" />
-        <mark key="." line="185" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Events/AuditListener.php" timestamp="1544183464766">
+        <mark key="[" line="63" column="38" />
+        <mark key="]" line="156" column="46" />
+        <mark key="." line="156" column="46" />
+        <mark key="^" line="156" column="46" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Storage/AdminModule/Presenters/templates/Users/default.latte" timestamp="1497010885780">
         <mark key="[" line="7" column="13" />
@@ -3974,6 +3983,11 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Folders/SortType.php" timestamp="1544181563867">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/IDocumentsGridFactory.php" timestamp="1544092165416">
         <mark key="[" line="28" column="38" />
         <mark key="]" line="21" column="4" />
@@ -4171,6 +4185,12 @@
         <mark key="]" line="185" column="95" />
         <mark key="." line="185" column="95" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Groups/Group.php" timestamp="1544181771964">
+        <mark key="[" line="131" column="25" />
+        <mark key="]" line="131" column="25" />
+        <mark key="^" line="122" column="24" />
+        <mark key="." line="131" column="25" />
+      </file>
       <file name="/home/www/lib/vendor/nnb/staff/src/Staff.php" timestamp="1475658052118">
         <mark key="[" line="87" column="8" />
         <mark key="]" line="87" column="8" />
@@ -4326,10 +4346,19 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/TrapLog.php" timestamp="1544018049029">
+        <mark key="[" line="31" column="13" />
+        <mark key="]" line="31" column="14" />
+        <mark key="." line="31" column="14" />
+        <mark key="^" line="29" column="17" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Console/Commands/Import/PhpDocImport.php" timestamp="1494320116018">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/dms/src/Groups/IGroupPermissions.php" timestamp="1544181786156">
+        <mark key="[" line="9" column="0" />
       </file>
       <file name="/home/www/lib/vendor/symplify/symfony-event-dispatcher/src/Adapter/Symfony/DependencyInjection/Extension/ContainerExtension.php" timestamp="1491374344316">
         <mark key="[" line="17" column="76" />
@@ -4429,12 +4458,8 @@
         <mark key="]" line="61" column="8" />
         <mark key="." line="61" column="8" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" timestamp="1544103195719">
-        <mark key="'" line="280" column="18" />
-        <mark key="[" line="177" column="45" />
-        <mark key="]" line="404" column="40" />
-        <mark key="." line="404" column="40" />
-        <mark key="^" line="404" column="40" />
+      <file name="/home/www/html/nnb/dms/src/Folders/FolderFacade.php" timestamp="1544182032344">
+        <mark key="[" line="84" column="18" />
       </file>
       <file name="/home/www/html/nnb/nezadouci-udalosti/app/Components/Modals/ViewModal.php" timestamp="1482399971117">
         <mark key="[" line="36" column="0" />
@@ -4461,10 +4486,11 @@
         <mark key="]" line="18" column="58" />
         <mark key="." line="18" column="58" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/ClipboardControl/ClipboardControl.php" timestamp="1495784679212">
-        <mark key="[" line="191" column="10" />
-        <mark key="]" line="191" column="10" />
-        <mark key="." line="191" column="10" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/ClipboardControl/ClipboardControl.php" timestamp="1544182841709">
+        <mark key="[" line="323" column="57" />
+        <mark key="]" line="332" column="0" />
+        <mark key="^" line="273" column="34" />
+        <mark key="." line="332" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/src/Pages/AdminModule/PagePresenter.php" timestamp="1491827530977">
         <mark key="[" line="21" column="4" />
@@ -4924,10 +4950,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>dump('------');</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>remove</text>
@@ -4936,35 +4962,34 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQlkdW1wKCdyZWxhdGVkJyk7Cg==</text>
+        <text encoding="base64">CQkJZXhpdDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJ2RvY3VtZW50Jyk7Cg==</text>
+        <text encoding="base64">CQkJZHVtcCgkY2xpcGJvYXJkSXRlbXMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXE1hZ2ljQWNjZXNzb3JzXE1hZ2ljQWNjZXNzb3JzOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlkdW1wKCRuYW1lcyk7Cg==</text>
+        <text encoding="base64">CXVzZSBNYWdpY0FjY2Vzc29yczsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlkdW1wKCRwYXJlbnROYW1lcyk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">CQkJCQlkdW1wKCdyZWxhdGVkJyk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>dump($relatedDocumentNames);
-				exit;</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCWR1bXAoJ2RvY3VtZW50Jyk7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/editDocument/selectedDocument/g</text>
+        <text>61</text>
       </register>
     </registers>
     <search>
@@ -5000,11 +5025,6 @@
         <entry>remove</entry>
       </history-search>
       <history-cmd>
-        <entry>160</entry>
-        <entry>ew</entry>
-        <entry>92</entry>
-        <entry>185</entry>
-        <entry>%s/settings/options/g</entry>
         <entry>%s/options/config/g</entry>
         <entry>add</entry>
         <entry>%s/Items/Datasource/g</entry>
@@ -5020,6 +5040,11 @@
         <entry>%s/NULL/null/g</entry>
         <entry>730</entry>
         <entry>%s/editDocument/selectedDocument/g</entry>
+        <entry>336</entry>
+        <entry>204</entry>
+        <entry>206</entry>
+        <entry>64</entry>
+        <entry>61</entry>
       </history-cmd>
       <history-expr />
       <history-input />
