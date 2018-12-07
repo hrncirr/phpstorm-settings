@@ -788,10 +788,10 @@
         <mark key="]" line="73" column="7" />
         <mark key="." line="73" column="7" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Users/User.php" timestamp="1491832338800">
-        <mark key="[" line="31" column="21" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Users/User.php" timestamp="1544189086699">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="1" />
+        <mark key="." line="19" column="1" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Pages/AdminModule/Components/VersionsControlFactory.php" timestamp="1497015261995">
         <mark key="[" line="8" column="0" />
@@ -1677,6 +1677,13 @@
         <mark key="[" line="62" column="32" />
         <mark key="]" line="62" column="33" />
         <mark key="." line="62" column="33" />
+      </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" timestamp="1544189472105">
+        <mark key="'" line="72" column="28" />
+        <mark key="[" line="74" column="81" />
+        <mark key="]" line="75" column="20" />
+        <mark key="." line="75" column="20" />
+        <mark key="^" line="71" column="58" />
       </file>
       <file name="/home/www/html/nnb/nezadouci-udalosti/app/Components/IncidentViewer.php" timestamp="1482400217288">
         <mark key="[" line="95" column="29" />
@@ -3330,6 +3337,13 @@
         <mark key="]" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" timestamp="1543924437909">
+        <mark key="'" line="145" column="9" />
+        <mark key="[" line="155" column="8" />
+        <mark key="]" line="153" column="24" />
+        <mark key="." line="153" column="24" />
+        <mark key="^" line="153" column="24" />
+      </file>
       <file name="/home/www/html/nnb/aktuality/app/Model/File.php" timestamp="1493983525202">
         <mark key="[" line="20" column="26" />
         <mark key="]" line="6" column="0" />
@@ -3555,8 +3569,8 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1544171247465">
-        <mark key="'" line="361" column="22" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1544189502004">
+        <mark key="'" line="339" column="0" />
         <mark key="[" line="134" column="0" />
         <mark key="]" line="561" column="0" />
         <mark key="." line="561" column="0" />
@@ -4174,8 +4188,8 @@
         <mark key="]" line="91" column="8" />
         <mark key="." line="91" column="8" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1544184453278">
-        <mark key="'" line="240" column="47" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1544189269639">
+        <mark key="'" line="679" column="27" />
         <mark key="[" line="387" column="0" />
         <mark key="]" line="387" column="0" />
         <mark key="." line="387" column="0" />
@@ -4863,9 +4877,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="24" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/AddressFormPart/TAddressFormPart.php" />
-      <jump line="37" column="12" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/AddressFormPart/TAddressFormPart.php" />
-      <jump line="49" column="15" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/AddressFormPart/TAddressFormPart.php" />
       <jump line="51" column="47" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/AddressFormPart/TAddressFormPart.php" />
       <jump line="64" column="43" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" />
       <jump line="150" column="75" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" />
@@ -4963,57 +4974,69 @@
       <jump line="280" column="18" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="232" column="47" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="240" column="47" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="679" column="27" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="343" column="37" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
+      <jump line="339" column="0" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dump($ids);
-			exit;</text>
+        <text>* @property-read integer $id
+ * @property integer      $osc
+ * @property string       $alias
+ * @property-read         $groups
+ * @property string       $role
+ * @property string       $lastAccess</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>sort</text>
+        <text>isAttachment</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="4">
+        <text>* @property-read integer $id
+ * @property integer      $osc
+ * @property string       $alias
+ * @property-read         $groups
+ * @property string       $role
+ * @property string       $lastAccess</text>
+      </register>
+      <register name="2" type="4">
         <text>dump($ids);
 			exit;</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">cmV0dXJuOwoKCQkJCQlyZXR1cm4gY3VycmVudCgkcm93KTsKCgkJCQkJLy9yZXR1cm4gJHJvdy0+Z2V0SWQoKTs=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJHF1ZXJ5LT5nZXRSZXN1bHQoQWJzdHJhY3RRdWVyeTo6SFlEUkFURV9BUlJBWSkpOwo=</text>
+        <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWR1bXAoJHF1ZXJ5LT5nZXRSZXN1bHQoQWJzdHJhY3RRdWVyeTo6SFlEUkFURV9BUlJBWSkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCSovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
+        <text encoding="base64">CQkJCSovCg==</text>
       </register>
       <register name=":" type="4">
         <text>156</text>
       </register>
     </registers>
     <search>
-      <last-search>sort</last-search>
+      <last-search>isAttachment</last-search>
       <last-offset />
-      <last-pattern>sort</last-pattern>
+      <last-pattern>isAttachment</last-pattern>
       <last-replace>selectedDocument</last-replace>
       <last-substitute>editDocument</last-substitute>
       <last-dir>1</last-dir>
@@ -5021,10 +5044,6 @@
     </search>
     <history>
       <history-search>
-        <entry>subjectId</entry>
-        <entry>subject</entry>
-        <entry>LIMIT</entry>
-        <entry>limit</entry>
         <entry>getDocumentFolder</entry>
         <entry>documentFolder</entry>
         <entry>conversions</entry>
@@ -5041,6 +5060,10 @@
         <entry>setParameter</entry>
         <entry>remove</entry>
         <entry>sort</entry>
+        <entry>getAttechments</entry>
+        <entry>getAttachments</entry>
+        <entry>hasAtt</entry>
+        <entry>isAttachment</entry>
       </history-search>
       <history-cmd>
         <entry>add</entry>
