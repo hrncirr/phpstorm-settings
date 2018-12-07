@@ -3095,11 +3095,10 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Events/AuditListener.php" timestamp="1544178081083">
-        <mark key="[" line="168" column="59" />
-        <mark key="]" line="168" column="58" />
-        <mark key="." line="168" column="58" />
-        <mark key="^" line="168" column="58" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Events/AuditListener.php" timestamp="1544180891373">
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="185" column="0" />
+        <mark key="." line="185" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Storage/AdminModule/Presenters/templates/Users/default.latte" timestamp="1497010885780">
         <mark key="[" line="7" column="13" />
@@ -4667,8 +4666,8 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" timestamp="1497871208472">
-        <mark key="[" line="80" column="49" />
+      <file name="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" timestamp="1544181040020">
+        <mark key="[" line="223" column="87" />
         <mark key="]" line="80" column="49" />
         <mark key="." line="80" column="49" />
       </file>
@@ -4924,12 +4923,11 @@
       <jump line="355" column="22" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dump($relatedDocumentNames);
-				exit;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>array_merge($relatedDocumentNames,</text>
+        <text>dump('------');</text>
       </register>
       <register name="/" type="4">
         <text>remove</text>
@@ -4937,33 +4935,33 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>dump($relatedDocumentNames);
-				exit;</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCSRyZWxhdGVkRG9jdW1lbnROYW1lcyA9ICR0aGlzLT5jcmVhdGVSZWxhdGVkRG9jdW1lbnROYW1lTGlzdHMoJGRvY3VtZW50KTsK</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">aWYgKGlzc2V0KCRhdHRhY2htZW50TmFtZXNbJGRvY3VtZW50LT5nZXRJZCgpXSkpIHsKCQkJCQkJdW5zZXQoJGF0dGFjaG1lbnROYW1lc1skZG9jdW1lbnQtPmdldElkKCldKTsKCQkJCQl9CgoJCQkJCSRkRG9jdW1lbnQtPnNldFBhcmVudE5hbWVzKCRwYXJlbnROYW1lcyk7CgkJCQkJJGREb2N1bWVudC0+c2V0QXR0YWNobWVudE5hbWVzKCRhdHRhY2htZW50TmFtZXMpOw==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ZWxzZSB7CgkJCQljb250aW51ZTsKCgkJCX0KCgkJCSR1b3ctPnJlY29tcHV0ZVNpbmdsZUVudGl0eUNoYW5nZVNldCgkbWV0YSwgJGRvY3VtZW50KTs=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="1" type="2">
         <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCQlkdW1wKCdyZWxhdGVkJyk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCWR1bXAoJ2RvY3VtZW50Jyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQlkdW1wKCRuYW1lcyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJHJlbGF0ZWREb2N1bWVudE5hbWVzKTsK</text>
+        <text encoding="base64">CQlkdW1wKCRwYXJlbnROYW1lcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJGRvY3VtZW50LT5nZXRJZCgpKTsK</text>
+        <text encoding="base64">CQkJCQlkdW1wKCdyZWxhdGVkJyk7Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ZHVtcCgkcmVsYXRlZERvY3VtZW50TmFtZXMpOwoJCQkJCWR1bXAoJGlEb2N1bWVudC0+Z2V0SWQoKSk7CgkJCQkJZXhpdDsKCgkJCQkJZHVtcCgkcmVsYXRlZFBhcmVudERvY3VtZW50TmFtZXMpOwoJCQkJCWR1bXAoJHJlbGF0ZWREb2N1bWVudE5hbWVzKTsKCQkJCQlleGl0Ow==</text>
+        <text>dump($relatedDocumentNames);
+				exit;</text>
       </register>
       <register name=":" type="4">
         <text>%s/editDocument/selectedDocument/g</text>
