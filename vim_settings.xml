@@ -2573,6 +2573,9 @@
         <mark key="]" line="14" column="4" />
         <mark key="." line="14" column="4" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Presenters/InterventionsPresenter.php" timestamp="1544191684878">
+        <mark key="[" line="22" column="6" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/templates/naturalPerson.latte" timestamp="1542786226852">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -4980,15 +4983,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>* @property-read integer $id
- * @property integer      $osc
- * @property string       $alias
- * @property-read         $groups
- * @property string       $role
- * @property string       $lastAccess</text>
+        <text>Orders</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>Orders</text>
       </register>
       <register name="/" type="4">
         <text>isAttachment</text>
