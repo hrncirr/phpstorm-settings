@@ -3095,10 +3095,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Events/AuditListener.php" timestamp="1544171826563">
-        <mark key="[" line="145" column="33" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Events/AuditListener.php" timestamp="1544176071355">
+        <mark key="[" line="180" column="16" />
+        <mark key="]" line="180" column="45" />
+        <mark key="." line="180" column="45" />
+        <mark key="^" line="180" column="45" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Storage/AdminModule/Presenters/templates/Users/default.latte" timestamp="1497010885780">
         <mark key="[" line="7" column="13" />
@@ -4923,11 +4924,12 @@
       <jump line="355" column="22" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCWNvbnRpbnVlOwo=</text>
+      <register name="&quot;" type="4">
+        <text>dump($relatedDocumentNames);
+				exit;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ISRjb2xsZWN0aW9uLT5nZXRPd25lcigpIGluc3RhbmNlb2YgRG9jdW1lbnQgfHw=</text>
+        <text>array_merge($relatedDocumentNames,</text>
       </register>
       <register name="/" type="4">
         <text>remove</text>
@@ -4935,58 +4937,33 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCWNvbnRpbnVlOwo=</text>
+      <register name="1" type="4">
+        <text>dump($relatedDocumentNames);
+				exit;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>/**
-	 * @param string $logId
-	 * @param string $test
-	 * @param string $sensor
-	 * @param string $voltage
-	 */</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCSRyZWxhdGVkRG9jdW1lbnROYW1lcyA9ICR0aGlzLT5jcmVhdGVSZWxhdGVkRG9jdW1lbnROYW1lTGlzdHMoJGRvY3VtZW50KTsK</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CglwdWJsaWMgZnVuY3Rpb24gYWN0aW9uTG9nKCk6IHZvaWQKCXsKCgl9</text>
+        <text encoding="base64">aWYgKGlzc2V0KCRhdHRhY2htZW50TmFtZXNbJGRvY3VtZW50LT5nZXRJZCgpXSkpIHsKCQkJCQkJdW5zZXQoJGF0dGFjaG1lbnROYW1lc1skZG9jdW1lbnQtPmdldElkKCldKTsKCQkJCQl9CgoJCQkJCSRkRG9jdW1lbnQtPnNldFBhcmVudE5hbWVzKCRwYXJlbnROYW1lcyk7CgkJCQkJJGREb2N1bWVudC0+c2V0QXR0YWNobWVudE5hbWVzKCRhdHRhY2htZW50TmFtZXMpOw==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">LyoKCQkJbnVsbCA9PiBbCgkJCQlSb3V0ZTo6RklMVEVSX0lOID0+ICRmaWx0ZXJJbiwKCQkJCVJvdXRlOjpGSUxURVJfT1VUID0+ICRmaWx0ZXJPdXQKCQkJXQoJCQkqLw==</text>
+        <text encoding="base64">ZWxzZSB7CgkJCQljb250aW51ZTsKCgkJCX0KCgkJCSR1b3ctPnJlY29tcHV0ZVNpbmdsZUVudGl0eUNoYW5nZVNldCgkbWV0YSwgJGRvY3VtZW50KTs=</text>
       </register>
-      <register name="6" type="4">
-        <text>/*
-		$filterIn = function ($params) {
-			if ($params['presenter'] !== 'Nette:Micro' || !isset($params['conversionPath'])) {
-				return null;
-			}
-
-			return $params;
-		};
-
-		$filterOut = function ($params) use ($mask) {
-			if ($params['presenter'] !== 'Nette:Micro' || !isset($params['conversionPath'])) {
-				return null;
-			}
-
-			return $params;
-		};
-		*/</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlkdW1wKCRsb2dJZCk7Cg==</text>
+        <text encoding="base64">CQkJCWR1bXAoJHJlbGF0ZWREb2N1bWVudE5hbWVzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXEFwcGxpY2F0aW9uXFJlc3BvbnNlc1xGaWxlUmVzcG9uc2U7Cg==</text>
+        <text encoding="base64">CQkJCWR1bXAoJGRvY3VtZW50LT5nZXRJZCgpKTsK</text>
       </register>
       <register name="9" type="4">
-        <text>/**
-	 * @param string|null $version
-	 * @param string      $path
-	 *
-	 * @return FileResponse
-	 */</text>
+        <text encoding="base64">ZHVtcCgkcmVsYXRlZERvY3VtZW50TmFtZXMpOwoJCQkJCWR1bXAoJGlEb2N1bWVudC0+Z2V0SWQoKSk7CgkJCQkJZXhpdDsKCgkJCQkJZHVtcCgkcmVsYXRlZFBhcmVudERvY3VtZW50TmFtZXMpOwoJCQkJCWR1bXAoJHJlbGF0ZWREb2N1bWVudE5hbWVzKTsKCQkJCQlleGl0Ow==</text>
       </register>
       <register name=":" type="4">
         <text>%s/editDocument/selectedDocument/g</text>
