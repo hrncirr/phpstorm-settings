@@ -433,6 +433,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="/home/www/html/nnb/dms/css/screen.css" timestamp="1544516473430">
+        <mark key="[" line="102" column="0" />
+      </file>
       <file name="/home/www/html/nnb/passportization/src/App/TechnicalRequisitions/components/TechnicalRequestionsGrid/TagsGrid.php" timestamp="1485509176524">
         <mark key="[" line="113" column="4" />
         <mark key="]" line="113" column="4" />
@@ -1338,10 +1341,10 @@
         <mark key="]" line="60" column="8" />
         <mark key="." line="60" column="8" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/relatedDocuments.latte" timestamp="1544452055668">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="7" column="12" />
-        <mark key="." line="7" column="12" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/relatedDocuments.latte" timestamp="1544516166561">
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="3" column="35" />
+        <mark key="." line="3" column="35" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/Passportization/Users/UserRepository.php" timestamp="1485946887236">
         <mark key="[" line="37" column="0" />
@@ -1683,12 +1686,15 @@
         <mark key="]" line="62" column="33" />
         <mark key="." line="62" column="33" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" timestamp="1544450991933">
-        <mark key="'" line="72" column="28" />
-        <mark key="[" line="78" column="25" />
-        <mark key="]" line="78" column="40" />
-        <mark key="." line="78" column="40" />
-        <mark key="^" line="71" column="58" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" timestamp="1544515710662">
+        <mark key="'" line="39" column="15" />
+        <mark key="[" line="43" column="61" />
+        <mark key="]" line="44" column="60" />
+        <mark key="." line="44" column="60" />
+        <mark key="^" line="44" column="60" />
+      </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/DI/config.neon" timestamp="1544517361122">
+        <mark key="[" line="5" column="0" />
       </file>
       <file name="/home/www/html/nnb/nezadouci-udalosti/app/Components/IncidentViewer.php" timestamp="1482400217288">
         <mark key="[" line="95" column="29" />
@@ -2921,6 +2927,9 @@
         <mark key="]" line="33" column="8" />
         <mark key="." line="33" column="8" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Latte/DocumentProvider.php" timestamp="1544517326179">
+        <mark key="[" line="67" column="4" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/DI/config.neon" timestamp="1542896066069">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="29" column="0" />
@@ -3006,7 +3015,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544452127420">
+      <file name="/Dummy.txt" timestamp="1544516954282">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -3648,10 +3657,10 @@
         <mark key="]" line="14" column="65" />
         <mark key="." line="14" column="65" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/attachments.latte" timestamp="1544451983635">
-        <mark key="[" line="4" column="27" />
-        <mark key="]" line="4" column="27" />
-        <mark key="." line="4" column="27" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/attachments.latte" timestamp="1544516060864">
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="3" column="35" />
+        <mark key="." line="3" column="35" />
       </file>
       <file name="/home/www/html/nnb/dms/css/file.preview.spinner.css" timestamp="1489570367983">
         <mark key="[" line="64" column="1" />
@@ -4193,11 +4202,10 @@
         <mark key="]" line="91" column="8" />
         <mark key="." line="91" column="8" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1544450966844">
-        <mark key="'" line="692" column="27" />
-        <mark key="[" line="526" column="48" />
-        <mark key="]" line="291" column="16" />
-        <mark key="." line="291" column="16" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1544517498793">
+        <mark key="[" line="160" column="32" />
+        <mark key="]" line="280" column="4" />
+        <mark key="." line="280" column="4" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/FilesUploadForm/FilesUploadForm.php" timestamp="1495783367578">
         <mark key="[" line="28" column="36" />
@@ -4882,16 +4890,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="47" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/AddressFormPart/TAddressFormPart.php" />
-      <jump line="64" column="43" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" />
-      <jump line="150" column="75" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" />
-      <jump line="156" column="13" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" />
-      <jump line="161" column="17" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" />
-      <jump line="162" column="34" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" />
-      <jump line="163" column="39" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" />
-      <jump line="165" column="33" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" />
-      <jump line="166" column="38" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" />
-      <jump line="125" column="16" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" />
       <jump line="145" column="9" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" />
       <jump line="65" column="6" filename="/home/www/lib/vendor/hrncirr/forms-typeahead/src/Controls/TypeaheadInput.php" />
       <jump line="37" column="18" filename="/home/www/lib/vendor/hrncirr/forms-typeahead/src/Controls/TypeaheadInput.php" />
@@ -4908,7 +4906,6 @@
       <jump line="6" column="30" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/conversions.latte" />
       <jump line="8" column="62" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/conversions.latte" />
       <jump line="12" column="83" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/conversions.latte" />
-      <jump line="341" column="42" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="8" column="37" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="44" column="41" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="267" column="50" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
@@ -4925,7 +4922,6 @@
       <jump line="543" column="31" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="686" column="34" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="710" column="30" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
-      <jump line="778" column="100" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="797" column="50" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="158" column="8" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="161" column="8" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
@@ -4982,42 +4978,57 @@
       <jump line="679" column="27" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="343" column="37" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
       <jump line="339" column="0" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
+      <jump line="39" column="15" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
+      <jump line="389" column="39" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="341" column="42" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="356" column="20" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="778" column="36" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="21" column="14" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="127" column="12" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="129" column="13" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="153" column="86" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="181" column="39" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="282" column="46" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="293" column="51" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IDxpIGNsYXNzPSIgZmE=</text>
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldEF0dGFjaG1lbnRzKEZvbGRlciAkZm9sZGVyLCBEb2N1bWVudCAkZG9jdW1lbnQpOiBhcnJheQoJewoJCSRhdHRhY2htZW50cyA9ICR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShEb2N1bWVudDo6Y2xhc3MpLT5mZXRjaCgKCQkJKG5ldyBEb2N1bWVudHNRdWVyeSgpKS0+YnlBdHRhY2htZW50cygkZG9jdW1lbnQpLT5ieUZvbGRlcigkZm9sZGVyKS0+YnlVc2VyKCR0aGlzLT51c2VyKQoJCQkJLT5zb3J0QnlGb2xkZXJQb3NpdGlvbigpKS0+dG9BcnJheSgpOwoKCQkkYXR0YWNobWVudHNGaWxlc0NvbnZlcnNpb25zID0gJHRoaXMtPmZpbGVDb252ZXJzaW9uRmFjYWRlLT5maW5kRG9jdW1lbnRzQ29tcGxldGVkRmlsZUNvbnZlcnNpb25zKCRhdHRhY2htZW50cyk7CgoJCXJldHVybiBbJGF0dGFjaG1lbnRzLCAkYXR0YWNobWVudHNGaWxlc0NvbnZlcnNpb25zXTsKCX0KCgoJcHVibGljIGZ1bmN0aW9uIGdldFJlbGF0ZWREb2N1bWVudHMoRG9jdW1lbnQgJGRvY3VtZW50KTogYXJyYXkKCXsKCQkkcmVsYXRlZERvY3VtZW50cyA9ICR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShEb2N1bWVudDo6Y2xhc3MpLT5mZXRjaCgKCQkJKG5ldyBEb2N1bWVudHNRdWVyeSgpKS0+YnlSZWxhdGVkRG9jdW1lbnRzKCRkb2N1bWVudCktPmJ5VXNlcigkdGhpcy0+dXNlcikpLT50b0FycmF5KCk7CgoJCSRyZWxhdGVkRG9jdW1lbnRzRmlsZXNDb252ZXJzaW9ucyA9ICR0aGlzLT5maWxlQ29udmVyc2lvbkZhY2FkZS0+ZmluZERvY3VtZW50c0NvbXBsZXRlZEZpbGVDb252ZXJzaW9ucygkcmVsYXRlZERvY3VtZW50cyk7CgoJCXJldHVybiBbJHJlbGF0ZWREb2N1bWVudHMsICRyZWxhdGVkRG9jdW1lbnRzRmlsZXNDb252ZXJzaW9uc107Cgl9</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDxpIGNsYXNzPSIgZmE=</text>
+        <text>style=&quot;padding: 2px</text>
       </register>
       <register name="/" type="4">
-        <text>isAttachment</text>
+        <text>fileConversionFacade</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQk8L2Rpdj4K</text>
+      <register name="1" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldEF0dGFjaG1lbnRzKEZvbGRlciAkZm9sZGVyLCBEb2N1bWVudCAkZG9jdW1lbnQpOiBhcnJheQoJewoJCSRhdHRhY2htZW50cyA9ICR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShEb2N1bWVudDo6Y2xhc3MpLT5mZXRjaCgKCQkJKG5ldyBEb2N1bWVudHNRdWVyeSgpKS0+YnlBdHRhY2htZW50cygkZG9jdW1lbnQpLT5ieUZvbGRlcigkZm9sZGVyKS0+YnlVc2VyKCR0aGlzLT51c2VyKQoJCQkJLT5zb3J0QnlGb2xkZXJQb3NpdGlvbigpKS0+dG9BcnJheSgpOwoKCQkkYXR0YWNobWVudHNGaWxlc0NvbnZlcnNpb25zID0gJHRoaXMtPmZpbGVDb252ZXJzaW9uRmFjYWRlLT5maW5kRG9jdW1lbnRzQ29tcGxldGVkRmlsZUNvbnZlcnNpb25zKCRhdHRhY2htZW50cyk7CgoJCXJldHVybiBbJGF0dGFjaG1lbnRzLCAkYXR0YWNobWVudHNGaWxlc0NvbnZlcnNpb25zXTsKCX0KCgoJcHVibGljIGZ1bmN0aW9uIGdldFJlbGF0ZWREb2N1bWVudHMoRG9jdW1lbnQgJGRvY3VtZW50KTogYXJyYXkKCXsKCQkkcmVsYXRlZERvY3VtZW50cyA9ICR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShEb2N1bWVudDo6Y2xhc3MpLT5mZXRjaCgKCQkJKG5ldyBEb2N1bWVudHNRdWVyeSgpKS0+YnlSZWxhdGVkRG9jdW1lbnRzKCRkb2N1bWVudCktPmJ5VXNlcigkdGhpcy0+dXNlcikpLT50b0FycmF5KCk7CgoJCSRyZWxhdGVkRG9jdW1lbnRzRmlsZXNDb252ZXJzaW9ucyA9ICR0aGlzLT5maWxlQ29udmVyc2lvbkZhY2FkZS0+ZmluZERvY3VtZW50c0NvbXBsZXRlZEZpbGVDb252ZXJzaW9ucygkcmVsYXRlZERvY3VtZW50cyk7CgoJCXJldHVybiBbJHJlbGF0ZWREb2N1bWVudHMsICRyZWxhdGVkRG9jdW1lbnRzRmlsZXNDb252ZXJzaW9uc107Cgl9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQk8ZGl2IGNsYXNzPSJwYW5lbC1ib2R5Ij4K</text>
+        <text encoding="base64">CQk8L2Rpdj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJey9pZn0K</text>
+        <text encoding="base64">CQk8ZGl2IGNsYXNzPSJwYW5lbC1ib2R5Ij4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCXtjb250cm9sIHNlbGVjdEZvcm0tJGF0dGFjaG1lbnRJZH0K</text>
+        <text encoding="base64">CQkJey9pZn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJe2lmICRzaG93U2VsZWN0b3J9Cg==</text>
+        <text encoding="base64">CQkJCXtjb250cm9sIHNlbGVjdEZvcm0tJGF0dGFjaG1lbnRJZH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIEludm9pY2luZ1xDb21wb25lbnRzXE9yZGVyc0dyaWRcT3JkZXJzR3JpZDsK</text>
+        <text encoding="base64">CQkJe2lmICRzaG93U2VsZWN0b3J9Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">dXNlIEludm9pY2luZ1xDb21wb25lbnRzXE9yZGVyc0dyaWRcT3JkZXJzR3JpZDsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">dXNlIEludm9pY2luZ1xDb21wb25lbnRzXE9yZGVyc0dyaWRcSU9yZGVyc0dyaWRGYWN0b3J5Owo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>* @property-read integer $id
  * @property integer      $osc
  * @property string       $alias
@@ -5025,18 +5036,14 @@
  * @property string       $role
  * @property string       $lastAccess</text>
       </register>
-      <register name="9" type="4">
-        <text>dump($ids);
-			exit;</text>
-      </register>
       <register name=":" type="4">
         <text>156</text>
       </register>
     </registers>
     <search>
-      <last-search>isAttachment</last-search>
+      <last-search>fileConversionFacade</last-search>
       <last-offset />
-      <last-pattern>isAttachment</last-pattern>
+      <last-pattern>fileConversionFacade</last-pattern>
       <last-replace>selectedDocument</last-replace>
       <last-substitute>editDocument</last-substitute>
       <last-dir>1</last-dir>
@@ -5044,13 +5051,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getDocumentFolder</entry>
-        <entry>documentFolder</entry>
-        <entry>conversions</entry>
-        <entry>selectedFolder</entry>
-        <entry>showSorting</entry>
-        <entry>showSelected</entry>
-        <entry>document</entry>
         <entry encoding="base64">JHRoaXMtPmRvY3VtZW50</entry>
         <entry>editDocument</entry>
         <entry encoding="base64">JHRoaXMtPnBhdGg=</entry>
@@ -5064,6 +5064,13 @@
         <entry>getAttachments</entry>
         <entry>hasAtt</entry>
         <entry>isAttachment</entry>
+        <entry>getWrite</entry>
+        <entry>getWrita</entry>
+        <entry>findWrite</entry>
+        <entry>findWrita</entry>
+        <entry>Provider</entry>
+        <entry>FileConversionFacade</entry>
+        <entry>fileConversionFacade</entry>
       </history-search>
       <history-cmd>
         <entry>add</entry>
