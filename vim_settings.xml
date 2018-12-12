@@ -271,8 +271,9 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InterventionsGrid/templates/InterventionsGrid.latte" timestamp="1544604808703">
-        <mark key="[" line="57" column="116" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InterventionsGrid/templates/InterventionsGrid.latte" timestamp="1544610000590">
+        <mark key="'" line="37" column="52" />
+        <mark key="[" line="7" column="36" />
         <mark key="]" line="57" column="24" />
         <mark key="." line="57" column="24" />
       </file>
@@ -1569,10 +1570,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractsGrid/ContractsGrid.php" timestamp="1544538105540">
-        <mark key="[" line="170" column="49" />
-        <mark key="]" line="167" column="8" />
-        <mark key="." line="167" column="8" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractsGrid/ContractsGrid.php" timestamp="1544608597264">
+        <mark key="[" line="172" column="4" />
+        <mark key="]" line="172" column="8" />
+        <mark key="." line="172" column="8" />
       </file>
       <file name="/home/www/html/dv/cms/src/Users/Resource.php" timestamp="1497013825055">
         <mark key="[" line="5" column="0" />
@@ -1702,6 +1703,13 @@
         <mark key="]" line="62" column="33" />
         <mark key="." line="62" column="33" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" timestamp="1544518455195">
+        <mark key="'" line="44" column="76" />
+        <mark key="[" line="36" column="33" />
+        <mark key="]" line="44" column="73" />
+        <mark key="." line="44" column="73" />
+        <mark key="^" line="44" column="73" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Documents/DI/config.neon" timestamp="1544517361122">
         <mark key="[" line="5" column="0" />
       </file>
@@ -1765,6 +1773,7 @@
         <mark key="]" line="22" column="4" />
         <mark key="." line="22" column="4" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Document/Components/templates/formLayout.latte" timestamp="1544608857658" />
       <file name="/home/www/html/dv/adera/Modules/Storage/Item.php" timestamp="1502097786956">
         <mark key="[" line="19" column="11" />
         <mark key="]" line="6" column="0" />
@@ -2410,6 +2419,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Document/Utils/DocumentCopy.php" timestamp="1544610394285">
+        <mark key="[" line="38" column="4" />
+      </file>
       <file name="/home/www/lib/vendor/hrncirr/pnotify/src/TFlashMessagesControl.php" timestamp="1500552701647">
         <mark key="[" line="27" column="19" />
         <mark key="]" line="20" column="0" />
@@ -2645,11 +2657,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InterventionsGrid/InterventionsGrid.php" timestamp="1544606834383">
-        <mark key="[" line="241" column="30" />
-        <mark key="]" line="253" column="68" />
-        <mark key="." line="253" column="68" />
-        <mark key="^" line="253" column="63" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InterventionsGrid/InterventionsGrid.php" timestamp="1544611755698">
+        <mark key="'" line="49" column="24" />
+        <mark key="[" line="291" column="38" />
+        <mark key="]" line="291" column="38" />
+        <mark key="^" line="49" column="24" />
+        <mark key="." line="291" column="38" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Latte/CmpProvider.php" timestamp="1496131694505">
         <mark key="[" line="12" column="0" />
@@ -2696,10 +2709,10 @@
         <mark key="]" line="37" column="37" />
         <mark key="." line="37" column="37" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoicesGrid/InvoicesGrid.php" timestamp="1544603421324">
-        <mark key="[" line="188" column="61" />
-        <mark key="]" line="158" column="16" />
-        <mark key="." line="158" column="16" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoicesGrid/InvoicesGrid.php" timestamp="1544611746187">
+        <mark key="[" line="227" column="38" />
+        <mark key="]" line="227" column="38" />
+        <mark key="." line="227" column="38" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Latte/CMPProvider.php" timestamp="1496048680217">
         <mark key="[" line="47" column="21" />
@@ -2856,6 +2869,11 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="20" column="12" />
         <mark key="." line="20" column="12" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InterventionForm/InterventionForm.latte" timestamp="1544611256001">
+        <mark key="[" line="27" column="38" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/app/forms-tag-input/src/Controls/TagsInput.php" timestamp="1496150060890">
         <mark key="[" line="10" column="0" />
@@ -3363,6 +3381,7 @@
         <mark key="]" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" timestamp="1544611454054" />
       <file name="/home/www/html/nnb/aktuality/app/Model/File.php" timestamp="1493983525202">
         <mark key="[" line="20" column="26" />
         <mark key="]" line="6" column="0" />
@@ -3593,6 +3612,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1544519798680">
+        <mark key="'" line="339" column="0" />
+        <mark key="[" line="142" column="76" />
+        <mark key="]" line="142" column="76" />
+        <mark key="." line="142" column="76" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Exceptions/SubjectAlreadyExistsException.php" timestamp="1542886169784">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -3662,12 +3687,6 @@
         <mark key="[" line="11" column="18" />
         <mark key="]" line="14" column="65" />
         <mark key="." line="14" column="65" />
-      </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/attachments.latte" timestamp="1544517955228">
-        <mark key="[" line="0" column="69" />
-        <mark key="]" line="0" column="68" />
-        <mark key="." line="0" column="68" />
-        <mark key="^" line="0" column="68" />
       </file>
       <file name="/home/www/html/nnb/dms/css/file.preview.spinner.css" timestamp="1489570367983">
         <mark key="[" line="64" column="1" />
@@ -4209,12 +4228,6 @@
         <mark key="]" line="91" column="8" />
         <mark key="." line="91" column="8" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1544518521980">
-        <mark key="[" line="125" column="4" />
-        <mark key="]" line="125" column="4" />
-        <mark key="^" line="741" column="56" />
-        <mark key="." line="125" column="4" />
-      </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/FilesUploadForm/FilesUploadForm.php" timestamp="1495783367578">
         <mark key="[" line="28" column="36" />
         <mark key="]" line="118" column="22" />
@@ -4354,6 +4367,11 @@
         <mark key="[" line="67" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InterventionForm/InterventionForm.php" timestamp="1544611479021">
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="." line="147" column="0" />
       </file>
       <file name="/home/www/lib/vendor/nnb/staff/src/Authentication/LdapAuthenticator.php" timestamp="1478780403815">
         <mark key="[" line="115" column="8" />
@@ -4875,11 +4893,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="62" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/conversions.latte" />
-      <jump line="12" column="83" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/conversions.latte" />
-      <jump line="8" column="37" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
-      <jump line="44" column="41" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
-      <jump line="267" column="50" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="279" column="16" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="308" column="8" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="340" column="12" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
@@ -4975,55 +4988,64 @@
       <jump line="125" column="13" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="159" column="86" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="187" column="39" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="37" column="52" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InterventionsGrid/templates/InterventionsGrid.latte" />
+      <jump line="84" column="53" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InterventionsGrid/InterventionsGrid.php" />
+      <jump line="288" column="19" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InterventionsGrid/InterventionsGrid.php" />
+      <jump line="300" column="19" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InterventionsGrid/InterventionsGrid.php" />
+      <jump line="49" column="24" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InterventionsGrid/InterventionsGrid.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LCAnZnJvbScgPT4gJyFpbnRlcnZlbnRpb24n</text>
+        <text>InterventionForm $form</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCAnZnJvbScgPT4gJyFpbnRlcnZlbnRpb24n</text>
+        <text>InterventionForm $form</text>
       </register>
       <register name="/" type="4">
-        <text>fileConversionFacade</text>
+        <text>month</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">aWYgKCRjb250cmFjdCA9PT0gbnVsbCkgewoJCQkkdGhpcy0+c2V0VmlldygnYWxsSW50ZXJ2ZW50aW9uc0dyaWQnKTsKCQl9</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJJGZvcm0tPnJlc2V0TWVkaWFJbXBvcnRJZCgpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IGZ1bmN0aW9uKCRpZCkgewoJCQkJJHRoaXMtPmdldFByZXNlbnRlcigpLT5saW5rKCdJbnZvaWNlczonLCBbJ2lkJyA9PiAkaWRdKTsKCQkJfSk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJJGZvcm0tPnJlc2V0TWVkaWFJbXBvcnRJZCgpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">JGdyaWQtPmFkZEFjdGlvbignc2NoZWR1bGUnLCAnJywgJ2VkaXQhJywgWydpbnRlcnZlbnRpb24nID0+IG51bGxdKQoJCQktPnNldFRpdGxlKCdOYXBsw6Fub3ZhdCcpCgkJCS0+c2V0Q2xhc3MoJ2J0biBidG4teHMgYnRuLXN1Y2Nlc3MgYWpheCcpOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJLT5zZXRJY29uKCdyZW1vdmUnKQo=</text>
+        <text encoding="base64">CQkkdGhpcy0+cmVzZXRNZWRpYUltcG9ydElkKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJfSkK</text>
+        <text encoding="base64">CQkJJHRoaXMtPm1vbnRoID0gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCXJldHVybiAiT3ByYXZkdSBzbWF6YXQgZmFrdHVydSBgeyRpbnZvaWNlLT5nZXROYW1lKCl9YCA/IjsK</text>
+        <text encoding="base64">CQkJJHRoaXMtPm1vbnRoID0gbnVsbDsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJLT5zZXRDb25maXJtKGZ1bmN0aW9uIChJbnZvaWNlICRpbnZvaWNlKSB7Cg==</text>
+      <register name="7" type="4">
+        <text>/**
+	 * @var int
+	 * @persistent
+	 */
+	public $month;</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">e2lmICEkaW50ZXJ2ZW50aW9uLT5nZXRJZCgpfQoJCQkJCQk8YSBuOmhyZWY9ImVkaXQhICRpbnRlcnZlbnRpb24iIGNsYXNzPSJidG4gYnRuLXhzIGJ0bi1kYW5nZXIgYWpheCI+TmFwbMOhbm92YXQ8L2E+</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCTwvZGl2Pgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5jb250cmFjdCA9PT0gbnVsbCkgewoJCQkJCgkJCX0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCTxkaXYgY2xhc3M9ImNlbnRlci1ibG9jayI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>129</text>
       </register>
     </registers>
     <search>
-      <last-search>fileConversionFacade</last-search>
+      <last-search>month</last-search>
       <last-offset />
-      <last-pattern>fileConversionFacade</last-pattern>
+      <last-pattern>month</last-pattern>
       <last-replace>selectedDocument</last-replace>
       <last-substitute>editDocument</last-substitute>
       <last-dir>1</last-dir>
@@ -5031,8 +5053,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">JHRoaXMtPnBhdGg=</entry>
-        <entry>\Logi</entry>
         <entry>InvalidArgument</entry>
         <entry>IS NOT NULL</entry>
         <entry>setParameter</entry>
@@ -5051,6 +5071,8 @@
         <entry>findWrita</entry>
         <entry>documentFacade</entry>
         <entry>fileConversionFacade</entry>
+        <entry>periodButtons</entry>
+        <entry>month</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Items/Datasource/g</entry>
