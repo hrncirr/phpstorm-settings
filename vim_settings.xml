@@ -3130,10 +3130,11 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Presenters/DefaultPresenter.php" timestamp="1544685362181">
-        <mark key="[" line="159" column="57" />
-        <mark key="]" line="214" column="8" />
-        <mark key="." line="214" column="8" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Presenters/DefaultPresenter.php" timestamp="1544690365350">
+        <mark key="[" line="212" column="33" />
+        <mark key="]" line="132" column="4" />
+        <mark key="." line="132" column="4" />
+        <mark key="^" line="143" column="15" />
       </file>
       <file name="/home/www/vendor/nnb/application/src/DI/ApplicationExtension.php" timestamp="1500620318607">
         <mark key="[" line="86" column="13" />
@@ -3727,6 +3728,12 @@
         <mark key="]" line="14" column="65" />
         <mark key="." line="14" column="65" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/attachments.latte" timestamp="1544517955228">
+        <mark key="[" line="0" column="69" />
+        <mark key="]" line="0" column="68" />
+        <mark key="." line="0" column="68" />
+        <mark key="^" line="0" column="68" />
+      </file>
       <file name="/home/www/html/nnb/dms/css/file.preview.spinner.css" timestamp="1489570367983">
         <mark key="[" line="64" column="1" />
         <mark key="]" line="64" column="1" />
@@ -4105,10 +4112,10 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/IDocumentsGridFactory.php" timestamp="1544626727788">
-        <mark key="[" line="23" column="35" />
-        <mark key="]" line="21" column="4" />
-        <mark key="." line="21" column="4" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/IDocumentsGridFactory.php" timestamp="1544690252456">
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="20" column="4" />
+        <mark key="." line="20" column="4" />
       </file>
       <file name="/home/www/html/nnb/nezadouci-udalosti/app/Presenters/SignPresenter.php" timestamp="1478600969553">
         <mark key="[" line="15" column="27" />
@@ -4281,12 +4288,12 @@
         <mark key="]" line="91" column="8" />
         <mark key="." line="91" column="8" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1544627153494">
-        <mark key="'" line="667" column="61" />
-        <mark key="[" line="223" column="4" />
-        <mark key="]" line="223" column="4" />
-        <mark key="^" line="754" column="56" />
-        <mark key="." line="223" column="4" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1544690401379">
+        <mark key="'" line="660" column="61" />
+        <mark key="[" line="174" column="29" />
+        <mark key="]" line="174" column="29" />
+        <mark key="^" line="747" column="56" />
+        <mark key="." line="174" column="29" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/FilesUploadForm/FilesUploadForm.php" timestamp="1495783367578">
         <mark key="[" line="28" column="36" />
@@ -5087,11 +5094,11 @@
       <jump line="656" column="61" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, DocumentsQuery::class,</text>
       </register>
       <register name="-" type="4">
-        <text>Callback</text>
+        <text>, DocumentsQuery::class,</text>
       </register>
       <register name="/" type="4">
         <text>getDocuments</text>
@@ -5099,43 +5106,40 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">fSBlbHNlaWYgKCRmb2xkZXIgaW5zdGFuY2VvZiBEb2N1bWVudHNRdWVyeSkgewoJCQkkdGhpcy0+ZG9jdW1lbnRzUXVlcnkgPSAkZm9sZGVyOw==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CSMJc29mdC1kZWxldGVhYmxlOiBBcHBcRG9jdHJpbmVcRmlsdGVyc1xTb2Z0RGVsZXRhYmxlRmlsdGVyCg==</text>
+      <register name="2" type="4">
+        <text>/**
+	 * @var DocumentsQuery
+	 */
+	private $documentsQuery;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CSNmaWx0ZXJzOgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">aWYgKCR0aGlzLT5kb2N1bWVudHNDYWxsYmFjayAhPT0gbnVsbCkgewoJCQlyZXR1cm4gY2FsbF91c2VyX2Z1bmMoJHRoaXMtPmRvY3VtZW50c0NhbGxiYWNrKTsKCQl9</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHNldERvY3VtZW50cygkZG9jdW1lbnRzKTogdm9pZAoJewoJCSR0aGlzLT5kb2N1bWVudHMgPSAkZG9jdW1lbnRzOwoJfQ==</text>
+        <text>/**
+	 * @param $folder
+	 *
+	 * @throws FolderPermissionException
+	 * @throws \Nette\Application\AbortException
+	 */</text>
       </register>
-      <register name="5" type="4">
-        <text>loggable:
-		class: Gedmo\Loggable\LoggableListener
-		setup:
-			- setAnnotationReader(@Doctrine\Common\Annotations\Reader)
-		tags: [kdyby.subscriber]
-		autowired: no
-
-	softDeletableFilter:
-		class: App\Doctrine\Filters\SoftDeletableFilter
-		setup:
-			- setHttpRequest
-			- setPath ('/archiv/|/archive/')</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQl9IGVsc2Ugewo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">JHNlYXJjaCA9IChuZXcgU2VhcmNoUXVlcnkoJHRoaXMtPnNlYXJjaCwgJHRoaXMtPmdldFVzZXIoKSkpCgkJCS0+c2V0UGFnaW5hdG9yKCR0aGlzWydncmlkLXZwJ10tPmdldFBhZ2luYXRvcigpKQoJCQktPmNyZWF0ZVF1ZXJ5KCR0aGlzLT5zZWFyY2hNYW5hZ2VyLCAkdGhpcy0+ZW0pOwoKCQkkZG9jdW1lbnRzID0gW107CgkJLyoqIEB2YXIgU2VhcmNoRmlsZSAkc2VhcmNoRmlsZSAqLwoJCWZvcmVhY2ggKCRzZWFyY2gtPmdldFJlc3VsdCgpIGFzICRzZWFyY2hGaWxlKSB7CgkJCSRkb2N1bWVudHNbXSA9ICRzZWFyY2hGaWxlLT5nZXRGaWxlKCktPmdldERvY3VtZW50KCk7CgkJfQo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkkdGhpc1snZ3JpZCddLT5zZXREb2N1bWVudHMoJGRvY3VtZW50cyk7Cg==</text>
+        <text encoding="base64">CSMJc29mdC1kZWxldGVhYmxlOiBBcHBcRG9jdHJpbmVcRmlsdGVyc1xTb2Z0RGVsZXRhYmxlRmlsdGVyCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LyoqCgkgKiBAQXNzZXJ0XENhbGxiYWNrCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiB2YWxpZGF0ZUNvbnRhY3QoRXhlY3V0aW9uQ29udGV4dEludGVyZmFjZSAkY29udGV4dCwgJHBheWxvYWQpCgl7CgkJaWYgKCR0aGlzLT5nZXRDb250YWN0KCktPmdldFBob25lTnVtYmVyKCkgPT09IG51bGwgJiYgJHRoaXMtPmdldENvbnRhY3QoKS0+Z2V0Q2VsbFBob25lTnVtYmVyKCkgPT09IG51bGwgJiYgZW1wdHkoJHRoaXMtPmdldENvbnRhY3QoKS0+Z2V0RW1haWwoKSkpIHsKCQkJJGNvbnRleHQtPmJ1aWxkVmlvbGF0aW9uKCdWeXBsxYh0ZSB0ZWxlZm9uIG5lYm8gbW9iaWwgbmVibyBlbWFpbCEnKQoJCQkJLT5hdFBhdGgoJ2VtYWlsJykKCQkJCS0+YWRkVmlvbGF0aW9uKCk7CgkJfQoJfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">CSNmaWx0ZXJzOgo=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">JHN1YmplY3ROYW1lUmVkcmF3Q2FsbGJhY2sgPSBmdW5jdGlvbiAoKSB7CgkJCSR0aGlzLT5yZWRyYXdDb250cm9sKCd0b3AnKTsKCQkJJHRoaXMtPnJlZHJhd0NvbnRyb2woJ2RldGFpbHMnKTsKCQl9Ow==</text>
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHNldERvY3VtZW50cygkZG9jdW1lbnRzKTogdm9pZAoJewoJCSR0aGlzLT5kb2N1bWVudHMgPSAkZG9jdW1lbnRzOwoJfQ==</text>
       </register>
       <register name=":" type="4">
         <text>163</text>
