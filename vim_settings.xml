@@ -3067,10 +3067,10 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Presenters/DefaultPresenter.php" timestamp="1544690365350">
-        <mark key="[" line="212" column="33" />
-        <mark key="]" line="132" column="4" />
-        <mark key="." line="132" column="4" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Presenters/DefaultPresenter.php" timestamp="1545037466515">
+        <mark key="[" line="240" column="0" />
+        <mark key="]" line="240" column="0" />
+        <mark key="." line="240" column="0" />
         <mark key="^" line="143" column="15" />
       </file>
       <file name="/home/www/vendor/nnb/application/src/DI/ApplicationExtension.php" timestamp="1500620318607">
@@ -4218,9 +4218,9 @@
         <mark key="]" line="91" column="8" />
         <mark key="." line="91" column="8" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1544699646659">
-        <mark key="'" line="152" column="60" />
-        <mark key="[" line="248" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1545037656064">
+        <mark key="'" line="73" column="12" />
+        <mark key="[" line="351" column="4" />
         <mark key="]" line="248" column="0" />
         <mark key="." line="248" column="0" />
       </file>
@@ -4895,7 +4895,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="31" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="543" column="31" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="686" column="34" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="710" column="30" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
@@ -4995,56 +4994,57 @@
       <jump line="28" column="20" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
       <jump line="152" column="60" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="48" column="0" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
+      <jump line="73" column="12" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'number',</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCSRncmlkLT5zZXRQYXRoKCR0aGlzLT5mb2xkZXIpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>'number',</text>
       </register>
       <register name="/" type="4">
-        <text>hasRelated</text>
+        <text>onChangeFolder</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCSRncmlkLT5zZXRQYXRoKCR0aGlzLT5mb2xkZXIpOwo=</text>
+      </register>
+      <register name="2" type="4">
         <text>dump($utility);
 		exit;</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CQlWYWxpZGF0b3JzOjphc3NlcnRGaWVsZCgkY29uZmlnLCAnZmlsZVByZXZpZXdUZW1wRGlyJywgJ3N0cmluZzoxLi4nLCAnZmlsZSBwcmV2aWV3IHRlbXAgZGlyJyk7Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQknZmlsZVByZXZpZXdSb3V0ZU1hc2snID0+ICdmaWxlLXByZXZpZXcvPGlkPicsCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQknZmlsZVByZXZpZXdUZW1wRGlyJyA9PiAnJXRlbXBEaXIlL2NhY2hlL19BcHAuRmlsZS5QcmV2aWV3JywK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">cHJpdmF0ZSAkZGVmYXVsdHMgPSBbCgkJJ3ByZXZpZXcnID0+IFsKCQkJJ3NlYXJjaFBhdGhzJyA9PiBbCgkJCQknL3Vzci9iaW4nLAoJCQkJJy91c3IvbG9jYWwvYmluJwoJCQldLAoJCQknc3lzdGVtVXRpbHMnID0+IFsnZ20nLCAnY29udmVydCddCgkJXQoJXTs=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGxvYWRDb25maWd1cmF0aW9uKCkKCXsKCQkkYnVpbGRlciA9ICR0aGlzLT5nZXRDb250YWluZXJCdWlsZGVyKCk7CgkJJGNvbmZpZyA9ICR0aGlzLT5nZXRDb25maWcoJHRoaXMtPmRlZmF1bHRzKTsKCQkkdGhpcy0+dmFsaWRhdGVDb25maWcoJHRoaXMtPmRlZmF1bHRzLCAkY29uZmlnKTsKCQkKCQlmb3JlYWNoICgkdGhpcy0+Y29uZmlnWydwcmV2aWV3J11bJyddKQoJfQ==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">JGJ1aWxkZXIgPSAkdGhpcy0+Z2V0Q29udGFpbmVyQnVpbGRlcigpOwoJCSRidWlsZGVyLT5hZGREZWZpbml0aW9uKCR0aGlzLT5wcmVmaXgoJ3NlYXJjaGFibGVMaXN0ZW5lcicpKQoJCQktPnNldEZhY3RvcnkoU2VhcmNoYWJsZUxpc3RlbmVyOjpjbGFzcywgWyRjb25maWdbJ21pbWVUeXBlcyddXSkKCQkJLT5hZGRUYWcoRXZlbnRzRXh0ZW5zaW9uOjpUQUdfU1VCU0NSSUJFUik7</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">cHJpdmF0ZSAkZGVmYXVsdHMgPSBbCgkJJ3ByZXZpZXcnID0+IFsKCQkJJ3NlYXJjaFBhdGhzJyA9PiBbCgkJCQknL3Vzci9iaW4nLAoJCQkJJy91c3IvbG9jYWwvYmluJwoJCQldLAoJCQknc3lzdGVtVXRpbHMnID0+IFsKCQkJCSdnbScgPT4gJ2NvbnZlcnQgLWRlbnNpdHkgMzAwICthcHBlbmQgIiVzWzAsMV0iIGpwZzolcycsCgkJCQknY29udmVydCcgPT4gJy1kZW5zaXR5IDMwMCArYXBwZW5kICIlc1swLDFdIiBqcGc6JXMnCgkJCV0KCQldCgldOw==</text>
+        <text encoding="base64">JGJ1aWxkZXIgPSAkdGhpcy0+Z2V0Q29udGFpbmVyQnVpbGRlcigpOwoJCSRidWlsZGVyLT5hZGREZWZpbml0aW9uKCR0aGlzLT5wcmVmaXgoJ3NlYXJjaGFibGVMaXN0ZW5lcicpKQoJCQktPnNldEZhY3RvcnkoU2VhcmNoYWJsZUxpc3RlbmVyOjpjbGFzcywgWyRjb25maWdbJ21pbWVUeXBlcyddXSkKCQkJLT5hZGRUYWcoRXZlbnRzRXh0ZW5zaW9uOjpUQUdfU1VCU0NSSUJFUik7</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
       </register>
     </registers>
     <search>
-      <last-search>hasRelated</last-search>
+      <last-search>onChangeFolder</last-search>
       <last-offset />
-      <last-pattern>hasRelated</last-pattern>
+      <last-pattern>onChangeFolder</last-pattern>
       <last-replace>selectedDocument</last-replace>
       <last-substitute>editDocument</last-substitute>
       <last-dir>1</last-dir>
@@ -5052,7 +5052,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isAttachment</entry>
         <entry>getWrite</entry>
         <entry>getWrita</entry>
         <entry>findWrite</entry>
@@ -5072,6 +5071,7 @@
         <entry>Opravdu</entry>
         <entry>render</entry>
         <entry>hasRelated</entry>
+        <entry>onChangeFolder</entry>
       </history-search>
       <history-cmd>
         <entry>274</entry>
