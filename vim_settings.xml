@@ -1598,10 +1598,10 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Presenters/ArchivePresenter.php" timestamp="1544693444081">
-        <mark key="[" line="46" column="18" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Presenters/ArchivePresenter.php" timestamp="1545055461949">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/src/Options/Install/Install.php" timestamp="1491462610266">
         <mark key="[" line="2" column="18" />
@@ -3017,7 +3017,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545053916908">
+      <file name="/Dummy.txt" timestamp="1545055507783">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -5006,52 +5006,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPnJlZHJhd0NvbnRyb2woKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>$data = $data ?? [];</text>
       </register>
       <register name="/" type="4">
-        <text>onChangeFolder</text>
+        <text>HISTORY</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPnJlZHJhd0NvbnRyb2woKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPmZvbGRlciA9ICRmb2xkZXI7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPmNoZWNrRm9sZGVyKCRmb2xkZXIpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCSR0aGlzLT5yZWRyYXdDb250cm9sKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CWNvbnN0IEhJU1RPUlkgPSAxNDsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJJHRoaXMtPnJlZHJhd0NvbnRyb2woKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJJHRoaXMtPmZvbGRlciA9ICRmb2xkZXI7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJJHRoaXMtPmNoZWNrRm9sZGVyKCRmb2xkZXIpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCSR0aGlzLT5jaGVja0ZvbGRlcigkZm9sZGVyKTsK</text>
+        <text encoding="base64">CQkJCSR0aGlzLT5yZWRyYXdDb250cm9sKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIVxpc19hcnJheSgkZGF0YSkpIHsK</text>
+        <text encoding="base64">CQkJCSR0aGlzLT5jaGVja0ZvbGRlcigkZm9sZGVyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCdhYWFhJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
       </register>
     </registers>
     <search>
-      <last-search>onChangeFolder</last-search>
+      <last-search>HISTORY</last-search>
       <last-offset />
-      <last-pattern>onChangeFolder</last-pattern>
+      <last-pattern>HISTORY</last-pattern>
       <last-replace>selectedDocument</last-replace>
       <last-substitute>editDocument</last-substitute>
       <last-dir>1</last-dir>
@@ -5059,7 +5059,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addressBookSubject</entry>
         <entry>subjectId</entry>
         <entry>mimetypeicon</entry>
         <entry>InvalidState</entry>
@@ -5079,6 +5078,7 @@
         <entry>ACTION_SELECT</entry>
         <entry>select</entry>
         <entry>onChangeFolder</entry>
+        <entry>HISTORY</entry>
       </history-search>
       <history-cmd>
         <entry>274</entry>
