@@ -3067,10 +3067,10 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Presenters/DefaultPresenter.php" timestamp="1545041285144">
-        <mark key="[" line="240" column="0" />
-        <mark key="]" line="240" column="0" />
-        <mark key="." line="240" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Presenters/DefaultPresenter.php" timestamp="1545042842470">
+        <mark key="[" line="233" column="12" />
+        <mark key="]" line="233" column="12" />
+        <mark key="." line="233" column="12" />
       </file>
       <file name="/home/www/vendor/nnb/application/src/DI/ApplicationExtension.php" timestamp="1500620318607">
         <mark key="[" line="86" column="13" />
@@ -4997,8 +4997,8 @@
       <jump line="263" column="39" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JGNvbnRyb2wtPm9uUmVuZGVyW10gPSBmdW5jdGlvbiAoRG9jdW1lbnRzR3JpZCAkZG9jdW1lbnRzR3JpZCwgP0ZvbGRlciAkZm9sZGVyKSB1c2UgKCRzcGVjaWFsKSB7CgkJCQlpZiAoKCRmb2xkZXIgPT09IG51bGwgJiYgJHNwZWNpYWwgPT09ICdob21lJykgfHwgKCRmb2xkZXIgIT09IG51bGwgJiYgJGZvbGRlci0+Z2V0U3BlY2lhbCgpID09PSAnaG9tZScpKSB7CgkJCQkJJGRvY3VtZW50c0dyaWQtPnNldENzc0NsYXNzKCdzdWNjZXNzJykKCQkJCQkJLT5zZXRUaXRsZShzcHJpbnRmKCdOb3bDqSBhIHptxJtuxJtuw6kgZG9rdW1lbnR5IHphIHBvc2xlZG7DrWNoICVkIGRuw60nLCBzZWxmOjpISVNUT1JZKSk7CgkJCQl9CgkJCX07</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JiYgJGZvbGRlci0+Z2V0U3BlY2lhbCgpID09PSAnaG9t</text>
@@ -5009,33 +5009,32 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">JGNvbnRyb2wtPm9uUmVuZGVyW10gPSBmdW5jdGlvbiAoRG9jdW1lbnRzR3JpZCAkZG9jdW1lbnRzR3JpZCwgP0ZvbGRlciAkZm9sZGVyKSB1c2UgKCRzcGVjaWFsKSB7CgkJCQlpZiAoKCRmb2xkZXIgPT09IG51bGwgJiYgJHNwZWNpYWwgPT09ICdob21lJykgfHwgKCRmb2xkZXIgIT09IG51bGwgJiYgJGZvbGRlci0+Z2V0U3BlY2lhbCgpID09PSAnaG9tZScpKSB7CgkJCQkJJGRvY3VtZW50c0dyaWQtPnNldENzc0NsYXNzKCdzdWNjZXNzJykKCQkJCQkJLT5zZXRUaXRsZShzcHJpbnRmKCdOb3bDqSBhIHptxJtuxJtuw6kgZG9rdW1lbnR5IHphIHBvc2xlZG7DrWNoICVkIGRuw60nLCBzZWxmOjpISVNUT1JZKSk7CgkJCQl9CgkJCX07</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CQkJfQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CQkJaWYgKCRzcGVjaWFsID09PSAnaG9tZScpIHsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ZWxzZSB7CgkJCSRyZXN1bHQgPSBjYWxsX3VzZXJfZnVuYygkdGhpcy0+ZG9jdW1lbnRzQ2FsbGJhY2ssICRwYWdpbmF0b3IsICR0aGlzLT5mb2xkZXIsICR0aGlzLT5kb2N1bWVudCk7CgoJCQlkdW1wKCRyZXN1bHQpOwoKCQkJaWYgKCRyZXN1bHQgaW5zdGFuY2VvZiBEb2N1bWVudHNRdWVyeSkgewoJCQkJJGRvY3VtZW50c1F1ZXJ5ID0gJHJlc3VsdDsKCQkJfSBlbHNlaWYgKCFpc19hcnJheSgkcmVzdWx0KSkgewoJCQkJdGhyb3cgbmV3IEludmFsaWRTdGF0ZUV4Y2VwdGlvbihzcHJpbnRmKCdSZXN1bHQgbXVzdCBiZSAlcyBvciBhcnJheSwgJXMgZ2l2ZW4uJywKCQkJCQlEb2N1bWVudHNRdWVyeTo6Y2xhc3MsIGdldHR5cGUoJHJlc3VsdCkpKTsKCQkJfQoKCQl9</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJZHVtcCgkcmVzdWx0KTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkkdGhpcy0+b25SZW5kZXIoKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICogQG1ldGhvZCBvbkNoYW5nZUZvbGRlcigpCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQkJCSRncmlkLT5zZXRQYXRoKCR0aGlzLT5mb2xkZXIpOwo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>dump($utility);
-		exit;</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
