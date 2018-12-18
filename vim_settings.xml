@@ -3970,10 +3970,10 @@
         <mark key="]" line="12" column="40" />
         <mark key="." line="12" column="40" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Search/Presenters/DefaultPresenter.php" timestamp="1544691674703">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Search/Presenters/DefaultPresenter.php" timestamp="1545133377835">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/media/src/Routers/FileRouterFactory.php" timestamp="1493898696652">
         <mark key="[" line="28" column="12" />
@@ -4195,10 +4195,10 @@
         <mark key="]" line="23" column="12" />
         <mark key="." line="23" column="12" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Search/Query/SearchQuery.php" timestamp="1493371124221">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Search/Query/SearchQuery.php" timestamp="1545132702385">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="/home/www/html/bul/mamo/app/presenters/BasePresenter.php" timestamp="1481267871908">
         <mark key="[" line="21" column="14" />
@@ -4579,8 +4579,8 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Files/Events/FileUploadListener.php" timestamp="1545126897684">
-        <mark key="[" line="52" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Files/Events/FileUploadListener.php" timestamp="1545131819642">
+        <mark key="[" line="87" column="78" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
@@ -4994,7 +4994,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkkdGhpcy0+ZmlsZUZhY2FkZSA9ICRmaWxlRmFjYWRlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>FileFacade $fileFacade</text>
@@ -5006,34 +5006,31 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkkdGhpcy0+ZmlsZUZhY2FkZSA9ICRmaWxlRmFjYWRlOwo=</text>
-      </register>
-      <register name="2" type="4">
-        <text>/**
-	 * @var FileFacade
-	 */
-	private $fileFacade;</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CSAqIEBBc3NlcnRcTm90QmxhbmsoKQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJZHVtcCgkZG9jdW1lbnRzKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJZHVtcCgkc2VhcmNoLT5nZXRSZXN1bHQoKSApOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CWNvbnN0IEhJU1RPUlkgPSAxNDsK</text>
+        <text encoding="base64">CQkJJHNlYXJjaC0+Z2V0UmVzdWx0KCkgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPnJlZHJhd0NvbnRyb2woKTsK</text>
+        <text encoding="base64">CQkJZHVtcCgnb2snKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPmZvbGRlciA9ICRmb2xkZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPmNoZWNrRm9sZGVyKCRmb2xkZXIpOwo=</text>
+        <text encoding="base64">CQllY2hvICRxYi0+Z2V0UXVlcnkoKS0+Z2V0U1FMKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCSR0aGlzLT5yZWRyYXdDb250cm9sKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>133</text>
