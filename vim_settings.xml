@@ -3970,7 +3970,7 @@
         <mark key="]" line="12" column="40" />
         <mark key="." line="12" column="40" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Search/Presenters/DefaultPresenter.php" timestamp="1545133377835">
+      <file name="/home/www/html/nnb/dms/src/Search/Presenters/DefaultPresenter.php" timestamp="1545134707906">
         <mark key="[" line="118" column="0" />
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
@@ -4195,10 +4195,11 @@
         <mark key="]" line="23" column="12" />
         <mark key="." line="23" column="12" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Search/Query/SearchQuery.php" timestamp="1545132702385">
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Search/Query/SearchQuery.php" timestamp="1545134353252">
+        <mark key="[" line="198" column="44" />
+        <mark key="]" line="195" column="13" />
+        <mark key="." line="195" column="13" />
+        <mark key="^" line="195" column="13" />
       </file>
       <file name="/home/www/html/bul/mamo/app/presenters/BasePresenter.php" timestamp="1481267871908">
         <mark key="[" line="21" column="14" />
@@ -4210,12 +4211,11 @@
         <mark key="]" line="91" column="8" />
         <mark key="." line="91" column="8" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1545046740531">
-        <mark key="'" line="584" column="33" />
-        <mark key="[" line="257" column="49" />
-        <mark key="]" line="257" column="49" />
-        <mark key="." line="257" column="49" />
-        <mark key="^" line="522" column="53" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1545135032077">
+        <mark key="'" line="707" column="50" />
+        <mark key="[" line="245" column="12" />
+        <mark key="]" line="235" column="0" />
+        <mark key="." line="235" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/FilesUploadForm/FilesUploadForm.php" timestamp="1495783367578">
         <mark key="[" line="28" column="36" />
@@ -4891,7 +4891,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="749" column="56" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="325" column="60" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="38" column="31" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
       <jump line="43" column="76" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
@@ -4991,6 +4990,7 @@
       <jump line="41" column="13" filename="/home/www/html/nnb/dms/src/Files/Events/FileUploadListener.php" />
       <jump line="54" column="62" filename="/home/www/html/nnb/dms/src/Files/Events/FileUploadListener.php" />
       <jump line="57" column="29" filename="/home/www/html/nnb/dms/src/Files/Events/FileUploadListener.php" />
+      <jump line="705" column="50" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -5000,7 +5000,7 @@
         <text>FileFacade $fileFacade</text>
       </register>
       <register name="/" type="4">
-        <text>fileFacade</text>
+        <text>getDocuments</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
@@ -5009,37 +5009,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJZHVtcCgkZG9jdW1lbnRzKTsK</text>
+        <text encoding="base64">CQkJZHVtcCgkcmVzdWx0KTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJZHVtcCgkc2VhcmNoLT5nZXRSZXN1bHQoKSApOwo=</text>
+        <text encoding="base64">CQkJZHVtcCgkZG9jdW1lbnRzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJJHNlYXJjaC0+Z2V0UmVzdWx0KCkgCg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJZHVtcCgnb2snKTsK</text>
+        <text encoding="base64">CQkJZHVtcCgkZG9jdW1lbnRzKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQllY2hvICRxYi0+Z2V0UXVlcnkoKS0+Z2V0U1FMKCk7Cg==</text>
+        <text encoding="base64">CQkJZHVtcCgkc2VhcmNoLT5nZXRSZXN1bHQoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWR1bXAoJ2FhYWEnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>133</text>
       </register>
     </registers>
     <search>
-      <last-search>fileFacade</last-search>
+      <last-search>getDocuments</last-search>
       <last-offset />
-      <last-pattern>fileFacade</last-pattern>
+      <last-pattern>getDocuments</last-pattern>
       <last-replace>selectedDocument</last-replace>
       <last-substitute>editDocument</last-substitute>
       <last-dir>1</last-dir>
@@ -5056,7 +5056,6 @@
         <entry>onRender</entry>
         <entry>call</entry>
         <entry>isDeleted</entry>
-        <entry>getDocuments</entry>
         <entry>onSelect</entry>
         <entry>updateLinks</entry>
         <entry>links</entry>
@@ -5067,6 +5066,7 @@
         <entry>onChangeFolder</entry>
         <entry>HISTORY</entry>
         <entry>fileFacade</entry>
+        <entry>getDocuments</entry>
       </history-search>
       <history-cmd>
         <entry>%s/BaseContainer/FormContainer/g</entry>
