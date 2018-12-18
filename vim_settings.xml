@@ -223,6 +223,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Events/DocumentFolderSortableListener.php" timestamp="1545136663007">
+        <mark key="[" line="219" column="0" />
+        <mark key="]" line="219" column="0" />
+        <mark key="." line="219" column="0" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Users/Security/RolesProvider.php" timestamp="1490955241911">
         <mark key="[" line="22" column="12" />
         <mark key="]" line="26" column="0" />
@@ -3008,7 +3013,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545055507783">
+      <file name="/Dummy.txt" timestamp="1545137071066">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -4994,10 +4999,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlkdW1wKCRkb2N1bWVudHMpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>FileFacade $fileFacade</text>
+        <text>exit;</text>
       </register>
       <register name="/" type="4">
         <text>getDocuments</text>
@@ -5006,31 +5011,34 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlkdW1wKCRkb2N1bWVudHMpOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJZHVtcCgkcmVzdWx0KTsK</text>
+      <register name="2" type="4">
+        <text>function ($arg) {
+				return trim($arg);
+			},</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CWR1bXAoJGZvbGRlcik7CgkJCWV4aXQ7</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJZHVtcCgkZG9jdW1lbnRzKTsK</text>
+      <register name="4" type="4">
+        <text>dump('aaaa');
+			exit;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJZHVtcCgkZG9jdW1lbnRzKTsK</text>
+        <text encoding="base64">CQkJZHVtcCgkcmVzdWx0KTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJZHVtcCgkc2VhcmNoLT5nZXRSZXN1bHQoKSk7Cg==</text>
+        <text encoding="base64">CQkJZHVtcCgkZG9jdW1lbnRzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJ2FhYWEnKTsK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>133</text>
