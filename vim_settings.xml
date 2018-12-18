@@ -4579,8 +4579,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Files/Events/FileUploadListener.php" timestamp="1544706065922">
-        <mark key="[" line="111" column="81" />
+      <file name="/home/www/html/nnb/dms/src/Files/Events/FileUploadListener.php" timestamp="1545126897684">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/doctrine/src/Form/EntityFormMapper.php" timestamp="1491565414995">
         <mark key="[" line="35" column="31" />
@@ -4889,10 +4891,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="39" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
-      <jump line="282" column="46" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
-      <jump line="293" column="51" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
-      <jump line="330" column="61" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="749" column="56" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="325" column="60" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="38" column="31" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
@@ -4989,55 +4987,62 @@
       <jump line="520" column="52" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
       <jump line="231" column="22" filename="/home/www/html/nnb/dms/src/Documents/Presenters/DefaultPresenter.php" />
       <jump line="168" column="18" filename="/home/www/html/nnb/dms/src/Documents/Presenters/DefaultPresenter.php" />
+      <jump line="74" column="40" filename="/home/www/html/nnb/dms/src/Files/Events/FileUploadListener.php" />
+      <jump line="41" column="13" filename="/home/www/html/nnb/dms/src/Files/Events/FileUploadListener.php" />
+      <jump line="54" column="62" filename="/home/www/html/nnb/dms/src/Files/Events/FileUploadListener.php" />
+      <jump line="57" column="29" filename="/home/www/html/nnb/dms/src/Files/Events/FileUploadListener.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CSAqIEBBc3NlcnRcTm90QmxhbmsoKQo=</text>
+        <text encoding="base64">CQkkdGhpcy0+ZmlsZUZhY2FkZSA9ICRmaWxlRmFjYWRlOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGNvbnRhY3QtPmdldEFkZHJlc3MoKSAhPT0gbnVsbCAmJg==</text>
+        <text>FileFacade $fileFacade</text>
       </register>
       <register name="/" type="4">
-        <text>HISTORY</text>
+        <text>fileFacade</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAqIEBBc3NlcnRcTm90QmxhbmsoKQo=</text>
+        <text encoding="base64">CQkkdGhpcy0+ZmlsZUZhY2FkZSA9ICRmaWxlRmFjYWRlOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>/**
+	 * @var FileFacade
+	 */
+	private $fileFacade;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWNvbnN0IEhJU1RPUlkgPSAxNDsK</text>
+        <text encoding="base64">CSAqIEBBc3NlcnRcTm90QmxhbmsoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPnJlZHJhd0NvbnRyb2woKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPmZvbGRlciA9ICRmb2xkZXI7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPmNoZWNrRm9sZGVyKCRmb2xkZXIpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCSR0aGlzLT5yZWRyYXdDb250cm9sKCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CWNvbnN0IEhJU1RPUlkgPSAxNDsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJJHRoaXMtPnJlZHJhd0NvbnRyb2woKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJJHRoaXMtPmZvbGRlciA9ICRmb2xkZXI7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJJHRoaXMtPmNoZWNrRm9sZGVyKCRmb2xkZXIpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCSR0aGlzLT5jaGVja0ZvbGRlcigkZm9sZGVyKTsK</text>
+        <text encoding="base64">CQkJCSR0aGlzLT5yZWRyYXdDb250cm9sKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>133</text>
       </register>
     </registers>
     <search>
-      <last-search>HISTORY</last-search>
+      <last-search>fileFacade</last-search>
       <last-offset />
-      <last-pattern>HISTORY</last-pattern>
+      <last-pattern>fileFacade</last-pattern>
       <last-replace>selectedDocument</last-replace>
       <last-substitute>editDocument</last-substitute>
       <last-dir>1</last-dir>
@@ -5045,7 +5050,6 @@
     </search>
     <history>
       <history-search>
-        <entry>subjectId</entry>
         <entry>mimetypeicon</entry>
         <entry>InvalidState</entry>
         <entry>Opravdu</entry>
@@ -5065,6 +5069,7 @@
         <entry>select</entry>
         <entry>onChangeFolder</entry>
         <entry>HISTORY</entry>
+        <entry>fileFacade</entry>
       </history-search>
       <history-cmd>
         <entry>%s/BaseContainer/FormContainer/g</entry>
