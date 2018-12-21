@@ -1697,6 +1697,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/previewBody.latte" timestamp="1545384015070">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="24" />
+        <mark key="." line="1" column="24" />
+        <mark key="^" line="1" column="24" />
+      </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Helpers.php" timestamp="1476856994117">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="4" />
@@ -3044,7 +3050,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545325025985">
+      <file name="/Dummy.txt" timestamp="1545384587773">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -4236,6 +4242,13 @@
         <mark key="]" line="91" column="8" />
         <mark key="." line="91" column="8" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1545384299217">
+        <mark key="'" line="708" column="50" />
+        <mark key="[" line="470" column="81" />
+        <mark key="]" line="472" column="0" />
+        <mark key="^" line="468" column="17" />
+        <mark key="." line="472" column="0" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/FilesUploadForm/FilesUploadForm.php" timestamp="1495783367578">
         <mark key="[" line="28" column="36" />
         <mark key="]" line="118" column="22" />
@@ -5024,10 +5037,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEFkZHJlc3NCb29rXENvbXBvbmVudHNcRm9ybVBhcnRzXEFkZHJlc3NGb3JtUGFydFxUQWRkcmVzc0Zvcm1QYXJ0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>$form, $addressProvi</text>
+        <text>highlight</text>
       </register>
       <register name="/" type="4">
         <text>templatePrepareFilters</text>
@@ -5036,34 +5049,34 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEFkZHJlc3NCb29rXENvbXBvbmVudHNcRm9ybVBhcnRzXEFkZHJlc3NGb3JtUGFydFxUQWRkcmVzc0Zvcm1QYXJ0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXVzZSBUQWRkcmVzc0Zvcm1QYXJ0Owo=</text>
+        <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEFkZHJlc3NCb29rXENvbXBvbmVudHNcRm9ybVBhcnRzXENvbnRhY3RGb3JtUGFydFxUQ29udGFjdEZvcm1QYXJ0Owo=</text>
+        <text encoding="base64">CQkJCWR1bXAoJHRleHQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXVzZSBUQ29udGFjdEZvcm1QYXJ0Owo=</text>
+        <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXtpbmNsdWRlICRjb250cm9sLT5nZXRDb250YWN0Rm9ybVBhcnRUZW1wbGF0ZSgpfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWV4aXQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXt2YXIgJGZvcm0gPSBlbmQoJHRoaXMtPmdsb2JhbC0+Zm9ybXNTdGFjayl9Cg==</text>
+        <text encoding="base64">CQkJCWR1bXAoJHRleHQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">e3ZhciAkZm9ybSA9IGVuZCgkdGhpcy0+Z2xvYmFsLT5mb3Jtc1N0YWNrKX0K</text>
+        <text encoding="base64">CQkJCXJldHVybiAnYWFhYWFhJzsK</text>
       </register>
       <register name=":" type="4">
-        <text>133</text>
+        <text>462</text>
       </register>
     </registers>
     <search>
@@ -5099,7 +5112,6 @@
         <entry>templatePrepareFilters</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/BaseContainer/FormContainer/g</entry>
         <entry>242</entry>
         <entry>74</entry>
         <entry>53</entry>
@@ -5119,6 +5131,7 @@
         <entry>163</entry>
         <entry>119</entry>
         <entry>133</entry>
+        <entry>462</entry>
       </history-cmd>
       <history-expr />
       <history-input />
