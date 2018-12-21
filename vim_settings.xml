@@ -3103,6 +3103,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Presenters/DefaultPresenter.php" timestamp="1545053690346">
+        <mark key="'" line="168" column="18" />
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
+      </file>
       <file name="/home/www/vendor/nnb/application/src/DI/ApplicationExtension.php" timestamp="1500620318607">
         <mark key="[" line="86" column="13" />
         <mark key="]" line="86" column="14" />
@@ -4545,7 +4551,8 @@
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" timestamp="1544700219872">
+      <file name="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" timestamp="1545390036545">
+        <mark key="'" line="350" column="39" />
         <mark key="[" line="102" column="58" />
         <mark key="]" line="102" column="58" />
         <mark key="." line="102" column="58" />
@@ -4935,7 +4942,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="76" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
       <jump line="542" column="60" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="130" column="13" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="186" column="33" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
@@ -5035,6 +5041,7 @@
       <jump line="705" column="50" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="65" column="39" filename="/home/www/html/dv/adera/libs/vendor/nette/application/src/Application/UI/Control.php" />
       <jump line="74" column="20" filename="/home/www/html/dv/adera/libs/vendor/nette/application/src/Application/UI/Control.php" />
+      <jump line="350" column="39" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -5044,7 +5051,7 @@
         <text>highlight</text>
       </register>
       <register name="/" type="4">
-        <text>templatePrepareFilters</text>
+        <text>published</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
@@ -5081,9 +5088,9 @@
       </register>
     </registers>
     <search>
-      <last-search>templatePrepareFilters</last-search>
+      <last-search>published</last-search>
       <last-offset />
-      <last-pattern>templatePrepareFilters</last-pattern>
+      <last-pattern>published</last-pattern>
       <last-replace>selectedDocument</last-replace>
       <last-substitute>editDocument</last-substitute>
       <last-dir>1</last-dir>
@@ -5091,7 +5098,6 @@
     </search>
     <history>
       <history-search>
-        <entry>InvalidState</entry>
         <entry>Opravdu</entry>
         <entry>render</entry>
         <entry>hasRelated</entry>
@@ -5111,6 +5117,7 @@
         <entry>fileFacade</entry>
         <entry>getDocuments</entry>
         <entry>templatePrepareFilters</entry>
+        <entry>published</entry>
       </history-search>
       <history-cmd>
         <entry>74</entry>
