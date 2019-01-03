@@ -1975,7 +1975,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera-test/Modules/Invoicing/TIntervention.php" timestamp="1546001137748" />
       <file name="/home/www/html/nnb/dms/src/DMS/Files/File.php" timestamp="1486980281993">
         <mark key="[" line="208" column="0" />
         <mark key="]" line="208" column="0" />
@@ -2202,7 +2201,6 @@
         <mark key="]" line="51" column="23" />
         <mark key="." line="51" column="23" />
       </file>
-      <file name="/home/www/html/dv/adera-test/libs/vendor/nette/utils/src/Iterators/CachingIterator.php" timestamp="1546003430935" />
       <file name="/home/www/vendor/hrncirr/media/src/Doctrine/FileMethods.php" timestamp="1493983634013">
         <mark key="[" line="145" column="0" />
         <mark key="]" line="145" column="4" />
@@ -3656,6 +3654,10 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1546499987968">
+        <mark key="'" line="663" column="33" />
+        <mark key="[" line="216" column="45" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Exceptions/SubjectAlreadyExistsException.php" timestamp="1542886169784">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -4218,6 +4220,11 @@
         <mark key="[" line="38" column="16" />
         <mark key="]" line="38" column="16" />
         <mark key="." line="38" column="16" />
+      </file>
+      <file name="/home/www/html/nnb/dms/src/Latte/Filters/DateTimeFilters.php" timestamp="1546500738371">
+        <mark key="[" line="21" column="45" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/ContactFormPart/TContactFormPart.php" timestamp="1545315523447">
         <mark key="[" line="25" column="38" />
@@ -4970,7 +4977,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="542" column="60" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="130" column="13" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="186" column="33" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="296" column="19" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
@@ -5070,58 +5076,57 @@
       <jump line="65" column="39" filename="/home/www/html/dv/adera/libs/vendor/nette/application/src/Application/UI/Control.php" />
       <jump line="74" column="20" filename="/home/www/html/dv/adera/libs/vendor/nette/application/src/Application/UI/Control.php" />
       <jump line="350" column="39" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
+      <jump line="663" column="33" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JGRhdGUtPm1vZGlmeSgkY2xvbmVUeXBlWydtb2RpZnknXSk7</text>
       </register>
       <register name="/" type="4">
-        <text>published</text>
+        <text>setValid</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQlkdW1wKCRkaWZmKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJZHVtcCgkeSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CQlleGl0Owo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>//dump($date);
 			dump($interventionDateTimeFrom);</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJZHVtcCgnb2snKTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJZHVtcCgkaW50ZXJ2ZW50aW9uRGF0ZVRpbWVGcm9tKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJZHVtcCgnb2snKTsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text encoding="base64">aWYgKCRjbG9uZVR5cGVbJ3F1YW50aXR5J10gIT09IDIyKSB7CgkJCQkkZGF0ZS0+bW9kaWZ5KCRjbG9uZVR5cGVbJ21vZGlmeSddKTsKCQkJfQ==</text>
-      </register>
-      <register name="7" type="4">
-        <text>if ($cloneType['quantity'] === 23) {
-				
-			}</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>148</text>
       </register>
     </registers>
     <search>
-      <last-search>published</last-search>
+      <last-search>setValid</last-search>
       <last-offset />
-      <last-pattern>published</last-pattern>
+      <last-pattern>setValid</last-pattern>
       <last-replace>selectedDocument</last-replace>
       <last-substitute>editDocument</last-substitute>
       <last-dir>1</last-dir>
@@ -5129,7 +5134,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Opravdu</entry>
         <entry>render</entry>
         <entry>hasRelated</entry>
         <entry>Folder</entry>
@@ -5149,6 +5153,7 @@
         <entry>getDocuments</entry>
         <entry>templatePrepareFilters</entry>
         <entry>published</entry>
+        <entry>setValid</entry>
       </history-search>
       <history-cmd>
         <entry>74</entry>
