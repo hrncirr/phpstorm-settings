@@ -3114,12 +3114,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Presenters/DefaultPresenter.php" timestamp="1545053690346">
-        <mark key="'" line="168" column="18" />
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="170" column="0" />
-        <mark key="." line="170" column="0" />
-      </file>
       <file name="/home/www/vendor/nnb/application/src/DI/ApplicationExtension.php" timestamp="1500620318607">
         <mark key="[" line="86" column="13" />
         <mark key="]" line="86" column="14" />
@@ -3648,9 +3642,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1546499987968">
-        <mark key="'" line="663" column="33" />
-        <mark key="[" line="216" column="45" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1546508840209">
+        <mark key="'" line="668" column="33" />
+        <mark key="[" line="334" column="4" />
+        <mark key="]" line="75" column="94" />
+        <mark key="." line="75" column="94" />
+        <mark key="^" line="75" column="94" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Exceptions/SubjectAlreadyExistsException.php" timestamp="1542886169784">
         <mark key="[" line="11" column="0" />
@@ -4552,11 +4549,11 @@
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" timestamp="1545390036545">
+      <file name="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" timestamp="1546507635395">
         <mark key="'" line="350" column="39" />
-        <mark key="[" line="102" column="58" />
-        <mark key="]" line="102" column="58" />
-        <mark key="." line="102" column="58" />
+        <mark key="[" line="208" column="0" />
+        <mark key="]" line="208" column="0" />
+        <mark key="." line="208" column="0" />
       </file>
       <file name="/home/www/html/nnb/nezadouci-udalosti/app/Components/Modals/ViewModal.php" timestamp="1482399971117">
         <mark key="[" line="36" column="0" />
@@ -5055,11 +5052,11 @@
       <jump line="663" column="33" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>fetch=&quot;EAGER&quot;,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGRhdGUtPm1vZGlmeSgkY2xvbmVUeXBlWydtb2RpZnknXSk7</text>
+        <text>fetch=&quot;EAGER&quot;,</text>
       </register>
       <register name="/" type="4">
         <text>setValid</text>
@@ -5067,33 +5064,38 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIEZpbGUKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGdldEN1cnJlbnRGaWxlKCk6IEZpbGUKCXsKCQlyZXR1cm4gJHRoaXMtPmN1cnJlbnRGaWxlOwoJfQoKCgkvKioKCSAqIEBwYXJhbSBGaWxlICRjdXJyZW50RmlsZQoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0Q3VycmVudEZpbGUoRmlsZSAkY3VycmVudEZpbGUpOiB2b2lkCgl7CgkJJHRoaXMtPmN1cnJlbnRGaWxlID0gJGN1cnJlbnRGaWxlOwoJfQ==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQlkdW1wKCRkaWZmKTsK</text>
+      <register name="2" type="4">
+        <text>/**
+	 * @ORM\ManyToOne(targetEntity=&quot;App\Files\File&quot;, cascade={&quot;persist&quot;}, fetch=&quot;EAGER&quot;)
+	 * @ORM\JoinColumn(name=&quot;current_file_id&quot;, referencedColumnName=&quot;id&quot;)
+	 * @var File
+	 */
+	private $currentFile;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJZHVtcCgkeSk7Cg==</text>
+        <text encoding="base64">CQkJZXhpdDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+        <text encoding="base64">CQkJZXhpdDsK</text>
       </register>
-      <register name="5" type="4">
-        <text>//dump($date);
-			dump($interventionDateTimeFrom);</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJZHVtcCgnb2snKTsK</text>
+        <text encoding="base64">CQlkdW1wKCRkaWZmKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJZHVtcCgkaW50ZXJ2ZW50aW9uRGF0ZVRpbWVGcm9tKTsK</text>
+        <text encoding="base64">CQkJZHVtcCgkeSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJZHVtcCgnb2snKTsK</text>
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">aWYgKCRjbG9uZVR5cGVbJ3F1YW50aXR5J10gIT09IDIyKSB7CgkJCQkkZGF0ZS0+bW9kaWZ5KCRjbG9uZVR5cGVbJ21vZGlmeSddKTsKCQkJfQ==</text>
+        <text>//dump($date);
+			dump($interventionDateTimeFrom);</text>
       </register>
       <register name=":" type="4">
         <text>148</text>
