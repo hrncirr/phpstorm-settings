@@ -3642,11 +3642,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1546853039899">
+      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1546854072698">
         <mark key="'" line="711" column="33" />
-        <mark key="[" line="726" column="4" />
-        <mark key="]" line="380" column="0" />
-        <mark key="." line="380" column="0" />
+        <mark key="[" line="733" column="0" />
+        <mark key="]" line="733" column="0" />
+        <mark key="." line="733" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Exceptions/SubjectAlreadyExistsException.php" timestamp="1542886169784">
         <mark key="[" line="11" column="0" />
@@ -5056,52 +5056,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkkY29uc3RyYWludE5vdEJsYW5rID0gbmV3IEFzc2VydFxOb3RCbGFuaygpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>Debugger::timer();</text>
       </register>
       <register name="/" type="4">
-        <text>filter</text>
+        <text>validateFrom</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkkY29uc3RyYWludE5vdEJsYW5rID0gbmV3IEFzc2VydFxOb3RCbGFuaygpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlEZWJ1Z2dlcjo6dGltZXIoKTsK</text>
+        <text encoding="base64">CQkJLT5pbkNvbnRleHQoJGNvbnRleHQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlmb3JlYWNoIChbJ3N0cmVldCcsICdjaXR5JywgJ3ppcENvZGUnXSBhcyAkcGF0aCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlkdW1wKERlYnVnZ2VyOjp0aW1lcigpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">LyoKCQkkZmlsZXMgPSAkdGhpcy0+Z2V0RmlsZXMoKS0+ZmlsdGVyKGZ1bmN0aW9uIChGaWxlICRmaWxlKSB1c2UgKCRub3cpIHsKCQkJcmV0dXJuICR0aGlzLT5tYXJrZWRGaWxlICE9PSAkZmlsZSAmJiAoJGZpbGUtPmdldFZhbGlkRnJvbSgpID09PSBudWxsIHx8ICRmaWxlLT5nZXRWYWxpZEZyb20oKSA8PSAkbm93KTsKCQl9KTsKCgkJaWYgKGNvdW50KCRmaWxlcykgPiAwKSB7CgkJCWZvcmVhY2ggKCRmaWxlcyBhcyAkZmlsZSkgewoJCQkJaWYgKCRmaWxlLT5nZXRWYWxpZEZyb20oKSAhPT0gbnVsbCAmJiAoIWlzc2V0KCRmaWxlV2l0aFZhbGlkRnJvbSkgfHwKCQkJCQkJJGZpbGVXaXRoVmFsaWRGcm9tLT5nZXRWYWxpZEZyb20oKSA+ICRmaWxlLT5nZXRWYWxpZEZyb20oKSkpIHsKCQkJCQkkZmlsZVdpdGhWYWxpZEZyb20gPSAkZmlsZTsKCgkJCQl9IGVsc2VpZiAoJGZpbGUtPmdldFZhbGlkRnJvbSgpID09PSBudWxsICYmICFpc3NldCgkZmlsZVdpdGhvdXRWYWxpZEZyb20pKSB7CgkJCQkJJGZpbGVXaXRob3V0VmFsaWRGcm9tID0gJGZpbGU7CgoJCQkJfQoJCQl9CgoJCQlpZiAoaXNzZXQoJGZpbGVXaXRoVmFsaWRGcm9tKSAmJiAoJHRoaXMtPm1hcmtlZEZpbGUtPmdldFZhbGlkRnJvbSgpID09PSBudWxsIHx8CgkJCQkJJHRoaXMtPm1hcmtlZEZpbGUtPmdldFZhbGlkRnJvbSgpIDwgJGZpbGVXaXRoVmFsaWRGcm9tLT5nZXRWYWxpZEZyb20oKSkpIHsKCQkJCXJldHVybiAkZmlsZVdpdGhWYWxpZEZyb207CgoJCQl9CgoJCQlpZiAoaXNzZXQoJGZpbGVXaXRob3V0VmFsaWRGcm9tKSAmJiAoJHRoaXMtPm1hcmtlZEZpbGUtPmdldFZhbGlkRnJvbSgpICE9PSBudWxsICYmCgkJCQkJJHRoaXMtPm1hcmtlZEZpbGUtPmdldFZhbGlkRnJvbSgpID4gJG5vdykpIHsKCQkJCXJldHVybiAkZmlsZVdpdGhvdXRWYWxpZEZyb207CgoJCQl9CgkJfQoJCSov</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQlEZWJ1Z2dlcjo6dGltZXIoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCS8qKiBAdmFyIEZpbGUgJGZpbGVXaXRoVmFsaWRGcm9tICovCg==</text>
+        <text encoding="base64">CQlkdW1wKERlYnVnZ2VyOjp0aW1lcigpKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkvKiogQHZhciBGaWxlICRmaWxlICovCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">LyoKCQkkZmlsZXMgPSAkdGhpcy0+Z2V0RmlsZXMoKS0+ZmlsdGVyKGZ1bmN0aW9uIChGaWxlICRmaWxlKSB1c2UgKCRub3cpIHsKCQkJcmV0dXJuICR0aGlzLT5tYXJrZWRGaWxlICE9PSAkZmlsZSAmJiAoJGZpbGUtPmdldFZhbGlkRnJvbSgpID09PSBudWxsIHx8ICRmaWxlLT5nZXRWYWxpZEZyb20oKSA8PSAkbm93KTsKCQl9KTsKCgkJaWYgKGNvdW50KCRmaWxlcykgPiAwKSB7CgkJCWZvcmVhY2ggKCRmaWxlcyBhcyAkZmlsZSkgewoJCQkJaWYgKCRmaWxlLT5nZXRWYWxpZEZyb20oKSAhPT0gbnVsbCAmJiAoIWlzc2V0KCRmaWxlV2l0aFZhbGlkRnJvbSkgfHwKCQkJCQkJJGZpbGVXaXRoVmFsaWRGcm9tLT5nZXRWYWxpZEZyb20oKSA+ICRmaWxlLT5nZXRWYWxpZEZyb20oKSkpIHsKCQkJCQkkZmlsZVdpdGhWYWxpZEZyb20gPSAkZmlsZTsKCgkJCQl9IGVsc2VpZiAoJGZpbGUtPmdldFZhbGlkRnJvbSgpID09PSBudWxsICYmICFpc3NldCgkZmlsZVdpdGhvdXRWYWxpZEZyb20pKSB7CgkJCQkJJGZpbGVXaXRob3V0VmFsaWRGcm9tID0gJGZpbGU7CgoJCQkJfQoJCQl9CgoJCQlpZiAoaXNzZXQoJGZpbGVXaXRoVmFsaWRGcm9tKSAmJiAoJHRoaXMtPm1hcmtlZEZpbGUtPmdldFZhbGlkRnJvbSgpID09PSBudWxsIHx8CgkJCQkJJHRoaXMtPm1hcmtlZEZpbGUtPmdldFZhbGlkRnJvbSgpIDwgJGZpbGVXaXRoVmFsaWRGcm9tLT5nZXRWYWxpZEZyb20oKSkpIHsKCQkJCXJldHVybiAkZmlsZVdpdGhWYWxpZEZyb207CgoJCQl9CgoJCQlpZiAoaXNzZXQoJGZpbGVXaXRob3V0VmFsaWRGcm9tKSAmJiAoJHRoaXMtPm1hcmtlZEZpbGUtPmdldFZhbGlkRnJvbSgpICE9PSBudWxsICYmCgkJCQkJJHRoaXMtPm1hcmtlZEZpbGUtPmdldFZhbGlkRnJvbSgpID4gJG5vdykpIHsKCQkJCXJldHVybiAkZmlsZVdpdGhvdXRWYWxpZEZyb207CgoJCQl9CgkJfQoJCSov</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkvKiogQHZhciBGaWxlICRmaWxlV2l0aFZhbGlkRnJvbSAqLwo=</text>
+        <text encoding="base64">CQkvKgo=</text>
       </register>
       <register name=":" type="4">
         <text>148</text>
       </register>
     </registers>
     <search>
-      <last-search>filter</last-search>
+      <last-search>validateFrom</last-search>
       <last-offset />
-      <last-pattern>filter</last-pattern>
+      <last-pattern>validateFrom</last-pattern>
       <last-replace>selectedDocument</last-replace>
       <last-substitute>editDocument</last-substitute>
       <last-dir>1</last-dir>
@@ -5109,7 +5109,6 @@
     </search>
     <history>
       <history-search>
-        <entry>call</entry>
         <entry>isDeleted</entry>
         <entry>onSelect</entry>
         <entry>updateLinks</entry>
@@ -5129,6 +5128,7 @@
         <entry>platný</entry>
         <entry>getCurrentFile</entry>
         <entry>filter</entry>
+        <entry>validateFrom</entry>
       </history-search>
       <history-cmd>
         <entry>74</entry>
