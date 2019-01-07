@@ -4796,8 +4796,9 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" timestamp="1545137129993">
-        <mark key="[" line="45" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" timestamp="1546860695542">
+        <mark key="'" line="49" column="35" />
+        <mark key="[" line="105" column="27" />
         <mark key="]" line="45" column="4" />
         <mark key="." line="45" column="4" />
       </file>
@@ -4953,7 +4954,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="239" column="28" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="240" column="53" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="247" column="28" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="248" column="53" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
@@ -5053,6 +5053,7 @@
       <jump line="57" column="35" filename="/home/www/html/nnb/dms/src/Documents/Components/InfoControl/InfoControl.latte" />
       <jump line="89" column="4" filename="/home/www/lib/vendor/kdyby/doctrine-collections-readonly/src/ReadOnlyCollectionWrapper.php" />
       <jump line="95" column="0" filename="/home/www/vendor/doctrine/collections/lib/Doctrine/Common/Collections/ArrayCollection.php" />
+      <jump line="49" column="35" filename="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5063,7 +5064,7 @@
         <text>Debugger::timer();</text>
       </register>
       <register name="/" type="4">
-        <text>validateFrom</text>
+        <text>current</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
@@ -5101,9 +5102,9 @@
       </register>
     </registers>
     <search>
-      <last-search>validateFrom</last-search>
+      <last-search>current</last-search>
       <last-offset />
-      <last-pattern>validateFrom</last-pattern>
+      <last-pattern>current</last-pattern>
       <last-replace>selectedDocument</last-replace>
       <last-substitute>editDocument</last-substitute>
       <last-dir>1</last-dir>
@@ -5111,7 +5112,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isDeleted</entry>
         <entry>onSelect</entry>
         <entry>updateLinks</entry>
         <entry>links</entry>
@@ -5131,6 +5131,7 @@
         <entry>getCurrentFile</entry>
         <entry>filter</entry>
         <entry>validateFrom</entry>
+        <entry>current</entry>
       </history-search>
       <history-cmd>
         <entry>74</entry>
