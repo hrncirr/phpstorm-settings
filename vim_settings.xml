@@ -1256,8 +1256,10 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera-test/Modules/Invoicing/Components/ContractsGrid/ContractsGrid.php" timestamp="1546937777494">
-        <mark key="[" line="169" column="30" />
+      <file name="/home/www/html/dv/adera-test/Modules/Invoicing/Components/ContractsGrid/ContractsGrid.php" timestamp="1546946703365">
+        <mark key="[" line="170" column="50" />
+        <mark key="]" line="170" column="50" />
+        <mark key="." line="170" column="50" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/AddressBook/Components/ContactForm/ContactForm.php" timestamp="1500550491533">
         <mark key="[" line="105" column="8" />
@@ -5066,12 +5068,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$(document).ready(function(){
-	$.datepicker.stDefaults( $.datepicker.regional['cs'] );
-});</text>
+        <text>'e.subject.firstName', 'e.subject.lastName'</text>
       </register>
       <register name="-" type="4">
-        <text>console.log(</text>
+        <text>'e.subject.firstName', 'e.subject.lastName'</text>
       </register>
       <register name="/" type="4">
         <text>isValid</text>
