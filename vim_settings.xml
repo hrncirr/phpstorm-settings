@@ -1245,6 +1245,12 @@
         <mark key="]" line="139" column="10" />
         <mark key="." line="139" column="10" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/HistoryControl/HistoryControl.latte" timestamp="1546932327605">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="17" column="32" />
+        <mark key="^" line="3" column="53" />
+        <mark key="." line="17" column="32" />
+      </file>
       <file name="/home/www/html/dv/cms/src/Navigation/AdminModule/Presenters/NavigationPresenter.php" timestamp="1500976516420">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -1715,7 +1721,7 @@
         <mark key="]" line="62" column="33" />
         <mark key="." line="62" column="33" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" timestamp="1546610191247">
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" timestamp="1546931023737">
         <mark key="'" line="61" column="20" />
         <mark key="[" line="117" column="16" />
         <mark key="]" line="117" column="16" />
@@ -2524,9 +2530,9 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/InfoControl/InfoControl.latte" timestamp="1546861476433">
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/InfoControl/InfoControl.latte" timestamp="1546932260124">
         <mark key="'" line="71" column="35" />
-        <mark key="[" line="59" column="24" />
+        <mark key="[" line="75" column="77" />
         <mark key="]" line="59" column="20" />
         <mark key="^" line="59" column="20" />
         <mark key="." line="59" column="20" />
@@ -3019,10 +3025,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentFilesGrid/DocumentFilesGrid.latte" timestamp="1546605492698">
-        <mark key="[" line="73" column="24" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentFilesGrid/DocumentFilesGrid.latte" timestamp="1546931642921">
+        <mark key="[" line="52" column="81" />
+        <mark key="]" line="52" column="106" />
+        <mark key="." line="52" column="106" />
+        <mark key="^" line="52" column="106" />
       </file>
       <file name="/home/www/html/dv/cms/www/index.php" timestamp="1497612974319">
         <mark key="[" line="13" column="0" />
@@ -3652,8 +3659,8 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1546870991081">
-        <mark key="'" line="760" column="33" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1546931294885">
+        <mark key="'" line="66" column="0" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
@@ -4964,7 +4971,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="240" column="53" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="247" column="28" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="248" column="53" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="303" column="45" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
@@ -5064,16 +5070,17 @@
       <jump line="89" column="4" filename="/home/www/lib/vendor/kdyby/doctrine-collections-readonly/src/ReadOnlyCollectionWrapper.php" />
       <jump line="95" column="0" filename="/home/www/vendor/doctrine/collections/lib/Doctrine/Common/Collections/ArrayCollection.php" />
       <jump line="49" column="35" filename="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" />
+      <jump line="66" column="0" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XFZhbGlkYXRvclxDb250ZXh0XEV4ZWN1dGlvbkNvbnRleHRJbnRlcmZhY2U7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">eyRkb2N1bWVudC0+Z2V0TWFya2VkRmlsZSgpLT5nZXRWZXJzaW9uKCl9PC9zcGFuPg==</text>
       </register>
       <register name="-" type="4">
-        <text>Debugger::timer();</text>
+        <text encoding="base64">eyRkb2N1bWVudC0+Z2V0TWFya2VkRmlsZSgpLT5nZXRWZXJzaW9uKCl9PC9zcGFuPg==</text>
       </register>
       <register name="/" type="4">
-        <text>current</text>
+        <text>isValid</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
@@ -5111,9 +5118,9 @@
       </register>
     </registers>
     <search>
-      <last-search>current</last-search>
+      <last-search>isValid</last-search>
       <last-offset />
-      <last-pattern>current</last-pattern>
+      <last-pattern>isValid</last-pattern>
       <last-replace>selectedDocument</last-replace>
       <last-substitute>editDocument</last-substitute>
       <last-dir>1</last-dir>
@@ -5121,8 +5128,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onSelect</entry>
-        <entry>updateLinks</entry>
         <entry>links</entry>
         <entry>handleSelect</entry>
         <entry>setRespo</entry>
@@ -5141,6 +5146,8 @@
         <entry>filter</entry>
         <entry>validateFrom</entry>
         <entry>current</entry>
+        <entry>zobrazí</entry>
+        <entry>isValid</entry>
       </history-search>
       <history-cmd>
         <entry>74</entry>
