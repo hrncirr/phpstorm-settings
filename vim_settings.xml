@@ -1926,10 +1926,10 @@
         <mark key="]" line="34" column="4" />
         <mark key="." line="34" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera-test/Modules/Invoicing/Components/InterventionsGrid/templates/InterventionsGrid.latte" timestamp="1546005215688">
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="13" column="20" />
-        <mark key="." line="13" column="20" />
+      <file name="/home/www/html/dv/adera-test/Modules/Invoicing/Components/InterventionsGrid/templates/InterventionsGrid.latte" timestamp="1546939702030">
+        <mark key="[" line="24" column="21" />
+        <mark key="]" line="52" column="21" />
+        <mark key="." line="52" column="21" />
       </file>
       <file name="/home/www/html/nnb/dms/app/locale/messages.cs_CZ.neon" timestamp="1488376615715">
         <mark key="[" line="6" column="1" />
@@ -4936,7 +4936,7 @@
         <mark key="]" line="17" column="4" />
         <mark key="." line="17" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera-test/Modules/Invoicing/Components/InterventionsGrid/InterventionsGrid.php" timestamp="1546938638548">
+      <file name="/home/www/html/dv/adera-test/Modules/Invoicing/Components/InterventionsGrid/InterventionsGrid.php" timestamp="1546939663165">
         <mark key="[" line="265" column="30" />
         <mark key="]" line="249" column="0" />
         <mark key="." line="249" column="0" />
@@ -5055,11 +5055,11 @@
       <jump line="66" column="0" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Money::format(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">eyRkb2N1bWVudC0+Z2V0TWFya2VkRmlsZSgpLT5nZXRWZXJzaW9uKCl9PC9zcGFuPg==</text>
+        <text>Money::format(</text>
       </register>
       <register name="/" type="4">
         <text>isValid</text>
