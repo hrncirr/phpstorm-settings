@@ -58,6 +58,11 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera-test/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" timestamp="1546950807503">
+        <mark key="[" line="224" column="12" />
+        <mark key="]" line="224" column="16" />
+        <mark key="." line="224" column="16" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Documents/components/AttachmentsControl/AttachmentsControl.php" timestamp="1488277359497">
         <mark key="[" line="68" column="38" />
         <mark key="]" line="50" column="8" />
@@ -1371,6 +1376,11 @@
         <mark key="]" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
+      <file name="/home/www/html/dv/adera-test/Modules/Invoicing/Components/BaseBusinessCaseDocumentFormControl.php" timestamp="1546951042668">
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
+      </file>
       <file name="/home/www/html/nnb/passportization/src/Passportization/Users/UserRepository.php" timestamp="1485946887236">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="38" column="0" />
@@ -2318,6 +2328,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera-test/Modules/Invoicing/Components/CreditNoteForm/CreditNoteForm.php" timestamp="1546950792103">
+        <mark key="[" line="213" column="12" />
+        <mark key="]" line="213" column="16" />
+        <mark key="^" line="57" column="6" />
+        <mark key="." line="213" column="16" />
+      </file>
       <file name="/home/www/html/bul/mamo/app/model/RegisterModel.php" timestamp="1481267845402">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -2799,9 +2815,6 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
-      </file>
-      <file name="/home/www/vendor/doctrine/collections/lib/Doctrine/Common/Collections/ArrayCollection.php" timestamp="1546613928921">
-        <mark key="'" line="95" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/client-side.neon" timestamp="1478256988232">
         <mark key="[" line="7" column="0" />
@@ -3543,9 +3556,6 @@
         <mark key="[" line="17" column="8" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="/home/www/lib/vendor/kdyby/doctrine-collections-readonly/src/ReadOnlyCollectionWrapper.php" timestamp="1546613897800">
-        <mark key="'" line="89" column="4" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/components/BaseControl.php" timestamp="1486734765882">
         <mark key="[" line="1" column="0" />
@@ -4561,12 +4571,6 @@
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" timestamp="1546507635395">
-        <mark key="'" line="350" column="39" />
-        <mark key="[" line="208" column="0" />
-        <mark key="]" line="208" column="0" />
-        <mark key="." line="208" column="0" />
-      </file>
       <file name="/home/www/html/nnb/nezadouci-udalosti/app/Components/Modals/ViewModal.php" timestamp="1482399971117">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -4801,12 +4805,6 @@
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
-      </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/HistoryReader.php" timestamp="1546860695542">
-        <mark key="'" line="49" column="35" />
-        <mark key="[" line="105" column="27" />
-        <mark key="]" line="45" column="4" />
-        <mark key="." line="45" column="4" />
       </file>
       <file name="/home/www/html/bul/mamo/app/templates/Error/@layout.latte" timestamp="1489996113038">
         <mark key="[" line="12" column="0" />
@@ -5067,57 +5065,55 @@
       <jump line="66" column="0" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'e.subject.firstName', 'e.subject.lastName'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCS8vIEZJWE1FOiBUZW1wb3JhcnkgZml4IHVudXNlZCBuYW1lCg==</text>
       </register>
       <register name="-" type="4">
         <text>'e.subject.firstName', 'e.subject.lastName'</text>
       </register>
       <register name="/" type="4">
-        <text>isValid</text>
+        <text>Invoice</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCS8vIEZJWE1FOiBUZW1wb3JhcnkgZml4IHVudXNlZCBuYW1lCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCXJldHVybjsK</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">aWYgKGlzc2V0KCRmb3JtWydhZGRyZXNzQm9va1N1YmplY3QnXSkgJiYgJGZvcm1bJ2FkZHJlc3NCb29rU3ViamVjdCddLT5nZXRWYWx1ZSgpICYmIGlzc2V0KCRmb3JtWydzdWJqZWN0LW5hbWUnXSkgJiYgZW1wdHkoJGZvcm1bJ3N1YmplY3QtbmFtZSddLT5nZXRWYWx1ZSgpKSkgewoJCQkJCXVuc2V0KCRmb3JtWydzdWJqZWN0J11bJ25hbWUnXSk7CgkJCQl9</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">aWYgKGlzc2V0KCRmb3JtWydhZGRyZXNzQm9va1N1YmplY3QnXSkgJiYgJGZvcm1bJ2FkZHJlc3NCb29rU3ViamVjdCddLT5nZXRWYWx1ZSgpICYmIGlzc2V0KCRmb3JtWydzdWJqZWN0LW5hbWUnXSkgJiYgZW1wdHkoJGZvcm1bJ3N1YmplY3QtbmFtZSddLT5nZXRWYWx1ZSgpKSkgewoJCQkJCXVuc2V0KCRmb3JtWydzdWJqZWN0J11bJ25hbWUnXSk7CgkJCQl9</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJJGZvcm1bJ2Zvcm1PZlBheW1lbnQnXS0+c2V0RGVmYXVsdFZhbHVlKDEpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQl9Owo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJJGZvcm0tPm9uQW5jaG9yW10gPSBmdW5jdGlvbiAoRm9ybSAkZm9ybSkgewo=</text>
+      </register>
+      <register name="8" type="4">
         <text>$(document).ready(function(){
 	$.datepicker.stDefaults( $.datepicker.regional['cs'] );
 });</text>
       </register>
-      <register name="2" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CSQuZm4uZGF0ZXBpY2tlci5kZWZhdWx0cy5sYW5ndWFnZSA9ICdpdCc7Cg==</text>
-      </register>
-      <register name="3" type="4">
-        <text>$.extend($.fn.datepicker.defaults, {
-		language: 'cs'
-	});</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8kLmZuLmRhdGVwaWNrZXIuZGVmYXVsdHMubGFuZ3VhZ2UgPSAnY3MnOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XFZhbGlkYXRvclxDb250ZXh0XEV4ZWN1dGlvbkNvbnRleHRJbnRlcmZhY2U7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlpZiAoJHRoaXMtPnN1YmplY3QtPmdldExlZ2FsU3ViamVjdGl2aXR5KCkgPT09IExlZ2FsU3ViamVjdGl2aXR5OjpMRUdBTF9FTlRJVFkpIHsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlpZiAoJHRoaXMtPnN1YmplY3QtPmdldExlZ2FsU3ViamVjdGl2aXR5KCkgPT09IExlZ2FsU3ViamVjdGl2aXR5OjpMRUdBTF9FTlRJVFkpIHsK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">e2lmICRkb2N1bWVudC0+Z2V0TWFya2VkRmlsZSgpID09PSBudWxsfQoJCQkJCQkJPHM+eyRkb2N1bWVudC0+Z2V0TWFya2VkRmlsZSgpLT5nZXRWZXJzaW9uKCl9PC9zPgoJCQkJCQl7ZWxzZX0=</text>
       </register>
       <register name=":" type="4">
         <text>148</text>
       </register>
     </registers>
     <search>
-      <last-search>isValid</last-search>
+      <last-search>Invoice</last-search>
       <last-offset />
-      <last-pattern>isValid</last-pattern>
+      <last-pattern>Invoice</last-pattern>
       <last-replace>selectedDocument</last-replace>
       <last-substitute>editDocument</last-substitute>
       <last-dir>1</last-dir>
@@ -5125,8 +5121,6 @@
     </search>
     <history>
       <history-search>
-        <entry>links</entry>
-        <entry>handleSelect</entry>
         <entry>setRespo</entry>
         <entry>ACTION_SELECT</entry>
         <entry>select</entry>
@@ -5145,6 +5139,8 @@
         <entry>current</entry>
         <entry>zobrazí</entry>
         <entry>isValid</entry>
+        <entry>unset</entry>
+        <entry>Invoice</entry>
       </history-search>
       <history-cmd>
         <entry>74</entry>
