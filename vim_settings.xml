@@ -3961,6 +3961,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera-test/www/js/admin.js" timestamp="1546942585907">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="/home/www/html/nnb/passportization/app/EntityLoaderFilters/PathFilterOut.php" timestamp="1487660298684">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -4856,6 +4861,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera-test/app/config/extensions/header.neon" timestamp="1546941087990">
+        <mark key="[" line="110" column="16" />
+        <mark key="]" line="110" column="16" />
+        <mark key="." line="110" column="16" />
+      </file>
       <file name="/home/www/html/dv/cms/src/Pages/Tag.php" timestamp="1491827634265">
         <mark key="[" line="22" column="21" />
         <mark key="]" line="8" column="0" />
@@ -5056,10 +5066,12 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Money::format(</text>
+        <text>$(document).ready(function(){
+	$.datepicker.stDefaults( $.datepicker.regional['cs'] );
+});</text>
       </register>
       <register name="-" type="4">
-        <text>Money::format(</text>
+        <text>console.log(</text>
       </register>
       <register name="/" type="4">
         <text>isValid</text>
@@ -5067,33 +5079,36 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>$(document).ready(function(){
+	$.datepicker.stDefaults( $.datepicker.regional['cs'] );
+});</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XFZhbGlkYXRvclxDb250ZXh0XEV4ZWN1dGlvbkNvbnRleHRJbnRlcmZhY2U7Cg==</text>
+        <text encoding="base64">CSQuZm4uZGF0ZXBpY2tlci5kZWZhdWx0cy5sYW5ndWFnZSA9ICdpdCc7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlpZiAoJHRoaXMtPnN1YmplY3QtPmdldExlZ2FsU3ViamVjdGl2aXR5KCkgPT09IExlZ2FsU3ViamVjdGl2aXR5OjpMRUdBTF9FTlRJVFkpIHsK</text>
+      <register name="3" type="4">
+        <text>$.extend($.fn.datepicker.defaults, {
+		language: 'cs'
+	});</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Ly8kLmZuLmRhdGVwaWNrZXIuZGVmYXVsdHMubGFuZ3VhZ2UgPSAnY3MnOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">dXNlIFN5bWZvbnlcQ29tcG9uZW50XFZhbGlkYXRvclxDb250ZXh0XEV4ZWN1dGlvbkNvbnRleHRJbnRlcmZhY2U7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CQlpZiAoJHRoaXMtPnN1YmplY3QtPmdldExlZ2FsU3ViamVjdGl2aXR5KCkgPT09IExlZ2FsU3ViamVjdGl2aXR5OjpMRUdBTF9FTlRJVFkpIHsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">e2lmICRkb2N1bWVudC0+Z2V0TWFya2VkRmlsZSgpID09PSBudWxsfQoJCQkJCQkJPHM+eyRkb2N1bWVudC0+Z2V0TWFya2VkRmlsZSgpLT5nZXRWZXJzaW9uKCl9PC9zPgoJCQkJCQl7ZWxzZX0=</text>
-      </register>
-      <register name="6" type="4">
-        <text>dump('ok');
-		exit;</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">LyoqCgkgKiBAQXNzZXJ0XENhbGxiYWNrCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiB2YWxpZGF0ZUN1cnJlbnRGaWxlKEV4ZWN1dGlvbkNvbnRleHRJbnRlcmZhY2UgJGNvbnRleHQsICRwYXlsb2FkKTogdm9pZAoJewoJCWR1bXAoJ29rJyk7CgkJZXhpdDsKCgkJaWYgKCR0aGlzLT5nZXRDdXJyZW50RmlsZSgpID09PSBudWxsKSB7CgkJCSRjb250ZXh0LT5idWlsZFZpb2xhdGlvbignQWxlc3BvxYggamVkZW4gc291Ym9yIG11c8OtIG3DrXQgcGxhdG7DvSBkYXR1bSwgbmVibyBiw710IGJleiBkYXR1bXUuJykKCQkJCS0+YXRQYXRoKCd2YWxpZEZyb20nKQoJCQkJLT5hZGRWaW9sYXRpb24oKTsKCQl9Cgl9</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIFRyYWN5XERlYnVnZ2VyOwo=</text>
+        <text encoding="base64">CQlpZiAoJHRoaXMtPnN1YmplY3QtPmdldExlZ2FsU3ViamVjdGl2aXR5KCkgPT09IExlZ2FsU3ViamVjdGl2aXR5OjpMRUdBTF9FTlRJVFkpIHsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkkY29uc3RyYWludE5vdEJsYW5rID0gbmV3IEFzc2VydFxOb3RCbGFuaygpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">e2lmICRkb2N1bWVudC0+Z2V0TWFya2VkRmlsZSgpID09PSBudWxsfQoJCQkJCQkJPHM+eyRkb2N1bWVudC0+Z2V0TWFya2VkRmlsZSgpLT5nZXRWZXJzaW9uKCl9PC9zPgoJCQkJCQl7ZWxzZX0=</text>
       </register>
       <register name=":" type="4">
         <text>148</text>
