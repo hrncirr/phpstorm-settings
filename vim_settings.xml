@@ -3860,7 +3860,11 @@
         <mark key="]" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractForm/ContractForm.php" timestamp="1547487999309" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractForm/ContractForm.php" timestamp="1547535265688">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Console/DI/config.neon" timestamp="1493113964753">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="4" />
@@ -5151,8 +5155,10 @@
       <jump line="57" column="9" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InterventionForm/InterventionForm.latte" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEludm9pY2luZ1xDb21wb25lbnRzXEZvcm1QYXJ0c1xJbnRlcnZlbnRpb25QbGFjZUZvcm1QYXJ0XFRJbnRlcnZlbnRpb25QbGFjZUZvcm1QYXJ0Owo=</text>
+      <register name="&quot;" type="4">
+        <text>/**
+ * @method onCancel()
+ */</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">dGVtcGxhdGUtPmk=</text>
@@ -5163,32 +5169,34 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dXNlIEludm9pY2luZ1xDb21wb25lbnRzXEZvcm1QYXJ0c1xJbnRlcnZlbnRpb25QbGFjZUZvcm1QYXJ0XFRJbnRlcnZlbnRpb25QbGFjZUZvcm1QYXJ0Owo=</text>
+      <register name="1" type="4">
+        <text>/**
+ * @method onCancel()
+ */</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEludm9pY2luZ1xDb21wb25lbnRzXEZvcm1QYXJ0c1xJbnRlcnZlbnRpb25QbGFjZUZvcm1QYXJ0XFRJbnRlcnZlbnRpb25QbGFjZUZvcm1QYXJ0Owo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXVzZSBUSW50ZXJ2ZW50aW9uUGxhY2VGb3JtUGFydDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXVzZSBUSW50ZXJ2ZW50aW9uUGxhY2VGb3JtUGFydDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">e3BhaXIgaW50ZXJ2ZW50aW9uUGxhY2V9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkkZm9ybS0+c2V0Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">e3BhaXIgaW50ZXJ2ZW50aW9uUGxhY2V9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkkZm9ybS0+c2V0Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzLT5pbnRlcnZlbnRpb25QbGFjZUZvcm1QYXJ0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>148</text>
