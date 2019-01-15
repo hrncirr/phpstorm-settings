@@ -23,7 +23,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1547471532645">
+      <file name="/a.dummy" timestamp="1547552700001">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -796,7 +796,8 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Document/Components/FormParts/DocumentItemsFormPart/TDocumentItemsFormPart.php" timestamp="1547545877302">
+      <file name="/home/www/html/dv/adera/Modules/Document/Components/FormParts/DocumentItemsFormPart/TDocumentItemsFormPart.php" timestamp="1547552043573">
+        <mark key="'" line="108" column="35" />
         <mark key="[" line="10" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Pages/AdminModule/Components/VersionsControlFactory.php" timestamp="1497015261995">
@@ -2868,12 +2869,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Document/Components/FormParts/DocumentItemsFormPart/DocumentItemsFormPart.php" timestamp="1547545886662">
-        <mark key="'" line="111" column="52" />
-        <mark key="[" line="209" column="4" />
+      <file name="/home/www/html/dv/adera/Modules/Document/Components/FormParts/DocumentItemsFormPart/DocumentItemsFormPart.php" timestamp="1547552114856">
+        <mark key="'" line="117" column="52" />
+        <mark key="[" line="92" column="44" />
         <mark key="]" line="38" column="4" />
         <mark key="." line="38" column="4" />
-        <mark key="^" line="247" column="4" />
+        <mark key="^" line="253" column="4" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/Model/Orm/Rooms/RoomsMapper.php" timestamp="1502107490022">
         <mark key="[" line="12" column="0" />
@@ -5078,7 +5079,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="541" column="21" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
       <jump line="549" column="16" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
       <jump line="810" column="29" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
       <jump line="792" column="45" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
@@ -5178,6 +5178,7 @@
       <jump line="57" column="9" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/InterventionForm/InterventionForm.latte" />
       <jump line="82" column="44" filename="/home/www/html/dv/adera/Modules/Document/Components/FormParts/DocumentItemsFormPart/DocumentItemsFormPart.php" />
       <jump line="84" column="52" filename="/home/www/html/dv/adera/Modules/Document/Components/FormParts/DocumentItemsFormPart/DocumentItemsFormPart.php" />
+      <jump line="108" column="35" filename="/home/www/html/dv/adera/Modules/Document/Components/FormParts/DocumentItemsFormPart/TDocumentItemsFormPart.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5189,7 +5190,7 @@
         <text>array_flip(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">JHRoaXMtPmVt</text>
+        <text>redraw</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
@@ -5234,9 +5235,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">JHRoaXMtPmVt</last-search>
+      <last-search>redraw</last-search>
       <last-offset />
-      <last-pattern encoding="base64">JHRoaXMtPmVt</last-pattern>
+      <last-pattern>redraw</last-pattern>
       <last-replace>selectedDocument</last-replace>
       <last-substitute>editDocument</last-substitute>
       <last-dir>1</last-dir>
@@ -5244,7 +5245,6 @@
     </search>
     <history>
       <history-search>
-        <entry>validateFrom</entry>
         <entry>current</entry>
         <entry>zobrazí</entry>
         <entry>isValid</entry>
@@ -5264,6 +5264,7 @@
         <entry>contactCallback</entry>
         <entry>intervention</entry>
         <entry encoding="base64">JHRoaXMtPmVt</entry>
+        <entry>redraw</entry>
       </history-search>
       <history-cmd>
         <entry>74</entry>
