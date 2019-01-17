@@ -1310,6 +1310,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Presenters/ContractsPresenter.php" timestamp="1547730180378">
+        <mark key="[" line="40" column="26" />
+        <mark key="]" line="40" column="38" />
+        <mark key="^" line="40" column="38" />
+        <mark key="." line="40" column="38" />
+      </file>
       <file name="/home/www/html/dv/cms/Modules/Invoice/Address.php" timestamp="1497016516566">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="23" column="0" />
@@ -3896,6 +3902,11 @@
         <mark key="]" line="24" column="4" />
         <mark key="." line="24" column="4" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Document/Events/DocumentNumberListener.php" timestamp="1547729562295">
+        <mark key="[" line="32" column="43" />
+        <mark key="]" line="32" column="43" />
+        <mark key="." line="32" column="43" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Console/DI/config.neon" timestamp="1493113964753">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="4" />
@@ -5182,11 +5193,11 @@
       <jump line="245" column="38" filename="/home/www/html/dv/adera/Modules/Document/Components/BaseDocumentFormControl.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JHByZWZpeCAuIChuZXcgRGF0ZVRpbWUoKSktPmZvcm1hdCgneScp</text>
       </register>
       <register name="-" type="4">
-        <text>isset($form['addressBookContact'])</text>
+        <text encoding="base64">JHByZWZpeCAuIChuZXcgRGF0ZVRpbWUoKSktPmZvcm1hdCgneScp</text>
       </register>
       <register name="/" type="4">
         <text>onAnchor</text>
@@ -5195,31 +5206,31 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+        <text encoding="base64">CQkkcHJlZml4ID0gJGRvY3VtZW50LT5nZXREb2N1bWVudE51bWJlclByZWZpeCgpOwo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CQlleGl0Owo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CQkJaWYgKCR0aGlzLT5jb250YWN0UHJvdmlkZXItPmdldElkKCkgPT09IG51bGwpIHsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">JGZvcm0tPm9uQmVmb3JlRW50aXR5TWFwcGVyU2F2ZVtdID0gZnVuY3Rpb24gKCkgdXNlICgkY29udGFpbmVyKSB7CgkJCQkvKgoJCQkJaWYgKGlzc2V0KCRjb250YWluZXJbJ25hbWUnXSkgJiYgZW1wdHkoJGNvbnRhaW5lclsnbmFtZSddLT5nZXRWYWx1ZSgpKSkgewoJCQkJCXVuc2V0KCRjb250YWluZXJbJ25hbWUnXSk7CgkJCQl9CgkJCQkqLwoJCQl9Ow==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJCSovCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJCS8qCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJaWYgKCR0aGlzLT5zdWJqZWN0UHJvdmlkZXItPmdldElkKCkgPT09IG51bGwpIHsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">e2R1bXAgJHN1YmplY3R9Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">LyogIWVtcHR5KCR0aGlzLT5mb3JtWydhZGRyZXNzQm9va1N1YmplY3QnXS0+Z2V0VmFsdWUoKSkgJiYgKi8KCQkJJHRoaXMtPmZvcm1bJ2FkZHJlc3NCb29rQWRkcmVzcyddLT5nZXRPcHRpb24oJ3Byb3ZpZGVySWQnKSA9PT0gbnVsbA==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJZHVtcCgkdGhpcy0+Z2V0U3ViamVjdCgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>177</text>
