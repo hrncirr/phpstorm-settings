@@ -228,6 +228,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Events/DocumentFolderSortableListener.php" timestamp="1547819962397">
+        <mark key="[" line="169" column="8" />
+        <mark key="]" line="151" column="0" />
+        <mark key="^" line="151" column="41" />
+        <mark key="." line="151" column="0" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Users/Security/RolesProvider.php" timestamp="1490955241911">
         <mark key="[" line="22" column="12" />
         <mark key="]" line="26" column="0" />
@@ -5196,8 +5202,8 @@
       <jump line="245" column="38" filename="/home/www/html/dv/adera/Modules/Document/Components/BaseDocumentFormControl.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, orphanRemoval=true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJLy8gRklYTUU6IE9wcmF2aXQgxZlhemVuw60gcG8gbWF6w6Fuw60K</text>
       </register>
       <register name="-" type="4">
         <text>, orphanRemoval=true</text>
@@ -5208,32 +5214,32 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQkJLy8gRklYTUU6IE9wcmF2aXQgxZlhemVuw60gcG8gbWF6w6Fuw60K</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">JGxhc3REb2N1bWVudCA9ICRlbS0+Z2V0UmVwb3NpdG9yeShnZXRfY2xhc3MoJGRvY3VtZW50KSkKCQkJLT5jcmVhdGVRdWVyeUJ1aWxkZXIoJ2UnKQoJCQktPndoZXJlKCdlLm51bWJlciBMSUtFIDpudW1iZXInKQoJCQktPm9yZGVyQnkoJ2UubnVtYmVyJywgJ0RFU0MnKQoJCQktPnNldE1heFJlc3VsdHMoMSkKCQkJLT5zZXRQYXJhbWV0ZXIoJ251bWJlcicsICRwcmVmaXggLiAobmV3IERhdGVUaW1lKCkpLT5mb3JtYXQoJ3knKSAuICclJykKCQkJLT5nZXRRdWVyeSgpLT5nZXRPbmVPck51bGxSZXN1bHQoKTs=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CQkJLT5zZXRQYXJhbWV0ZXIoJ251bWJlcicsICdaSycgLiAobmV3IFxEYXRlVGltZSgpKS0+Zm9ybWF0KCd5JykgLiAnJScpCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkkcHJlZml4ID0gJGRvY3VtZW50LT5nZXREb2N1bWVudE51bWJlclByZWZpeCgpOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQlleGl0Owo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJaWYgKCR0aGlzLT5jb250YWN0UHJvdmlkZXItPmdldElkKCkgPT09IG51bGwpIHsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">JGZvcm0tPm9uQmVmb3JlRW50aXR5TWFwcGVyU2F2ZVtdID0gZnVuY3Rpb24gKCkgdXNlICgkY29udGFpbmVyKSB7CgkJCQkvKgoJCQkJaWYgKGlzc2V0KCRjb250YWluZXJbJ25hbWUnXSkgJiYgZW1wdHkoJGNvbnRhaW5lclsnbmFtZSddLT5nZXRWYWx1ZSgpKSkgewoJCQkJCXVuc2V0KCRjb250YWluZXJbJ25hbWUnXSk7CgkJCQl9CgkJCQkqLwoJCQl9Ow==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCSovCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCS8qCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJaWYgKCR0aGlzLT5zdWJqZWN0UHJvdmlkZXItPmdldElkKCkgPT09IG51bGwpIHsK</text>
+        <text encoding="base64">CQkJCS8qCg==</text>
       </register>
       <register name=":" type="4">
         <text>177</text>
