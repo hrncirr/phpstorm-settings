@@ -3331,10 +3331,11 @@
         <mark key="]" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Doctrine/Filters/SoftDeletableFilter.php" timestamp="1544625936929">
-        <mark key="[" line="56" column="8" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Doctrine/Filters/SoftDeletableFilter.php" timestamp="1547822773499">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="60" column="22" />
       </file>
       <file name="/home/www/html/bul/phonebook/app/templates/Error/@layout.latte" timestamp="1489996662376">
         <mark key="[" line="12" column="0" />
@@ -3910,7 +3911,7 @@
       <file name="/home/www/html/nnb/dms/src/Files/DI/config.neon" timestamp="1547818610529">
         <mark key="[" line="9" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Document/Events/DocumentNumberListener.php" timestamp="1547731430742">
+      <file name="/home/www/html/dv/adera/Modules/Document/Events/DocumentNumberListener.php" timestamp="1547822281281">
         <mark key="[" line="29" column="25" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
@@ -4943,10 +4944,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Files/Presenters/FilePresenterCallback.php" timestamp="1489650183113">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Files/Presenters/FilePresenterCallback.php" timestamp="1547822332465">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="70" column="35" />
       </file>
       <file name="/home/www/html/bul/mamo/app/templates/Error/@layout.latte" timestamp="1489996113038">
         <mark key="[" line="12" column="0" />
@@ -5203,7 +5205,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJLy8gRklYTUU6IE9wcmF2aXQgxZlhemVuw60gcG8gbWF6w6Fuw60K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>, orphanRemoval=true</text>
@@ -5215,31 +5217,31 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJLy8gRklYTUU6IE9wcmF2aXQgxZlhemVuw60gcG8gbWF6w6Fuw60K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">JGxhc3REb2N1bWVudCA9ICRlbS0+Z2V0UmVwb3NpdG9yeShnZXRfY2xhc3MoJGRvY3VtZW50KSkKCQkJLT5jcmVhdGVRdWVyeUJ1aWxkZXIoJ2UnKQoJCQktPndoZXJlKCdlLm51bWJlciBMSUtFIDpudW1iZXInKQoJCQktPm9yZGVyQnkoJ2UubnVtYmVyJywgJ0RFU0MnKQoJCQktPnNldE1heFJlc3VsdHMoMSkKCQkJLT5zZXRQYXJhbWV0ZXIoJ251bWJlcicsICRwcmVmaXggLiAobmV3IERhdGVUaW1lKCkpLT5mb3JtYXQoJ3knKSAuICclJykKCQkJLT5nZXRRdWVyeSgpLT5nZXRPbmVPck51bGxSZXN1bHQoKTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkkZW5hYmxlZCA9IGZhbHNlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJLT5zZXRQYXJhbWV0ZXIoJ251bWJlcicsICdaSycgLiAobmV3IFxEYXRlVGltZSgpKS0+Zm9ybWF0KCd5JykgLiAnJScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkkcHJlZml4ID0gJGRvY3VtZW50LT5nZXREb2N1bWVudE51bWJlclByZWZpeCgpOwo=</text>
+        <text encoding="base64">CQlkdW1wKCRlbmFibGVkKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJaWYgKCR0aGlzLT5jb250YWN0UHJvdmlkZXItPmdldElkKCkgPT09IG51bGwpIHsK</text>
+        <text encoding="base64">CQkkdGhpcy0+ZW0tPmdldEZpbHRlcnMoKS0+ZGlzYWJsZSgnc29mdC1kZWxldGVhYmxlJyk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">JGZvcm0tPm9uQmVmb3JlRW50aXR5TWFwcGVyU2F2ZVtdID0gZnVuY3Rpb24gKCkgdXNlICgkY29udGFpbmVyKSB7CgkJCQkvKgoJCQkJaWYgKGlzc2V0KCRjb250YWluZXJbJ25hbWUnXSkgJiYgZW1wdHkoJGNvbnRhaW5lclsnbmFtZSddLT5nZXRWYWx1ZSgpKSkgewoJCQkJCXVuc2V0KCRjb250YWluZXJbJ25hbWUnXSk7CgkJCQl9CgkJCQkqLwoJCQl9Ow==</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJLy8gRklYTUU6IE9wcmF2aXQgxZlhemVuw60gcG8gbWF6w6Fuw60K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCSovCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">JGxhc3REb2N1bWVudCA9ICRlbS0+Z2V0UmVwb3NpdG9yeShnZXRfY2xhc3MoJGRvY3VtZW50KSkKCQkJLT5jcmVhdGVRdWVyeUJ1aWxkZXIoJ2UnKQoJCQktPndoZXJlKCdlLm51bWJlciBMSUtFIDpudW1iZXInKQoJCQktPm9yZGVyQnkoJ2UubnVtYmVyJywgJ0RFU0MnKQoJCQktPnNldE1heFJlc3VsdHMoMSkKCQkJLT5zZXRQYXJhbWV0ZXIoJ251bWJlcicsICRwcmVmaXggLiAobmV3IERhdGVUaW1lKCkpLT5mb3JtYXQoJ3knKSAuICclJykKCQkJLT5nZXRRdWVyeSgpLT5nZXRPbmVPck51bGxSZXN1bHQoKTs=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCS8qCg==</text>
+        <text encoding="base64">CQkJLT5zZXRQYXJhbWV0ZXIoJ251bWJlcicsICdaSycgLiAobmV3IFxEYXRlVGltZSgpKS0+Zm9ybWF0KCd5JykgLiAnJScpCg==</text>
       </register>
       <register name=":" type="4">
         <text>177</text>
