@@ -680,8 +680,8 @@
         <mark key="]" line="16" column="16" />
         <mark key="." line="16" column="16" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Folders/Components/PathControl/PathControl.php" timestamp="1495782719103">
-        <mark key="[" line="12" column="2" />
+      <file name="/home/www/html/nnb/dms/src/Folders/Components/PathControl/PathControl.php" timestamp="1548072902599">
+        <mark key="[" line="102" column="60" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
@@ -3331,11 +3331,10 @@
         <mark key="]" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Doctrine/Filters/SoftDeletableFilter.php" timestamp="1548071560763">
-        <mark key="[" line="35" column="56" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-        <mark key="^" line="67" column="22" />
+      <file name="/home/www/html/nnb/dms/src/Doctrine/Filters/SoftDeletableFilter.php" timestamp="1548073566362">
+        <mark key="[" line="64" column="40" />
+        <mark key="]" line="43" column="8" />
+        <mark key="." line="43" column="8" />
       </file>
       <file name="/home/www/html/bul/phonebook/app/templates/Error/@layout.latte" timestamp="1489996662376">
         <mark key="[" line="12" column="0" />
@@ -4569,8 +4568,8 @@
         <mark key="]" line="5" column="12" />
         <mark key="." line="5" column="12" />
       </file>
-      <file name="/home/www/html/nnb/dms/app/config/extensions/doctrine.neon" timestamp="1544693410849">
-        <mark key="[" line="50" column="0" />
+      <file name="/home/www/html/nnb/dms/app/config/extensions/doctrine.neon" timestamp="1548073257060">
+        <mark key="[" line="89" column="42" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
@@ -5204,8 +5203,8 @@
       <jump line="245" column="38" filename="/home/www/html/dv/adera/Modules/Document/Components/BaseDocumentFormControl.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZHVtcCgkYXBwbGljYXRpb24tPmdldFByZXNlbnRlcigpKTsKCQlleGl0Ow==</text>
       </register>
       <register name="-" type="4">
         <text>, orphanRemoval=true</text>
@@ -5216,32 +5215,34 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZHVtcCgkYXBwbGljYXRpb24tPmdldFByZXNlbnRlcigpKTsKCQlleGl0Ow==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkkZW5hYmxlZCA9IGZhbHNlOwo=</text>
+      <register name="2" type="4">
+        <text>/**
+	 * @var 
+	 */</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlkdW1wKCRlbmFibGVkKTsK</text>
+        <text encoding="base64">CSAqIEB2YQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8qKgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkkdGhpcy0+ZW0tPmdldEZpbHRlcnMoKS0+ZGlzYWJsZSgnc29mdC1kZWxldGVhYmxlJyk7Cg==</text>
+        <text encoding="base64">CQkJaWYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJLy8gRklYTUU6IE9wcmF2aXQgxZlhemVuw60gcG8gbWF6w6Fuw60K</text>
+        <text encoding="base64">CQlleGl0Owo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">JGxhc3REb2N1bWVudCA9ICRlbS0+Z2V0UmVwb3NpdG9yeShnZXRfY2xhc3MoJGRvY3VtZW50KSkKCQkJLT5jcmVhdGVRdWVyeUJ1aWxkZXIoJ2UnKQoJCQktPndoZXJlKCdlLm51bWJlciBMSUtFIDpudW1iZXInKQoJCQktPm9yZGVyQnkoJ2UubnVtYmVyJywgJ0RFU0MnKQoJCQktPnNldE1heFJlc3VsdHMoMSkKCQkJLT5zZXRQYXJhbWV0ZXIoJ251bWJlcicsICRwcmVmaXggLiAobmV3IERhdGVUaW1lKCkpLT5mb3JtYXQoJ3knKSAuICclJykKCQkJLT5nZXRRdWVyeSgpLT5nZXRPbmVPck51bGxSZXN1bHQoKTs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQlkdW1wKCR1c2VyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJLT5zZXRQYXJhbWV0ZXIoJ251bWJlcicsICdaSycgLiAobmV3IFxEYXRlVGltZSgpKS0+Zm9ybWF0KCd5JykgLiAnJScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>177</text>
