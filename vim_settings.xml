@@ -2586,7 +2586,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/app/Presenters/templates/@layout.latte" timestamp="1493105804499">
+      <file name="/home/www/html/nnb/dms/app/Presenters/templates/@layout.latte" timestamp="1548076614401">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
@@ -3331,10 +3331,11 @@
         <mark key="]" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Doctrine/Filters/SoftDeletableFilter.php" timestamp="1548073566362">
-        <mark key="[" line="64" column="40" />
-        <mark key="]" line="43" column="8" />
-        <mark key="." line="43" column="8" />
+      <file name="/home/www/html/nnb/dms/src/Doctrine/Filters/SoftDeletableFilter.php" timestamp="1548077954729">
+        <mark key="[" line="63" column="24" />
+        <mark key="]" line="63" column="24" />
+        <mark key="." line="63" column="24" />
+        <mark key="^" line="70" column="0" />
       </file>
       <file name="/home/www/html/bul/phonebook/app/templates/Error/@layout.latte" timestamp="1489996662376">
         <mark key="[" line="12" column="0" />
@@ -3747,8 +3748,8 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1547815284557">
-        <mark key="[" line="75" column="108" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1548078480534">
+        <mark key="[" line="43" column="38" />
         <mark key="]" line="75" column="108" />
         <mark key="." line="75" column="108" />
       </file>
@@ -4326,6 +4327,9 @@
         <mark key="]" line="29" column="20" />
         <mark key="." line="29" column="20" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Files/Presenters/FileConversionPresenterCallback.php" timestamp="1548073968376">
+        <mark key="[" line="95" column="40" />
+      </file>
       <file name="/home/www/html/dv/cms/Modules/AddressBook/Components/AddressesGrid/AddressesGrid.latte" timestamp="1498557060978">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -4396,6 +4400,7 @@
         <mark key="]" line="118" column="22" />
         <mark key="." line="118" column="22" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Files/DI/FilesExtension.php" timestamp="1548074029488" />
       <file name="/home/www/html/nnb/dms/src/Console/Commands/InstallCommand.php" timestamp="1488967813404">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -4568,10 +4573,10 @@
         <mark key="]" line="5" column="12" />
         <mark key="." line="5" column="12" />
       </file>
-      <file name="/home/www/html/nnb/dms/app/config/extensions/doctrine.neon" timestamp="1548073257060">
-        <mark key="[" line="89" column="42" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="/home/www/html/nnb/dms/app/config/extensions/doctrine.neon" timestamp="1548078009798">
+        <mark key="[" line="85" column="4" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Folders/Components/PathControl/PathControl.latte" timestamp="1546609905982">
         <mark key="[" line="14" column="11" />
@@ -4943,8 +4948,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Files/Presenters/FilePresenterCallback.php" timestamp="1547822332465">
-        <mark key="[" line="70" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Files/Presenters/FilePresenterCallback.php" timestamp="1548077724737">
+        <mark key="[" line="82" column="24" />
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
         <mark key="^" line="70" column="35" />
@@ -5204,10 +5209,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZHVtcCgkYXBwbGljYXRpb24tPmdldFByZXNlbnRlcigpKTsKCQlleGl0Ow==</text>
+        <text encoding="base64">ZHVtcCgkbWF0Y2hlcyk7CgkJCQkJCWR1bXAoJHRoaXMtPmVuYWJsZWQpOwoJCQkJCQlleGl0Ow==</text>
       </register>
       <register name="-" type="4">
-        <text>, orphanRemoval=true</text>
+        <text encoding="base64">KGJvb2wpIA==</text>
       </register>
       <register name="/" type="4">
         <text>onAnchor</text>
@@ -5216,33 +5221,31 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ZHVtcCgkYXBwbGljYXRpb24tPmdldFByZXNlbnRlcigpKTsKCQlleGl0Ow==</text>
+        <text encoding="base64">ZHVtcCgkbWF0Y2hlcyk7CgkJCQkJCWR1bXAoJHRoaXMtPmVuYWJsZWQpOwoJCQkJCQlleGl0Ow==</text>
       </register>
       <register name="2" type="4">
-        <text>/**
-	 * @var 
-	 */</text>
+        <text encoding="base64">ZHVtcCgkbWF0Y2hlcyk7CgkJCWR1bXAoJHRoaXMtPmVuYWJsZWQpOwoJCQlleGl0Ow==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CSAqLwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ZHVtcCgkbWF0Y2hlcyk7CgkJCWR1bXAoJHRoaXMtPmVuYWJsZWQpOwoJCQlleGl0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAqIEB2YQo=</text>
+        <text encoding="base64">CQkJCQl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8qKgo=</text>
+        <text encoding="base64">CQkJCQkJfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJaWYK</text>
+        <text encoding="base64">CQkJCQkJCSR0aGlzLT5lbmFibGVkID0gdHJ1ZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+        <text encoding="base64">CQkJCQkJCWR1bXAoJ29rJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlkdW1wKCR1c2VyKTsK</text>
+        <text encoding="base64">CQkJJHRoaXMtPmVuYWJsZWQgPSB0cnVlOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">LyoKCQkJCWlmICgkc2VhcmNoKSB7CgkJCQkJJHRoaXMtPmVuYWJsZWQgPSBmYWxzZTsKCQkJCQlicmVhazsKCQkJCX0KCQkJCSov</text>
       </register>
       <register name=":" type="4">
         <text>177</text>
