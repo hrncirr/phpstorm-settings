@@ -2626,7 +2626,7 @@
         <mark key="]" line="60" column="8" />
         <mark key="." line="60" column="8" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Invoice.php" timestamp="1542877398714">
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Invoice.php" timestamp="1548147982105">
         <mark key="[" line="125" column="99" />
         <mark key="]" line="125" column="88" />
         <mark key="." line="125" column="88" />
@@ -3507,10 +3507,10 @@
         <mark key="]" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" timestamp="1547641851545">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoiceForm/InvoiceForm.php" timestamp="1548148520673">
+        <mark key="[" line="195" column="0" />
+        <mark key="]" line="195" column="0" />
+        <mark key="." line="195" column="0" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/Model/File.php" timestamp="1493983525202">
         <mark key="[" line="20" column="26" />
@@ -5209,54 +5209,54 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlkdW1wKCR2YWx1ZXMtPmFkZHJlc3NCb29rU3ViamVjdCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>, orphanRemoval=true</text>
+        <text encoding="base64">ICYmICFlbXB0eSgkdmFsdWVzLT5hZGRyZXNzQm9va1N1YmplY3Qp</text>
       </register>
       <register name="/" type="4">
-        <text>onAnchor</text>
+        <text>due</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlkdW1wKCR2YWx1ZXMtPmFkZHJlc3NCb29rU3ViamVjdCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJZXhpdDsK</text>
+        <text encoding="base64">CQkJCQlkdW1wKCR2YWx1ZXMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJZHVtcCgnb2snKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>dump('ok');
-				exit;</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJZXhpdDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCS8vIEZJWE1FOiBXVEYgPwo=</text>
+        <text encoding="base64">CQkJZHVtcCgnb2snKTsK</text>
       </register>
       <register name="6" type="4">
         <text>dump('ok');
-			exit;</text>
+				exit;</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">CQkJCS8vIEZJWE1FOiBXVEYgPwo=</text>
+      </register>
+      <register name="8" type="4">
+        <text>dump('ok');
+			exit;</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQl0aHJvdyBuZXcgXExvZ2ljRXhjZXB0aW9uKCdNYcW+ZSBzb3Vib3J5ICEnKTsK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZHVtcCgkbWF0Y2hlcyk7CgkJCQkJCWR1bXAoJHRoaXMtPmVuYWJsZWQpOwoJCQkJCQlleGl0Ow==</text>
       </register>
       <register name=":" type="4">
         <text>177</text>
       </register>
     </registers>
     <search>
-      <last-search>onAnchor</last-search>
+      <last-search>due</last-search>
       <last-offset />
-      <last-pattern>onAnchor</last-pattern>
+      <last-pattern>due</last-pattern>
       <last-replace>selectedDocument</last-replace>
       <last-substitute>editDocument</last-substitute>
       <last-dir>1</last-dir>
@@ -5264,7 +5264,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Invoice</entry>
         <entry>onBeforeFilter</entry>
         <entry>beforeDataModelFilter</entry>
         <entry>afterDataModelFilter</entry>
@@ -5284,6 +5283,7 @@
         <entry>Form</entry>
         <entry>dump</entry>
         <entry>onAnchor</entry>
+        <entry>due</entry>
       </history-search>
       <history-cmd>
         <entry>53</entry>
