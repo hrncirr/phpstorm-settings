@@ -1770,8 +1770,12 @@
         <mark key="]" line="62" column="33" />
         <mark key="." line="62" column="33" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" timestamp="1548411584374">
-        <mark key="[" line="89" column="85" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" timestamp="1548415002096">
+        <mark key="'" line="99" column="28" />
+        <mark key="[" line="94" column="90" />
+        <mark key="]" line="94" column="53" />
+        <mark key="." line="94" column="53" />
+        <mark key="^" line="94" column="53" />
       </file>
       <file name="/home/www/html/nnb/nezadouci-udalosti/app/Components/IncidentViewer.php" timestamp="1482400217288">
         <mark key="[" line="95" column="29" />
@@ -4426,6 +4430,7 @@
         <mark key="]" line="91" column="8" />
         <mark key="." line="91" column="8" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1548415133521" />
       <file name="/home/www/html/nnb/dms/src/Documents/Components/FilesUploadForm/FilesUploadForm.php" timestamp="1495783367578">
         <mark key="[" line="28" column="36" />
         <mark key="]" line="118" column="22" />
@@ -5145,7 +5150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="29" filename="/home/www/html/nnb/dms/src/Files/Events/FileUploadListener.php" />
       <jump line="705" column="50" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="65" column="39" filename="/home/www/html/dv/adera/libs/vendor/nette/application/src/Application/UI/Control.php" />
       <jump line="74" column="20" filename="/home/www/html/dv/adera/libs/vendor/nette/application/src/Application/UI/Control.php" />
@@ -5245,16 +5249,17 @@
       <jump line="418" column="15" filename="/home/www/html/dv/adera/libs/vendor/ublaboo/datagrid/src/DataGrid.php" />
       <jump line="2401" column="15" filename="/home/www/html/dv/adera/libs/vendor/ublaboo/datagrid/src/DataGrid.php" />
       <jump line="1919" column="28" filename="/home/www/html/dv/adera/libs/vendor/ublaboo/datagrid/src/DataGrid.php" />
+      <jump line="95" column="28" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>btn btn-primary btn-xs</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">e2lmICEkY29udHJvbC0+Z2V0UHJlc2VudGVyKCktPmlzQWpheCgpIHx8IGlzc2V0KCRsb2FkUmVsYXRlZERvY3VtZW50cykgJiYgJGxvYWRSZWxhdGVkRG9jdW1lbnRzID09PSAkZG9jdW1lbnQtPmdldElkKCl9</text>
+        <text>btn btn-primary btn-xs</text>
       </register>
       <register name="/" type="4">
-        <text>onExport</text>
+        <text>btn</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
@@ -5291,9 +5296,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onExport</last-search>
+      <last-search>btn</last-search>
       <last-offset />
-      <last-pattern>onExport</last-pattern>
+      <last-pattern>btn</last-pattern>
       <last-replace>selectedDocument</last-replace>
       <last-substitute>editDocument</last-substitute>
       <last-dir>1</last-dir>
@@ -5301,8 +5306,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onFiltersAssembled</entry>
-        <entry>subjectId</entry>
         <entry>subjectNameCallback</entry>
         <entry encoding="base64">JHRoaXMtPnN1YmplY3Q=</entry>
         <entry encoding="base64">JHRoaXMtPmZvcm0=</entry>
@@ -5321,6 +5324,8 @@
         <entry>Invalid</entry>
         <entry>handleEdit</entry>
         <entry>onExport</entry>
+        <entry>button</entry>
+        <entry>btn</entry>
       </history-search>
       <history-cmd>
         <entry>53</entry>
