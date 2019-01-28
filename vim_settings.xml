@@ -2826,10 +2826,10 @@
         <mark key="]" line="37" column="37" />
         <mark key="." line="37" column="37" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoicesGrid/InvoicesGrid.php" timestamp="1548330064710">
-        <mark key="[" line="211" column="8" />
-        <mark key="]" line="211" column="8" />
-        <mark key="." line="211" column="8" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoicesGrid/InvoicesGrid.php" timestamp="1548675396900">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Latte/CMPProvider.php" timestamp="1496048680217">
         <mark key="[" line="47" column="21" />
@@ -5270,8 +5270,8 @@
       <jump line="78" column="26" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIFVibGFib29cUmVzcG9uc2VzXENTVlJlc3BvbnNlOwo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -5282,22 +5282,31 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">aWYgKCEkdGhpcy0+aXNDb250cm9sSW52YWxpZCgncmVsYXRlZERvY3VtZW50cycpKSB7CgkJCWlmICgkdGhpcy0+aXRlcmF0b3IgPT09IG51bGwpIHsKCQkJCXRocm93IG5ldyBcTG9naWNFeGNlcHRpb24oJ0l0ZXJhdG9yIG11c3QgYmUgc2V0LicpOwoJCQl9CgoJCQlpZiAoJHRoaXMtPnByZXZEb2N1bWVudCA9PT0gbnVsbCAmJiAhJHRoaXMtPml0ZXJhdG9yLT5pc0ZpcnN0KCkpIHsKCQkJCXRocm93IG5ldyBcTG9naWNFeGNlcHRpb24oJ1ByZXZpb3VzIGRvY3VtZW50IG11c3QgYmUgc2V0LicpOwoJCQl9CgkJfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">dXNlIFVibGFib29cUmVzcG9uc2VzXENTVlJlc3BvbnNlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJe3BocCAkdGhpcy0+Z2xvYmFsLT51aUNvbnRyb2wtPmdldENvbXBvbmVudCgiZG9jdW1lbnRDb250cm9sLSRpZCIpLT5zZXRQcmV2RG9jdW1lbnQoJHByZXZEb2N1bWVudCktPnNldEl0ZXJhdG9yKCRpdGVyYXRvcil9Cg==</text>
+        <text encoding="base64">dXNlIFVibGFib29cRGF0YUdyaWRcQ3N2RGF0YU1vZGVsOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">dXNlIFVibGFib29cRGF0YUdyaWRcQ29sdW1uXENvbHVtblRleHQ7Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">aWYgKCEkdGhpcy0+aXNDb250cm9sSW52YWxpZCgncmVsYXRlZERvY3VtZW50cycpKSB7CgkJCWlmICgkdGhpcy0+aXRlcmF0b3IgPT09IG51bGwpIHsKCQkJCXRocm93IG5ldyBcTG9naWNFeGNlcHRpb24oJ0l0ZXJhdG9yIG11c3QgYmUgc2V0LicpOwoJCQl9CgoJCQlpZiAoJHRoaXMtPnByZXZEb2N1bWVudCA9PT0gbnVsbCAmJiAhJHRoaXMtPml0ZXJhdG9yLT5pc0ZpcnN0KCkpIHsKCQkJCXRocm93IG5ldyBcTG9naWNFeGNlcHRpb24oJ1ByZXZpb3VzIGRvY3VtZW50IG11c3QgYmUgc2V0LicpOwoJCQl9CgkJfQ==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJe3BocCAkdGhpcy0+Z2xvYmFsLT51aUNvbnRyb2wtPmdldENvbXBvbmVudCgiZG9jdW1lbnRDb250cm9sLSRpZCIpLT5zZXRQcmV2RG9jdW1lbnQoJHByZXZEb2N1bWVudCktPnNldEl0ZXJhdG9yKCRpdGVyYXRvcil9Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQlkdW1wKCRhKTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">LyoqCgkgKiBAcGFyYW0gRG9jdW1lbnQgJHByZXZEb2N1bWVudAoJICoKCSAqIEByZXR1cm4gRG9jdW1lbnRDb250cm9sCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRQcmV2RG9jdW1lbnQoP0RvY3VtZW50ICRwcmV2RG9jdW1lbnQpOiBEb2N1bWVudENvbnRyb2wKCXsKCQkkdGhpcy0+cHJldkRvY3VtZW50ID0gJHByZXZEb2N1bWVudDsKCgkJcmV0dXJuICR0aGlzOwoJfQoKCgkvKioKCSAqIEBwYXJhbSBDYWNoaW5nSXRlcmF0b3IgJGl0ZXJhdG9yCgkgKgoJICogQHJldHVybiBEb2N1bWVudENvbnRyb2wKCSAqLwoJcHVibGljIGZ1bmN0aW9uIHNldEl0ZXJhdG9yKENhY2hpbmdJdGVyYXRvciAkaXRlcmF0b3IpOiBEb2N1bWVudENvbnRyb2wKCXsKCQkkdGhpcy0+aXRlcmF0b3IgPSAkaXRlcmF0b3I7CgoJCXJldHVybiAkdGhpczsKCX0=</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>/**
 	 * @var Document|null
 	 */
@@ -5307,15 +5316,6 @@
 	 * @var CachingIterator
 	 */
 	private $iterator;</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJZHVtcCgkYSk7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJZHVtcCgkYik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
