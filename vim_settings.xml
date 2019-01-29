@@ -1367,8 +1367,8 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.latte" timestamp="1548768233743">
-        <mark key="[" line="12" column="27" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.latte" timestamp="1548770885394">
+        <mark key="[" line="4" column="18" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/validator/src/ConstraintViolationsMapper.php" timestamp="1497513197426">
         <mark key="[" line="1" column="0" />
@@ -1380,10 +1380,10 @@
         <mark key="]" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1548768260824">
-        <mark key="[" line="157" column="29" />
-        <mark key="]" line="161" column="0" />
-        <mark key="." line="161" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1548770865608">
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/jstree/src/DI/DoctrineDataSource.php" timestamp="1479301570985">
         <mark key="[" line="13" column="0" />
@@ -3793,10 +3793,10 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1548768014554">
-        <mark key="[" line="206" column="4" />
-        <mark key="]" line="206" column="4" />
-        <mark key="." line="206" column="4" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1548770612269">
+        <mark key="[" line="53" column="19" />
+        <mark key="]" line="212" column="4" />
+        <mark key="." line="212" column="4" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Exceptions/SubjectAlreadyExistsException.php" timestamp="1542886169784">
         <mark key="[" line="11" column="0" />
@@ -5255,8 +5255,8 @@
       <jump line="45" column="35" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIGJvb2wKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGlzR2xvYmFsVmFsaWQoKTogYm9vbAoJewoJCXJldHVybiAkdGhpcy0+Z2xvYmFsVmFsaWQ7Cgl9CgoKCS8qKgoJICogQHBhcmFtIGJvb2wgJGdsb2JhbFZhbGlkCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRHbG9iYWxWYWxpZChib29sICRnbG9iYWxWYWxpZCk6IHZvaWQKCXsKCQkkdGhpcy0+Z2xvYmFsVmFsaWQgPSAkZ2xvYmFsVmFsaWQ7Cgl9CgoKCS8qKgoJICogQHJldHVybiBib29sCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBpc0xvY2FsVmFsaWQoKTogYm9vbAoJewoJCXJldHVybiAkdGhpcy0+bG9jYWxWYWxpZDsKCX0KCgoJLyoqCgkgKiBAcGFyYW0gYm9vbCAkbG9jYWxWYWxpZAoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0TG9jYWxWYWxpZChib29sICRsb2NhbFZhbGlkKTogdm9pZAoJewoJCSR0aGlzLT5sb2NhbFZhbGlkID0gJGxvY2FsVmFsaWQ7Cgl9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkkZm9ybS0+YWRkU2VsZWN0KCdwcm9jZXNzJywgJ1Byb2NlcycsIFtdKTsK</text>
       </register>
       <register name="-" type="4">
         <text>inversedBy=&quot;&quot;</text>
@@ -5267,10 +5267,13 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIGJvb2wKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGlzR2xvYmFsVmFsaWQoKTogYm9vbAoJewoJCXJldHVybiAkdGhpcy0+Z2xvYmFsVmFsaWQ7Cgl9CgoKCS8qKgoJICogQHBhcmFtIGJvb2wgJGdsb2JhbFZhbGlkCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRHbG9iYWxWYWxpZChib29sICRnbG9iYWxWYWxpZCk6IHZvaWQKCXsKCQkkdGhpcy0+Z2xvYmFsVmFsaWQgPSAkZ2xvYmFsVmFsaWQ7Cgl9CgoKCS8qKgoJICogQHJldHVybiBib29sCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBpc0xvY2FsVmFsaWQoKTogYm9vbAoJewoJCXJldHVybiAkdGhpcy0+bG9jYWxWYWxpZDsKCX0KCgoJLyoqCgkgKiBAcGFyYW0gYm9vbCAkbG9jYWxWYWxpZAoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0TG9jYWxWYWxpZChib29sICRsb2NhbFZhbGlkKTogdm9pZAoJewoJCSR0aGlzLT5sb2NhbFZhbGlkID0gJGxvY2FsVmFsaWQ7Cgl9</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkkZm9ybS0+YWRkU2VsZWN0KCdwcm9jZXNzJywgJ1Byb2NlcycsIFtdKTsK</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIGJvb2wKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGlzR2xvYmFsVmFsaWQoKTogYm9vbAoJewoJCXJldHVybiAkdGhpcy0+Z2xvYmFsVmFsaWQ7Cgl9CgoKCS8qKgoJICogQHBhcmFtIGJvb2wgJGdsb2JhbFZhbGlkCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRHbG9iYWxWYWxpZChib29sICRnbG9iYWxWYWxpZCk6IHZvaWQKCXsKCQkkdGhpcy0+Z2xvYmFsVmFsaWQgPSAkZ2xvYmFsVmFsaWQ7Cgl9CgoKCS8qKgoJICogQHJldHVybiBib29sCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBpc0xvY2FsVmFsaWQoKTogYm9vbAoJewoJCXJldHVybiAkdGhpcy0+bG9jYWxWYWxpZDsKCX0KCgoJLyoqCgkgKiBAcGFyYW0gYm9vbCAkbG9jYWxWYWxpZAoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0TG9jYWxWYWxpZChib29sICRsb2NhbFZhbGlkKTogdm9pZAoJewoJCSR0aGlzLT5sb2NhbFZhbGlkID0gJGxvY2FsVmFsaWQ7Cgl9</text>
+      </register>
+      <register name="3" type="4">
         <text>/**
 	 * @ORM\Column(type=&quot;boolean&quot;)
 	 * @var boolean
@@ -5283,34 +5286,31 @@
 	 */
 	private $localValid;</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>/**
 	 * @ORM\ManyToOne(targetEntity=&quot;DocumentType&quot;, cascade={&quot;persist&quot;})
 	 * @var DocumentType
 	 */
 	protected $documentType;</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CSAqIEBPUk1cSm9pbkNvbHVtbihuYW1lPSJfaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZT0iaWQiKQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>/**
 	 * @ORM\OneToMany(targetEntity=&quot;DocumentType&quot;, mappedBy=&quot;&quot;, cascade={&quot;persist&quot;})
 	 * @var DocumentType[]|\Doctrine\Common\Collections\ArrayCollection
 	 */
 	protected $documentType;</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCS0+c2V0VHJhbnNsYXRvcihudWxsKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkkZm9ybS0+c2V0UmVuZGVyZXIobmV3IEJvb3RzdHJhcFJlbmRlcmVyKFJlbmRlck1vZGVFbnVtOjpIT1JJWk9OVEFMKSk7Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQkkZm9ybS0+YWRkUHJvdGVjdGlvbigpOwo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">cHJvdGVjdGVkIGZ1bmN0aW9uIGdldE1vZGFsU2l6ZSgpCgl7CgkJcmV0dXJuIE1vZGFsQ29udHJvbDo6U0laRV9MQVJHRTsKCX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
