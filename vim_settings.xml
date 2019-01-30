@@ -1367,8 +1367,8 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.latte" timestamp="1548838247527">
-        <mark key="[" line="6" column="13" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.latte" timestamp="1548840130721">
+        <mark key="[" line="6" column="27" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/validator/src/ConstraintViolationsMapper.php" timestamp="1497513197426">
         <mark key="[" line="1" column="0" />
@@ -1380,10 +1380,10 @@
         <mark key="]" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1548771679534">
-        <mark key="[" line="160" column="38" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1548841908121">
+        <mark key="[" line="181" column="12" />
+        <mark key="]" line="181" column="12" />
+        <mark key="." line="181" column="12" />
       </file>
       <file name="/home/www/vendor/hrncirr/jstree/src/DI/DoctrineDataSource.php" timestamp="1479301570985">
         <mark key="[" line="13" column="0" />
@@ -1618,6 +1618,7 @@
         <mark key="]" line="24" column="16" />
         <mark key="." line="24" column="16" />
       </file>
+      <file name="/home/www/html/nnb/dms/js/form.choice.js" timestamp="1548839581731" />
       <file name="/home/www/html/nnb/aktuality/app/listeners/ElfinderFileListener.php" timestamp="1477927727154">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -1779,13 +1780,6 @@
         <mark key="[" line="62" column="32" />
         <mark key="]" line="62" column="33" />
         <mark key="." line="62" column="33" />
-      </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" timestamp="1548686752198">
-        <mark key="'" line="16" column="41" />
-        <mark key="[" line="30" column="23" />
-        <mark key="]" line="30" column="26" />
-        <mark key="." line="30" column="26" />
-        <mark key="^" line="30" column="26" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/DI/config.neon" timestamp="1548418727224">
         <mark key="[" line="17" column="0" />
@@ -3109,12 +3103,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" timestamp="1548686886297">
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" timestamp="1548840094969">
         <mark key="'" line="384" column="26" />
-        <mark key="[" line="422" column="29" />
-        <mark key="]" line="437" column="32" />
-        <mark key="." line="437" column="32" />
-        <mark key="^" line="437" column="32" />
+        <mark key="[" line="389" column="4" />
+        <mark key="]" line="439" column="32" />
+        <mark key="." line="439" column="32" />
+        <mark key="^" line="439" column="32" />
       </file>
       <file name="/home/www/html/nnb/dms/app/presenters/UsersPresenter.php" timestamp="1478504886166">
         <mark key="[" line="5" column="0" />
@@ -3922,6 +3916,7 @@
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
+      <file name="/home/www/lib/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/IComponentMapper.php" timestamp="1548840788388" />
       <file name="/home/www/html/bul/medical_examinations/app/components/PasswordForm/PasswordForm.php" timestamp="1480667009174">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="6" column="0" />
@@ -4494,8 +4489,9 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" timestamp="1548767635671">
-        <mark key="[" line="239" column="22" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" timestamp="1548839858535">
+        <mark key="'" line="254" column="53" />
+        <mark key="[" line="169" column="50" />
         <mark key="]" line="239" column="19" />
         <mark key="." line="239" column="19" />
         <mark key="^" line="239" column="19" />
@@ -5148,7 +5144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="470" column="49" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
       <jump line="22" column="35" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
       <jump line="7" column="26" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
       <jump line="30" column="23" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
@@ -5248,73 +5243,58 @@
       <jump line="169" column="23" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
       <jump line="42" column="25" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
       <jump line="45" column="35" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
+      <jump line="254" column="53" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkkZm9ybS0+YWRkU2VsZWN0KCdwcm9jZXNzJywgJ1Byb2NlcycsIFtdKTsK</text>
+      <register name="&quot;" type="4">
+        <text>DocumentScopeOfValidity::getAvailableValues())</text>
       </register>
       <register name="-" type="4">
-        <text>inversedBy=&quot;&quot;</text>
+        <text>DocumentScopeOfValidity::getAvailableValues())</text>
       </register>
       <register name="/" type="4">
-        <text>Legal</text>
+        <text>dump</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkkZm9ybS0+YWRkU2VsZWN0KCdwcm9jZXNzJywgJ1Byb2NlcycsIFtdKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">JGZvcm1bJ2RvY3VtZW50VHlwZSddCgkJCQktPnNldE9wdGlvbihJQ29tcG9uZW50TWFwcGVyOjpJVEVNU19USVRMRSwgJ3RpdGxlJykKCQkJCS0+c2V0T3B0aW9uKElDb21wb25lbnRNYXBwZXI6OklURU1TX09SREVSLCBbJ2lkJyA9PiAnQVNDJ10pCgkJCQktPnNldE9wdGlvbihJQ29tcG9uZW50TWFwcGVyOjpJVEVNU19GSUxURVIsICRzY29wZU9mVmFsaWRpdHlJZCA9PT0gJ2dsb2JhbCcgPwoJCQkJWydnbG9iYWxWYWxpZCcgPT4gdHJ1ZV0gOiBbJ2xvY2FsVmFsaWQnID0+IHRydWVdICk7</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIGJvb2wKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGlzR2xvYmFsVmFsaWQoKTogYm9vbAoJewoJCXJldHVybiAkdGhpcy0+Z2xvYmFsVmFsaWQ7Cgl9CgoKCS8qKgoJICogQHBhcmFtIGJvb2wgJGdsb2JhbFZhbGlkCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRHbG9iYWxWYWxpZChib29sICRnbG9iYWxWYWxpZCk6IHZvaWQKCXsKCQkkdGhpcy0+Z2xvYmFsVmFsaWQgPSAkZ2xvYmFsVmFsaWQ7Cgl9CgoKCS8qKgoJICogQHJldHVybiBib29sCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBpc0xvY2FsVmFsaWQoKTogYm9vbAoJewoJCXJldHVybiAkdGhpcy0+bG9jYWxWYWxpZDsKCX0KCgoJLyoqCgkgKiBAcGFyYW0gYm9vbCAkbG9jYWxWYWxpZAoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0TG9jYWxWYWxpZChib29sICRsb2NhbFZhbGlkKTogdm9pZAoJewoJCSR0aGlzLT5sb2NhbFZhbGlkID0gJGxvY2FsVmFsaWQ7Cgl9</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJLT5zZXRPcHRpb24oSUNvbXBvbmVudE1hcHBlcjo6SVRFTVNfT1JERVIsIFsnaWQnID0+ICdBU0MnXSk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>/**
-	 * @ORM\Column(type=&quot;boolean&quot;)
-	 * @var boolean
-	 */
-	private $globalValid;
-
-	/**
-	 * @ORM\Column(type=&quot;boolean&quot;)
-	 * @var boolean
-	 */
-	private $localValid;</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJLT5zZXRPcHRpb24oSUNvbXBvbmVudE1hcHBlcjo6SVRFTVNfVElUTEUsICd0aXRsZScpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>/**
-	 * @ORM\ManyToOne(targetEntity=&quot;DocumentType&quot;, cascade={&quot;persist&quot;})
-	 * @var DocumentType
-	 */
-	protected $documentType;</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkkdGhpcy0+cmVkcmF3Q29udHJvbCgnZG9jdW1lbnRUeXBlJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAqIEBPUk1cSm9pbkNvbHVtbihuYW1lPSJfaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZT0iaWQiKQo=</text>
+        <text encoding="base64">CQkJZHVtcCgnb2snKTsK</text>
       </register>
       <register name="6" type="4">
-        <text>/**
-	 * @ORM\OneToMany(targetEntity=&quot;DocumentType&quot;, mappedBy=&quot;&quot;, cascade={&quot;persist&quot;})
-	 * @var DocumentType[]|\Doctrine\Common\Collections\ArrayCollection
-	 */
-	protected $documentType;</text>
+        <text>if ($scopeOfValidityId !== null) {
+			$form['scopeOfValidity']
+		}</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCS0+c2V0VHJhbnNsYXRvcihudWxsKTsK</text>
+        <text encoding="base64">CQlkdW1wKCRzY29wZU9mVmFsaWRpdHlJZCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkkZm9ybS0+c2V0UmVuZGVyZXIobmV3IEJvb3RzdHJhcFJlbmRlcmVyKFJlbmRlck1vZGVFbnVtOjpIT1JJWk9OVEFMKSk7Cg==</text>
+        <text encoding="base64">CQkkdGhpcy0+cmVkcmF3Q29udHJvbCgnc2NvcGVPZlZhbGlkaXR5Jyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkkZm9ybS0+YWRkUHJvdGVjdGlvbigpOwo=</text>
+        <text encoding="base64">CQkvL2R1bXAoJGRvY3VtZW50UHJvY2Vzc1R5cGVJZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Legal</last-search>
+      <last-search>dump</last-search>
       <last-offset />
-      <last-pattern>Legal</last-pattern>
+      <last-pattern>dump</last-pattern>
       <last-replace>selectedDocument</last-replace>
       <last-substitute>editDocument</last-substitute>
       <last-dir>1</last-dir>
@@ -5322,9 +5302,6 @@
     </search>
     <history>
       <history-search>
-        <entry>swapPosi</entry>
-        <entry>lastDocument</entry>
-        <entry>iterator</entry>
         <entry>swap</entry>
         <entry>swapPosition</entry>
         <entry>redrawControl</entry>
@@ -5342,6 +5319,9 @@
         <entry>showRela</entry>
         <entry>show</entry>
         <entry>Legal</entry>
+        <entry>changeLega</entry>
+        <entry>ChangeLega</entry>
+        <entry>dump</entry>
       </history-search>
       <history-cmd>
         <entry>53</entry>
