@@ -24,7 +24,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1548939144293">
+      <file name="/a.dummy" timestamp="1548939194062">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1369,8 +1369,8 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.latte" timestamp="1548938647308">
-        <mark key="[" line="8" column="18" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.latte" timestamp="1548939535289">
+        <mark key="[" line="5" column="18" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
@@ -1384,10 +1384,10 @@
         <mark key="]" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1548938674580">
-        <mark key="[" line="182" column="45" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1548939630089">
+        <mark key="[" line="172" column="32" />
+        <mark key="]" line="161" column="36" />
+        <mark key="." line="161" column="36" />
       </file>
       <file name="/home/www/vendor/hrncirr/jstree/src/DI/DoctrineDataSource.php" timestamp="1479301570985">
         <mark key="[" line="13" column="0" />
@@ -5037,10 +5037,10 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/DocumentTopic.php" timestamp="1548939057714">
-        <mark key="[" line="9" column="53" />
-        <mark key="]" line="33" column="4" />
-        <mark key="." line="33" column="4" />
+      <file name="/home/www/html/nnb/dms/src/Documents/DocumentTopic.php" timestamp="1548939780789">
+        <mark key="[" line="109" column="22" />
+        <mark key="]" line="109" column="22" />
+        <mark key="." line="109" column="22" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Folders/Events/FolderFilesListener.php" timestamp="1484312651708">
         <mark key="[" line="63" column="0" />
@@ -5237,10 +5237,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIERvY3VtZW50UHJvY2Vzc1R5cGV8bnVsbAoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0RG9jdW1lbnRQcm9jZXNzVHlwZSgpOiA/RG9jdW1lbnRQcm9jZXNzVHlwZQoJewoJCXJldHVybiAkdGhpcy0+ZG9jdW1lbnRQcm9jZXNzVHlwZTsKCX0KCgoJLyoqCgkgKiBAcGFyYW0gRG9jdW1lbnRQcm9jZXNzVHlwZXxudWxsICRkb2N1bWVudFByb2Nlc3NUeXBlCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXREb2N1bWVudFByb2Nlc3NUeXBlKD9Eb2N1bWVudFByb2Nlc3NUeXBlICRkb2N1bWVudFByb2Nlc3NUeXBlKTogdm9pZAoJewoJCSR0aGlzLT5kb2N1bWVudFByb2Nlc3NUeXBlID0gJGRvY3VtZW50UHJvY2Vzc1R5cGU7Cgl9CgoKCS8qKgoJICogQHJldHVybiBEb2N1bWVudFR5cGV8bnVsbAoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0RG9jdW1lbnRUeXBlKCk6ID9Eb2N1bWVudFR5cGUKCXsKCQlyZXR1cm4gJHRoaXMtPmRvY3VtZW50VHlwZTsKCX0KCgoJLyoqCgkgKiBAcGFyYW0gRG9jdW1lbnRUeXBlfG51bGwgJGRvY3VtZW50VHlwZQoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0RG9jdW1lbnRUeXBlKD9Eb2N1bWVudFR5cGUgJGRvY3VtZW50VHlwZSk6IHZvaWQKCXsKCQkkdGhpcy0+ZG9jdW1lbnRUeXBlID0gJGRvY3VtZW50VHlwZTsKCX0KCgoJLyoqCgkgKiBAcmV0dXJuIERvY3VtZW50RGVwYXJ0bWVudHxudWxsCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXREb2N1bWVudERlcGFydG1lbnQoKTogP0RvY3VtZW50RGVwYXJ0bWVudAoJewoJCXJldHVybiAkdGhpcy0+ZG9jdW1lbnREZXBhcnRtZW50OwoJfQoKCgkvKioKCSAqIEBwYXJhbSBEb2N1bWVudERlcGFydG1lbnR8bnVsbCAkZG9jdW1lbnREZXBhcnRtZW50CgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXREb2N1bWVudERlcGFydG1lbnQoP0RvY3VtZW50RGVwYXJ0bWVudCAkZG9jdW1lbnREZXBhcnRtZW50KTogdm9pZAoJewoJCSR0aGlzLT5kb2N1bWVudERlcGFydG1lbnQgPSAkZG9jdW1lbnREZXBhcnRtZW50OwoJfQ==</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>inversedBy=&quot;&quot;,</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>itemsCallback</text>
