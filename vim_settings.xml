@@ -1395,10 +1395,10 @@
         <mark key="]" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1548927479479">
-        <mark key="[" line="155" column="35" />
-        <mark key="]" line="157" column="0" />
-        <mark key="." line="157" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1548929546114">
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="190" column="0" />
+        <mark key="." line="190" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/jstree/src/DI/DoctrineDataSource.php" timestamp="1479301570985">
         <mark key="[" line="13" column="0" />
@@ -5327,10 +5327,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlyZXR1cm4gJGRhdGE7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>n:snippet=&quot;documentDepartment&quot;</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>getName</text>
@@ -5339,35 +5339,31 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlyZXR1cm4gJGRhdGE7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkkY29tcG9uZW50SWQgPSAkdGhpcy0+Z2V0VW5pcXVlSWQoKTsK</text>
+        <text encoding="base64">CQkJCX0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkkc2NvcGVPZlZhbGlkaXR5SWQgPSAkdGhpcy0+Z2V0UGFyYW1ldGVyKCdzY29wZU9mVmFsaWRpdHlJZCcpOwo=</text>
+        <text encoding="base64">CQkJCX0K</text>
       </register>
-      <register name="5" type="4">
-        <text>/**
-	 * @persistent
-	 * @int
-	 */
-	public $scopeOfValidity;</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQlyZXR1cm4gJGRhdGE7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJLSAlYXBwRGlyJS8uLi9qcy9mb3JtLmNob2ljZS5qcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGhhbmRsZVByb2Nlc3NUeXBlQ2hhbmdlZCgkcHJvY2Vzc1R5cGVJZCk6IHZvaWQKCXsKCQkkdGhpcy0+cmVkcmF3Q29udHJvbCgnc2NvcGVPZlZhbGlkaXR5Jyk7CgkJJHRoaXMtPnJlZHJhd0NvbnRyb2woJ2RvY3VtZW50VHlwZScpOwoJCSR0aGlzLT5yZWRyYXdDb250cm9sKCdkb2N1bWVudERlcGFydG1lbnQnKTsKCX0KCgoJcHVibGljIGZ1bmN0aW9uIGhhbmRsZVNjb3BlT2ZWYWxpZGl0eUNoYW5nZWQoJHNjb3BlT2ZWYWxpZGl0eSk6IHZvaWQKCXsKCQkkdGhpcy0+cmVkcmF3Q29udHJvbCgnZG9jdW1lbnRUeXBlJyk7CgkJJHRoaXMtPnJlZHJhd0NvbnRyb2woJ2RvY3VtZW50RGVwYXJ0bWVudCcpOwoJfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkkY29tcG9uZW50SWQgPSAkdGhpcy0+Z2V0VW5pcXVlSWQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JCgnW2RhdGEtZGVwZW5kZW50c2VsZWN0Ym94XScpLmRlcGVuZGVudFNlbGVjdEJveCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">aWYgKCRzY29wZU9mVmFsaWRpdHlJZCAhPT0gbnVsbCkgewoJCQkkZm9ybVsnZG9jdW1lbnRUeXBlJ10KCQkJCS0+c2V0T3B0aW9uKElDb21wb25lbnRNYXBwZXI6OklURU1TX1RJVExFLCAndGl0bGUnKQoJCQkJLT5zZXRPcHRpb24oSUNvbXBvbmVudE1hcHBlcjo6SVRFTVNfT1JERVIsIFsnaWQnID0+ICdBU0MnXSkKCQkJCS0+c2V0T3B0aW9uKElDb21wb25lbnRNYXBwZXI6OklURU1TX0ZJTFRFUiwgJHNjb3BlT2ZWYWxpZGl0eUlkID09PSAnZ2xvYmFsJyA/CgkJCQkJWydnbG9iYWxWYWxpZCcgPT4gdHJ1ZV0gOiBbJ2xvY2FsVmFsaWQnID0+IHRydWVdKTsKCgkJCWlmICgkc2NvcGVPZlZhbGlkaXR5SWQgPT09ICdsb2NhbCcpIHsKCQkJCSRmb3JtWydkb2N1bWVudERlcGFydG1lbnQnXS0+c2V0T3B0aW9uKElDb21wb25lbnRNYXBwZXI6OklURU1TX1RJVExFLCAndGl0bGUnKQoJCQkJCS0+c2V0T3B0aW9uKElDb21wb25lbnRNYXBwZXI6OklURU1TX09SREVSLCBbJ3RpdGxlJyA9PiAnQVNDJ10pOwoJCQl9CgkJfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkkc2NvcGVPZlZhbGlkaXR5SWQgPSAkdGhpcy0+Z2V0UGFyYW1ldGVyKCdzY29wZU9mVmFsaWRpdHlJZCcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
