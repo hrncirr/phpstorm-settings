@@ -3182,7 +3182,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549293020661">
+      <file name="/Dummy.txt" timestamp="1549373401426">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -3535,6 +3535,10 @@
         <mark key="[" line="189" column="0" />
         <mark key="]" line="189" column="0" />
         <mark key="." line="189" column="0" />
+      </file>
+      <file name="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" timestamp="1549373217995">
+        <mark key="'" line="718" column="33" />
+        <mark key="[" line="718" column="58" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/Model/File.php" timestamp="1493983525202">
         <mark key="[" line="20" column="26" />
@@ -5162,14 +5166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
-      <jump line="76" column="12" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
-      <jump line="47" column="11" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
-      <jump line="409" column="0" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
-      <jump line="40" column="11" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
-      <jump line="64" column="12" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
-      <jump line="239" column="49" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
-      <jump line="455" column="23" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
       <jump line="43" column="40" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
       <jump line="39" column="11" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
       <jump line="262" column="15" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
@@ -5262,6 +5258,14 @@
       <jump line="93" column="21" filename="/home/www/html/nnb/dms/src/Folders/Presenters/DefaultPresenter.php" />
       <jump line="177" column="21" filename="/home/www/html/nnb/dms/src/Folders/Presenters/DefaultPresenter.php" />
       <jump line="51" column="17" filename="/home/www/html/nnb/dms/src/Folders/Presenters/DefaultPresenter.php" />
+      <jump line="731" column="4" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
+      <jump line="746" column="27" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
+      <jump line="748" column="23" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
+      <jump line="42" column="15" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
+      <jump line="86" column="16" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
+      <jump line="536" column="50" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
+      <jump line="540" column="54" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
+      <jump line="718" column="33" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5271,7 +5275,7 @@
         <text encoding="base64">Y2xhc3MgPT4gJ2FqYXgn</text>
       </register>
       <register name="/" type="4">
-        <text>check</text>
+        <text>move</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
@@ -5311,13 +5315,13 @@
         <text encoding="base64">JGZvcm0tPmFkZENoZWNrYm94TGlzdCgnc3dpdGNoZXMnLCBudWxsLCBGaWxlQ29udmVyc2lvbjo6Q09OVkVSU0lPTl9TV0lUQ0hFUykKCQkJLT5nZXRTZXBhcmF0b3JQcm90b3R5cGUoKQoJCQktPnNldE5hbWUoJ3NwYW4nKQoJCQktPnNldFN0eWxlKCdwYWRkaW5nLXJpZ2h0OiAxZW0nKTs=</text>
       </register>
       <register name=":" type="4">
-        <text>309</text>
+        <text>719</text>
       </register>
     </registers>
     <search>
-      <last-search>check</last-search>
+      <last-search>move</last-search>
       <last-offset />
-      <last-pattern>check</last-pattern>
+      <last-pattern>move</last-pattern>
       <last-replace>selectedDocument</last-replace>
       <last-substitute>editDocument</last-substitute>
       <last-dir>1</last-dir>
@@ -5325,7 +5329,6 @@
     </search>
     <history>
       <history-search>
-        <entry>documentFileConversions</entry>
         <entry>filesConversions</entry>
         <entry>fileConversions</entry>
         <entry>showSorting</entry>
@@ -5345,9 +5348,9 @@
         <entry>itemsCallback</entry>
         <entry>isPrefered</entry>
         <entry>check</entry>
+        <entry>move</entry>
       </history-search>
       <history-cmd>
-        <entry>288</entry>
         <entry>%s/NULL/null/g</entry>
         <entry>730</entry>
         <entry>%s/editDocument/selectedDocument/g</entry>
@@ -5367,6 +5370,7 @@
         <entry>177</entry>
         <entry>w</entry>
         <entry>309</entry>
+        <entry>719</entry>
       </history-cmd>
       <history-expr />
       <history-input />
