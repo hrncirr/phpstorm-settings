@@ -1367,10 +1367,10 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.latte" timestamp="1549286325473">
-        <mark key="[" line="29" column="13" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.latte" timestamp="1549355310627">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/validator/src/ConstraintViolationsMapper.php" timestamp="1497513197426">
         <mark key="[" line="1" column="0" />
@@ -1382,9 +1382,11 @@
         <mark key="]" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1549292511826">
-        <mark key="[" line="101" column="97" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1549355043477">
+        <mark key="[" line="169" column="0" />
+        <mark key="]" line="169" column="0" />
         <mark key="^" line="137" column="0" />
+        <mark key="." line="169" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/jstree/src/DI/DoctrineDataSource.php" timestamp="1479301570985">
         <mark key="[" line="13" column="0" />
@@ -4182,7 +4184,7 @@
         <mark key="]" line="8" column="4" />
         <mark key="." line="8" column="4" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/templates/FilesUploadForm.latte" timestamp="1548851120540">
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/templates/FilesUploadForm.latte" timestamp="1549355222862">
         <mark key="[" line="12" column="40" />
         <mark key="]" line="12" column="40" />
         <mark key="." line="12" column="40" />
@@ -5242,7 +5244,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lRm9ybXNcQ29uc3RyYWludFZpb2xhdGlvbnNNYXBwZXI7Cg==</text>
+        <text encoding="base64">CQl9KTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PSAkZm9ybS0+Z2V0RW50aXR5KCkp</text>
@@ -5254,31 +5256,31 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CQl9KTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkkdGhpcy0+ZW0tPnRyYW5zYWN0aW9uYWwoZnVuY3Rpb24gKCkgdXNlICgkZm9ybSwgJGRvY3VtZW50LCAkZmlsZSkgewo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lRm9ybXNcQ29uc3RyYWludFZpb2xhdGlvbnNNYXBwZXI7Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">cHJpdmF0ZSBmdW5jdGlvbiB1cGRhdGVDb252ZXJzaW9ucyhBcnJheUhhc2ggJHN3aXRjaGVzKQoJewoJCWlmICgkdGhpcy0+Zm9sZGVyID09PSBudWxsKSB7CgkJCXJldHVybiBmYWxzZTsKCQl9CQoJCQoJCS8qKiBAdmFyIERvY3VtZW50Rm9sZGVyICRkb2N1bWVudEZvbGRlciAqLwoJCWlmICgoJGRvY3VtZW50Rm9sZGVyID0gJHRoaXMtPmRvY3VtZW50LT5nZXREb2N1bWVudEZvbGRlcigkdGhpcy0+Zm9sZGVyKSkgPT09IG51bGwpIHsKCQkJcmV0dXJuIGZhbHNlOwoJCX0KCQkKCQlmb3JlYWNoIChhcnJheV9rZXlzKEZpbGVDb252ZXJzaW9uOjpDT05WRVJTSU9OX1NXSVRDSEVTKSBhcyAkdHlwZSkgewoKCQkJJGRvY3VtZW50Rm9sZGVyLT57J3NldCcgLiB1Y2ZpcnN0KCR0eXBlKX0oJHRoaXMtPmNvbnZlcnNpb25TdGF0ZXNNYXBbJHN3aXRjaGVzWyR0eXBlXV1bJ3ZhbHVlJ10pOwoJCQkkdGhpcy0+ZW0tPnBlcnNpc3QoJGRvY3VtZW50Rm9sZGVyKTsKCQl9Cgl9</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">LyoqIEB2YXIgRG9jdW1lbnRGb2xkZXIgJGRvY3VtZW50Rm9sZGVyICovCgkJJGRvY3VtZW50Rm9sZGVyID0gJHRoaXMtPmRvY3VtZW50LT5nZXREb2N1bWVudEZvbGRlcigkdGhpcy0+Zm9sZGVyKTs=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">LyoqIEB2YXIgRG9jdW1lbnRGb2xkZXIgJGRvY3VtZW50Rm9sZGVyICovCgkJCSRkb2N1bWVudEZvbGRlciA9ICR0aGlzLT5kb2N1bWVudC0+Z2V0RG9jdW1lbnRGb2xkZXIoJHRoaXMtPmZvbGRlcik7CgoJCQlmb3JlYWNoIChhcnJheV9rZXlzKEZpbGVDb252ZXJzaW9uOjpDT05WRVJTSU9OX1NXSVRDSEVTKSBhcyAkdHlwZSkgewoKCQkJCSRkb2N1bWVudEZvbGRlci0+eydzZXQnIC4gdWNmaXJzdCgkdHlwZSl9KCR0aGlzLT5jb252ZXJzaW9uU3RhdGVzTWFwWyR2YWx1ZXNbJ2NvbnZlcnNpb25Td2l0Y2hlcyddWyR0eXBlXV1bJ3ZhbHVlJ10pOwoJCQkJJHRoaXMtPmVtLT5wZXJzaXN0KCRkb2N1bWVudEZvbGRlcik7CgkJCX0=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CSAqIEBPUk1cSm9pbkNvbHVtbihuYW1lPSJfaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZT0iaWQiKQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CgkJCWlmIChpc3NldCgkdmFsdWVzWydmaWxlJ10pKSB7CgkJCQkkZmlsZSA9IG5ldyBGaWxlKCR2YWx1ZXNbJ2ZpbGUnXSk7CgkJCQlpZiAoISR0aGlzLT52aW9sYXRpb25zTWFwcGVyLT52YWxpZGF0ZUZvcm1Db250cm9scyhbJ2ZpbGUnID0+ICRmb3JtWydmaWxlJ11dLCAkZmlsZSkpIHsKCQkJCQlyZXR1cm47CgkJCQl9CgkJCX0=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJJGRvY3VtZW50ID0gJGZvcm0tPmdldEVudGl0eSgpOwo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">cnkgewoJCQkJJHRoaXMtPmVtLT5wZXJzaXN0KCRkb2N1bWVudCk7CgkJCX0gY2F0Y2ggKEZpbGVVcGxvYWRFeGNlcHRpb24gJGUpIHsKCQkJCSRmb3JtLT5hZGRFcnJvcigkZS0+Z2V0TWVzc2FnZSgpKTsKCQkJCQoJCQkJcmV0dXJuOwoJCQl9IGNhdGNoIChEdXBsaWNhdGVGaWxlTmFtZUV4Y2VwdGlvbiAkZSkgewoJCQkJJGZvcm0tPmFkZEVycm9yKCRlLT5nZXRNZXNzYWdlKCkpOwoJCQkJCgkJCQlyZXR1cm47CgkJCX0=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJJGRvY3VtZW50ID0gJGZvcm0tPmdldEVudGl0eSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>309</text>
