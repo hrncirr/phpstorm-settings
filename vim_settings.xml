@@ -1367,8 +1367,8 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.latte" timestamp="1549447018772">
-        <mark key="[" line="30" column="64" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.latte" timestamp="1549448446387">
+        <mark key="[" line="30" column="77" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
@@ -3803,11 +3803,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1549377555456">
-        <mark key="[" line="873" column="0" />
-        <mark key="]" line="873" column="5" />
-        <mark key="." line="873" column="5" />
-        <mark key="^" line="873" column="5" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1549448280117">
+        <mark key="'" line="23" column="18" />
+        <mark key="[" line="53" column="34" />
+        <mark key="]" line="53" column="34" />
+        <mark key="." line="53" column="34" />
+        <mark key="^" line="875" column="5" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Exceptions/SubjectAlreadyExistsException.php" timestamp="1542886169784">
         <mark key="[" line="11" column="0" />
@@ -5187,7 +5188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="49" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
       <jump line="103" column="38" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
       <jump line="107" column="25" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
       <jump line="108" column="55" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
@@ -5287,16 +5287,17 @@
       <jump line="22" column="21" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
       <jump line="38" column="12" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
       <jump line="58" column="16" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
+      <jump line="22" column="18" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCSR0aGlzLT5mb2xkZXIgPSAkZm9sZGVyOwo=</text>
+      <register name="&quot;" type="4">
+        <text>unique=true</text>
       </register>
       <register name="-" type="4">
-        <text>ProcessType::class,</text>
+        <text>unique=true</text>
       </register>
       <register name="/" type="4">
-        <text>version</text>
+        <text>number</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
@@ -5333,9 +5334,9 @@
       </register>
     </registers>
     <search>
-      <last-search>version</last-search>
+      <last-search>number</last-search>
       <last-offset />
-      <last-pattern>version</last-pattern>
+      <last-pattern>number</last-pattern>
       <last-replace>selectedDocument</last-replace>
       <last-substitute>editDocument</last-substitute>
       <last-dir>1</last-dir>
@@ -5343,7 +5344,6 @@
     </search>
     <history>
       <history-search>
-        <entry>showRela</entry>
         <entry>show</entry>
         <entry>Legal</entry>
         <entry>changeLega</entry>
@@ -5363,6 +5363,7 @@
         <entry>selected</entry>
         <entry>folderSort</entry>
         <entry>version</entry>
+        <entry>number</entry>
       </history-search>
       <history-cmd>
         <entry>%s/NULL/null/g</entry>
