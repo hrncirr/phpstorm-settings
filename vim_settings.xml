@@ -1367,8 +1367,8 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.latte" timestamp="1549368949057">
-        <mark key="[" line="3" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.latte" timestamp="1549447018772">
+        <mark key="[" line="30" column="64" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
@@ -1382,10 +1382,12 @@
         <mark key="]" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1549378947214">
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="182" column="0" />
-        <mark key="." line="182" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1549446823489">
+        <mark key="'" line="58" column="16" />
+        <mark key="[" line="187" column="22" />
+        <mark key="]" line="188" column="32" />
+        <mark key="." line="188" column="32" />
+        <mark key="^" line="188" column="32" />
       </file>
       <file name="/home/www/vendor/hrncirr/jstree/src/DI/DoctrineDataSource.php" timestamp="1479301570985">
         <mark key="[" line="13" column="0" />
@@ -3138,12 +3140,6 @@
         <mark key="[" line="191" column="12" />
         <mark key="]" line="34" column="4" />
         <mark key="." line="34" column="4" />
-      </file>
-      <file name="/home/www/html/nnb/dms/src/Folders/Presenters/DefaultPresenter.php" timestamp="1549369883216">
-        <mark key="'" line="53" column="17" />
-        <mark key="[" line="126" column="4" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/www/index.php" timestamp="1497612974319">
         <mark key="[" line="13" column="0" />
@@ -5191,26 +5187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="60" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
-      <jump line="114" column="59" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
-      <jump line="397" column="57" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
-      <jump line="201" column="35" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
-      <jump line="512" column="12" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
-      <jump line="244" column="15" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
-      <jump line="245" column="0" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
-      <jump line="337" column="15" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
-      <jump line="7" column="44" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
-      <jump line="351" column="14" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
-      <jump line="23" column="32" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
-      <jump line="104" column="71" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
-      <jump line="422" column="25" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
-      <jump line="76" column="12" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
-      <jump line="345" column="46" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
-      <jump line="44" column="0" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
-      <jump line="49" column="17" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
-      <jump line="55" column="35" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
-      <jump line="51" column="0" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
-      <jump line="52" column="75" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
       <jump line="62" column="49" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
       <jump line="103" column="38" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
       <jump line="107" column="25" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
@@ -5291,6 +5267,26 @@
       <jump line="37" column="62" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
       <jump line="43" column="56" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
       <jump line="153" column="41" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
+      <jump line="188" column="32" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
+      <jump line="171" column="83" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
+      <jump line="187" column="45" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
+      <jump line="213" column="61" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
+      <jump line="214" column="61" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
+      <jump line="227" column="30" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
+      <jump line="238" column="35" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
+      <jump line="240" column="64" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
+      <jump line="361" column="49" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
+      <jump line="362" column="28" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
+      <jump line="363" column="71" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
+      <jump line="365" column="29" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
+      <jump line="367" column="60" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
+      <jump line="415" column="39" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
+      <jump line="417" column="30" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
+      <jump line="422" column="62" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
+      <jump line="426" column="26" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
+      <jump line="22" column="21" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
+      <jump line="38" column="12" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
+      <jump line="58" column="16" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -5300,7 +5296,7 @@
         <text>ProcessType::class,</text>
       </register>
       <register name="/" type="4">
-        <text>folderSort</text>
+        <text>version</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
@@ -5337,9 +5333,9 @@
       </register>
     </registers>
     <search>
-      <last-search>folderSort</last-search>
+      <last-search>version</last-search>
       <last-offset />
-      <last-pattern>folderSort</last-pattern>
+      <last-pattern>version</last-pattern>
       <last-replace>selectedDocument</last-replace>
       <last-substitute>editDocument</last-substitute>
       <last-dir>1</last-dir>
@@ -5347,7 +5343,6 @@
     </search>
     <history>
       <history-search>
-        <entry>currentFile</entry>
         <entry>showRela</entry>
         <entry>show</entry>
         <entry>Legal</entry>
@@ -5367,6 +5362,7 @@
         <entry>selectedFolder</entry>
         <entry>selected</entry>
         <entry>folderSort</entry>
+        <entry>version</entry>
       </history-search>
       <history-cmd>
         <entry>%s/NULL/null/g</entry>
