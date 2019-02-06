@@ -794,6 +794,9 @@
         <mark key="]" line="27" column="18" />
         <mark key="." line="27" column="18" />
       </file>
+      <file name="/home/www/html/nnb/dms/app/config/config-local.neon" timestamp="1549455559894">
+        <mark key="[" line="8" column="8" />
+      </file>
       <file name="/home/www/html/dv/cms/src/Url/DI/UrlExtension.php" timestamp="1501050490585">
         <mark key="[" line="56" column="28" />
         <mark key="]" line="56" column="28" />
@@ -1382,12 +1385,11 @@
         <mark key="]" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1549453437723">
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1549455896650">
         <mark key="'" line="58" column="16" />
-        <mark key="[" line="434" column="69" />
-        <mark key="]" line="434" column="69" />
-        <mark key="." line="434" column="69" />
-        <mark key="^" line="188" column="32" />
+        <mark key="[" line="42" column="36" />
+        <mark key="]" line="189" column="0" />
+        <mark key="." line="189" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/jstree/src/DI/DoctrineDataSource.php" timestamp="1479301570985">
         <mark key="[" line="13" column="0" />
@@ -1647,11 +1649,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" timestamp="1549375974575">
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" timestamp="1549455694763">
         <mark key="'" line="43" column="56" />
-        <mark key="[" line="152" column="49" />
-        <mark key="]" line="152" column="54" />
-        <mark key="." line="152" column="54" />
+        <mark key="[" line="41" column="74" />
+        <mark key="]" line="41" column="74" />
+        <mark key="." line="41" column="74" />
         <mark key="^" line="152" column="54" />
       </file>
       <file name="/home/www/html/dv/cms/src/Users/Resource.php" timestamp="1497013825055">
@@ -3144,6 +3146,12 @@
         <mark key="]" line="34" column="4" />
         <mark key="." line="34" column="4" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Folders/Presenters/DefaultPresenter.php" timestamp="1549369883216">
+        <mark key="'" line="53" column="17" />
+        <mark key="[" line="126" column="4" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="/home/www/html/dv/cms/www/index.php" timestamp="1497612974319">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -3806,9 +3814,9 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1549451609715">
+      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1549455223264">
         <mark key="'" line="43" column="19" />
-        <mark key="[" line="53" column="34" />
+        <mark key="[" line="847" column="47" />
         <mark key="]" line="53" column="34" />
         <mark key="." line="53" column="34" />
         <mark key="^" line="875" column="5" />
@@ -5295,10 +5303,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ScopeOfValidity::get(</text>
+        <text>padding-bottom: 1ex</text>
       </register>
       <register name="-" type="4">
-        <text>ScopeOfValidity::get(</text>
+        <text>padding-bottom: 1ex</text>
       </register>
       <register name="/" type="4">
         <text>Type</text>
@@ -5306,32 +5314,32 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ZnVuY3Rpb24gKFByb2Nlc3NUeXBlICRwcm9jZXNzVHlwZSkgewoJCQkJcmV0dXJuICRwcm9jZXNzVHlwZS0+Z2V0TnVtYmVyKCkgLiAnIC0gJyAuICRwcm9jZXNzVHlwZS0+Z2V0VGl0bGUoKTsKCQkJfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCQkJCWV4aXQ7Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CQkJCQkJCWR1bXAoJHRoaXMtPmZvbGRlci0+Z2V0VGl0bGUoKSk7Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ZnVuY3Rpb24gKFByb2Nlc3NUeXBlICRwcm9jZXNzVHlwZSkgewoJCQkJcmV0dXJuICRwcm9jZXNzVHlwZS0+Z2V0TnVtYmVyKCkgLiAnIC0gJyAuICRwcm9jZXNzVHlwZS0+Z2V0VGl0bGUoKTsKCQkJfQ==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CSAqIEBBc3NlcnRcTm90QmxhbmsoKQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJCSR0aGlzLT5mb2xkZXIgPSAkZm9sZGVyOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">LyoqIEB2YXIgRG9jdW1lbnQgJGRvY3VtZW50ICovCgkJJGRvY3VtZW50ID0gJGZvcm0tPmdldEVudGl0eSgpOw==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkkdGhpcy0+dGVtcGxhdGUtPnNjb3BlT2ZWYWxpZGl0eUlkID0gJHRoaXMtPmdldFBhcmFtZXRlcignc2NvcGVPZlZhbGlkaXR5SWQnKTsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">LyoqCgkgKiBAQXNzZXJ0XENhbGxiYWNrCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiB2YWxpZGF0ZUFkZHJlc3MoRXhlY3V0aW9uQ29udGV4dEludGVyZmFjZSAkY29udGV4dCwgJHBheWxvYWQpCgl7CgkJJGNvbnN0cmFpbnROb3RCbGFuayA9IG5ldyBBc3NlcnRcTm90QmxhbmsoKTsKCgkJZm9yZWFjaCAoWydzdHJlZXQnLCAnY2l0eScsICd6aXBDb2RlJ10gYXMgJHBhdGgpIHsKCQkJJGNvbnRleHQtPmdldFZhbGlkYXRvcigpCgkJCQktPmluQ29udGV4dCgkY29udGV4dCkKCQkJCS0+YXRQYXRoKCRwYXRoKQoJCQkJLT52YWxpZGF0ZSgkdGhpcy0+eyRwYXRofSwgJGNvbnN0cmFpbnROb3RCbGFuayk7CgkJfQoJfQ==</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQkJCWR1bXAoJHRoaXMtPmZvbGRlci0+Z2V0RG9jdW1lbnRQcm9jZXNzVHlwZSgpKTsK</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0icm93Ij4KCQkJPGRpdiBjbGFzcz0iY29sLXNtLTEyIj4KCQkJCTxhIG46aHJlZj0ic2hvd0RvY3VtZW50Rm9ybSEiIGNsYXNzPSJidG4gYnRuLXN1Y2Nlc3MgYnRuLXNtIGFqYXgiPgoJCQkJCTxzcGFuIGNsYXNzPSJmYSBmYS1wbHVzIiBhcmlhLWhpZGRlbj0idHJ1ZSI+PC9zcGFuPlDFmWlkYXQgZG9rdW1lbnQKCQkJCTwvYT4KCQkJPC9kaXY+CgkJCTxici8+PGJyLz4KCQk8L2Rpdj4=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gSURvY3VtZW50Rm9ybUZhY3RvcnkgJGZhY3RvcnkKCSAqCgkgKiBAcmV0dXJuIERvY3VtZW50Rm9ybQoJICovCglwcm90ZWN0ZWQgZnVuY3Rpb24gY3JlYXRlQ29tcG9uZW50RG9jdW1lbnRGb3JtKElEb2N1bWVudEZvcm1GYWN0b3J5ICRmYWN0b3J5KTogRG9jdW1lbnRGb3JtCgl7CgkJJGZvcm0gPSAkZmFjdG9yeS0+Y3JlYXRlKCR0aGlzLT5kb2N1bWVudCA/PyBuZXcgRG9jdW1lbnQoKSk7CgkJJGZvcm0tPnNldEZvbGRlcigkdGhpcy0+Zm9sZGVyKTsKCgkJJGZvcm0tPm9uU2F2ZVtdID0gZnVuY3Rpb24gKCkgewoJCQkkdGhpcy0+b25DaGFuZ2UoJHRoaXMpOwoJCX07CgoJCXJldHVybiAkZm9ybTsKCX0=</text>
       </register>
       <register name=":" type="4">
         <text>719</text>
