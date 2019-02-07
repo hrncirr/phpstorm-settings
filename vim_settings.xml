@@ -1160,10 +1160,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/TopicSelectorForm/TopicSelectorForm.php" timestamp="1549534835454">
-        <mark key="[" line="53" column="4" />
-        <mark key="]" line="53" column="4" />
-        <mark key="." line="53" column="4" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/TopicSelectorForm/TopicSelectorForm.php" timestamp="1549542072196">
+        <mark key="[" line="89" column="36" />
+        <mark key="]" line="89" column="36" />
+        <mark key="." line="89" column="36" />
       </file>
       <file name="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/Controls/ToMany.php" timestamp="1502467453007">
         <mark key="[" line="51" column="75" />
@@ -1380,7 +1380,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.latte" timestamp="1549451352495">
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.latte" timestamp="1549539610890">
         <mark key="[" line="14" column="26" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
@@ -1395,7 +1395,7 @@
         <mark key="]" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1549535007539">
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1549540262688">
         <mark key="'" line="58" column="16" />
         <mark key="[" line="298" column="67" />
         <mark key="]" line="189" column="0" />
@@ -4857,10 +4857,10 @@
         <mark key="]" line="2" column="15" />
         <mark key="." line="2" column="15" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/TopicSelectorForm/TopicSelectorForm.latte" timestamp="1549532716952">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="12" column="8" />
-        <mark key="." line="12" column="8" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/TopicSelectorForm/TopicSelectorForm.latte" timestamp="1549539837268">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="8" />
+        <mark key="." line="16" column="8" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/model/Path.php" timestamp="1487750415041">
         <mark key="[" line="50" column="16" />
@@ -5323,7 +5323,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGZvcm1TdWNjZWVkZWQoRm9ybSAkZm9ybSwgJHZhbHVlcyk6IHZvaWQKCXsKCQkkdGhpcy0+Zmxhc2hNZXNzYWdlKCdabcSbbnkgYnlseSDDunNwxJvFoW7EmyB1bG/FvmVueS4nLCAnc3VjY2VzcycpOwoKCQkkdGhpcy0+cmVkcmF3Q29udHJvbCgpOwoJCSR0aGlzLT5vblNhdmUoJHRoaXMtPmZvbGRlcik7Cgl9</text>
+        <text encoding="base64">LT5zZXREaXNhYmxlZCgp</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">LT5zZXREaXNhYmxlZCgp</text>
@@ -5334,33 +5334,46 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGZvcm1TdWNjZWVkZWQoRm9ybSAkZm9ybSwgJHZhbHVlcyk6IHZvaWQKCXsKCQkkdGhpcy0+Zmxhc2hNZXNzYWdlKCdabcSbbnkgYnlseSDDunNwxJvFoW7EmyB1bG/FvmVueS4nLCAnc3VjY2VzcycpOwoKCQkkdGhpcy0+cmVkcmF3Q29udHJvbCgpOwoJCSR0aGlzLT5vblNhdmUoJHRoaXMtPmZvbGRlcik7Cgl9</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCWlmICgkdmFsdWVzLT5zY29wZU9mVmFsaWRpdHkgPT09IFNjb3BlT2ZWYWxpZGl0eTo6R0xPQkFMKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>dump($values);
-			return;</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCSRmb3JtWyd0eXBlJ10tPnNldERpc2FibGVkKCk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJLT5zZXRBdHRyaWJ1dGUoJ2RhdGEtcHJvdmlkZScsICdzZWxlY3Qtc3VibWl0Jyk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">aWYgKCR0aGlzLT5mb2xkZXItPmdldERvY3VtZW50VHlwZSgpICE9PSBudWxsKSB7CgkJCSRmb3JtWyd0eXBlJ10tPnNldERpc2FibGVkKCkKCQkJCS0+c2V0VmFsdWUoJHRoaXMtPmZvbGRlci0+Z2V0RG9jdW1lbnRUeXBlKCktPmdldElkKCkpOwoJCX0gZWxzZSB7CgkJCSRmb3JtWyd0eXBlJ10tPnNldEF0dHJpYnV0ZSgnZGF0YS1wcm92aWRlJywgJ3NlbGVjdC1zdWJtaXQnKTsKCQl9</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">LyoKCQkJLT5zZXREZXBlbmRlbnRDYWxsYmFjayhmdW5jdGlvbiAoJHZhbHVlcykgewoJCQkJJGRhdGEgPSBuZXcgRGVwZW5kZW50RGF0YSgpOwoKCQkJCWlmICgkdmFsdWVzWydwcm9jZXNzVHlwZSddICE9PSBudWxsICYmICR2YWx1ZXNbJ3Njb3BlT2ZWYWxpZGl0eSddID09PSAnbG9jYWwnKSB7CgkJCQkJJHByb2Nlc3NUeXBlID0gJHRoaXMtPmVtLT5maW5kKFByb2Nlc3NUeXBlOjpjbGFzcywgJHZhbHVlc1sncHJvY2Vzc1R5cGUnXSk7CgoJCQkJCSRkYXRhLT5zZXRJdGVtcygkdGhpcy0+ZW0tPmdldFJlcG9zaXRvcnkoRGVwYXJ0bWVudDo6Y2xhc3MpCgkJCQkJCS0+ZmluZFBhaXJzKFsncHJvY2Vzc1R5cGUnID0+ICRwcm9jZXNzVHlwZV0sICduYW1lJywgWyduYW1lJyA9PiAnQVNDJ10pKTsKCQkJCX0KCgkJCQlyZXR1cm4gJGRhdGE7CgkJCX0pCgkJCSov</text>
+        <text encoding="base64">aWYgKCR0aGlzLT5mb2xkZXItPmdldERvY3VtZW50UHJvY2Vzc1R5cGUoKSAhPT0gbnVsbCkgewoJCQkkZm9ybVsncHJvY2Vzc1R5cGUnXS0+c2V0RGlzYWJsZWQoKQoJCQkJLT5zZXREZWZhdWx0VmFsdWUoJHRoaXMtPmZvbGRlci0+Z2V0RG9jdW1lbnRQcm9jZXNzVHlwZSgpLT5nZXRJZCgpKTsKCQl9IGVsc2UgewoJCQkkZm9ybVsncHJvY2Vzc1R5cGUnXS0+c2V0QXR0cmlidXRlKCdkYXRhLXByb3ZpZGUnLCAnc2VsZWN0LXN1Ym1pdCcpOwoJCX0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCWlmICgkdmFkZGx1ZXNbJ3Njb3BlT2ZWYWxpZGl0eSddID09PSBTYydsb2NhbCcpIHsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">LyoKCQlpZiAoJHZhbHVlc1sncHJvY2Vzc1R5cGUnXSAhPT0gbnVsbCAmJiAkdmFsdWVzWydzY29wZU9mVmFsaWRpdHknXSA9PT0gJ2xvY2FsJykgewoJCQkkcHJvY2Vzc1R5cGUgPSAkdGhpcy0+ZW0tPmZpbmQoUHJvY2Vzc1R5cGU6OmNsYXNzLCAkdmFsdWVzWydwcm9jZXNzVHlwZSddKTsKCgkJCSRkYXRhLT5zZXRJdGVtcygkdGhpcy0+ZW0tPmdldFJlcG9zaXRvcnkoRGVwYXJ0bWVudDo6Y2xhc3MpCgkJCQktPmZpbmRQYWlycyhbJ3Byb2Nlc3NUeXBlJyA9PiAkcHJvY2Vzc1R5cGVdLCAnbmFtZScsIFsnbmFtZScgPT4gJ0FTQyddKSk7CgkJfQoJCSov</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQkJLy9pZiAoJHZhbHVlcy0+KSkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlpZiAoJHRoaXMtPmZvbGRlci0+Z2V0RG9jdW1lbnRUeXBlKCkgPT09IG51bGwpIHsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0icm93Ij4KCQkJPGRpdiBjbGFzcz0iY29sLW1kLTEyIj4KCQkJCXtwYWlyIGRlcGFydG1lbnR9CgkJCTwvZGl2PgoJCTwvZGl2Pg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>{ifset $form['processType']}
+			{pair processType}
+		{/ifset}
+
+		{ifset $form['scopeOfValidity']}
+			{pair scopeOfValidity}
+		{/ifset}
+
+		{ifset $form['type']}
+			{pair type}
+		{/ifset}
+
+		{ifset $form['department']}
+			{pair department}
+		{/ifset}</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkkdGhpcy0+ZW0tPnBlcnNpc3QoJHRoaXMtPmZvbGRlciktPmZsdXNoKCk7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGZvcm1TdWNjZWVkZWQoRm9ybSAkZm9ybSwgJHZhbHVlcyk6IHZvaWQKCXsKCQkkdGhpcy0+Zmxhc2hNZXNzYWdlKCdabcSbbnkgYnlseSDDunNwxJvFoW7EmyB1bG/FvmVueS4nLCAnc3VjY2VzcycpOwoKCQkkdGhpcy0+cmVkcmF3Q29udHJvbCgpOwoJCSR0aGlzLT5vblNhdmUoJHRoaXMtPmZvbGRlcik7Cgl9</text>
       </register>
       <register name=":" type="4">
         <text>719</text>
