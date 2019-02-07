@@ -1160,10 +1160,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/TopicSelectorForm/TopicSelectorForm.php" timestamp="1549544399990">
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/TopicSelectorForm/TopicSelectorForm.php" timestamp="1549549132208">
+        <mark key="[" line="171" column="12" />
+        <mark key="]" line="171" column="12" />
+        <mark key="." line="171" column="12" />
       </file>
       <file name="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/Controls/ToMany.php" timestamp="1502467453007">
         <mark key="[" line="51" column="75" />
@@ -4499,11 +4499,12 @@
         <mark key="]" line="26" column="32" />
         <mark key="." line="26" column="32" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1549531608606">
-        <mark key="'" line="126" column="32" />
-        <mark key="[" line="450" column="0" />
-        <mark key="]" line="450" column="0" />
-        <mark key="." line="450" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1549547243601">
+        <mark key="'" line="456" column="15" />
+        <mark key="[" line="468" column="65" />
+        <mark key="]" line="468" column="65" />
+        <mark key="." line="468" column="65" />
+        <mark key="^" line="268" column="81" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/FilesUploadForm/FilesUploadForm.php" timestamp="1548940905089">
         <mark key="[" line="28" column="36" />
@@ -4817,6 +4818,12 @@
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" timestamp="1549548362207">
+        <mark key="'" line="91" column="20" />
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="150" column="0" />
+        <mark key="." line="150" column="0" />
+      </file>
       <file name="/home/www/html/nnb/nezadouci-udalosti/app/Components/Modals/ViewModal.php" timestamp="1482399971117">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -5128,6 +5135,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/DocumentTopic.php" timestamp="1549546483017">
+        <mark key="[" line="42" column="22" />
+        <mark key="]" line="42" column="12" />
+        <mark key="." line="42" column="12" />
+        <mark key="^" line="42" column="12" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Folders/Events/FolderFilesListener.php" timestamp="1484312651708">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
@@ -5220,38 +5233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="63" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
-      <jump line="34" column="33" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
-      <jump line="76" column="37" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
-      <jump line="78" column="26" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
-      <jump line="17" column="56" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
-      <jump line="3" column="43" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
-      <jump line="16" column="41" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" />
-      <jump line="14" column="42" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
-      <jump line="63" column="20" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
-      <jump line="92" column="18" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
-      <jump line="96" column="20" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
-      <jump line="411" column="40" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
-      <jump line="416" column="32" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
-      <jump line="437" column="32" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
-      <jump line="77" column="12" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
-      <jump line="249" column="31" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
-      <jump line="300" column="18" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
-      <jump line="309" column="35" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
-      <jump line="318" column="15" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
-      <jump line="328" column="15" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
-      <jump line="375" column="14" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
-      <jump line="384" column="26" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
-      <jump line="1" column="28" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
-      <jump line="8" column="20" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
-      <jump line="12" column="20" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
-      <jump line="164" column="39" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
-      <jump line="169" column="23" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
-      <jump line="42" column="25" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
-      <jump line="45" column="35" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
-      <jump line="254" column="53" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" />
-      <jump line="188" column="24" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
-      <jump line="319" column="29" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
       <jump line="480" column="28" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
       <jump line="843" column="25" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
       <jump line="19" column="37" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
@@ -5320,56 +5301,90 @@
       <jump line="201" column="6" filename="/home/www/vendor/nette/di/src/DI/ServiceDefinition.php" />
       <jump line="88" column="20" filename="/home/www/vendor/nette/di/src/DI/ServiceDefinition.php" />
       <jump line="61" column="23" filename="/home/www/vendor/nette/di/src/DI/ServiceDefinition.php" />
+      <jump line="253" column="28" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="259" column="9" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="262" column="64" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="450" column="36" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="473" column="36" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="494" column="34" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="513" column="38" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="101" column="9" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
+      <jump line="121" column="20" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
+      <jump line="126" column="53" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
+      <jump line="127" column="32" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
+      <jump line="134" column="20" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
+      <jump line="142" column="56" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
+      <jump line="143" column="61" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
+      <jump line="144" column="50" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
+      <jump line="145" column="56" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
+      <jump line="146" column="32" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
+      <jump line="153" column="20" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
+      <jump line="246" column="20" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
+      <jump line="262" column="20" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
+      <jump line="283" column="20" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
+      <jump line="328" column="20" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
+      <jump line="18" column="7" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
+      <jump line="19" column="7" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
+      <jump line="20" column="7" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
+      <jump line="43" column="20" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
+      <jump line="56" column="20" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
+      <jump line="71" column="20" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
+      <jump line="91" column="20" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
+      <jump line="160" column="37" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="454" column="15" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="456" column="15" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJZHVtCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CSR0eXBlID0gJHRoaXMtPmZvbGRlci0+Z2V0RG9jdW1lbnRUeXBlKCk7CgkJCX0gZWxzZSB7</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT5zZXREaXNhYmxlZCgp</text>
+        <text>Department</text>
       </register>
       <register name="/" type="4">
-        <text>setType</text>
+        <text>Topic</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJZHVtCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CSR0eXBlID0gJHRoaXMtPmZvbGRlci0+Z2V0RG9jdW1lbnRUeXBlKCk7CgkJCX0gZWxzZSB7</text>
       </register>
       <register name="2" type="4">
-        <text>dump($values);
-			exit;</text>
+        <text encoding="base64">aWYgKCFpc3NldCgkdmFsdWVzLT50eXBlKSkgewoJCQkJJHR5cGUgPSAkdGhpcy0+Zm9sZGVyLT5nZXREb2N1bWVudFR5cGUoKTsKCQkJfSBlbHNlIHsKCQkJCS8qKiBAdmFyIFR5cGUgJHR5cGUgKi8KCQkJCSR0eXBlID0gJHRoaXMtPmVtLT5maW5kKFR5cGU6OmNsYXNzLCAkdmFsdWVzLT50eXBlKTsKCQkJfQ==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">aWYgKCgkcHJvY2Vzc1R5cGUgPSAkdGhpcy0+Zm9sZGVyLT5nZXREb2N1bWVudFByb2Nlc3NUeXBlKCkpICE9PSBudWxsKSB7CgoJCQkJJHZhbHVlcy0+cHJvY2Vzc1R5cGUgPSAkcHJvY2Vzc1R5cGUtPmdldElkKCk7CgkJCX0gZWxzZSB7CgkJCQkkZm9ybVsncHJvY2Vzc1R5cGUnXS0+c2V0QXR0cmlidXRlKCdkYXRhLXByb3ZpZGUnLCAnc2VsZWN0LXN1Ym1pdCcpOwoJCQl9</text>
+        <text encoding="base64">JGZvcm1bJ3Njb3BlT2ZWYWxpZGl0eSddLT5zZXRWYWx1ZShTY29wZU9mVmFsaWRpdHk6OkxPQ0FMKQoJCQkJCQktPnNldERpc2FibGVkKCk7</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">JGZvcm1bJ3Byb2Nlc3NUeXBlJ10tPnNldERlZmF1bHRWYWx1ZSgkcHJvY2Vzc1R5cGUtPmdldElkKCkpCgkJCQkJLT5zZXREaXNhYmxlZCgpOw==</text>
+        <text encoding="base64">JGZvcm1bJ3Njb3BlT2ZWYWxpZGl0eSddLT5zZXRWYWx1ZShTY29wZU9mVmFsaWRpdHk6OkdMT0JBTCkKCQkJCQkJLT5zZXREaXNhYmxlZCgpOw==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCWlmICgkdmFsdWVzLT5zY29wZU9mVmFsaWRpdHkgPT09IFNjb3BlT2ZWYWxpZGl0eTo6R0xPQkFMKQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">aWYgKCFpc3NldCgkdmFsdWVzLT50eXBlKSkgewoJCQkJJHR5cGUgPSAkdGhpcy0+Zm9sZGVyLT5nZXREb2N1bWVudFR5cGUoKTsKCQkJfSBlbHNlIHsKCQkJCS8qKiBAdmFyIFR5cGUgJHR5cGUgKi8KCQkJCSR0eXBlID0gJHRoaXMtPmVtLT5maW5kKFR5cGU6OmNsYXNzLCAkdmFsdWVzLT50eXBlKTsKCQkJfQ==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCSRmb3JtWyd0eXBlJ10tPnNldERpc2FibGVkKCk7Cg==</text>
+      <register name="6" type="4">
+        <text>dump('ok');
+			exit;</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5mb2xkZXItPmdldERvY3VtZW50VHlwZSgpICE9PSBudWxsKSB7CgkJCSRmb3JtWyd0eXBlJ10tPnNldERpc2FibGVkKCkKCQkJCS0+c2V0VmFsdWUoJHRoaXMtPmZvbGRlci0+Z2V0RG9jdW1lbnRUeXBlKCktPmdldElkKCkpOwoJCX0gZWxzZSB7CgkJCSRmb3JtWyd0eXBlJ10tPnNldEF0dHJpYnV0ZSgnZGF0YS1wcm92aWRlJywgJ3NlbGVjdC1zdWJtaXQnKTsKCQl9</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJLT5zZXREZWZhdWx0VmFsdWUoU2NvcGVPZlZhbGlkaXR5OjpHTE9CQUwpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5mb2xkZXItPmdldERvY3VtZW50UHJvY2Vzc1R5cGUoKSAhPT0gbnVsbCkgewoJCQkkZm9ybVsncHJvY2Vzc1R5cGUnXS0+c2V0RGlzYWJsZWQoKQoJCQkJLT5zZXREZWZhdWx0VmFsdWUoJHRoaXMtPmZvbGRlci0+Z2V0RG9jdW1lbnRQcm9jZXNzVHlwZSgpLT5nZXRJZCgpKTsKCQl9IGVsc2UgewoJCQkkZm9ybVsncHJvY2Vzc1R5cGUnXS0+c2V0QXR0cmlidXRlKCdkYXRhLXByb3ZpZGUnLCAnc2VsZWN0LXN1Ym1pdCcpOwoJCX0K</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCS8vJHFiLT5hZGRHcm91cEJ5KCdzY29wZU9mVmFsaWRpdHknKTsK</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">LyoKCQlpZiAoJHZhbHVlc1sncHJvY2Vzc1R5cGUnXSAhPT0gbnVsbCAmJiAkdmFsdWVzWydzY29wZU9mVmFsaWRpdHknXSA9PT0gJ2xvY2FsJykgewoJCQkkcHJvY2Vzc1R5cGUgPSAkdGhpcy0+ZW0tPmZpbmQoUHJvY2Vzc1R5cGU6OmNsYXNzLCAkdmFsdWVzWydwcm9jZXNzVHlwZSddKTsKCgkJCSRkYXRhLT5zZXRJdGVtcygkdGhpcy0+ZW0tPmdldFJlcG9zaXRvcnkoRGVwYXJ0bWVudDo6Y2xhc3MpCgkJCQktPmZpbmRQYWlycyhbJ3Byb2Nlc3NUeXBlJyA9PiAkcHJvY2Vzc1R5cGVdLCAnbmFtZScsIFsnbmFtZScgPT4gJ0FTQyddKSk7CgkJfQoJCSov</text>
+        <text>if ($department !== null) {
+
+			}</text>
       </register>
       <register name=":" type="4">
         <text>719</text>
       </register>
     </registers>
     <search>
-      <last-search>setType</last-search>
+      <last-search>Topic</last-search>
       <last-offset />
-      <last-pattern>setType</last-pattern>
+      <last-pattern>Topic</last-pattern>
       <last-replace>selectedDocument</last-replace>
       <last-substitute>editDocument</last-substitute>
       <last-dir>1</last-dir>
@@ -5377,9 +5392,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setItems</entry>
-        <entry>itemsCallback</entry>
-        <entry>isPrefered</entry>
         <entry>check</entry>
         <entry>move</entry>
         <entry>selectedFolder</entry>
@@ -5397,6 +5409,9 @@
         <entry>ChangeFolder</entry>
         <entry>handle</entry>
         <entry>setType</entry>
+        <entry>paginator</entry>
+        <entry>by</entry>
+        <entry>Topic</entry>
       </history-search>
       <history-cmd>
         <entry>%s/NULL/null/g</entry>
