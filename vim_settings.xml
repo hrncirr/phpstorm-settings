@@ -1662,12 +1662,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" timestamp="1549461624475">
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" timestamp="1549617619793">
         <mark key="'" line="44" column="25" />
-        <mark key="[" line="141" column="32" />
-        <mark key="]" line="41" column="74" />
-        <mark key="." line="41" column="74" />
-        <mark key="^" line="152" column="54" />
+        <mark key="[" line="94" column="4" />
+        <mark key="]" line="94" column="4" />
+        <mark key="." line="94" column="4" />
+        <mark key="^" line="155" column="54" />
       </file>
       <file name="/home/www/html/dv/cms/src/Users/Resource.php" timestamp="1497013825055">
         <mark key="[" line="5" column="0" />
@@ -1802,11 +1802,11 @@
         <mark key="]" line="62" column="33" />
         <mark key="." line="62" column="33" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" timestamp="1549531994616">
-        <mark key="'" line="52" column="91" />
-        <mark key="[" line="24" column="82" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" timestamp="1549617507877">
+        <mark key="'" line="53" column="91" />
+        <mark key="[" line="64" column="26" />
+        <mark key="]" line="24" column="19" />
+        <mark key="." line="24" column="19" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/DI/config.neon" timestamp="1549531335372">
         <mark key="[" line="17" column="0" />
@@ -3828,8 +3828,8 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1549455223264">
-        <mark key="'" line="43" column="19" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1549617336065">
+        <mark key="'" line="824" column="26" />
         <mark key="[" line="847" column="47" />
         <mark key="]" line="53" column="34" />
         <mark key="." line="53" column="34" />
@@ -5242,7 +5242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="480" column="28" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
       <jump line="843" column="25" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
       <jump line="19" column="37" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
       <jump line="240" column="0" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
@@ -5342,58 +5341,57 @@
       <jump line="160" column="37" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="454" column="15" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="456" column="15" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="824" column="26" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CSR0eXBlID0gJHRoaXMtPmZvbGRlci0+Z2V0RG9jdW1lbnRUeXBlKCk7CgkJCX0gZWxzZSB7</text>
+        <text encoding="base64">PHRkPgoKCTwvdGQ+</text>
       </register>
       <register name="-" type="4">
-        <text>Department</text>
+        <text encoding="base64">XGNvdW50KCRkb2N1bWVudHMpICYm</text>
       </register>
       <register name="/" type="4">
-        <text>Topic</text>
+        <text>getValid</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CSR0eXBlID0gJHRoaXMtPmZvbGRlci0+Z2V0RG9jdW1lbnRUeXBlKCk7CgkJCX0gZWxzZSB7</text>
+        <text encoding="base64">PHRkPgoKCTwvdGQ+</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">aWYgKCFpc3NldCgkdmFsdWVzLT50eXBlKSkgewoJCQkJJHR5cGUgPSAkdGhpcy0+Zm9sZGVyLT5nZXREb2N1bWVudFR5cGUoKTsKCQkJfSBlbHNlIHsKCQkJCS8qKiBAdmFyIFR5cGUgJHR5cGUgKi8KCQkJCSR0eXBlID0gJHRoaXMtPmVtLT5maW5kKFR5cGU6OmNsYXNzLCAkdmFsdWVzLT50eXBlKTsKCQkJfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">CXsvaWZ9Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">JGZvcm1bJ3Njb3BlT2ZWYWxpZGl0eSddLT5zZXRWYWx1ZShTY29wZU9mVmFsaWRpdHk6OkxPQ0FMKQoJCQkJCQktPnNldERpc2FibGVkKCk7</text>
+        <text encoding="base64">CSR0eXBlID0gJHRoaXMtPmZvbGRlci0+Z2V0RG9jdW1lbnRUeXBlKCk7CgkJCX0gZWxzZSB7</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">JGZvcm1bJ3Njb3BlT2ZWYWxpZGl0eSddLT5zZXRWYWx1ZShTY29wZU9mVmFsaWRpdHk6OkdMT0JBTCkKCQkJCQkJLT5zZXREaXNhYmxlZCgpOw==</text>
-      </register>
-      <register name="5" type="4">
         <text encoding="base64">aWYgKCFpc3NldCgkdmFsdWVzLT50eXBlKSkgewoJCQkJJHR5cGUgPSAkdGhpcy0+Zm9sZGVyLT5nZXREb2N1bWVudFR5cGUoKTsKCQkJfSBlbHNlIHsKCQkJCS8qKiBAdmFyIFR5cGUgJHR5cGUgKi8KCQkJCSR0eXBlID0gJHRoaXMtPmVtLT5maW5kKFR5cGU6OmNsYXNzLCAkdmFsdWVzLT50eXBlKTsKCQkJfQ==</text>
       </register>
+      <register name="5" type="4">
+        <text encoding="base64">JGZvcm1bJ3Njb3BlT2ZWYWxpZGl0eSddLT5zZXRWYWx1ZShTY29wZU9mVmFsaWRpdHk6OkxPQ0FMKQoJCQkJCQktPnNldERpc2FibGVkKCk7</text>
+      </register>
       <register name="6" type="4">
+        <text encoding="base64">JGZvcm1bJ3Njb3BlT2ZWYWxpZGl0eSddLT5zZXRWYWx1ZShTY29wZU9mVmFsaWRpdHk6OkdMT0JBTCkKCQkJCQkJLT5zZXREaXNhYmxlZCgpOw==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">aWYgKCFpc3NldCgkdmFsdWVzLT50eXBlKSkgewoJCQkJJHR5cGUgPSAkdGhpcy0+Zm9sZGVyLT5nZXREb2N1bWVudFR5cGUoKTsKCQkJfSBlbHNlIHsKCQkJCS8qKiBAdmFyIFR5cGUgJHR5cGUgKi8KCQkJCSR0eXBlID0gJHRoaXMtPmVtLT5maW5kKFR5cGU6OmNsYXNzLCAkdmFsdWVzLT50eXBlKTsKCQkJfQ==</text>
+      </register>
+      <register name="8" type="4">
         <text>dump('ok');
 			exit;</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQkJLT5zZXREZWZhdWx0VmFsdWUoU2NvcGVPZlZhbGlkaXR5OjpHTE9CQUwpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCS8vJHFiLT5hZGRHcm91cEJ5KCdzY29wZU9mVmFsaWRpdHknKTsK</text>
-      </register>
-      <register name="9" type="4">
-        <text>if ($department !== null) {
-
-			}</text>
       </register>
       <register name=":" type="4">
         <text>719</text>
       </register>
     </registers>
     <search>
-      <last-search>Topic</last-search>
+      <last-search>getValid</last-search>
       <last-offset />
-      <last-pattern>Topic</last-pattern>
+      <last-pattern>getValid</last-pattern>
       <last-replace>selectedDocument</last-replace>
       <last-substitute>editDocument</last-substitute>
       <last-dir>1</last-dir>
@@ -5401,7 +5399,6 @@
     </search>
     <history>
       <history-search>
-        <entry>check</entry>
         <entry>move</entry>
         <entry>selectedFolder</entry>
         <entry>selected</entry>
@@ -5421,6 +5418,7 @@
         <entry>paginator</entry>
         <entry>by</entry>
         <entry>Topic</entry>
+        <entry>getValid</entry>
       </history-search>
       <history-cmd>
         <entry>%s/NULL/null/g</entry>
