@@ -2795,10 +2795,10 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Install/Console/Commands/InstallCommand.php" timestamp="1549880005384">
-        <mark key="[" line="156" column="35" />
-        <mark key="]" line="186" column="1" />
-        <mark key="." line="186" column="1" />
+      <file name="/home/www/html/nnb/dms/src/Install/Console/Commands/InstallCommand.php" timestamp="1549881109719">
+        <mark key="[" line="191" column="27" />
+        <mark key="]" line="191" column="27" />
+        <mark key="." line="191" column="27" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/templates/naturalPerson.latte" timestamp="1547213305943">
         <mark key="[" line="5" column="5" />
@@ -5363,11 +5363,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Směrnice
- Provozní řády</text>
+        <text encoding="base64">WycwMSAtIMWYw616ZW7DrSBuZW1vY25pY2UnLCAnMDIgLSBMw6nEjWVibsO9IGEgb8WhZXTFmW92YXRlbHNrw70gcHJvY2VzJywKCQkJICAgICAgICAgJzAzIC0gWmFtxJtzdG5hbmVja8O9IChwZXJzb27DoWxuw60pIHByb2NlcycsICcwNCAtIEVrb25vbWlja8O9IGEgb2JjaG9kbsOtIHByb2NlcycsCgkJCSAgICAgICAgICcwNSAtIFRlY2huaWNrw70gcHJvY2VzcycsICcwNiAtIFbEm2RhLCB2w716a3VtLCBncmFudHksIHByb2pla3RvdsOpIMWZw616ZW7DrSddIA==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>'EX',</text>
       </register>
       <register name="/" type="4">
         <text>documents</text>
@@ -5376,32 +5375,32 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">WycwMSAtIMWYw616ZW7DrSBuZW1vY25pY2UnLCAnMDIgLSBMw6nEjWVibsO9IGEgb8WhZXTFmW92YXRlbHNrw70gcHJvY2VzJywKCQkJICAgICAgICAgJzAzIC0gWmFtxJtzdG5hbmVja8O9IChwZXJzb27DoWxuw60pIHByb2NlcycsICcwNCAtIEVrb25vbWlja8O9IGEgb2JjaG9kbsOtIHByb2NlcycsCgkJCSAgICAgICAgICcwNSAtIFRlY2huaWNrw70gcHJvY2VzcycsICcwNiAtIFbEm2RhLCB2w716a3VtLCBncmFudHksIHByb2pla3RvdsOpIMWZw616ZW7DrSddIA==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJJHR5cGUtPnNldFVzZURlcGFydG1lbnRTaG9ydGN1dCgkYXR0clszXSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkkdHlwZXMgPSBbXTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJLyoqICAqLwo=</text>
+      </register>
+      <register name="5" type="4">
         <text>Směrnice
  Provozní řády</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IDAyIC0gTMOpxI1lYm7DvSBhIG/FoWV0xZlvdmF0ZWxza8O9IHByb2NlcwogMDMgLSBaYW3Em3N0bmFuZWNrw70gKHBlcnNvbsOhbG7DrSkgcHJvY2VzCiAwNCAtIEVrb25vbWlja8O9IGEgb2JjaG9kbsOtIHByb2NlcwogMDUgLSBUZWNobmlja8O9IHByb2NlcwogMDYgLSBWxJtkYSwgdsO9emt1bSwgZ3JhbnR5LCBwcm9qZWt0b3bDqSDFmcOtemVuw60=</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJLyoqICAqLwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJJHBhcnRzW10gPSAkdG9waWMtPmdldERlcGFydG1lbnQoKS0+Z2V0U2hvcnRjdXQoKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">JHRvcGljID0gJGRvY3VtZW50LT5nZXREb2N1bWVudFRvcGljKCk7CgoJCSRwYXJ0c1tdID0gJHRvcGljLT5nZXRQcm9jZXNzVHlwZSgpLT5nZXROdW1iZXIoKTsKCQkkcGFydHNbXSA9ICR0b3BpYy0+Z2V0VHlwZSgpLT5nZXRTaG9ydGN1dCgpOwoKCQlpZiAoJHRvcGljLT5nZXRUeXBlKCktPmlzVXNlRGVwYXJ0bWVudFNob3J0Y3V0KCkpIHsKCQkJJHBhcnRzW10gPSAkdG9waWMtPmdldERlcGFydG1lbnQoKS0+Z2V0U2hvcnRjdXQoKTsKCQl9CgoJCSRwYXJ0c1tdID0gc3ByaW50ZignJTAnIC4gc2VsZjo6WkVST19QQURfTEVOIC4gJ3MnLCAkZG9jdW1lbnQtPmdldE51bWJlcigpKTsKCgkJJGRvY3VtZW50LT5zZXROdW1iZXIoaW1wbG9kZShzZWxmOjpTRVBBUkFUT1IsICRwYXJ0cykpOw==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">JHRvcGljID0gJGRvY3VtZW50LT5nZXREb2N1bWVudFRvcGljKCk7CgoJCSRwYXJ0c1tdID0gJHRvcGljLT5nZXRQcm9jZXNzVHlwZSgpLT5nZXROdW1iZXIoKTsKCQkkcGFydHNbXSA9ICR0b3BpYy0+Z2V0VHlwZSgpLT5nZXRTaG9ydGN1dCgpOwoKCQlpZiAoJHRvcGljLT5nZXRUeXBlKCktPmlzVXNlRGVwYXJ0bWVudFNob3J0Y3V0KCkpIHsKCQkJJHBhcnRzW10gPSAkdG9waWMtPmdldERlcGFydG1lbnQoKS0+Z2V0U2hvcnRjdXQoKTsKCQl9CgoJCSRwYXJ0c1tdID0gc3ByaW50ZignJTAnIC4gc2VsZjo6WkVST19QQURfTEVOIC4gJ3MnLCAkZG9jdW1lbnQtPmdldE51bWJlcigpKTsKCgkJJGRvY3VtZW50LT5zZXROdW1iZXIoaW1wbG9kZShzZWxmOjpTRVBBUkFUT1IsICRwYXJ0cykpOw==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkkZW0gPSAkYXJncy0+Z2V0RW50aXR5TWFuYWdlcigpOwo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">JHByZWZpeCAuIChuZXcgRGF0ZVRpbWUoKSktPmZvcm1hdCgneW1kJykgLiBzcHJpbnRmKCclMCcgLgoJCQkJc2VsZjo6WkVST19QQURfTEVOIC4gJ3MnLCAkbGFzdE51bWJlciA/PyAxKQ==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">aWYgKCRsYXN0RG9jdW1lbnQgIT09IG51bGwpIHsKCQkJJGxhc3ROdW1iZXIgPSAoaW50KSBTdHJpbmdzOjptYXRjaCgkbGFzdERvY3VtZW50LT5nZXROdW1iZXIoKSwgJ35eJyAuIHByZWdfcXVvdGUoJHByZWZpeCwgJ34nKQoJCQkJCS4gJ1xkezZ9KFxkKykkficpWzFdICsgMTsKCQl9</text>
+        <text encoding="base64">JHRvcGljID0gJGRvY3VtZW50LT5nZXREb2N1bWVudFRvcGljKCk7CgoJCSRwYXJ0c1tdID0gJHRvcGljLT5nZXRQcm9jZXNzVHlwZSgpLT5nZXROdW1iZXIoKTsKCQkkcGFydHNbXSA9ICR0b3BpYy0+Z2V0VHlwZSgpLT5nZXRTaG9ydGN1dCgpOwoKCQlpZiAoJHRvcGljLT5nZXRUeXBlKCktPmlzVXNlRGVwYXJ0bWVudFNob3J0Y3V0KCkpIHsKCQkJJHBhcnRzW10gPSAkdG9waWMtPmdldERlcGFydG1lbnQoKS0+Z2V0U2hvcnRjdXQoKTsKCQl9CgoJCSRwYXJ0c1tdID0gc3ByaW50ZignJTAnIC4gc2VsZjo6WkVST19QQURfTEVOIC4gJ3MnLCAkZG9jdW1lbnQtPmdldE51bWJlcigpKTsKCgkJJGRvY3VtZW50LT5zZXROdW1iZXIoaW1wbG9kZShzZWxmOjpTRVBBUkFUT1IsICRwYXJ0cykpOw==</text>
       </register>
       <register name=":" type="4">
         <text>719</text>
