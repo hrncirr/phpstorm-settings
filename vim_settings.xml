@@ -1167,10 +1167,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/TopicSelectorForm/TopicSelectorForm.php" timestamp="1549636566607">
-        <mark key="[" line="149" column="46" />
-        <mark key="]" line="149" column="46" />
-        <mark key="." line="149" column="46" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/TopicSelectorForm/TopicSelectorForm.php" timestamp="1549899158563">
+        <mark key="[" line="189" column="0" />
+        <mark key="]" line="189" column="0" />
+        <mark key="." line="189" column="0" />
       </file>
       <file name="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/Controls/ToMany.php" timestamp="1502467453007">
         <mark key="[" line="51" column="75" />
@@ -4532,6 +4532,12 @@
         <mark key="]" line="26" column="32" />
         <mark key="." line="26" column="32" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1549900282501">
+        <mark key="'" line="381" column="15" />
+        <mark key="[" line="281" column="0" />
+        <mark key="]" line="281" column="0" />
+        <mark key="." line="281" column="0" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/FilesUploadForm/FilesUploadForm.php" timestamp="1548940905089">
         <mark key="[" line="28" column="36" />
         <mark key="]" line="118" column="22" />
@@ -4849,6 +4855,13 @@
         <mark key="[" line="129" column="0" />
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" timestamp="1549899689067">
+        <mark key="'" line="91" column="20" />
+        <mark key="[" line="382" column="18" />
+        <mark key="]" line="379" column="45" />
+        <mark key="." line="379" column="45" />
+        <mark key="^" line="379" column="45" />
       </file>
       <file name="/home/www/html/nnb/nezadouci-udalosti/app/Components/Modals/ViewModal.php" timestamp="1482399971117">
         <mark key="[" line="36" column="0" />
@@ -5260,8 +5273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="731" column="4" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
-      <jump line="746" column="27" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
       <jump line="748" column="23" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
       <jump line="42" column="15" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
       <jump line="86" column="16" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
@@ -5360,60 +5371,59 @@
       <jump line="455" column="23" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
       <jump line="458" column="27" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
       <jump line="459" column="27" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
+      <jump line="266" column="41" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="382" column="15" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJJHR5cGVzWyRpXS0+c2V0VXNlRGVwYXJ0bWVudFNob3J0Y3V0KCRhdHRyWzFdKTsK</text>
+        <text encoding="base64">CQkJCQkJLT51c2VEb2N1bWVudEZvbGRlcnMoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PT4gJHRpdGxl</text>
+        <text>//</text>
       </register>
       <register name="/" type="4">
-        <text>documentTopic</text>
+        <text>Topic</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJJHR5cGVzWyRpXS0+c2V0VXNlRGVwYXJ0bWVudFNob3J0Y3V0KCRhdHRyWzFdKTsK</text>
+        <text encoding="base64">CQkJCQkJLT51c2VEb2N1bWVudEZvbGRlcnMoKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIGJvb2wKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGlzVXNlRGVwYXJ0bWVudFNob3J0Y3V0KCk6IGJvb2wKCXsKCQlyZXR1cm4gJHRoaXMtPnVzZURlcGFydG1lbnRTaG9ydGN1dDsKCX0KCgoJLyoqCgkgKiBAcGFyYW0gYm9vbCAkdXNlRGVwYXJ0bWVudFNob3J0Y3V0CgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRVc2VEZXBhcnRtZW50U2hvcnRjdXQoYm9vbCAkdXNlRGVwYXJ0bWVudFNob3J0Y3V0KTogdm9pZAoJewoJCSR0aGlzLT51c2VEZXBhcnRtZW50U2hvcnRjdXQgPSAkdXNlRGVwYXJ0bWVudFNob3J0Y3V0OwoJfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJLy8kdGhpcy0+cmVkcmF3Q29udHJvbCgncGFnaW5hdG9yJyk7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>/**
-	 * @ORM\Column(type=&quot;boolean&quot;, nullable=false)
-	 * @var bool
-	 */
-	private $useDepartmentShortcut = false;</text>
+        <text>dump('nene');
+				exit;</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">aWYgKCR0b3BpYy0+Z2V0VHlwZSgpLT5pc1VzZURlcGFydG1lbnRTaG9ydGN1dCgpKSB7CgkJCSRwYXJ0c1tdID0gJHRvcGljLT5nZXREZXBhcnRtZW50KCktPmdldFNob3J0Y3V0KCk7CgkJfQ==</text>
+        <text>dump('ok');
+				exit;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJZHVtcCgnb2snKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJZXhpdDsK</text>
+        <text encoding="base64">CQkJZHVtcCgkdHlwZSk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>dump($values['scopeOfValidity']);
-					exit;</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJZXhpdDtkZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJJGkrKzsK</text>
+        <text encoding="base64">CQkJJHR5cGVzWyRpXS0+c2V0VXNlRGVwYXJ0bWVudFNob3J0Y3V0KCRhdHRyWzFdKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkvKiogQHZhciAgJHByb2Nlc3NOdW1iZXIgKi8K</text>
+      <register name="9" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIGJvb2wKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGlzVXNlRGVwYXJ0bWVudFNob3J0Y3V0KCk6IGJvb2wKCXsKCQlyZXR1cm4gJHRoaXMtPnVzZURlcGFydG1lbnRTaG9ydGN1dDsKCX0KCgoJLyoqCgkgKiBAcGFyYW0gYm9vbCAkdXNlRGVwYXJ0bWVudFNob3J0Y3V0CgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRVc2VEZXBhcnRtZW50U2hvcnRjdXQoYm9vbCAkdXNlRGVwYXJ0bWVudFNob3J0Y3V0KTogdm9pZAoJewoJCSR0aGlzLT51c2VEZXBhcnRtZW50U2hvcnRjdXQgPSAkdXNlRGVwYXJ0bWVudFNob3J0Y3V0OwoJfQ==</text>
       </register>
       <register name=":" type="4">
         <text>211</text>
       </register>
     </registers>
     <search>
-      <last-search>documentTopic</last-search>
+      <last-search>Topic</last-search>
       <last-offset />
-      <last-pattern>documentTopic</last-pattern>
+      <last-pattern>Topic</last-pattern>
       <last-replace>selectedDocument</last-replace>
       <last-substitute>editDocument</last-substitute>
       <last-dir>1</last-dir>
@@ -5421,8 +5431,6 @@
     </search>
     <history>
       <history-search>
-        <entry>type</entry>
-        <entry>Type</entry>
         <entry>onSelect</entry>
         <entry>undo</entry>
         <entry>onChangeFolder</entry>
@@ -5439,8 +5447,10 @@
         <entry>dump</entry>
         <entry>tags</entry>
         <entry>getTopic()</entry>
-        <entry>Topic</entry>
         <entry>documentTopic</entry>
+        <entry>byFolder</entry>
+        <entry>useDocumentsFolders</entry>
+        <entry>Topic</entry>
       </history-search>
       <history-cmd>
         <entry>336</entry>
