@@ -815,8 +815,9 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Users/User.php" timestamp="1549893942310">
-        <mark key="[" line="19" column="20" />
+      <file name="/home/www/html/nnb/dms/src/Users/User.php" timestamp="1549902843468">
+        <mark key="'" line="40" column="18" />
+        <mark key="[" line="84" column="30" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Pages/AdminModule/Components/VersionsControlFactory.php" timestamp="1497015261995">
         <mark key="[" line="8" column="0" />
@@ -4176,8 +4177,8 @@
         <mark key="]" line="50" column="12" />
         <mark key="." line="50" column="12" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Search/resources/file.type.neon" timestamp="1493374485410">
-        <mark key="[" line="14" column="19" />
+      <file name="/home/www/html/nnb/dms/src/Search/resources/file.type.neon" timestamp="1549903360276">
+        <mark key="[" line="0" column="9" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
@@ -5273,7 +5274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="748" column="23" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
       <jump line="42" column="15" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
       <jump line="86" column="16" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
       <jump line="536" column="50" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
@@ -5373,6 +5373,7 @@
       <jump line="459" column="27" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
       <jump line="266" column="41" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="382" column="15" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="40" column="18" filename="/home/www/html/nnb/dms/src/Users/User.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -5382,7 +5383,7 @@
         <text>//</text>
       </register>
       <register name="/" type="4">
-        <text>Topic</text>
+        <text>getOsc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
@@ -5421,9 +5422,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Topic</last-search>
+      <last-search>getOsc</last-search>
       <last-offset />
-      <last-pattern>Topic</last-pattern>
+      <last-pattern>getOsc</last-pattern>
       <last-replace>selectedDocument</last-replace>
       <last-substitute>editDocument</last-substitute>
       <last-dir>1</last-dir>
@@ -5431,7 +5432,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onSelect</entry>
         <entry>undo</entry>
         <entry>onChangeFolder</entry>
         <entry>onChange</entry>
@@ -5451,6 +5451,7 @@
         <entry>byFolder</entry>
         <entry>useDocumentsFolders</entry>
         <entry>Topic</entry>
+        <entry>getOsc</entry>
       </history-search>
       <history-cmd>
         <entry>336</entry>
