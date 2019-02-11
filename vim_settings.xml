@@ -1399,12 +1399,12 @@
         <mark key="]" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1549637596806">
-        <mark key="'" line="58" column="16" />
-        <mark key="[" line="333" column="18" />
-        <mark key="]" line="320" column="24" />
-        <mark key="." line="320" column="24" />
-        <mark key="^" line="320" column="24" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1549891257991">
+        <mark key="'" line="115" column="42" />
+        <mark key="[" line="435" column="16" />
+        <mark key="]" line="115" column="42" />
+        <mark key="." line="115" column="42" />
+        <mark key="^" line="115" column="42" />
       </file>
       <file name="/home/www/vendor/hrncirr/jstree/src/DI/DoctrineDataSource.php" timestamp="1479301570985">
         <mark key="[" line="13" column="0" />
@@ -2795,10 +2795,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Install/Console/Commands/InstallCommand.php" timestamp="1549881109719">
-        <mark key="[" line="191" column="27" />
-        <mark key="]" line="191" column="27" />
-        <mark key="." line="191" column="27" />
+      <file name="/home/www/html/nnb/dms/src/Install/Console/Commands/InstallCommand.php" timestamp="1549891656014">
+        <mark key="[" line="192" column="51" />
+        <mark key="]" line="191" column="50" />
+        <mark key="." line="191" column="50" />
+        <mark key="^" line="192" column="24" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/templates/naturalPerson.latte" timestamp="1547213305943">
         <mark key="[" line="5" column="5" />
@@ -4335,8 +4336,8 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Folders/SortType.php" timestamp="1544181563867">
-        <mark key="[" line="11" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Folders/SortType.php" timestamp="1549888889716">
+        <mark key="[" line="85" column="36" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
@@ -5260,7 +5261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="37" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
       <jump line="240" column="0" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
       <jump line="82" column="0" filename="/home/www/html/dv/adera/app/config/extensions/header.neon" />
       <jump line="99" column="0" filename="/home/www/html/dv/adera/libs/vendor/hrncirr/forms-tags-input/src/Controls/TagsInput.php" />
@@ -5360,56 +5360,57 @@
       <jump line="456" column="15" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="824" column="26" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
       <jump line="91" column="41" filename="/home/www/html/nnb/nezadouci-udalosti/app/Components/IncidentViewer.php" />
+      <jump line="115" column="42" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">WycwMSAtIMWYw616ZW7DrSBuZW1vY25pY2UnLCAnMDIgLSBMw6nEjWVibsO9IGEgb8WhZXTFmW92YXRlbHNrw70gcHJvY2VzJywKCQkJICAgICAgICAgJzAzIC0gWmFtxJtzdG5hbmVja8O9IChwZXJzb27DoWxuw60pIHByb2NlcycsICcwNCAtIEVrb25vbWlja8O9IGEgb2JjaG9kbsOtIHByb2NlcycsCgkJCSAgICAgICAgICcwNSAtIFRlY2huaWNrw70gcHJvY2VzcycsICcwNiAtIFbEm2RhLCB2w716a3VtLCBncmFudHksIHByb2pla3RvdsOpIMWZw616ZW7DrSddIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQkJZHVtcCgnb2snKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>'EX',</text>
+        <text encoding="base64">PT4gJHRpdGxl</text>
       </register>
       <register name="/" type="4">
-        <text>documents</text>
+        <text>dump</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">WycwMSAtIMWYw616ZW7DrSBuZW1vY25pY2UnLCAnMDIgLSBMw6nEjWVibsO9IGEgb8WhZXTFmW92YXRlbHNrw70gcHJvY2VzJywKCQkJICAgICAgICAgJzAzIC0gWmFtxJtzdG5hbmVja8O9IChwZXJzb27DoWxuw60pIHByb2NlcycsICcwNCAtIEVrb25vbWlja8O9IGEgb2JjaG9kbsOtIHByb2NlcycsCgkJCSAgICAgICAgICcwNSAtIFRlY2huaWNrw70gcHJvY2VzcycsICcwNiAtIFbEm2RhLCB2w716a3VtLCBncmFudHksIHByb2pla3RvdsOpIMWZw616ZW7DrSddIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCQkJZHVtcCgnb2snKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJJHR5cGUtPnNldFVzZURlcGFydG1lbnRTaG9ydGN1dCgkYXR0clszXSk7Cg==</text>
+        <text encoding="base64">CQkJCQkJZXhpdDsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkkdHlwZXMgPSBbXTsK</text>
+      <register name="3" type="4">
+        <text>dump($values['scopeOfValidity']);
+					exit;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJLyoqICAqLwo=</text>
+        <text encoding="base64">CQkJJGkrKzsK</text>
       </register>
-      <register name="5" type="4">
-        <text>Směrnice
- Provozní řády</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkvKiogQHZhciAgJHByb2Nlc3NOdW1iZXIgKi8K</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IDAyIC0gTMOpxI1lYm7DvSBhIG/FoWV0xZlvdmF0ZWxza8O9IHByb2NlcwogMDMgLSBaYW3Em3N0bmFuZWNrw70gKHBlcnNvbsOhbG7DrSkgcHJvY2VzCiAwNCAtIEVrb25vbWlja8O9IGEgb2JjaG9kbsOtIHByb2NlcwogMDUgLSBUZWNobmlja8O9IHByb2NlcwogMDYgLSBWxJtkYSwgdsO9emt1bSwgZ3JhbnR5LCBwcm9qZWt0b3bDqSDFmcOtemVuw60=</text>
+        <text encoding="base64">WycwMSAtIMWYw616ZW7DrSBuZW1vY25pY2UnLCAnMDIgLSBMw6nEjWVibsO9IGEgb8WhZXTFmW92YXRlbHNrw70gcHJvY2VzJywKCQkJICAgICAgICAgJzAzIC0gWmFtxJtzdG5hbmVja8O9IChwZXJzb27DoWxuw60pIHByb2NlcycsICcwNCAtIEVrb25vbWlja8O9IGEgb2JjaG9kbsOtIHByb2NlcycsCgkJCSAgICAgICAgICcwNSAtIFRlY2huaWNrw70gcHJvY2VzcycsICcwNiAtIFbEm2RhLCB2w716a3VtLCBncmFudHksIHByb2pla3RvdsOpIMWZw616ZW7DrSddIA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJLyoqICAqLwo=</text>
+        <text encoding="base64">CQkJJHR5cGUtPnNldFVzZURlcGFydG1lbnRTaG9ydGN1dCgkYXR0clszXSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJJHBhcnRzW10gPSAkdG9waWMtPmdldERlcGFydG1lbnQoKS0+Z2V0U2hvcnRjdXQoKTsK</text>
+        <text encoding="base64">CQkkdHlwZXMgPSBbXTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">JHRvcGljID0gJGRvY3VtZW50LT5nZXREb2N1bWVudFRvcGljKCk7CgoJCSRwYXJ0c1tdID0gJHRvcGljLT5nZXRQcm9jZXNzVHlwZSgpLT5nZXROdW1iZXIoKTsKCQkkcGFydHNbXSA9ICR0b3BpYy0+Z2V0VHlwZSgpLT5nZXRTaG9ydGN1dCgpOwoKCQlpZiAoJHRvcGljLT5nZXRUeXBlKCktPmlzVXNlRGVwYXJ0bWVudFNob3J0Y3V0KCkpIHsKCQkJJHBhcnRzW10gPSAkdG9waWMtPmdldERlcGFydG1lbnQoKS0+Z2V0U2hvcnRjdXQoKTsKCQl9CgoJCSRwYXJ0c1tdID0gc3ByaW50ZignJTAnIC4gc2VsZjo6WkVST19QQURfTEVOIC4gJ3MnLCAkZG9jdW1lbnQtPmdldE51bWJlcigpKTsKCgkJJGRvY3VtZW50LT5zZXROdW1iZXIoaW1wbG9kZShzZWxmOjpTRVBBUkFUT1IsICRwYXJ0cykpOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJLyoqICAqLwo=</text>
       </register>
       <register name=":" type="4">
-        <text>719</text>
+        <text>182</text>
       </register>
     </registers>
     <search>
-      <last-search>documents</last-search>
+      <last-search>dump</last-search>
       <last-offset />
-      <last-pattern>documents</last-pattern>
+      <last-pattern>dump</last-pattern>
       <last-replace>selectedDocument</last-replace>
       <last-substitute>editDocument</last-substitute>
       <last-dir>1</last-dir>
@@ -5417,7 +5418,6 @@
     </search>
     <history>
       <history-search>
-        <entry>selected</entry>
         <entry>folderSort</entry>
         <entry>version</entry>
         <entry>number</entry>
@@ -5437,10 +5437,9 @@
         <entry>getValid</entry>
         <entry>staff</entry>
         <entry>documents</entry>
+        <entry>dump</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/NULL/null/g</entry>
-        <entry>730</entry>
         <entry>%s/editDocument/selectedDocument/g</entry>
         <entry>336</entry>
         <entry>204</entry>
@@ -5459,6 +5458,8 @@
         <entry>w</entry>
         <entry>309</entry>
         <entry>719</entry>
+        <entry>111</entry>
+        <entry>182</entry>
       </history-cmd>
       <history-expr />
       <history-input />
