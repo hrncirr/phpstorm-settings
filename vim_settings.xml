@@ -1668,6 +1668,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/attachments.latte" timestamp="1549961660296">
+        <mark key="[" line="18" column="84" />
+      </file>
       <file name="/home/www/html/nnb/aktuality/app/templates/Default/header.latte" timestamp="1478772950227">
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="0" />
@@ -2542,10 +2545,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/relatedDocuments.latte" timestamp="1549958670951">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/relatedDocuments.latte" timestamp="1549961652616">
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="21" column="25" />
+        <mark key="^" line="20" column="42" />
+        <mark key="." line="21" column="25" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/EntityLoader/Filters/PathsFilterIn.php" timestamp="1490271868407">
         <mark key="[" line="29" column="0" />
@@ -3869,8 +3873,8 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1549897821416">
-        <mark key="'" line="54" column="31" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1549961445078">
+        <mark key="'" line="862" column="20" />
         <mark key="[" line="63" column="13" />
         <mark key="]" line="264" column="22" />
         <mark key="." line="264" column="22" />
@@ -5289,9 +5293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="361" column="49" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
-      <jump line="362" column="28" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
-      <jump line="363" column="71" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
       <jump line="365" column="29" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
       <jump line="367" column="60" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
       <jump line="415" column="39" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
@@ -5389,55 +5390,58 @@
       <jump line="120" column="26" filename="/home/www/html/nnb/dms/src/Documents/Components/TopicSelectorForm/TopicSelectorForm.php" />
       <jump line="132" column="31" filename="/home/www/html/nnb/dms/src/Documents/Components/TopicSelectorForm/TopicSelectorForm.php" />
       <jump line="90" column="22" filename="/home/www/html/nnb/dms/src/Documents/Components/TopicSelectorForm/TopicSelectorForm.php" />
+      <jump line="281" column="5" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
+      <jump line="854" column="33" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
+      <jump line="862" column="20" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">e2R1bXAgJHNlbGVjdGVkRm9sZGVyLT5nZXRTbHVnKCl9</text>
+        <text>$selectedFolder =</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">e2R1bXAgJHNlbGVjdGVkRm9sZGVyLT5nZXRTbHVnKCl9</text>
+        <text>$selectedFolder =</text>
       </register>
       <register name="/" type="4">
-        <text>setValue</text>
+        <text>getDocumentFol</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQl7ZHVtcCAnb2snfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQktPnNldERpc2FibGVkKCk7Cg==</text>
+        <text encoding="base64">CQkJCXtkdW1wICRkb2N1bWVudEZvbGRlcn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJCQl7ZHVtcCAnb2snfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJZXhpdDsK</text>
+        <text encoding="base64">CQkJCUFBQUEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZHVtcCgkdmFsdWVzKTsK</text>
+        <text encoding="base64">CQkJCQl7ZHVtcCAnb2snfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJLT5zZXREaXNhYmxlZCgpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJLT5zZXREaXNhYmxlZCgpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">CQkJCQktPnNldERpc2FibGVkKCk7Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJZXhpdDsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCXByaW50KCRwcm9jZXNzVHlwZS0+Z2V0SWQoKSk7Cg==</text>
+        <text encoding="base64">CQkJZHVtcCgkdmFsdWVzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>211</text>
       </register>
     </registers>
     <search>
-      <last-search>setValue</last-search>
+      <last-search>getDocumentFol</last-search>
       <last-offset />
-      <last-pattern>setValue</last-pattern>
+      <last-pattern>getDocumentFol</last-pattern>
       <last-replace>selectedDocument</last-replace>
       <last-substitute>editDocument</last-substitute>
       <last-dir>1</last-dir>
@@ -5445,7 +5449,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onChange</entry>
         <entry>handleChange</entry>
         <entry>ChangeFolder</entry>
         <entry>handle</entry>
@@ -5465,6 +5468,7 @@
         <entry>getOsc</entry>
         <entry>processType</entry>
         <entry>setValue</entry>
+        <entry>getDocumentFol</entry>
       </history-search>
       <history-cmd>
         <entry>336</entry>
