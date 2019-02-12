@@ -4546,11 +4546,11 @@
         <mark key="]" line="26" column="32" />
         <mark key="." line="26" column="32" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1549973777860">
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1549977900027">
         <mark key="'" line="382" column="29" />
-        <mark key="[" line="51" column="25" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+        <mark key="[" line="479" column="48" />
+        <mark key="]" line="479" column="48" />
+        <mark key="." line="479" column="48" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/FilesUploadForm/FilesUploadForm.php" timestamp="1548940905089">
         <mark key="[" line="28" column="36" />
@@ -5389,11 +5389,11 @@
       <jump line="378" column="29" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJXTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JHRoaXMtPmVtLT5maW5kKCR0eXBlLA==</text>
       </register>
       <register name="-" type="4">
-        <text>ProcessType $processType, string $scopeOfValidity, ?Type $type, ?Department $department</text>
+        <text encoding="base64">JHRoaXMtPmVtLT5maW5kKCR0eXBlLA==</text>
       </register>
       <register name="/" type="4">
         <text>Topic</text>
@@ -5401,35 +5401,35 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJXTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">JHRoaXMtPnRvcGljRmlsdGVyWydwcm9jZXNzVHlwZSddID0gJHByb2Nlc3NUeXBlLT5nZXRJZCgpOwoKCQkJaWYgKCRzY29wZU9mVmFsaWRpdHkgIT09IG51bGwpIHsKCQkJCSR0aGlzLT50b3BpY0ZpbHRlclsnc2NvcGVPZlZhbGlkaXR5J10gPSAkc2NvcGVPZlZhbGlkaXR5OwoJCQl9CgoJCQlpZiAoJHR5cGUgIT09IG51bGwpIHsKCQkJCSR0aGlzLT50b3BpY0ZpbHRlclsndHlwZSddID0gJHR5cGUtPmdldElkKCk7CgkJCX0KCgkJCWlmICgkZGVwYXJ0bWVudCAhPT0gbnVsbCkgewoJCQkJJHRoaXMtPnRvcGljRmlsdGVyWydkZXBhcnRtZW50J10gPSAkZGVwYXJ0bWVudC0+Z2V0SWQoKTsKCQkJfQ==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CQkJXTsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CQkkc2VsZWN0ZWQgPSBbCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">aWYgKCR0eXBlID09PSBudWxsKSB7CgkJCQkkdGhpcy0+Zm9sZGVyID0gJHRoaXMtPmVtLT5nZXRSZXBvc2l0b3J5KEZvbGRlcjo6Y2xhc3MpLT5maW5kT25lQnkoWydkb2N1bWVudFByb2Nlc3NUeXBlJyA9PiAkcHJvY2Vzc1R5cGVdKTsKCQkJfSBlbHNlIHsKCQkJCSR0aGlzLT5mb2xkZXIgPSAkdGhpcy0+ZW0tPmdldFJlcG9zaXRvcnkoRm9sZGVyOjpjbGFzcyktPmZpbmRPbmVCeShbJ2RvY3VtZW50UHJvY2Vzc1R5cGUnID0+ICRwcm9jZXNzVHlwZSwKCQkJCQknZG9jdW1lbnRUeXBlJyA9PiAkdHlwZV0pOwoJCQl9</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJJHNlbGVjdGVkID0gW107Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">aWYgKCR0eXBlICE9PSBudWxsKSB7CgkJCQkkdGhpcy0+dG9waWNGaWx0ZXJbJ3R5cGUnXSA9ICR0eXBlLT5nZXRJZCgpOwoJCQl9CgoJCQlpZiAoJGRlcGFydG1lbnQgIT09IG51bGwpIHsKCQkJCSR0aGlzLT50b3BpY0ZpbHRlclsnZGVwYXJ0bWVudCddID0gJGRlcGFydG1lbnQtPmdldElkKCk7CgkJCX0=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJaWYgKHZhbHVlcy0+c2NvcGVPZlZhbGlkaXR5JHNjb3BlT2ZWYWxpZGl0eSAhPT0gbnVsbCkgewo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>/**
 	 * @var DocumentsQuery
 	 */
 	private $documentsQuery;</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">JHRoaXMtPmdldERvY3VtZW50c1F1ZXJ5KCkKCQkJCS0+YnlUb3BpYygkcHJvY2Vzc1R5cGUsICRzY29wZU9mVmFsaWRpdHksICR0eXBlLCAkZGVwYXJ0bWVudCk7</text>
       </register>
       <register name=":" type="4">
         <text>211</text>
