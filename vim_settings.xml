@@ -1171,12 +1171,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/TopicSelectorForm/TopicSelectorForm.php" timestamp="1549964994563">
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/TopicSelectorForm/TopicSelectorForm.php" timestamp="1549969489889">
         <mark key="'" line="90" column="22" />
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="16" />
-        <mark key="." line="127" column="16" />
-        <mark key="^" line="99" column="43" />
+        <mark key="[" line="193" column="29" />
+        <mark key="]" line="185" column="0" />
+        <mark key="." line="185" column="0" />
       </file>
       <file name="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/Controls/ToMany.php" timestamp="1502467453007">
         <mark key="[" line="51" column="75" />
@@ -4547,11 +4546,11 @@
         <mark key="]" line="26" column="32" />
         <mark key="." line="26" column="32" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1549966348585">
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1549969518499">
         <mark key="'" line="375" column="29" />
-        <mark key="[" line="139" column="4" />
-        <mark key="]" line="139" column="4" />
-        <mark key="." line="139" column="4" />
+        <mark key="[" line="465" column="12" />
+        <mark key="]" line="465" column="12" />
+        <mark key="." line="465" column="12" />
         <mark key="^" line="272" column="16" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/FilesUploadForm/FilesUploadForm.php" timestamp="1548940905089">
@@ -5392,13 +5391,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/**
-	 * @var DocumentsQuery
-	 */
-	private $documentsQuery;</text>
+        <text encoding="base64">aWYgKCR0eXBlID09PSBudWxsKSB7CgkJCQkkdGhpcy0+Zm9sZGVyID0gJHRoaXMtPmVtLT5nZXRSZXBvc2l0b3J5KEZvbGRlcjo6Y2xhc3MpLT5maW5kT25lQnkoWydkb2N1bWVudFByb2Nlc3NUeXBlJyA9PiAkcHJvY2Vzc1R5cGVdKTsKCQkJfSBlbHNlIHsKCQkJCSR0aGlzLT5mb2xkZXIgPSAkdGhpcy0+ZW0tPmdldFJlcG9zaXRvcnkoRm9sZGVyOjpjbGFzcyktPmZpbmRPbmVCeShbJ2RvY3VtZW50UHJvY2Vzc1R5cGUnID0+ICRwcm9jZXNzVHlwZSwKCQkJCQknZG9jdW1lbnRUeXBlJyA9PiAkdHlwZV0pOwoJCQl9</text>
       </register>
       <register name="-" type="4">
-        <text>$selectedFolder =</text>
+        <text>ProcessType $processType, string $scopeOfValidity, ?Type $type, ?Department $department</text>
       </register>
       <register name="/" type="4">
         <text>Topic</text>
@@ -5407,34 +5403,34 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">aWYgKCR0eXBlID09PSBudWxsKSB7CgkJCQkkdGhpcy0+Zm9sZGVyID0gJHRoaXMtPmVtLT5nZXRSZXBvc2l0b3J5KEZvbGRlcjo6Y2xhc3MpLT5maW5kT25lQnkoWydkb2N1bWVudFByb2Nlc3NUeXBlJyA9PiAkcHJvY2Vzc1R5cGVdKTsKCQkJfSBlbHNlIHsKCQkJCSR0aGlzLT5mb2xkZXIgPSAkdGhpcy0+ZW0tPmdldFJlcG9zaXRvcnkoRm9sZGVyOjpjbGFzcyktPmZpbmRPbmVCeShbJ2RvY3VtZW50UHJvY2Vzc1R5cGUnID0+ICRwcm9jZXNzVHlwZSwKCQkJCQknZG9jdW1lbnRUeXBlJyA9PiAkdHlwZV0pOwoJCQl9</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJJHNlbGVjdGVkID0gW107Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">aWYgKCR0eXBlICE9PSBudWxsKSB7CgkJCQkkdGhpcy0+dG9waWNGaWx0ZXJbJ3R5cGUnXSA9ICR0eXBlLT5nZXRJZCgpOwoJCQl9CgoJCQlpZiAoJGRlcGFydG1lbnQgIT09IG51bGwpIHsKCQkJCSR0aGlzLT50b3BpY0ZpbHRlclsnZGVwYXJ0bWVudCddID0gJGRlcGFydG1lbnQtPmdldElkKCk7CgkJCX0=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJaWYgKHZhbHVlcy0+c2NvcGVPZlZhbGlkaXR5JHNjb3BlT2ZWYWxpZGl0eSAhPT0gbnVsbCkgewo=</text>
+      </register>
+      <register name="6" type="4">
         <text>/**
 	 * @var DocumentsQuery
 	 */
 	private $documentsQuery;</text>
       </register>
-      <register name="2" type="4">
+      <register name="7" type="4">
         <text encoding="base64">JHRoaXMtPmdldERvY3VtZW50c1F1ZXJ5KCkKCQkJCS0+YnlUb3BpYygkcHJvY2Vzc1R5cGUsICRzY29wZU9mVmFsaWRpdHksICR0eXBlLCAkZGVwYXJ0bWVudCk7</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCSdzY29wZU9mVmFsaWRpdHknID0+ICRzY29wZU9mVmFsaWRpdHktPmdldElkKCksCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ZHVtcCgnb2snKTsKCQkJCWR1bXAoJGZvcm1bJ3R5cGUnXS0+Z2V0SXRlbXMoKSk7</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CXsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CXByb3RlY3RlZCBmdW5jdGlvbiBnZXREb2N1bWVudHNRdWVyeShGb2xkZXIgJGZvbGRlciA9IG51bGwpCg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5kb2N1bWVudHMgIT09IG51bGwpIHsKCQkJcmV0dXJuICR0aGlzLT5kb2N1bWVudHM7CgkJfQoKCQkkcGFnaW5hdG9yID0gJHRoaXNbJ3ZwJ10tPmdldFBhZ2luYXRvcigpOwoKCQkkdGhpcy0+ZG9jdW1lbnRzID0gJHRoaXMtPmVtLT5nZXRSZXBvc2l0b3J5KERvY3VtZW50OjpjbGFzcyktPmZldGNoKCR0aGlzLT5nZXREb2N1bWVudHNRdWVyeSgpKQoJCQktPmFwcGx5UGFnaW5hdG9yKCRwYWdpbmF0b3IsICRwYWdpbmF0b3ItPmdldEl0ZW1zUGVyUGFnZSgpKTsKCgkJcmV0dXJuICR0aGlzLT5kb2N1bWVudHM7Cgl9</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">IERvY3VtZW50c1F1ZXJ5Cgl7</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5kb2N1bWVudHNRdWVyeSAhPT0gbnVsbCkgewoJCQlyZXR1cm4gJHRoaXMtPmRvY3VtZW50c1F1ZXJ5OwoJCX0=</text>
+        <text encoding="base64">ZHVtcCgnb2snKTsKCQkJCWR1bXAoJGZvcm1bJ3R5cGUnXS0+Z2V0SXRlbXMoKSk7</text>
       </register>
       <register name=":" type="4">
         <text>211</text>
