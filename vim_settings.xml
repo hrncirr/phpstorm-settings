@@ -1225,10 +1225,10 @@
         <mark key="]" line="305" column="30" />
         <mark key="." line="305" column="30" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/DI/DocumentsExtension.php" timestamp="1550050483669">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Documents/DI/DocumentsExtension.php" timestamp="1550056785802">
+        <mark key="[" line="48" column="12" />
+        <mark key="]" line="48" column="12" />
+        <mark key="." line="48" column="12" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/client-side/js/hrncirr.elfinder.dialog.init.js" timestamp="1475494355624">
         <mark key="[" line="47" column="0" />
@@ -3266,7 +3266,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549983022395">
+      <file name="/Dummy.txt" timestamp="1550056872580">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -3281,10 +3281,10 @@
         <mark key="]" line="40" column="4" />
         <mark key="." line="40" column="4" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Presenters/DocumentPresenter.php" timestamp="1550050623773">
-        <mark key="[" line="175" column="77" />
-        <mark key="]" line="178" column="35" />
-        <mark key="." line="178" column="35" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Presenters/DocumentPresenter.php" timestamp="1550056856438">
+        <mark key="[" line="152" column="77" />
+        <mark key="]" line="155" column="35" />
+        <mark key="." line="155" column="35" />
       </file>
       <file name="/home/www/html/dv/adera/app/config/config.neon" timestamp="1502097389462">
         <mark key="[" line="42" column="9" />
@@ -5398,11 +5398,11 @@
       <jump line="4" column="25" filename="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNoteForm/templates/CreditNoteDocument.latte" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJLy8tPmFkZFNldHVwKCdzZXRVc2VBdHRhY2htZW50cycsIFskdGhpcy0+Y29uZmlnWydhdHRhY2htZW50cyddXSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LT5hZGRTZXR1cCgnc2V0VXNlQXR0YWNobWVudHMnLCBbJHRoaXMtPmNvbmZpZ1snYXR0YWNobWVudHMnXV0pOw==</text>
       </register>
       <register name="-" type="4">
-        <text>Price</text>
+        <text encoding="base64">LT5hZGRTZXR1cCgnc2V0VXNlQXR0YWNobWVudHMnLCBbJHRoaXMtPmNvbmZpZ1snYXR0YWNobWVudHMnXV0pOw==</text>
       </register>
       <register name="/" type="4">
         <text>invoice</text>
