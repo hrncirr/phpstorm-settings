@@ -1150,6 +1150,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/TopicSelectorForm/TopicSelectorForm.php" timestamp="1550134797691">
+        <mark key="'" line="97" column="22" />
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="31" column="4" />
+        <mark key="." line="31" column="4" />
+      </file>
       <file name="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/Controls/ToMany.php" timestamp="1502467453007">
         <mark key="[" line="51" column="75" />
         <mark key="]" line="61" column="70" />
@@ -1793,10 +1799,10 @@
         <mark key="]" line="56" column="63" />
         <mark key="." line="56" column="63" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/TopicSelectorForm/Topic.php" timestamp="1550068409683">
-        <mark key="[" line="154" column="17" />
-        <mark key="]" line="160" column="0" />
-        <mark key="." line="160" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/TopicSelectorForm/Topic.php" timestamp="1550135014075">
+        <mark key="[" line="64" column="10" />
+        <mark key="]" line="64" column="10" />
+        <mark key="." line="64" column="10" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Storage/Components/ItemGroupsGrid/ItemGroupsGrid.php" timestamp="1499082252851">
         <mark key="[" line="103" column="29" />
@@ -3230,6 +3236,12 @@
         <mark key="]" line="40" column="4" />
         <mark key="." line="40" column="4" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Presenters/DocumentPresenter.php" timestamp="1550060693289">
+        <mark key="'" line="142" column="36" />
+        <mark key="[" line="95" column="12" />
+        <mark key="]" line="95" column="12" />
+        <mark key="." line="95" column="12" />
+      </file>
       <file name="/home/www/html/dv/adera/app/config/config.neon" timestamp="1502097389462">
         <mark key="[" line="42" column="9" />
         <mark key="]" line="8" column="13" />
@@ -4161,10 +4173,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/EntityLoader/Filters/TopicFilterOut.php" timestamp="1550067349618">
-        <mark key="[" line="20" column="25" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Documents/EntityLoader/Filters/TopicFilterOut.php" timestamp="1550134294366">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="8" />
+        <mark key="." line="25" column="8" />
       </file>
       <file name="/home/www/html/dv/cms/app/AdminModule/Presenters/templates/lte/main-sidebar.latte" timestamp="1491824222520">
         <mark key="[" line="2" column="30" />
@@ -5322,11 +5334,11 @@
       <jump line="266" column="12" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlyZXR1cm4gJHBhdGg7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZWxzZSB7CgkJCSRmb3JtWyd0eXBlJ10tPnNldEF0dHJpYnV0ZSgnZGF0YS1wcm92aWRlJywgJ3NlbGVjdC1zdWJtaXQnKTsKCQl9</text>
       </register>
       <register name="-" type="4">
-        <text>\EntityLoader\Filters\PathsFilterIn</text>
+        <text encoding="base64">LT5nZXRJZCgp</text>
       </register>
       <register name="/" type="4">
         <text>viewTopic</text>
@@ -5334,32 +5346,39 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlyZXR1cm4gJHBhdGg7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZWxzZSB7CgkJCSRmb3JtWyd0eXBlJ10tPnNldEF0dHJpYnV0ZSgnZGF0YS1wcm92aWRlJywgJ3NlbGVjdC1zdWJtaXQnKTsKCQl9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCWNvbnRpbnVlOwo=</text>
+        <text encoding="base64">CQkJJGZvcm1bJ3R5cGUnXS0+c2V0RGlzYWJsZWQoKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">dXNlIEFwcFxFbnRpdGllc1xQYXRoOwo=</text>
+      <register name="3" type="4">
+        <text>public function __construct(string $value)
+	{
+		$values = explode('-', $value);
+
+	}</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXNlIEFwcFxFbnRpdGllc1xQYXRoOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">JHRoaXMtPgoJCQkJJGZvcm1bJ3Byb2Nlc3NUeXBlJ10tPnNldERpc2FibGVkKCkKCQkJCQktPnNldFZhbHVlKCRwcm9jZXNzVHlwZS0+Z2V0SWQoKSk7</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlWYWxpZGF0b3JzOjphc3NlcnRGaWVsZCgkdGhpcy0+Y29uZmlnLCApCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ZWxzZSB7CgkJCQkkZm9ybVsncHJvY2Vzc1R5cGUnXS0+c2V0QXR0cmlidXRlKCdkYXRhLXByb3ZpZGUnLCAnc2VsZWN0LXN1Ym1pdCcpOwoJCQl9</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5pc1VzZUxpbmsoKSkgewoJCQkkZm9ybS0+YWRkVGV4dCgnbGluaycsICdPZGtheicpOwoJCX0=</text>
+        <text>/**
+	 * @var EntityManager
+	 */
+	private $em;</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJLT5hZGRTZXR1cCgnc2V0VXNlUmVsYXRlZERvY3VtZW50cycsIFskdGhpcy0+Y29uZmlnWydyZWxhdGVkRG9jdW1lbnRzJ11dKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIHN0cmluZwoJICovCglwdWJsaWMgZnVuY3Rpb24gX190b1N0cmluZygpOiBzdHJpbmcKCXsKCQkkY2xhc3MgPSBuZXcgXFJlZmxlY3Rpb25DbGFzcygkdGhpcyk7CgoJCSRvdXQgPSBbXTsKCQlmb3JlYWNoIChzZWxmOjpUT1BJQ19BVFRSUyBhcyAkbmFtZSA9PiAkdHlwZSkgewoJCQlpZiAoJHRoaXMtPnskbmFtZX0gPT09IG51bGwpIHsKCQkJCSRvdXRbXSA9ICc/JzsKCQkJfSBlbHNlaWYgKCR0eXBlICE9PSAnc3RyaW5nJykgewoJCQkJJG91dFtdID0gJHRoaXMtPnskbmFtZX0tPmdldElkKCk7CgkJCX0gZWxzZSB7CgkJCQkkb3V0W10gPSAkdGhpcy0+eyRuYW1lfTsKCQkJfQoJCX0KCgkJcmV0dXJuIGltcGxvZGUoJy0nLCAkb3V0KTsKCX0=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJLT5hZGRTZXR1cCgnc2V0VXNlQXR0YWNobWVudHMnLCBbJHRoaXMtPmNvbmZpZ1snYXR0YWNobWVudHMnXV0pCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">JG91dCA9IFtdOwoKCQlmb3JlYWNoIChzZWxmOjpUT1BJQ19BVFRSUyBhcyAkbmFtZSA9PiAkdHlwZSkgewoJCQkkdmFsdWUgPSAkdGhpcy0+eydnZXQnIC4gdWNmaXJzdCgkbmFtZSl9KCk7CgoJCQlpZiAoJHZhbHVlID09PSBudWxsKSB7CgkJCQkkb3V0WyRuYW1lXSA9ICc/JzsKCQkJfSBlbHNlaWYgKCR0eXBlICE9PSAnc3RyaW5nJykgewoJCQkJJG91dFskbmFtZV0gPSAkdGhpcy0+eyRuYW1lfS0+Z2V0SWQoKTsKCQkJfSBlbHNlIHsKCQkJCSRvdXRbJG5hbWVdID0gJHRoaXMtPnskbmFtZX07CgkJCX0KCQl9</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIGJvb2wKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGlzVXNlVG9waWMoKTogYm9vbAoJewoJCXJldHVybiAkdGhpcy0+dXNlVG9waWM7Cgl9CgoKCS8qKgoJICogQHBhcmFtIGJvb2wgJHVzZVRvcGljCgkgKgoJICogQHJldHVybiBEb2N1bWVudHNHcmlkCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRVc2VUb3BpYyhib29sICR1c2VUb3BpYyk6IERvY3VtZW50c0dyaWQKCXsKCQkkdGhpcy0+dXNlVG9waWMgPSAkdXNlVG9waWM7CgoJCXJldHVybiAkdGhpczsKCX0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJJHZhbHVlID0gJHRoaXMtPnskbmFtZX07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/invoice/creditNote/g</text>
