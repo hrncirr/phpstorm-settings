@@ -1381,10 +1381,6 @@
         <mark key="]" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1550155112787">
-        <mark key="'" line="515" column="27" />
-        <mark key="^" line="318" column="19" />
-      </file>
       <file name="/home/www/vendor/hrncirr/jstree/src/DI/DoctrineDataSource.php" timestamp="1479301570985">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -4249,10 +4245,10 @@
         <mark key="]" line="12" column="40" />
         <mark key="." line="12" column="40" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Search/Presenters/DefaultPresenter.php" timestamp="1545134707906">
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Search/Presenters/DefaultPresenter.php" timestamp="1550226944111">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/media/src/Routers/FileRouterFactory.php" timestamp="1493898696652">
         <mark key="[" line="28" column="12" />
@@ -5354,8 +5350,8 @@
       <jump line="434" column="42" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JHRoaXMtPmZvbGRlciAhPT0gbnVsbA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIEFwcFxEb2N1bWVudHNcQ29tcG9uZW50c1xEb2N1bWVudENvbnRyb2xcSURvY3VtZW50Q29udHJvbEZhY3Rvcnk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JHRoaXMtPmZvbGRlciAhPT0gbnVsbA==</text>
@@ -5366,36 +5362,36 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">dXNlIEFwcFxEb2N1bWVudHNcQ29tcG9uZW50c1xEb2N1bWVudENvbnRyb2xcSURvY3VtZW50Q29udHJvbEZhY3Rvcnk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">dXNlIEFwcFxEb2N1bWVudHNcQ29tcG9uZW50c1xEb2N1bWVudHNHcmlkXElEb2N1bWVudENvbnRyb2xGYWN0b3J5Owo=</text>
+      </register>
+      <register name="3" type="4">
         <text>/**
 	 * @ORM\Column(type=&quot;string&quot;, nullable=true)
 	 * @var string
 	 */
 	private $number;</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkJJ251bWJlcicgPT4gKHN0cmluZykgJG9iamVjdC0+Z2V0RG9jdW1lbnROdW1iZXIoKSwK</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ZHVtcCgkZm9ybS0+Z2V0RXJyb3JzKCkpOwoJCQlleGl0Ow==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ZHVtcCgkZm9ybS0+Z2V0VmFsdWVzKCkpOwoJCQkJZXhpdDs=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ZHVtcCgkZm9ybS0+Z2V0VmFsdWVzKCkpOwoJCWV4aXQ7</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCWR1bXAoJHZhbHVlKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQkkZ3JpZC0+YWRkRgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJLT5zZXRGaWx0ZXJTZWxlY3QoWzAgPT4gJ0FubycsIDEgPT4gJ05lJ10pOwo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">aWYgKCR1c2VUb3BpYyAmJiAkdGhpcy0+ZG9jdW1lbnQtPmdldERvY3VtZW50VG9waWMoKSA9PT0gbnVsbCkgewoJCQkkdXNlVG9waWMgPSBmYWxzZTsKCQl9</text>
       </register>
       <register name=":" type="4">
         <text>%s/invoice/creditNote/g</text>
