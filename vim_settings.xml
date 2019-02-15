@@ -243,8 +243,9 @@
         <mark key="]" line="13" column="4" />
         <mark key="." line="13" column="4" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/file.latte" timestamp="1550153110024">
-        <mark key="[" line="37" column="27" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/file.latte" timestamp="1550236415397">
+        <mark key="'" line="37" column="18" />
+        <mark key="[" line="10" column="27" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
@@ -1333,9 +1334,6 @@
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/libs/vendor/doctrine/orm/lib/Doctrine/ORM/QueryBuilder.php" timestamp="1550157090479">
-        <mark key="'" line="1089" column="12" />
-      </file>
       <file name="/home/www/html/nnb/passportization/src/Passportization/TechnicalRequisitions/Model/StatisticsModel.php" timestamp="1487671400262">
         <mark key="[" line="43" column="4" />
         <mark key="]" line="43" column="8" />
@@ -1370,6 +1368,9 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/DocumentFolder.php" timestamp="1550237783083">
+        <mark key="[" line="14" column="30" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/validator/src/ConstraintViolationsMapper.php" timestamp="1497513197426">
         <mark key="[" line="1" column="0" />
@@ -1635,8 +1636,8 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/attachments.latte" timestamp="1549961660296">
-        <mark key="[" line="18" column="84" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/attachments.latte" timestamp="1550236568223">
+        <mark key="[" line="12" column="21" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/templates/Default/header.latte" timestamp="1478772950227">
         <mark key="[" line="111" column="0" />
@@ -1648,8 +1649,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" timestamp="1550224060825">
-        <mark key="[" line="94" column="4" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" timestamp="1550237276748">
+        <mark key="'" line="110" column="44" />
+        <mark key="[" line="9" column="35" />
       </file>
       <file name="/home/www/html/dv/cms/src/Users/Resource.php" timestamp="1497013825055">
         <mark key="[" line="5" column="0" />
@@ -2689,12 +2691,6 @@
         <mark key="]" line="60" column="8" />
         <mark key="." line="60" column="8" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Invoice.php" timestamp="1550156209610">
-        <mark key="'" line="44" column="6" />
-        <mark key="[" line="171" column="4" />
-        <mark key="]" line="125" column="88" />
-        <mark key="." line="125" column="88" />
-      </file>
       <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Model/Orm/States/StatesRepository.php" timestamp="1502108886667">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="27" column="51" />
@@ -2775,8 +2771,8 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Install/Console/Commands/InstallCommand.php" timestamp="1550219509468">
-        <mark key="[" line="157" column="46" />
+      <file name="/home/www/html/nnb/dms/src/Install/Console/Commands/InstallCommand.php" timestamp="1550238161153">
+        <mark key="[" line="58" column="71" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/templates/naturalPerson.latte" timestamp="1547213305943">
         <mark key="[" line="5" column="5" />
@@ -3148,6 +3144,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" timestamp="1550237309948">
+        <mark key="'" line="534" column="25" />
+        <mark key="[" line="671" column="0" />
+        <mark key="]" line="671" column="4" />
+        <mark key="." line="671" column="4" />
+      </file>
       <file name="/home/www/html/nnb/dms/app/presenters/UsersPresenter.php" timestamp="1478504886166">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -3235,12 +3237,6 @@
         <mark key="[" line="88" column="32" />
         <mark key="]" line="40" column="4" />
         <mark key="." line="40" column="4" />
-      </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Presenters/DocumentPresenter.php" timestamp="1550060693289">
-        <mark key="'" line="142" column="36" />
-        <mark key="[" line="95" column="12" />
-        <mark key="]" line="95" column="12" />
-        <mark key="." line="95" column="12" />
       </file>
       <file name="/home/www/html/dv/adera/app/config/config.neon" timestamp="1502097389462">
         <mark key="[" line="42" column="9" />
@@ -3826,6 +3822,9 @@
         <mark key="[" line="17" column="45" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1550237709098">
+        <mark key="[" line="203" column="26" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Exceptions/SubjectAlreadyExistsException.php" timestamp="1542886169784">
         <mark key="[" line="11" column="0" />
@@ -5248,10 +5247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="32" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
-      <jump line="134" column="20" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
-      <jump line="142" column="56" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
-      <jump line="143" column="61" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
       <jump line="144" column="50" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
       <jump line="145" column="56" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
       <jump line="146" column="32" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
@@ -5348,55 +5343,59 @@
       <jump line="522" column="18" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="560" column="22" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="565" column="23" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="21" column="5" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/file.latte" />
+      <jump line="10" column="18" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/file.latte" />
+      <jump line="37" column="18" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/file.latte" />
+      <jump line="110" column="44" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCSR0aGlzLT50b3BpYyA9IG51bGw7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIEZvcm0KCSAqLwoJcHJvdGVjdGVkIGZ1bmN0aW9uIGNyZWF0ZUNvbXBvbmVudFNlbGVjdEZvcm0oJGlkID0gbnVsbCk6IEZvcm0KCXsKCQkkaWQgPSAkdGhpcy0+ZG9jdW1lbnQtPmdldElkKCk7CgoJCSRmb3JtID0gbmV3IEZvcm0oKTsKCQkkZm9ybS0+Z2V0RWxlbWVudFByb3RvdHlwZSgpLT5zZXRTdHlsZSgncGFkZGluZy1yaWdodDogMWVtO2Zsb2F0OiBsZWZ0O2NsZWFyOmxlZnQnKTsKCQkkZm9ybS0+Z2V0RWxlbWVudFByb3RvdHlwZSgpLT5hZGRDbGFzcygnYWpheCcpOwoJCSRmb3JtLT5hZGRDaGVja2JveCgnc2VsZWN0JykKCQkJLT5zZXREZWZhdWx0VmFsdWUoJHRoaXMtPmNsaXBib2FyZFNlcnZpY2UtPmhhc0l0ZW0oJGlkKSkKCQkJLT5zZXRBdHRyaWJ1dGUoJ3RpdGxlJywgJ296bmHEjWl0JykKCQkJLT5zZXRBdHRyaWJ1dGUoJ29uQ2hhbmdlJywgJyQodGhpcykuY2xvc2VzdCgiZm9ybSIpLnN1Ym1pdCgpO3JldHVybiBmYWxzZTsnKTsKCgkJJGZvcm0tPm9uU3VjY2Vzc1tdID0gZnVuY3Rpb24gKCRmb3JtLCAkdmFsdWVzKSB1c2UgKCRpZCkgewoJCQlpZiAoJHZhbHVlcy0+c2VsZWN0KSB7CgkJCQkkdGhpcy0+Y2xpcGJvYXJkU2VydmljZS0+YWRkSXRlbSgkaWQsIFsKCQkJCQknZm9sZGVySWQnID0+ICR0aGlzLT5mb2xkZXItPmdldElkKCkgPzogbnVsbAoJCQkJXSk7CgkJCQkkdGhpcy0+b25TZWxlY3QoJGlkKTsKCQkJfSBlbHNlIHsKCQkJCWlmICgkdGhpcy0+Y2xpcGJvYXJkU2VydmljZS0+aGFzSXRlbSgkaWQpKSB7CgkJCQkJJHRoaXMtPmNsaXBib2FyZFNlcnZpY2UtPnJlbW92ZUl0ZW0oJGlkKTsKCQkJCX0KCQkJCSR0aGlzLT5vbkRlc2VsZWN0KCRpZCk7CgkJCX0KCgkJCSR0aGlzLT5vbkNoYW5nZSgkdGhpcyk7CgkJfTsKCgkJcmV0dXJuICRmb3JtOwoJfQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPmZvbGRlciAhPT0gbnVsbA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>onChange</text>
+        <text>viewSelector</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCSR0aGlzLT50b3BpYyA9IG51bGw7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIEZvcm0KCSAqLwoJcHJvdGVjdGVkIGZ1bmN0aW9uIGNyZWF0ZUNvbXBvbmVudFNlbGVjdEZvcm0oJGlkID0gbnVsbCk6IEZvcm0KCXsKCQkkaWQgPSAkdGhpcy0+ZG9jdW1lbnQtPmdldElkKCk7CgoJCSRmb3JtID0gbmV3IEZvcm0oKTsKCQkkZm9ybS0+Z2V0RWxlbWVudFByb3RvdHlwZSgpLT5zZXRTdHlsZSgncGFkZGluZy1yaWdodDogMWVtO2Zsb2F0OiBsZWZ0O2NsZWFyOmxlZnQnKTsKCQkkZm9ybS0+Z2V0RWxlbWVudFByb3RvdHlwZSgpLT5hZGRDbGFzcygnYWpheCcpOwoJCSRmb3JtLT5hZGRDaGVja2JveCgnc2VsZWN0JykKCQkJLT5zZXREZWZhdWx0VmFsdWUoJHRoaXMtPmNsaXBib2FyZFNlcnZpY2UtPmhhc0l0ZW0oJGlkKSkKCQkJLT5zZXRBdHRyaWJ1dGUoJ3RpdGxlJywgJ296bmHEjWl0JykKCQkJLT5zZXRBdHRyaWJ1dGUoJ29uQ2hhbmdlJywgJyQodGhpcykuY2xvc2VzdCgiZm9ybSIpLnN1Ym1pdCgpO3JldHVybiBmYWxzZTsnKTsKCgkJJGZvcm0tPm9uU3VjY2Vzc1tdID0gZnVuY3Rpb24gKCRmb3JtLCAkdmFsdWVzKSB1c2UgKCRpZCkgewoJCQlpZiAoJHZhbHVlcy0+c2VsZWN0KSB7CgkJCQkkdGhpcy0+Y2xpcGJvYXJkU2VydmljZS0+YWRkSXRlbSgkaWQsIFsKCQkJCQknZm9sZGVySWQnID0+ICR0aGlzLT5mb2xkZXItPmdldElkKCkgPzogbnVsbAoJCQkJXSk7CgkJCQkkdGhpcy0+b25TZWxlY3QoJGlkKTsKCQkJfSBlbHNlIHsKCQkJCWlmICgkdGhpcy0+Y2xpcGJvYXJkU2VydmljZS0+aGFzSXRlbSgkaWQpKSB7CgkJCQkJJHRoaXMtPmNsaXBib2FyZFNlcnZpY2UtPnJlbW92ZUl0ZW0oJGlkKTsKCQkJCX0KCQkJCSR0aGlzLT5vbkRlc2VsZWN0KCRpZCk7CgkJCX0KCgkJCSR0aGlzLT5vbkNoYW5nZSgkdGhpcyk7CgkJfTsKCgkJcmV0dXJuICRmb3JtOwoJfQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQkJCSR0aGlzLT5yZWRyYXdzb250cm9sKCdkb2N1bWVudHMnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl9IGNhdGNoIChSZXNwb25zZUV4Y2VwdGlvbiAkZSkgewo=</text>
+        <text encoding="base64">CSAqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl0cnkgewo=</text>
+        <text encoding="base64">CSAqIEBwYXJhbSBJRm9ybUZhY3RvcnkgJGZhY3RvcnkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkvLy0+YWRkQXJndW1lbnQoJ2Ryb3BpbmRleCcsIElucHV0QXJndW1lbnQ6Ok9QVElPTkFMLCAnRHJvcCBpbmRleCcpOwo=</text>
+        <text encoding="base64">CQkJCSR0aGlzLT50b3BpYyA9IG51bGw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkkdGhpcy0+ZWxhc3RpY2FDbGllbnQtPmdldEluZGV4KCdkbXMnKTsK</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJJHRoaXMtPgo=</text>
+        <text encoding="base64">CQl9IGNhdGNoIChSZXNwb25zZUV4Y2VwdGlvbiAkZSkgewo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">aWYgKGlzc2V0KCR2YWx1ZXMtPmZpbGUpKSB7CgkJCSRmaWxlID0gbmV3IEZpbGUoJHZhbHVlcy0+ZmlsZSk7CgkJCSRmaWxlLT5zZXRFeHRlcm5hbFZlcnNpb24oKGludCkgJHZhbHVlcy0+ZXh0ZXJuYWxWZXJzaW9uKTsKCQkJaWYgKCEkdGhpcy0+dmlvbGF0aW9uc01hcHBlci0+dmFsaWRhdGVGb3JtQ29udHJvbHMoWydmaWxlJyA9PiAkZm9ybVsnZmlsZSddXSwgJGZpbGUpKSB7CgkJCQlyZXR1cm47CgkJCX0KCQl9</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQl0cnkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJJGRvY3VtZW50LT5hZGRGb2xkZXIoJGZvbGRlcik7Cg==</text>
+        <text encoding="base64">CQkvLy0+YWRkQXJndW1lbnQoJ2Ryb3BpbmRleCcsIElucHV0QXJndW1lbnQ6Ok9QVElPTkFMLCAnRHJvcCBpbmRleCcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/invoice/creditNote/g</text>
       </register>
     </registers>
     <search>
-      <last-search>onChange</last-search>
+      <last-search>viewSelector</last-search>
       <last-offset />
-      <last-pattern>onChange</last-pattern>
+      <last-pattern>viewSelector</last-pattern>
       <last-replace>creditNote</last-replace>
       <last-substitute>invoice</last-substitute>
       <last-dir>1</last-dir>
@@ -5404,8 +5403,6 @@
     </search>
     <history>
       <history-search>
-        <entry>byFolder</entry>
-        <entry>useDocumentsFolders</entry>
         <entry>getOsc</entry>
         <entry>processType</entry>
         <entry>setValue</entry>
@@ -5424,6 +5421,8 @@
         <entry>createFromFolder</entry>
         <entry>viewTopic</entry>
         <entry>onChange</entry>
+        <entry>isUse</entry>
+        <entry>viewSelector</entry>
       </history-search>
       <history-cmd>
         <entry>204</entry>
