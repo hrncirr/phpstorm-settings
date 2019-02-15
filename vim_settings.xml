@@ -1381,6 +1381,12 @@
         <mark key="]" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1550228841654">
+        <mark key="'" line="518" column="27" />
+        <mark key="[" line="242" column="20" />
+        <mark key="]" line="246" column="0" />
+        <mark key="." line="246" column="0" />
+      </file>
       <file name="/home/www/vendor/hrncirr/jstree/src/DI/DoctrineDataSource.php" timestamp="1479301570985">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -4504,12 +4510,12 @@
         <mark key="]" line="26" column="32" />
         <mark key="." line="26" column="32" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1550220575158">
-        <mark key="'" line="434" column="42" />
-        <mark key="[" line="390" column="64" />
-        <mark key="]" line="366" column="60" />
-        <mark key="." line="366" column="60" />
-        <mark key="^" line="366" column="60" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1550228002436">
+        <mark key="'" line="438" column="42" />
+        <mark key="[" line="253" column="41" />
+        <mark key="]" line="370" column="60" />
+        <mark key="." line="370" column="60" />
+        <mark key="^" line="370" column="60" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/FilesUploadForm/FilesUploadForm.php" timestamp="1548940905089">
         <mark key="[" line="28" column="36" />
@@ -5351,7 +5357,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEFwcFxEb2N1bWVudHNcQ29tcG9uZW50c1xEb2N1bWVudENvbnRyb2xcSURvY3VtZW50Q29udHJvbEZhY3Rvcnk7Cg==</text>
+        <text encoding="base64">CQkJCQkJJHRoaXMtPgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JHRoaXMtPmZvbGRlciAhPT0gbnVsbA==</text>
@@ -5363,35 +5369,35 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CQkJCQkJJHRoaXMtPgo=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">aWYgKGlzc2V0KCR2YWx1ZXMtPmZpbGUpKSB7CgkJCSRmaWxlID0gbmV3IEZpbGUoJHZhbHVlcy0+ZmlsZSk7CgkJCSRmaWxlLT5zZXRFeHRlcm5hbFZlcnNpb24oKGludCkgJHZhbHVlcy0+ZXh0ZXJuYWxWZXJzaW9uKTsKCQkJaWYgKCEkdGhpcy0+dmlvbGF0aW9uc01hcHBlci0+dmFsaWRhdGVGb3JtQ29udHJvbHMoWydmaWxlJyA9PiAkZm9ybVsnZmlsZSddXSwgJGZpbGUpKSB7CgkJCQlyZXR1cm47CgkJCX0KCQl9</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCQkJJGRvY3VtZW50LT5hZGRGb2xkZXIoJGZvbGRlcik7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">dXNlIEFwcFxEb2N1bWVudHNcQ29tcG9uZW50c1xEb2N1bWVudENvbnRyb2xcSURvY3VtZW50Q29udHJvbEZhY3Rvcnk7Cg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">dXNlIEFwcFxEb2N1bWVudHNcQ29tcG9uZW50c1xEb2N1bWVudHNHcmlkXElEb2N1bWVudENvbnRyb2xGYWN0b3J5Owo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>/**
 	 * @ORM\Column(type=&quot;string&quot;, nullable=true)
 	 * @var string
 	 */
 	private $number;</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJJ251bWJlcicgPT4gKHN0cmluZykgJG9iamVjdC0+Z2V0RG9jdW1lbnROdW1iZXIoKSwK</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ZHVtcCgkZm9ybS0+Z2V0RXJyb3JzKCkpOwoJCQlleGl0Ow==</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ZHVtcCgkZm9ybS0+Z2V0VmFsdWVzKCkpOwoJCQkJZXhpdDs=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZHVtcCgkZm9ybS0+Z2V0VmFsdWVzKCkpOwoJCWV4aXQ7</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCWR1bXAoJHZhbHVlKTsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkkZ3JpZC0+YWRkRgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/invoice/creditNote/g</text>
