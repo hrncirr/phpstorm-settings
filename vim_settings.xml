@@ -243,11 +243,12 @@
         <mark key="]" line="13" column="4" />
         <mark key="." line="13" column="4" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/file.latte" timestamp="1550236415397">
-        <mark key="'" line="37" column="18" />
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/file.latte" timestamp="1550483932673">
+        <mark key="'" line="35" column="57" />
+        <mark key="[" line="50" column="13" />
+        <mark key="]" line="50" column="8" />
+        <mark key="." line="50" column="8" />
+        <mark key="^" line="2" column="38" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Document/Components/FormParts/ItemsFormPart/DocumentItemsFormPart.latte" timestamp="1547563495914">
         <mark key="[" line="38" column="24" />
@@ -1649,9 +1650,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" timestamp="1550237276748">
-        <mark key="'" line="110" column="44" />
-        <mark key="[" line="9" column="35" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" timestamp="1550484140157">
+        <mark key="'" line="166" column="25" />
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="25" column="16" />
+        <mark key="." line="25" column="16" />
+        <mark key="^" line="18" column="56" />
       </file>
       <file name="/home/www/html/dv/cms/src/Users/Resource.php" timestamp="1497013825055">
         <mark key="[" line="5" column="0" />
@@ -2519,6 +2523,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/relatedDocuments.latte" timestamp="1550483718738">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="/home/www/html/nnb/passportization/src/EntityLoader/Filters/PathsFilterIn.php" timestamp="1490271868407">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -2735,6 +2744,9 @@
         <mark key="[" line="35" column="9" />
         <mark key="]" line="35" column="9" />
         <mark key="." line="35" column="9" />
+      </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/conversions.latte" timestamp="1550483888248">
+        <mark key="[" line="3" column="0" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/Passportization/TechnicalRequisitions/Components/ProfessionsGrid/ProfessionsGrid.php" timestamp="1487666831131">
         <mark key="[" line="104" column="0" />
@@ -5247,23 +5259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="50" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
-      <jump line="145" column="56" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
-      <jump line="146" column="32" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
-      <jump line="153" column="20" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
-      <jump line="246" column="20" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
-      <jump line="262" column="20" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
-      <jump line="283" column="20" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
-      <jump line="328" column="20" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
-      <jump line="18" column="7" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
-      <jump line="19" column="7" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
-      <jump line="20" column="7" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
-      <jump line="43" column="20" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
-      <jump line="56" column="20" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
-      <jump line="71" column="20" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
-      <jump line="91" column="20" filename="/home/www/html/nnb/dms/src/Documents/Query/DocumentsQuery.php" />
-      <jump line="160" column="37" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
-      <jump line="454" column="15" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="456" column="15" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="824" column="26" filename="/home/www/html/nnb/dms/src/Documents/Document.php" />
       <jump line="91" column="41" filename="/home/www/html/nnb/nezadouci-udalosti/app/Components/IncidentViewer.php" />
@@ -5347,55 +5342,72 @@
       <jump line="10" column="18" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/file.latte" />
       <jump line="37" column="18" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/file.latte" />
       <jump line="110" column="44" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
+      <jump line="23" column="0" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
+      <jump line="24" column="83" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
+      <jump line="26" column="23" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
+      <jump line="27" column="22" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
+      <jump line="32" column="86" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
+      <jump line="35" column="93" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
+      <jump line="39" column="62" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
+      <jump line="45" column="75" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
+      <jump line="1" column="46" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/file.latte" />
+      <jump line="2" column="57" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/file.latte" />
+      <jump line="14" column="61" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/file.latte" />
+      <jump line="27" column="34" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/file.latte" />
+      <jump line="29" column="57" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/file.latte" />
+      <jump line="18" column="48" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
+      <jump line="15" column="86" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
+      <jump line="17" column="43" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
+      <jump line="166" column="25" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIEZvcm0KCSAqLwoJcHJvdGVjdGVkIGZ1bmN0aW9uIGNyZWF0ZUNvbXBvbmVudFNlbGVjdEZvcm0oJGlkID0gbnVsbCk6IEZvcm0KCXsKCQkkaWQgPSAkdGhpcy0+ZG9jdW1lbnQtPmdldElkKCk7CgoJCSRmb3JtID0gbmV3IEZvcm0oKTsKCQkkZm9ybS0+Z2V0RWxlbWVudFByb3RvdHlwZSgpLT5zZXRTdHlsZSgncGFkZGluZy1yaWdodDogMWVtO2Zsb2F0OiBsZWZ0O2NsZWFyOmxlZnQnKTsKCQkkZm9ybS0+Z2V0RWxlbWVudFByb3RvdHlwZSgpLT5hZGRDbGFzcygnYWpheCcpOwoJCSRmb3JtLT5hZGRDaGVja2JveCgnc2VsZWN0JykKCQkJLT5zZXREZWZhdWx0VmFsdWUoJHRoaXMtPmNsaXBib2FyZFNlcnZpY2UtPmhhc0l0ZW0oJGlkKSkKCQkJLT5zZXRBdHRyaWJ1dGUoJ3RpdGxlJywgJ296bmHEjWl0JykKCQkJLT5zZXRBdHRyaWJ1dGUoJ29uQ2hhbmdlJywgJyQodGhpcykuY2xvc2VzdCgiZm9ybSIpLnN1Ym1pdCgpO3JldHVybiBmYWxzZTsnKTsKCgkJJGZvcm0tPm9uU3VjY2Vzc1tdID0gZnVuY3Rpb24gKCRmb3JtLCAkdmFsdWVzKSB1c2UgKCRpZCkgewoJCQlpZiAoJHZhbHVlcy0+c2VsZWN0KSB7CgkJCQkkdGhpcy0+Y2xpcGJvYXJkU2VydmljZS0+YWRkSXRlbSgkaWQsIFsKCQkJCQknZm9sZGVySWQnID0+ICR0aGlzLT5mb2xkZXItPmdldElkKCkgPzogbnVsbAoJCQkJXSk7CgkJCQkkdGhpcy0+b25TZWxlY3QoJGlkKTsKCQkJfSBlbHNlIHsKCQkJCWlmICgkdGhpcy0+Y2xpcGJvYXJkU2VydmljZS0+aGFzSXRlbSgkaWQpKSB7CgkJCQkJJHRoaXMtPmNsaXBib2FyZFNlcnZpY2UtPnJlbW92ZUl0ZW0oJGlkKTsKCQkJCX0KCQkJCSR0aGlzLT5vbkRlc2VsZWN0KCRpZCk7CgkJCX0KCgkJCSR0aGlzLT5vbkNoYW5nZSgkdGhpcyk7CgkJfTsKCgkJcmV0dXJuICRmb3JtOwoJfQ==</text>
+        <text encoding="base64">e2lmICRkb2N1bWVudEZvbGRlci0+Z2V0Rm9sZGVyKCkgIT09ICRzZWxlY3RlZEZvbGRlcn0KCQkJe3ZhciAkc2VsZWN0ZWRGb2xkZXIgPSAkZG9jdW1lbnRGb2xkZXItPmdldEZvbGRlcigpfQoJCXsvaWZ9</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>viewSelector</text>
+        <text>folder</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIEZvcm0KCSAqLwoJcHJvdGVjdGVkIGZ1bmN0aW9uIGNyZWF0ZUNvbXBvbmVudFNlbGVjdEZvcm0oJGlkID0gbnVsbCk6IEZvcm0KCXsKCQkkaWQgPSAkdGhpcy0+ZG9jdW1lbnQtPmdldElkKCk7CgoJCSRmb3JtID0gbmV3IEZvcm0oKTsKCQkkZm9ybS0+Z2V0RWxlbWVudFByb3RvdHlwZSgpLT5zZXRTdHlsZSgncGFkZGluZy1yaWdodDogMWVtO2Zsb2F0OiBsZWZ0O2NsZWFyOmxlZnQnKTsKCQkkZm9ybS0+Z2V0RWxlbWVudFByb3RvdHlwZSgpLT5hZGRDbGFzcygnYWpheCcpOwoJCSRmb3JtLT5hZGRDaGVja2JveCgnc2VsZWN0JykKCQkJLT5zZXREZWZhdWx0VmFsdWUoJHRoaXMtPmNsaXBib2FyZFNlcnZpY2UtPmhhc0l0ZW0oJGlkKSkKCQkJLT5zZXRBdHRyaWJ1dGUoJ3RpdGxlJywgJ296bmHEjWl0JykKCQkJLT5zZXRBdHRyaWJ1dGUoJ29uQ2hhbmdlJywgJyQodGhpcykuY2xvc2VzdCgiZm9ybSIpLnN1Ym1pdCgpO3JldHVybiBmYWxzZTsnKTsKCgkJJGZvcm0tPm9uU3VjY2Vzc1tdID0gZnVuY3Rpb24gKCRmb3JtLCAkdmFsdWVzKSB1c2UgKCRpZCkgewoJCQlpZiAoJHZhbHVlcy0+c2VsZWN0KSB7CgkJCQkkdGhpcy0+Y2xpcGJvYXJkU2VydmljZS0+YWRkSXRlbSgkaWQsIFsKCQkJCQknZm9sZGVySWQnID0+ICR0aGlzLT5mb2xkZXItPmdldElkKCkgPzogbnVsbAoJCQkJXSk7CgkJCQkkdGhpcy0+b25TZWxlY3QoJGlkKTsKCQkJfSBlbHNlIHsKCQkJCWlmICgkdGhpcy0+Y2xpcGJvYXJkU2VydmljZS0+aGFzSXRlbSgkaWQpKSB7CgkJCQkJJHRoaXMtPmNsaXBib2FyZFNlcnZpY2UtPnJlbW92ZUl0ZW0oJGlkKTsKCQkJCX0KCQkJCSR0aGlzLT5vbkRlc2VsZWN0KCRpZCk7CgkJCX0KCgkJCSR0aGlzLT5vbkNoYW5nZSgkdGhpcyk7CgkJfTsKCgkJcmV0dXJuICRmb3JtOwoJfQ==</text>
+        <text encoding="base64">e2lmICRkb2N1bWVudEZvbGRlci0+Z2V0Rm9sZGVyKCkgIT09ICRzZWxlY3RlZEZvbGRlcn0KCQkJe3ZhciAkc2VsZWN0ZWRGb2xkZXIgPSAkZG9jdW1lbnRGb2xkZXItPmdldEZvbGRlcigpfQoJCXsvaWZ9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCSR0aGlzLT5yZWRyYXdzb250cm9sKCdkb2N1bWVudHMnKTsK</text>
+        <text encoding="base64">CQkJCQl7dmFyICRzZWxlY3RlZEZvbGRlciA9ICRkb2N1bWVudEZvbGRlci0+Z2V0Rm9sZGVyKCl9Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CSAqCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">e2R1bXAgJHNlbGVjdGVkRm9sZGVyLT5nZXRTbHVnKCl9CgkJCQl7dmFyICRzZWxlY3RlZEZvbGRlciA9ICRkb2N1bWVudEZvbGRlci0+Z2V0Rm9sZGVyKCl9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSBJRm9ybUZhY3RvcnkgJGZhY3RvcnkK</text>
+        <text encoding="base64">CQkJCXtkdW1wICduZW5lJ30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCSR0aGlzLT50b3BpYyA9IG51bGw7Cg==</text>
+        <text encoding="base64">CQkJCXtkdW1wICduZW5lJ30K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CXtkdW1wICRsaW5rfQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQl9IGNhdGNoIChSZXNwb25zZUV4Y2VwdGlvbiAkZSkgewo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIEZvcm0KCSAqLwoJcHJvdGVjdGVkIGZ1bmN0aW9uIGNyZWF0ZUNvbXBvbmVudFNlbGVjdEZvcm0oJGlkID0gbnVsbCk6IEZvcm0KCXsKCQkkaWQgPSAkdGhpcy0+ZG9jdW1lbnQtPmdldElkKCk7CgoJCSRmb3JtID0gbmV3IEZvcm0oKTsKCQkkZm9ybS0+Z2V0RWxlbWVudFByb3RvdHlwZSgpLT5zZXRTdHlsZSgncGFkZGluZy1yaWdodDogMWVtO2Zsb2F0OiBsZWZ0O2NsZWFyOmxlZnQnKTsKCQkkZm9ybS0+Z2V0RWxlbWVudFByb3RvdHlwZSgpLT5hZGRDbGFzcygnYWpheCcpOwoJCSRmb3JtLT5hZGRDaGVja2JveCgnc2VsZWN0JykKCQkJLT5zZXREZWZhdWx0VmFsdWUoJHRoaXMtPmNsaXBib2FyZFNlcnZpY2UtPmhhc0l0ZW0oJGlkKSkKCQkJLT5zZXRBdHRyaWJ1dGUoJ3RpdGxlJywgJ296bmHEjWl0JykKCQkJLT5zZXRBdHRyaWJ1dGUoJ29uQ2hhbmdlJywgJyQodGhpcykuY2xvc2VzdCgiZm9ybSIpLnN1Ym1pdCgpO3JldHVybiBmYWxzZTsnKTsKCgkJJGZvcm0tPm9uU3VjY2Vzc1tdID0gZnVuY3Rpb24gKCRmb3JtLCAkdmFsdWVzKSB1c2UgKCRpZCkgewoJCQlpZiAoJHZhbHVlcy0+c2VsZWN0KSB7CgkJCQkkdGhpcy0+Y2xpcGJvYXJkU2VydmljZS0+YWRkSXRlbSgkaWQsIFsKCQkJCQknZm9sZGVySWQnID0+ICR0aGlzLT5mb2xkZXItPmdldElkKCkgPzogbnVsbAoJCQkJXSk7CgkJCQkkdGhpcy0+b25TZWxlY3QoJGlkKTsKCQkJfSBlbHNlIHsKCQkJCWlmICgkdGhpcy0+Y2xpcGJvYXJkU2VydmljZS0+aGFzSXRlbSgkaWQpKSB7CgkJCQkJJHRoaXMtPmNsaXBib2FyZFNlcnZpY2UtPnJlbW92ZUl0ZW0oJGlkKTsKCQkJCX0KCQkJCSR0aGlzLT5vbkRlc2VsZWN0KCRpZCk7CgkJCX0KCgkJCSR0aGlzLT5vbkNoYW5nZSgkdGhpcyk7CgkJfTsKCgkJcmV0dXJuICRmb3JtOwoJfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl0cnkgewo=</text>
+        <text encoding="base64">CQkJCSR0aGlzLT5yZWRyYXdzb250cm9sKCdkb2N1bWVudHMnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvLy0+YWRkQXJndW1lbnQoJ2Ryb3BpbmRleCcsIElucHV0QXJndW1lbnQ6Ok9QVElPTkFMLCAnRHJvcCBpbmRleCcpOwo=</text>
+        <text encoding="base64">CSAqCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/invoice/creditNote/g</text>
       </register>
     </registers>
     <search>
-      <last-search>viewSelector</last-search>
+      <last-search>folder</last-search>
       <last-offset />
-      <last-pattern>viewSelector</last-pattern>
+      <last-pattern>folder</last-pattern>
       <last-replace>creditNote</last-replace>
       <last-substitute>invoice</last-substitute>
       <last-dir>1</last-dir>
@@ -5403,7 +5415,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getOsc</entry>
         <entry>processType</entry>
         <entry>setValue</entry>
         <entry>getDocumentFol</entry>
@@ -5415,7 +5426,6 @@
         <entry>view</entry>
         <entry>setFolder</entry>
         <entry>Folder</entry>
-        <entry>folder</entry>
         <entry>paid</entry>
         <entry>where</entry>
         <entry>createFromFolder</entry>
@@ -5423,6 +5433,8 @@
         <entry>onChange</entry>
         <entry>isUse</entry>
         <entry>viewSelector</entry>
+        <entry>selectedFolder</entry>
+        <entry>folder</entry>
       </history-search>
       <history-cmd>
         <entry>204</entry>
