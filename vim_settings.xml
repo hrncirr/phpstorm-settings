@@ -1654,11 +1654,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" timestamp="1550484716638">
-        <mark key="'" line="166" column="25" />
-        <mark key="[" line="25" column="12" />
-        <mark key="]" line="25" column="16" />
-        <mark key="." line="25" column="16" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" timestamp="1550569152234">
+        <mark key="'" line="171" column="25" />
+        <mark key="[" line="85" column="25" />
+        <mark key="]" line="85" column="25" />
+        <mark key="." line="85" column="25" />
         <mark key="^" line="18" column="56" />
       </file>
       <file name="/home/www/html/dv/cms/src/Users/Resource.php" timestamp="1497013825055">
@@ -1793,6 +1793,12 @@
         <mark key="[" line="62" column="32" />
         <mark key="]" line="62" column="33" />
         <mark key="." line="62" column="33" />
+      </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/templates/DocumentsGrid.latte" timestamp="1550569506426">
+        <mark key="[" line="44" column="48" />
+        <mark key="]" line="44" column="48" />
+        <mark key="." line="44" column="48" />
+        <mark key="^" line="24" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/DI/config.neon" timestamp="1550135826429">
         <mark key="[" line="18" column="5" />
@@ -3841,7 +3847,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1550237709098">
+      <file name="/home/www/html/nnb/dms/src/Documents/Document.php" timestamp="1550568989266">
         <mark key="[" line="203" column="26" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Exceptions/SubjectAlreadyExistsException.php" timestamp="1542886169784">
@@ -4516,9 +4522,9 @@
         <mark key="]" line="26" column="32" />
         <mark key="." line="26" column="32" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1550489790979">
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1550569535715">
         <mark key="'" line="566" column="23" />
-        <mark key="[" line="394" column="68" />
+        <mark key="[" line="394" column="66" />
         <mark key="]" line="564" column="0" />
         <mark key="." line="564" column="0" />
       </file>
@@ -5362,42 +5368,41 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dump($documentBody);
-		exit;</text>
+        <text encoding="base64">ISRkb2N1bWVudHNHcmlkLT5pc1VzZVRvcGljKCkgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPmZvbGRlcg==</text>
+        <text encoding="base64">ISRkb2N1bWVudHNHcmlkLT5pc1VzZVRvcGljKCkgJiYg</text>
       </register>
       <register name="/" type="4">
-        <text>currentFile</text>
+        <text>isUseTopic</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">PHNtYWxsIG46aWY9IiEkZG9jdW1lbnRzR3JpZC0+aXNVc2VUb3BpYygpICYmICRkb2N1bWVudC0+Z2V0VmFsaWRGcm9tKCkiPgoJCQkJeyRkb2N1bWVudC0+Z2V0VmFsaWRGcm9tKCl8ZGF0ZTonZC5tLid9CgkJCQk8YnIvPgoJCQkJeyRkb2N1bWVudC0+Z2V0VmFsaWRGcm9tKCl8ZGF0ZTonWSd9CgkJCTwvc21hbGw+</text>
+      </register>
+      <register name="2" type="4">
         <text>dump($documentBody);
 		exit;</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CQkJCQl7dmFyICRzZWxlY3RlZEZvbGRlciA9ICRkb2N1bWVudEZvbGRlci0+Z2V0Rm9sZGVyKCl9Cg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">e2lmICRkb2N1bWVudEZvbGRlci0+Z2V0Rm9sZGVyKCkgPT09ICRzZWxlY3RlZEZvbGRlcn0KCQl7dmFyICRmb2xkZXIgPSAkc2VsZWN0ZWRGb2xkZXJ9Cgl7ZWxzZX0KCQl7dmFyICRmb2xkZXIgPSAkZG9jdW1lbnRGb2xkZXItPmdldEZvbGRlcigpfQoJey9pZn0K</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">e2lmICRkb2N1bWVudEZvbGRlci0+Z2V0Rm9sZGVyKCkgPT09ICRzZWxlY3RlZEZvbGRlcn0KCQkJe3ZhciAkZm9sZGVyID0gJHNlbGVjdGVkRm9sZGVyfQoJCXtlbHNlfQoJCQl7dmFyICRmb2xkZXIgPSAkZG9jdW1lbnRGb2xkZXItPmdldEZvbGRlcigpfQoJCXsvaWZ9</text>
+        <text encoding="base64">e2lmICRkb2N1bWVudEZvbGRlci0+Z2V0Rm9sZGVyKCkgPT09ICRzZWxlY3RlZEZvbGRlcn0KCQl7dmFyICRmb2xkZXIgPSAkc2VsZWN0ZWRGb2xkZXJ9Cgl7ZWxzZX0KCQl7dmFyICRmb2xkZXIgPSAkZG9jdW1lbnRGb2xkZXItPmdldEZvbGRlcigpfQoJey9pZn0K</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">e2lmICRkb2N1bWVudEZvbGRlci0+Z2V0Rm9sZGVyKCkgPT09ICRzZWxlY3RlZEZvbGRlcn0KCQkJe3ZhciAkZm9sZGVyID0gJHNlbGVjdGVkRm9sZGVyfQoJCXtlbHNlfQoJCQl7dmFyICRmb2xkZXIgPSAkZG9jdW1lbnRGb2xkZXItPmdldEZvbGRlcigpfQoJCXsvaWZ9</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">e2lmICRkb2N1bWVudEZvbGRlci0+Z2V0Rm9sZGVyKCkgIT09ICRzZWxlY3RlZEZvbGRlcn0KCQkJe3ZhciAkc2VsZWN0ZWRGb2xkZXIgPSAkZG9jdW1lbnRGb2xkZXItPmdldEZvbGRlcigpfQoJCXsvaWZ9</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCQl7dmFyICRzZWxlY3RlZEZvbGRlciA9ICRkb2N1bWVudEZvbGRlci0+Z2V0Rm9sZGVyKCl9Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">e2R1bXAgJHNlbGVjdGVkRm9sZGVyLT5nZXRTbHVnKCl9CgkJCQl7dmFyICRzZWxlY3RlZEZvbGRlciA9ICRkb2N1bWVudEZvbGRlci0+Z2V0Rm9sZGVyKCl9</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCXtkdW1wICduZW5lJ30K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CQkJCXtkdW1wICduZW5lJ30K</text>
@@ -5407,9 +5412,9 @@
       </register>
     </registers>
     <search>
-      <last-search>currentFile</last-search>
+      <last-search>isUseTopic</last-search>
       <last-offset />
-      <last-pattern>currentFile</last-pattern>
+      <last-pattern>isUseTopic</last-pattern>
       <last-replace>creditNote</last-replace>
       <last-substitute>invoice</last-substitute>
       <last-dir>1</last-dir>
@@ -5417,7 +5422,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setValue</entry>
         <entry>getDocumentFol</entry>
         <entry>Topic</entry>
         <entry>invoice</entry>
@@ -5437,6 +5441,7 @@
         <entry>selectedFolder</entry>
         <entry>folder</entry>
         <entry>currentFile</entry>
+        <entry>isUseTopic</entry>
       </history-search>
       <history-cmd>
         <entry>204</entry>
