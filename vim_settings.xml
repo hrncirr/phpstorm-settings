@@ -2905,10 +2905,10 @@
         <mark key="]" line="37" column="37" />
         <mark key="." line="37" column="37" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoicesGrid/InvoicesGrid.php" timestamp="1550157167147">
-        <mark key="[" line="217" column="0" />
-        <mark key="]" line="217" column="0" />
-        <mark key="." line="217" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/InvoicesGrid/InvoicesGrid.php" timestamp="1550583814930">
+        <mark key="[" line="228" column="25" />
+        <mark key="]" line="228" column="25" />
+        <mark key="." line="228" column="25" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Latte/CMPProvider.php" timestamp="1496048680217">
         <mark key="[" line="47" column="21" />
@@ -5365,10 +5365,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ISRkb2N1bWVudHNHcmlkLT5pc1VzZVRvcGljKCkgJiYg</text>
+        <text encoding="base64">ISRpbnZvaWNlLT5pc1BhaWQoKSAmJg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ISRkb2N1bWVudHNHcmlkLT5pc1VzZVRvcGljKCkgJiYg</text>
+        <text encoding="base64">ISRpbnZvaWNlLT5pc1BhaWQoKSAmJg==</text>
       </register>
       <register name="/" type="4">
         <text>isUseTopic</text>
@@ -5376,33 +5376,32 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PHNtYWxsIG46aWY9IiEkZG9jdW1lbnRzR3JpZC0+aXNVc2VUb3BpYygpICYmICRkb2N1bWVudC0+Z2V0VmFsaWRGcm9tKCkiPgoJCQkJeyRkb2N1bWVudC0+Z2V0VmFsaWRGcm9tKCl8ZGF0ZTonZC5tLid9CgkJCQk8YnIvPgoJCQkJeyRkb2N1bWVudC0+Z2V0VmFsaWRGcm9tKCl8ZGF0ZTonWSd9CgkJCTwvc21hbGw+</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCQlkdW1wKCR0aGlzLT5lbS0+ZmluZChGb3JtT2ZQYXltZW50OjpjbGFzcywgJHZhbHVlKS0+Z2V0TmFtZSgpKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text>dump($documentBody);
-		exit;</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQl7dmFyICRzZWxlY3RlZEZvbGRlciA9ICRkb2N1bWVudEZvbGRlci0+Z2V0Rm9sZGVyKCl9Cg==</text>
+        <text encoding="base64">CQkJCQlkdW1wKCR2YWx1ZSk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">e2lmICRkb2N1bWVudEZvbGRlci0+Z2V0Rm9sZGVyKCkgPT09ICRzZWxlY3RlZEZvbGRlcn0KCQl7dmFyICRmb2xkZXIgPSAkc2VsZWN0ZWRGb2xkZXJ9Cgl7ZWxzZX0KCQl7dmFyICRmb2xkZXIgPSAkZG9jdW1lbnRGb2xkZXItPmdldEZvbGRlcigpfQoJey9pZn0K</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">e2lmICRkb2N1bWVudEZvbGRlci0+Z2V0Rm9sZGVyKCkgPT09ICRzZWxlY3RlZEZvbGRlcn0KCQkJe3ZhciAkZm9sZGVyID0gJHNlbGVjdGVkRm9sZGVyfQoJCXtlbHNlfQoJCQl7dmFyICRmb2xkZXIgPSAkZG9jdW1lbnRGb2xkZXItPmdldEZvbGRlcigpfQoJCXsvaWZ9</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQlkdW1wKCRmb3JtT2ZQYXltZW50cyk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">e2lmICRkb2N1bWVudEZvbGRlci0+Z2V0Rm9sZGVyKCkgIT09ICRzZWxlY3RlZEZvbGRlcn0KCQkJe3ZhciAkc2VsZWN0ZWRGb2xkZXIgPSAkZG9jdW1lbnRGb2xkZXItPmdldEZvbGRlcigpfQoJCXsvaWZ9</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQl7dmFyICRzZWxlY3RlZEZvbGRlciA9ICRkb2N1bWVudEZvbGRlci0+Z2V0Rm9sZGVyKCl9Cg==</text>
+        <text encoding="base64">CQlkdW1wKCRmb3JtT2ZQYXltZW50cyk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">e2R1bXAgJHNlbGVjdGVkRm9sZGVyLT5nZXRTbHVnKCl9CgkJCQl7dmFyICRzZWxlY3RlZEZvbGRlciA9ICRkb2N1bWVudEZvbGRlci0+Z2V0Rm9sZGVyKCl9</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCQlkdW1wKCR2YWx1ZSk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCXtkdW1wICduZW5lJ30K</text>
+      <register name="9" type="4">
+        <text encoding="base64">ZWxzZWlmICgkdmFsdWUgPT09IDEpIHsKCQkJCQkkcWItPmFuZFdoZXJlKCdlLnBhaWREYXRlIElTIE5VTEwgQU5EIGUuZHVlRGF0ZSA+IENVUlJFTlRfVElNRVNUQU1QKCknKTsKCQkJCX0gZWxzZWlmICgkdmFsdWUgPT09IDIpIHsKCQkJCQkkcWItPmFuZFdoZXJlKCdlLnBhaWREYXRlIElTIE5VTEwgQU5EIGUuZHVlRGF0ZSA8IENVUlJFTlRfVElNRVNUQU1QKCknKTsKCQkJCX0=</text>
       </register>
       <register name=":" type="4">
         <text>%s/invoice/creditNote/g</text>
