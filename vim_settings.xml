@@ -753,8 +753,8 @@
       <file name="/home/www/html/dv/adera-test/Modules/Document/Components/FormParts/DocumentItemsFormPart/TDocumentItemsFormPart.php" timestamp="1546938994978">
         <mark key="[" line="137" column="40" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Presenters/templates/Subjects/addresses.latte" timestamp="1550664064093">
-        <mark key="[" line="1" column="10" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Presenters/templates/Subjects/addresses.latte" timestamp="1550668803384">
+        <mark key="[" line="9" column="9" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Files/Router/FileRouterFactory.php" timestamp="1484296476516">
         <mark key="[" line="40" column="71" />
@@ -824,10 +824,10 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Presenters/SubjectsPresenter.php" timestamp="1550664083293">
-        <mark key="[" line="44" column="4" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Presenters/SubjectsPresenter.php" timestamp="1550668749621">
+        <mark key="[" line="62" column="36" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Files/Presenters/FilePresenterCallback.php" timestamp="1484811254682">
         <mark key="[" line="105" column="8" />
@@ -2159,6 +2159,11 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectsGrid/SubjectsGrid.php" timestamp="1550667699374">
+        <mark key="[" line="200" column="0" />
+        <mark key="]" line="200" column="0" />
+        <mark key="." line="200" column="0" />
+      </file>
       <file name="/home/www/html/bul/phonebook/app/Model/SearchModel.php" timestamp="1481093168939">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -2577,9 +2582,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressesGrid/AddressesGrid.php" timestamp="1550662187183">
-        <mark key="'" line="229" column="23" />
-        <mark key="^" line="39" column="15" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressesGrid/AddressesGrid.php" timestamp="1550668578170">
+        <mark key="'" line="230" column="23" />
+        <mark key="[" line="166" column="58" />
+        <mark key="]" line="165" column="0" />
+        <mark key="." line="165" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/InputParser.php" timestamp="1476183447063">
         <mark key="[" line="12" column="0" />
@@ -3059,10 +3066,10 @@
         <mark key="]" line="343" column="8" />
         <mark key="." line="343" column="8" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressForm/AddressForm.php" timestamp="1550661111977">
-        <mark key="[" line="73" column="32" />
-        <mark key="]" line="73" column="32" />
-        <mark key="." line="73" column="32" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressForm/AddressForm.php" timestamp="1550668893727">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="4" />
+        <mark key="." line="74" column="4" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Components/FileManagerControl/FileManagerControl.php" timestamp="1485956796394">
         <mark key="[" line="25" column="8" />
@@ -4591,9 +4598,9 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressForm/templates/AddressForm.latte" timestamp="1550660999645">
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressForm/templates/AddressForm.latte" timestamp="1550668846640">
         <mark key="'" line="16" column="20" />
-        <mark key="[" line="16" column="26" />
+        <mark key="[" line="19" column="17" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
@@ -5380,10 +5387,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIGJvb2wKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGlzVXNlTW9kYWxGb3JtKCk6IGJvb2wKCXsKCQlyZXR1cm4gJHRoaXMtPmlzVXNlTW9kYWxGb3JtOwoJfQoKCgkvKioKCSAqIEBwYXJhbSBib29sICRpc1VzZU1vZGFsRm9ybQoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0SXNVc2VNb2RhbEZvcm0oYm9vbCAkaXNVc2VNb2RhbEZvcm0pOiB2b2lkCgl7CgkJJHRoaXMtPmlzVXNlTW9kYWxGb3JtID0gJGlzVXNlTW9kYWxGb3JtOwoJfQ==</text>
+        <text encoding="base64">LyoKCXB1YmxpYyBmdW5jdGlvbiByZW5kZXJNb2RhbEJvZHkoKQoJewoJCSR0aGlzLT5yZW5kZXIoKTsKCX0KCSov</text>
       </register>
       <register name="-" type="4">
-        <text>'/templates/SubjectForm.latte' :</text>
+        <text encoding="base64">JHRoaXMtPnN1YmplY3QsICcnLCAkdGhpcy0+aXNVc2VNb2RhbEZvcm0oKSA/IFtdIDogWyR0aGlzLT5zdWJqZWN0XSk=</text>
       </register>
       <register name="/" type="4">
         <text>onAdd</text>
@@ -5392,35 +5399,31 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIGJvb2wKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGlzVXNlTW9kYWxGb3JtKCk6IGJvb2wKCXsKCQlyZXR1cm4gJHRoaXMtPmlzVXNlTW9kYWxGb3JtOwoJfQoKCgkvKioKCSAqIEBwYXJhbSBib29sICRpc1VzZU1vZGFsRm9ybQoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0SXNVc2VNb2RhbEZvcm0oYm9vbCAkaXNVc2VNb2RhbEZvcm0pOiB2b2lkCgl7CgkJJHRoaXMtPmlzVXNlTW9kYWxGb3JtID0gJGlzVXNlTW9kYWxGb3JtOwoJfQ==</text>
+        <text encoding="base64">LyoKCXB1YmxpYyBmdW5jdGlvbiByZW5kZXJNb2RhbEJvZHkoKQoJewoJCSR0aGlzLT5yZW5kZXIoKTsKCX0KCSov</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkkdGhpcy0+dGVtcGxhdGUtPmxlZ2FsU3ViamVjdGl2aXR5ID0gKGludCkgJHRoaXNbJ2Zvcm0tbGVnYWxTdWJqZWN0aXZpdHknXS0+Z2V0VmFsdWUoKTsK</text>
+        <text encoding="base64">CQlkdW1wKCR0aGlzLT5nZXROYW1lKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQl7aW5jbHVkZSByaWdodH0K</text>
+        <text encoding="base64">CQkkdGhpcy0+c3ViamVjdCA9ICRzdWJqZWN0SWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQl7aW5jbHVkZSBsZWZ0fQo=</text>
+        <text encoding="base64">CQlkdW1wKCR0aGlzLT5nZXROYW1lKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAqIEBlbnRpdHlMb2FkZXJDb21wb25lbnQgYWRkcmVzc2VzLWMtYmFua0Nvbm5lY3Rpb25zLWMgQWRkcmVzc0Jvb2tcQ29tcG9uZW50c1xCYW5rQ29ubmVjdGlvbnNHcmlkXEJhbmtDb25uZWN0aW9uc0dyaWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQl7aW5jbHVkZSBsZWdhbFN1YmplY3Rpdml0eUNvbnRyb2wubGF0dGUgY2xhc3MgPT4gJ2NvbC1zbS1vZmZzZXQtMiBjb2wtc20tMTAnfQo=</text>
+        <text encoding="base64">CQkkYnV0dG9uTmV3Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>{if $legalSubjectivity === \AddressBook\LegalSubjectivity::LEGAL_ENTITY}
-					{import legalEntity.latte}
-				{elseif $legalSubjectivity === \AddressBook\LegalSubjectivity::NATURAL_PERSON}
-					{import naturalPerson.latte}
-				{/if}</text>
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIGJvb2wKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGlzVXNlTW9kYWxGb3JtKCk6IGJvb2wKCXsKCQlyZXR1cm4gJHRoaXMtPmlzVXNlTW9kYWxGb3JtOwoJfQoKCgkvKioKCSAqIEBwYXJhbSBib29sICRpc1VzZU1vZGFsRm9ybQoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0SXNVc2VNb2RhbEZvcm0oYm9vbCAkaXNVc2VNb2RhbEZvcm0pOiB2b2lkCgl7CgkJJHRoaXMtPmlzVXNlTW9kYWxGb3JtID0gJGlzVXNlTW9kYWxGb3JtOwoJfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCXJldHVybiAtMTsK</text>
+        <text encoding="base64">CQkkdGhpcy0+dGVtcGxhdGUtPmxlZ2FsU3ViamVjdGl2aXR5ID0gKGludCkgJHRoaXNbJ2Zvcm0tbGVnYWxTdWJqZWN0aXZpdHknXS0+Z2V0VmFsdWUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJey9pZn0K</text>
+        <text encoding="base64">CQkJCQl7aW5jbHVkZSByaWdodH0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/invoice/creditNote/g</text>
