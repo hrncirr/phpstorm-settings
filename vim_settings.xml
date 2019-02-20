@@ -1372,8 +1372,10 @@
       <file name="/home/www/html/nnb/dms/src/Documents/DocumentFolder.php" timestamp="1550237783083">
         <mark key="[" line="14" column="30" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.latte" timestamp="1550649509725">
-        <mark key="[" line="35" column="18" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.latte" timestamp="1550650907457">
+        <mark key="[" line="26" column="54" />
+        <mark key="]" line="26" column="54" />
+        <mark key="." line="26" column="54" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/validator/src/ConstraintViolationsMapper.php" timestamp="1497513197426">
         <mark key="[" line="1" column="0" />
@@ -5369,11 +5371,11 @@
       <jump line="31" column="79" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJey9pZn0K</text>
+      <register name="&quot;" type="4">
+        <text>- (isset($form['version']) ? 2 : 0)}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ISRpbnZvaWNlLT5pc1BhaWQoKSAmJg==</text>
+        <text>- (isset($form['version']) ? 2 : 0)}</text>
       </register>
       <register name="/" type="4">
         <text>version</text>
