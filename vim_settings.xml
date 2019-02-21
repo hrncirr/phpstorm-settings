@@ -23,7 +23,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1550066681881">
+      <file name="/a.dummy" timestamp="1550743026503">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1098,8 +1098,8 @@
         <mark key="]" line="25" column="4" />
         <mark key="." line="25" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Address.php" timestamp="1543999425869">
-        <mark key="[" line="54" column="68" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Address.php" timestamp="1550741377268">
+        <mark key="[" line="70" column="15" />
         <mark key="]" line="54" column="68" />
         <mark key="." line="54" column="68" />
       </file>
@@ -1137,6 +1137,12 @@
         <mark key="[" line="250" column="12" />
         <mark key="]" line="250" column="12" />
         <mark key="." line="250" column="12" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressObjectForm/AddressObjectForm.php" timestamp="1550743460808">
+        <mark key="[" line="110" column="8" />
+        <mark key="]" line="110" column="4" />
+        <mark key="." line="110" column="4" />
+        <mark key="^" line="110" column="4" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" timestamp="1500550523151">
         <mark key="[" line="92" column="8" />
@@ -1383,12 +1389,6 @@
         <mark key="[" line="26" column="25" />
         <mark key="]" line="10" column="16" />
         <mark key="." line="10" column="16" />
-      </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1550649476551">
-        <mark key="'" line="22" column="21" />
-        <mark key="[" line="216" column="0" />
-        <mark key="]" line="216" column="0" />
-        <mark key="." line="216" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/jstree/src/DI/DoctrineDataSource.php" timestamp="1479301570985">
         <mark key="[" line="13" column="0" />
@@ -2131,6 +2131,9 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressObjectsGrid/IAddressesGridFactory.php" timestamp="1550742120794">
+        <mark key="[" line="4" column="40" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Search/DI/SearchExtension.php" timestamp="1544703032766">
         <mark key="[" line="90" column="4" />
         <mark key="]" line="14" column="0" />
@@ -2219,7 +2222,9 @@
       <file name="/home/www/html/nnb/dms/src/Documents/DocumentFacade.php" timestamp="1548940704285">
         <mark key="[" line="33" column="8" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/AddressObject.php" timestamp="1550673513561" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/AddressObject.php" timestamp="1550741865359">
+        <mark key="[" line="35" column="17" />
+      </file>
       <file name="/home/www/html/nnb/passportization/src/Passportization/TechnicalRequisitions/model/StateModel.php" timestamp="1486460517522">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="4" />
@@ -2388,6 +2393,9 @@
         <mark key="[" line="3" column="1" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressObjectForm/AddressForm.php" timestamp="1550742985897">
+        <mark key="[" line="4" column="40" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/Passportization/TechnicalRequisitions/components/ProfessionsStatisticsGrid/ProfessionsStatisticsGrid.php" timestamp="1487594874664">
         <mark key="[" line="67" column="14" />
@@ -3174,12 +3182,6 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/DI/config.neon" timestamp="1550671261023">
-        <mark key="'" line="6" column="45" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Components/TechnicalRequisitionImagesControl/TechnicalRequisitionImagesControl.php" timestamp="1494420891509">
         <mark key="[" line="72" column="29" />
         <mark key="]" line="16" column="0" />
@@ -3420,6 +3422,9 @@
         <mark key="[" line="2" column="4" />
         <mark key="]" line="74" column="22" />
         <mark key="." line="74" column="22" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressObjectForm/IAddressFormFactory.php" timestamp="1550742996929">
+        <mark key="[" line="11" column="40" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/tabs/bower.json" timestamp="1487338651123">
         <mark key="[" line="8" column="45" />
@@ -4215,6 +4220,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressObjectsGrid/AddressesGrid.php" timestamp="1550742109595">
+        <mark key="[" line="8" column="40" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Documents/EntityLoader/Filters/TopicFilterOut.php" timestamp="1550134294366">
         <mark key="[" line="25" column="4" />
         <mark key="]" line="25" column="8" />
@@ -4224,6 +4232,11 @@
         <mark key="[" line="2" column="30" />
         <mark key="]" line="2" column="30" />
         <mark key="." line="2" column="30" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressObjectsGrid/IAddressObjectsGridFactory.php" timestamp="1550742211647">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Pages/AdminModule/Components/HistoryControlFactory.php" timestamp="1494938211526">
         <mark key="[" line="25" column="6" />
@@ -4411,6 +4424,11 @@
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Presenters/templates/Subjects/default.latte" timestamp="1550664054590">
         <mark key="[" line="1" column="3" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressObjectForm/IAddressObjectFormFactory.php" timestamp="1550743121315">
+        <mark key="[" line="23" column="21" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="/home/www/html/nnb/passportization/src/App/Users/UserRepository.php" timestamp="1485874650640">
         <mark key="[" line="45" column="8" />
         <mark key="]" line="45" column="8" />
@@ -4539,12 +4557,6 @@
         <mark key="]" line="26" column="32" />
         <mark key="." line="26" column="32" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1550574608864">
-        <mark key="'" line="566" column="23" />
-        <mark key="[" line="394" column="66" />
-        <mark key="]" line="564" column="0" />
-        <mark key="." line="564" column="0" />
-      </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/FilesUploadForm/FilesUploadForm.php" timestamp="1548940905089">
         <mark key="[" line="28" column="36" />
         <mark key="]" line="118" column="22" />
@@ -4602,12 +4614,6 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressForm/templates/AddressForm.latte" timestamp="1550671087025">
-        <mark key="'" line="16" column="20" />
-        <mark key="[" line="31" column="21" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/TagsGrid/TagsGrid.php" timestamp="1497598493187">
         <mark key="[" line="16" column="0" />
@@ -5094,6 +5100,12 @@
         <mark key="]" line="2" column="32" />
         <mark key="." line="2" column="32" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressObjectsGrid/AddressObjectsGrid.php" timestamp="1550742808643">
+        <mark key="[" line="113" column="8" />
+        <mark key="]" line="113" column="8" />
+        <mark key="." line="113" column="8" />
+        <mark key="^" line="118" column="0" />
+      </file>
       <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Components/ProfessionsStatesGrid/IProfessionsStatesGridFactory.php" timestamp="1502108401716">
         <mark key="[" line="25" column="42" />
         <mark key="]" line="14" column="0" />
@@ -5391,11 +5403,11 @@
       <jump line="27" column="40" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIERvY3RyaW5lXENvbW1vblxDb2xsZWN0aW9uc1xDcml0ZXJpYTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JGRlZmF1bHRBZGRyZXNzID0gJHRoaXMtPnN1YmplY3QtPmdldERlZmF1bHRBZGRyZXNzKCk7CgkJaWYgKCRkZWZhdWx0QWRkcmVzcyA9PT0gbnVsbCB8fCAkZGVmYXVsdEFkZHJlc3MgPT09ICR0aGlzLT5hZGRyZXNzKSB7CgkJCSRmb3JtLT5hZGRDaGVja2JveCgnZGVmYXVsdCcsICR0cmFuc2xhdG9yRG9tYWluIC4gJy5kZWZhdWx0LnRpdGxlJyk7CgkJfQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCAnc3ViamVjdElkJyA9PiBudWw=</text>
+        <text encoding="base64">IENvdW50cmllc01vZGVsICRjb3VudHJpZXNNb2RlbCw=</text>
       </register>
       <register name="/" type="4">
         <text>TabsControl</text>
@@ -5403,66 +5415,38 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dXNlIERvY3RyaW5lXENvbW1vblxDb2xsZWN0aW9uc1xDcml0ZXJpYTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">JGRlZmF1bHRBZGRyZXNzID0gJHRoaXMtPnN1YmplY3QtPmdldERlZmF1bHRBZGRyZXNzKCk7CgkJaWYgKCRkZWZhdWx0QWRkcmVzcyA9PT0gbnVsbCB8fCAkZGVmYXVsdEFkZHJlc3MgPT09ICR0aGlzLT5hZGRyZXNzKSB7CgkJCSRmb3JtLT5hZGRDaGVja2JveCgnZGVmYXVsdCcsICR0cmFuc2xhdG9yRG9tYWluIC4gJy5kZWZhdWx0LnRpdGxlJyk7CgkJfQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEFkZHJlc3NCb29rXFZhbGlkYXRvclxDb25zdHJhaW50c1xVbmlxdWVEZWZhdWx0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXVzZSBUQWRkcmVzczsK</text>
+        <text encoding="base64">CQkkdGhpc1snYWRkcmVzc0Zvcm1QYXJ0J10tPmNyZWF0ZUNvbnRyb2xzKCRmb3JtKTsK</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldFBhcmVudCgpCgl7CgkJcmV0dXJuICR0aGlzLT5wYXJlbnRzLT5maXJzdCgpOwoJfQ==</text>
+        <text encoding="base64">JGZvcm0tPmFkZFN1Ym1pdCgnYmFjaycsICdacMSbdCcpCgkJCS0+c2V0VHJhbnNsYXRvcihudWxsKQoJCQktPnNldFZhbGlkYXRpb25TY29wZShbXSkKCQkJLT5vbkNsaWNrW10gPSBmdW5jdGlvbiAoKSB7CgkJCS8vJHRoaXMtPm9uQmFjaygpOwoJCX07</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIENvbnRhY3RbXXxDb2xsZWN0aW9uCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRDb250YWN0cygpOiBDb2xsZWN0aW9uCgl7CgkJcmV0dXJuIG5ldyBSZWFkT25seUNvbGxlY3Rpb25XcmFwcGVyKCR0aGlzLT5jb250YWN0cyk7Cgl9CgoKCS8qKgoJICogQHBhcmFtIENvbnRhY3QgJGNvbnRhY3QKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGFkZENvbnRhY3QoQ29udGFjdCAkY29udGFjdCk6IHZvaWQKCXsKCQlpZiAoJHRoaXMtPmNvbnRhY3RzLT5jb250YWlucygkY29udGFjdCkpIHsKCQkJcmV0dXJuOwoJCX0KCgkJJHRoaXMtPmNvbnRhY3RzLT5hZGQoJGNvbnRhY3QpOwoJCSRjb250YWN0LT5zZXRBZGRyZXNzKCR0aGlzKTsKCX0KCgoJLyoqCgkgKiBAcGFyYW0gQ29udGFjdCAkY29udGFjdAoJICovCglwdWJsaWMgZnVuY3Rpb24gcmVtb3ZlQ29udGFjdChDb250YWN0ICRjb250YWN0KTogdm9pZAoJewoJCSR0aGlzLT5jb250YWN0cy0+cmVtb3ZlRWxlbWVudCgkY29udGFjdCk7CgkJJGNvbnRhY3QtPnNldEFkZHJlc3MobnVsbCk7Cgl9CgoKCS8qKgoJICogQHJldHVybiBDb250YWN0fG51bGwKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGdldERlZmF1bHRDb250YWN0KCk6ID9Db250YWN0Cgl7CgkJJGNyaXRlcmlhID0gQ3JpdGVyaWE6OmNyZWF0ZSgpCgkJCS0+d2hlcmUoQ3JpdGVyaWE6OmV4cHIoKS0+ZXEoJ2RlZmF1bHQnLCB0cnVlKSkKCQkJLT5zZXRGaXJzdFJlc3VsdCgwKQoJCQktPnNldE1heFJlc3VsdHMoMSk7CgoJCXJldHVybiAkdGhpcy0+Y29udGFjdHMtPm1hdGNoaW5nKCRjcml0ZXJpYSlbMF07Cgl9CgoKCXB1YmxpYyBmdW5jdGlvbiBzZXREZWZhdWx0Q29udGFjdCg/Q29udGFjdCAkY29udGFjdCk6IHZvaWQKCXsKCQkkdGhpcy0+ZGVmYXVsdENvbnRhY3QgPSAkY29udGFjdDsKCX0KCgoJLyoqCgkgKiBAcmV0dXJuIGJvb2wKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGlzRGVmYXVsdCgpOiBib29sCgl7CgkJcmV0dXJuICR0aGlzLT5kZWZhdWx0OwoJfQoKCgkvKioKCSAqIEBwYXJhbSBib29sICRkZWZhdWx0CgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXREZWZhdWx0KGJvb2wgJGRlZmF1bHQpOiB2b2lkCgl7CgkJJHRoaXMtPmRlZmF1bHQgPSAkZGVmYXVsdDsKCX0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">CSAqIEBwYXJhbSBDb3VudHJpZXNNb2RlbCAkY291bnRyaWVzTW9kZWwK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIHN0cmluZwoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0Q291bnRyeSgpOiBzdHJpbmcKCXsKCQlyZXR1cm4gJHRoaXMtPmNvdW50cnk7Cgl9CgoKCS8qKgoJICogQHBhcmFtIHN0cmluZyAkY291bnRyeQoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0Q291bnRyeShzdHJpbmcgJGNvdW50cnkpOiB2b2lkCgl7CgkJJHRoaXMtPmNvdW50cnkgPSAkY291bnRyeTsKCX0KCgoJLyoqCgkgKiBAcmV0dXJuIEFkZHJlc3NUeXBlfG51bGwKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGdldEFkZHJlc3NUeXBlKCk6ID9BZGRyZXNzVHlwZQoJewoJCXJldHVybiAkdGhpcy0+YWRkcmVzc1R5cGU7Cgl9CgoKCS8qKgoJICogQHBhcmFtIEFkZHJlc3NUeXBlICRhZGRyZXNzVHlwZQoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0QWRkcmVzc1R5cGUoQWRkcmVzc1R5cGUgJGFkZHJlc3NUeXBlKTogdm9pZAoJewoJCSR0aGlzLT5hZGRyZXNzVHlwZSA9ICRhZGRyZXNzVHlwZTsKCX0KCgoJLyoqCgkgKiBAcmV0dXJuIFN1YmplY3R8bnVsbAoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0U3ViamVjdCgpOiA/U3ViamVjdAoJewoJCXJldHVybiAkdGhpcy0+c3ViamVjdDsKCX0KCgoJLyoqCgkgKiBAcGFyYW0gU3ViamVjdCAkc3ViamVjdAoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0U3ViamVjdChTdWJqZWN0ICRzdWJqZWN0KTogdm9pZAoJewoJCSR0aGlzLT5zdWJqZWN0ID0gJHN1YmplY3Q7Cgl9</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkkdGhpcy0+Y291bnRyaWVzTW9kZWwgPSAkY291bnRyaWVzTW9kZWw7Cg==</text>
       </register>
       <register name="7" type="4">
         <text>/**
-	 * @ORM\ManyToOne(targetEntity=&quot;AddressType&quot;)
-	 * @ORM\JoinColumn(name=&quot;address_type_id&quot;, referencedColumnName=&quot;id&quot;, onDelete=&quot;SET NULL&quot;)
-	 * @Assert\NotBlank()
-	 * @var AddressType
+	 * @var CountriesModel
 	 */
-	private $addressType;
-
-	/**
-	 * @ORM\ManyToOne(targetEntity=&quot;Subject&quot;, inversedBy=&quot;addresses&quot;)
-	 * @ORM\JoinColumn(name=&quot;subject_id&quot;, referencedColumnName=&quot;id&quot;, onDelete=&quot;SET NULL&quot;)
-	 * @var Subject
-	 */
-	private $subject;
-
-	/**
-	 * @ORM\OneToMany(targetEntity=&quot;Contact&quot;, mappedBy=&quot;address&quot;, cascade={&quot;persist&quot;})
-	 * @var Contact[]|ArrayCollection
-	 */
-	private $contacts;
-
-	/**
-	 * @ORM\ManyToOne(targetEntity=&quot;Contact&quot;, cascade={&quot;persist&quot;})
-	 * @var Contact
-	 */
-	private $defaultContact;
-
-	/**
-	 * @ORM\Column(type=&quot;boolean&quot;, name=&quot;default_record&quot;)
-	 * @var bool
-	 */
-	protected $default = false;</text>
+	private $countriesModel;</text>
       </register>
       <register name="8" type="4">
-        <text>@Assert\Length(
-	 *      min=3,
-	 *      max=20
-	 * )</text>
+        <text>/**
+	 * @var Subject
+	 */
+	private $subject;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQFVuaXF1ZURlZmF1bHQoKQo=</text>
+        <text encoding="base64">CQkkdGhpcy0+c3ViamVjdCA9ICRzdWJqZWN0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/invoice/creditNote/g</text>
