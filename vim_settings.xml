@@ -1405,9 +1405,9 @@
         <mark key="]" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1551101251044">
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1551104014744">
         <mark key="'" line="492" column="31" />
-        <mark key="[" line="494" column="13" />
+        <mark key="[" line="497" column="35" />
         <mark key="]" line="499" column="45" />
         <mark key="." line="499" column="45" />
         <mark key="^" line="499" column="45" />
@@ -2061,10 +2061,11 @@
         <mark key="]" line="53" column="56" />
         <mark key="." line="53" column="56" />
       </file>
-      <file name="/home/www/vendor/hrncirr/modals/src/TModalFormControl.php" timestamp="1551100921400">
-        <mark key="[" line="100" column="4" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="/home/www/vendor/hrncirr/modals/src/TModalFormControl.php" timestamp="1551103486625">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="66" />
+        <mark key="." line="78" column="66" />
+        <mark key="^" line="78" column="66" />
       </file>
       <file name="/home/www/lib/vendor/symplify/symfony-event-dispatcher/src/Adapter/Symfony/SymfonyEventDispatcherBundle.php" timestamp="1491374349740">
         <mark key="[" line="19" column="61" />
@@ -3184,6 +3185,7 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Document/Components/FormParts/ItemsFormPart/ItemsFormPart.php" timestamp="1551104021247" />
       <file name="/home/www/html/dv/cms/app/forms-tag-input/composer.json" timestamp="1496150400055">
         <mark key="[" line="15" column="24" />
         <mark key="]" line="15" column="0" />
@@ -5473,7 +5475,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkgICAgZHVtcCgnbmU7ZGRuZScpOwo=</text>
+        <text encoding="base64">CQkJCWR1bXAoJ29rJyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IG46c25pcHBldD0iZnV0dXJlUmVsYXRlZERvY3VtZW50cyIg</text>
@@ -5485,32 +5487,32 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkgICAgZHVtcCgnbmU7ZGRuZScpOwo=</text>
+        <text encoding="base64">CQkJCWR1bXAoJ29rJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJZHVtcCgnb2snKTsK</text>
+        <text encoding="base64">CQkgICAgZHVtcCgnbmU7ZGRuZScpOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CQkJZHVtcCgnb2snKTsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CQkJCXtmb3JtUGFydCBmb3JtfQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>dump('nene');
 		exit;</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">LT5zZXRWYWxpZGF0aW9uU2NvcGUoZmFsc2UpCgkJCQktPm9uQ2xpY2tbXSA9IGZ1bmN0aW9uICgkYnV0dG9uKSB7CgkJCQkkdGhpcy0+cmVkcmF3Q29udHJvbCgnZnV0dXJlUmVsYXRlZERvY3VtZW50cycpOwoJCQl9Ow==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">PHRkIG46Zm9yZWFjaD0iJGZvcm1Db250YWluZXJbJ3Blcm1pc3Npb25zJ10tPmdldENvbnRyb2xzKCkgYXMgJHBlcm1pc3Npb24iPgoJCQkJCQl7aW5wdXQgcGVybWlzc2lvbnMteyRwZXJtaXNzaW9uLT5nZXROYW1lKCl9fQoJCQkJCTwvdGQ+</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCQkJe2luY2x1ZGUgI2Vycm9yc30K</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">e2lmICRmb3JtQ29udGFpbmVyWydncm91cCddLT5oYXNFcnJvcnMoKX0KCQkJCQkJe3ZhciAkZXJyb3JzID0gJGZvcm1Db250YWluZXJbJ2dyb3VwJ10tPmVycm9yc30KCQkJCQl7ZWxzZX0KCQkJCQkJe3ZhciAkZXJyb3JzID0gbnVsbH0KCQkJCQl7L2lmfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJe3BhaXIgZnV0dXJlUmVsYXRlZERvY3VtZW50c30K</text>
       </register>
       <register name=":" type="4">
         <text>%s/invoice/creditNote/g</text>
