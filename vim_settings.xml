@@ -1388,10 +1388,10 @@
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/OfferForm/IOfferFormFactory.php" timestamp="1550841295407">
         <mark key="[" line="25" column="39" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.latte" timestamp="1550655553046">
-        <mark key="[" line="26" column="51" />
-        <mark key="]" line="26" column="54" />
-        <mark key="." line="26" column="54" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.latte" timestamp="1551097939185">
+        <mark key="[" line="105" column="20" />
+        <mark key="]" line="105" column="20" />
+        <mark key="." line="105" column="20" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/validator/src/ConstraintViolationsMapper.php" timestamp="1497513197426">
         <mark key="[" line="1" column="0" />
@@ -1403,10 +1403,10 @@
         <mark key="]" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1551096050132">
-        <mark key="[" line="483" column="12" />
-        <mark key="]" line="483" column="12" />
-        <mark key="." line="483" column="12" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1551096773694">
+        <mark key="[" line="496" column="13" />
+        <mark key="]" line="498" column="0" />
+        <mark key="." line="498" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/jstree/src/DI/DoctrineDataSource.php" timestamp="1479301570985">
         <mark key="[" line="13" column="0" />
@@ -2445,6 +2445,7 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Groups/Components/GroupsPermissionsForm/GroupsPermissionsForm.latte" timestamp="1551097410233" />
       <file name="/home/www/html/nnb/passportization/app/components/FloorMapControl/FloorMapControl.php" timestamp="1486634150032">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -5453,10 +5454,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LyoqCgkJCSAqIEB2YXIgICAgICAgJGlkCgkJCSAqIEB2YXIgR3JvdXAgJGdyb3VwCgkJCSAqLwoJCQlmb3JlYWNoICgkdGhpcy0+Z3JvdXBzIGFzICRpZCA9PiAkZ3JvdXApIHsKCQkJCSRncm91cExpc3RbJGlkXSA9ICRncm91cC0+Z2V0TmFtZSgpOwoJCQl9</text>
+        <text encoding="base64">PHRkIG46Zm9yZWFjaD0iJGZvcm1Db250YWluZXJbJ3Blcm1pc3Npb25zJ10tPmdldENvbnRyb2xzKCkgYXMgJHBlcm1pc3Npb24iPgoJCQkJCQl7aW5wdXQgcGVybWlzc2lvbnMteyRwZXJtaXNzaW9uLT5nZXROYW1lKCl9fQoJCQkJCTwvdGQ+</text>
       </register>
       <register name="-" type="4">
-        <text>use ($groupList)</text>
+        <text encoding="base64">dXNlICgkZm9ybSwgJGdyb3Vwcykg</text>
       </register>
       <register name="/" type="4">
         <text>TabsControl</text>
@@ -5465,47 +5466,32 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">LyoqCgkJCSAqIEB2YXIgICAgICAgJGlkCgkJCSAqIEB2YXIgR3JvdXAgJGdyb3VwCgkJCSAqLwoJCQlmb3JlYWNoICgkdGhpcy0+Z3JvdXBzIGFzICRpZCA9PiAkZ3JvdXApIHsKCQkJCSRncm91cExpc3RbJGlkXSA9ICRncm91cC0+Z2V0TmFtZSgpOwoJCQl9</text>
+        <text encoding="base64">PHRkIG46Zm9yZWFjaD0iJGZvcm1Db250YWluZXJbJ3Blcm1pc3Npb25zJ10tPmdldENvbnRyb2xzKCkgYXMgJHBlcm1pc3Npb24iPgoJCQkJCQl7aW5wdXQgcGVybWlzc2lvbnMteyRwZXJtaXNzaW9uLT5nZXROYW1lKCl9fQoJCQkJCTwvdGQ+</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gc3RyaW5nICRkb2N1bWVudHMKCSAqLwoJcHVibGljIGZ1bmN0aW9uIHNldERvY3VtZW50cyhzdHJpbmcgJGRvY3VtZW50cykKCXsKCQkkdGhpcy0+ZG9jdW1lbnRzID0gJGRvY3VtZW50czsKCX0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCQkJe2luY2x1ZGUgI2Vycm9yc30K</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICogQHBhcmFtIHN0cmluZyAkbnVtYmVyCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXROdW1iZXIoc3RyaW5nICRudW1iZXIpOiB2b2lkCgl7CgkJJHRoaXMtPm51bWJlciA9ICRudW1iZXI7Cgl9</text>
+        <text encoding="base64">e2lmICRmb3JtQ29udGFpbmVyWydncm91cCddLT5oYXNFcnJvcnMoKX0KCQkJCQkJe3ZhciAkZXJyb3JzID0gJGZvcm1Db250YWluZXJbJ2dyb3VwJ10tPmVycm9yc30KCQkJCQl7ZWxzZX0KCQkJCQkJe3ZhciAkZXJyb3JzID0gbnVsbH0KCQkJCQl7L2lmfQ==</text>
       </register>
-      <register name="4" type="4">
-        <text>enchant_dict_add_to_personal(
-	
-)</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJe3BhaXIgZnV0dXJlUmVsYXRlZERvY3VtZW50c30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJLT5zZXRTb3J0YWJsZSgpOwo=</text>
+        <text encoding="base64">CQkJCSRmb3JtLT5vblN1Y2Nlc3MgPSBbXTsK</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICogQHJldHVybiBBZGRyZXNzT2JqZWN0W118Q29sbGVjdGlvbgoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0UGFyZW50KCk6IENvbGxlY3Rpb24KCXsKCQlyZXR1cm4gbmV3IFJlYWRPbmx5Q29sbGVjdGlvbldyYXBwZXIoJHRoaXMtPnBhcmVudHMpOwoJfQoKCglwdWJsaWMgZnVuY3Rpb24gYWRkUGFyZW50KEFkZHJlc3NPYmplY3QgJGFkZHJlc3NPYmplY3QpOiB2b2lkCgl7CgkJaWYgKCR0aGlzLT5wYXJlbnRzLT5jb250YWlucygkYWRkcmVzc09iamVjdCkpIHsKCQkJcmV0dXJuOwoJCX0KCgkJJGFkZHJlc3NPYmplY3QtPmNoaWxkcmVuW10gPSAkdGhpczsKCQkkdGhpcy0+cGFyZW50c1tdID0gJGFkZHJlc3NPYmplY3Q7Cgl9</text>
+        <text encoding="base64">aWYgKCRmb3JtWyJ7JHRoaXMtPnByZWZpeH1Hcm91cHMiXS0+Z2V0Q29udGFpbmVycygpLT5jb3VudCgpIDwgJHRoaXMtPm1heEdyb3VwcyArIDEpIHsKCQkJCQkkYnV0dG9uLT5wYXJlbnQtPmNyZWF0ZU9uZSgpOwoJCQkJfQ==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkkdGhpcy0+cGFyZW50cyA9IG5ldyBBcnJheUNvbGxlY3Rpb24oKTsK</text>
+      <register name="7" type="4">
+        <text>Replicator\Container $replicator,
+					                             Forms\Container $group</text>
       </register>
       <register name="8" type="4">
-        <text>/**
-	 * @ORM\ManyToMany(targetEntity=&quot;AddressObject&quot;, inversedBy=&quot;parents&quot;)
-	 * @ORM\JoinTable(
-	 *    name=&quot;address_book_address_objects_children&quot;,
-	 *    inverseJoinColumns={
-	 *		@ORM\JoinColumn(name=&quot;attachment_id&quot;, referencedColumnName=&quot;id&quot;)
-	 *    }
-	 * )
-	 * @var AddressObject[]|Collection
-	 */
-	private $children;</text>
+        <text encoding="base64">JGdyb3VwLT5hZGRTZWxlY3QoJ2dyb3VwJywgJ1NrdXBpbmEnLCAkZ3JvdXBMaXN0KQoJCQkJCS0+c2V0QXR0cmlidXRlKCdkYXRhLWdyb3Vwcy1wZXJtaXNzaW9ucy1jaGFuZ2UtZ3JvdXAnKTsKCgkJCQkkcGVybWlzc2lvbnMgPSAkZ3JvdXAtPmFkZENvbnRhaW5lcigncGVybWlzc2lvbnMnKTsKCgkJCQlmb3JlYWNoICgkdGhpcy0+cGVybWlzc2lvbnNNYXAgYXMgJG5hbWUgPT4gJGlkKSB7CgkJCQkJJHBlcm1pc3Npb25zLT5hZGRDaGVja0JveCgkaWQsICRuYW1lKTsKCQkJCX0=</text>
       </register>
       <register name="9" type="4">
-        <text>/**
-	 * @ORM\ManyToMany(targetEntity=&quot;AddressObject&quot;, mappedBy=&quot;children&quot;)
-	 * @var AddressObject[]|Collection
-	 */
-	private $parents;</text>
+        <text encoding="base64">LyoqCgkJCSAqIEB2YXIgICAgICAgJGlkCgkJCSAqIEB2YXIgR3JvdXAgJGdyb3VwCgkJCSAqLwoJCQlmb3JlYWNoICgkdGhpcy0+Z3JvdXBzIGFzICRpZCA9PiAkZ3JvdXApIHsKCQkJCSRncm91cExpc3RbJGlkXSA9ICRncm91cC0+Z2V0TmFtZSgpOwoJCQl9</text>
       </register>
       <register name=":" type="4">
         <text>%s/invoice/creditNote/g</text>
