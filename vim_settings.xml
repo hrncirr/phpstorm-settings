@@ -1398,10 +1398,10 @@
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/OfferForm/IOfferFormFactory.php" timestamp="1550841295407">
         <mark key="[" line="25" column="39" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.latte" timestamp="1551190807946">
-        <mark key="[" line="115" column="98" />
-        <mark key="]" line="115" column="98" />
-        <mark key="." line="115" column="98" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.latte" timestamp="1551278927052">
+        <mark key="[" line="117" column="61" />
+        <mark key="]" line="117" column="61" />
+        <mark key="." line="117" column="61" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/validator/src/ConstraintViolationsMapper.php" timestamp="1497513197426">
         <mark key="[" line="1" column="0" />
@@ -1413,12 +1413,11 @@
         <mark key="]" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1551276066156">
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1551278370975">
         <mark key="'" line="535" column="31" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="^" line="510" column="20" />
-        <mark key="." line="134" column="0" />
+        <mark key="[" line="621" column="0" />
+        <mark key="]" line="621" column="0" />
+        <mark key="." line="621" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/jstree/src/DI/DoctrineDataSource.php" timestamp="1479301570985">
         <mark key="[" line="13" column="0" />
@@ -3313,7 +3312,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551259099056">
+      <file name="/Dummy.txt" timestamp="1551279061368">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -5484,10 +5483,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>App\Documents\Events\DocumentFolderSortableListener</text>
+        <text>col-md-2</text>
       </register>
       <register name="-" type="4">
-        <text>App\Documents\Events\DocumentFolderSortableListener</text>
+        <text>col-md-2</text>
       </register>
       <register name="/" type="4">
         <text>redraw</text>
@@ -5496,31 +5495,31 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWlmIChlbXB0eSgkaWQpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShEb2N1bWVudDo6Y2xhc3MpLT5maW5kQnkoWydpZCBJTicgPT4gWzEsMl1dKSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCQkkZnV0dXJlUmVsYXRlZERvY3VtZW50LT5nZXREb2N1bWVudElkcygpOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQlkdW1wKCR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShEb2N1bWVudDo6Y2xhc3MpLT5maW5kQnkoWydpZCBJTicgPT4gWzEsMl1dKSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCQkkZnV0dXJlUmVsYXRlZERvY3VtZW50LT5nZXREb2N1bWVudElkcygpOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkkZW50aXRpZXMgPSBhcnJheV9tZXJnZSgkdW93LT5nZXRTY2hlZHVsZWRFbnRpdHlJbnNlcnRpb25zKCksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">CQkkZW50aXRpZXMgPSBhcnJheV9tZXJnZSgkdW93LT5nZXRTY2hlZHVsZWRFbnRpdHlJbnNlcnRpb25zKCksCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CQkJJHVvdy0+Z2V0U2NoZWR1bGVkRW50aXR5VXBkYXRlcygpKTsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">JHRoaXMtPnNvcnQoJGVtLCAkZm9sZGVyLCBGb2xkZXI6OlNPUlRfRE9DVU1FTlQsIGZhbHNlKTsKCQkJCSR0aGlzLT5zb3J0KCRlbSwgJGZvbGRlciwgRm9sZGVyOjpTT1JUX0FUVEFDSE1FTlQsIGZhbHNlKTs=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkkdW93ID0gJGVtLT5nZXRVbml0T2ZXb3JrKCk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkkZW0gPSAkYXJncy0+Z2V0RW50aXR5TWFuYWdlcigpOwo=</text>
+        <text encoding="base64">CQkkdW93ID0gJGVtLT5nZXRVbml0T2ZXb3JrKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/invoice/creditNote/g</text>
