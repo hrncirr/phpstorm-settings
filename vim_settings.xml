@@ -1405,12 +1405,12 @@
         <mark key="]" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1551190821115">
-        <mark key="'" line="540" column="31" />
-        <mark key="[" line="623" column="64" />
-        <mark key="]" line="623" column="64" />
-        <mark key="." line="623" column="64" />
-        <mark key="^" line="623" column="64" />
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1551259229959">
+        <mark key="'" line="541" column="31" />
+        <mark key="[" line="120" column="88" />
+        <mark key="]" line="624" column="64" />
+        <mark key="." line="624" column="64" />
+        <mark key="^" line="624" column="64" />
       </file>
       <file name="/home/www/vendor/hrncirr/jstree/src/DI/DoctrineDataSource.php" timestamp="1479301570985">
         <mark key="[" line="13" column="0" />
@@ -2260,7 +2260,7 @@
         <mark key="]" line="22" column="4" />
         <mark key="." line="22" column="4" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/DocumentFacade.php" timestamp="1548940704285">
+      <file name="/home/www/html/nnb/dms/src/Documents/DocumentFacade.php" timestamp="1551259135807">
         <mark key="[" line="33" column="8" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/AddressObject.php" timestamp="1550833086148">
@@ -2456,7 +2456,6 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Groups/Components/GroupsPermissionsForm/GroupsPermissionsForm.latte" timestamp="1551098709039" />
       <file name="/home/www/html/nnb/passportization/app/components/FloorMapControl/FloorMapControl.php" timestamp="1486634150032">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -3185,7 +3184,6 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Document/Components/FormParts/ItemsFormPart/ItemsFormPart.php" timestamp="1551104021247" />
       <file name="/home/www/html/dv/cms/app/forms-tag-input/composer.json" timestamp="1496150400055">
         <mark key="[" line="15" column="24" />
         <mark key="]" line="15" column="0" />
@@ -3307,7 +3305,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551191890279">
+      <file name="/Dummy.txt" timestamp="1551259099056">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -5247,6 +5245,11 @@
       <file name="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/DI/FormsExtension.php" timestamp="1548253667276">
         <mark key="[" line="33" column="17" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/FutureRelatedDocumentFacade.php" timestamp="1551259798600">
+        <mark key="[" line="35" column="81" />
+        <mark key="]" line="36" column="8" />
+        <mark key="." line="36" column="8" />
+      </file>
       <file name="/home/www/vendor/nnb/application/src/Bootstrap.php" timestamp="1478854155399">
         <mark key="[" line="37" column="4" />
         <mark key="]" line="4" column="0" />
@@ -5277,7 +5280,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/DocumentTopic.php" timestamp="1551172517949" />
       <file name="/home/www/html/nnb/dms/src/DMS/Folders/Events/FolderFilesListener.php" timestamp="1484312651708">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
@@ -5473,10 +5475,17 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>class=&quot;col-md-3</text>
+        <text>$existingFutureRelatedDocuments = array_flip(array_filter(
+			array_column($futureRelatedDocuments, 'id', 'number')));
+
+		$newFutureRelatedDocumentNumbers = array_keys(
+			array_filter(array_column($futureRelatedDocuments, 'id', 'number'),
+				function ($key) {
+					return empty($key);
+				}));</text>
       </register>
       <register name="-" type="4">
-        <text>class=&quot;col-md-3</text>
+        <text>, UserContext $user</text>
       </register>
       <register name="/" type="4">
         <text>redraw</text>
@@ -5485,35 +5494,38 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ZHVtcCgkZnV0dXJlUmVsYXRlZERvY3VtZW50cyk7CgkJCWV4aXQ7Cg==</text>
+        <text>$existingFutureRelatedDocuments = array_flip(array_filter(
+			array_column($futureRelatedDocuments, 'id', 'number')));
+
+		$newFutureRelatedDocumentNumbers = array_keys(
+			array_filter(array_column($futureRelatedDocuments, 'id', 'number'),
+				function ($key) {
+					return empty($key);
+				}));</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJLy9leGl0Owo=</text>
+        <text encoding="base64">CQkkZnV0dXJlUmVsYXRlZERvY3VtZW50cyA9ICRmb3JtWydmdXR1cmVSZWxhdGVkRG9jdW1lbnRzJ10tPmdldFZhbHVlcyh0cnVlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJJG51bWJlciA9ICRmdXR1cmVSZWxhdGVkRG9jdW1lbnRDb250YWluZXJbJ251bWJlciddLT5nZXRWYWx1ZSgpOwo=</text>
+        <text encoding="base64">CQkkdGhpcy0+dXNlciA9ICR1c2VyOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJCS8vLT5zZXREaXNhYmxlZCgpCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ZHVtcCgkZnV0dXJlUmVsYXRlZERvY3VtZW50cyk7CgkJCWV4aXQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCS8vaWYgKCRmdXR1cmVSZWxhdGVkRG9jdW1lbnRDb250YWluZXItPikK</text>
+        <text encoding="base64">CQkJLy9leGl0Owo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">CQkJCQkJJG51bWJlciA9ICRmdXR1cmVSZWxhdGVkRG9jdW1lbnRDb250YWluZXJbJ251bWJlciddLT5nZXRWYWx1ZSgpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCQkJCS8vLT5zZXREaXNhYmxlZCgpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCS8vaWYgKCRmdXR1cmVSZWxhdGVkRG9jdW1lbnRDb250YWluZXItPikK</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">CQkJCQkJZXhpdDsK</text>
-      </register>
-      <register name="7" type="4">
-        <text>dump($futureRelatedDocuments);
-			dump($existingFutureRelatedDocuments);</text>
-      </register>
-      <register name="8" type="4">
-        <text>dump('ok');
-					exit;</text>
-      </register>
-      <register name="9" type="4">
-        <text>, function() {
-
-			})</text>
       </register>
       <register name=":" type="4">
         <text>%s/invoice/creditNote/g</text>
