@@ -2005,12 +2005,12 @@
       <file name="/home/www/html/dv/adera/app/config/extensions/forms.neon" timestamp="1548933803324">
         <mark key="[" line="4" column="15" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Components/NewsControl/NewsControl.php" timestamp="1551882685257">
-        <mark key="'" line="70" column="13" />
-        <mark key="[" line="140" column="32" />
-        <mark key="]" line="156" column="4" />
-        <mark key="." line="156" column="4" />
-        <mark key="^" line="156" column="4" />
+      <file name="/home/www/html/nnb/aktuality/app/Components/NewsControl/NewsControl.php" timestamp="1551962363777">
+        <mark key="'" line="72" column="13" />
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="158" column="4" />
+        <mark key="." line="158" column="4" />
+        <mark key="^" line="158" column="4" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/router/RouterFactory.php" timestamp="1485779627524">
         <mark key="[" line="32" column="0" />
@@ -2654,8 +2654,10 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Components/EmployeeSearchForm/EmployeeSearchForm.php" timestamp="1551884522471">
-        <mark key="[" line="26" column="27" />
+      <file name="/home/www/html/nnb/aktuality/app/Components/EmployeeSearchForm/EmployeeSearchForm.php" timestamp="1551962355582">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/home/www/lib/vendor/hrncirr/pnotify/src/TFlashMessagesControl.php" timestamp="1500552701647">
         <mark key="[" line="27" column="19" />
@@ -2933,6 +2935,9 @@
       </file>
       <file name="/home/www/html/nnb/dms/src/Files/FileConversion.php" timestamp="1550220069381">
         <mark key="[" line="14" column="26" />
+      </file>
+      <file name="/home/www/html/nnb/aktuality/app/Components/EmployeeSearchForm/IEmployeeSearchFormFactory.php" timestamp="1551962213544">
+        <mark key="[" line="3" column="0" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/Passportization/TechnicalRequisitions/Components/ProfessionsStatesGrid/ProfessionsStatesGrid.php" timestamp="1487920179705">
         <mark key="[" line="103" column="25" />
@@ -3546,10 +3551,10 @@
         <mark key="]" line="66" column="4" />
         <mark key="." line="66" column="4" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Components/NewsForm/NewsForm.php" timestamp="1551881572573">
-        <mark key="[" line="103" column="61" />
-        <mark key="]" line="103" column="61" />
-        <mark key="." line="103" column="61" />
+      <file name="/home/www/html/nnb/aktuality/app/Components/NewsForm/NewsForm.php" timestamp="1551962425051">
+        <mark key="[" line="53" column="6" />
+        <mark key="]" line="111" column="61" />
+        <mark key="." line="111" column="61" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Documents/DI/config/services.neon" timestamp="1488203399936">
         <mark key="[" line="5" column="62" />
@@ -4341,8 +4346,10 @@
         <mark key="]" line="19" column="4" />
         <mark key="." line="19" column="4" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Components/NewsForm/INewsFormFactory.php" timestamp="1551881605399">
-        <mark key="[" line="23" column="39" />
+      <file name="/home/www/html/nnb/aktuality/app/Components/NewsForm/INewsFormFactory.php" timestamp="1551962414671">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="2" column="1" />
+        <mark key="." line="2" column="1" />
       </file>
       <file name="/home/www/vendor/hrncirr/jstree/src/DI/JsTreeExtension.php" timestamp="1490188942117">
         <mark key="[" line="98" column="29" />
@@ -5500,7 +5507,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IE5ld3NDb250cg==</text>
+        <text>**
+ * This file is part of the aktuality
+ *
+ * Copyright (c) 2015 Roman Hrnčíř
+ *
+ * For the full copyright and license information, please view the file license.txt that was distributed with this source code.
+ */</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IE5ld3NDb250cg==</text>
@@ -5511,35 +5524,47 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CSAqIEB2YXIgYm9vbAo=</text>
+      <register name="1" type="4">
+        <text>**
+ * This file is part of the aktuality
+ *
+ * Copyright (c) 2015 Roman Hrnčíř
+ *
+ * For the full copyright and license information, please view the file license.txt that was distributed with this source code.
+ */</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXFNlY3VyaXR5XFVzZXI7Cg==</text>
+      <register name="2" type="4">
+        <text>/**
+ * This file is part of the aktuality
+ *
+ * Copyright (c) 2015 Roman Hrnčíř
+ *
+ * For the full copyright and license information, please view the file license.txt that was distributed with this source code.
+ */</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">LyoqCiAqCiAqCiAqIEBjb3B5cmlnaHQgIENvcHlyaWdodCAoYykgMjAxNiBSb21hbiBIcm7EjcOtxZkKICogQHBhY2thZ2UKICovCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CSAqIEB2YXIgYm9vbAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXFNlY3VyaXR5XFVzZXI7Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>/**
      * @var User
      */
 	private $user;</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkkdGhpcy0+dXNlciA9ICR1c2VyOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">dXNlIEhybmNpcnJjbXNcVXNlclxVc2VyOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text encoding="base64">LyotPnNldFJlcXVpcmVkKCkKCQkJCQktPmFkZEZpbHRlcihmdW5jdGlvbiAoJHZhbHVlKSB7CgkJCQkJCXJldHVybiBTdHJpbmdzOjp1cHBlcigkdmFsdWUpOwoJCQkJCX0pKi8=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCWlmIChlbXB0eSgkaWQpKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShEb2N1bWVudDo6Y2xhc3MpLT5maW5kQnkoWydpZCBJTicgPT4gWzEsMl1dKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
