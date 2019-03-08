@@ -28,6 +28,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/home/www/html/nnb/aktuality/app/config/doctrine.neon" timestamp="1552049201152">
+        <mark key="[" line="29" column="8" />
+      </file>
       <file name="/home/www/html/nnb/aktuality/app/Components/SearchForm/SearchForm.php" timestamp="1551964438752">
         <mark key="[" line="56" column="27" />
         <mark key="]" line="58" column="0" />
@@ -289,7 +292,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/app/Presenters/BasePresenter.php" timestamp="1551965832034" />
       <file name="/home/www/html/nnb/access-rights/app/presenters/DefaultPresenter.php" timestamp="1477388456180">
         <mark key="[" line="34" column="8" />
         <mark key="]" line="34" column="8" />
@@ -453,7 +455,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Components/PharmacySearchForm/IPharmacySearchFormFactory.php" timestamp="1551964222085" />
       <file name="/home/www/html/bul/maternal-register/app/components/GridFactory.php" timestamp="1496672079181">
         <mark key="[" line="42" column="12" />
         <mark key="]" line="42" column="12" />
@@ -1168,8 +1169,8 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Components/HistoryControlFactory.php" timestamp="1551965427936">
-        <mark key="[" line="52" column="54" />
+      <file name="/home/www/html/nnb/aktuality/app/Components/HistoryControlFactory.php" timestamp="1552050170430">
+        <mark key="[" line="66" column="92" />
         <mark key="]" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
@@ -1197,6 +1198,9 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="74" column="27" />
         <mark key="." line="74" column="27" />
+      </file>
+      <file name="/home/www/html/nnb/aktuality/app/Components/NewsItemControl/NewsItemControl.php" timestamp="1552050220304">
+        <mark key="[" line="390" column="62" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Components/TechnicalRequisitionForm/ITechnicalRequisitionFormFactory.php" timestamp="1502108512662">
         <mark key="[" line="8" column="0" />
@@ -1376,10 +1380,10 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/config/services.neon" timestamp="1493901640363">
-        <mark key="[" line="22" column="84" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="/home/www/html/nnb/aktuality/app/config/services.neon" timestamp="1552049204690">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/ISubjectFormPartFactory.php" timestamp="1547458093292">
         <mark key="[" line="13" column="0" />
@@ -1450,7 +1454,6 @@
       <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentsGrid.php" timestamp="1548417132152">
         <mark key="[" line="4" column="43" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Events/ElFinderFileListener.php" timestamp="1551965464625" />
       <file name="/home/www/html/dv/adera-test/Modules/Invoicing/Components/BaseBusinessCaseDocumentFormControl.php" timestamp="1546951042668">
         <mark key="[" line="130" column="0" />
         <mark key="]" line="130" column="0" />
@@ -2355,6 +2358,7 @@
         <mark key="]" line="33" column="8" />
         <mark key="." line="33" column="8" />
       </file>
+      <file name="/home/www/html/nnb/dms/app/config/extensions/events.neon" timestamp="1552049048032" />
       <file name="/home/www/vendor/hrncirr/cmp/src/Parsers/BaseParser.php" timestamp="1476183399365">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="4" />
@@ -3329,8 +3333,8 @@
         <mark key="]" line="29" column="4" />
         <mark key="." line="29" column="4" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Presenters/DefaultPresenter.php" timestamp="1551965755582">
-        <mark key="[" line="253" column="4" />
+      <file name="/home/www/html/nnb/aktuality/app/Presenters/DefaultPresenter.php" timestamp="1552050471323">
+        <mark key="[" line="264" column="15" />
         <mark key="]" line="253" column="4" />
         <mark key="." line="253" column="4" />
       </file>
@@ -3583,10 +3587,12 @@
         <mark key="]" line="66" column="4" />
         <mark key="." line="66" column="4" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Components/NewsForm/NewsForm.php" timestamp="1552035987392">
-        <mark key="[" line="100" column="21" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
+      <file name="/home/www/html/nnb/aktuality/app/Components/NewsForm/NewsForm.php" timestamp="1552050035909">
+        <mark key="'" line="240" column="43" />
+        <mark key="[" line="367" column="71" />
+        <mark key="]" line="345" column="43" />
+        <mark key="." line="345" column="43" />
+        <mark key="^" line="345" column="43" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Documents/DI/config/services.neon" timestamp="1488203399936">
         <mark key="[" line="5" column="62" />
@@ -3659,7 +3665,6 @@
         <mark key="]" line="21" column="8" />
         <mark key="." line="21" column="8" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Helpers/DateHelper.php" timestamp="1551966330259" />
       <file name="/home/www/html/nnb/dms/src/DMS/Documents/components/InfoControl/InfoControl.latte" timestamp="1484215129286">
         <mark key="[" line="60" column="35" />
         <mark key="]" line="55" column="35" />
@@ -4368,8 +4373,9 @@
         <mark key="]" line="61" column="15" />
         <mark key="." line="61" column="15" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Model/News.php" timestamp="1552035824874">
-        <mark key="[" line="230" column="4" />
+      <file name="/home/www/html/nnb/aktuality/app/Model/News.php" timestamp="1552050522156">
+        <mark key="'" line="189" column="27" />
+        <mark key="[" line="107" column="29" />
         <mark key="]" line="230" column="4" />
         <mark key="." line="230" column="4" />
       </file>
@@ -4657,10 +4663,11 @@
         <mark key="]" line="24" column="8" />
         <mark key="." line="24" column="8" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Model/User.php" timestamp="1552035155213">
-        <mark key="[" line="25" column="12" />
-        <mark key="]" line="40" column="4" />
-        <mark key="." line="40" column="4" />
+      <file name="/home/www/html/nnb/aktuality/app/Model/User.php" timestamp="1552048892847">
+        <mark key="[" line="38" column="22" />
+        <mark key="]" line="38" column="29" />
+        <mark key="." line="38" column="29" />
+        <mark key="^" line="38" column="29" />
       </file>
       <file name="/home/www/html/bul/maternal-register/app/SummaryModule/presenters/BasePresenter.php" timestamp="1481278814148">
         <mark key="[" line="25" column="19" />
@@ -4966,8 +4973,8 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Components/FileManagerControlFactory.php" timestamp="1551964587252">
-        <mark key="[" line="67" column="66" />
+      <file name="/home/www/html/nnb/aktuality/app/Components/FileManagerControlFactory.php" timestamp="1552049925853">
+        <mark key="[" line="84" column="33" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
@@ -5179,7 +5186,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/home/www/vendor/nette/utils/src/Utils/Callback.php" timestamp="1551963126355" />
       <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/IElFinderFileConsumer.php" timestamp="1493040597826">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -5424,8 +5430,8 @@
         <mark key="]" line="121" column="21" />
         <mark key="." line="121" column="21" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Events/UserListener.php" timestamp="1551965467873">
-        <mark key="[" line="1" column="23" />
+      <file name="/home/www/html/nnb/aktuality/app/Events/UserListener.php" timestamp="1552048844053">
+        <mark key="[" line="53" column="15" />
       </file>
       <file name="/home/www/html/dv/cms/src/Localization/DI/LocalizationExtension.php" timestamp="1497015085449">
         <mark key="[" line="1" column="0" />
@@ -5467,10 +5473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="41" filename="/home/www/html/nnb/dms/src/Documents/Components/TopicSelectorForm/TopicSelectorForm.php" />
-      <jump line="159" column="47" filename="/home/www/html/nnb/dms/src/Documents/Components/TopicSelectorForm/TopicSelectorForm.php" />
-      <jump line="44" column="6" filename="/home/www/html/dv/adera/Modules/Invoicing/Invoice.php" />
-      <jump line="988" column="18" filename="/home/www/html/dv/adera/libs/vendor/doctrine/orm/lib/Doctrine/ORM/QueryBuilder.php" />
       <jump line="1025" column="17" filename="/home/www/html/dv/adera/libs/vendor/doctrine/orm/lib/Doctrine/ORM/QueryBuilder.php" />
       <jump line="1046" column="17" filename="/home/www/html/dv/adera/libs/vendor/doctrine/orm/lib/Doctrine/ORM/QueryBuilder.php" />
       <jump line="1057" column="17" filename="/home/www/html/dv/adera/libs/vendor/doctrine/orm/lib/Doctrine/ORM/QueryBuilder.php" />
@@ -5567,6 +5569,10 @@
       <jump line="33" column="29" filename="/home/www/html/nnb/aktuality/app/Components/NewsItemControl/templates/NewsItemControl.latte" />
       <jump line="74" column="49" filename="/home/www/html/nnb/aktuality/app/Components/NewsItemControl/templates/NewsItemControl.latte" />
       <jump line="75" column="69" filename="/home/www/html/nnb/aktuality/app/Components/NewsItemControl/templates/NewsItemControl.latte" />
+      <jump line="39" column="10" filename="/home/www/html/nnb/aktuality/app/Components/NewsForm/NewsForm.php" />
+      <jump line="301" column="41" filename="/home/www/html/nnb/aktuality/app/Components/NewsForm/NewsForm.php" />
+      <jump line="240" column="43" filename="/home/www/html/nnb/aktuality/app/Components/NewsForm/NewsForm.php" />
+      <jump line="189" column="27" filename="/home/www/html/nnb/aktuality/app/Model/News.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5576,7 +5582,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>sticky</text>
+        <text>FileRoot</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
@@ -5617,13 +5623,13 @@
         <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXE1hZ2ljQWNjZXNzb3JzXE1hZ2ljQWNjZXNzb3JzOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/NULL/null/g</text>
+        <text>391</text>
       </register>
     </registers>
     <search>
-      <last-search>sticky</last-search>
+      <last-search>FileRoot</last-search>
       <last-offset />
-      <last-pattern>sticky</last-pattern>
+      <last-pattern>FileRoot</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -5631,12 +5637,6 @@
     </search>
     <history>
       <history-search>
-        <entry>viewSelector</entry>
-        <entry>selectedFolder</entry>
-        <entry>folder</entry>
-        <entry>currentFile</entry>
-        <entry>isUseTopic</entry>
-        <entry>externalVersion</entry>
         <entry>version</entry>
         <entry>getRelated</entry>
         <entry>onAdd</entry>
@@ -5651,11 +5651,14 @@
         <entry>NULL</entry>
         <entry>target</entry>
         <entry>sticky</entry>
+        <entry>update</entry>
+        <entry>Update</entry>
+        <entry>updateHis</entry>
+        <entry>UpdateHis</entry>
+        <entry>updateAt</entry>
+        <entry>FileRoot</entry>
       </history-search>
       <history-cmd>
-        <entry>64</entry>
-        <entry>61</entry>
-        <entry>156</entry>
         <entry>129</entry>
         <entry>80</entry>
         <entry>163</entry>
@@ -5673,6 +5676,9 @@
         <entry>%s/invoice/creditNote/g</entry>
         <entry>162</entry>
         <entry>%s/NULL/null/g</entry>
+        <entry>317</entry>
+        <entry>368</entry>
+        <entry>391</entry>
       </history-cmd>
       <history-expr />
       <history-input />
