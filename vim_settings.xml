@@ -83,8 +83,8 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Model/ElFinderFile.php" timestamp="1551965290926">
-        <mark key="[" line="21" column="6" />
+      <file name="/home/www/html/nnb/aktuality/app/Model/ElFinderFile.php" timestamp="1552030252136">
+        <mark key="[" line="23" column="6" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/Model/TreeModel.php" timestamp="1502109954091">
         <mark key="[" line="43" column="0" />
@@ -982,6 +982,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="/home/www/html/nnb/aktuality/app/Model/FileFacade.php" timestamp="1552030200775">
+        <mark key="[" line="1" column="23" />
+      </file>
       <file name="/home/www/html/dv/cms/Modules/Storage/AdminModule/Presenters/GroupsPresenter.php" timestamp="1497357607512">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -1545,6 +1548,9 @@
         <mark key="]" line="76" column="4" />
         <mark key="." line="76" column="4" />
       </file>
+      <file name="/home/www/html/nnb/aktuality/app/Model/ImageFacade.php" timestamp="1552030186087">
+        <mark key="[" line="1" column="23" />
+      </file>
       <file name="/home/www/vendor/hrncirr/items-locker/src/Storages/FileStorage.php" timestamp="1476457534842">
         <mark key="[" line="208" column="4" />
         <mark key="]" line="111" column="8" />
@@ -1839,7 +1845,7 @@
         <mark key="]" line="62" column="33" />
         <mark key="." line="62" column="33" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Model/MediaFacade.php" timestamp="1552028997032">
+      <file name="/home/www/html/nnb/aktuality/app/Model/MediaFacade.php" timestamp="1552030335503">
         <mark key="[" line="1" column="23" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/DI/config.neon" timestamp="1551276213622">
@@ -2491,6 +2497,9 @@
         <mark key="[" line="20" column="22" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="/home/www/vendor/hrncirr/elfinder/src/Doctrine/ElFinderFile.php" timestamp="1552030307791">
+        <mark key="'" line="52" column="6" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Documents/components/VersionUploadForm/UploadVersionForm.php" timestamp="1488194615144">
         <mark key="[" line="109" column="10" />
@@ -3191,10 +3200,10 @@
       <file name="/home/www/html/dv/adera/Modules/Document/Components/FormParts/DocumentItemsFormPart/templates/tabNav.latte" timestamp="1547551122316">
         <mark key="[" line="2" column="4" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Model/Image.php" timestamp="1493983544930">
-        <mark key="[" line="14" column="36" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="/home/www/html/nnb/aktuality/app/Model/Image.php" timestamp="1552030194575">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/client-side/js/hrncirr.elfinder.tinyMCE.js" timestamp="1472723804758">
         <mark key="[" line="49" column="0" />
@@ -3716,10 +3725,10 @@
         <mark key="]" line="47" column="34" />
         <mark key="." line="47" column="34" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Model/File.php" timestamp="1493983525202">
-        <mark key="[" line="20" column="26" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="/home/www/html/nnb/aktuality/app/Model/File.php" timestamp="1552030207335">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/header/src/Components/JsControl/JsControl.php" timestamp="1496836099298">
         <mark key="[" line="148" column="64" />
@@ -4361,6 +4370,11 @@
         <mark key="[" line="25" column="6" />
         <mark key="]" line="61" column="15" />
         <mark key="." line="61" column="15" />
+      </file>
+      <file name="/home/www/html/nnb/aktuality/app/Model/News.php" timestamp="1552030573608">
+        <mark key="[" line="228" column="4" />
+        <mark key="]" line="228" column="4" />
+        <mark key="." line="228" column="4" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Exceptions/DocumentAlreadyExistsException.php" timestamp="1488369264017">
         <mark key="[" line="13" column="65" />
@@ -5456,8 +5470,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="243" column="30" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
-      <jump line="563" column="44" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="356" column="32" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="142" column="36" filename="/home/www/html/nnb/dms/src/Documents/Presenters/DocumentPresenter.php" />
       <jump line="266" column="12" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
@@ -5556,55 +5568,65 @@
       <jump line="354" column="42" filename="/home/www/html/nnb/aktuality/app/Components/NewsControl/NewsControl.php" />
       <jump line="70" column="13" filename="/home/www/html/nnb/aktuality/app/Components/NewsControl/NewsControl.php" />
       <jump line="305" column="25" filename="/home/www/html/nnb/aktuality/app/Components/NewsControl/NewsControl.php" />
+      <jump line="59" column="6" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/ElFinderFile.php" />
+      <jump line="52" column="6" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/ElFinderFile.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gXERhdGVUaW1lICRsYXN0QWNjZXNzCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRMYXN0QWNjZXNzKFxEYXRlVGltZSAkbGFzdEFjY2Vzcyk6IHZvaWQKCXsKCQkkdGhpcy0+bGFzdEFjY2VzcyA9ICRsYXN0QWNjZXNzOwoJfQo=</text>
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldEV4cGlyZWQoKQoJewoJCXJldHVybiAkdGhpcy0+ZXhwaXJlZDsKCX0KCgoJcHVibGljIGZ1bmN0aW9uIGlzRXhwaXJlZCgpCgl7CgkJcmV0dXJuICR0aGlzLT5leHBpcmVkIDwgbmV3IERhdGVUaW1lOwoJfQ==</text>
       </register>
       <register name="-" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>render</text>
+        <text>getFile</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gXERhdGVUaW1lICRsYXN0QWNjZXNzCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRMYXN0QWNjZXNzKFxEYXRlVGltZSAkbGFzdEFjY2Vzcyk6IHZvaWQKCXsKCQkkdGhpcy0+bGFzdEFjY2VzcyA9ICRsYXN0QWNjZXNzOwoJfQo=</text>
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldEV4cGlyZWQoKQoJewoJCXJldHVybiAkdGhpcy0+ZXhwaXJlZDsKCX0KCgoJcHVibGljIGZ1bmN0aW9uIGlzRXhwaXJlZCgpCgl7CgkJcmV0dXJuICR0aGlzLT5leHBpcmVkIDwgbmV3IERhdGVUaW1lOwoJfQ==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIGludAoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0T3NjKCk6IGludAoJewoJCXJldHVybiAkdGhpcy0+b3NjOwoJfQoKCgkvKioKCSAqIEBwYXJhbSBpbnQgJG9zYwoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0T3NjKGludCAkb3NjKQoJewoJCSR0aGlzLT5vc2MgPSAkb3NjOwoJfQoKCgkvKioKCSAqIEByZXR1cm4gc3RyaW5nCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRSb2xlKCk6IHN0cmluZwoJewoJCXJldHVybiAkdGhpcy0+cm9sZTsKCX0KCgoJLyoqCgkgKiBAcGFyYW0gc3RyaW5nICRyb2xlCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRSb2xlKHN0cmluZyAkcm9sZSkKCXsKCQkkdGhpcy0+cm9sZSA9ICRyb2xlOwoJfQoKCgkvKioKCSAqIEByZXR1cm4gXERhdGVUaW1lCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRMYXN0QWNjZXNzKCk6IFxEYXRlVGltZQoJewoJCXJldHVybiAkdGhpcy0+bGFzdEFjY2VzczsKCX0=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJcRGF0ZVxEYXRlOwo=</text>
-      </register>
-      <register name="4" type="2">
+      <register name="2" type="2">
         <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXE1hZ2ljQWNjZXNzb3JzXE1hZ2ljQWNjZXNzb3JzOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CXVzZSBNYWdpY0FjY2Vzc29yczsK</text>
       </register>
+      <register name="4" type="4">
+        <text>* @property-read int     $id
+ * @property ElFinderFile $fileRoot
+ * @property string       $published
+ * @property string       $expired
+ * @property string       $target
+ * @property string       $title
+ * @property string       $text
+ * @property boolean      $sticky
+ * @property boolean      $visible</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gXERhdGVUaW1lICRsYXN0QWNjZXNzCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRMYXN0QWNjZXNzKFxEYXRlVGltZSAkbGFzdEFjY2Vzcyk6IHZvaWQKCXsKCQkkdGhpcy0+bGFzdEFjY2VzcyA9ICRsYXN0QWNjZXNzOwoJfQo=</text>
+      </register>
       <register name="6" type="4">
-        <text encoding="base64">ICogQHByb3BlcnR5LXJlYWQgaW50ZWdlciAkaWQKICogQHByb3BlcnR5IGludGVnZXIgICAgICAkb3NjCiAqIEBwcm9wZXJ0eSBzdHJpbmcgICAgICAgJHJvbGUKICogQHByb3BlcnR5IHN0cmluZyAgICAgICAkbGFzdEFjY2Vzcw==</text>
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIGludAoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0T3NjKCk6IGludAoJewoJCXJldHVybiAkdGhpcy0+b3NjOwoJfQoKCgkvKioKCSAqIEBwYXJhbSBpbnQgJG9zYwoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0T3NjKGludCAkb3NjKQoJewoJCSR0aGlzLT5vc2MgPSAkb3NjOwoJfQoKCgkvKioKCSAqIEByZXR1cm4gc3RyaW5nCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRSb2xlKCk6IHN0cmluZwoJewoJCXJldHVybiAkdGhpcy0+cm9sZTsKCX0KCgoJLyoqCgkgKiBAcGFyYW0gc3RyaW5nICRyb2xlCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRSb2xlKHN0cmluZyAkcm9sZSkKCXsKCQkkdGhpcy0+cm9sZSA9ICRyb2xlOwoJfQoKCgkvKioKCSAqIEByZXR1cm4gXERhdGVUaW1lCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRMYXN0QWNjZXNzKCk6IFxEYXRlVGltZQoJewoJCXJldHVybiAkdGhpcy0+bGFzdEFjY2VzczsKCX0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJcQ01QXERvY3RyaW5lXE1hcHBpbmdcQW5ub3RhdGlvbnNcVGVtcGxhdGU7Cg==</text>
+        <text encoding="base64">dXNlIEhybmNpcnJcRGF0ZVxEYXRlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkkdGVtcGxhdGUgPSAkdGhpcy0+Z2V0VGVtcGxhdGUoKTsK</text>
+        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXE1hZ2ljQWNjZXNzb3JzXE1hZ2ljQWNjZXNzb3JzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvKiogQHZhciBUZW1wbGF0ZSAkdGVtcGxhdGUgKi8K</text>
+        <text encoding="base64">CXVzZSBNYWdpY0FjY2Vzc29yczsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
       </register>
     </registers>
     <search>
-      <last-search>render</last-search>
+      <last-search>getFile</last-search>
       <last-offset />
-      <last-pattern>render</last-pattern>
+      <last-pattern>getFile</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -5612,8 +5634,6 @@
     </search>
     <history>
       <history-search>
-        <entry>createFromFolder</entry>
-        <entry>viewTopic</entry>
         <entry>onChange</entry>
         <entry>isUse</entry>
         <entry>viewSelector</entry>
@@ -5632,6 +5652,8 @@
         <entry>NULL</entry>
         <entry>brand</entry>
         <entry>render</entry>
+        <entry>file</entry>
+        <entry>getFile</entry>
       </history-search>
       <history-cmd>
         <entry>64</entry>
