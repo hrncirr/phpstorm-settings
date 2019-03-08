@@ -1198,12 +1198,6 @@
         <mark key="]" line="74" column="27" />
         <mark key="." line="74" column="27" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Components/NewsItemControl/NewsItemControl.php" timestamp="1551966242679">
-        <mark key="'" line="153" column="21" />
-        <mark key="[" line="331" column="9" />
-        <mark key="]" line="331" column="0" />
-        <mark key="." line="331" column="0" />
-      </file>
       <file name="/home/www/html/nnb/passportization/src/TechnicalRequisitions/Components/TechnicalRequisitionForm/ITechnicalRequisitionFormFactory.php" timestamp="1502108512662">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="14" column="0" />
@@ -1422,12 +1416,6 @@
         <mark key="[" line="26" column="25" />
         <mark key="]" line="10" column="16" />
         <mark key="." line="10" column="16" />
-      </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1551962143984">
-        <mark key="'" line="534" column="31" />
-        <mark key="[" line="529" column="20" />
-        <mark key="]" line="529" column="20" />
-        <mark key="." line="529" column="20" />
       </file>
       <file name="/home/www/vendor/hrncirr/jstree/src/DI/DoctrineDataSource.php" timestamp="1479301570985">
         <mark key="[" line="13" column="0" />
@@ -2025,9 +2013,9 @@
       <file name="/home/www/html/dv/adera/app/config/extensions/forms.neon" timestamp="1548933803324">
         <mark key="[" line="4" column="15" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Components/NewsControl/NewsControl.php" timestamp="1551965920569">
+      <file name="/home/www/html/nnb/aktuality/app/Components/NewsControl/NewsControl.php" timestamp="1552035256503">
         <mark key="'" line="303" column="25" />
-        <mark key="[" line="299" column="13" />
+        <mark key="[" line="286" column="34" />
         <mark key="]" line="294" column="0" />
         <mark key="^" line="158" column="4" />
         <mark key="." line="294" column="0" />
@@ -2798,6 +2786,13 @@
         <mark key="[" line="19" column="4" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/aktuality/app/Presenters/templates/Default/menu.latte" timestamp="1552035126744">
+        <mark key="'" line="89" column="36" />
+        <mark key="[" line="103" column="43" />
+        <mark key="]" line="89" column="36" />
+        <mark key="^" line="89" column="36" />
+        <mark key="." line="89" column="36" />
       </file>
       <file name="/home/www/html/dv/cms/app/Components/SignInForm/SignInForm.php" timestamp="1497598779136">
         <mark key="[" line="60" column="4" />
@@ -3588,8 +3583,8 @@
         <mark key="]" line="66" column="4" />
         <mark key="." line="66" column="4" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Components/NewsForm/NewsForm.php" timestamp="1551966211726">
-        <mark key="[" line="150" column="13" />
+      <file name="/home/www/html/nnb/aktuality/app/Components/NewsForm/NewsForm.php" timestamp="1552035987392">
+        <mark key="[" line="100" column="21" />
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
       </file>
@@ -3818,10 +3813,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Components/NewsItemControl/templates/NewsItemControl.latte" timestamp="1496054250982">
-        <mark key="[" line="115" column="17" />
-        <mark key="]" line="10" column="58" />
-        <mark key="." line="10" column="58" />
+      <file name="/home/www/html/nnb/aktuality/app/Components/NewsItemControl/templates/NewsItemControl.latte" timestamp="1552035939543">
+        <mark key="'" line="75" column="69" />
+        <mark key="[" line="76" column="37" />
+        <mark key="]" line="33" column="29" />
+        <mark key="." line="33" column="29" />
+        <mark key="^" line="33" column="29" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Install/InvoicingInstall.php" timestamp="1544534246946">
         <mark key="[" line="116" column="9" />
@@ -4371,10 +4368,10 @@
         <mark key="]" line="61" column="15" />
         <mark key="." line="61" column="15" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Model/News.php" timestamp="1552030573608">
-        <mark key="[" line="228" column="4" />
-        <mark key="]" line="228" column="4" />
-        <mark key="." line="228" column="4" />
+      <file name="/home/www/html/nnb/aktuality/app/Model/News.php" timestamp="1552035824874">
+        <mark key="[" line="230" column="4" />
+        <mark key="]" line="230" column="4" />
+        <mark key="." line="230" column="4" />
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Exceptions/DocumentAlreadyExistsException.php" timestamp="1488369264017">
         <mark key="[" line="13" column="65" />
@@ -4660,8 +4657,8 @@
         <mark key="]" line="24" column="8" />
         <mark key="." line="24" column="8" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Model/User.php" timestamp="1552028992524">
-        <mark key="[" line="40" column="0" />
+      <file name="/home/www/html/nnb/aktuality/app/Model/User.php" timestamp="1552035155213">
+        <mark key="[" line="25" column="12" />
         <mark key="]" line="40" column="4" />
         <mark key="." line="40" column="4" />
       </file>
@@ -5450,8 +5447,8 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Components/NewsControl/NewsControl.latte" timestamp="1551882446110">
-        <mark key="[" line="32" column="0" />
+      <file name="/home/www/html/nnb/aktuality/app/Components/NewsControl/NewsControl.latte" timestamp="1552035434010">
+        <mark key="[" line="11" column="0" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/model/TestFilesStructure.php" timestamp="1472810392596">
         <mark key="[" line="17" column="4" />
@@ -5470,11 +5467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="356" column="32" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
-      <jump line="142" column="36" filename="/home/www/html/nnb/dms/src/Documents/Presenters/DocumentPresenter.php" />
-      <jump line="266" column="12" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
-      <jump line="134" column="42" filename="/home/www/html/nnb/dms/src/Documents/Components/TopicSelectorForm/TopicSelectorForm.php" />
-      <jump line="10" column="8" filename="/home/www/html/nnb/dms/src/Documents/Components/TopicSelectorForm/TopicSelectorForm.php" />
       <jump line="108" column="41" filename="/home/www/html/nnb/dms/src/Documents/Components/TopicSelectorForm/TopicSelectorForm.php" />
       <jump line="159" column="47" filename="/home/www/html/nnb/dms/src/Documents/Components/TopicSelectorForm/TopicSelectorForm.php" />
       <jump line="44" column="6" filename="/home/www/html/dv/adera/Modules/Invoicing/Invoice.php" />
@@ -5570,30 +5562,38 @@
       <jump line="305" column="25" filename="/home/www/html/nnb/aktuality/app/Components/NewsControl/NewsControl.php" />
       <jump line="59" column="6" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/ElFinderFile.php" />
       <jump line="52" column="6" filename="/home/www/vendor/hrncirr/elfinder/src/Doctrine/ElFinderFile.php" />
+      <jump line="89" column="36" filename="/home/www/html/nnb/aktuality/app/Presenters/templates/Default/menu.latte" />
+      <jump line="18" column="35" filename="/home/www/html/nnb/aktuality/app/Components/NewsItemControl/templates/NewsItemControl.latte" />
+      <jump line="33" column="29" filename="/home/www/html/nnb/aktuality/app/Components/NewsItemControl/templates/NewsItemControl.latte" />
+      <jump line="74" column="49" filename="/home/www/html/nnb/aktuality/app/Components/NewsItemControl/templates/NewsItemControl.latte" />
+      <jump line="75" column="69" filename="/home/www/html/nnb/aktuality/app/Components/NewsItemControl/templates/NewsItemControl.latte" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldEV4cGlyZWQoKQoJewoJCXJldHVybiAkdGhpcy0+ZXhwaXJlZDsKCX0KCgoJcHVibGljIGZ1bmN0aW9uIGlzRXhwaXJlZCgpCgl7CgkJcmV0dXJuICR0aGlzLT5leHBpcmVkIDwgbmV3IERhdGVUaW1lOwoJfQ==</text>
+        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gRWxGaW5kZXJGaWxlICRmaWxlUm9vdAoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0RmlsZVJvb3QoRWxGaW5kZXJGaWxlICRmaWxlUm9vdCk6IHZvaWQKCXsKCQkkdGhpcy0+ZmlsZVJvb3QgPSAkZmlsZVJvb3Q7Cgl9</text>
       </register>
       <register name="-" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>getFile</text>
+        <text>sticky</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gRWxGaW5kZXJGaWxlICRmaWxlUm9vdAoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0RmlsZVJvb3QoRWxGaW5kZXJGaWxlICRmaWxlUm9vdCk6IHZvaWQKCXsKCQkkdGhpcy0+ZmlsZVJvb3QgPSAkZmlsZVJvb3Q7Cgl9</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldEV4cGlyZWQoKQoJewoJCXJldHVybiAkdGhpcy0+ZXhwaXJlZDsKCX0KCgoJcHVibGljIGZ1bmN0aW9uIGlzRXhwaXJlZCgpCgl7CgkJcmV0dXJuICR0aGlzLT5leHBpcmVkIDwgbmV3IERhdGVUaW1lOwoJfQ==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXE1hZ2ljQWNjZXNzb3JzXE1hZ2ljQWNjZXNzb3JzOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CXVzZSBNYWdpY0FjY2Vzc29yczsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>* @property-read int     $id
  * @property ElFinderFile $fileRoot
  * @property string       $published
@@ -5604,29 +5604,26 @@
  * @property boolean      $sticky
  * @property boolean      $visible</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">LyoqCgkgKiBAcGFyYW0gXERhdGVUaW1lICRsYXN0QWNjZXNzCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRMYXN0QWNjZXNzKFxEYXRlVGltZSAkbGFzdEFjY2Vzcyk6IHZvaWQKCXsKCQkkdGhpcy0+bGFzdEFjY2VzcyA9ICRsYXN0QWNjZXNzOwoJfQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIGludAoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0T3NjKCk6IGludAoJewoJCXJldHVybiAkdGhpcy0+b3NjOwoJfQoKCgkvKioKCSAqIEBwYXJhbSBpbnQgJG9zYwoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0T3NjKGludCAkb3NjKQoJewoJCSR0aGlzLT5vc2MgPSAkb3NjOwoJfQoKCgkvKioKCSAqIEByZXR1cm4gc3RyaW5nCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRSb2xlKCk6IHN0cmluZwoJewoJCXJldHVybiAkdGhpcy0+cm9sZTsKCX0KCgoJLyoqCgkgKiBAcGFyYW0gc3RyaW5nICRyb2xlCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRSb2xlKHN0cmluZyAkcm9sZSkKCXsKCQkkdGhpcy0+cm9sZSA9ICRyb2xlOwoJfQoKCgkvKioKCSAqIEByZXR1cm4gXERhdGVUaW1lCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRMYXN0QWNjZXNzKCk6IFxEYXRlVGltZQoJewoJCXJldHVybiAkdGhpcy0+bGFzdEFjY2VzczsKCX0=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">dXNlIEhybmNpcnJcRGF0ZVxEYXRlOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXE1hZ2ljQWNjZXNzb3JzXE1hZ2ljQWNjZXNzb3JzOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CXVzZSBNYWdpY0FjY2Vzc29yczsK</text>
+        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXE1hZ2ljQWNjZXNzb3JzXE1hZ2ljQWNjZXNzb3JzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
       </register>
     </registers>
     <search>
-      <last-search>getFile</last-search>
+      <last-search>sticky</last-search>
       <last-offset />
-      <last-pattern>getFile</last-pattern>
+      <last-pattern>sticky</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -5634,8 +5631,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onChange</entry>
-        <entry>isUse</entry>
         <entry>viewSelector</entry>
         <entry>selectedFolder</entry>
         <entry>folder</entry>
@@ -5649,11 +5644,13 @@
         <entry>TabsControl</entry>
         <entry>redraw</entry>
         <entry>user</entry>
-        <entry>NULL</entry>
         <entry>brand</entry>
         <entry>render</entry>
         <entry>file</entry>
         <entry>getFile</entry>
+        <entry>NULL</entry>
+        <entry>target</entry>
+        <entry>sticky</entry>
       </history-search>
       <history-cmd>
         <entry>64</entry>
