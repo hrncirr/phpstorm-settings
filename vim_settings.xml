@@ -1380,10 +1380,10 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/config/services.neon" timestamp="1552049204690">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="/home/www/html/nnb/aktuality/app/config/services.neon" timestamp="1552316450727">
+        <mark key="[" line="12" column="38" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/SubjectFormPart/ISubjectFormPartFactory.php" timestamp="1547458093292">
         <mark key="[" line="13" column="0" />
@@ -2016,9 +2016,9 @@
       <file name="/home/www/html/dv/adera/app/config/extensions/forms.neon" timestamp="1548933803324">
         <mark key="[" line="4" column="15" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Components/NewsControl/NewsControl.php" timestamp="1552051193119">
+      <file name="/home/www/html/nnb/aktuality/app/Components/NewsControl/NewsControl.php" timestamp="1552315577787">
         <mark key="'" line="303" column="25" />
-        <mark key="[" line="171" column="27" />
+        <mark key="[" line="172" column="38" />
         <mark key="]" line="294" column="0" />
         <mark key="^" line="158" column="4" />
         <mark key="." line="294" column="0" />
@@ -3359,7 +3359,7 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552315376903">
+      <file name="/Dummy.txt" timestamp="1552316674669">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -3588,12 +3588,11 @@
         <mark key="]" line="66" column="4" />
         <mark key="." line="66" column="4" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Components/NewsForm/NewsForm.php" timestamp="1552314958690">
-        <mark key="'" line="275" column="43" />
-        <mark key="[" line="182" column="8" />
-        <mark key="]" line="182" column="8" />
-        <mark key="." line="182" column="8" />
-        <mark key="^" line="209" column="43" />
+      <file name="/home/www/html/nnb/aktuality/app/Components/NewsForm/NewsForm.php" timestamp="1552316210252">
+        <mark key="'" line="252" column="43" />
+        <mark key="[" line="116" column="57" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="/home/www/html/nnb/dms/src/DMS/Documents/DI/config/services.neon" timestamp="1488203399936">
         <mark key="[" line="5" column="62" />
@@ -3983,6 +3982,11 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="/home/www/html/nnb/aktuality/app/Model/NewsMailSender.php" timestamp="1552316594074">
+        <mark key="[" line="65" column="77" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/home/www/html/bul/mamo/app/config/client.side.neon" timestamp="1496827444246">
         <mark key="[" line="75" column="16" />
@@ -4374,7 +4378,7 @@
         <mark key="]" line="61" column="15" />
         <mark key="." line="61" column="15" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Model/News.php" timestamp="1552050522156">
+      <file name="/home/www/html/nnb/aktuality/app/Model/News.php" timestamp="1552316118925">
         <mark key="'" line="189" column="27" />
         <mark key="[" line="107" column="29" />
         <mark key="]" line="230" column="4" />
@@ -4611,7 +4615,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/config/media.neon" timestamp="1494851826235">
+      <file name="/home/www/html/nnb/aktuality/app/config/media.neon" timestamp="1552316070594">
         <mark key="[" line="9" column="10" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -5576,9 +5580,8 @@
       <jump line="189" column="27" filename="/home/www/html/nnb/aktuality/app/Model/News.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dump($values);
-		exit;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIE1vZGVsXE5ld3NNYWlsU2VuZGVyOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">TmV3cyA=</text>
@@ -5589,44 +5592,40 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">dXNlIE1vZGVsXE5ld3NNYWlsU2VuZGVyOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">dXNlIEFwcFxNb2RlbFxOZXdzOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dXNlIEFwcFxNb2RlbFxFbEZpbmRlckZpbGU7Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>function () use ($values, $news) {
+			
+		})</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">JG1lc3NhZ2UgPSBuZXcgTWVzc2FnZSgpOwoJCQkkbWVzc2FnZS0+c2V0RnJvbSgncm9ib3RAYnVsb3ZrYS5jeicpOwoJCQkkbWVzc2FnZS0+YWRkVG8oJ3JvbWFuLmhybmNpckBidWxvdmthLmN6Jyk7CgkJCSRtZXNzYWdlLT5zZXRTdWJqZWN0KCR2YWx1ZXMtPnRpdGxlKTsKCQkJJG1lc3NhZ2UtPnNldEh0bWxCb2R5KCR2YWx1ZXMtPnRleHQgLiBIdG1sOjplbCgncCcpLT5zZXRUZXh0KCR2YWx1ZXMtPnN1YnNjcmliZXIpKTsKCgkJCWlmICgkbmV3cy0+Z2V0RmlsZVJvb3QoKSAhPT0gbnVsbCkgewoJCQkJLyoqIEB2YXIgRWxGaW5kZXJGaWxlICRlbEZpbmRlckZpbGUgKi8KCQkJCWZvcmVhY2ggKCRuZXdzLT5nZXRGaWxlUm9vdCgpLT5nZXRDaGlsZHJlbigpIGFzICRlbEZpbmRlckZpbGUpIHsKCQkJCQlpZiAoJGVsRmluZGVyRmlsZS0+Z2V0TWltZSgpID09PSBFbEZpbmRlckZpbGU6OkRJUkVDVE9SWV9NSU1FKSB7CgkJCQkJCWNvbnRpbnVlOwoJCQkJCX0KCgkJCQkJJGZpbGUgPSAkZWxGaW5kZXJGaWxlLT5nZXRGaWxlKCk7CgoJCQkJCSRtZXNzYWdlLT5hZGRBdHRhY2htZW50KCRmaWxlLT5nZXROYW1lKCksICR0aGlzLT5maWxlU3RvcmFnZS0+b3BlbigkZmlsZS0+Z2V0U3RvcmFnZVBhdGgoKSkpOwoJCQkJfQoKCQkJfQoKCQkJJHRoaXMtPm1haWxlci0+c2VuZCgkbWVzc2FnZSk7</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkkdGhpcy0+ZmlsZVN0b3JhZ2UgPSAkZmlsZVN0b3JhZ2U7Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text>/**
+	 * @var IMailer
+	 */</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CXByaXZhdGUgJGZpbGVTdG9yYWdlOwo=</text>
+      </register>
+      <register name="9" type="4">
         <text>dump($values);
 		exit;</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gRWxGaW5kZXJGaWxlICRmaWxlUm9vdAoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0RmlsZVJvb3QoRWxGaW5kZXJGaWxlICRmaWxlUm9vdCk6IHZvaWQKCXsKCQkkdGhpcy0+ZmlsZVJvb3QgPSAkZmlsZVJvb3Q7Cgl9</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldEV4cGlyZWQoKQoJewoJCXJldHVybiAkdGhpcy0+ZXhwaXJlZDsKCX0KCgoJcHVibGljIGZ1bmN0aW9uIGlzRXhwaXJlZCgpCgl7CgkJcmV0dXJuICR0aGlzLT5leHBpcmVkIDwgbmV3IERhdGVUaW1lOwoJfQ==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5XERvY3RyaW5lXE1hZ2ljQWNjZXNzb3JzXE1hZ2ljQWNjZXNzb3JzOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CXVzZSBNYWdpY0FjY2Vzc29yczsK</text>
-      </register>
-      <register name="6" type="4">
-        <text>* @property-read int     $id
- * @property ElFinderFile $fileRoot
- * @property string       $published
- * @property string       $expired
- * @property string       $target
- * @property string       $title
- * @property string       $text
- * @property boolean      $sticky
- * @property boolean      $visible</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gXERhdGVUaW1lICRsYXN0QWNjZXNzCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRMYXN0QWNjZXNzKFxEYXRlVGltZSAkbGFzdEFjY2Vzcyk6IHZvaWQKCXsKCQkkdGhpcy0+bGFzdEFjY2VzcyA9ICRsYXN0QWNjZXNzOwoJfQo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIGludAoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0T3NjKCk6IGludAoJewoJCXJldHVybiAkdGhpcy0+b3NjOwoJfQoKCgkvKioKCSAqIEBwYXJhbSBpbnQgJG9zYwoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0T3NjKGludCAkb3NjKQoJewoJCSR0aGlzLT5vc2MgPSAkb3NjOwoJfQoKCgkvKioKCSAqIEByZXR1cm4gc3RyaW5nCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRSb2xlKCk6IHN0cmluZwoJewoJCXJldHVybiAkdGhpcy0+cm9sZTsKCX0KCgoJLyoqCgkgKiBAcGFyYW0gc3RyaW5nICRyb2xlCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRSb2xlKHN0cmluZyAkcm9sZSkKCXsKCQkkdGhpcy0+cm9sZSA9ICRyb2xlOwoJfQoKCgkvKioKCSAqIEByZXR1cm4gXERhdGVUaW1lCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRMYXN0QWNjZXNzKCk6IFxEYXRlVGltZQoJewoJCXJldHVybiAkdGhpcy0+bGFzdEFjY2VzczsKCX0=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJcRGF0ZVxEYXRlOwo=</text>
-      </register>
       <register name=":" type="4">
-        <text>172</text>
+        <text>175</text>
       </register>
     </registers>
     <search>
@@ -5662,7 +5661,6 @@
         <entry>FileRoot</entry>
       </history-search>
       <history-cmd>
-        <entry>80</entry>
         <entry>163</entry>
         <entry>119</entry>
         <entry>133</entry>
@@ -5682,6 +5680,7 @@
         <entry>368</entry>
         <entry>391</entry>
         <entry>172</entry>
+        <entry>175</entry>
       </history-cmd>
       <history-expr />
       <history-input />
