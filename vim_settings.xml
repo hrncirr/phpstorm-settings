@@ -1151,10 +1151,10 @@
         <mark key="]" line="250" column="12" />
         <mark key="." line="250" column="12" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressObjectForm/AddressObjectForm.php" timestamp="1550832255624">
-        <mark key="[" line="90" column="52" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressObjectForm/AddressObjectForm.php" timestamp="1552397149615">
+        <mark key="[" line="100" column="12" />
+        <mark key="]" line="100" column="12" />
+        <mark key="." line="100" column="12" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" timestamp="1500550523151">
         <mark key="[" line="92" column="8" />
@@ -1169,8 +1169,8 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Components/HistoryControlFactory.php" timestamp="1552052556747">
-        <mark key="[" line="58" column="40" />
+      <file name="/home/www/html/nnb/aktuality/app/Components/HistoryControlFactory.php" timestamp="1552397527329">
+        <mark key="[" line="81" column="38" />
         <mark key="]" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
@@ -1927,6 +1927,9 @@
         <mark key="]" line="5" column="4" />
         <mark key="." line="5" column="4" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/TSubject.php" timestamp="1552396681915">
+        <mark key="[" line="20" column="34" />
+      </file>
       <file name="/home/www/html/dv/adera/src/Users/AdminModule/Presenters/UsersPresenter.php" timestamp="1500880377092">
         <mark key="[" line="24" column="41" />
         <mark key="]" line="11" column="0" />
@@ -2287,6 +2290,11 @@
       </file>
       <file name="/home/www/html/nnb/dms/src/Documents/DocumentFacade.php" timestamp="1551259135807">
         <mark key="[" line="33" column="8" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/AddressObject.php" timestamp="1552396993020">
+        <mark key="[" line="144" column="4" />
+        <mark key="]" line="144" column="4" />
+        <mark key="." line="144" column="4" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/Passportization/TechnicalRequisitions/model/StateModel.php" timestamp="1486460517522">
         <mark key="[" line="13" column="0" />
@@ -4619,6 +4627,9 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/AddressObjectType.php" timestamp="1552396791485">
+        <mark key="[" line="14" column="6" />
+      </file>
       <file name="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/DI/ReplicatorExtension.php" timestamp="1502466585825">
         <mark key="[" line="32" column="27" />
         <mark key="]" line="29" column="0" />
@@ -4765,6 +4776,9 @@
         <mark key="[" line="53" column="31" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" timestamp="1552397082787">
+        <mark key="'" line="218" column="32" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/FormParts/ContactFormPart/IContactFormPartFactory.php" timestamp="1547458096539">
         <mark key="[" line="13" column="0" />
@@ -5487,7 +5501,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="5" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/file.latte" />
       <jump line="10" column="18" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/file.latte" />
       <jump line="37" column="18" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/file.latte" />
       <jump line="110" column="44" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
@@ -5587,55 +5600,58 @@
       <jump line="157" column="35" filename="/home/www/html/nnb/dms/src/Folders/FolderFacade.php" />
       <jump line="158" column="46" filename="/home/www/html/nnb/dms/src/Folders/FolderFacade.php" />
       <jump line="92" column="0" filename="/home/www/html/nnb/dms/src/Folders/FolderFacade.php" />
+      <jump line="218" column="32" filename="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/SubjectForm.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICoK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LT5zZXRBdHRyaWJ1dGUoJ2RhdGEtcHJvdmlkZScsICdmb3JtLWNob2ljZScpCgkJCS0+c2V0QXR0cmlidXRlKCdkYXRhLWNvbXBvbmVudC1pZCcsICR0aGlzLT5nZXRVbmlxdWVJZCgpKQoJCQktPnNldEF0dHJpYnV0ZSgnZGF0YS1uYW1lJywgJ2xlZ2FsU3ViamVjdGl2aXR5JykKCQkJLT5zZXRBdHRyaWJ1dGUoJ2RhdGEtbGluaycsICR0aGlzLT5saW5rKCdjaGFuZ2VMZWdhbFN1YmplY3Rpdml0eSEnKSkKCQkJLT5zZXREaXNhYmxlZCgkdGhpcy0+c3ViamVjdC0+Z2V0SWQoKSAhPT0gbnVsbCk7</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JHRoaXMtPmNhY2hlLT5jbGVhbihbQ2FjaGU6OlRBR1MgPT4gWydjaGlsZHJlbiddXSk7</text>
       </register>
       <register name="/" type="4">
-        <text>NULL</text>
+        <text>LegalSubject</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICoK</text>
+      <register name="1" type="4">
+        <text encoding="base64">LT5zZXRBdHRyaWJ1dGUoJ2RhdGEtcHJvdmlkZScsICdmb3JtLWNob2ljZScpCgkJCS0+c2V0QXR0cmlidXRlKCdkYXRhLWNvbXBvbmVudC1pZCcsICR0aGlzLT5nZXRVbmlxdWVJZCgpKQoJCQktPnNldEF0dHJpYnV0ZSgnZGF0YS1uYW1lJywgJ2xlZ2FsU3ViamVjdGl2aXR5JykKCQkJLT5zZXRBdHRyaWJ1dGUoJ2RhdGEtbGluaycsICR0aGlzLT5saW5rKCdjaGFuZ2VMZWdhbFN1YmplY3Rpdml0eSEnKSkKCQkJLT5zZXREaXNhYmxlZCgkdGhpcy0+c3ViamVjdC0+Z2V0SWQoKSAhPT0gbnVsbCk7</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICogQG1ldGhvZCBvbkNoYW5nZSgpCg==</text>
+      <register name="2" type="4">
+        <text>/**
+	 * @param int $type
+	 */</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkkdGhpcy0+b25DaGFuZ2UoJHRoaXMtPm9uQ2hhbmdlKCRlbnRpdHkpOyk7Cg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlyZXR1cm4gcGFyZW50OjpnZXRDaGlsZHJlbigkcm9vdElkKTsK</text>
+        <text encoding="base64">ICogQG1ldGhvZCBvbkNoYW5nZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkkdGhpcy0+ZW0tPmZsdXNoKCk7Cg==</text>
+        <text encoding="base64">CQkkdGhpcy0+b25DaGFuZ2UoJHRoaXMtPm9uQ2hhbmdlKCRlbnRpdHkpOyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlkdW1wKCdvaycpOwo=</text>
+        <text encoding="base64">CQlyZXR1cm4gcGFyZW50OjpnZXRDaGlsZHJlbigkcm9vdElkKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkkdGhpcy0+ZW0tPmZsdXNoKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+        <text encoding="base64">CQlkdW1wKCdvaycpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlkdW1wKCdvaycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
       </register>
     </registers>
     <search>
-      <last-search>NULL</last-search>
+      <last-search>LegalSubject</last-search>
       <last-offset />
-      <last-pattern>NULL</last-pattern>
+      <last-pattern>LegalSubject</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -5643,7 +5659,6 @@
     </search>
     <history>
       <history-search>
-        <entry>file</entry>
         <entry>getFile</entry>
         <entry>target</entry>
         <entry>sticky</entry>
@@ -5663,6 +5678,7 @@
         <entry>changePosition</entry>
         <entry>children</entry>
         <entry>NULL</entry>
+        <entry>LegalSubject</entry>
       </history-search>
       <history-cmd>
         <entry>119</entry>
