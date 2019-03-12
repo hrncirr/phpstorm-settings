@@ -3725,6 +3725,13 @@
         <mark key="]" line="47" column="34" />
         <mark key="." line="47" column="34" />
       </file>
+      <file name="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" timestamp="1552382355823">
+        <mark key="'" line="540" column="52" />
+        <mark key="[" line="748" column="0" />
+        <mark key="]" line="832" column="4" />
+        <mark key="." line="832" column="4" />
+        <mark key="^" line="832" column="4" />
+      </file>
       <file name="/home/www/html/nnb/aktuality/app/Model/File.php" timestamp="1552030207335">
         <mark key="[" line="1" column="23" />
         <mark key="]" line="8" column="0" />
@@ -5478,9 +5485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1025" column="17" filename="/home/www/html/dv/adera/libs/vendor/doctrine/orm/lib/Doctrine/ORM/QueryBuilder.php" />
-      <jump line="1046" column="17" filename="/home/www/html/dv/adera/libs/vendor/doctrine/orm/lib/Doctrine/ORM/QueryBuilder.php" />
-      <jump line="1057" column="17" filename="/home/www/html/dv/adera/libs/vendor/doctrine/orm/lib/Doctrine/ORM/QueryBuilder.php" />
       <jump line="1064" column="20" filename="/home/www/html/dv/adera/libs/vendor/doctrine/orm/lib/Doctrine/ORM/QueryBuilder.php" />
       <jump line="1070" column="27" filename="/home/www/html/dv/adera/libs/vendor/doctrine/orm/lib/Doctrine/ORM/QueryBuilder.php" />
       <jump line="1081" column="17" filename="/home/www/html/dv/adera/libs/vendor/doctrine/orm/lib/Doctrine/ORM/QueryBuilder.php" />
@@ -5578,60 +5582,62 @@
       <jump line="301" column="41" filename="/home/www/html/nnb/aktuality/app/Components/NewsForm/NewsForm.php" />
       <jump line="240" column="43" filename="/home/www/html/nnb/aktuality/app/Components/NewsForm/NewsForm.php" />
       <jump line="189" column="27" filename="/home/www/html/nnb/aktuality/app/Model/News.php" />
+      <jump line="462" column="32" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
+      <jump line="127" column="43" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
+      <jump line="540" column="52" filename="/home/www/vendor/hrncirr/jstree/src/Components/TreeControl/TreeControl.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIE1vZGVsXE5ld3NNYWlsU2VuZGVyOwo=</text>
+        <text encoding="base64">CQkJcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">TmV3cyA=</text>
       </register>
       <register name="/" type="4">
-        <text>FileRoot</text>
+        <text>remove</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIE1vZGVsXE5ld3NNYWlsU2VuZGVyOwo=</text>
+        <text encoding="base64">CQkJcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbFxOZXdzOwo=</text>
+        <text encoding="base64">dXNlIE1vZGVsXE5ld3NNYWlsU2VuZGVyOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">dXNlIEFwcFxNb2RlbFxOZXdzOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">dXNlIEFwcFxNb2RlbFxFbEZpbmRlckZpbGU7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>function () use ($values, $news) {
 			
 		})</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">JG1lc3NhZ2UgPSBuZXcgTWVzc2FnZSgpOwoJCQkkbWVzc2FnZS0+c2V0RnJvbSgncm9ib3RAYnVsb3ZrYS5jeicpOwoJCQkkbWVzc2FnZS0+YWRkVG8oJ3JvbWFuLmhybmNpckBidWxvdmthLmN6Jyk7CgkJCSRtZXNzYWdlLT5zZXRTdWJqZWN0KCR2YWx1ZXMtPnRpdGxlKTsKCQkJJG1lc3NhZ2UtPnNldEh0bWxCb2R5KCR2YWx1ZXMtPnRleHQgLiBIdG1sOjplbCgncCcpLT5zZXRUZXh0KCR2YWx1ZXMtPnN1YnNjcmliZXIpKTsKCgkJCWlmICgkbmV3cy0+Z2V0RmlsZVJvb3QoKSAhPT0gbnVsbCkgewoJCQkJLyoqIEB2YXIgRWxGaW5kZXJGaWxlICRlbEZpbmRlckZpbGUgKi8KCQkJCWZvcmVhY2ggKCRuZXdzLT5nZXRGaWxlUm9vdCgpLT5nZXRDaGlsZHJlbigpIGFzICRlbEZpbmRlckZpbGUpIHsKCQkJCQlpZiAoJGVsRmluZGVyRmlsZS0+Z2V0TWltZSgpID09PSBFbEZpbmRlckZpbGU6OkRJUkVDVE9SWV9NSU1FKSB7CgkJCQkJCWNvbnRpbnVlOwoJCQkJCX0KCgkJCQkJJGZpbGUgPSAkZWxGaW5kZXJGaWxlLT5nZXRGaWxlKCk7CgoJCQkJCSRtZXNzYWdlLT5hZGRBdHRhY2htZW50KCRmaWxlLT5nZXROYW1lKCksICR0aGlzLT5maWxlU3RvcmFnZS0+b3BlbigkZmlsZS0+Z2V0U3RvcmFnZVBhdGgoKSkpOwoJCQkJfQoKCQkJfQoKCQkJJHRoaXMtPm1haWxlci0+c2VuZCgkbWVzc2FnZSk7</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkkdGhpcy0+ZmlsZVN0b3JhZ2UgPSAkZmlsZVN0b3JhZ2U7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>/**
 	 * @var IMailer
 	 */</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CXByaXZhdGUgJGZpbGVTdG9yYWdlOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>dump($values);
-		exit;</text>
-      </register>
       <register name=":" type="4">
-        <text>175</text>
+        <text>463</text>
       </register>
     </registers>
     <search>
-      <last-search>FileRoot</last-search>
+      <last-search>remove</last-search>
       <last-offset />
-      <last-pattern>FileRoot</last-pattern>
+      <last-pattern>remove</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -5639,10 +5645,6 @@
     </search>
     <history>
       <history-search>
-        <entry>version</entry>
-        <entry>getRelated</entry>
-        <entry>onAdd</entry>
-        <entry>Tabs</entry>
         <entry>TabsControl</entry>
         <entry>redraw</entry>
         <entry>user</entry>
@@ -5659,9 +5661,12 @@
         <entry>UpdateHis</entry>
         <entry>updateAt</entry>
         <entry>FileRoot</entry>
+        <entry>delete</entry>
+        <entry>DFelete</entry>
+        <entry>Delete</entry>
+        <entry>remove</entry>
       </history-search>
       <history-cmd>
-        <entry>163</entry>
         <entry>119</entry>
         <entry>133</entry>
         <entry>462</entry>
@@ -5681,6 +5686,7 @@
         <entry>391</entry>
         <entry>172</entry>
         <entry>175</entry>
+        <entry>463</entry>
       </history-cmd>
       <history-expr />
       <history-input />
