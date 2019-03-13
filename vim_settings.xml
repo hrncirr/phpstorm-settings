@@ -2032,12 +2032,11 @@
       <file name="/home/www/html/dv/adera/app/config/extensions/forms.neon" timestamp="1548933803324">
         <mark key="[" line="4" column="15" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Components/NewsControl/NewsControl.php" timestamp="1552469035078">
-        <mark key="'" line="303" column="25" />
-        <mark key="[" line="196" column="42" />
-        <mark key="]" line="294" column="0" />
-        <mark key="^" line="158" column="4" />
-        <mark key="." line="294" column="0" />
+      <file name="/home/www/html/nnb/aktuality/app/Components/NewsControl/NewsControl.php" timestamp="1552472224606">
+        <mark key="'" line="305" column="25" />
+        <mark key="[" line="195" column="0" />
+        <mark key="]" line="195" column="0" />
+        <mark key="." line="195" column="0" />
       </file>
       <file name="/home/www/html/nnb/aktuality/app/router/RouterFactory.php" timestamp="1485779627524">
         <mark key="[" line="32" column="0" />
@@ -2357,7 +2356,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/home/www/vendor/hrncirr/cmp/src/Latte/CmpFilter.php" timestamp="1496145351610">
+      <file name="/home/www/vendor/hrncirr/cmp/src/Latte/CmpFilter.php" timestamp="1552472797789">
         <mark key="[" line="45" column="66" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
@@ -3878,9 +3877,9 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Components/NewsItemControl/templates/NewsItemControl.latte" timestamp="1552035939543">
+      <file name="/home/www/html/nnb/aktuality/app/Components/NewsItemControl/templates/NewsItemControl.latte" timestamp="1552471755743">
         <mark key="'" line="75" column="69" />
-        <mark key="[" line="76" column="37" />
+        <mark key="[" line="27" column="60" />
         <mark key="]" line="33" column="29" />
         <mark key="." line="33" column="29" />
         <mark key="^" line="33" column="29" />
@@ -4046,10 +4045,10 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Model/NewsMailSender.php" timestamp="1552469381417">
-        <mark key="[" line="53" column="27" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="/home/www/html/nnb/aktuality/app/Model/NewsMailSender.php" timestamp="1552473121748">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="4" />
+        <mark key="." line="40" column="4" />
       </file>
       <file name="/home/www/html/bul/mamo/app/config/client.side.neon" timestamp="1496827444246">
         <mark key="[" line="75" column="16" />
@@ -4442,9 +4441,9 @@
         <mark key="]" line="61" column="15" />
         <mark key="." line="61" column="15" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Model/News.php" timestamp="1552316118925">
-        <mark key="'" line="189" column="27" />
-        <mark key="[" line="107" column="29" />
+      <file name="/home/www/html/nnb/aktuality/app/Model/News.php" timestamp="1552471570356">
+        <mark key="'" line="77" column="17" />
+        <mark key="[" line="165" column="45" />
         <mark key="]" line="230" column="4" />
         <mark key="." line="230" column="4" />
       </file>
@@ -5560,7 +5559,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="22" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
       <jump line="32" column="86" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
       <jump line="35" column="93" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
       <jump line="39" column="62" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
@@ -5660,77 +5658,62 @@
       <jump line="26" column="8" filename="/home/www/html/nnb/aktuality/app/config/extensions/doctrine.neon" />
       <jump line="16" column="36" filename="/home/www/html/nnb/aktuality/app/config/extensions/doctrine.neon" />
       <jump line="35" column="28" filename="/home/www/html/nnb/aktuality/app/config/extensions/doctrine.neon" />
+      <jump line="77" column="17" filename="/home/www/html/nnb/aktuality/app/Model/News.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWhybmNpcnIuaGlzdG9yeTogSHJuY2lyclxIaXN0b3J5XERJXEhpc3RvcnlFeHRlbnNpb24K</text>
+      <register name="&quot;" type="4">
+        <text>/**
+	 * @var EntityManager
+	 */
+	private $em;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNsYXNzOiBB</text>
+        <text>, EntityManager $em</text>
       </register>
       <register name="/" type="4">
-        <text>UserCallable</text>
+        <text>isExpired</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CWhybmNpcnIuaGlzdG9yeTogSHJuY2lyclxIaXN0b3J5XERJXEhpc3RvcnlFeHRlbnNpb24K</text>
+      <register name="1" type="4">
+        <text>/**
+	 * @var EntityManager
+	 */
+	private $em;</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">a2R5YnkuZXZlbnRzLnN5bWZvbnlQcm94eToKCQlhdXRvd2lyZWQ6IG9mZgo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkkdGhpcy0+ZW0gPSAkZW07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWtkeWJ5LnJlcGxpY2F0b3I6IEtkeWJ5XFJlcGxpY2F0b3JcRElcUmVwbGljYXRvckV4dGVuc2lvbgo=</text>
+        <text encoding="base64">CQkkdGhpcy0+Y21wUHJvdmlkZXItPnJlbmRlclRvU3RyaW5nKCRuZXdzLCAndGV4dCcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWhybmNpcnIudHlwZWFoZWFkOiBIcm5jaXJyXEZvcm1zXFR5cGVhaGVhZFxESVxUeXBlYWhlYWRFeHRlbnNpb24K</text>
+        <text encoding="base64">CQkJXERhdGVUaW1lSW1tdXRhYmxlOjoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CW5hc2V4dC5kZXBlbmRlbnRTZWxlY3RCb3g6IE5hc0V4dFxGb3Jtc1xEZXBlbmRlbnRFeHRlbnNpb24K</text>
+        <text encoding="base64">CWhybmNpcnIuaGlzdG9yeTogSHJuY2lyclxIaXN0b3J5XERJXEhpc3RvcnlFeHRlbnNpb24K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CWhybmNpcnIudGFnc0lucHV0OiBIcm5jaXJyXEZvcm1zXFRhZ3NJbnB1dFxESVxUYWdzSW5wdXRFeHRlbnNpb24K</text>
+      <register name="6" type="4">
+        <text encoding="base64">a2R5YnkuZXZlbnRzLnN5bWZvbnlQcm94eToKCQlhdXRvd2lyZWQ6IG9mZgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>newsRepository:
-		class: Doctrine\ORM\EntityRepository
-		factory: @doctrine.entityManager::getRepository('Model\NewsEntity')
-
-	newsFacade:
-		class: Model\NewsFacade
-		arguments: [@newsRepository]
-
-	fileRepository:
-		class: Doctrine\ORM\EntityRepository
-		factory: @doctrine.entityManager::getRepository('Model\FileEntity')
-
-	fileFacade:
-		class: Model\FileFacade
-		arguments: [@fileRepository]
-
-	imageRepository:
-		class: Doctrine\ORM\EntityRepository
-		factory: @doctrine.entityManager::getRepository('Model\ImageEntity')
-
-	imageFacade:
-		class: Model\ImageFacade
-		arguments: [@imageRepository]</text>
+      <register name="7" type="2">
+        <text encoding="base64">CWtkeWJ5LnJlcGxpY2F0b3I6IEtkeWJ5XFJlcGxpY2F0b3JcRElcUmVwbGljYXRvckV4dGVuc2lvbgo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">c29mdERlbGV0YWJsZUZpbHRlcjoKCQljbGFzczogQXBwXERvY3RyaW5lXEZpbHRlcnNcU29mdERlbGV0YWJsZUZpbHRlcgoJCXNldHVwOgoJCQktIHNldFVzZXIKCQkJLSBzZXRIdHRwUmVxdWVzdAo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">CWhybmNpcnIudHlwZWFoZWFkOiBIcm5jaXJyXEZvcm1zXFR5cGVhaGVhZFxESVxUeXBlYWhlYWRFeHRlbnNpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CW5hc2V4dC5kZXBlbmRlbnRTZWxlY3RCb3g6IE5hc0V4dFxGb3Jtc1xEZXBlbmRlbnRFeHRlbnNpb24K</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
       </register>
     </registers>
     <search>
-      <last-search>UserCallable</last-search>
+      <last-search>isExpired</last-search>
       <last-offset />
-      <last-pattern>UserCallable</last-pattern>
+      <last-pattern>isExpired</last-pattern>
       <last-replace>null</last-replace>
       <last-substitute>NULL</last-substitute>
       <last-dir>1</last-dir>
@@ -5738,7 +5721,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Update</entry>
         <entry>updateHis</entry>
         <entry>UpdateHis</entry>
         <entry>updateAt</entry>
@@ -5758,6 +5740,7 @@
         <entry>elfinder</entry>
         <entry>doctrineEntity</entry>
         <entry>UserCallable</entry>
+        <entry>isExpired</entry>
       </history-search>
       <history-cmd>
         <entry>119</entry>
