@@ -23,7 +23,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1552555855636">
+      <file name="/a.dummy" timestamp="1552556827840">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1528,6 +1528,9 @@
         <mark key="[" line="32" column="15" />
         <mark key="]" line="32" column="15" />
         <mark key="." line="32" column="15" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/Service/Install/StorageInstall.php" timestamp="1552556820924">
+        <mark key="[" line="4" column="11" />
       </file>
       <file name="/home/www/html/nnb/socialni-pece/app/Model/Facades/RecordFacade.php" timestamp="1484902971437">
         <mark key="[" line="66" column="8" />
@@ -3401,6 +3404,11 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Service/DI/ServiceExtension.php" timestamp="1552556717543">
+        <mark key="[" line="80" column="4" />
+        <mark key="]" line="80" column="4" />
+        <mark key="." line="80" column="4" />
+      </file>
       <file name="/Dummy.txt" timestamp="1552476008473">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="36" column="0" />
@@ -3972,9 +3980,6 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="/home/www/html/nnb/aktuality/app/config/client-side.neon" timestamp="1552467177138">
-        <mark key="'" line="46" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/control-token/composer.json" timestamp="1474377098028">
         <mark key="[" line="17" column="36" />
@@ -5657,10 +5662,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/**
-	 * @var EntityManager
-	 */
-	private $em;</text>
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGFmdGVyQ29tcGlsZShDbGFzc1R5cGUgJGNsYXNzKQoJewoJCXBhcmVudDo6YWZ0ZXJDb21waWxlKCRjbGFzcyk7CgkJJGluaXQgPSAkY2xhc3MtPm1ldGhvZHNbJ2luaXRpYWxpemUnXTsKCQkkaW5pdC0+YWRkQm9keShfX0NMQVNTX18gLiAnOjpyZWdpc3RlckNvbnRyb2xzKCR0aGlzKTsnKTsKCX0=</text>
       </register>
       <register name="-" type="4">
         <text>, EntityManager $em</text>
@@ -5672,34 +5674,34 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGFmdGVyQ29tcGlsZShDbGFzc1R5cGUgJGNsYXNzKQoJewoJCXBhcmVudDo6YWZ0ZXJDb21waWxlKCRjbGFzcyk7CgkJJGluaXQgPSAkY2xhc3MtPm1ldGhvZHNbJ2luaXRpYWxpemUnXTsKCQkkaW5pdC0+YWRkQm9keShfX0NMQVNTX18gLiAnOjpyZWdpc3RlckNvbnRyb2xzKCR0aGlzKTsnKTsKCX0=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">cHVibGljIHN0YXRpYyBmdW5jdGlvbiByZWdpc3RlckNvbnRyb2xzKENvbnRhaW5lciAkc2VydmljZUxvY2F0b3IpCgl7CgkJRm9ybUNvbnRhaW5lcjo6ZXh0ZW5zaW9uTWV0aG9kKCdhZGRTdG9yYWdlQ2F0YWxvZ0l0ZW1OYW1lJywKCQkJZnVuY3Rpb24gKEZvcm1Db250YWluZXIgJGNvbnRhaW5lciwgc3RyaW5nICRuYW1lID0gJ25hbWUnLCBzdHJpbmcgJGxhYmVsID0gJ25hbWUudGl0bGUnKSB1c2UgKCRzZXJ2aWNlTG9jYXRvcikgewoJCQkJcmV0dXJuICRjb250YWluZXJbJG5hbWVdID0gbmV3IENhdGFsb2dJdGVtTmFtZUlucHV0KCRsYWJlbCwKCQkJCQkkc2VydmljZUxvY2F0b3ItPmdldEJ5VHlwZShFbnRpdHlNYW5hZ2VyOjpjbGFzcykpOwoJCQl9KTsKCX0=</text>
+      </register>
+      <register name="3" type="4">
         <text>/**
 	 * @var EntityManager
 	 */
 	private $em;</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkkdGhpcy0+ZW0gPSAkZW07Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkkdGhpcy0+Y21wUHJvdmlkZXItPnJlbmRlclRvU3RyaW5nKCRuZXdzLCAndGV4dCcpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJXERhdGVUaW1lSW1tdXRhYmxlOjoK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CWhybmNpcnIuaGlzdG9yeTogSHJuY2lyclxIaXN0b3J5XERJXEhpc3RvcnlFeHRlbnNpb24K</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">a2R5YnkuZXZlbnRzLnN5bWZvbnlQcm94eToKCQlhdXRvd2lyZWQ6IG9mZgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CWtkeWJ5LnJlcGxpY2F0b3I6IEtkeWJ5XFJlcGxpY2F0b3JcRElcUmVwbGljYXRvckV4dGVuc2lvbgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CWhybmNpcnIudHlwZWFoZWFkOiBIcm5jaXJyXEZvcm1zXFR5cGVhaGVhZFxESVxUeXBlYWhlYWRFeHRlbnNpb24K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CW5hc2V4dC5kZXBlbmRlbnRTZWxlY3RCb3g6IE5hc0V4dFxGb3Jtc1xEZXBlbmRlbnRFeHRlbnNpb24K</text>
+        <text encoding="base64">CWtkeWJ5LnJlcGxpY2F0b3I6IEtkeWJ5XFJlcGxpY2F0b3JcRElcUmVwbGljYXRvckV4dGVuc2lvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
