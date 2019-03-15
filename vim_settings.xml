@@ -2314,6 +2314,11 @@
         <mark key="]" line="70" column="18" />
         <mark key="." line="70" column="18" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Service/Checkpoint.php" timestamp="1552642185042">
+        <mark key="[" line="17" column="33" />
+        <mark key="]" line="17" column="33" />
+        <mark key="." line="17" column="33" />
+      </file>
       <file name="/home/www/html/nnb/passportization/src/Passportization/TechnicalRequisitions/model/StateModel.php" timestamp="1486460517522">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="4" />
@@ -2621,6 +2626,11 @@
         <mark key="[" line="29" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/Service/CheckpointType.php" timestamp="1552642220704">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="4" />
+        <mark key="." line="26" column="4" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/presenters/BasePresenter.php" timestamp="1487243702987">
         <mark key="[" line="36" column="23" />
@@ -5664,10 +5674,14 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGFmdGVyQ29tcGlsZShDbGFzc1R5cGUgJGNsYXNzKQoJewoJCXBhcmVudDo6YWZ0ZXJDb21waWxlKCRjbGFzcyk7CgkJJGluaXQgPSAkY2xhc3MtPm1ldGhvZHNbJ2luaXRpYWxpemUnXTsKCQkkaW5pdC0+YWRkQm9keShfX0NMQVNTX18gLiAnOjpyZWdpc3RlckNvbnRyb2xzKCR0aGlzKTsnKTsKCX0=</text>
+        <text>/**
+	 * @ORM\Column(type=&quot;string&quot;, nullable=true)
+	 * @var string
+	 */
+	private $macAddress;</text>
       </register>
       <register name="-" type="4">
-        <text>, EntityManager $em</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>formSucc</text>
@@ -5676,34 +5690,42 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGFmdGVyQ29tcGlsZShDbGFzc1R5cGUgJGNsYXNzKQoJewoJCXBhcmVudDo6YWZ0ZXJDb21waWxlKCRjbGFzcyk7CgkJJGluaXQgPSAkY2xhc3MtPm1ldGhvZHNbJ2luaXRpYWxpemUnXTsKCQkkaW5pdC0+YWRkQm9keShfX0NMQVNTX18gLiAnOjpyZWdpc3RlckNvbnRyb2xzKCR0aGlzKTsnKTsKCX0=</text>
+        <text>/**
+	 * @ORM\Column(type=&quot;string&quot;, nullable=true)
+	 * @var string
+	 */
+	private $macAddress;</text>
       </register>
       <register name="2" type="4">
+        <text>/**
+	 * @ORM\ManyToOne(targetEntity=&quot;AddressObject&quot;, cascade={&quot;persist&quot;})
+	 * @var AddressObject
+	 */
+	private $addressObject;</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CSAqIEBPUk1cSm9pbkNvbHVtbihuYW1lPSJfaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZT0iaWQiKQo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">LyoqCgkgKiBAT1JNXENvbHVtbih0eXBlPSJ0ZXh0IiwgbmFtZT0iYHRleHRgIikKCSAqIEBBc3NlcnRcTm90QmxhbmsoKQoJICogQHZhciBzdHJpbmcKCSAqLwoJcHJpdmF0ZSAkdGV4dDsKCgoJLyoqCgkgKiBAcmV0dXJuIHN0cmluZ3xudWxsCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRUZXh0KCk6ID9zdHJpbmcKCXsKCQlyZXR1cm4gJHRoaXMtPnRleHQ7Cgl9CgoKCS8qKgoJICogQHBhcmFtIHN0cmluZyAkdGV4dAoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0VGV4dChzdHJpbmcgJHRleHQpOiB2b2lkCgl7CgkJJHRoaXMtPnRleHQgPSAkdGV4dDsKCX0=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGFmdGVyQ29tcGlsZShDbGFzc1R5cGUgJGNsYXNzKQoJewoJCXBhcmVudDo6YWZ0ZXJDb21waWxlKCRjbGFzcyk7CgkJJGluaXQgPSAkY2xhc3MtPm1ldGhvZHNbJ2luaXRpYWxpemUnXTsKCQkkaW5pdC0+YWRkQm9keShfX0NMQVNTX18gLiAnOjpyZWdpc3RlckNvbnRyb2xzKCR0aGlzKTsnKTsKCX0=</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">cHVibGljIHN0YXRpYyBmdW5jdGlvbiByZWdpc3RlckNvbnRyb2xzKENvbnRhaW5lciAkc2VydmljZUxvY2F0b3IpCgl7CgkJRm9ybUNvbnRhaW5lcjo6ZXh0ZW5zaW9uTWV0aG9kKCdhZGRTdG9yYWdlQ2F0YWxvZ0l0ZW1OYW1lJywKCQkJZnVuY3Rpb24gKEZvcm1Db250YWluZXIgJGNvbnRhaW5lciwgc3RyaW5nICRuYW1lID0gJ25hbWUnLCBzdHJpbmcgJGxhYmVsID0gJ25hbWUudGl0bGUnKSB1c2UgKCRzZXJ2aWNlTG9jYXRvcikgewoJCQkJcmV0dXJuICRjb250YWluZXJbJG5hbWVdID0gbmV3IENhdGFsb2dJdGVtTmFtZUlucHV0KCRsYWJlbCwKCQkJCQkkc2VydmljZUxvY2F0b3ItPmdldEJ5VHlwZShFbnRpdHlNYW5hZ2VyOjpjbGFzcykpOwoJCQl9KTsKCX0=</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>/**
 	 * @var EntityManager
 	 */
 	private $em;</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkkdGhpcy0+ZW0gPSAkZW07Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkkdGhpcy0+Y21wUHJvdmlkZXItPnJlbmRlclRvU3RyaW5nKCRuZXdzLCAndGV4dCcpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJXERhdGVUaW1lSW1tdXRhYmxlOjoK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CWhybmNpcnIuaGlzdG9yeTogSHJuY2lyclxIaXN0b3J5XERJXEhpc3RvcnlFeHRlbnNpb24K</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">a2R5YnkuZXZlbnRzLnN5bWZvbnlQcm94eToKCQlhdXRvd2lyZWQ6IG9mZgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CWtkeWJ5LnJlcGxpY2F0b3I6IEtkeWJ5XFJlcGxpY2F0b3JcRElcUmVwbGljYXRvckV4dGVuc2lvbgo=</text>
+        <text encoding="base64">CQkkdGhpcy0+Y21wUHJvdmlkZXItPnJlbmRlclRvU3RyaW5nKCRuZXdzLCAndGV4dCcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
