@@ -2322,10 +2322,10 @@
         <mark key="]" line="70" column="18" />
         <mark key="." line="70" column="18" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Service/Checkpoint.php" timestamp="1552652572910">
-        <mark key="[" line="25" column="4" />
-        <mark key="]" line="25" column="4" />
-        <mark key="." line="25" column="4" />
+      <file name="/home/www/html/dv/adera/Modules/Service/Checkpoint.php" timestamp="1552654595414">
+        <mark key="[" line="68" column="4" />
+        <mark key="]" line="68" column="4" />
+        <mark key="." line="68" column="4" />
       </file>
       <file name="/home/www/html/nnb/passportization/src/Passportization/TechnicalRequisitions/model/StateModel.php" timestamp="1486460517522">
         <mark key="[" line="13" column="0" />
@@ -2635,10 +2635,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Service/CheckpointType.php" timestamp="1552652434541">
-        <mark key="[" line="28" column="59" />
-        <mark key="]" line="28" column="59" />
-        <mark key="." line="28" column="59" />
+      <file name="/home/www/html/dv/adera/Modules/Service/CheckpointType.php" timestamp="1552654148642">
+        <mark key="[" line="52" column="33" />
+        <mark key="]" line="45" column="6" />
+        <mark key="." line="45" column="6" />
+        <mark key="^" line="45" column="6" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/presenters/BasePresenter.php" timestamp="1487243702987">
         <mark key="[" line="36" column="23" />
@@ -2940,8 +2941,10 @@
       <file name="/home/www/html/nnb/dms/src/Install/Console/Commands/InstallCommand.php" timestamp="1550238161153">
         <mark key="[" line="58" column="71" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Service/CheckpointTypeInterval.php" timestamp="1552651544168">
-        <mark key="[" line="39" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Service/CheckpointTypeInterval.php" timestamp="1552654836060">
+        <mark key="[" line="153" column="4" />
+        <mark key="]" line="54" column="33" />
+        <mark key="." line="54" column="33" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/SubjectForm/templates/naturalPerson.latte" timestamp="1547213305943">
         <mark key="[" line="5" column="5" />
@@ -3721,10 +3724,9 @@
       <file name="/home/www/html/nnb/dms/app/config/extensions/forms.neon" timestamp="1548933577385">
         <mark key="[" line="1" column="18" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Service/CheckpointState.php" timestamp="1552651712556">
-        <mark key="[" line="44" column="4" />
-        <mark key="]" line="44" column="4" />
-        <mark key="." line="44" column="4" />
+      <file name="/home/www/html/dv/adera/Modules/Service/CheckpointState.php" timestamp="1552654475716">
+        <mark key="]" line="41" column="33" />
+        <mark key="." line="41" column="33" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/EntityLoaderFilters/PathFilterIn.php" timestamp="1487606233761">
         <mark key="[" line="21" column="8" />
@@ -4984,6 +4986,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="/home/www/html/dv/adera/src/User/User.php" timestamp="1552654730314" />
       <file name="/home/www/html/nnb/passportization/app/Model/OrmModel.php" timestamp="1502107483534">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="13" column="0" />
@@ -5666,14 +5669,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/**
-	 * @ORM\ManyToOne(targetEntity=&quot;CheckpointType&quot;, cascade={&quot;persist&quot;})
-	 * @var CheckpointType
-	 */
-	private $type;</text>
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIEFkZHJlc3NPYmplY3QKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGdldEFkZHJlc3NPYmplY3QoKTogQWRkcmVzc09iamVjdAoJewoJCXJldHVybiAkdGhpcy0+YWRkcmVzc09iamVjdDsKCX0K</text>
       </register>
       <register name="-" type="4">
-        <text>, inversedBy=&quot;&quot;</text>
+        <text>, nullable=tru</text>
       </register>
       <register name="/" type="4">
         <text>formSucc</text>
@@ -5682,57 +5681,39 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIEFkZHJlc3NPYmplY3QKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGdldEFkZHJlc3NPYmplY3QoKTogQWRkcmVzc09iamVjdAoJewoJCXJldHVybiAkdGhpcy0+YWRkcmVzc09iamVjdDsKCX0K</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gQWRkcmVzc09iamVjdCAkYWRkcmVzc09iamVjdAoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0QWRkcmVzc09iamVjdChBZGRyZXNzT2JqZWN0ICRhZGRyZXNzT2JqZWN0KQoJewoJCSR0aGlzLT5hZGRyZXNzT2JqZWN0ID0gJGFkZHJlc3NPYmplY3Q7Cgl9CgoKCS8qKgoJICogQHJldHVybiBDaGVja3BvaW50VHlwZQoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0VHlwZSgpOiBDaGVja3BvaW50VHlwZQoJewoJCXJldHVybiAkdGhpcy0+dHlwZTsKCX0KCgoJLyoqCgkgKiBAcGFyYW0gQ2hlY2twb2ludFR5cGUgJHR5cGUKCSAqLwoJcHVibGljIGZ1bmN0aW9uIHNldFR5cGUoQ2hlY2twb2ludFR5cGUgJHR5cGUpCgl7CgkJJHRoaXMtPnR5cGUgPSAkdHlwZTsKCX0KCgoJLyoqCgkgKiBAcmV0dXJuIHN0cmluZwoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0TmFtZSgpOiBzdHJpbmcKCXsKCQlyZXR1cm4gJHRoaXMtPm5hbWU7Cgl9CgoKCS8qKgoJICogQHBhcmFtIHN0cmluZyAkbmFtZQoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0TmFtZShzdHJpbmcgJG5hbWUpCgl7CgkJJHRoaXMtPm5hbWUgPSAkbmFtZTsKCX0KCgoJLyoqCgkgKiBAcmV0dXJuIHN0cmluZwoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0TWFjQWRkcmVzcygpOiBzdHJpbmcKCXsKCQlyZXR1cm4gJHRoaXMtPm1hY0FkZHJlc3M7Cgl9CgoKCS8qKgoJICogQHBhcmFtIHN0cmluZyAkbWFjQWRkcmVzcwoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0TWFjQWRkcmVzcyhzdHJpbmcgJG1hY0FkZHJlc3MpCgl7CgkJJHRoaXMtPm1hY0FkZHJlc3MgPSAkbWFjQWRkcmVzczsKCX0=</text>
+      </register>
+      <register name="3" type="4">
+        <text>/**
+	 * @ORM\Column(type=&quot;string&quot;)
+	 * @var string
+	 */
+	private $name;</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">LyoqCgkgKiBAT1JNXENvbHVtbih0eXBlPSJzdHJpbmciKQoJICogQHZhciBzdHJpbmcKCSAqLwoJcHJpdmF0ZSAkbmFtZTsKCgoJLyoqCgkgKiBAcmV0dXJuIEFkZHJlc3NPYmplY3QKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGdldEFkZHJlc3NPYmplY3QoKTogQWRkcmVzc09iamVjdAoJewoJCXJldHVybiAkdGhpcy0+YWRkcmVzc09iamVjdDsKCX0KCgoJLyoqCgkgKiBAcGFyYW0gQWRkcmVzc09iamVjdCAkYWRkcmVzc09iamVjdAoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0QWRkcmVzc09iamVjdChBZGRyZXNzT2JqZWN0ICRhZGRyZXNzT2JqZWN0KQoJewoJCSR0aGlzLT5hZGRyZXNzT2JqZWN0ID0gJGFkZHJlc3NPYmplY3Q7Cgl9CgoKCS8qKgoJICogQHJldHVybiBDaGVja3BvaW50VHlwZQoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0VHlwZSgpOiBDaGVja3BvaW50VHlwZQoJewoJCXJldHVybiAkdGhpcy0+dHlwZTsKCX0KCgoJLyoqCgkgKiBAcGFyYW0gQ2hlY2twb2ludFR5cGUgJHR5cGUKCSAqLwoJcHVibGljIGZ1bmN0aW9uIHNldFR5cGUoQ2hlY2twb2ludFR5cGUgJHR5cGUpCgl7CgkJJHRoaXMtPnR5cGUgPSAkdHlwZTsKCX0KCgoJLyoqCgkgKiBAcmV0dXJuIHN0cmluZwoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0TWFjQWRkcmVzcygpOiBzdHJpbmcKCXsKCQlyZXR1cm4gJHRoaXMtPm1hY0FkZHJlc3M7Cgl9CgoKCS8qKgoJICogQHBhcmFtIHN0cmluZyAkbWFjQWRkcmVzcwoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0TWFjQWRkcmVzcyhzdHJpbmcgJG1hY0FkZHJlc3MpCgl7CgkJJHRoaXMtPm1hY0FkZHJlc3MgPSAkbWFjQWRkcmVzczsKCX0KCgoJLyoqCgkgKiBAcmV0dXJuIHN0cmluZwoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0TmFtZSgpOiBzdHJpbmcKCXsKCQlyZXR1cm4gJHRoaXMtPm5hbWU7Cgl9CgoKCS8qKgoJICogQHBhcmFtIHN0cmluZyAkbmFtZQoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0TmFtZShzdHJpbmcgJG5hbWUpCgl7CgkJJHRoaXMtPm5hbWUgPSAkbmFtZTsKCX0=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIHN0cmluZwoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0TmFtZSgpOiBzdHJpbmcKCXsKCQlyZXR1cm4gJHRoaXMtPm5hbWU7Cgl9CgoKCS8qKgoJICogQHBhcmFtIHN0cmluZyAkbmFtZQoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0TmFtZShzdHJpbmcgJG5hbWUpCgl7CgkJJHRoaXMtPm5hbWUgPSAkbmFtZTsKCX0KCgoJLyoqCgkgKiBAcmV0dXJuIHN0cmluZwoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0RGVzY3JpcHRpb24oKTogc3RyaW5nCgl7CgkJcmV0dXJuICR0aGlzLT5kZXNjcmlwdGlvbjsKCX0KCgoJLyoqCgkgKiBAcGFyYW0gc3RyaW5nICRkZXNjcmlwdGlvbgoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0RGVzY3JpcHRpb24oc3RyaW5nICRkZXNjcmlwdGlvbik6IHZvaWQKCXsKCQkkdGhpcy0+ZGVzY3JpcHRpb24gPSAkZGVzY3JpcHRpb247Cgl9CgoKCS8qKgoJICogQHJldHVybiBib29sCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBpc0FsYXJtKCk6IGJvb2wKCXsKCQlyZXR1cm4gJHRoaXMtPmFsYXJtOwoJfQoKCgkvKioKCSAqIEBwYXJhbSBib29sICRhbGFybQoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0QWxhcm0oYm9vbCAkYWxhcm0pCgl7CgkJJHRoaXMtPmFsYXJtID0gJGFsYXJtOwoJfQoKCgkvKioKCSAqIEByZXR1cm4gaW50CgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRSYW5nZUZyb20oKTogaW50Cgl7CgkJcmV0dXJuICR0aGlzLT5yYW5nZUZyb207Cgl9CgoKCS8qKgoJICogQHBhcmFtIGludCAkcmFuZ2VGcm9tCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBzZXRSYW5nZUZyb20oaW50ICRyYW5nZUZyb20pCgl7CgkJJHRoaXMtPnJhbmdlRnJvbSA9ICRyYW5nZUZyb207Cgl9CgoKCS8qKgoJICogQHJldHVybiBpbnQKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGdldFJhbmdlVG8oKTogaW50Cgl7CgkJcmV0dXJuICR0aGlzLT5yYW5nZVRvOwoJfQoKCgkvKioKCSAqIEBwYXJhbSBpbnQgJHJhbmdlVG8KCSAqLwoJcHVibGljIGZ1bmN0aW9uIHNldFJhbmdlVG8oaW50ICRyYW5nZVRvKQoJewoJCSR0aGlzLT5yYW5nZVRvID0gJHJhbmdlVG87Cgl9</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CSAqIEBPUk1cSm9pbkNvbHVtbihuYW1lPSJfaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZT0iaWQiKQo=</text>
+      </register>
+      <register name="7" type="4">
         <text>/**
 	 * @ORM\ManyToOne(targetEntity=&quot;CheckpointType&quot;, cascade={&quot;persist&quot;})
 	 * @var CheckpointType
 	 */
 	private $type;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CSAqIEBPUk1cSm9pbkNvbHVtbihuYW1lPSJfaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZT0iaWQiKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CSAqIEBPUk1cSm9pbkNvbHVtbihuYW1lPSJfaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZT0iaWQiKQo=</text>
-      </register>
-      <register name="4" type="4">
-        <text>/**
-	 * @ORM\Column(type=&quot;integer&quot;, nullable=true)
-	 * @var integer
-	 */
-	private $rangeFrom;
-
-	/**
-	 * @ORM\Column(type=&quot;integer&quot;, nullable=true)
-	 * @var integer
-	 */
-	private $rangeTo;</text>
-      </register>
-      <register name="5" type="4">
-        <text>/**
-	 * @ORM\Column(type=&quot;string&quot;, nullable=true)
-	 * @var string
-	 */
-	private $ranTo;</text>
-      </register>
-      <register name="6" type="4">
-        <text>/**
-	 * @ORM\Column(type=&quot;string&quot;, nullable=true)
-	 * @var string
-	 */
-	private $macAddress;</text>
-      </register>
-      <register name="7" type="4">
-        <text>/**
-	 * @ORM\ManyToOne(targetEntity=&quot;AddressObject&quot;, cascade={&quot;persist&quot;})
-	 * @var AddressObject
-	 */
-	private $addressObject;</text>
-      </register>
       <register name="8" type="2">
         <text encoding="base64">CSAqIEBPUk1cSm9pbkNvbHVtbihuYW1lPSJfaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZT0iaWQiKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">LyoqCgkgKiBAT1JNXENvbHVtbih0eXBlPSJ0ZXh0IiwgbmFtZT0iYHRleHRgIikKCSAqIEBBc3NlcnRcTm90QmxhbmsoKQoJICogQHZhciBzdHJpbmcKCSAqLwoJcHJpdmF0ZSAkdGV4dDsKCgoJLyoqCgkgKiBAcmV0dXJuIHN0cmluZ3xudWxsCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRUZXh0KCk6ID9zdHJpbmcKCXsKCQlyZXR1cm4gJHRoaXMtPnRleHQ7Cgl9CgoKCS8qKgoJICogQHBhcmFtIHN0cmluZyAkdGV4dAoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0VGV4dChzdHJpbmcgJHRleHQpOiB2b2lkCgl7CgkJJHRoaXMtPnRleHQgPSAkdGV4dDsKCX0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">CSAqIEBPUk1cSm9pbkNvbHVtbihuYW1lPSJfaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZT0iaWQiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
