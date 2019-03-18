@@ -1729,6 +1729,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" timestamp="1552911433738">
+        <mark key="[" line="185" column="15" />
+      </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/ContractsGrid/ContractsGrid.php" timestamp="1550841021195">
         <mark key="[" line="190" column="48" />
       </file>
@@ -3337,8 +3340,9 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" timestamp="1552910610847">
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" timestamp="1552911336273">
         <mark key="'" line="486" column="35" />
+        <mark key="[" line="533" column="39" />
       </file>
       <file name="/home/www/html/nnb/dms/app/presenters/UsersPresenter.php" timestamp="1478504886166">
         <mark key="[" line="5" column="0" />
@@ -4768,6 +4772,13 @@
         <mark key="]" line="26" column="32" />
         <mark key="." line="26" column="32" />
       </file>
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1552911610020">
+        <mark key="'" line="148" column="13" />
+        <mark key="[" line="365" column="4" />
+        <mark key="]" line="535" column="51" />
+        <mark key="^" line="535" column="51" />
+        <mark key="." line="535" column="51" />
+      </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/FilesUploadForm/FilesUploadForm.php" timestamp="1548940905089">
         <mark key="[" line="28" column="36" />
         <mark key="]" line="118" column="22" />
@@ -5543,12 +5554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="25" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/templates/DocumentControl.latte" />
-      <jump line="563" column="33" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
-      <jump line="565" column="40" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
-      <jump line="566" column="40" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
-      <jump line="561" column="25" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
-      <jump line="394" column="37" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
       <jump line="322" column="48" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
       <jump line="438" column="49" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
       <jump line="439" column="28" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
@@ -5643,10 +5648,16 @@
       <jump line="474" column="61" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
       <jump line="485" column="48" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
       <jump line="486" column="35" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentControl/DocumentControl.php" />
+      <jump line="483" column="37" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="396" column="25" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="534" column="51" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="562" column="59" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="143" column="13" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="148" column="13" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LyoKCQkkdHJhcExvZ1ByZXNlbnRlckNhbGxiYWNrID0gJGJ1aWxkZXItPmFkZERlZmluaXRpb24oJ3RyYXBMb2dQcmVzZW50ZXJDYWxsYmFjaycpCgkJCS0+c2V0RmFjdG9yeShUcmFwTG9nUHJlc2VudGVyQ2FsbGJhY2s6OmNsYXNzKQoJCQktPnNldEF1dG93aXJlZChmYWxzZSk7CgoJCSR0cmFwTG9nUm91dGVyID0gJGJ1aWxkZXItPmFkZERlZmluaXRpb24oJHRoaXMtPnByZWZpeCgndHJhcExvZ1JvdXRlcicpKQoJCQktPnNldEZhY3RvcnkoVHJhcExvZ1JvdXRlckZhY3Rvcnk6OmNsYXNzIC4gJzo6Y3JlYXRlJykKCQkJLT5zZXRBcmd1bWVudHMoWwoJCQkJJHRoaXMtPmNvbmZpZ1sndHJhcExvZ1JvdXRlTWFzayddLAoJCQkJJHRyYXBMb2dQcmVzZW50ZXJDYWxsYmFjawoJCQldKS0+c2V0QXV0b3dpcmVkKGZhbHNlKTsKCgkJJGJ1aWxkZXItPmdldERlZmluaXRpb24oJ3JvdXRlcicpCgkJCS0+YWRkU2V0dXAoJ3ByZXBlbmQnLCBbJHRyYXBMb2dSb3V0ZXJdKTsKCQkqLw==</text>
+        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gYm9vbCAkdmlld0FjdGlvbnMKCSAqCgkgKiBAcmV0dXJuIERvY3VtZW50c0dyaWQKCSAqLwoJcHVibGljIGZ1bmN0aW9uIHNldFZpZXdBY3Rpb25zKGJvb2wgJHZpZXdBY3Rpb25zKTogRG9jdW1lbnRzR3JpZAoJewoJCSR0aGlzLT52aWV3QWN0aW9ucyA9ICR2aWV3QWN0aW9uczsKCgkJcmV0dXJuICR0aGlzOwoJfQ==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">VmFsaWRhdG9yczo6YXNzZXJ0RmllbGQoJHRoaXMtPmNvbmZpZywgJ3RyYXBMb2dSb3V0ZU1hc2snLCAnc3RyaW5nJyk7</text>
@@ -5658,35 +5669,31 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gYm9vbCAkdmlld0FjdGlvbnMKCSAqCgkgKiBAcmV0dXJuIERvY3VtZW50c0dyaWQKCSAqLwoJcHVibGljIGZ1bmN0aW9uIHNldFZpZXdBY3Rpb25zKGJvb2wgJHZpZXdBY3Rpb25zKTogRG9jdW1lbnRzR3JpZAoJewoJCSR0aGlzLT52aWV3QWN0aW9ucyA9ICR2aWV3QWN0aW9uczsKCgkJcmV0dXJuICR0aGlzOwoJfQ==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">LyoKCQkkdHJhcExvZ1ByZXNlbnRlckNhbGxiYWNrID0gJGJ1aWxkZXItPmFkZERlZmluaXRpb24oJ3RyYXBMb2dQcmVzZW50ZXJDYWxsYmFjaycpCgkJCS0+c2V0RmFjdG9yeShUcmFwTG9nUHJlc2VudGVyQ2FsbGJhY2s6OmNsYXNzKQoJCQktPnNldEF1dG93aXJlZChmYWxzZSk7CgoJCSR0cmFwTG9nUm91dGVyID0gJGJ1aWxkZXItPmFkZERlZmluaXRpb24oJHRoaXMtPnByZWZpeCgndHJhcExvZ1JvdXRlcicpKQoJCQktPnNldEZhY3RvcnkoVHJhcExvZ1JvdXRlckZhY3Rvcnk6OmNsYXNzIC4gJzo6Y3JlYXRlJykKCQkJLT5zZXRBcmd1bWVudHMoWwoJCQkJJHRoaXMtPmNvbmZpZ1sndHJhcExvZ1JvdXRlTWFzayddLAoJCQkJJHRyYXBMb2dQcmVzZW50ZXJDYWxsYmFjawoJCQldKS0+c2V0QXV0b3dpcmVkKGZhbHNlKTsKCgkJJGJ1aWxkZXItPmdldERlZmluaXRpb24oJ3JvdXRlcicpCgkJCS0+YWRkU2V0dXAoJ3ByZXBlbmQnLCBbJHRyYXBMb2dSb3V0ZXJdKTsKCQkqLw==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CQkndHJhcExvZ1JvdXRlTWFzaycgPT4gJ3RyYXBsb2c/aWQ9PGxvZ0lkPiZ0ZXN0PTx0ZXN0PiZzZW5zb3I9PHNlbnNvcj4mdm9sdGFnZT08dm9sdGFnZT4nLAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">dXNlIFN0b3JhZ2VcRXZlbnRzXFJlY2VpcHRGaWxlSW1wb3J0U3Vic2NyaWJlcjsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">dXNlIFN0b3JhZ2VcRXZlbnRzXEl0ZW1GaWxlSW1wb3J0U3Vic2NyaWJlcjsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">dXNlIFNlcnZpY2VcQ2hlY2twb2ludDsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">dXNlIEFkZHJlc3NCb29rXEFkZHJlc3NPYmplY3Q7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIEFkZHJlc3NPYmplY3QKCSAqLwoJcHVibGljIGZ1bmN0aW9uIGdldEFkZHJlc3NPYmplY3QoKTogQWRkcmVzc09iamVjdAoJewoJCXJldHVybiAkdGhpcy0+YWRkcmVzc09iamVjdDsKCX0K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gQWRkcmVzc09iamVjdCAkYWRkcmVzc09iamVjdAoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0QWRkcmVzc09iamVjdChBZGRyZXNzT2JqZWN0ICRhZGRyZXNzT2JqZWN0KQoJewoJCSR0aGlzLT5hZGRyZXNzT2JqZWN0ID0gJGFkZHJlc3NPYmplY3Q7Cgl9CgoKCS8qKgoJICogQHJldHVybiBDaGVja3BvaW50VHlwZQoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0VHlwZSgpOiBDaGVja3BvaW50VHlwZQoJewoJCXJldHVybiAkdGhpcy0+dHlwZTsKCX0KCgoJLyoqCgkgKiBAcGFyYW0gQ2hlY2twb2ludFR5cGUgJHR5cGUKCSAqLwoJcHVibGljIGZ1bmN0aW9uIHNldFR5cGUoQ2hlY2twb2ludFR5cGUgJHR5cGUpCgl7CgkJJHRoaXMtPnR5cGUgPSAkdHlwZTsKCX0KCgoJLyoqCgkgKiBAcmV0dXJuIHN0cmluZwoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0TmFtZSgpOiBzdHJpbmcKCXsKCQlyZXR1cm4gJHRoaXMtPm5hbWU7Cgl9CgoKCS8qKgoJICogQHBhcmFtIHN0cmluZyAkbmFtZQoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0TmFtZShzdHJpbmcgJG5hbWUpCgl7CgkJJHRoaXMtPm5hbWUgPSAkbmFtZTsKCX0KCgoJLyoqCgkgKiBAcmV0dXJuIHN0cmluZwoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0TWFjQWRkcmVzcygpOiBzdHJpbmcKCXsKCQlyZXR1cm4gJHRoaXMtPm1hY0FkZHJlc3M7Cgl9CgoKCS8qKgoJICogQHBhcmFtIHN0cmluZyAkbWFjQWRkcmVzcwoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0TWFjQWRkcmVzcyhzdHJpbmcgJG1hY0FkZHJlc3MpCgl7CgkJJHRoaXMtPm1hY0FkZHJlc3MgPSAkbWFjQWRkcmVzczsKCX0=</text>
-      </register>
       <register name="9" type="4">
-        <text>/**
-	 * @ORM\Column(type=&quot;string&quot;)
-	 * @var string
-	 */
-	private $name;</text>
+        <text encoding="base64">LyoqCgkgKiBAcGFyYW0gQWRkcmVzc09iamVjdCAkYWRkcmVzc09iamVjdAoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0QWRkcmVzc09iamVjdChBZGRyZXNzT2JqZWN0ICRhZGRyZXNzT2JqZWN0KQoJewoJCSR0aGlzLT5hZGRyZXNzT2JqZWN0ID0gJGFkZHJlc3NPYmplY3Q7Cgl9CgoKCS8qKgoJICogQHJldHVybiBDaGVja3BvaW50VHlwZQoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0VHlwZSgpOiBDaGVja3BvaW50VHlwZQoJewoJCXJldHVybiAkdGhpcy0+dHlwZTsKCX0KCgoJLyoqCgkgKiBAcGFyYW0gQ2hlY2twb2ludFR5cGUgJHR5cGUKCSAqLwoJcHVibGljIGZ1bmN0aW9uIHNldFR5cGUoQ2hlY2twb2ludFR5cGUgJHR5cGUpCgl7CgkJJHRoaXMtPnR5cGUgPSAkdHlwZTsKCX0KCgoJLyoqCgkgKiBAcmV0dXJuIHN0cmluZwoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0TmFtZSgpOiBzdHJpbmcKCXsKCQlyZXR1cm4gJHRoaXMtPm5hbWU7Cgl9CgoKCS8qKgoJICogQHBhcmFtIHN0cmluZyAkbmFtZQoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0TmFtZShzdHJpbmcgJG5hbWUpCgl7CgkJJHRoaXMtPm5hbWUgPSAkbmFtZTsKCX0KCgoJLyoqCgkgKiBAcmV0dXJuIHN0cmluZwoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0TWFjQWRkcmVzcygpOiBzdHJpbmcKCXsKCQlyZXR1cm4gJHRoaXMtPm1hY0FkZHJlc3M7Cgl9CgoKCS8qKgoJICogQHBhcmFtIHN0cmluZyAkbWFjQWRkcmVzcwoJICovCglwdWJsaWMgZnVuY3Rpb24gc2V0TWFjQWRkcmVzcyhzdHJpbmcgJG1hY0FkZHJlc3MpCgl7CgkJJHRoaXMtPm1hY0FkZHJlc3MgPSAkbWFjQWRkcmVzczsKCX0=</text>
       </register>
       <register name=":" type="4">
         <text>%s/NULL/null/g</text>
@@ -5703,7 +5710,6 @@
     </search>
     <history>
       <history-search>
-        <entry>updateAt</entry>
         <entry>FileRoot</entry>
         <entry>delete</entry>
         <entry>DFelete</entry>
@@ -5722,6 +5728,7 @@
         <entry>UserCallable</entry>
         <entry>isExpired</entry>
         <entry>formSucc</entry>
+        <entry>viewActions</entry>
         <entry>preview</entry>
       </history-search>
       <history-cmd>
