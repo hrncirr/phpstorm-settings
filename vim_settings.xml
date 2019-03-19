@@ -176,6 +176,9 @@
         <mark key="]" line="177" column="4" />
         <mark key="." line="177" column="4" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Service/Presenters/CheckpointTypePresenter.php" timestamp="1552999699810">
+        <mark key="[" line="23" column="16" />
+      </file>
       <file name="/home/www/html/dv/cms/Modules/Storage/locale/storage-forms.cs_CZ.neon" timestamp="1499068257502">
         <mark key="[" line="24" column="9" />
         <mark key="]" line="43" column="4" />
@@ -536,6 +539,9 @@
       </file>
       <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/AddressObjectForm/AddressObjectForm.latte" timestamp="1552400537032">
         <mark key="[" line="10" column="15" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/Service/Presenters/CheckpointAlarmPresenter.php" timestamp="1552999824250">
+        <mark key="[" line="29" column="57" />
       </file>
       <file name="/home/www/html/nnb/obj/app/config/components.neon" timestamp="1479885272843">
         <mark key="[" line="2" column="0" />
@@ -1834,6 +1840,11 @@
         <mark key="]" line="27" column="4" />
         <mark key="." line="27" column="4" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Service/Presenters/CheckpointPresenter.php" timestamp="1552999672457">
+        <mark key="[" line="29" column="36" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="/home/www/html/nnb/access-rights/app/components/BaseControl.php" timestamp="1475659351099">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -1963,8 +1974,8 @@
       <file name="/home/www/html/dv/adera/Modules/AddressBook/TSubject.php" timestamp="1552396681915">
         <mark key="[" line="20" column="34" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Service/Install/ServiceInstall.php" timestamp="1552918241548">
-        <mark key="[" line="66" column="23" />
+      <file name="/home/www/html/dv/adera/Modules/Service/Install/ServiceInstall.php" timestamp="1552999909957">
+        <mark key="[" line="44" column="45" />
         <mark key="]" line="47" column="8" />
         <mark key="." line="47" column="8" />
       </file>
@@ -2061,6 +2072,9 @@
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/Service/Presenters/CheckpointStatePresenter.php" timestamp="1552999871637">
+        <mark key="[" line="29" column="58" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/Router/IconRouterFactory.php" timestamp="1502111174254">
         <mark key="[" line="30" column="41" />
@@ -3639,6 +3653,9 @@
         <mark key="]" line="10" column="85" />
         <mark key="." line="10" column="85" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Service/Presenters/CheckpointTypeIntervalPresenter.php" timestamp="1552999772282">
+        <mark key="[" line="29" column="67" />
+      </file>
       <file name="/home/www/html/nnb/access-rights/app/components/SearchForm/SearchForm.php" timestamp="1475567872619">
         <mark key="[" line="69" column="45" />
         <mark key="]" line="29" column="4" />
@@ -4805,12 +4822,6 @@
         <mark key="]" line="26" column="32" />
         <mark key="." line="26" column="32" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" timestamp="1552915817390">
-        <mark key="'" line="148" column="13" />
-        <mark key="[" line="366" column="8" />
-        <mark key="]" line="367" column="0" />
-        <mark key="." line="367" column="0" />
-      </file>
       <file name="/home/www/html/nnb/dms/src/Documents/Components/FilesUploadForm/FilesUploadForm.php" timestamp="1548940905089">
         <mark key="[" line="28" column="36" />
         <mark key="]" line="118" column="22" />
@@ -5694,10 +5705,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Service\DI\ServiceExtension</text>
+        <text>Users</text>
       </register>
       <register name="-" type="4">
-        <text>Service\DI\ServiceExtension</text>
+        <text>Users</text>
       </register>
       <register name="/" type="4">
         <text>administrator</text>
@@ -5705,7 +5716,10 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">dXNlIEFwcFxQcmVzZW50ZXJzXEJhc2VQcmVzZW50ZXI7Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>- Storage\Components\CatalogItemForm\ICatalogItemFormFactory
 	- Storage\Components\CatalogItemsGrid\ICatalogItemsGridFactory
 
@@ -5718,34 +5732,31 @@
 	- Storage\Components\CatalogItemGroupForm\ICatalogItemGroupFormFactory
 	- Storage\Components\CatalogItemGroupsGrid\ICatalogItemGroupsGridFactory</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">dXNlIFN0b3JhZ2VcSW5zdGFsbFxTdG9yYWdlSW5zdGFsbDsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>storageRepository:
 		class: Storage\StorageRepository
 		tags:
 			 doctrine.repositoryEntity: Storage\Storage</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQlkdW1wKCR0aGlzLT5yb2xlcyk7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIGFycmF5CgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRSb2xlcygpCgl7CgkJcmV0dXJuICR0aGlzLT5yb2xlczsKCX0K</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIHN0cmluZwoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0Um9sZSgpOiBzdHJpbmcKCXsKCQlyZXR1cm4gJHRoaXMtPnJvbGU7Cgl9</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CSAqIEBBc3NlcnRcTm90QmxhbmsobWVzc2FnZT0iUm9sZSBuZXNtw60gYsO9dCBwcsOhemRuw6EuIikK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>/**
 	 * @var \Services\Hydrator
 	 */</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXERJXENvbnRhaW5lcjsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/administrator/user/g</text>
