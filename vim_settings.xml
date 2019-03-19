@@ -3675,9 +3675,9 @@
         <mark key="]" line="66" column="4" />
         <mark key="." line="66" column="4" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Components/NewsForm/NewsForm.php" timestamp="1552993843702">
+      <file name="/home/www/html/nnb/aktuality/app/Components/NewsForm/NewsForm.php" timestamp="1552994727668">
         <mark key="'" line="258" column="43" />
-        <mark key="[" line="220" column="38" />
+        <mark key="[" line="220" column="25" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
@@ -4777,7 +4777,11 @@
         <mark key="]" line="24" column="8" />
         <mark key="." line="24" column="8" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Model/User.php" timestamp="1552993827438" />
+      <file name="/home/www/html/nnb/aktuality/app/Model/User.php" timestamp="1552995088753">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
       <file name="/home/www/html/bul/maternal-register/app/SummaryModule/presenters/BasePresenter.php" timestamp="1481278814148">
         <mark key="[" line="25" column="19" />
         <mark key="]" line="4" column="0" />
@@ -4845,10 +4849,10 @@
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/CreditNotesGrid/CreditNotesGrid.php" timestamp="1550841096692">
         <mark key="[" line="205" column="44" />
       </file>
-      <file name="/home/www/html/nnb/aktuality/app/Services/Hydrator.php" timestamp="1552993255617">
-        <mark key="[" line="36" column="55" />
-        <mark key="]" line="36" column="55" />
-        <mark key="." line="36" column="55" />
+      <file name="/home/www/html/nnb/aktuality/app/Services/Hydrator.php" timestamp="1552994696907">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="4" />
+        <mark key="." line="20" column="4" />
       </file>
       <file name="/home/www/lib/vendor/nnb/staff/src/Staff.php" timestamp="1475658052118">
         <mark key="[" line="87" column="8" />
@@ -5708,7 +5712,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXERJXENvbnRhaW5lcjsK</text>
+        <text encoding="base64">CQlkdW1wKCR0aGlzLT5yb2xlcyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>'@hrncirr.media.file.storage',</text>
@@ -5720,9 +5724,26 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXERJXENvbnRhaW5lcjsK</text>
+        <text encoding="base64">CQlkdW1wKCR0aGlzLT5yb2xlcyk7Cg==</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIGFycmF5CgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRSb2xlcygpCgl7CgkJcmV0dXJuICR0aGlzLT5yb2xlczsKCX0K</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIHN0cmluZwoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0Um9sZSgpOiBzdHJpbmcKCXsKCQlyZXR1cm4gJHRoaXMtPnJvbGU7Cgl9</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CSAqIEBBc3NlcnRcTm90QmxhbmsobWVzc2FnZT0iUm9sZSBuZXNtw60gYsO9dCBwcsOhemRuw6EuIikK</text>
+      </register>
+      <register name="5" type="4">
+        <text>/**
+	 * @var \Services\Hydrator
+	 */</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">dXNlIE5ldHRlXERJXENvbnRhaW5lcjsK</text>
+      </register>
+      <register name="7" type="4">
         <text>/**
 	 * @var string
 	 */
@@ -5733,23 +5754,8 @@
 	 */
 	private $emailTo;</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text encoding="base64">JGVtYWlsID0gJHNlcnZpY2VMb2NhdG9yLT5nZXRQYXJhbWV0ZXJzKClbJ2VtYWlsJ107CgkJJHRoaXMtPmVtYWlsRnJvbSA9ICRlbWFpbFsnZnJvbSddOwoJCSR0aGlzLT5lbWFpbFRvID0gJGVtYWlsWyd0byddOw==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXFBocEdlbmVyYXRvclxDbGFzc1R5cGU7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXNlIFRyYWN5XEJyaWRnZXNcTmV0dGVcTWFpbFNlbmRlcjsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">dXNlIEtkeWJ5XFRyYW5zbGF0aW9uXElUcmFuc2xhdG9yOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">dXNlIEplbnNzZWdlcnNcRGF0ZVxEYXRlOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CQlleGl0Owo=</text>
