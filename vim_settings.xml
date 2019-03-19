@@ -3579,6 +3579,9 @@
         <mark key="]" line="7" column="13" />
         <mark key="." line="7" column="13" />
       </file>
+      <file name="/home/www/html/nnb/aktuality/app/Services/Acl.php" timestamp="1552995934466">
+        <mark key="'" line="18" column="28" />
+      </file>
       <file name="/home/www/html/bul/mamo/app/components/SignInForm/SignInForm.latte" timestamp="1481268293755">
         <mark key="[" line="18" column="4" />
         <mark key="]" line="18" column="4" />
@@ -5609,7 +5612,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="322" column="48" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
       <jump line="438" column="49" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
       <jump line="439" column="28" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
       <jump line="440" column="71" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
@@ -5709,6 +5711,7 @@
       <jump line="562" column="59" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="143" column="13" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
       <jump line="148" column="13" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentsGrid/DocumentsGrid.php" />
+      <jump line="18" column="28" filename="/home/www/html/nnb/aktuality/app/Services/Acl.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -5718,7 +5721,7 @@
         <text>'@hrncirr.media.file.storage',</text>
       </register>
       <register name="/" type="4">
-        <text>preview</text>
+        <text>administrator</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
@@ -5761,21 +5764,20 @@
         <text encoding="base64">CQlleGl0Owo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/NULL/null/g</text>
+        <text>%s/administrator/user/g</text>
       </register>
     </registers>
     <search>
-      <last-search>preview</last-search>
+      <last-search>administrator</last-search>
       <last-offset />
-      <last-pattern>preview</last-pattern>
-      <last-replace>null</last-replace>
-      <last-substitute>NULL</last-substitute>
+      <last-pattern>administrator</last-pattern>
+      <last-replace>user</last-replace>
+      <last-substitute>administrator</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>FileRoot</entry>
         <entry>delete</entry>
         <entry>DFelete</entry>
         <entry>Delete</entry>
@@ -5795,9 +5797,9 @@
         <entry>formSucc</entry>
         <entry>viewActions</entry>
         <entry>preview</entry>
+        <entry>administrator</entry>
       </history-search>
       <history-cmd>
-        <entry>119</entry>
         <entry>133</entry>
         <entry>462</entry>
         <entry>148</entry>
@@ -5817,6 +5819,7 @@
         <entry>175</entry>
         <entry>463</entry>
         <entry>%s/NULL/null/g</entry>
+        <entry>%s/administrator/user/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
