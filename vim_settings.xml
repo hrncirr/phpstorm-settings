@@ -2336,6 +2336,12 @@
         <mark key="]" line="70" column="18" />
         <mark key="." line="70" column="18" />
       </file>
+      <file name="/home/www/html/dv/adera/Modules/Service/Checkpoint.php" timestamp="1552998810396">
+        <mark key="[" line="41" column="36" />
+        <mark key="]" line="36" column="36" />
+        <mark key="." line="36" column="36" />
+        <mark key="^" line="36" column="36" />
+      </file>
       <file name="/home/www/html/nnb/passportization/src/Passportization/TechnicalRequisitions/model/StateModel.php" timestamp="1486460517522">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="4" />
@@ -3429,10 +3435,10 @@
         <mark key="]" line="19" column="64" />
         <mark key="." line="19" column="64" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Service/DI/ServiceExtension.php" timestamp="1552917908023">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Service/DI/ServiceExtension.php" timestamp="1552998565504">
+        <mark key="[" line="53" column="84" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1552996705574">
         <mark key="[" line="0" column="0" />
@@ -3732,6 +3738,11 @@
         <mark key="[" line="121" column="0" />
         <mark key="]" line="121" column="4" />
         <mark key="." line="121" column="4" />
+      </file>
+      <file name="/home/www/html/dv/adera/Modules/Service/DI/config.neon" timestamp="1552998354673">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="4" />
+        <mark key="." line="1" column="4" />
       </file>
       <file name="/home/www/html/nnb/dms/app/config/extensions/forms.neon" timestamp="1548933577385">
         <mark key="[" line="1" column="18" />
@@ -4462,10 +4473,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/app/config/modules.neon" timestamp="1501055256071">
-        <mark key="[" line="18" column="4" />
-        <mark key="]" line="18" column="4" />
-        <mark key="." line="18" column="4" />
+      <file name="/home/www/html/dv/adera/app/config/modules.neon" timestamp="1552998506730">
+        <mark key="[" line="33" column="10" />
+        <mark key="]" line="33" column="10" />
+        <mark key="." line="33" column="10" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Pages/AdminModule/Components/PagesGrid/PagesGrid.latte" timestamp="1492073772427">
         <mark key="[" line="0" column="0" />
@@ -5682,11 +5693,11 @@
       <jump line="18" column="28" filename="/home/www/html/nnb/aktuality/app/Services/Acl.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzLT5yb2xlcyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Service\DI\ServiceExtension</text>
       </register>
       <register name="-" type="4">
-        <text>'@hrncirr.media.file.storage',</text>
+        <text>Service\DI\ServiceExtension</text>
       </register>
       <register name="/" type="4">
         <text>administrator</text>
@@ -5694,42 +5705,47 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlkdW1wKCR0aGlzLT5yb2xlcyk7Cg==</text>
+      <register name="1" type="4">
+        <text>- Storage\Components\CatalogItemForm\ICatalogItemFormFactory
+	- Storage\Components\CatalogItemsGrid\ICatalogItemsGridFactory
+
+	- Storage\Components\ReceiptsGrid\IReceiptsGridFactory
+	- Storage\Components\ReceiptForm\IReceiptFormFactory
+
+	- Storage\Components\ExporterForm\IExporterFormFactory
+	- Storage\Components\ExportersGrid\IExportersGridFactory
+
+	- Storage\Components\CatalogItemGroupForm\ICatalogItemGroupFormFactory
+	- Storage\Components\CatalogItemGroupsGrid\ICatalogItemGroupsGridFactory</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIGFycmF5CgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRSb2xlcygpCgl7CgkJcmV0dXJuICR0aGlzLT5yb2xlczsKCX0K</text>
+      <register name="2" type="2">
+        <text encoding="base64">dXNlIFN0b3JhZ2VcSW5zdGFsbFxTdG9yYWdlSW5zdGFsbDsK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIHN0cmluZwoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0Um9sZSgpOiBzdHJpbmcKCXsKCQlyZXR1cm4gJHRoaXMtPnJvbGU7Cgl9</text>
+        <text>storageRepository:
+		class: Storage\StorageRepository
+		tags:
+			 doctrine.repositoryEntity: Storage\Storage</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAqIEBBc3NlcnRcTm90QmxhbmsobWVzc2FnZT0iUm9sZSBuZXNtw60gYsO9dCBwcsOhemRuw6EuIikK</text>
+        <text encoding="base64">CQlkdW1wKCR0aGlzLT5yb2xlcyk7Cg==</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIGFycmF5CgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBnZXRSb2xlcygpCgl7CgkJcmV0dXJuICR0aGlzLT5yb2xlczsKCX0K</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">LyoqCgkgKiBAcmV0dXJuIHN0cmluZwoJICovCglwdWJsaWMgZnVuY3Rpb24gZ2V0Um9sZSgpOiBzdHJpbmcKCXsKCQlyZXR1cm4gJHRoaXMtPnJvbGU7Cgl9</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CSAqIEBBc3NlcnRcTm90QmxhbmsobWVzc2FnZT0iUm9sZSBuZXNtw60gYsO9dCBwcsOhemRuw6EuIikK</text>
+      </register>
+      <register name="8" type="4">
         <text>/**
 	 * @var \Services\Hydrator
 	 */</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXNlIE5ldHRlXERJXENvbnRhaW5lcjsK</text>
-      </register>
-      <register name="7" type="4">
-        <text>/**
-	 * @var string
-	 */
-	private $emailFrom;
-
-	/**
-	 * @var string
-	 */
-	private $emailTo;</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">JGVtYWlsID0gJHNlcnZpY2VMb2NhdG9yLT5nZXRQYXJhbWV0ZXJzKClbJ2VtYWlsJ107CgkJJHRoaXMtPmVtYWlsRnJvbSA9ICRlbWFpbFsnZnJvbSddOwoJCSR0aGlzLT5lbWFpbFRvID0gJGVtYWlsWyd0byddOw==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+        <text encoding="base64">dXNlIE5ldHRlXERJXENvbnRhaW5lcjsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/administrator/user/g</text>
