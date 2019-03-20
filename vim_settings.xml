@@ -176,8 +176,10 @@
         <mark key="]" line="177" column="4" />
         <mark key="." line="177" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Service/Presenters/CheckpointTypePresenter.php" timestamp="1552999699810">
-        <mark key="[" line="23" column="16" />
+      <file name="/home/www/html/dv/adera/Modules/Service/Presenters/CheckpointTypePresenter.php" timestamp="1553074664855">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/Storage/locale/storage-forms.cs_CZ.neon" timestamp="1499068257502">
         <mark key="[" line="24" column="9" />
@@ -1882,8 +1884,8 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Service/Components/CheckpointTypeForm/CheckpointTypeForm.php" timestamp="1553074311204">
-        <mark key="[" line="51" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Service/Components/CheckpointTypeForm/CheckpointTypeForm.php" timestamp="1553075259535">
+        <mark key="[" line="96" column="73" />
         <mark key="]" line="51" column="4" />
         <mark key="." line="51" column="4" />
       </file>
@@ -2613,10 +2615,10 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Service/Components/CheckpointTypesGrid/CheckpointTypesGrid.php" timestamp="1553071665318">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Service/Components/CheckpointTypesGrid/CheckpointTypesGrid.php" timestamp="1553075275562">
+        <mark key="[" line="50" column="36" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/cmp/src/Filters/AudioFilter.php" timestamp="1475759573445">
         <mark key="[" line="17" column="6" />
@@ -3788,10 +3790,10 @@
         <mark key="]" line="121" column="4" />
         <mark key="." line="121" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Service/DI/config.neon" timestamp="1553003433132">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Service/DI/config.neon" timestamp="1553074758772">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="5" column="6" />
+        <mark key="." line="5" column="6" />
       </file>
       <file name="/home/www/html/nnb/dms/app/config/extensions/forms.neon" timestamp="1548933577385">
         <mark key="[" line="1" column="18" />
@@ -4535,8 +4537,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Service/Components/CheckpointTypeForm/ICheckpointTypeFormFactory.php" timestamp="1553071776057">
-        <mark key="[" line="13" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Service/Components/CheckpointTypeForm/ICheckpointTypeFormFactory.php" timestamp="1553074871405">
+        <mark key="[" line="24" column="53" />
         <mark key="]" line="13" column="0" />
         <mark key="^" line="13" column="12" />
         <mark key="." line="13" column="0" />
@@ -5024,10 +5026,10 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Service/locale/service.cs_CZ.neon" timestamp="1553071390991">
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Service/locale/service.cs_CZ.neon" timestamp="1553075220841">
+        <mark key="[" line="35" column="16" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="/home/www/html/dv/cms/Modules/AddressBook/FormOfPayment.php" timestamp="1498739384504">
         <mark key="[" line="44" column="24" />
@@ -5758,11 +5760,11 @@
       <jump line="18" column="28" filename="/home/www/html/nnb/aktuality/app/Services/Acl.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHJlbmRlck1vZGFsQm9keSgpOiB2b2lkCgl7CgkJJHRoaXMtPnRlbXBsYXRlLT5yZW5kZXIoX19ESVJfXyAuICcvQ2hlY2twb2ludEZvcm0ubGF0dGUnKTsKCX0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlwbGFjZWhvbGRlcjogIlphZGVqdGUgbWFjIGFkcmVzdSIK</text>
       </register>
       <register name="-" type="4">
-        <text>implements IMediaImporterControl</text>
+        <text>Service\Components\CheckpointForm\ICheckpointFormFactory</text>
       </register>
       <register name="/" type="4">
         <text>administrator</text>
@@ -5770,32 +5772,32 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHJlbmRlck1vZGFsQm9keSgpOiB2b2lkCgl7CgkJJHRoaXMtPnRlbXBsYXRlLT5yZW5kZXIoX19ESVJfXyAuICcvQ2hlY2twb2ludEZvcm0ubGF0dGUnKTsKCX0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQlwbGFjZWhvbGRlcjogIlphZGVqdGUgbWFjIGFkcmVzdSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQl0aXRsZTogIk1BQyBhZHJlc2EiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkkZm9ybS0+YWRkVGV4dEFyZWEoJ2Rlc2NyaXB0aW9uJywgJHRyYW5zbGF0b3JEb21haW4gLiAnLmRlc2NyaXB0aW9uLnRpdGxlJyk7Cg==</text>
+        <text encoding="base64">CW1hY0FkZHJlc3M6Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">JGZvcm0tPmFkZFNlbGVjdCgndHlwZScsICR0cmFuc2xhdG9yLT50cmFuc2xhdGUoJHRyYW5zbGF0b3JEb21haW4gLiAnLnR5cGUudGl0bGUnKSkKCQkJLT5zZXRQcm9tcHQoJHRyYW5zbGF0b3ItPnRyYW5zbGF0ZSgkdHJhbnNsYXRvckRvbWFpbiAuICcudHlwZS5wcm9tcHQnKSkKCQkJLT5zZXRPcHRpb24oSUNvbXBvbmVudE1hcHBlcjo6SVRFTVNfVElUTEUsICduYW1lJyk7CgoJCSRmb3JtLT5hZGRUZXh0KCdtYWNBZGRyZXNzJywgJHRyYW5zbGF0b3JEb21haW4gLiAnLm1hY0FkZHJlc3MudGl0bGUnKQoJCQktPnNldEF0dHJpYnV0ZSgncGxhY2Vob2xkZXInLCAkdHJhbnNsYXRvckRvbWFpbiAuICcubWFjQWRkcmVzcy5wbGFjZWhvbGRlcicpOw==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJLT5zZXRBdHRyaWJ1dGUoJ3BsYWNlaG9sZGVyJywgJHRyYW5zbGF0b3JEb21haW4gLiAnLnRpdGxlLnBsYWNlaG9sZGVyJyk7Cg==</text>
+        <text encoding="base64">CQlwbGE6ICJadm9sdGUgdHlwIGtvbnRyb2xuw61obyBib2R1Igo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">JGZvcm0tPmFkZFNlbGVjdCgnYWRkcmVzc09iamVjdCcsICR0cmFuc2xhdG9yLT50cmFuc2xhdGUoJHRyYW5zbGF0b3JEb21haW4gLiAnLmFkZHJlc3NPYmplY3QudGl0bGUnKSkKCQkJLT5zZXRQcm9tcHQoJHRyYW5zbGF0b3ItPnRyYW5zbGF0ZSgkdHJhbnNsYXRvckRvbWFpbiAuICcuYWRkcmVzc09iamVjdC5wcm9tcHQnKSkKCQkJLT5zZXRPcHRpb24oSUNvbXBvbmVudE1hcHBlcjo6SVRFTVNfVElUTEUsICduYW1lJykKCQkJLT5zZXRUcmFuc2xhdG9yKCk7</text>
+      <register name="6" type="2">
+        <text encoding="base64">dXNlIFNlcnZpY2VcQ29tcG9uZW50c1xDaGVja3BvaW50c0dyaWRcSUNoZWNrcG9pbnRzR3JpZEZhY3Rvcnk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIFNlcnZpY2VcQ2hlY2twb2ludDsK</text>
+        <text encoding="base64">dXNlIFNlcnZpY2VcQ29tcG9uZW50c1xDaGVja3BvaW50c0dyaWRcQ2hlY2twb2ludHNHcmlkOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJDTVNcRmlsZVxDb21wb25lbnRzXEZpbGVNYW5hZ2VyQ29udHJvbEZhY3Rvcnk7Cg==</text>
+        <text encoding="base64">dXNlIEludm9pY2luZ1xDb21wb25lbnRzXE9mZmVyc0dyaWRcT2ZmZXJzR3JpZDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEhybmNpcnJcRWxGaW5kZXJcVE1lZGlhSW1wb3J0ZXJDb250cm9sOwo=</text>
+        <text encoding="base64">dXNlIEludm9pY2luZ1xDb21wb25lbnRzXE9mZmVyc0dyaWRcSU9mZmVyc0dyaWRGYWN0b3J5Owo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/administrator/user/g</text>
