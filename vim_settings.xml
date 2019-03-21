@@ -3339,7 +3339,7 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553179627972">
+      <file name="/Dummy.txt" timestamp="1553180877543">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -4575,10 +4575,10 @@
         <mark key="]" line="23" column="34" />
         <mark key="." line="23" column="34" />
       </file>
-      <file name="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/DI/ReplicatorExtension.php" timestamp="1553179585118">
-        <mark key="[" line="46" column="8" />
-        <mark key="]" line="46" column="8" />
-        <mark key="." line="46" column="8" />
+      <file name="/home/www/lib/vendor/hrncirr/doctrine-forms-replicator/src/DI/ReplicatorExtension.php" timestamp="1553180871934">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="/home/www/html/nnb/access-rights/app/config/components.neon" timestamp="1475656448522">
         <mark key="[" line="4" column="0" />
@@ -5530,10 +5530,8 @@
       <jump line="195" column="34" filename="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>if (class_exists(\Kdyby\Replicator\Container::class)) {
-            $methodName = 
-        }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBWYWxpZGF0b3JzOjphc3NlcnRGaWVsZCgkY29uZmlnLCAncHJlZml4JywgJ3N0cmluZycpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>Container</text>
@@ -5544,34 +5542,34 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBWYWxpZGF0b3JzOjphc3NlcnRGaWVsZCgkY29uZmlnLCAncHJlZml4JywgJ3N0cmluZycpOwo=</text>
+      </register>
+      <register name="2" type="4">
         <text>if (class_exists(\Kdyby\Replicator\Container::class)) {
             $methodName = 
         }</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CQkJJGNvbmZpZ1sncHJlZml4J10sCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAncHJlZml4JyA9PiAnZG9jdHJpbmUnCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQlPYmplY3RNaXhpbjo6Z2V0RXh0ZW5zaW9uTWV0aG9kcygpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkkbWV0aG9kTmFtZSA9ICRtZXRob2ROYW1lID8/ICdhZGREeW5hbWljJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CTxkaXYgY2xhc3M9ImNvbC1tZC0xMiIgbjpzbmlwcGV0PSJpbnRlcnZhbHMiPgo=</text>
+        <text encoding="base64">CQkkbWV0aG9kTmFtZSA9ICRtZXRob2ROYW1lID8/ICdhZGREeW5hbWljJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQl7aW5wdXQgaWR9Cg==</text>
+        <text encoding="base64">CTxkaXYgY2xhc3M9ImNvbC1tZC0xMiIgbjpzbmlwcGV0PSJpbnRlcnZhbHMiPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQl7aW5wdXQgaWR9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/administrator/user/g</text>
