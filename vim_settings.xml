@@ -457,8 +457,8 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/BankConnectionForm/BankConnectionForm.php" timestamp="1553003876027">
-        <mark key="[" line="48" column="44" />
+      <file name="/home/www/html/dv/adera/Modules/AddressBook/Components/BankConnectionForm/BankConnectionForm.php" timestamp="1553260569204">
+        <mark key="[" line="115" column="28" />
         <mark key="]" line="48" column="44" />
         <mark key="." line="48" column="44" />
       </file>
@@ -1927,10 +1927,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Service/Components/CheckpointTypeForm/CheckpointTypeForm.php" timestamp="1553259495771">
+      <file name="/home/www/html/dv/adera/Modules/Service/Components/CheckpointTypeForm/CheckpointTypeForm.php" timestamp="1553260365130">
         <mark key="[" line="130" column="16" />
-        <mark key="]" line="130" column="16" />
-        <mark key="." line="130" column="16" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
+        <mark key="^" line="129" column="22" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Helpers.php" timestamp="1476856994117">
         <mark key="[" line="20" column="0" />
@@ -5845,8 +5846,8 @@
       <jump line="99" column="70" filename="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/Controls/TextControl.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LT5zZXRPcHRpb24oSUNvbXBvbmVudE1hcHBlcjo6SVRFTVNfVElUTEUsIGZ1bmN0aW9uIChDaGVja3BvaW50VHlwZUludGVydmFsICRpbnRlcnZhbCkgewoJCQkJCXJldHVybiBzcHJpbnRmKCclczogJWQgLSAlZCcsCgkJCQkJCSRpbnRlcnZhbC0+Z2V0VGl0bGUoKSwgJGludGVydmFsLT5nZXRSYW5nZUZyb20oKSwgJGludGVydmFsLT5nZXRSYW5nZVRvKCkpOwoJCQkJfSk=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Container</text>
@@ -5857,36 +5858,36 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LT5zZXRPcHRpb24oSUNvbXBvbmVudE1hcHBlcjo6SVRFTVNfVElUTEUsIGZ1bmN0aW9uIChDaGVja3BvaW50VHlwZUludGVydmFsICRpbnRlcnZhbCkgewoJCQkJCXJldHVybiBzcHJpbnRmKCclczogJWQgLSAlZCcsCgkJCQkJCSRpbnRlcnZhbC0+Z2V0VGl0bGUoKSwgJGludGVydmFsLT5nZXRSYW5nZUZyb20oKSwgJGludGVydmFsLT5nZXRSYW5nZVRvKCkpOwoJCQkJfSk=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">J3N0b3JhZ2UnID0+ICRzdG9yYWdlLAoJCQkJCSdpdGVtJyA9PiAkc3RvcmFnZUl0ZW1zWyRzdG9yYWdlLT5nZXRJZCgpXSA/PyBudWxsCgkJCQldOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJZHVtcCgkaW50ZXJ2YWxzKTsK</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">LT5zZXRPcHRpb24oSUNvbXBvbmVudE1hcHBlcjo6SVRFTVNfVElUTEUsIGZ1bmN0aW9uIChDaGVja3BvaW50VHlwZUludGVydmFsICRpbnRlcnZhbCkgewoJCQkJCXJldHVybiBzcHJpbnRmKCclczogJWQgLSAlZCcsCgkJCQkJCSRpbnRlcnZhbC0+Z2V0VGl0bGUoKSwgJGludGVydmFsLT5nZXRSYW5nZUZyb20oKSwgJGludGVydmFsLT5nZXRSYW5nZVRvKCkpOwoJCQkJfSk=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">J3N0b3JhZ2UnID0+ICRzdG9yYWdlLAoJCQkJCSdpdGVtJyA9PiAkc3RvcmFnZUl0ZW1zWyRzdG9yYWdlLT5nZXRJZCgpXSA/PyBudWxsCgkJCQldOw==</text>
+      </register>
+      <register name="5" type="4">
         <text>, function () {
 			return new CheckpointTypeInterval();
 		}</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBWYWxpZGF0b3JzOjphc3NlcnRGaWVsZCgkY29uZmlnLCAncHJlZml4JywgJ3N0cmluZycpOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>if (class_exists(\Kdyby\Replicator\Container::class)) {
             $methodName = 
         }</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJJGNvbmZpZ1sncHJlZml4J10sCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAncHJlZml4JyA9PiAnZG9jdHJpbmUnCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlPYmplY3RNaXhpbjo6Z2V0RXh0ZW5zaW9uTWV0aG9kcygpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAncHJlZml4JyA9PiAnZG9jdHJpbmUnCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/administrator/user/g</text>
