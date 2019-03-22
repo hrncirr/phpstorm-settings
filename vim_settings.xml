@@ -1488,7 +1488,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1553164859146">
+      <file name="/home/www/html/nnb/dms/src/Documents/Components/DocumentForm/DocumentForm.php" timestamp="1553263668090">
         <mark key="'" line="195" column="34" />
       </file>
       <file name="/home/www/vendor/hrncirr/jstree/src/DI/DoctrineDataSource.php" timestamp="1479301570985">
@@ -1927,11 +1927,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Service/Components/CheckpointTypeForm/CheckpointTypeForm.php" timestamp="1553260365130">
-        <mark key="[" line="130" column="16" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
-        <mark key="^" line="129" column="22" />
+      <file name="/home/www/html/dv/adera/Modules/Service/Components/CheckpointTypeForm/CheckpointTypeForm.php" timestamp="1553263929845">
+        <mark key="[" line="151" column="53" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Helpers.php" timestamp="1476856994117">
         <mark key="[" line="20" column="0" />
@@ -4402,10 +4401,10 @@
         <mark key="]" line="30" column="4" />
         <mark key="." line="30" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Service/Components/CheckpointTypeForm/CheckpointTypeForm.latte" timestamp="1553182133688">
-        <mark key="[" line="27" column="20" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Service/Components/CheckpointTypeForm/CheckpointTypeForm.latte" timestamp="1553263390459">
+        <mark key="[" line="28" column="36" />
+        <mark key="]" line="28" column="36" />
+        <mark key="." line="28" column="36" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/OfferForm/OfferForm.php" timestamp="1550841303943">
         <mark key="[" line="29" column="30" />
@@ -5847,10 +5846,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkkZnV0dXJlUmVsYXRlZERvY3VtZW50cyA9ICR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShGdXR1cmVSZWxhdGVkRG9jdW1lbnQ6OmNsYXNzKS0+ZmluZEFsbCgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Container</text>
+        <text encoding="base64">aXNzZXQoJGZvcm1bJ2Z1dHVyZVJlbGF0ZWREb2N1bWVudHMnXSkgJiYg</text>
       </register>
       <register name="/" type="4">
         <text>nameKey</text>
@@ -5859,35 +5858,31 @@
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkkZnV0dXJlUmVsYXRlZERvY3VtZW50cyA9ICR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShGdXR1cmVSZWxhdGVkRG9jdW1lbnQ6OmNsYXNzKS0+ZmluZEFsbCgpOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJZHVtcCgkaW50ZXJ2YWxzKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">aWYgKCEkZnV0dXJlUmVsYXRlZERvY3VtZW50LT5pc0V4aXN0c0RvY3VtZW50SWQoJHRoaXMtPmRvY3VtZW50LT5nZXRJZCgpKSkgewoJCQkJCQkJY29udGludWU7CgkJCQkJCX0=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">LT5zZXRPcHRpb24oSUNvbXBvbmVudE1hcHBlcjo6SVRFTVNfVElUTEUsIGZ1bmN0aW9uIChDaGVja3BvaW50VHlwZUludGVydmFsICRpbnRlcnZhbCkgewoJCQkJCXJldHVybiBzcHJpbnRmKCclczogJWQgLSAlZCcsCgkJCQkJCSRpbnRlcnZhbC0+Z2V0VGl0bGUoKSwgJGludGVydmFsLT5nZXRSYW5nZUZyb20oKSwgJGludGVydmFsLT5nZXRSYW5nZVRvKCkpOwoJCQkJfSk=</text>
+        <text encoding="base64">Zm9yZWFjaCAoJGZvcm1bJ2Z1dHVyZVJlbGF0ZWREb2N1bWVudHMnXS0+Z2V0Q29udGFpbmVycygpIGFzICRmdXR1cmVSZWxhdGVkRG9jdW1lbnRDb250YWluZXIpIHsKCQkJCQlpZiAoIWVtcHR5KCRmdXR1cmVSZWxhdGVkRG9jdW1lbnRDb250YWluZXJbJ2lkJ10tPmdldFZhbHVlKCkpKSB7CgkJCQkJCSRmdXR1cmVSZWxhdGVkRG9jdW1lbnRDb250YWluZXJbJ251bWJlciddLT5zZXRBdHRyaWJ1dGUoJ3JlYWRvbmx5Jyk7CgkJCQkJfQoJCQkJfQ==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">J3N0b3JhZ2UnID0+ICRzdG9yYWdlLAoJCQkJCSdpdGVtJyA9PiAkc3RvcmFnZUl0ZW1zWyRzdG9yYWdlLT5nZXRJZCgpXSA/PyBudWxsCgkJCQldOw==</text>
+        <text encoding="base64">aWYgKCR0aGlzLT5mb2xkZXIgPT09IG51bGwpIHsKCQkJCXJldHVybjsKCQkJfQoKCQkJaWYgKCEkZm9ybS0+aXNTdWJtaXR0ZWQoKSAmJiAkdGhpcy0+ZG9jdW1lbnQtPmdldE51bWJlcigpICE9PSBudWxsKSB7CgkJCQkkZm9ybVsnbnVtYmVyJ10tPnNldFZhbHVlKChpbnQpIGV4cGxvZGUoJ18nLCAkdGhpcy0+ZG9jdW1lbnQtPmdldE51bWJlcigpKVszXSk7CgkJCX0KCgkJCWZvcmVhY2ggKGFycmF5X2tleXMoRmlsZUNvbnZlcnNpb246OkNPTlZFUlNJT05fU1dJVENIRVMpIGFzICR0eXBlKSB7CgkJCQlpZiAoKCR2YWwgPSAkdGhpcy0+ZG9jdW1lbnQtPmdldERvY3VtZW50Rm9sZGVyKCR0aGlzLT5mb2xkZXIpKSA9PT0gbnVsbCkgewoJCQkJCSRmb3JtWydjb252ZXJzaW9uU3dpdGNoZXMnXVskdHlwZV0tPnNldERlZmF1bHRWYWx1ZSgxKTsKCQkJCQljb250aW51ZTsKCQkJCX0KCgkJCQkkdmFsID0gJHZhbC0+eydpcycgLiB1Y2ZpcnN0KCR0eXBlKX0oKTsKCQkJCSRzZWxlY3RlZCA9IGFycmF5X2tleXMoYXJyYXlfZmlsdGVyKCR0aGlzLT5jb252ZXJzaW9uU3RhdGVzTWFwLCBmdW5jdGlvbiAoJHByb3ApIHVzZSAoJHZhbCkgewoJCQkJCXJldHVybiAkcHJvcFsndmFsdWUnXSA9PT0gJHZhbDsKCQkJCX0pKVswXTsKCgkJCQkkZm9ybVsnY29udmVyc2lvblN3aXRjaGVzJ11bJHR5cGVdLT5zZXREZWZhdWx0VmFsdWUoJHNlbGVjdGVkKTsKCQkJfQoKCQkJaWYgKCEkZm9ybS0+aXNTdWJtaXR0ZWQoKSAmJiBpc3NldCgkZm9ybVsnZG9jdW1lbnRUb3BpYyddKSAmJgoJCQkJJHRoaXMtPmRvY3VtZW50LT5nZXREb2N1bWVudFRvcGljKCktPmdldFByb2Nlc3NUeXBlKCkgPT09IG51bGwpIHsKCQkJCSRmb3JtWydkb2N1bWVudFRvcGljLXByb2Nlc3NUeXBlJ10tPnNldFZhbHVlKCR0aGlzLT5mb2xkZXItPmdldERvY3VtZW50UHJvY2Vzc1R5cGUoKS0+Z2V0SWQoKSk7CgoJCQkJaWYgKCR0aGlzLT5mb2xkZXItPmdldERvY3VtZW50VHlwZSgpICE9PSBudWxsKSB7CgkJCQkJJGZvcm1bJ2RvY3VtZW50VG9waWMtc2NvcGVPZlZhbGlkaXR5J10tPnNldFZhbHVlKFNjb3BlT2ZWYWxpZGl0eTo6R0xPQkFMKTsKCQkJCQkkZm9ybVsnZG9jdW1lbnRUb3BpYy10eXBlJ10tPnNldFZhbHVlKCR0aGlzLT5mb2xkZXItPmdldERvY3VtZW50VHlwZSgpLT5nZXRJZCgpKTsKCQkJCX0KCQkJfQ==</text>
       </register>
-      <register name="5" type="4">
-        <text>, function () {
-			return new CheckpointTypeInterval();
-		}</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBWYWxpZGF0b3JzOjphc3NlcnRGaWVsZCgkY29uZmlnLCAncHJlZml4JywgJ3N0cmluZycpOwo=</text>
+        <text encoding="base64">CQkJZHVtcCgkaW50ZXJ2YWxzKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>if (class_exists(\Kdyby\Replicator\Container::class)) {
-            $methodName = 
-        }</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJJGNvbmZpZ1sncHJlZml4J10sCg==</text>
+        <text encoding="base64">CQkJZHVtcCgkaW50ZXJ2YWxzKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAncHJlZml4JyA9PiAnZG9jdHJpbmUnCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">LT5zZXRPcHRpb24oSUNvbXBvbmVudE1hcHBlcjo6SVRFTVNfVElUTEUsIGZ1bmN0aW9uIChDaGVja3BvaW50VHlwZUludGVydmFsICRpbnRlcnZhbCkgewoJCQkJCXJldHVybiBzcHJpbnRmKCclczogJWQgLSAlZCcsCgkJCQkJCSRpbnRlcnZhbC0+Z2V0VGl0bGUoKSwgJGludGVydmFsLT5nZXRSYW5nZUZyb20oKSwgJGludGVydmFsLT5nZXRSYW5nZVRvKCkpOwoJCQkJfSk=</text>
       </register>
       <register name=":" type="4">
         <text>%s/administrator/user/g</text>
