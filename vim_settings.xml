@@ -136,7 +136,7 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="/home/www/html/nnb/dms/src/Groups/Components/GroupsPermissionsForm/GroupsPermissionsForm.php" timestamp="1551099670642">
+      <file name="/home/www/html/nnb/dms/src/Groups/Components/GroupsPermissionsForm/GroupsPermissionsForm.php" timestamp="1553508224156">
         <mark key="[" line="235" column="12" />
         <mark key="]" line="235" column="12" />
         <mark key="." line="235" column="12" />
@@ -1927,10 +1927,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Service/Components/CheckpointTypeForm/CheckpointTypeForm.php" timestamp="1553263929845">
-        <mark key="[" line="150" column="53" />
-        <mark key="]" line="150" column="0" />
-        <mark key="." line="150" column="0" />
+      <file name="/home/www/html/dv/adera/Modules/Service/Components/CheckpointTypeForm/CheckpointTypeForm.php" timestamp="1553508642768">
+        <mark key="[" line="85" column="24" />
+        <mark key="]" line="85" column="24" />
+        <mark key="." line="85" column="24" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Helpers.php" timestamp="1476856994117">
         <mark key="[" line="20" column="0" />
@@ -5330,7 +5330,6 @@
         <mark key="]" line="2" column="15" />
         <mark key="." line="2" column="15" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Storage/Components/CatalogItemForm/CatalogItemForm.php" timestamp="1553259186033" />
       <file name="/home/www/html/nnb/dms/src/Documents/Components/TopicSelectorForm/TopicSelectorForm.latte" timestamp="1549539837268">
         <mark key="[" line="16" column="8" />
         <mark key="]" line="16" column="8" />
@@ -5845,11 +5844,11 @@
       <jump line="99" column="70" filename="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/Controls/TextControl.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkkZnV0dXJlUmVsYXRlZERvY3VtZW50cyA9ICR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShGdXR1cmVSZWxhdGVkRG9jdW1lbnQ6OmNsYXNzKS0+ZmluZEFsbCgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>$value['permissions']</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aXNzZXQoJGZvcm1bJ2Z1dHVyZVJlbGF0ZWREb2N1bWVudHMnXSkgJiYg</text>
+        <text>$value['permissions']</text>
       </register>
       <register name="/" type="4">
         <text>nameKey</text>
