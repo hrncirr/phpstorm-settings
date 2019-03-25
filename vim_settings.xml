@@ -1927,11 +1927,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Service/Components/CheckpointTypeForm/CheckpointTypeForm.php" timestamp="1553512235941">
-        <mark key="[" line="85" column="52" />
-        <mark key="]" line="85" column="52" />
-        <mark key="." line="85" column="52" />
-        <mark key="^" line="85" column="12" />
+      <file name="/home/www/html/dv/adera/Modules/Service/Components/CheckpointTypeForm/CheckpointTypeForm.php" timestamp="1553515141802">
+        <mark key="[" line="78" column="34" />
+        <mark key="]" line="96" column="52" />
+        <mark key="." line="96" column="52" />
+        <mark key="^" line="96" column="12" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Helpers.php" timestamp="1476856994117">
         <mark key="[" line="20" column="0" />
@@ -2744,10 +2744,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Service/CheckpointType.php" timestamp="1553511035452">
-        <mark key="[" line="34" column="16" />
-        <mark key="]" line="35" column="6" />
-        <mark key="." line="35" column="6" />
+      <file name="/home/www/html/dv/adera/Modules/Service/CheckpointType.php" timestamp="1553514958913">
+        <mark key="[" line="30" column="60" />
+        <mark key="]" line="30" column="60" />
+        <mark key="." line="30" column="60" />
         <mark key="^" line="35" column="6" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/presenters/BasePresenter.php" timestamp="1487243702987">
@@ -5847,12 +5847,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, function ($val) {
-				return !empty($val);
-			}</text>
+        <text>, indexBy=&quot;checkpoint_type_id&quot;</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>, indexBy=&quot;checkpoint_type_id&quot;</text>
       </register>
       <register name="/" type="4">
         <text>nameKey</text>
