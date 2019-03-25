@@ -1927,10 +1927,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Service/Components/CheckpointTypeForm/CheckpointTypeForm.php" timestamp="1553508642768">
-        <mark key="[" line="89" column="24" />
-        <mark key="]" line="89" column="24" />
-        <mark key="." line="89" column="24" />
+      <file name="/home/www/html/dv/adera/Modules/Service/Components/CheckpointTypeForm/CheckpointTypeForm.php" timestamp="1553512235941">
+        <mark key="[" line="85" column="52" />
+        <mark key="]" line="85" column="52" />
+        <mark key="." line="85" column="52" />
+        <mark key="^" line="85" column="12" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Helpers.php" timestamp="1476856994117">
         <mark key="[" line="20" column="0" />
@@ -2636,7 +2637,7 @@
         <mark key="]" line="118" column="37" />
         <mark key="." line="118" column="37" />
       </file>
-      <file name="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/Controls/TextControl.php" timestamp="1553258168697">
+      <file name="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/Controls/TextControl.php" timestamp="1553510543891">
         <mark key="'" line="99" column="70" />
         <mark key="[" line="77" column="8" />
         <mark key="]" line="355" column="0" />
@@ -2743,10 +2744,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Service/CheckpointType.php" timestamp="1553165665770">
-        <mark key="[" line="33" column="7" />
-        <mark key="]" line="30" column="60" />
-        <mark key="." line="30" column="60" />
+      <file name="/home/www/html/dv/adera/Modules/Service/CheckpointType.php" timestamp="1553511035452">
+        <mark key="[" line="34" column="16" />
+        <mark key="]" line="35" column="6" />
+        <mark key="." line="35" column="6" />
+        <mark key="^" line="35" column="6" />
       </file>
       <file name="/home/www/html/nnb/passportization/app/presenters/BasePresenter.php" timestamp="1487243702987">
         <mark key="[" line="36" column="23" />
@@ -4401,10 +4403,10 @@
         <mark key="]" line="30" column="4" />
         <mark key="." line="30" column="4" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Service/Components/CheckpointTypeForm/CheckpointTypeForm.latte" timestamp="1553263390459">
-        <mark key="[" line="28" column="36" />
-        <mark key="]" line="28" column="36" />
-        <mark key="." line="28" column="36" />
+      <file name="/home/www/html/dv/adera/Modules/Service/Components/CheckpointTypeForm/CheckpointTypeForm.latte" timestamp="1553512159932">
+        <mark key="[" line="27" column="35" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="/home/www/html/dv/adera/Modules/Invoicing/Components/OfferForm/OfferForm.php" timestamp="1550841303943">
         <mark key="[" line="29" column="30" />
@@ -5845,10 +5847,12 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$value['permissions']</text>
+        <text>, function ($val) {
+				return !empty($val);
+			}</text>
       </register>
       <register name="-" type="4">
-        <text>$value['permissions']</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>nameKey</text>
@@ -5856,32 +5860,36 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCQkkZnV0dXJlUmVsYXRlZERvY3VtZW50cyA9ICR0aGlzLT5lbS0+Z2V0UmVwb3NpdG9yeShGdXR1cmVSZWxhdGVkRG9jdW1lbnQ6OmNsYXNzKS0+ZmluZEFsbCgpOwo=</text>
+      <register name="1" type="4">
+        <text>, function ($val) {
+				return !empty($val);
+			}</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">aWYgKCEkZnV0dXJlUmVsYXRlZERvY3VtZW50LT5pc0V4aXN0c0RvY3VtZW50SWQoJHRoaXMtPmRvY3VtZW50LT5nZXRJZCgpKSkgewoJCQkJCQkJY29udGludWU7CgkJCQkJCX0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCQl7aW5wdXQgaWR9Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Zm9yZWFjaCAoJGZvcm1bJ2Z1dHVyZVJlbGF0ZWREb2N1bWVudHMnXS0+Z2V0Q29udGFpbmVycygpIGFzICRmdXR1cmVSZWxhdGVkRG9jdW1lbnRDb250YWluZXIpIHsKCQkJCQlpZiAoIWVtcHR5KCRmdXR1cmVSZWxhdGVkRG9jdW1lbnRDb250YWluZXJbJ2lkJ10tPmdldFZhbHVlKCkpKSB7CgkJCQkJCSRmdXR1cmVSZWxhdGVkRG9jdW1lbnRDb250YWluZXJbJ251bWJlciddLT5zZXRBdHRyaWJ1dGUoJ3JlYWRvbmx5Jyk7CgkJCQkJfQoJCQkJfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">aWYgKCR0aGlzLT5mb2xkZXIgPT09IG51bGwpIHsKCQkJCXJldHVybjsKCQkJfQoKCQkJaWYgKCEkZm9ybS0+aXNTdWJtaXR0ZWQoKSAmJiAkdGhpcy0+ZG9jdW1lbnQtPmdldE51bWJlcigpICE9PSBudWxsKSB7CgkJCQkkZm9ybVsnbnVtYmVyJ10tPnNldFZhbHVlKChpbnQpIGV4cGxvZGUoJ18nLCAkdGhpcy0+ZG9jdW1lbnQtPmdldE51bWJlcigpKVszXSk7CgkJCX0KCgkJCWZvcmVhY2ggKGFycmF5X2tleXMoRmlsZUNvbnZlcnNpb246OkNPTlZFUlNJT05fU1dJVENIRVMpIGFzICR0eXBlKSB7CgkJCQlpZiAoKCR2YWwgPSAkdGhpcy0+ZG9jdW1lbnQtPmdldERvY3VtZW50Rm9sZGVyKCR0aGlzLT5mb2xkZXIpKSA9PT0gbnVsbCkgewoJCQkJCSRmb3JtWydjb252ZXJzaW9uU3dpdGNoZXMnXVskdHlwZV0tPnNldERlZmF1bHRWYWx1ZSgxKTsKCQkJCQljb250aW51ZTsKCQkJCX0KCgkJCQkkdmFsID0gJHZhbC0+eydpcycgLiB1Y2ZpcnN0KCR0eXBlKX0oKTsKCQkJCSRzZWxlY3RlZCA9IGFycmF5X2tleXMoYXJyYXlfZmlsdGVyKCR0aGlzLT5jb252ZXJzaW9uU3RhdGVzTWFwLCBmdW5jdGlvbiAoJHByb3ApIHVzZSAoJHZhbCkgewoJCQkJCXJldHVybiAkcHJvcFsndmFsdWUnXSA9PT0gJHZhbDsKCQkJCX0pKVswXTsKCgkJCQkkZm9ybVsnY29udmVyc2lvblN3aXRjaGVzJ11bJHR5cGVdLT5zZXREZWZhdWx0VmFsdWUoJHNlbGVjdGVkKTsKCQkJfQoKCQkJaWYgKCEkZm9ybS0+aXNTdWJtaXR0ZWQoKSAmJiBpc3NldCgkZm9ybVsnZG9jdW1lbnRUb3BpYyddKSAmJgoJCQkJJHRoaXMtPmRvY3VtZW50LT5nZXREb2N1bWVudFRvcGljKCktPmdldFByb2Nlc3NUeXBlKCkgPT09IG51bGwpIHsKCQkJCSRmb3JtWydkb2N1bWVudFRvcGljLXByb2Nlc3NUeXBlJ10tPnNldFZhbHVlKCR0aGlzLT5mb2xkZXItPmdldERvY3VtZW50UHJvY2Vzc1R5cGUoKS0+Z2V0SWQoKSk7CgoJCQkJaWYgKCR0aGlzLT5mb2xkZXItPmdldERvY3VtZW50VHlwZSgpICE9PSBudWxsKSB7CgkJCQkJJGZvcm1bJ2RvY3VtZW50VG9waWMtc2NvcGVPZlZhbGlkaXR5J10tPnNldFZhbHVlKFNjb3BlT2ZWYWxpZGl0eTo6R0xPQkFMKTsKCQkJCQkkZm9ybVsnZG9jdW1lbnRUb3BpYy10eXBlJ10tPnNldFZhbHVlKCR0aGlzLT5mb2xkZXItPmdldERvY3VtZW50VHlwZSgpLT5nZXRJZCgpKTsKCQkJCX0KCQkJfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJJGl0ZW0tPmFkZEhpZGRlbignaWQnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJJGludGVydmFsQ29udGFpbmVyWydpZCddLT5zZXREZWZhdWx0VmFsdWUoJGlkKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJZHVtcCgkaW50ZXJ2YWxzKTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">LyoKCQkJJGludGVydmFsSWRzID0gYXJyYXlfbWFwKGZ1bmN0aW9uICgkdmFsKSB7CgkJCQlyZXR1cm4gJHZhbFsnaW50ZXJ2YWwnXTsKCQkJfSwgJGZvcm1bJ2ludGVydmFscyddLT5nZXRWYWx1ZXModHJ1ZSkpOwoKCQkJaWYgKGNvdW50KCRpbnRlcnZhbElkcykgIT09IGNvdW50KGFycmF5X3VuaXF1ZSgkaW50ZXJ2YWxJZHMpKSkgewoJCQkJJGZvcm1bJyddCgkJCX0KCQkJKi8=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZXhpdDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJZHVtcCgkaW50ZXJ2YWxzKTsK</text>
+        <text encoding="base64">CQkJZXhpdDsK</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">LT5zZXRPcHRpb24oSUNvbXBvbmVudE1hcHBlcjo6SVRFTVNfVElUTEUsIGZ1bmN0aW9uIChDaGVja3BvaW50VHlwZUludGVydmFsICRpbnRlcnZhbCkgewoJCQkJCXJldHVybiBzcHJpbnRmKCclczogJWQgLSAlZCcsCgkJCQkJCSRpbnRlcnZhbC0+Z2V0VGl0bGUoKSwgJGludGVydmFsLT5nZXRSYW5nZUZyb20oKSwgJGludGVydmFsLT5nZXRSYW5nZVRvKCkpOwoJCQkJfSk=</text>
+        <text>foreach ($values['intervals'] as $interval) {
+				
+			}</text>
       </register>
       <register name=":" type="4">
         <text>%s/administrator/user/g</text>
