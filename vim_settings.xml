@@ -1927,11 +1927,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/home/www/html/dv/adera/Modules/Service/Components/CheckpointTypeForm/CheckpointTypeForm.php" timestamp="1553515141802">
-        <mark key="[" line="78" column="34" />
-        <mark key="]" line="96" column="52" />
-        <mark key="." line="96" column="52" />
-        <mark key="^" line="96" column="12" />
+      <file name="/home/www/html/dv/adera/Modules/Service/Components/CheckpointTypeForm/CheckpointTypeForm.php" timestamp="1553518628249">
+        <mark key="[" line="78" column="18" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="/home/www/vendor/hrncirr/elfinder/src/Helpers.php" timestamp="1476856994117">
         <mark key="[" line="20" column="0" />
@@ -2637,7 +2636,7 @@
         <mark key="]" line="118" column="37" />
         <mark key="." line="118" column="37" />
       </file>
-      <file name="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/Controls/TextControl.php" timestamp="1553510543891">
+      <file name="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/Controls/TextControl.php" timestamp="1553517397832">
         <mark key="'" line="99" column="70" />
         <mark key="[" line="77" column="8" />
         <mark key="]" line="355" column="0" />
@@ -5846,11 +5845,11 @@
       <jump line="99" column="70" filename="/home/www/vendor/kdyby/doctrine-forms/src/Kdyby/DoctrineForms/Controls/TextControl.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, indexBy=&quot;checkpoint_type_id&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJJGN1cnJlbnRJbnRlcnZhbHMgPSAkY2hlY2twb2ludFR5cGUtPmdldEludGVydmFscygpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>, indexBy=&quot;checkpoint_type_id&quot;</text>
+        <text encoding="base64">LCAkY3VycmVudEludGVydmFscy0+dG9BcnJheSgp</text>
       </register>
       <register name="/" type="4">
         <text>nameKey</text>
@@ -5858,36 +5857,34 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRlbXBsYXRlLT5wYXRoID0gJHBhdGg7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>, function ($val) {
-				return !empty($val);
-			}</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJJGN1cnJlbnRJbnRlcnZhbHMgPSAkY2hlY2twb2ludFR5cGUtPmdldEludGVydmFscygpOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCQl7aW5wdXQgaWR9Cg==</text>
+      <register name="2" type="4">
+        <text>dump($currentIntervals);
+
+			exit;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCSR0b0FkZCA9ICRyZXBvc2l0b3J5LT5maW5kQnkoWydpZCcgPT4gJHRvQWRkXSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJJGl0ZW0tPmFkZEhpZGRlbignaWQnKTsK</text>
+        <text encoding="base64">CQkJJHRvQWRkID0gYXJyYXlfZGlmZigkbmV3SW50ZXJ2YWxJZHMsICRjdXJyZW50SW50ZXJ2YWxJZHMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJJGludGVydmFsQ29udGFpbmVyWydpZCddLT5zZXREZWZhdWx0VmFsdWUoJGlkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">LyoKCQkJJGludGVydmFsSWRzID0gYXJyYXlfbWFwKGZ1bmN0aW9uICgkdmFsKSB7CgkJCQlyZXR1cm4gJHZhbFsnaW50ZXJ2YWwnXTsKCQkJfSwgJGZvcm1bJ2ludGVydmFscyddLT5nZXRWYWx1ZXModHJ1ZSkpOwoKCQkJaWYgKGNvdW50KCRpbnRlcnZhbElkcykgIT09IGNvdW50KGFycmF5X3VuaXF1ZSgkaW50ZXJ2YWxJZHMpKSkgewoJCQkJJGZvcm1bJyddCgkJCX0KCQkJKi8=</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJJGNoZWNrcG9pbnRUeXBlID0gJGZvcm0tPmdldEVudGl0eSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJZXhpdDsK</text>
+        <text encoding="base64">CQkJLyoqIEB2YXIgQ2hlY2twb2ludFR5cGUgJGNoZWNrcG9pbnRUeXBlICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJZXhpdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>foreach ($values['intervals'] as $interval) {
-				
-			}</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJZXhpdDsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/administrator/user/g</text>
